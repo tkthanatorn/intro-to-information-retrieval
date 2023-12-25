@@ -1,0 +1,607 @@
+
+March 1996 / State Of The Art / Make Multimedia Happen
+
+Make Multimedia Happen
+
+From storyboard to development tools to network delivery, here's what you should know about multimedia development 
+
+Salvatore Salamone, News Editor
+
+Multimedia, long a star of the entertainment industry, is now auditioning as a supporting actor in the corporate world.
+Many companies see it as a way to increase revenues by delivering stronger messages about goods and services.
+Or they look to it to cut their training costs with interactive computer-based training programs.
+
+The process of developing a multimedia application falls into five basic stages.
+The first is program design: The team discusses exactly what the application is going to do and what the user interface will look like.
+The second is storyboarding, in which you create a blueprint of the application.
+Third comes script development, in which writers create the words that a narrator will speak or that will appear on the screen.
+Fourth is production, when artists, directors, and actors take the storyboard and fill in its blanks, creating backgrounds and scenes.
+Finally comes authoring, when programmers put everything together.
+
+Robert A. DelRossi explores the subject of multimedia authoring in "Learn the Lingo." In Salvatore Salamone's "What's the Story?," we look at the second stage, storyboarding, and some of the methods and tools you can use to ensure things run smoothly.
+In "Multimedia over the Network," Nathan J. Muller examines what it takes to run multimedia applications over existing networks and what networks you should be thinking about for your multimedia future.
+
+Is It Worth It?
+
+If you see multimedia development as a cost center, you may be right.
+The major issue isn't usually programmers; rather, it's the cost of licensing different forms of media to incorporate into presentations.
+
+Companies seeking to add music and video clips to a multimedia presentation find that print, music, and film industries have vastly different ideas about selling the rights to their property.
+For example, there's no going price for a 1970s Top 10 song.
+The most common solution is extensive negotiation.
+
+If you don't want to spend the time or effort in such negotiations, there's a solution: licensing-rights clearinghouses.
+One of the first firms to offer licensing services specifically for multimedia material is Total Clearance (Mill Valley, CA), a company with expertise garnered from the entertainment industry.
+
+With the right contacts and experience, you might even be able to leverage your well-developed multimedia group into a profit center.
+That's what happened to the World Tutor Group (WTG), the multimedia training division of the AMR Training Group, itself a part of AMR, which operates American Airlines and the Sabre airline-reservation system.
+About six years ago, WTG turned to computer-based training and has since spun its talents into a service organization used by outside clients.
+nbsp; Copyright © 1994-1996 
+
+March 1996 / State Of The Art / What's The Story?
+
+What's The Story?
+
+Storyboarding speeds development by organizing everything from concept to finished product
+
+Salvatore Salamone
+
+Every multimedia project is like a miniature United Nations summit.
+You have artists, actors, writers, directors, producers, and programmers.
+They all speak their own languages and have their own priorities.
+And somehow you need to get them all working together.
+
+Take a hint from the motion picture industry: use a storyboard.
+Artists sketch every scene of a movie, and the director, costume designers, set designers, and cinematographer use the storyboards to set camera angles, figure out what costumes they need, design scenery, and make decisions about sound and lighting.
+
+But there's a difference between a multimedia application and a movie: linearity.
+Movies are linear--one scene flows into another, the same way, every time you play the movie.
+Multimedia apps are often nonlinear--users may choose the path they take through the application.
+You could storyboard with pencil and paper, but charting multiple paths through an application will probably result in paper glut.
+
+Multimedia developers use basically three types of tools to overcome paper's limitations: flow-charting and presentation software, simple storyboarding software, and tools that combine storyboarding with CASE-like functions.
+
+Flowcharts and Presentations
+
+The very simplest solution is a flowcharting tool (such as the one in CorelDraw).
+A flowchart enables you to lay out processes, decisions, and endpoints.
+The main problem is that there's no link between the flowchart and the content you're putting together.
+The flowchart can represent what's going to happen, but not how it's going to look.
+Therefore, it's most useful for the project manager and the programmer who are trying to keep track of what the application is supposed to do when.
+By itself, a flowchart doesn't give an artist any sense of what graphics to create, nor does it give the writers or actors any sense of what to do.
+
+You can solve some of these deficiencies with multimedia presentation tools, which enable you to not only organize the flow of the application but to start creating the application's look and feel.
+For example, Adobe Persuasion lets you create relationships between multimedia objects by assigning them to different layers of a single presentation slide.
+With Persuasion, you bring text files, graphical elements (e.g., TIFFs or BMPs), audio tracks (e.g., MIDI files or WAV files), and animation clips (e.g., MPEG or AVI files) together in a single slide.
+The slide consists of views overlaid on each other.
+When you run the presentation, Persuasion fires up the various media players--a QuickTime viewer or a MIDI synthesizer, for instance--to play all these elements simultaneously.
+
+Once you have thumbnails of what the main screens in your application are to look like, you can organize the content.
+You can even run a simple demo of the application.
+But there are two basic issues with this approach.
+First, presentation tools are usually best at presenting , not storyboarding.
+Consequently, they use templates and rules that work wonderfully for a presenter who drives the content, perhaps with occasional branches.
+A storyboard you create in a presentation tool will probably look more like a presentation than a storyboard.
+Second, you have little control over the individual elements in a presentation.
+For example, you typically cannot adjust the volume of an audio clip from within the presentation application.
+You'll have to adjust these functions in the individual players or content-building programs themselves.
+
+Storyboard Software
+
+You can use flowcharts and presentation tools to develop your storyboard, but they aren't specifically designed for that.
+You should consider some of the new programs that vendors have developed specifically for multimedia storyboarding.
+
+"All the storyboarding tools came out of linear thinking," says Paul Clatworthy, a partner at PowerProduction Software.
+"We developed StoryBoard Artist to handle a nonlinear format." StoryBoard Artist for the Mac uses clip art and stock characters that you place into a storyboard frame, then manipulate, for example, by rotating them to represent a certain camera angle.
+You set the flow of the application by linking each frame to its destination frames.
+"We designed a tool for directors who can't draw," quips Clatworthy.
+
+StoryBoard Artist's stock-item construction methods are unique, but the idea of combining and flowing images together isn't.
+Programs such as Media Commander for Windows, HiJaak 95, and Image'N'Bits let you create thumbnails of each element and assign an appropriate label to each thumbnail.
+
+These tools make it easier to track the different data types that go into a multimedia application.
+Additionally, they allow you to create storyboard frames by dragging and dropping the thumbnail into a frame.
+Such tools typically use OLE and let you create OLE links from the presentation program to the data associated with the thumbnails.
+In that way, you might link a button on the screen with the playing of a video stream.
+
+Tools for Authors
+
+More sophisticated tools blur the line between storyboarding and development.
+Storyboarding with such programs often results directly in an application.
+These products are also authoring tools and typically rely on an icon-based design language or a scripting language.
+For example, PowerProduction's Digital BoxOffice is a storyboard-to-code tool--CASE for producers and artists.
+BoxOffice enables you to create a storyboard, then use menus to make English-syntax scripts to link frames.
+When you're done storyboarding, you have a multimedia application.
+
+Allen Communication's Quest for Windows also has strong tools for developing individual frames and associating frames.
+For example, you can toggle between a view showing the relationship between frames and a view showing all the elements of a particular frame.
+Quest is particularly good for developing computer-based training (CBT) applications, especially when you couple it with the company's Designer's Edge program.
+This $2995 package includes a comprehensive checklist that helps you analyze your project's needs, identify your audience, develop an overview, assemble your instructional elements, and put together your storyboard.
+Designer's Edge borders on CASE: As you work through the checklist, the program creates your app's structure--all you need to do is add the content.
+
+Other high-end authoring-and-more programs include Avid's editing tools within its Real Impact program and AimTech's CBT Express for Windows.
+One of Real Impact's key features is Dial-a-Quality, which changes the quality of images by balancing your distribution medium and system performance.
+It comes with a media library.
+CBT Express is frame-based and template-driven, and it enables you to create training applications quickly by using prefab backgrounds, buttons, and templates for just about every common CBT task (e.g., glossaries and tests).
+CBT Express has a big sibling called IconAuthor, which offers transition effects, sample applications, and database integration.
+
+Database integration may seem an odd feature to add, but using a database as a central information repository can really ease development, especially when working on large projects.
+MicroMentor, a company that develops instructional multimedia applications, uses tools like the ones we've discussed but sometimes takes a different approach.
+Rather than pulling the multimedia pieces together in the application, developers, writers, and artists put them in a database, then write a Visual Basic application that pulls the files from the database.
+
+During design, you use the database's forms to enter descriptions of the kinds of information you're going to need as well as how it's linked together.
+Then you can just generate reports for the different members of the project--for example, artists get a list of the graphics they need to produce.
+The team members go off and generate the content they need, and that, too, goes into the database.
+Then the programmer has to write a program to put it all together.
+
+There are several reasons for creating an application this way.
+First, the database can generate reports tailored to each team member.
+Second, more programmers know Visual Basic than know scripting languages.
+Third, if you are creating a series of similar products, you can build one database and easily update the application to pull out slightly different material.
+
+Looking for a Match
+
+You can still do storyboarding with pencil and paper, but a computer-based tool will make the job much easier .
+If you simply need a way to quickly pull together different multimedia elements, a lower-end storyboarding tool might be all you need.
+
+If you have to keep track of many data files, a tool that provides thumbnails and a way to archive the elements would be a good bet.
+If you're working on an interactive training presentation that requires handling lots of conditional branches and juggling many forms of multimedia data, a storyboarding tool that integrates tightly with the authoring software is essential.
+
+WHERE TO FIND
+
+Persuasion Adobe Systems 1585 Charleston Rd. Mountain View, CA 94039 Phone: (800) 833-6687 or (415) 961-4400 CBT Express, IconAuthor AimTech Corp. 20 Trafalgar Sq., Suite 300 Nashua, NH 03063 Phone: (800) 289-2884 or (603) 883-0220 Internet: http://www.aimtech.com 
+Designer's Edge, Quest Allen Communication 5225 Wiley Post Way Lakeside Plaza II, Suite 140 Salt Lake City, UT 84116 Phone: (800) 325-7850 or (801) 537-7800 Internet: http://www.allencomm.com 
+Real Impact Avid Technology Metropolitan Technology Park One Park West Tewksbury, MA 01876 Phone: (800) 949-AVID or (508) 640-6789 Digital BoxOffice PowerProduction Software 1233 Hermosa Ave., Suite 302 Hermosa Beach, CA 90254 Phone: (310) 937-4411
+
+The Hierarchy of Storyboarding Tools 
+
+TYPE OF FUNCTION OF APPLICATION THIS STORYBOARDING TOOL ADVANTAGES DISADVANTAGES TOOL IS GOOD FOR Associates different Easy to use Limited control Simple multimedia multimedia elements over elements presentations in one frame Creates thumbnails and Visual depiction A particular Simple and inter- helps organize of various tool may support active multimedia different multimedia elements only a limited presentations; data types set of data types some simple inter- or formats active training programs Integrates with other Full control of Often requires Interactive tools including editing content high skill level training programs and authoring programs to use
+
+Storyboarding Takes Time 
+
+illustration_link (10 Kbytes) 
+
+Two Views Are Better than One 
+
+screen_link (101 Kbytes) 
+
+Allen Communication's Quest software lets you toggle between views so you can see the associations between various frames as well as all the elements in a particular frame. 
+Salvatore Salamone ( ssalamone@bix.com ) is a BYTE news editor based in New York. 
+
+March 1996 / State Of The Art / Multimedia Over the Network 
+
+Multimedia Over the Network
+
+Isochronous Ethernet, PACE, ATM, or all of the above? 
+
+Nathan J. Muller
+
+Distance learning.
+Video interactive collaboration.
+Distributed simulations.
+Computer telephony integration (CTI).
+Under the rubric of multimedia, applications like these can propel us into a new way of working.
+
+But before we can realize the potential of multimedia, we first have to address a more mundane challenge: how to effectively deliver multimedia applications over LANs and WANs.
+
+Multimedia traffic has one distinguishing characteristic: It's time-sensitive.
+Different data types, especially voice, must arrive at their destination at the right time or the multimedia application loses its effectiveness.
+For example, if the audio portion of a videoconference is out of sync with the video components, you get "dubs disease," the illness that afflicts foreign actors when a producer decides to use dubbing instead of subtitles.
+
+Vendors are addressing the problem of synchronization by assigning a quality of service (QoS) to a multimedia application.
+QoS identifies an application as time-sensitive and requiring priority over other, less time-sensitive ones.
+But where is the best place to handle QoS?
+The network (i.e., routers, hubs, and switches)?
+The OS?
+Or some combination of hardware and OS working together? 
+
+Leveraging Today's Infrastructure
+
+If you already have an Ethernet LAN, it's impractical and expensive to replace it.
+Instead, you need an economical method of extending your network to accommodate multimedia applications.
+Enter isochronous Ethernet (aka IEEE 802.9a, ISLAN-16T, or isoEthernet).
+
+The premise behind isochronous Ethernet is that voice--not audio or video--is the critical component in multimedia communications.
+During a conversation, even the slightest delay creates a major disruption.
+Echoes caused by delays can confuse even the most articulate speakers.
+A split-second delay can disrupt a simple two-way conversation by causing one participant to repeat a question, only to interrupt the other's answer.
+If you've ever experienced a telephone conversation via a round-trip satellite link, you know the annoyance of delay.
+
+Isochronous Ethernet adds multirate ISDN to standard Ethernet.
+The marriage of Ethernet and ISDN guarantees QoS for voice in networked multimedia applications.
+In addition, isochronous Ethernet works with H.320, T.120, and MPEG videoconferencing, document conferencing, and video-distribution standards.
+
+A network is isochronous when it operates in real time, with time defined by the worldwide-standard 8-kHz clock used for nearly all voice communications.
+Today's Ethernet networks are asynchronous and do not provide the 8-kHz clocking signal that the voice component of a multimedia application--delivered through an H.320 codec, for instance--requires.
+
+The IEEE 802.9a standard is the only LAN technology that extends 8-kHz clocking to the desktop.
+All others, including 25-Mbps asynchronous transfer mode (ATM), require buffering to smooth out traffic bursts and adaptation techniques to transmit and receive synchronous traffic, such as H.320 voice and video.
+
+Isochronous Ethernet is a hybrid network that integrates standard 10-Mbps Ethernet (IEEE 802.3 10Base-T) LAN technology with 6.144 Mbps of isochronous (ISDN) bandwidth, for a total of 16 Mbps available to any user (hence the IEEE designation of Integrated Services Local Area Network, or ISLAN 16-T).
+Isochronous Ethernet uses an encoding scheme, called 4B:5B, that enables the total bandwidth to be 16 Mbps using the same 20-MHz clock that provides only 10 Mbps with the Manchester encoding scheme of traditional Ethernet (see the figure "Ethernet + ISDN = IsoEthernet" ).
+
+Isochronous Ethernet provides 96 64-Kbps ISDN B channels over the same ubiquitous Category 3, unshielded-twist-ed-pair wire that 10Base-T uses.
+That's enough bandwidth for a multipoint videoconference with six participants, each using 384-Kbps speeds, with room to spare for interactive whiteboarding and presentation graphics.
+And there's still enough bandwidth left over for the participants to receive Group 4 fax, E-mail, and voice-mail messages over separate channels.
+
+If isochronous Ethernet is a power user's dream come true, it's an MIS manager's delight.
+It's also one of the most attractive and affordable multimedia network solutions currently available.
+For starters, it's easy to integrate into an existing 10Base-T environment: All you have to do is put an isochronous Ethernet hub into your wiring closet.
+Multimedia workstations, outfitted with isochronous Ethernet adapter cards, connect to the hub.
+An attachment unit interface (AUI) provides connectivity between the isochronous Ethernet hub and existing 10Base-T hubs.
+
+According to the Isochronous Network Communication Alliance (or incAlliance), a loosely organized group of vendors that promotes the adoption and use of isochronous network technologies and products, about two dozen companies offer products that take advantage of isochronous Ethernet.
+National Semiconductor, the original developer of isochronous Ethernet, provides chip-level components and board-level subsystems for inclusion in products from such companies as Ascom Nexion, Ericsson Business Networks, Incite, and Luxcom.
+
+A Proprietary Solution
+
+3Com offers an alternative solution for networking multimedia applications over existing Ethernet networks.
+The company's Priority Access Control Enabled (PACE) technology is simple and inexpensive to implement: You just add a workgroup switch to connect the workstations running multimedia applications.
+You don't need to make any changes to existing cabling or Ethernet adapters, nor do you need to have any knowledge about any technology except Ethernet.
+Among the companies supporting PACE are Apple, Dell, Novell, Oracle, Silicon Graphics, Starlight Networks, and Sun Microsystems.
+
+While isochronous Ethernet adds a timed channel to Ethernet, PACE addresses Ethernet's delivery timing and priority.
+To produce integrated, high-quality graphics and sound, multimedia applications need regular, predictable data delivery.
+But Ethernet delivery timing is unpredictable; under a full load, it experiences latency and jitter.
+Latency is the delay between the time transmission and reception of data.
+Jitter is the uncertainty in the arrival time of a packet.
+
+PACE overcomes excess packet delay by using star-wired switching configurations and enhancements to Ethernet--which are all backward-compatible with existing Ethernet adapters.
+The technology uses traffic-control algorithms that enable each Ethernet segment to operate at more than 98 percent efficiency.
+These algorithms provide predictable LAN transmission by regulating the flow of traffic, thereby minimizing jitter.
+Best of all, because IEEE 802.3 Ethernet is essentially speed independent, the same enhancements work at Fast Ethernet speed (i.e., 100Base-T), which allows you to migrate from 10 Mbps to 100 Mbps.
+
+Currently, however, PACE stops short of applying true QoS to multimedia traffic.
+In other words, Ethernet isn't perfect for multimedia transmission because it offers no priority-access scheme.
+All traffic must contend for access on a best-effort basis, which can cause delays in getting data onto the network in the first place.
+
+PACE defines a method of prioritizing traffic over Ethernet to deliver true QoS.
+Although this technology is already built into a 3Com workgroup switch--the LinkSwitch 1000--as this article went to press, it was not yet in use.
+By the time you read this, 3Com should be implementing PACE, but it won't include a standard prioritization method.
+
+The IEEE 802.1 working group has only recently agreed to begin addressing QoS issues--specifically, the handling of prioritization in bridges--and it isn't expected to have anything for another 12 to 18 months.
+Meanwhile, 3Com will use--and publish--its own prioritization scheme, which offers two levels of service: high and low.
+
+Multimedia over the Internet
+
+Isochronous Ethernet and PACE deal with plumbing.
+That's fine if you have control over the hardware.
+But what if you don't?
+What if you're dealing with all sorts of physical media located all over the globe?
+In other words, what if you're dealing with multimedia applications running on the Internet, where the only thing you know for sure is TCP/IP?
+
+One stumbling block for running multimedia applications over TCP/IP is the problem of delay.
+IP doesn't allocate a specific path or amount of bandwidth to a particular session.
+The resulting delay can vary wildly and unpredictably, wreaking havoc with real-time applications.
+
+There are several proposed solutions to perform resource-setup functions similar to that of Q.93x signaling in a circuit-switched network.
+The most promising of these is the Resource Reservation Protocol, or RSVP, developed by the Internet Engineering Task Force (IETF).
+
+RSVP runs on top of IP to provide receiver-initiated setup of resource reservations on behalf of an application data stream.
+In other words, when an application requests a specific QoS for its data stream, RSVP delivers the request to each router along the path(s) of the data stream and maintains router and host states to support the requested level of service.
+In sum, RSVP essentially allows a router-based network to mimic a circuit-switched network on a best-effort basis.
+It even provides transparent operation through routers that do not support it.
+
+At each router, the RSVP program applies a local decision procedure, called admission control , to determine if it can supply the requested QoS.
+If it can, the RSVP program in each router passes incoming data packets to a packet classifier that determines the route and QoS class for each packet.
+The router then queues the packets in a packet scheduler that allocates resources for transmission on the link.
+If admission control fails at any node, the RSVP program returns an error to the application that originated the request.
+
+The advantage of RSVP is that it works with any physical network architecture.
+It runs over Ethernet, token ring, ARCnet, or Fiber Distributed Data Interface (FDDI), as long as IP is the underlying network protocol.
+This makes RSVP suitable for use with companywide networks as well as for the Internet.
+
+RSVP meshes well with IPv6 (previously known as IPng), so users can set up end-to-end connections with a specified amount of flow control for a given time.
+Time-sensitive services, such as real-time video and voice, get the special handling they require along the route path.
+How?
+IPv6 can label packets in traffic patterns, so applications can identify packets that belong to particular traffic flows for which the sender requests special handling.
+
+Although IPv6 standards are nearing completion, it could take a few years for the technology to be widely implemented throughout the Internet.
+Major networking vendors, including Bay Networks, Cisco, and 3Com, have indicated they will add support for IPv6 to their products in the third or fourth quarter of this year.
+
+Finally: ATM
+
+Although all the resource management and flow-control techniques discussed thus far are implemented on a best-effort basis, if widely deployed they tie up lots of network bandwidth.
+In other words, we need more bandwidth.
+Enter ATM.
+
+ATM uses 53-byte cells to carry voice, data, and video signals.
+By using a standard cell size, it can switch data via hardware, which is more efficient and less expensive than using software, the way X.25 and frame relay do.
+Hardware-based switching is also faster: ATM speeds are scalable and can exceed 2.5 Gbps over fiber.
+
+In addition, ATM provides the features necessary for successful multimedia applications.
+Specifically, it has the ability to define different traffic types, with each traffic type delivering a different QoS.
+
+The traffic type that supports multimedia applications (see the table "ATM's Touch of Class" ) is called constant bit rate (CBR) service.
+CBR supplies a fixed-bandwidth virtual circuit that addresses the special handling needs of delay-sensitive multimedia applications--those that contain real-time video and voice, for example.
+In ideal circumstances, the application negotiates QoS with the network.
+Applications do the negotiation through native ATM interfaces.
+If an application can't do this, interfaces such as ATM LAN emulation and classic IP over ATM (RFC 1577) do it instead.
+
+QoS guarantees a certain level of performance: maximum cell rate, available cell rate, cell-transfer delay, or cell-loss ratio.
+The network reserves the full bandwidth that the application requested.
+There are no data-rate limits for CBR connections, nor is there a limit on how long a connection can transmit at the maximum cell rate (technically called the peak cell rate , or PCR).
+The PCR is the maximum data rate the connection can support without risking data loss.
+Any traffic above the specified rate risks being dropped.
+
+These and other advantages of ATM--including low latency, high throughput, and scalability--will one day make it the network of choice for supporting new, high-bandwidth multimedia applications, as well as legacy LAN and TCP/IP traffic.
+This realization has vendors and standards bodies looking to support upward migration to ATM networks.
+
+National Semiconductor, for example, already offers an on-board segmentation and reassembly (SAR) component for isochronous Ethernet cards to support traffic over ATM links.
+3Com plans to offer ATM connectivity through high-speed backbone switches--its own, or those of other vendors.
+However, when PACE traffic hits an ATM network, the advantages of PACE are left behind, leaving just ordinary Ethernet.
+
+Multimedia OS?
+
+With ATM looming as the dominant network architecture in the not-too-distant future, the next logical step is to develop an OS that allows applications to take full advantage of it.
+This is what First Virtual Corp. (Santa Clara, CA) is advocating.
+
+FVC's Multimedia Operating Software is middleware that enables Windows applications to run over ATM.
+MOS runs invisibly under the application layer and above the network layer (see the figure "Middleware Simplifies Networked Multimedia" ), bridging the gap between ATM and Microsoft Windows.
+Unlike other ATM solutions, which rely solely on LAN emulation, MOS brings ATM QoS directly to applications (resulting in high-quality voice, video, text, and images on the desktop) while leveraging the inherent management, security, and authentication features of the existing network OS (NOS).
+
+Users running ATM-attached PCs still run the same applications and access the LAN server as before, except they can also run network multimedia.
+MOS automatically handles QoS, based on the type of traffic.
+MOS has predetermined delay and bandwidth parameters for applications according to their bandwidth and delay needs.
+For example, MPEG traffic gets 1.5 Mbps of bandwidth, while an audio file gets 5 Mbps.
+H.320-based videoconferencing gets 384 Kbps, with a delay of 200 to 300 ms.
+All these services--including applications running over TCP/IP, IPX, and NetBIOS--can be delivered with guaranteed end-to-end quality using the existing desktop wiring infrastructure.
+
+To implement videoconferencing, each PC must be equipped with a 25-Mbps ATM adapter with a direct connection to an H.320-based codec interface board.
+FVC's H.320-compliant Media Gateway Server (MGS) connects local ATM workgroups to remote sites via ISDN for videoconferencing across the WAN.
+
+MGS is an integrated hardware and software package that upgrades a PC to an ATM/ISDN gateway with Basic Rate Interface (BRI) or Primary Rate Interface (PRI) connections.
+You make your ISDN connection via MGS, which initiates external calls over the WAN through ISDN's Q.931 call-setup and management-signaling protocol.
+
+Videoconferencing PCs communicate with each other or with the gateway via a 25-Mbps ATM connection to FVC's Media Switch.
+The ATM adapter and MOS provide ISDN redirection, setting up calls from one computer to another for videoconferencing.
+
+The portion of MOS that resides on the PC sits between the applications and the LAN-emulation software, where it sets up real-time calls for voice, video, and audio.
+The software redirects Windows applications' real-time data streams from the local drive to a destination across the ATM network.
+In essence, this redirection spoofs applications into thinking they're executing locally.
+
+When a DOS or Windows program requests a file, MOS consults a map to determine whether the file is stored on the LAN server or on the media server.
+If it's stored on the LAN server, the request goes through the appropriate protocol stack normally.
+The LAN-emulation software on the adapter sets up an ATM call to the LAN server and segments the IP or IPX packets into 53-byte cells and sends them off.
+At the other end of the connection, the ATM-to-Ethernet adapter located at the remote port of the switch performs cell-to-packet resassembly and then passes the packets on to the local LAN server.
+
+When the client requests a file that's stored on the media server, MOS sets up an ATM call and passes the request along to it.
+A component of MOS also resides on the media server, where its primary function is to handle client requests and retrieve data.
+At the core of this MOS component is a real-time kernel called the ATMOS, which performs call scheduling.
+This function enables the server to support up to 80 users simultaneously.
+
+Do We Go to ATM from Here?
+
+With the technologies, standards, and products for delivering multimedia solutions rapidly falling into place, ATM looks like the long-term winner.
+Technologies such as isochronous Ethernet and PACE are viable solutions designed to fulfill emerging requirements for the isochronous bandwidth required by multimedia applications without forcing too much change to existing networks.
+However, the extent to which ATM is finally accepted--and within what time frame--are topics of continuing debate.
+
+While many industry analysts have pegged the time frame for widespread deployment of ATM at 3 to 5 years, Mike Sodergren, National Semiconductor's director of strategic marketing, offers a contrary view.
+Although he is highly supportive of the technology, based on the present course of events, he projects a 10-year scenario for ATM deployment.
+
+According to Sodergren, ATM appears to be technology-focused instead of application-focused, with vendors offering various upgrades of voice, video, and data networks on a stand-alone basis.
+There doesn't seem to be a concerted effort in the industry to address QoS issues and the convergence of voice and data or to extend the massive investment in existing infrastructure.
+
+"Until these things occur," says Sodergren, "lots of money will be spent without delivering to end users anything tangible in the networked enterprise.
+This accounts for the emphasis on isoEthernet, which blends wide bandwidth--Nx56/64-Kbps ISDN and Ethernet--in their native forms and offers future support for ATM for an integrated voice/data solution."
+
+Sridhar Krishnaswamy, a senior architect at MCI's Intelligent Network Group, notes that there are no new requirements that carriers have to meet for isochronous Ethernet.
+According to Krishnaswamy, "The carriers already support ISDN for high-quality isochronous transmission over digital circuits and employ Q931 signaling for fast call setup.
+ATM, on the other hand, requires that major changes and additions be made to the network infrastructure.
+When it comes to developing and deploying multimedia applications, it would seem that isochronous-Ethernet-based solutions would be easier than those that require ATM end-to-end."
+
+Two other developments support these views.
+The ATM Forum recently abandoned its plan to develop an API for ATM, making it unlikely that a single, commonly accepted interface for ATM applications will emerge anytime soon.
+In addition, the IEEE 802.9 working group will be asked in March to take up the development of a standard for a 100-Mbps version of isochronous Ethernet.
+This would not only elevate isochronous Ethernet into the "long-term solutions" category for multimedia applications but could put a choke-hold on ATM.
+
+As you can see, ATM will not be the ultimate solution that satisfies the needs of every organization or situation.
+In a way, that could be beneficial.
+It means there's no need to hold off deployment of multimedia applications until something like ATM becomes more widely available.
+
+Of course, it also means that since ATM is not the nirvana that will satisfy all multimedia-delivery problems, managers will still have to use a combination of technologies to ensure the timely delivery of multimedia data streams over their corporate networks.
+
+Fortunately, the combination of data-link and network-layer technologies, such as isochronous Ethernet and PACE, combined with OSes that take advantage of higher-layer services (like the QoS offered with ATM and ISDN), should give most companies enough leeway to design a total system for carrying their multimedia traffic.
+
+WHERE TO FIND
+
+First Virtual Corp. Santa Clara, CA Phone: (408) 988-7070 Fax: (408) 988-7077 3Com Corp. Santa Clara, CA Phone: (800) 638-3266 or (408) 764-5000 Fax: (408) 764-5001 Internet: http://www.3com.com 
+
+ATM's Touch of Class 
+
+CLASS OF SERVICE: Constant bit rate (CBR) 
+BANDWIDTH DELAY THROUGHPUT CONGESTION APPLICATION GUARANTEE VARIATION GUARANTEE FEEDBACK Provides a fixed X X X -- virtual circuit for applications that require a steady supply of bandwidth, such as voice and video traffic.
+CLASS OF SERVICE: Variable bit rate (VBR) 
+BANDWIDTH DELAY THROUGHPUT CONGESTION APPLICATION GUARANTEE VARIATION GUARANTEE FEEDBACK Provides enough bandwidth for bursty traffic, such as transaction processing and LAN interconnection, as long as rates do not exceed a specified average.
+CLASS OF SERVICE: Unspecified bit rate (UBR) 
+BANDWIDTH DELAY THROUGHPUT CONGESTION APPLICATION GUARANTEE VARIATION GUARANTEE FEEDBACK Uses any available bandwidth but doesn't guarantee when or if data will arrive at its intended destination.
+CLASS OF SERVICE: Available bit rate (ABR) 
+BANDWIDTH DELAY THROUGHPUT CONGESTION APPLICATION GUARANTEE VARIATION GUARANTEE FEEDBACK 
+Makes use of available X -- X X bandwidth and minimizes data loss through congestion notification.
+KEY X = yes; -- = no.
+
+Ethernet + ISDN = IsoEthernet 
+
+illustration_link (15 Kbytes) 
+
+In essence, the IEEE 802.9a standard allows two networks to operate over the same 10Base-T wiring. 
+Since Ethernet and ISDN transmissions don't share the same bandwidth, they don't affect each other's performance.
+Isochronous Ethernet intersperses Ethernet and ISDN signals at 125-microsecond intervals.
+
+Middleware Simplifies Networked Multimedia 
+
+illustration_link (12 Kbytes) 
+
+FVC's Multimedia Operating Software (MOS) enables Windows applications to run over ATM.
+A predetermined class of service is assigned according to the type of data stream detected by MOS; in this case, LAN data, MPEG, or an H.320 videoconference.
+
+Come Together 
+
+screen_link (42 Kbytes) 
+
+With AT'&'T's Multimedia Communications Exchange Server (MMCX), team members can get together in a virtual "meeting room." 
+Along with providing a visual representation of the virtual meeting, MMCX combines multimedia calling features with collaboration tools to allow users to add or drop services and media as they choose.
+Nathan J. Muller is a writer and author who lives in Huntsville, Alabama.
+He has written over 800 technical articles and 11 books on a variety of computer, communications, and management topics.
+Among his latest books is The Guide to Network Planning, Procurement and Management (McGraw-Hill, 1996).
+He can be contacted on the Internet at nmuller@ddx.com or on BIX c/o "editors." 
+  Copyright © 1994-1996
+
+March 1996 / State Of The Art / Learn the Lingo
+
+Learn the Lingo
+
+Whether you need a presentation program or an authoring toolkit depends on the type of project
+
+Robert A. Delrossi
+
+You stand poised at the edge of a 10-foot-long flexible board 50 feet above the pool.
+The water looks cold.
+And hard.
+People are behind you on the ladder, yelling for you to get going.
+You have two choices: Jump or figure out how to climb back down through all those people.
+You jump.
+
+Now imagine that the water is multimedia development.
+The situation is still intimidating.
+The benefits of multimedia to education and recreation are innumerable.
+Nearly every personal computer sold today is multimedia-capable.
+Either you jump into the future, or you climb down and fight your way into the past.
+
+Really, the only question is how you are going to jump.
+We're going to make your landing softer by describing the top multimedia-development tools, from simple to super, and some of the financial pitfalls you should watch out for.
+
+From Presentation to Authoring
+
+There are different tools for the different types of multimedia development (see the table "The Right Tool for the Job" ).
+Simple, easy-to-learn tools include presentation-graphics programs, such as Adobe's Persuasion, Lotus's Freelance, Microsoft's PowerPoint, Gold Disk's Astound, and Asymetrix's Compel.
+
+Such programs let you incorporate audio tracks and video clips into each frame of a presentation.
+When a frame displaying the company's logo appears, for example, the appropriate music plays simultaneously in the background.
+
+The nice thing about these programs is that they are fairly easy to use.
+Typically, they include built-in audio and video players.
+And they include animation features so you can control when and where on the screen text or images appear.
+
+The downside is that these types of programs are limited when it comes to the type of multimedia presentations they help you assemble.
+Basically, you can embed an object, such as an audio or video clip, within a single presentation frame, or you can give the appearance of animation by looping frames one after another.
+You can have an item in a frame--such as a bar in a graph that represents sales data--grow or shrink by playing successive frames with different-size bars.
+
+Slightly more sophisticated are tools such as Stirling Technologies' DemoShield and HSC Software's InterActive.
+Like a presentation tool, they don't use a scripting language.
+Instead, they enable you to achieve much the same effect using menus, buttons, and dialog boxes.
+The advantage is that you don't have to learn a scripting language.
+The disadvantage is that the interface to achieve some effects can be obtuse, with references buried under several layers of menus or dialog boxes.
+
+To develop truer animation and interactive presentations, you have to work with more powerful multimedia development tools.
+The most common higher-end programs include Macromedia's two products, Authorware and Director, and Allen Communication's Quest.
+
+The general approach to constructing multimedia programs using these tools involves dragging content icons from a palette onto a flowline (see "Minimal Assembly Required" ).
+The flowline is basically a timeline of events in your presentation.
+It determines the sequence in which different events will happen and includes such things as branching and loopbacks.
+The icons are objects for text, graphics, sound, and video.
+
+You run the sequence to see if the presentation is working as you planned.
+You can put empty icons in place when developing the application, which enables you to develop a presentation before all the elements are available.
+For instance, you may be creating an interactive training program but have not yet filmed all the scenarios.
+Once you've finished developing the presentation, you generate a run-time version that is a stand-alone program for end-users.
+
+That's the general method.
+Each of these higher-level tools takes its own approach to actually creating an application.
+
+Macromedia's Authorware is probably the best-known of these tools.
+Macromedia originally designed it for creating interactive training and educational programs.
+The software uses an icon-based design approach that reduces the amount of manual scripting you need to do.
+The icons link to Authorware flowlines that show how the information moves and how different elements relate to one another.
+
+By dragging different kinds of icons on to the flowline, you can arrange the various pieces of the presentation.
+You then customize what the icons do by clicking on them and changing their properties.
+For example, an icon that represents a picture will need the name of the picture file to display.
+One that plays music needs to know the name of the sound file, along with characteristics such as the speed at which you want the music to play and whether it should run once or continuously.
+The latest version, Authorware Professional 3.0, has a new framework icon that serves as a template, so you can specify that particular elements appear on every frame.
+
+Asymetrix Multimedia Toolbook's approach is slightly different, relying instead on a book metaphor, where each page represents a slide in the finished product.
+On to each page you can drop the various objects that make up your presentation.
+Like Authorware, Multimedia Toolbook provides ways for you to include synchronized music, sound effects, and video.
+But unlike Authorware, Multimedia Toolbook has a simple programming language.
+To program in Authorware, you use specialized programming icons that you add to the timeline.
+Both packages offer a series of adjunct tools for modifying and otherwise refining the various source elements that go into your multimedia presentation.
+
+Allen Communication's Quest Multimedia Authoring System has a slightly different user interface.
+Like Authorware, it uses a timeline with content icons, but it also provides wizards that prompt you through the design process.
+An add-on product, Designer's Edge, helps developers who are new to multimedia authoring.
+Designer's Edge includes a set of wizards and built-in expert advice.
+Users we spoke with said they've found the Allen software particularly good for developing instructional programs.
+
+Let's stop to consider some authoring tools of a different type.
+Visual Basic and V-Graph's O-Zone are examples of development environments that enable you to design content with OLE or OpenDoc and multimedia extensions.
+In other words, component-based multimedia development.
+With this kind of environment, you'll typically have a separate module for each multimedia function (i.e., video playback and audio playback will be separate modules, like OCXes) and you set the properties of these modules for each multimedia object (e.g., video or audio clip).
+The advantage to this kind of development, especially with a general-purpose tool, is versatility: You aren't limited to developing just multimedia applications.
+
+The capability to program--no matter how you do it--is an essential element of multimedia tools and differentiates them from simpler business presentation packages such as Microsoft PowerPoint.
+Programmability is also the key to computer-based training (CBT) applications, which often must deliver not only course material but testing material, too.
+Powerful LAN-based CBT applications can present and grade tests right away, giving the user immediate feedback.
+They can also package the results and send them to a test administrator straightaway.
+What's more, administrators can monitor how far a student has progressed through the course material.
+
+The Future of Multimedia
+
+Most people in the multimedia business agree with World Tutor Group's Robert Blalock (see the sidebar "CBT Experience" ) that the multimedia industry still has a big future.
+With increasing acceptance and demand, and better and faster computers, the tools for delivering high-quality multimedia presentations will improve, too.
+
+One area that will change is the way multimedia is distributed.
+The Internet will be an explosive distribution tool for multimedia presentations, agrees Kevin Ellis, product marketing associate for Macromedia Director.
+With Director and an add-on tool called Shockwave for Director, Ellis explains, developers can create multimedia objects that you can view on a World Wide Web page.
+Unlike the traditional multimedia distribution medium, CD-ROM, Web pages are far easier to customize and update.
+
+Some progressive companies have already adopted multimedia strategies for advertising and attracting new customers.
+Multimedia catalogs of clothing and cars, for example, are already available.
+On-line and CD-ROM-based magazines are out there, too.
+
+Blalock says he expects the typical CBT program of the future will be smarter, evolving into an electronic performance support system (EPSS).
+An EPSS carries the utility of training software to new heights by tightly integrating with the application it is teaching you to use.
+With a well-designed EPSS, just about anyone should be able to sit down at an airline reservation terminal, for example, and step through the process of booking a flight.
+As your expertise grows, the system grows with you, watching how you work and suggesting ways to do things more efficiently.
+When the learning load is light, the user can start training on new materials or reviewing his job skills.
+
+With the continued growth in the multimedia market, it's a good time to learn what it will take for you to add multimedia to what you do.
+Look into the software, know the costs, think about a strategic partner for your first big venture, and then get ready to make a big virtual splash.
+
+PRODUCT INFORMATION
+
+Adobe Persuasion for Windows - $495 per user - $3160 10-user Adobe Systems, Inc. Mountain View, CA Phone: (800) 833-6687 or (415) 961-4400 Fax: (415) 961-3769 Circle 1151 on Inquiry Card.
+Astound! for Windows - $250 Gold Disk, Inc. Santa Clara, CA Phone: (800) 982-9888 or (408) 982-0200 Fax: (408) 982-0298 Circle 1154 on Inquiry Card. 
+Authorware Professional for Windows - $4995 Macromedia, Inc. San Francisco, CA Phone: (800) 945-4061 or (415) 252-2000 Fax: (415) 626-0554 Internet: http://www.macromedia.com 
+Circle 1149 on Inquiry Card. 
+Compel - $295 Asymetrix Corp. Bellevue, WA Phone: (800) 448-6543 or (206) 462-0501 Fax: (206) 637-1504
+Circle 1152 on Inquiry Card. 
+DemoShield - $495 Stirling Technologies, Inc. Schaumburg, IL Phone: (800) 374-4353 or (708) 240-9111 Fax: (708) 240-9120 Circle 1159 on Inquiry Card.
+Director - $699 Macromedia, Inc. San Francisco, CA Phone: (800) 945-4061 or (415) 252-2000 Fax: (415) 626-0554 Internet: http://www.macromedia.com Circle 1157 on Inquiry Card.
+Freelance Graphics - $395 (single-user) - $495 (network) Lotus Development Corp. Cambridge, MA Phone: (800) 343-5414 or (617) 577-8500 Fax: (617) 693-3512
+Circle 1156 on Inquiry Card. 
+HSC InterActive - $295 HSC Software Corp. Carpinteria, CA Phone: (805) 566-6200 Fax: (805) 566-6385
+Circle 1155 on Inquiry Card. 
+Multimedia Toolbook - $695 Asymetrix Corp. Bellevue, WA Phone: (800) 448-6543 or (206) 462-0501 Fax: (206) 637-1504 Circle 1153 on Inquiry Card.
+O-Zone - $495 V-Graph, Inc. Westtown, PA Phone: (800) 852-6284 or (610) 399-1521 Fax: (610) 399-0566
+Circle 1160 on Inquiry Card.
+PowerPoint for Windows- $495 Microsoft Corp. Redmond, WA Phone: (800) 426-9400 or (206) 882-8080 Fax: (206) 93-MSFAX Internet: http://www.microsoft.com 
+Circle 1158 on Inquiry Card. 
+Quest - $3995 Allen Communication, Inc. Salt Lake City, UT Phone: (800) 325-7850 or (801) 537-7800 Fax: (801) 537-7805
+Circle 1150 on Inquiry Card. 
+Visual Basic for Windows - $199 (standard) - $495 (professional) Microsoft Corp. Redmond, WA Phone: (800) 426-9400 or (206) 882-8080 Fax: (206) 93-MSFAX Internet: http://www.microsoft.com Circle 1148 on Inquiry Card. 
+
+The Right Tool for the Job 
+
+TOOLS PROS CONS 
+Adobe Persuasion, Easy to use; built-in Limited functions allow
+Microsoft PowerPoint, media players for audio development only of Lotus Freelance and video clips simple applications.
+Stirling Technologies' Geared to more sophis- Interface sometimes DemoShield and HSC ticated presentations; too cluttered for Software's InterActive use buttons, menus, and power users dialog boxes to create presentations.
+Macromedia's Authorware Offer high-end features Not for all users; and Director, and Allen including scripting, built- require developer to Communication's Quest in video editing, and have a certain level of use of C and C++ program- sophistication ming to develop applications.
+
+screen_link (116 Kbytes) 
+
+Multimedia development tools like Quest let you pull content together by simply dragging icons of the various elements onto a frame.
+Until recently, Robert A. DelRossi was director of technology for Boston-based Liberty Real Estate Group, Inc.
+His articles have appeared in several magazines.
+You can reach him by sending E-mail to 71510.1726@compuserve.com .

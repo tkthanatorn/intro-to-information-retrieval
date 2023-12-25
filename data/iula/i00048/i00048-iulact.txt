@@ -1,0 +1,2522 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<date pos="T" ISO8601="1996-03-">
+1	TOK	March 1996	BOS	March_1996\T
+##	TAG	</date>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+2	TOK	Reviews		Reviews\N46
+##	TAG	</name>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+3	TOK	Big		Big\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+4	TOK	Bright		Bright\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+5	TOK	and		and\CC
+##	TAG	<name>
+6	TOK	Beautiful	EOS	Beautiful\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+8	TOK	Big	BOS	big\JA
+---	DLD	,		=\DELIM
+##	TAG	<name>
+9	TOK	Bright		Bright\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+10	TOK	and		and\CC
+##	TAG	<name>
+11	TOK	Beautiful		Beautiful\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+12	TOK	IBM	BOS	IBM\N46
+##	TAG	</name>
+13	PGR	's		genmark\GENMARK
+14	TOK	latest		late\JS
+15	TOK	top		top\N5S
+---	DLI	-		=\DELIM
+16	TOK	of		of\P
+---	DLI	-		=\DELIM
+17	TOK	the		the\AT---6
+---	DLI	-		=\DELIM
+18	TOK	line		line\N5S
+19	TOK	notebook		notebook\N5S
+20	TOK	has		have\V6FDRS3
+21	TOK	a		a\AI---S
+22	TOK	display		display\N5S
+23	TOK	to		to\P
+24	TOK	die		die\VMI----
+25	TOK	for		for\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+26	TOK	Who	BOS	who\RW63N-
+27	TOK	needs		need\VMFDRS3
+28	TOK	an		an\AI---S
+29	TOK	external		external\JA
+30	TOK	monitor		monitor\VMF6R66
+---	DLD	?	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+31	TOK	Russell Kay	BOS	Russell_Kay\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+33	TOK	What	BOS	what\RW63N-
+34	TOK	strikes		strike\VMFDRS3
+35	TOK	you		you\RP62N6
+36	TOK	most		most\DDS7
+37	TOK	about		about\DGA7
+##	TAG	<name>
+38	TOK	IBM		IBM\N46
+##	TAG	</name>
+39	PGR	's		genmark\GENMARK
+##	TAG	<name>
+40	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+41	TOK	760CD		760CD\N5S
+42	TOK	is		be\V6FDRS3
+43	TOK	its		its\APS3N6
+##	TAG	<num>
+44	TOK	12.1		12.1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+45	TOK	inch		inch\N5S
+46	TOK	active		active\JA
+---	DLI	-		=\DELIM
+47	TOK	matrix		matrix\N5S
+48	TOK	display		display\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+49	TOK	It	BOS	it\RPS3N6
+50	PGR	's		be\V6FDRS3
+51	TOK	simply		simply\DGA7
+52	TOK	gorgeous		gorgeous\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+53	TOK	Bright	BOS	bright\JA
+54	TOK	and		and\CC
+55	TOK	clear		clear\JA
+---	DLD	,		=\DELIM
+56	TOK	the		the\AT---6
+##	TAG	<na type="function">
+57	TOK	800- by		noanat\W
+##	TAG	</na>
+##	TAG	<num>
+58	TOK	600		600\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+59	TOK	pixel		pixel\N5S
+60	TOK	panel		panel\N5S
+61	TOK	provides		provide\VMFDRS3
+##	TAG	<num>
+62	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+63	TOK	bit		bit\N5S
+64	TOK	color		color\N5S
+65	TOK	depth		depth\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+66	TOK	65,536		65,536\X
+##	TAG	</num>
+67	TOK	colors		color\N5P
+---	DLD	)		=\DELIM
+68	TOK	and		and\CC
+69	TOK	the		the\AT---6
+70	TOK	same		same\JA
+71	TOK	viewing		viewing\N5S
+72	TOK	area		area\N5S
+73	TOK	as		as\P
+74	TOK	a		a\AI---S
+75	TOK	standard		standard\JA
+##	TAG	<num>
+76	TOK	14		14\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+77	TOK	inch		inch\N5S
+78	TOK	monitor		monitor\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+79	TOK	Since	BOS	since\CS
+80	TOK	it		it\RPS3N6
+81	TOK	sits		sit\VMFDRS3
+82	TOK	closer		close\JC
+83	TOK	to		to\P
+84	TOK	you		you\RP62N6
+85	TOK	than		than\CS
+86	TOK	an		an\AI---S
+87	TOK	external		external\JA
+88	TOK	monitor		monitor\N5S
+89	TOK	usually		usually\DGA7
+90	TOK	does		do\V6FDRS3
+---	DLD	,		=\DELIM
+91	TOK	the		the\AT---6
+##	TAG	<num>
+92	TOK	12.1		12.1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+93	TOK	inch		inch\N5S
+##	TAG	<name>
+94	TOK	LCD		LCD\N46
+##	TAG	</name>
+95	TOK	panel		panel\N5S
+96	TOK	is		be\V6FDRS3
+##	TAG	<loc pos="DGA7">
+97	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+98	TOK	equivalent		equivalent\JA
+99	TOK	to		to\P
+100	TOK	a		a\AI---S
+##	TAG	<num>
+101	TOK	15		15\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+102	TOK	inch		inch\N5S
+##	TAG	<name>
+103	TOK	CRT		CRT\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+104	TOK	That	BOS	that\CS
+105	TOK	makes		make\VMFDRS3
+106	TOK	the		the\AT---6
+107	TOK	760CD		760CD\N5S
+108	TOK	the		the\AT---6
+109	TOK	first		first\MOS
+110	TOK	undisputed		undisputed\JA
+111	TOK	candidate		candidate\N5S
+112	TOK	for		for\P
+113	TOK	a		a\AI---S
+114	TOK	true		true\JA
+115	TOK	desktop		desktop\N5S
+---	DLI	-		=\DELIM
+116	TOK	system		system\N5S
+117	TOK	replacement		replacement\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+118	TOK	The	BOS	the\AT---6
+119	TOK	$		$\N5P
+##	TAG	<num>
+120	TOK	7449		7449\X
+##	TAG	</num>
+121	TOK	price		price\N5S
+122	TOK	tag		tag\VMF6R66
+---	DLE	(		=\DELIM
+123	TOK	$		$\N5P
+##	TAG	<num>
+124	TOK	8134		8134\X
+##	TAG	</num>
+125	TOK	as		as\DGA7
+126	TOK	tested		test\VMF6A66
+---	DLD	)		=\DELIM
+127	TOK	is		be\V6FDRS3
+128	TOK	also		also\DGA7
+129	TOK	striking		strike\VMG----
+---	DLD	,		=\DELIM
+130	TOK	but		but\CC
+131	TOK	this		this\RDS3N-
+132	TOK	is		be\V6FDRS3
+##	TAG	<name>
+133	TOK	IBM		IBM\N46
+##	TAG	</name>
+134	PGR	's		genmark\GENMARK
+135	TOK	flagship		flagship\N5S
+136	TOK	notebook		notebook\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+137	TOK	Once	BOS	once\CS
+138	TOK	you		you\RP62N6
+139	TOK	tear		tear\VMF6R66
+140	TOK	your		your\AP62N6
+141	TOK	eyes		eye\N5P
+142	TOK	away		away\DGA7
+143	TOK	from		from\P
+144	TOK	the		the\AT---6
+145	TOK	display		display\N5S
+---	DLD	,		=\DELIM
+146	TOK	you		you\RP62N6
+147	TOK	realize		realize\VMF6R66
+148	TOK	this		this\AD---S
+149	TOK	multimedia		multimedia\JA
+150	TOK	notebook		notebook\N5S
+151	TOK	has		have\V6FDRS3
+152	TOK	other		other\JA
+153	TOK	goodies		goodie\N5P
+154	TOK	to		to\P
+155	TOK	enjoy		enjoy\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+156	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+157	TOK	CPU		CPU\N46
+##	TAG	</name>
+158	TOK	is		be\V6FDRS3
+159	TOK	a		a\AI---S
+##	TAG	<num>
+160	TOK	90		90\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+161	TOK	MHz Pentium		MHz_Pentium\N46
+##	TAG	</name>
+162	TOK	with		with\P
+163	TOK	a		a\AI---S
+##	TAG	<na type="function">
+164	TOK	256-KB		noanat\W
+##	TAG	</na>
+165	TOK	external		external\JA
+166	TOK	cache		cache\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+167	TOK	powerful		powerful\JA
+---	DLD	,		=\DELIM
+168	TOK	if		if\CS
+169	TOK	not		not\DGA7
+170	TOK	state		state\N5S
+171	TOK	of		of\P
+172	TOK	the		the\AT---6
+173	TOK	art		art\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+174	TOK	The	BOS	the\AT---6
+175	TOK	non		non\N5P
+---	DLD	-		=\DELIM
+##	TAG	<name>
+176	TOK	CD		CD\N46
+##	TAG	</name>
+##	TAG	<num>
+177	TOK	760		760\X
+##	TAG	</num>
+178	TOK	models		model\N5P
+179	TOK	can		can\VOFDR66
+180	TOK	be		be\VMI----
+181	TOK	had		have\VMC----
+182	TOK	with		with\P
+183	TOK	a		a\AI---S
+##	TAG	<num>
+184	TOK	120		120\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+185	TOK	MHz		MHz\N46
+##	TAG	</name>
+186	TOK	processor		processor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+187	TOK	The	BOS	the\AT---6
+188	TOK	standard		standard\JA
+189	TOK	memory		memory\N5S
+190	TOK	configuration		configuration\N5S
+191	TOK	is		be\V6FDRS3
+##	TAG	<num>
+192	TOK	8		8\X
+##	TAG	</num>
+##	TAG	<name>
+193	TOK	MB of DRAM		MB_of_DRAM\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+194	TOK	our		our\APP1N6
+195	TOK	test		test\N5S
+196	TOK	unit		unit\N5S
+197	TOK	came		come\VMF6A66
+198	TOK	with		with\P
+##	TAG	<num>
+199	TOK	16		16\X
+##	TAG	</num>
+##	TAG	<name>
+200	TOK	MB		MB\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+201	TOK	and		and\CC
+202	TOK	it		it\RPS3N6
+203	TOK	can		can\VOFDR66
+204	TOK	be		be\VMI----
+205	TOK	expanded		expand\VMC----
+206	TOK	up		up\P
+207	TOK	to		to\P
+##	TAG	<num>
+208	TOK	40		40\X
+##	TAG	</num>
+##	TAG	<name>
+209	TOK	MB		MB\N46
+##	TAG	</name>
+210	TOK	with		with\P
+211	TOK	dual		dual\JA
+212	TOK	in		in\P
+---	DLI	-		=\DELIM
+213	TOK	line		line\N5S
+214	TOK	memory		memory\N5S
+215	TOK	modules		module\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+216	TOK	DIMMs		DIMMs\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+218	TOK	The	BOS	the\AT---6
+219	TOK	system		system\N5S
+220	TOK	comes		come\VMFDRS3
+221	TOK	with		with\P
+222	TOK	a		a\AI---S
+223	TOK	quad		quad\JA
+---	DLI	-		=\DELIM
+224	TOK	speed		speed\N5S
+##	TAG	<name>
+225	TOK	CD-ROM		CD-ROM\N46
+##	TAG	</name>
+226	TOK	drive		drive\N5S
+227	TOK	built		build\VMC----
+228	TOK	in		in\P
+---	DLE	(		=\DELIM
+229	TOK	it		it\RPS3N6
+230	PGR	's		be\V6FDRS3
+231	TOK	swappable		swappable\JA
+232	TOK	with		with\P
+233	TOK	the		the\AT---6
+234	TOK	included		include\VMF6A66
+##	TAG	<num>
+235	TOK	3		3\X
+##	TAG	</num>
+##	TAG	<num>
+236	TOK	1/2		1/2\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+237	TOK	inch		inch\N5S
+238	TOK	floppy		floppy\JA
+239	TOK	drive		drive\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+240	TOK	a		a\AI---S
+241	TOK	lithium		lithium\N5S
+---	DLI	-		=\DELIM
+242	TOK	ion		ion\N5S
+243	TOK	battery		battery\N5S
+---	DLD	,		=\DELIM
+244	TOK	a		a\AI---S
+##	TAG	<na type="function">
+245	TOK	1.2-GB		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+246	TOK	EIDE		EIDE\N46
+##	TAG	</name>
+247	TOK	hard		hard\DGA7
+248	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<name>
+249	TOK	IBM		IBM\N46
+##	TAG	</name>
+250	PGR	's		genmark\GENMARK
+##	TAG	<name>
+251	TOK	Mwave		Mwave\N46
+##	TAG	</name>
+252	TOK	digital		digital\JA
+253	TOK	signal		signal\N5S
+254	TOK	processing		process\VMG----
+---	DLE	(		=\DELIM
+##	TAG	<name>
+255	TOK	DSP		DSP\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+256	TOK	system		system\N5S
+---	DLE	(		=\DELIM
+257	TOK	which		which\RW63N-
+258	TOK	gives		give\VMFDRS3
+259	TOK	you		you\RP62N6
+260	TOK	a		a\AI---S
+##	TAG	<num>
+261	TOK	28.8		28.8\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+262	TOK	Kbps		Kbps\N46
+##	TAG	</name>
+263	TOK	fax		fax\N5S
+264	TOK	modem		modem\N5S
+265	TOK	with		with\P
+266	TOK	telephony		telephony\N5S
+267	TOK	features		feature\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+268	TOK	and		and\CC
+269	TOK	hardware		hardware\N5S
+---	DLI	-		=\DELIM
+270	TOK	assisted		assist\VMF6A66
+---	DLD	,		=\DELIM
+271	TOK	full		full\JA
+---	DLI	-		=\DELIM
+272	TOK	screen		screen\N5S
+##	TAG	<name>
+273	TOK	MPEG		MPEG\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+274	TOK	2		2\X
+##	TAG	</num>
+275	TOK	video		video\N5S
+276	TOK	playback		playback\N5S
+---	DLE	(		=\DELIM
+277	TOK	half		half\N5S
+---	DLI	-		=\DELIM
+278	TOK	horizontal		horizontal\JA
+279	TOK	resolution		resolution\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+280	TOK	The	BOS	the\AT---6
+281	TOK	system		system\N5S
+282	TOK	has		have\V6FDRS3
+##	TAG	<num>
+283	TOK	two		two\X
+##	TAG	</num>
+##	TAG	<name>
+284	TOK	PC Card		PC_Card\N46
+##	TAG	</name>
+285	TOK	slots		slot\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+286	TOK	When	BOS	when\CS
+287	TOK	you		you\RP62N6
+288	TOK	press		press\VMF6R66
+289	TOK	back		back\DGA7
+290	TOK	the		the\AT---6
+##	TAG	<num>
+291	TOK	two		two\X
+##	TAG	</num>
+292	TOK	locking		lock\VMG----
+293	TOK	buttons		button\N56
+294	TOK	on		on\P
+295	TOK	the		the\AT---6
+296	TOK	side		side\N5S
+297	TOK	of		of\P
+298	TOK	the		the\AT---6
+299	TOK	unit		unit\N5S
+300	TOK	and		and\CC
+301	TOK	lift		lift\N5S
+302	TOK	up		up\P
+303	TOK	the		the\AT---6
+304	TOK	front		front\N5S
+305	TOK	of		of\P
+306	TOK	the		the\AT---6
+307	TOK	keyboard		keyboard\N5S
+---	DLD	,		=\DELIM
+308	TOK	you		you\RP62N6
+309	TOK	get		get\VMF6R66
+310	TOK	a		a\AI---S
+311	TOK	lesson		lesson\N5S
+312	TOK	in		in\P
+313	TOK	laptop		laptop\N5S
+314	TOK	packaging		package\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+315	TOK	Take	BOS	take\VMI----
+316	TOK	away		away\DGA7
+317	TOK	the		the\AT---6
+##	TAG	<name>
+318	TOK	CD-ROM		CD-ROM\N46
+##	TAG	</name>
+319	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+320	TOK	battery		battery\N5S
+---	DLD	,		=\DELIM
+321	TOK	hard		hard\DGA7
+322	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+323	TOK	and		and\CC
+##	TAG	<name>
+324	TOK	Mwave		Mwave\N46
+##	TAG	</name>
+325	TOK	subsystems		subsystem\N5P
+---	DLD	,		=\DELIM
+326	TOK	and		and\CC
+327	TOK	you		you\RP62N6
+328	TOK	're		're\N5S
+329	TOK	left		leave\VMC----
+330	TOK	with		with\P
+331	TOK	a		a\AI---S
+332	TOK	package		package\N5S
+333	TOK	about		about\P
+##	TAG	<num>
+334	TOK	2		2\X
+##	TAG	</num>
+335	TOK	by		by\P
+##	TAG	<na type="function">
+336	TOK	1/2		noanat\W
+##	TAG	</na>
+337	TOK	by		by\P
+##	TAG	<num>
+338	TOK	6		6\X
+##	TAG	</num>
+339	TOK	inches		inch\N5P
+340	TOK	in		in\P
+341	TOK	size		size\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+342	TOK	That	BOS	that\CS
+343	PGR	's		be\V6FDRS3
+344	TOK	the		the\AT---6
+345	TOK	entire		entire\JA
+##	TAG	<name>
+346	TOK	CPU		CPU\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+347	TOK	chip		chip\N5S
+348	TOK	set		set\VMF6-66
+---	DLD	,		=\DELIM
+349	TOK	graphics		graphic\N56
+350	TOK	controller		controller\N5S
+---	DLD	,		=\DELIM
+351	TOK	and		and\CC
+##	TAG	<na type="function">
+352	TOK	I/O		noanat\W
+##	TAG	</na>
+353	TOK	circuitry		circuitry\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+354	TOK	With	BOS	with\P
+355	TOK	all		all\AG---6
+356	TOK	these		this\AD---P
+357	TOK	neat		neat\JA
+358	TOK	things		thing\N5P
+---	DLD	,		=\DELIM
+359	TOK	the		the\AT---6
+##	TAG	<name>
+360	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+361	TOK	is		be\V6FDRS3
+362	TOK	no		no\AI---6
+363	TOK	lightweight		lightweight\N5S
+364	TOK	at		at\P
+##	TAG	<num>
+365	TOK	7.4		7.4\X
+##	TAG	</num>
+366	TOK	pounds		pound\N5P
+---	DLD	,		=\DELIM
+367	TOK	but		but\CC
+368	TOK	it		it\RPS3N6
+369	PGR	's		be\V6FDRS3
+370	TOK	not		not\DGA7
+371	TOK	a		a\AI---S
+372	TOK	backbreaker		backbreaker\N5S
+---	DLD	,		=\DELIM
+373	TOK	either		either\CC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+374	TOK	Good	BOS	good\JA
+##	TAG	<name>
+375	TOK	Design		Design\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+376	TOK	Bad Design	EOS	Bad_Design\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+378	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+379	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+380	TOK	760CD		760CD\N5S
+381	TOK	is		be\V6FDRS3
+382	TOK	a		a\AI---S
+383	TOK	curious		curious\JA
+384	TOK	mixture		mixture\N5S
+385	TOK	of		of\P
+386	TOK	thoughtful		thoughtful\JA
+387	TOK	design		design\N5S
+388	TOK	and		and\CC
+389	TOK	sometimes		sometimes\DGA7
+---	DLI	-		=\DELIM
+390	TOK	awkward		awkward\JA
+391	TOK	implementation		implementation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+392	TOK	Our	BOS	our\APP1N6
+393	TOK	test		test\N5S
+394	TOK	system		system\N5S
+395	TOK	came		come\VMF6A66
+396	TOK	with		with\P
+##	TAG	<name>
+397	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+398	TOK	95		95\X
+##	TAG	</num>
+399	TOK	installed		instal\VMF6A66
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+400	TOK	OS/2		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+401	TOK	Warp		Warp\N46
+##	TAG	</name>
+402	TOK	is		be\V6FDRS3
+403	TOK	another		another\JA
+404	TOK	option		option\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+405	TOK	but		but\CC
+406	TOK	we		we\RPP1NN
+407	TOK	still		still\DGA7
+408	TOK	had		have\V6F6A66
+409	TOK	to		to\P
+410	TOK	do		do\VMI----
+411	TOK	a		a\AI---S
+412	TOK	fair		fair\JA
+413	TOK	amount		amount\N5S
+414	TOK	of		of\P
+415	TOK	configuration		configuration\N5S
+416	TOK	work		work\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+417	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+418	TOK	the		the\AT---6
+419	TOK	parallel		parallel\JA
+420	TOK	and		and\CC
+421	TOK	serial		serial\JA
+422	TOK	ports		port\N5P
+423	TOK	came		come\VMF6A66
+424	TOK	turned		turn\VMC----
+425	TOK	off		off\P
+---	DLD	,		=\DELIM
+426	TOK	which		which\RW63N-
+427	TOK	made		make\VMF6A66
+428	TOK	initial		initial\JA
+429	TOK	attempts		attempt\N5P
+430	TOK	to		to\P
+431	TOK	use		use\VMI----
+432	TOK	an		an\AI---S
+433	TOK	external		external\JA
+434	TOK	mouse		mouse\N5S
+##	TAG	<abbr>
+435	TOK	frustrating.		frustrating.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+436	TOK	Restarting Windows		Restarting_Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+437	TOK	95		95\X
+##	TAG	</num>
+438	TOK	became		become\VMF6A66
+439	TOK	an		an\AI---S
+440	TOK	all		all\N56
+---	DLI	-		=\DELIM
+441	TOK	too		too\DGA7
+---	DLI	-		=\DELIM
+442	TOK	common		common\JA
+##	TAG	<abbr>
+443	TOK	experience.		experience.\N5P
+##	TAG	</abbr>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+444	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+445	TOK	DSP		DSP\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+446	TOK	based		base\VMF6A66
+##	TAG	<num>
+447	TOK	28.8		28.8\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+448	TOK	Kbps		Kbps\N46
+##	TAG	</name>
+449	TOK	fax		fax\N5S
+450	TOK	modem		modem\N5S
+451	TOK	provides		provide\VMFDRS3
+452	TOK	telephony		telephony\N5S
+453	TOK	functions		function\N5P
+454	TOK	and		and\CC
+455	TOK	can		can\VOFDR66
+456	TOK	detect		detect\VMI----
+457	TOK	incoming		incoming\JA
+458	TOK	activity		activity\N5S
+459	TOK	to		to\P
+460	TOK	awaken		awaken\VMI----
+461	TOK	the		the\AT---6
+462	TOK	760CD		760CD\N5S
+463	TOK	from		from\P
+464	TOK	sleep		sleep\N5S
+465	TOK	mode		mode\N5S
+---	DLD	,		=\DELIM
+466	TOK	but		but\CC
+467	TOK	again		again\DGA7
+---	DLD	,		=\DELIM
+468	TOK	the		the\AT---6
+469	TOK	modem		modem\N5S
+---	DLE	(		=\DELIM
+470	TOK	and		and\CC
+##	TAG	<name>
+471	TOK	MPEG		MPEG\N46
+##	TAG	</name>
+472	TOK	decoding		decode\VMG----
+---	DLD	)		=\DELIM
+473	TOK	had		have\VMC----
+474	TOK	to		to\P
+475	TOK	be		be\VMI----
+476	TOK	specifically		specifically\DGA7
+477	TOK	enabled		enable\VMC----
+478	TOK	in		in\P
+479	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+480	TOK	This	BOS	this\AD---S
+481	TOK	isn		be\V6FDRS3
+482	PGR	't		not\DGA7
+483	TOK	a		a\AI---S
+484	TOK	machine		machine\N5S
+485	TOK	we		we\RPP1NN
+486	TOK	'd		'd\N5S
+487	TOK	recommend		recommend\VMF6R66
+488	TOK	to		to\P
+489	TOK	a		a\AI---S
+490	TOK	novice		novice\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+491	TOK	Physically	BOS	physically\DGA7
+---	DLD	,		=\DELIM
+492	TOK	the		the\AT---6
+##	TAG	<name>
+493	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+494	TOK	is		be\V6FDRS3
+495	TOK	well		well\DGA7
+496	TOK	made		make\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+497	TOK	The	BOS	the\AT---6
+498	TOK	keyboard		keyboard\N5S
+499	TOK	elevates		elevate\VMFDRS3
+500	TOK	at		at\P
+501	TOK	the		the\AT---6
+502	TOK	rear		rear\N5S
+503	TOK	for		for\P
+504	TOK	a		a\AI---S
+505	TOK	different		different\JA
+506	TOK	typing		typing\N5S
+507	TOK	angle		angle\N5S
+508	TOK	or		or\CC
+509	TOK	totally		totally\DGA7
+510	TOK	lifts		lift\VMFDRS3
+511	TOK	up		up\P
+512	TOK	at		at\P
+513	TOK	the		the\AT---6
+514	TOK	front		front\N5S
+515	TOK	to		to\P
+516	TOK	reveal		reveal\VMI----
+517	TOK	the		the\AT---6
+518	TOK	battery		battery\N5S
+---	DLD	,		=\DELIM
+519	TOK	hard		hard\DGA7
+520	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+521	TOK	and		and\CC
+522	TOK	what		what\RW63N-
+##	TAG	<name>
+523	TOK	IBM		IBM\N46
+##	TAG	</name>
+524	TOK	calls		call\VMFDRS3
+525	TOK	the		the\AT---6
+---	DLE	"		=\DELIM
+526	TOK	ultrabay		ultrabay\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+527	TOK	This		this\AD---S
+528	TOK	bay		bay\N5S
+529	TOK	normally		normally\DGA7
+530	TOK	contains		contain\VMFDRS3
+531	TOK	the		the\AT---6
+##	TAG	<name>
+532	TOK	CD-ROM		CD-ROM\N46
+##	TAG	</name>
+533	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+534	TOK	but		but\CC
+535	TOK	it		it\RPS3N6
+536	TOK	can		can\VOFDR66
+537	TOK	instead		instead\DGA7
+538	TOK	hold		hold\VMI----
+539	TOK	the		the\AT---6
+540	TOK	floppy		floppy\JA
+541	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+542	TOK	an		an\AI---S
+543	TOK	extra		extra\JA
+544	TOK	battery		battery\N5S
+---	DLD	,		=\DELIM
+545	TOK	or		or\CC
+546	TOK	a		a\AI---S
+547	TOK	second		second\MOS
+548	TOK	hard		hard\JA
+549	TOK	drive		drive\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+550	TOK	That	BOS	that\AD---S
+551	PGR	's		genmark\GENMARK
+##	TAG	<loc pos="DDA7">
+552	TOK	a lot of		a_lot_of\DDA7
+##	TAG	</loc>
+553	TOK	flexibility		flexibility\N5S
+---	DLD	,		=\DELIM
+554	TOK	but		but\CC
+555	TOK	the		the\AT---6
+556	TOK	implementation		implementation\N5S
+557	TOK	of		of\P
+558	TOK	these		this\AD---P
+559	TOK	exchangeable		exchangeable\JA
+560	TOK	parts		part\N5P
+561	TOK	is		be\V6FDRS3
+562	TOK	awkward		awkward\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+563	TOK	You	BOS	you\RP62N6
+564	TOK	remove		remove\VMF6R66
+565	TOK	any		any\AG---6
+566	TOK	of		of\P
+567	TOK	the		the\AT---6
+568	TOK	existing		existing\JA
+569	TOK	installed		instal\VMC----
+570	TOK	batteries		batterie\N5P
+571	TOK	or		or\CC
+572	TOK	drives		drive\N5P
+573	TOK	by		by\P
+574	TOK	pulling		pull\VMG----
+575	TOK	up		up\P
+576	TOK	on		on\P
+577	TOK	flexible		flexible\JA
+578	TOK	blue		blue\JA
+579	TOK	plastic		plastic\N5S
+580	TOK	tabs		tab\N5P
+581	TOK	at		at\P
+582	TOK	each		each\AG---S
+583	TOK	device		device\N5S
+584	PGR	's		genmark\GENMARK
+585	TOK	rear		rear\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+586	TOK	Presumably	BOS	presumably\DGA7
+587	TOK	strong		strong\JA
+588	TOK	enough		enough\DGA7
+589	TOK	for		for\P
+590	TOK	the		the\AT---6
+591	TOK	job		job\N5S
+---	DLD	,		=\DELIM
+592	TOK	they		they\RPP3NN
+593	TOK	don		do\V6FDR66
+594	PGR	't		not\DGA7
+595	TOK	inspire		inspire\VMI----
+596	TOK	confidence		confidence\N5S
+---	DLD	,		=\DELIM
+597	TOK	and		and\CC
+598	TOK	slippery		slippery\JA
+599	TOK	hands		hand\N5P
+600	TOK	complicate		complicate\VMF6R66
+601	TOK	the		the\AT---6
+602	TOK	task		task\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+603	TOK	Worse	BOS	worse\N5S
+604	TOK	is		be\V6FDRS3
+605	TOK	the		the\AT---6
+606	TOK	bezel		bezel\N5S
+607	TOK	that		that\RW63N6
+608	TOK	you		you\RP62N6
+609	TOK	must		must\VOFDR66
+610	TOK	install		install\VMI----
+611	TOK	when		when\CS
+612	TOK	you		you\RP62N6
+613	TOK	exchange		exchange\VMF6R66
+614	TOK	the		the\AT---6
+##	TAG	<name>
+615	TOK	CD-ROM		CD-ROM\N46
+##	TAG	</name>
+616	TOK	for		for\P
+617	TOK	the		the\AT---6
+618	TOK	floppy		floppy\JA
+619	TOK	drive		drive\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+620	TOK	The	BOS	the\AT---6
+621	TOK	bezel		bezel\N5S
+622	TOK	covers		cover\VMFDRS3
+623	TOK	an		an\AI---S
+624	TOK	opening		opening\N5S
+625	TOK	in		in\P
+626	TOK	the		the\AT---6
+627	TOK	front		front\N5S
+628	TOK	of		of\P
+629	TOK	the		the\AT---6
+##	TAG	<name>
+630	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+631	TOK	but		but\CC
+632	TOK	you		you\RP62N6
+633	TOK	can		can\V6FDR66
+634	PGR	not		not\DGA7
+635	TOK	put		put\VMF6R66
+636	TOK	it		it\RPS3N6
+637	TOK	into		into\P
+638	TOK	place		place\N5S
+639	TOK	unless		unless\CS
+640	TOK	you		you\RP62N6
+641	TOK	first		first\DGA7
+642	TOK	remove		remove\VMF6R66
+643	TOK	the		the\AT---6
+644	TOK	battery		battery\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+645	TOK	something		something\RIS3N-
+646	TOK	the		the\AT---6
+647	TOK	instructions		instruction\N5P
+648	TOK	don		do\V6FDR66
+649	PGR	't		not\DGA7
+650	TOK	mention		mention\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+651	TOK	There	BOS	there\DGA7
+652	TOK	are		be\V6FDR66
+653	TOK	actually		actually\DGA7
+##	TAG	<num>
+654	TOK	two		two\X
+##	TAG	</num>
+655	TOK	different		different\JA
+656	TOK	bezels		bezel\N5P
+657	TOK	included		include\VMC----
+658	TOK	with		with\P
+659	TOK	the		the\AT---6
+660	TOK	computer		computer\N5S
+---	DLD	,		=\DELIM
+661	TOK	one		one\RIS3N-
+662	TOK	for		for\P
+663	TOK	the		the\AT---6
+664	TOK	floppy		floppy\JA
+665	TOK	drive		drive\N5S
+666	TOK	and		and\CC
+667	TOK	one		one\MCS
+668	TOK	for		for\P
+669	TOK	the		the\AT---6
+670	TOK	battery		battery\N5S
+671	TOK	or		or\CC
+672	TOK	hard		hard\DGA7
+673	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+674	TOK	and		and\CC
+675	TOK	they		they\RPP3NN
+676	TOK	're		're\N5S
+677	TOK	an		an\AI---S
+678	TOK	outright		outright\JA
+679	TOK	nuisance		nuisance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+680	TOK	We	BOS	we\RPP1NN
+681	TOK	ended		end\VMF6A66
+682	TOK	up		up\P
+683	TOK	omitting		omit\VMG----
+684	TOK	the		the\AT---6
+685	TOK	bezel		bezel\N5S
+---	DLD	,		=\DELIM
+686	TOK	which		which\RW63N-
+687	TOK	meant		mean\VMF6A66
+688	TOK	the		the\AT---6
+689	TOK	floppy		floppy\JA
+690	TOK	drive		drive\VMF6R66
+691	TOK	wasn		be\V6F-A66
+692	PGR	't		not\DGA7
+693	TOK	held		hold\VMC----
+694	TOK	in		in\P
+695	TOK	place		place\N5S
+696	TOK	as		as\DGA7
+697	TOK	firmly		firmly\DGA7
+698	TOK	as		as\CS
+699	TOK	it		it\RPS3N6
+700	TOK	should		shall\VOFDA66
+701	TOK	have		have\VMI----
+702	TOK	been		be\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+703	TOK	Frankly	BOS	frankly\DGA7
+---	DLD	,		=\DELIM
+704	TOK	the		the\AT---6
+705	TOK	bezels		bezel\N5P
+706	TOK	seem		seem\VMF6R66
+707	TOK	like		like\P
+708	TOK	just		just\DGA7
+709	TOK	more		more\DDC7
+710	TOK	fiddly		fiddly\JA
+711	TOK	little		little\JA
+712	TOK	plastic		plastic\N5S
+713	TOK	bits		bit\N5P
+714	TOK	to		to\P
+715	TOK	get		get\VMI----
+716	TOK	in		in\P
+717	TOK	the		the\AT---6
+718	TOK	way		way\N5S
+---	DLD	,		=\DELIM
+719	TOK	to		to\P
+720	TOK	lose		lose\VMI----
+---	DLD	,		=\DELIM
+721	TOK	or		or\CC
+722	TOK	to		to\P
+723	TOK	break		break\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+724	TOK	The	BOS	the\AT---6
+725	TOK	creative		creative\JA
+726	TOK	folks		folk\N5P
+727	TOK	at		at\P
+##	TAG	<name>
+728	TOK	IBM		IBM\N46
+##	TAG	</name>
+729	TOK	who		who\RW63N-
+730	TOK	dreamed		dream\VMF6A66
+731	TOK	up		up\P
+732	TOK	the		the\AT---6
+##	TAG	<name>
+733	TOK	Butterfly		Butterfly\N46
+##	TAG	</name>
+734	PGR	's		genmark\GENMARK
+735	TOK	expanding		expand\VMG----
+736	TOK	keyboard		keyboard\N5S
+737	TOK	can		can\VOFDR66
+738	TOK	surely		surely\DGA7
+739	TOK	come		come\VMI----
+740	TOK	up		up\P
+741	TOK	with		with\P
+742	TOK	a		a\AI---S
+743	TOK	better		good\JC
+744	TOK	solution		solution\N5S
+745	TOK	to		to\P
+746	TOK	plugging		plug\VMG----
+747	TOK	a		a\AI---S
+748	TOK	hole		hole\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+749	TOK	In	BOS	in\P
+750	TOK	this		this\AD---S
+751	TOK	regard		regard\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+752	TOK	Toshiba		Toshiba\N46
+##	TAG	</name>
+753	TOK	laptops		laptop\N5P
+754	TOK	do		do\V6FDR66
+755	TOK	a		a\AI---S
+756	TOK	much		much\DGA7
+757	TOK	better		good\JC
+758	TOK	job		job\N5S
+759	TOK	of		of\P
+760	TOK	dealing		deal\VMG----
+761	TOK	with		with\P
+762	TOK	peripheral		peripheral\JA
+763	TOK	drives		drive\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+764	TOK	Considerably	BOS	considerably\DGA7
+765	TOK	more		more\DDC7
+766	TOK	thought		think\VMC----
+767	TOK	went		go\VMF6A66
+768	TOK	into		into\P
+769	TOK	the		the\AT---6
+770	TOK	power		power\N5S
+---	DLI	-		=\DELIM
+771	TOK	supply		supply\N5S
+772	TOK	brick		brick\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+773	TOK	To	BOS	to\P
+774	TOK	reduce		reduce\VMI----
+775	TOK	weight		weight\N5S
+776	TOK	and		and\CC
+777	TOK	bulk		bulk\N5S
+---	DLD	,		=\DELIM
+778	TOK	the		the\AT---6
+##	TAG	<name>
+779	TOK	AC		AC\N46
+##	TAG	</name>
+780	TOK	power		power\N5S
+781	TOK	cable		cable\N5S
+782	TOK	is		be\V6FDRS3
+783	TOK	only		only\DGA7
+##	TAG	<num>
+784	TOK	6		6\X
+##	TAG	</num>
+785	TOK	inches		inch\N5P
+786	TOK	long		long\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+787	TOK	The	BOS	the\AT---6
+788	TOK	length		length\N5S
+789	TOK	is		be\V6FDRS3
+790	TOK	in		in\P
+791	TOK	the		the\AT---6
+792	TOK	thin		thin\JA
+793	TOK	cable		cable\N5S
+794	TOK	that		that\RW63N6
+795	TOK	carries		carry\VMFDRS3
+796	TOK	the		the\AT---6
+##	TAG	<name>
+797	TOK	DC		DC\N46
+##	TAG	</name>
+798	TOK	to		to\P
+799	TOK	the		the\AT---6
+800	TOK	computer		computer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+801	TOK	The	BOS	the\AT---6
+802	TOK	brick		brick\N5S
+803	TOK	has		have\V6FDRS3
+804	TOK	a		a\AI---S
+805	TOK	molded		mold\VMC----
+806	TOK	ramp		ramp\N5S
+807	TOK	where		where\CS
+808	TOK	the		the\AT---6
+809	TOK	cable		cable\N5S
+810	TOK	exits		exit\VMFDRS3
+811	TOK	so		so\DGA7
+812	TOK	that		that\CS
+813	TOK	it		it\RPS3N6
+814	TOK	won		would\VOFDR66
+815	PGR	't		not\DGA7
+816	TOK	take		take\VMI----
+817	TOK	a		a\AI---S
+818	TOK	sharp		sharp\JA
+819	TOK	bend		bend\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+820	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+821	TOK	a		a\AI---S
+822	TOK	socket		socket\N5S
+823	TOK	to		to\P
+824	TOK	hold		hold\VMI----
+825	TOK	the		the\AT---6
+826	TOK	other		other\JA
+827	TOK	end		end\N5S
+828	TOK	of		of\P
+829	TOK	the		the\AT---6
+830	TOK	cable		cable\N5S
+831	TOK	when		when\CS
+832	TOK	you		you\RP62N6
+833	TOK	're		're\N5S
+834	TOK	packing		pack\VMG----
+835	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+836	TOK	You	BOS	you\RP62N6
+837	TOK	simply		simply\DGA7
+838	TOK	wrap		wrap\VMF6R66
+839	TOK	the		the\AT---6
+840	TOK	cable		cable\N5S
+841	TOK	around		around\P
+842	TOK	the		the\AT---6
+843	TOK	brick		brick\N5S
+844	TOK	and		and\CC
+845	TOK	then		then\DGA7
+846	TOK	plug		plug\VMF6R66
+847	TOK	the		the\AT---6
+848	TOK	end		end\N5S
+849	TOK	into		into\P
+850	TOK	the		the\AT---6
+851	TOK	top		top\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+852	TOK	But	BOS	but\CC
+853	TOK	now		now\DGA7
+854	TOK	there		there\DGA7
+855	PGR	's		be\V6FDRS3
+856	TOK	slack		slack\JA
+857	TOK	in		in\P
+858	TOK	the		the\AT---6
+859	TOK	cable		cable\N5S
+860	TOK	and		and\CC
+861	TOK	it		it\RPS3N6
+862	TOK	will		will\VOFDR66
+863	TOK	unwind		unwind\VMI----
+---	DLD	,		=\DELIM
+864	TOK	right		right\JA
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+865	TOK	No	BOS	no\AI---6
+---	DLD	,		=\DELIM
+##	TAG	<name>
+866	TOK	IBM		IBM\N46
+##	TAG	</name>
+867	TOK	has		have\V6FDRS3
+868	TOK	thoughtfully		thoughtfully\DGA7
+869	TOK	attached		attach\VMC----
+870	TOK	a		a\AI---S
+##	TAG	<name>
+871	TOK	Velcro		Velcro\N46
+##	TAG	</name>
+872	TOK	strap		strap\N5S
+873	TOK	that		that\RW63N6
+874	TOK	lets		let\VMFDRS3
+875	TOK	you		you\RP62N6
+876	TOK	tighten		tighten\VMI----
+877	TOK	and		and\CC
+878	TOK	neaten		neaten\VMI----
+879	TOK	things		thing\N5P
+880	TOK	up		up\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+881	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+882	TOK	Multimedia Standout	EOS	Multimedia_Standout\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+884	TOK	With	BOS	with\P
+##	TAG	<name>
+885	TOK	MPEG		MPEG\N46
+##	TAG	</name>
+886	TOK	playback		playback\N5S
+---	DLD	,		=\DELIM
+887	TOK	on		on\P
+---	DLI	-		=\DELIM
+888	TOK	screen		screen\N5S
+889	TOK	video		video\N5S
+890	TOK	quality		quality\N5S
+891	TOK	was		be\V6F-A66
+892	TOK	excellent		excellent\JA
+893	TOK	and		and\CC
+894	TOK	smooth		smooth\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+895	TOK	We	BOS	we\RPP1NN
+896	TOK	also		also\DGA7
+897	TOK	enjoyed		enjoy\VMF6A66
+898	TOK	the		the\AT---6
+899	TOK	internal		internal\JA
+900	TOK	quad		quad\VMF6R66
+---	DLI	-		=\DELIM
+901	TOK	speed		speed\N5S
+##	TAG	<name>
+902	TOK	CD-ROM		CD-ROM\N46
+##	TAG	</name>
+903	TOK	drive		drive\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+904	TOK	You	BOS	you\RP62N6
+905	TOK	can		can\VOFDR66
+906	TOK	play		play\VMI----
+907	TOK	audio		audio\JA
+##	TAG	<name>
+908	TOK	CDs		CDs\N46
+##	TAG	</name>
+909	TOK	using		use\VMG----
+910	TOK	the		the\AT---6
+911	TOK	front		front\N5S
+---	DLI	-		=\DELIM
+912	TOK	panel		panel\N5S
+913	TOK	button		button\N5S
+---	DLD	,		=\DELIM
+914	TOK	and		and\CC
+915	TOK	a		a\AI---S
+916	TOK	sliding		slide\VMG----
+917	TOK	control		control\N5S
+918	TOK	lets		let\VMFDRS3
+919	TOK	you		you\RP62N6
+920	TOK	adjust		adjust\VMI----
+921	TOK	the		the\AT---6
+922	TOK	volume		volume\N5S
+923	TOK	through		through\P
+924	TOK	headphones		headphone\N5P
+---	DLE	(		=\DELIM
+925	TOK	not		not\DGA7
+926	TOK	included)or		included)or\N5S
+927	TOK	the		the\AT---6
+##	TAG	<num>
+928	TOK	two		two\X
+##	TAG	</num>
+929	TOK	front		front\N5S
+---	DLI	-		=\DELIM
+930	TOK	mounted		mount\VMC----
+931	TOK	stereo		stereo\N5S
+932	TOK	speakers		speaker\N5P
+---	DLD	,		=\DELIM
+933	TOK	which		which\RW63N-
+934	TOK	sound		sound\JA
+935	TOK	about		about\DGA7
+936	TOK	as		as\DGA7
+937	TOK	tinny		tinny\JA
+938	TOK	as		as\CS
+939	TOK	you		you\RP62N6
+940	TOK	'd		'd\N5S
+941	TOK	expect		expect\VMF6R66
+942	TOK	with		with\P
+##	TAG	<num>
+943	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+944	TOK	inch		inch\N5S
+945	TOK	transducers		transducer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+946	TOK	The	BOS	the\AT---6
+947	TOK	drive		drive\N5S
+948	TOK	also		also\DGA7
+949	TOK	reads		read\VMFDRS3
+##	TAG	<name>
+950	TOK	Kodak Photo CDs		Kodak_Photo_CDs\N46
+##	TAG	</name>
+951	TOK	and		and\CC
+952	TOK	plays		play\VMFDRS3
+##	TAG	<name>
+953	TOK	Philips CD Interactive		Philips_CD_Interactive\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+954	TOK	CD-I		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+955	TOK	game		game\N5S
+956	TOK	and		and\CC
+957	TOK	instructional		instructional\JA
+958	TOK	discs		disc\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+959	TOK	The	BOS	the\AT---6
+960	TOK	test		test\N5S
+961	TOK	unit		unit\N5S
+962	TOK	came		come\VMF6A66
+963	TOK	with		with\P
+##	TAG	<name>
+964	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+965	TOK	95		95\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+966	TOK	including		including\P
+967	TOK	the		the\AT---6
+##	TAG	<name>
+968	TOK	Microsoft Internet Explorer		Microsoft_Internet_Explorer\N46
+##	TAG	</name>
+969	TOK	and		and\CC
+##	TAG	<name>
+970	TOK	Microsoft Network		Microsoft_Network\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+971	TOK	Additional	BOS	additional\JA
+972	TOK	bundled		bundle\VMC----
+973	TOK	software		software\N5S
+974	TOK	included		include\VMF6A66
+##	TAG	<name>
+975	TOK	Asymetrix Compel PE		Asymetrix_Compel_PE\N46
+##	TAG	</name>
+976	TOK	and		and\CC
+##	TAG	<name>
+977	TOK	Mind Path		Mind_Path\N46
+##	TAG	</name>
+978	TOK	multimedia		multimedia\JA
+979	TOK	presentation		presentation\N5S
+980	TOK	software		software\N5S
+---	DLD	;		=\DELIM
+981	TOK	a		a\AI---S
+##	TAG	<name>
+982	TOK	FaxWorks		FaxWorks\N46
+##	TAG	</name>
+983	TOK	faxing		fax\VMG----
+984	TOK	package		package\VMF6R66
+---	DLD	;		=\DELIM
+##	TAG	<name>
+985	TOK	TranXit		TranXit\N46
+##	TAG	</name>
+986	TOK	file		file\N5S
+987	TOK	transfer		transfer\N5S
+988	TOK	software		software\N5S
+---	DLD	,		=\DELIM
+989	TOK	which		which\RW63N-
+990	TOK	can		can\VOFDR66
+991	TOK	use		use\VMI----
+992	TOK	serial		serial\JA
+---	DLD	,		=\DELIM
+993	TOK	parallel		parallel\JA
+---	DLD	,		=\DELIM
+994	TOK	or		or\CC
+995	TOK	the		the\AT---6
+996	TOK	built		build\VMF6A66
+---	DLI	-		=\DELIM
+997	TOK	in		in\P
+---	DLE	(		=\DELIM
+998	TOK	two		two\MCP
+---	DLI	-		=\DELIM
+999	TOK	port		port\N5S
+---	DLD	)		=\DELIM
+1000	TOK	infrared		infrared\N5S
+1001	TOK	links		link\VMFDRS3
+---	DLD	;		=\DELIM
+##	TAG	<name>
+1002	TOK	Digital Video Producer		Digital_Video_Producer\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1003	TOK	for		for\P
+1004	TOK	capturing		capture\VMG----
+1005	TOK	video		video\N5S
+---	DLD	;		=\DELIM
+1006	TOK	a		a\AI---S
+##	TAG	<name>
+1007	TOK	Video		Video\N46
+##	TAG	</name>
+##	TAG	<na type="function">
+1008	TOK	CD-I		noanat\W
+##	TAG	</na>
+1009	TOK	player		player\N5S
+---	DLD	;		=\DELIM
+1010	TOK	and		and\CC
+1011	TOK	a		a\AI---S
+1012	TOK	group		group\N5S
+1013	TOK	of		of\P
+##	TAG	<name>
+1014	TOK	Lotus		Lotus\N46
+##	TAG	</name>
+1015	TOK	applications		application\N5P
+---	DLD	,		=\DELIM
+1016	TOK	including		including\P
+##	TAG	<name>
+1017	TOK	ScreenCam		ScreenCam\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1018	TOK	cc		cc\N5P
+---	DLD	:		=\DELIM
+##	TAG	<name>
+1019	TOK	Mail Mobile		Mail_Mobile\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1020	TOK	and		and\CC
+##	TAG	<name>
+1021	TOK	Lotus Organizer		Lotus_Organizer\N46
+##	TAG	</name>
+##	TAG	<num>
+1022	TOK	2.0		2.0\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1023	TOK	On	BOS	on\P
+1024	TOK	the		the\AT---6
+##	TAG	<name>
+1025	TOK	Road Again	EOS	Road_Again\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1027	TOK	The	BOS	the\AT---6
+1028	TOK	unit		unit\N5S
+1029	PGR	's		genmark\GENMARK
+1030	TOK	full		full\JA
+---	DLI	-		=\DELIM
+1031	TOK	size		size\N5S
+1032	TOK	notebook		notebook\N5S
+1033	TOK	keyboard		keyboard\N5S
+1034	TOK	is		be\V6FDRS3
+1035	TOK	good		good\JA
+---	DLD	,		=\DELIM
+1036	TOK	though		though\DGA7
+1037	TOK	not		not\DGA7
+1038	TOK	remarkably		remarkably\DGA7
+1039	TOK	so		so\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1040	TOK	The	BOS	the\AT---6
+1041	TOK	built		build\VMF6A66
+---	DLI	-		=\DELIM
+1042	TOK	in		in\P
+##	TAG	<name>
+1043	TOK	TrackPoint		TrackPoint\N46
+##	TAG	</name>
+##	TAG	<num>
+1044	TOK	III		III\X
+##	TAG	</num>
+1045	TOK	pointing		pointing\N5S
+1046	TOK	device		device\N5S
+1047	TOK	is		be\V6FDRS3
+1048	TOK	by		by\P
+1049	TOK	far		far\DGA7
+1050	TOK	the		the\AT---6
+1051	TOK	nicest		nice\JS
+1052	TOK	implementation		implementation\N5S
+1053	TOK	of		of\P
+1054	TOK	this		this\AD---S
+1055	TOK	type		type\N5S
+1056	TOK	we		we\RPP1NN
+1057	PGR	've		have\V6FDR66
+1058	TOK	yet		yet\DGA7
+1059	TOK	encountered		encounter\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1060	TOK	It	BOS	it\RPS3N6
+1061	PGR	's		be\V6FDRS3
+1062	TOK	reasonably		reasonably\DGA7
+1063	TOK	fast		fast\JA
+1064	TOK	and		and\CC
+1065	TOK	accurate		accurate\JA
+1066	TOK	yet		yet\DGA7
+1067	TOK	unintrusive		unintrusive\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1068	TOK	Both	BOS	both\RIP3N-
+1069	TOK	mouse		mouse\N5S
+1070	TOK	buttons		button\VMFDRS3
+---	DLD	,		=\DELIM
+1071	TOK	located		locate\VMC----
+1072	TOK	at		at\P
+1073	TOK	the		the\AT---6
+1074	TOK	base		base\N5S
+1075	TOK	of		of\P
+1076	TOK	the		the\AT---6
+1077	TOK	keyboard		keyboard\N5S
+---	DLD	,		=\DELIM
+1078	TOK	can		can\VOFDR66
+1079	TOK	be		be\VMI----
+1080	TOK	physically		physically\DGA7
+1081	TOK	locked		lock\VMC----
+1082	TOK	in		in\P
+1083	TOK	place		place\N5S
+1084	TOK	to		to\P
+1085	TOK	make		make\VMI----
+1086	TOK	drag		drag\N5S
+1087	TOK	operations		operation\N5P
+1088	TOK	easier		easy\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1089	TOK	In	BOS	in\P
+1090	TOK	tests		test\N5P
+1091	TOK	with		with\P
+##	TAG	<name>
+1092	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+1093	PGR	's		genmark\GENMARK
+##	TAG	<name>
+1094	TOK	Thumper		Thumper\N46
+##	TAG	</name>
+##	TAG	<num>
+1095	TOK	2		2\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1096	TOK	a		a\AI---S
+1097	TOK	robotic		robotic\JA
+1098	TOK	device		device\N5S
+1099	TOK	that		that\RW63N6
+1100	TOK	simulates		simulate\VMFDRS3
+1101	TOK	actual		actual\JA
+1102	TOK	use		use\VMF6R66
+---	DLD	,		=\DELIM
+1103	TOK	the		the\AT---6
+##	TAG	<name>
+1104	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+1105	PGR	's		genmark\GENMARK
+1106	TOK	lithium		lithium\N5S
+---	DLI	-		=\DELIM
+1107	TOK	ion		ion\N5S
+1108	TOK	battery		battery\N5S
+1109	TOK	lasted		last\VMF6A66
+##	TAG	<num>
+1110	TOK	3.0		3.0\X
+##	TAG	</num>
+1111	TOK	hours		hour\N5P
+1112	TOK	with		with\P
+1113	TOK	the		the\AT---6
+##	TAG	<name>
+1114	TOK	CD-ROM		CD-ROM\N46
+##	TAG	</name>
+1115	TOK	drive		drive\N5S
+1116	TOK	inactive		inactive\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1117	TOK	Heavy	BOS	heavy\JA
+##	TAG	<name>
+1118	TOK	CD		CD\N46
+##	TAG	</name>
+1119	TOK	use		use\N5S
+1120	TOK	would		will\VOFDA66
+1121	TOK	cut		cut\VMI----
+1122	TOK	this		this\AD---S
+1123	TOK	time		time\N5S
+##	TAG	<abbr>
+1124	TOK	drastically.		drastically.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+1125	TOK	With		With\N5S
+1126	TOK	a		a\AI---S
+1127	TOK	freshly		freshly\DGA7
+1128	TOK	charged		charge\VMC----
+1129	TOK	battery		battery\N5S
+---	DLD	,		=\DELIM
+1130	TOK	the		the\AT---6
+##	TAG	<name>
+1131	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+1132	PGR	's		genmark\GENMARK
+1133	TOK	battery		battery\N5S
+---	DLI	-		=\DELIM
+1134	TOK	gauge		gauge\N5S
+1135	TOK	program		program\N5S
+1136	TOK	indicated		indicate\VMF6A66
+1137	TOK	that		that\CS
+1138	TOK	we		we\RPP1NN
+1139	TOK	had		have\V6F6A66
+##	TAG	<num>
+1140	TOK	2		2\X
+##	TAG	</num>
+1141	TOK	hours		hour\N5P
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1142	TOK	30		30\X
+##	TAG	</num>
+1143	TOK	minutes		minute\N5P
+1144	TOK	of		of\P
+1145	TOK	processing		processing\N5S
+##	TAG	<abbr>
+1146	TOK	time.		time.\N5P
+##	TAG	</abbr>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1147	TOK	IBM	BOS	IBM\N46
+##	TAG	</name>
+1148	PGR	's		genmark\GENMARK
+1149	TOK	literature		literature\N5S
+1150	TOK	claims		claim\VMFDRS3
+1151	TOK	battery		battery\N5S
+1152	TOK	life		life\N5S
+1153	TOK	ranges		range\N5P
+1154	TOK	from		from\P
+##	TAG	<num>
+1155	TOK	3		3\X
+##	TAG	</num>
+1156	TOK	to		to\P
+##	TAG	<num>
+1157	TOK	9		9\X
+##	TAG	</num>
+1158	TOK	hours		hour\N5P
+---	DLD	,		=\DELIM
+1159	TOK	presumably		presumably\DGA7
+1160	TOK	with		with\P
+1161	TOK	all		all\AG---6
+1162	TOK	power		power\N5S
+---	DLI	-		=\DELIM
+1163	TOK	saving		saving\N5S
+1164	TOK	options		option\N5P
+1165	TOK	adjusted		adjust\VMC----
+1166	TOK	to		to\P
+1167	TOK	their		their\APP3N6
+1168	TOK	most		most\DDS7
+1169	TOK	economical		economical\JA
+---	DLE	(		=\DELIM
+1170	TOK	and		and\CC
+1171	TOK	most		most\AG---6
+1172	TOK	intrusive		intrusive\JA
+---	DLD	)		=\DELIM
+1173	TOK	settings		setting\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1174	TOK	Installing	BOS	instal\VMG----
+1175	TOK	a		a\AI---S
+1176	TOK	second		second\MOS
+1177	TOK	battery		battery\N5S
+1178	TOK	doubles		double\VMFDRS3
+1179	TOK	the		the\AT---6
+1180	TOK	run		run\N5S
+1181	TOK	time		time\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1182	TOK	Nickel	BOS	nickel\N5S
+---	DLI	-		=\DELIM
+1183	TOK	metal		metal\N5S
+---	DLI	-		=\DELIM
+1184	TOK	hydride		hydride\N5S
+1185	TOK	batteries		batterie\N5P
+1186	TOK	are		be\V6FDR66
+1187	TOK	also		also\DGA7
+1188	TOK	available		available\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1189	TOK	This	BOS	this\AD---S
+1190	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+1191	TOK	equipped		equip\VMC----
+1192	TOK	machine		machine\N5S
+1193	TOK	is		be\V6FDRS3
+1194	TOK	for		for\P
+1195	TOK	the		the\AT---6
+1196	TOK	power		power\N5S
+1197	TOK	user		user\N5S
+1198	TOK	who		who\RW63N-
+1199	TOK	wants		want\VMFDRS3
+1200	TOK	to		to\P
+1201	TOK	consolidate		consolidate\VMI----
+1202	TOK	his		his\APS3M6
+1203	TOK	or		or\CC
+1204	TOK	her		her\APS3F6
+1205	TOK	activities		activity\N5P
+1206	TOK	into		into\P
+1207	TOK	one		one\MCS
+1208	TOK	computer		computer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1209	TOK	To	BOS	to\P
+1210	TOK	measure		measure\N5S
+1211	TOK	performance		performance\N5S
+---	DLD	,		=\DELIM
+1212	TOK	we		we\RPP1NN
+1213	TOK	ran		run\VMF6A66
+##	TAG	<name>
+1214	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1215	TOK	95		95\X
+##	TAG	</num>
+1216	TOK	application		application\N5S
+1217	TOK	test		test\N5S
+1218	TOK	scripts		script\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1219	TOK	Microsoft Excel		Microsoft_Excel\N46
+##	TAG	</name>
+##	TAG	<num>
+1220	TOK	7		7\X
+##	TAG	</num>
+1221	TOK	and		and\CC
+##	TAG	<name>
+1222	TOK	Word		Word\N46
+##	TAG	</name>
+##	TAG	<num>
+1223	TOK	7		7\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+1224	TOK	developed		develop\VMC----
+1225	TOK	by		by\P
+##	TAG	<name>
+1226	TOK	NSTL		NSTL\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1227	TOK	When	BOS	when\CS
+1228	TOK	compared		compare\VMC----
+1229	TOK	to		to\P
+1230	TOK	a		a\AI---S
+1231	TOK	similarly		similarly\DGA7
+1232	TOK	configured		configure\VMF6A66
+##	TAG	<num>
+1233	TOK	90		90\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+1234	TOK	MHz Dell Dimension XPS P90		MHz_Dell_Dimension_XPS_P90\N46
+##	TAG	</name>
+1235	TOK	desktop		desktop\N5S
+1236	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+1237	TOK	the		the\AT---6
+##	TAG	<name>
+1238	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+1239	TOK	performed		perform\VMF6A66
+1240	TOK	only		only\JA
+1241	TOK	two		two\MCP
+---	DLI	-		=\DELIM
+1242	TOK	thirds		third\N5P
+1243	TOK	as		as\P
+1244	TOK	fast		fast\JA
+1245	TOK	due		due\JA
+1246	TOK	to		to\P
+1247	TOK	a		a\AI---S
+1248	TOK	slower		slow\JC
+1249	TOK	graphics		graphic\N56
+1250	TOK	subsystem		subsystem\N5S
+---	DLD	,		=\DELIM
+1251	TOK	a		a\AI---S
+1252	TOK	bottleneck		bottleneck\N5S
+1253	TOK	with		with\P
+1254	TOK	most		most\AG---6
+1255	TOK	portables		portable\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1256	TOK	Gimme	BOS	gimme\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1257	TOK	I Wanna		I_Wanna\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1258	TOK	It	BOS	it\RPS3N6
+1259	PGR	's		be\V6FDRS3
+1260	TOK	not		not\DGA7
+1261	TOK	easy		easy\JA
+1262	TOK	being		be\VMG----
+1263	TOK	a		a\AI---S
+##	TAG	<name>
+1264	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+1265	TOK	reviewer		reviewer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1266	TOK	Although	BOS	although\CS
+1267	TOK	we		we\RPP1NN
+1268	TOK	get		get\VMF6R66
+1269	TOK	to		to\P
+1270	TOK	play		play\VMI----
+1271	TOK	with		with\P
+1272	TOK	the		the\AT---6
+1273	TOK	latest		late\JS
+1274	TOK	tools		tool\N5P
+---	DLD	,		=\DELIM
+1275	TOK	we		we\RPP1NN
+1276	TOK	have		have\V6F6R66
+1277	TOK	to		to\P
+1278	TOK	deal		deal\VMI----
+1279	TOK	with		with\P
+1280	TOK	products		product\N5P
+1281	TOK	that		that\RW63N6
+1282	TOK	are		be\V6FDR66
+1283	TOK	sometimes		sometimes\DGA7
+1284	TOK	mysterious		mysterious\JA
+1285	TOK	and		and\CC
+1286	TOK	dumb		dumb\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1287	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1288	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+1289	TOK	760CD		760CD\N5S
+1290	TOK	is		be\V6FDRS3
+1291	TOK	neither		neither\RIP3N-
+1292	TOK	of		of\P
+1293	TOK	those		that\AD---P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1294	TOK	It	BOS	it\RPS3N6
+1295	PGR	's		be\V6FDRS3
+1296	TOK	a		a\AI---S
+1297	TOK	very		very\JA
+##	TAG	<name>
+1298	TOK	nice		nice\N46
+##	TAG	</name>
+1299	TOK	unit		unit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1300	TOK	About	BOS	about\P
+1301	TOK	the		the\AT---6
+1302	TOK	worst		bad\JS
+1303	TOK	thing		thing\N5S
+1304	TOK	we		we\RPP1NN
+1305	TOK	can		can\VOFDR66
+1306	TOK	say		say\VMI----
+1307	TOK	of		of\P
+1308	TOK	the		the\AT---6
+1309	TOK	760CD		760CD\N5S
+1310	TOK	is		be\V6FDRS3
+1311	TOK	that		that\RDS3N-
+---	DLD	,		=\DELIM
+1312	TOK	compared		compare\VMC----
+1313	TOK	to		to\P
+1314	TOK	the		the\AT---6
+1315	TOK	competition		competition\N5S
+---	DLD	,		=\DELIM
+1316	TOK	it		it\RPS3N6
+1317	PGR	's		be\V6FDRS3
+1318	TOK	somewhat		somewhat\DGA7
+1319	TOK	overpriced		overprice\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1320	TOK	But	BOS	but\CC
+1321	TOK	the		the\AT---6
+1322	TOK	display		display\N5S
+1323	TOK	really		really\DGA7
+1324	TOK	changes		change\VMFDRS3
+1325	TOK	the		the\AT---6
+1326	TOK	way		way\N5S
+1327	TOK	you		you\RP62N6
+1328	TOK	think		think\VMF6R66
+1329	TOK	about		about\P
+1330	TOK	a		a\AI---S
+1331	TOK	laptop		laptop\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1332	TOK	I	BOS	i\RPS1NN
+1333	TOK	don		do\V6FDR66
+1334	PGR	't		not\DGA7
+1335	TOK	want		want\N5S
+1336	TOK	to		to\P
+1337	TOK	give		give\VMI----
+1338	TOK	it		it\RPS3N6
+1339	TOK	back		back\DGA7
+1340	TOK	to		to\P
+##	TAG	<name>
+1341	TOK	IBM		IBM\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1342	TOK	PRODUCT	BOS	product\N5S
+##	TAG	<name>
+1343	TOK	INFORMATION ThinkPad		INFORMATION_ThinkPad\N46
+##	TAG	</name>
+1344	TOK	760CD		760CD\N5P
+---	DLE	-		=\DELIM
+1345	TOK	$		$\N5P
+##	TAG	<num>
+1346	TOK	8134		8134\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1347	TOK	with		with\P
+##	TAG	<num>
+1348	TOK	90		90\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+1349	TOK	MHz Pentium		MHz_Pentium\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<na type="function">
+1350	TOK	256-KB		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1351	TOK	L2		L2\N46
+##	TAG	</name>
+1352	TOK	cache		cache\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1353	TOK	16		16\X
+##	TAG	</num>
+##	TAG	<name>
+1354	TOK	MB of RAM		MB_of_RAM\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1355	TOK	12.1		12.1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1356	TOK	inch		inch\N5S
+1357	TOK	active		active\JA
+---	DLI	-		=\DELIM
+1358	TOK	matrix		matrix\N5S
+1359	TOK	color		color\N5S
+1360	TOK	display		display\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<na type="function">
+1361	TOK	1.2-GB		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1362	TOK	EIDE		EIDE\N46
+##	TAG	</name>
+1363	TOK	hard		hard\DGA7
+1364	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+1365	TOK	and		and\CC
+1366	TOK	quad		quad\VMF6R66
+---	DLI	-		=\DELIM
+1367	TOK	speed		speed\N5S
+##	TAG	<name>
+1368	TOK	CD-ROM		CD-ROM\N46
+##	TAG	</name>
+1369	TOK	drive		drive\VMF6R66
+---	DLD	)		=\DELIM
+##	TAG	<name>
+1370	TOK	IBM Personal Computer Co		IBM_Personal_Computer_Co\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1371	TOK	Research	BOS	research\N5S
+##	TAG	<name>
+1372	TOK	Triangle Park		Triangle_Park\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1373	TOK	NC Phone		NC_Phone\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1374	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1375	TOK	426-2968		noanat\W
+##	TAG	</na>
+1376	TOK	or		or\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1377	TOK	919		919\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1378	TOK	517-1950		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1379	TOK	Fax		Fax\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1380	TOK	919		919\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1381	TOK	517-1101		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1382	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+##	TAG	<na type="url">
+1383	TOK	http://www.pc.ibm.com		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1384	TOK	Circle		Circle\N46
+##	TAG	</name>
+##	TAG	<num>
+1385	TOK	1106		1106\X
+##	TAG	</num>
+1386	TOK	on		on\P
+##	TAG	<name>
+1387	TOK	Inquiry Card		Inquiry_Card\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+1388	TOK	Windows	BOS	Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1389	TOK	95		95\X
+##	TAG	</num>
+##	TAG	<name>
+1390	TOK	Application Performance	EOS	Application_Performance\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+1392	TOK	illustration_link	BOS	illustration_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1393	TOK	3		3\X
+##	TAG	</num>
+##	TAG	<name>
+1394	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1396	TOK	Windows	BOS	Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1397	TOK	95		95\X
+##	TAG	</num>
+##	TAG	<name>
+1398	TOK	Application Performance Testing		Application_Performance_Testing\N46
+##	TAG	</name>
+1399	TOK	under		under\P
+##	TAG	<name>
+1400	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1401	TOK	95		95\X
+##	TAG	</num>
+1402	TOK	with		with\P
+##	TAG	<name>
+1403	TOK	Microsoft Word		Microsoft_Word\N46
+##	TAG	</name>
+##	TAG	<num>
+1404	TOK	7		7\X
+##	TAG	</num>
+1405	TOK	and		and\CC
+##	TAG	<name>
+1406	TOK	Excel		Excel\N46
+##	TAG	</name>
+##	TAG	<num>
+1407	TOK	7		7\X
+##	TAG	</num>
+1408	TOK	scripts		script\N5P
+1409	TOK	developed		develop\VMC----
+1410	TOK	by		by\P
+##	TAG	<name>
+1411	TOK	NSTL		NSTL\N46
+##	TAG	</name>
+1412	TOK	shows		show\VMFDRS3
+1413	TOK	that		that\CS
+1414	TOK	the		the\AT---6
+##	TAG	<name>
+1415	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+1416	TOK	760CD		760CD\N5P
+1417	TOK	doesn		do\V6FDRS3
+1418	PGR	't		not\DGA7
+1419	TOK	match		match\N5S
+1420	TOK	desktop		desktop\N5S
+1421	TOK	performance		performance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1422	TOK	Less	BOS	less\N56
+---	DLI	-		=\DELIM
+1423	TOK	than		than\CS
+---	DLI	-		=\DELIM
+1424	TOK	desktop		desktop\N5S
+1425	TOK	performance		performance\N5S
+---	DLD	,		=\DELIM
+1426	TOK	which		which\RW63N-
+1427	TOK	is		be\V6FDRS3
+1428	TOK	typical		typical\JA
+1429	TOK	for		for\P
+1430	TOK	portables		portable\N5P
+---	DLD	,		=\DELIM
+1431	TOK	stems		stem\VMFDRS3
+1432	TOK	from		from\P
+1433	TOK	weaker		weak\JC
+1434	TOK	graphics		graphic\N56
+1435	TOK	speed		speed\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1436	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1437	TOK	Wintach		Wintach\N46
+##	TAG	</name>
+1438	TOK	graphics		graphic\N56
+1439	TOK	test		test\N5S
+1440	TOK	showed		show\VMF6A66
+1441	TOK	that		that\CS
+1442	TOK	the		the\AT---6
+1443	TOK	comparison		comparison\N5S
+##	TAG	<name>
+1444	TOK	Dell		Dell\N46
+##	TAG	</name>
+1445	TOK	desktop		desktop\N5S
+1446	TOK	system		system\N5S
+1447	TOK	had		have\V6F6A66
+##	TAG	<num>
+1448	TOK	67		67\X
+##	TAG	</num>
+1449	TOK	percent		percent\N56
+1450	TOK	better		good\JC
+1451	TOK	graphics		graphic\N56
+1452	TOK	speed		speed\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1453	TOK	We	BOS	we\RPP1NN
+1454	TOK	tested		test\VMF6A66
+1455	TOK	at		at\P
+##	TAG	<na type="function">
+1456	TOK	800- by		noanat\W
+##	TAG	</na>
+##	TAG	<num>
+1457	TOK	600		600\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1458	TOK	pixel		pixel\N5S
+1459	TOK	resolutions		resolution\N5P
+1460	TOK	with		with\P
+##	TAG	<num>
+1461	TOK	256		256\X
+##	TAG	</num>
+1462	TOK	colors		color\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1463	TOK	Both	BOS	both\RIP3N-
+1464	TOK	the		the\AT---6
+##	TAG	<name>
+1465	TOK	Dell Dimension XPS P90		Dell_Dimension_XPS_P90\N46
+##	TAG	</name>
+1466	TOK	and		and\CC
+1467	TOK	the		the\AT---6
+##	TAG	<name>
+1468	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+1469	TOK	760CD		760CD\N5S
+1470	TOK	had		have\V6F6A66
+##	TAG	<num>
+1471	TOK	90		90\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+1472	TOK	MHz Pentium		MHz_Pentium\N46
+##	TAG	</name>
+1473	TOK	processors		processor\N5P
+1474	TOK	and		and\CC
+##	TAG	<num>
+1475	TOK	16		16\X
+##	TAG	</num>
+##	TAG	<name>
+1476	TOK	MB of RAM		MB_of_RAM\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1477	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1478	TOK	XPS P90		XPS_P90\N46
+##	TAG	</name>
+1479	TOK	had		have\V6F6A66
+1480	TOK	an		an\AI---S
+##	TAG	<name>
+1481	TOK	STB Powergraph		STB_Powergraph\N46
+##	TAG	</name>
+##	TAG	<num>
+1482	TOK	64		64\X
+##	TAG	</num>
+##	TAG	<name>
+1483	TOK	Video		Video\N46
+##	TAG	</name>
+1484	TOK	graphics		graphic\N56
+1485	TOK	card		card\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+1486	TOK	ThinkPad	BOS	ThinkPad\N46
+##	TAG	</name>
+1487	TOK	70CD	EOS	70CD\N5S
+##	TAG	</head>
+##	TAG	<head>
+1489	TOK	photo_link	BOS	photo_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1490	TOK	43		43\X
+##	TAG	</num>
+##	TAG	<name>
+1491	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1493	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1494	TOK	ThinkPad		ThinkPad\N46
+##	TAG	</name>
+1495	TOK	760CD		760CD\N5S
+1496	TOK	has		have\V6FDRS3
+1497	TOK	more		more\DDC7
+1498	TOK	to		to\P
+1499	TOK	offer		offer\VMI----
+1500	TOK	than		than\CS
+1501	TOK	a		a\AI---S
+##	TAG	<num>
+1502	TOK	12.1		12.1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1503	TOK	inch		inch\N5S
+1504	TOK	color		color\N5S
+1505	TOK	screen		screen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1506	TOK	Lifting	BOS	lift\VMG----
+1507	TOK	the		the\AT---6
+1508	TOK	keyboard		keyboard\N5S
+1509	TOK	reveals		reveal\VMFDRS3
+1510	TOK	a		a\AI---S
+1511	TOK	quad		quad\JA
+---	DLI	-		=\DELIM
+1512	TOK	speed		speed\N5S
+##	TAG	<name>
+1513	TOK	CD-ROM		CD-ROM\N46
+##	TAG	</name>
+1514	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+1515	TOK	a		a\AI---S
+1516	TOK	lithium		lithium\N5S
+---	DLI	-		=\DELIM
+1517	TOK	ion		ion\N5S
+1518	TOK	battery		battery\N5S
+---	DLD	,		=\DELIM
+1519	TOK	a		a\AI---S
+##	TAG	<na type="function">
+1520	TOK	1.2-GB		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1521	TOK	EIDE		EIDE\N46
+##	TAG	</name>
+1522	TOK	hard		hard\DGA7
+1523	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+1524	TOK	and		and\CC
+1525	TOK	a		a\AI---S
+##	TAG	<name pos="N46" expansion="digital signal processing">
+1526	TOK	DSP		DSP\N46
+##	TAG	</name>
+1527	TOK	subsystem		subsystem\N5S
+1528	TOK	that		that\RW63N6
+1529	TOK	provides		provide\VMFDRS3
+##	TAG	<num>
+1530	TOK	28.8		28.8\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+1531	TOK	Kbps		Kbps\N46
+##	TAG	</name>
+1532	TOK	communications		communication\N5P
+1533	TOK	and		and\CC
+1534	TOK	telephony		telephony\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1535	TOK	Russell Kay	BOS	Russell_Kay\N46
+##	TAG	</name>
+1536	TOK	is		be\V6FDRS3
+1537	TOK	a		a\AI---S
+##	TAG	<name>
+1538	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+1539	TOK	technical		technical\JA
+1540	TOK	editor		editor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1541	TOK	He	BOS	he\RPS3MN
+1542	TOK	can		can\VOFDR66
+1543	TOK	be		be\VMI----
+1544	TOK	contacted		contact\VMC----
+1545	TOK	on		on\P
+1546	TOK	the		the\AT---6
+##	TAG	<name>
+1547	TOK	Internet		Internet\N46
+##	TAG	</name>
+1548	TOK	or		or\CC
+##	TAG	<name>
+1549	TOK	BIX		BIX\N46
+##	TAG	</name>
+1550	TOK	at		at\P
+##	TAG	<na type="email">
+1551	TOK	russellk@bix.com		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

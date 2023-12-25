@@ -1,0 +1,7644 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	Muscle	BOS	muscle\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2	TOK	Genes		Genes\N46
+##	TAG	</name>
+3	TOK	and		and\CC
+##	TAG	<name>
+4	TOK	Athletic Performance		Athletic_Performance\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+5	TOK	The	BOS	The\N5P
+6	TOK	cellular		cellular\JA
+7	TOK	biology		biology\N5S
+8	TOK	of		of\P
+9	TOK	muscle		muscle\N5S
+10	TOK	helps		help\VMFDRS3
+11	TOK	to		to\P
+12	TOK	explain		explain\VMI----
+13	TOK	why		why\CS
+14	TOK	a		a\AI---S
+15	TOK	particular		particular\JA
+16	TOK	athlete		athlete\N5S
+17	TOK	wins		win\VMFDRS3
+18	TOK	and		and\CC
+19	TOK	suggests		suggest\VMFDRS3
+20	TOK	what		what\AW---6
+21	TOK	future		future\N5S
+22	TOK	athletes		athlete\N5P
+23	TOK	might		may\VOFDR66
+24	TOK	do		do\VMI----
+25	TOK	to		to\P
+26	TOK	better		better\DDC7
+27	TOK	their		their\APP3N6
+28	TOK	odds	EOS	odds\N56
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+30	TOK	On	BOS	on\P
+31	TOK	your		your\AP62N6
+32	TOK	marks		mark\N5P
+---	DLD	!		=\DELIM
+---	DLD	"		=\DELIM
+33	TOK	A		a\AI---S
+34	TOK	hush		hush\N5S
+35	TOK	falls		fall\N5P
+36	TOK	as		as\P
+##	TAG	<num>
+37	TOK	60,000		60,000\X
+##	TAG	</num>
+38	TOK	pairs		pair\N5P
+39	TOK	of		of\P
+40	TOK	eyes		eye\N5P
+41	TOK	are		be\V6FDR66
+42	TOK	fixed		fix\VMC----
+43	TOK	on		on\P
+##	TAG	<num>
+44	TOK	eight		eight\X
+##	TAG	</num>
+45	TOK	of		of\P
+46	TOK	the		the\AT---6
+47	TOK	fastest		fast\JS
+48	TOK	men		man\N5P
+49	TOK	on		on\P
+50	TOK	earth		earth\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+51	TOK	The	BOS	the\AT---6
+52	TOK	date		date\N5S
+53	TOK	is		be\V6FDRS3
+##	TAG	<date pos="T" ISO8601="1999-08-22">
+54	TOK	August 22, 1999		August_22,_1999\T
+##	TAG	</date>
+---	DLE	,		=\DELIM
+55	TOK	and		and\CC
+56	TOK	the		the\AT---6
+57	TOK	runners		runner\N5P
+58	TOK	are		be\V6FDR66
+59	TOK	crouched		crouch\VMC----
+60	TOK	at		at\P
+61	TOK	the		the\AT---6
+62	TOK	starting		start\VMG----
+63	TOK	line		line\N5S
+64	TOK	of		of\P
+65	TOK	the		the\AT---6
+##	TAG	<num>
+66	TOK	100		100\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+67	TOK	meter		meter\N5S
+68	TOK	final		final\JA
+69	TOK	at		at\P
+70	TOK	the		the\AT---6
+71	TOK	track		track\N5S
+---	DLI	-		=\DELIM
+72	TOK	and		and\CC
+---	DLI	-		=\DELIM
+73	TOK	field		field\N5S
+74	TOK	world		world\N5S
+75	TOK	championships		championship\N5P
+76	TOK	in		in\P
+##	TAG	<name>
+77	TOK	Seville		Seville\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+78	TOK	Spain		Spain\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+79	TOK	Get		get\N5S
+80	TOK	set		set\VMF6-66
+---	DLD	!		=\DELIM
+---	DLD	"		=\DELIM
+81	TOK	The		the\AT---6
+82	TOK	crack		crack\N5S
+83	TOK	of		of\P
+84	TOK	the		the\AT---6
+85	TOK	gun		gun\N5S
+86	TOK	echoes		echo\N5P
+87	TOK	in		in\P
+88	TOK	the		the\AT---6
+89	TOK	warm		warm\JA
+90	TOK	evening		evening\N5S
+91	TOK	air		air\VMF6R66
+---	DLD	,		=\DELIM
+92	TOK	and		and\CC
+93	TOK	the		the\AT---6
+94	TOK	crowd		crowd\N5S
+95	TOK	roars		roar\VMFDRS3
+96	TOK	as		as\CS
+97	TOK	the		the\AT---6
+98	TOK	competitors		competitor\N5P
+99	TOK	leap		leap\VMF6R66
+100	TOK	from		from\P
+101	TOK	their		their\APP3N6
+102	TOK	blocks		block\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+103	TOK	Just	BOS	just\DGA7
+##	TAG	<num>
+104	TOK	9.80		9.80\X
+##	TAG	</num>
+105	TOK	seconds		second\N5P
+106	TOK	later		later\DGC7
+107	TOK	the		the\AT---6
+108	TOK	winner		winner\N5S
+109	TOK	streaks		streak\N5P
+110	TOK	past		past\P
+111	TOK	the		the\AT---6
+112	TOK	finish		finish\N5S
+113	TOK	line		line\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+114	TOK	On	BOS	on\P
+115	TOK	this		this\AD---S
+116	TOK	particular		particular\JA
+117	TOK	day		day\N5S
+---	DLD	,		=\DELIM
+118	TOK	it		it\RPS3N6
+119	TOK	is		be\V6FDRS3
+##	TAG	<name>
+120	TOK	Maurice Greene		Maurice_Greene\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+121	TOK	a		a\AI---S
+##	TAG	<num>
+122	TOK	25		25\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+123	TOK	year		year\N5S
+---	DLI	-		=\DELIM
+124	TOK	old		old\JA
+125	TOK	athlete		athlete\N5S
+126	TOK	from		from\P
+##	TAG	<name>
+127	TOK	Los Angeles		Los_Angeles\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+128	TOK	Why	BOS	why\CS
+---	DLD	,		=\DELIM
+129	TOK	we		we\RPP1NN
+130	TOK	might		may\VOFDR66
+131	TOK	ask		ask\VMI----
+---	DLD	,		=\DELIM
+132	TOK	is		be\V6FDRS3
+##	TAG	<name>
+133	TOK	Maurice Greene		Maurice_Greene\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+134	TOK	and		and\CC
+135	TOK	not		not\DGA7
+##	TAG	<name>
+136	TOK	Bruny Surin of Canada		Bruny_Surin_of_Canada\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+137	TOK	who		who\RW63N-
+138	TOK	finished		finish\VMF6A66
+139	TOK	second		second\MOS
+---	DLD	,		=\DELIM
+140	TOK	the		the\AT---6
+141	TOK	fastest		fast\JS
+142	TOK	man		man\N5S
+143	TOK	on		on\P
+144	TOK	earth		earth\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+145	TOK	After	BOS	after\P
+146	TOK	all		all\AG---6
+---	DLD	,		=\DELIM
+147	TOK	both		both\RIP3N-
+148	TOK	men		man\N5P
+149	TOK	have		have\V6F6R66
+150	TOK	trained		train\VMC----
+151	TOK	incessantly		incessantly\DGA7
+152	TOK	for		for\P
+153	TOK	this		this\AD---S
+154	TOK	moment		moment\N5S
+155	TOK	for		for\P
+156	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+157	TOK	maintaining		maintain\VMG----
+158	TOK	an		an\AI---S
+159	TOK	ascetic		ascetic\JA
+160	TOK	regimen		regimen\N5S
+161	TOK	based		base\VMC----
+162	TOK	on		on\P
+163	TOK	exercise		exercise\VMI----
+---	DLD	,		=\DELIM
+164	TOK	rest		rest\N5S
+---	DLD	,		=\DELIM
+165	TOK	a		a\AI---S
+166	TOK	strict		strict\JA
+167	TOK	diet		diet\N5S
+168	TOK	and		and\CC
+169	TOK	little		little\N5S
+170	TOK	else		else\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+171	TOK	The	BOS	the\AT---6
+172	TOK	answer		answer\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+173	TOK	of course		of_course\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+174	TOK	is		be\V6FDRS3
+175	TOK	a		a\AI---S
+176	TOK	complex		complex\JA
+177	TOK	one		one\RIS3N-
+---	DLD	,		=\DELIM
+178	TOK	touching		touch\VMG----
+179	TOK	on		on\P
+180	TOK	myriad		myriad\N5S
+181	TOK	small		small\JA
+182	TOK	details		detail\N5P
+183	TOK	such		such\RIS3N-
+184	TOK	as		as\P
+185	TOK	the		the\AT---6
+186	TOK	athletes		athlete\N5P
+---	DLD	'		=\DELIM
+187	TOK	mental		mental\JA
+188	TOK	outlook		outlook\N5S
+189	TOK	on		on\P
+190	TOK	race		race\N5S
+191	TOK	day		day\N5S
+192	TOK	and		and\CC
+193	TOK	even		even\DGA7
+194	TOK	the		the\AT---6
+195	TOK	design		design\N5S
+196	TOK	of		of\P
+197	TOK	their		their\APP3N6
+198	TOK	running		running\JA
+199	TOK	shoes		shoe\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+200	TOK	But	BOS	but\CC
+201	TOK	in		in\P
+202	TOK	a		a\AI---S
+203	TOK	sprint		sprint\N5S
+---	DLD	,		=\DELIM
+204	TOK	dependent		dependent\JA
+205	TOK	as		as\CS
+206	TOK	it		it\RPS3N6
+207	TOK	is		be\V6FDRS3
+208	TOK	on		on\P
+209	TOK	raw		raw\JA
+210	TOK	power		power\N5S
+---	DLD	,		=\DELIM
+211	TOK	one		one\RIS3N-
+212	TOK	of		of\P
+213	TOK	the		the\AT---6
+214	TOK	biggest		big\JS
+215	TOK	single		single\JA
+216	TOK	contributors		contributor\N5P
+217	TOK	to		to\P
+218	TOK	victory		victory\N5S
+219	TOK	is		be\V6FDRS3
+220	TOK	physiological		physiological\JA
+---	DLD	:		=\DELIM
+221	TOK	the		the\AT---6
+222	TOK	muscle		muscle\N5S
+223	TOK	fibers		fiber\N5P
+224	TOK	in		in\P
+##	TAG	<name>
+225	TOK	Greene		Greene\N46
+##	TAG	</name>
+226	PGR	's		genmark\GENMARK
+227	TOK	legs		leg\N5P
+---	DLD	,		=\DELIM
+228	TOK	particularly		particularly\DGA7
+229	TOK	his		his\APS3M6
+230	TOK	thighs		thigh\N5P
+---	DLD	,		=\DELIM
+231	TOK	are		be\V6FDR66
+232	TOK	able		able\JA
+233	TOK	to		to\P
+234	TOK	generate		generate\VMI----
+235	TOK	slightly		slightly\DGA7
+236	TOK	more		many\JC
+237	TOK	power		power\N5S
+238	TOK	for		for\P
+239	TOK	the		the\AT---6
+240	TOK	brief		brief\JA
+241	TOK	duration		duration\N5S
+242	TOK	of		of\P
+243	TOK	the		the\AT---6
+244	TOK	sprint		sprint\N5S
+245	TOK	than		than\CS
+246	TOK	can		can\VOFDR66
+247	TOK	those		that\RDP3N-
+248	TOK	of		of\P
+249	TOK	his		his\APS3M6
+250	TOK	competitors		competitor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+251	TOK	Recent	BOS	recent\JA
+252	TOK	findings		finding\N5P
+253	TOK	in		in\P
+254	TOK	our		our\APP1N6
+255	TOK	laboratories		laboratory\N5P
+256	TOK	and		and\CC
+257	TOK	elsewhere		elsewhere\DGA7
+258	TOK	have		have\V6F6R66
+259	TOK	expanded		expand\VMC----
+260	TOK	our		our\APP1N6
+261	TOK	knowledge		knowledge\N5S
+262	TOK	of		of\P
+263	TOK	how		how\DGAW
+264	TOK	human		human\JA
+265	TOK	muscle		muscle\N5S
+266	TOK	adapts		adapt\VMFDRS3
+267	TOK	to		to\P
+268	TOK	exercise		exercise\N5S
+269	TOK	or		or\CC
+270	TOK	the		the\AT---6
+271	TOK	lack		lack\N5S
+272	TOK	of		of\P
+273	TOK	it		it\RPS3N6
+274	TOK	and		and\CC
+275	TOK	the		the\AT---6
+276	TOK	extent		extent\N5S
+277	TOK	to		to\P
+278	TOK	which		which\RW63N-
+279	TOK	an		an\AI---S
+280	TOK	individual		individual\N5S
+281	PGR	's		genmark\GENMARK
+282	TOK	muscle		muscle\N5S
+283	TOK	can		can\VOFDR66
+284	TOK	alter		alter\VMI----
+285	TOK	itself		itself\RXS3N-
+286	TOK	to		to\P
+287	TOK	meet		meet\VMI----
+288	TOK	different		different\JA
+289	TOK	challenges		challenge\N5P
+290	TOK	such		such\RIS3N-
+291	TOK	as		as\P
+292	TOK	the		the\AT---6
+293	TOK	long		long\JA
+294	TOK	struggle		struggle\N5S
+295	TOK	of		of\P
+296	TOK	a		a\AI---S
+297	TOK	marathon		marathon\N5S
+298	TOK	or		or\CC
+299	TOK	the		the\AT---6
+300	TOK	explosive		explosive\JA
+301	TOK	burst		burst\N5S
+302	TOK	of		of\P
+303	TOK	a		a\AI---S
+304	TOK	sprint		sprint\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+305	TOK	The	BOS	the\AT---6
+306	TOK	information		information\N5S
+307	TOK	helps		help\VMFDRS3
+308	TOK	us		us\RPP1NA
+309	TOK	understand		understand\VMI----
+310	TOK	why		why\CS
+311	TOK	an		an\AI---S
+312	TOK	athlete		athlete\N5S
+313	TOK	like		like\P
+##	TAG	<name>
+314	TOK	Greene		Greene\N46
+##	TAG	</name>
+315	TOK	triumphs		triumph\N5P
+316	TOK	and		and\CC
+317	TOK	also		also\DGA7
+318	TOK	gives		give\VMFDRS3
+319	TOK	us		us\RPP1NA
+320	TOK	insights		insight\N5P
+321	TOK	into		into\P
+322	TOK	the		the\AT---6
+323	TOK	range		range\N5S
+324	TOK	of		of\P
+325	TOK	capabilities		capability\N5P
+326	TOK	of		of\P
+327	TOK	ordinary		ordinary\JA
+328	TOK	people		people\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+329	TOK	It	BOS	it\RPS3N6
+330	TOK	even		even\DGA7
+331	TOK	sheds		shed\VMFDRS3
+332	TOK	light		light\N5S
+333	TOK	on		on\P
+334	TOK	the		the\AT---6
+335	TOK	perennial		perennial\JA
+336	TOK	issue		issue\N5S
+337	TOK	of		of\P
+338	TOK	whether		whether\CS
+339	TOK	elite		elite\JA
+340	TOK	runners		runner\N5P
+---	DLD	,		=\DELIM
+341	TOK	swimmers		swimmer\N5P
+---	DLD	,		=\DELIM
+342	TOK	cyclists		cyclist\N5P
+343	TOK	and		and\CC
+344	TOK	cross		cross\VMF6R66
+---	DLI	-		=\DELIM
+345	TOK	country		country\N5S
+346	TOK	skiers		skier\N5P
+347	TOK	are		be\V6FDR66
+348	TOK	born		bear\VMC----
+349	TOK	different		different\JA
+350	TOK	from		from\P
+351	TOK	the		the\AT---6
+352	TOK	rest		rest\N5S
+353	TOK	of		of\P
+354	TOK	us		us\RPP1NA
+355	TOK	or		or\CC
+356	TOK	whether		whether\CS
+357	TOK	proper		proper\JA
+358	TOK	training		training\N5S
+359	TOK	and		and\CC
+360	TOK	determination		determination\N5S
+361	TOK	could		can\VOFDA66
+362	TOK	turn		turn\VMI----
+363	TOK	almost		almost\DGA7
+364	TOK	anyone		anyone\RIS3N-
+365	TOK	into		into\P
+366	TOK	a		a\AI---S
+367	TOK	champion		champion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+368	TOK	Skeletal	BOS	skeletal\JA
+369	TOK	muscle		muscle\N5S
+370	TOK	is		be\V6FDRS3
+371	TOK	the		the\AT---6
+372	TOK	most		most\DDS7
+373	TOK	abundant		abundant\JA
+374	TOK	tissue		tissue\N5S
+375	TOK	in		in\P
+376	TOK	the		the\AT---6
+377	TOK	human		human\JA
+378	TOK	body		body\N5S
+379	TOK	and		and\CC
+380	TOK	also		also\DGA7
+381	TOK	one		one\MCS
+382	TOK	of		of\P
+383	TOK	the		the\AT---6
+384	TOK	most		most\DDS7
+385	TOK	adaptable		adaptable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+386	TOK	Vigorous	BOS	vigorous\JA
+387	TOK	training		training\N5S
+388	TOK	with		with\P
+389	TOK	weights		weight\N5P
+390	TOK	can		can\VOFDR66
+391	TOK	double		double\VMI----
+392	TOK	or		or\CC
+393	TOK	triple		triple\VMI----
+394	TOK	a		a\AI---S
+395	TOK	muscle		muscle\N5S
+396	PGR	's		genmark\GENMARK
+397	TOK	size		size\N5S
+---	DLD	,		=\DELIM
+398	TOK	whereas		whereas\CS
+399	TOK	disuse		disuse\VMF6R66
+---	DLD	,		=\DELIM
+400	TOK	as		as\DGA7
+401	TOK	in		in\P
+402	TOK	space		space\N5S
+403	TOK	travel		travel\VMI----
+---	DLD	,		=\DELIM
+404	TOK	can		can\VOFDR66
+405	TOK	shrink		shrink\VMI----
+406	TOK	it		it\RPS3N6
+407	TOK	by		by\P
+##	TAG	<num>
+408	TOK	20		20\X
+##	TAG	</num>
+409	TOK	percent		percent\N56
+410	TOK	in		in\P
+##	TAG	<num>
+411	TOK	two		two\X
+##	TAG	</num>
+412	TOK	weeks		week\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+413	TOK	The	BOS	the\AT---6
+414	TOK	many		many\AI---P
+415	TOK	biomechanical		biomechanical\JA
+416	TOK	and		and\CC
+417	TOK	biochemical		biochemical\JA
+418	TOK	phenomena		phenomenon\N5P
+419	TOK	behind		behind\P
+420	TOK	these		this\AD---P
+421	TOK	adaptations		adaptation\N5P
+422	TOK	are		be\V6FDR66
+423	TOK	enormously		enormously\DGA7
+424	TOK	complex		complex\JA
+---	DLD	,		=\DELIM
+425	TOK	but		but\CC
+426	TOK	decades		decade\N5P
+427	TOK	of		of\P
+428	TOK	research		research\N5S
+429	TOK	have		have\V6F6R66
+430	TOK	built		build\VMC----
+431	TOK	up		up\P
+432	TOK	a		a\AI---S
+433	TOK	reasonably		reasonably\DGA7
+434	TOK	complete		complete\JA
+435	TOK	picture		picture\N5S
+436	TOK	of		of\P
+437	TOK	how		how\DGAW
+438	TOK	muscles		muscle\N5P
+439	TOK	respond		respond\VMF6R66
+440	TOK	to		to\P
+441	TOK	athletic		athletic\JA
+442	TOK	training		train\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+443	TOK	What	BOS	what\RW63N-
+444	TOK	most		most\AG---6
+445	TOK	people		people\N56
+446	TOK	think		think\VMF6R66
+447	TOK	of		of\P
+448	TOK	as		as\P
+449	TOK	a		a\AI---S
+450	TOK	muscle		muscle\N5S
+451	TOK	is		be\V6FDRS3
+452	TOK	actually		actually\DGA7
+453	TOK	a		a\AI---S
+454	TOK	bundle		bundle\N5S
+455	TOK	of		of\P
+456	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+457	TOK	also		also\DGA7
+458	TOK	known		know\VMC----
+459	TOK	as		as\P
+460	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+461	TOK	kept		keep\VMC----
+462	TOK	together		together\DGA7
+463	TOK	by		by\P
+464	TOK	collagen		collagen\N5S
+465	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+466	TOK	A	BOS	a\AI---S
+467	TOK	single		single\JA
+468	TOK	fiber		fiber\N5S
+469	TOK	of		of\P
+470	TOK	skeletal		skeletal\JA
+471	TOK	muscle		muscle\N5S
+472	TOK	consists		consist\VMFDRS3
+473	TOK	of		of\P
+474	TOK	a		a\AI---S
+475	TOK	membrane		membrane\N5S
+---	DLD	,		=\DELIM
+476	TOK	many		many\AI---P
+477	TOK	scattered		scatter\VMC----
+478	TOK	nuclei		nucleus\N5P
+479	TOK	that		that\RW63N6
+480	TOK	contain		contain\VMF6R66
+481	TOK	the		the\AT---6
+482	TOK	genes		gene\N5P
+483	TOK	and		and\CC
+484	TOK	lie		lie\VMF6R66
+485	TOK	just		just\DGA7
+486	TOK	under		under\P
+487	TOK	the		the\AT---6
+488	TOK	membrane		membrane\N5S
+489	TOK	along		along\P
+490	TOK	the		the\AT---6
+491	TOK	length		length\N5S
+492	TOK	of		of\P
+493	TOK	the		the\AT---6
+494	TOK	fiber		fiber\N5S
+---	DLD	,		=\DELIM
+495	TOK	and		and\CC
+496	TOK	thousands		thousand\N5P
+497	TOK	of		of\P
+498	TOK	inner		inner\JC
+499	TOK	strands		strand\N5P
+500	TOK	called		call\VMC----
+501	TOK	myofibrils		myofibril\N5P
+502	TOK	that		that\RW63N6
+503	TOK	constitute		constitute\VMF6R66
+504	TOK	the		the\AT---6
+505	TOK	cytoplasm		cytoplasm\N5S
+506	TOK	of		of\P
+507	TOK	the		the\AT---6
+508	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+509	TOK	The	BOS	the\AT---6
+510	TOK	largest		large\JS
+511	TOK	and		and\CC
+512	TOK	longest		long\JS
+513	TOK	human		human\JA
+514	TOK	muscle		muscle\N5S
+515	TOK	fibers		fiber\N5P
+516	TOK	are		be\V6FDR66
+517	TOK	up		up\P
+518	TOK	to		to\P
+##	TAG	<num>
+519	TOK	30		30\X
+##	TAG	</num>
+520	TOK	centimeters		centimeter\N5P
+521	TOK	long		long\DGA7
+522	TOK	and		and\CC
+##	TAG	<num>
+523	TOK	0.05		0.05\X
+##	TAG	</num>
+524	TOK	to		to\P
+##	TAG	<num>
+525	TOK	0.15		0.15\X
+##	TAG	</num>
+526	TOK	millimeter		millimeter\N5S
+527	TOK	wide		wide\JA
+528	TOK	and		and\CC
+529	TOK	contain		contain\VMF6R66
+530	TOK	several		several\JA
+531	TOK	thousand		thousand\MCP
+532	TOK	nuclei		nucleus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+533	TOK	Filling	BOS	fill\VMG----
+534	TOK	the		the\AT---6
+535	TOK	inside		inside\N5S
+536	TOK	of		of\P
+537	TOK	a		a\AI---S
+538	TOK	muscle		muscle\N5S
+539	TOK	fiber		fiber\N5S
+---	DLD	,		=\DELIM
+540	TOK	the		the\AT---6
+541	TOK	myofibrils		myofibril\N5P
+542	TOK	are		be\V6FDR66
+543	TOK	the		the\AT---6
+544	TOK	same		same\JA
+545	TOK	length		length\N5S
+546	TOK	as		as\P
+547	TOK	the		the\AT---6
+548	TOK	fiber		fiber\N5S
+549	TOK	and		and\CC
+550	TOK	are		be\V6FDR66
+551	TOK	the		the\AT---6
+552	TOK	part		part\N5S
+553	TOK	that		that\RW63N6
+554	TOK	causes		cause\VMFDRS3
+555	TOK	the		the\AT---6
+556	TOK	cell		cell\N5S
+557	TOK	to		to\P
+558	TOK	contract		contract\N5S
+559	TOK	forcefully		forcefully\DGA7
+560	TOK	in		in\P
+561	TOK	response		response\N5S
+562	TOK	to		to\P
+563	TOK	nerve		nerve\N5S
+564	TOK	impulses		impulse\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+565	TOK	Motor	BOS	motor\N5S
+566	TOK	nerve		nerve\N5S
+567	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+568	TOK	or		or\CC
+569	TOK	neurons		neuron\N5P
+---	DLD	,		=\DELIM
+570	TOK	extend		extend\VMF6R66
+571	TOK	from		from\P
+572	TOK	the		the\AT---6
+573	TOK	spinal		spinal\JA
+574	TOK	cord		cord\N5S
+575	TOK	to		to\P
+576	TOK	a		a\AI---S
+577	TOK	group		group\N5S
+578	TOK	of		of\P
+579	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+580	TOK	making		making\N5S
+581	TOK	up		up\P
+582	TOK	a		a\AI---S
+583	TOK	motor		motor\N5S
+584	TOK	unit		unit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+585	TOK	In	BOS	in\P
+586	TOK	leg		leg\N5S
+587	TOK	muscles		muscle\N5P
+---	DLD	,		=\DELIM
+588	TOK	a		a\AI---S
+589	TOK	motor		motor\N5S
+590	TOK	neuron		neuron\N5S
+591	TOK	controls		control\VMFDRS3
+---	DLD	,		=\DELIM
+592	TOK	or		or\CC
+---	DLE	"		=\DELIM
+593	TOK	innervates		innervate\VMFDRS3
+---	DLD	,		=\DELIM
+---	DLD	"		=\DELIM
+594	TOK	several		several\JA
+595	TOK	hundred		hundred\N56
+596	TOK	to		to\P
+##	TAG	<num>
+597	TOK	1,000		1,000\X
+##	TAG	</num>
+598	TOK	or		or\CC
+599	TOK	more		many\JC
+600	TOK	muscle		muscle\N5S
+601	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+602	TOK	Where	BOS	where\CS
+603	TOK	extreme		extreme\JA
+604	TOK	precision		precision\N5S
+605	TOK	is		be\V6FDRS3
+606	TOK	needed		need\VMF6A66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+607	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+608	TOK	to		to\P
+609	TOK	control		control\VMI----
+610	TOK	a		a\AI---S
+611	TOK	finger		finger\N5S
+---	DLD	,		=\DELIM
+612	TOK	an		an\AI---S
+613	TOK	eyeball		eyeball\N5S
+614	TOK	or		or\CC
+615	TOK	the		the\AT---6
+616	TOK	larynx		larynx\N5S
+---	DLD	,		=\DELIM
+617	TOK	one		one\MCS
+618	TOK	motor		motor\N5S
+619	TOK	neuron		neuron\N5S
+620	TOK	controls		control\VMFDRS3
+621	TOK	only		only\DGA7
+622	TOK	one		one\MCS
+623	TOK	or		or\CC
+624	TOK	at		at\P
+625	TOK	most		most\AG---6
+##	TAG	<loc pos="RP63N-">
+626	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+627	TOK	muscle		muscle\N5S
+628	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+629	TOK	The	BOS	the\AT---6
+630	TOK	actual		actual\JA
+631	TOK	contraction		contraction\N5S
+632	TOK	of		of\P
+633	TOK	a		a\AI---S
+634	TOK	myofibril		myofibril\N5S
+635	TOK	is		be\V6FDRS3
+636	TOK	accomplished		accomplish\VMC----
+637	TOK	by		by\P
+638	TOK	its		its\APS3N6
+639	TOK	tiny		tiny\JA
+640	TOK	component		component\N5S
+641	TOK	units		unit\N5P
+---	DLD	,		=\DELIM
+642	TOK	which		which\RW63N-
+643	TOK	are		be\V6FDR66
+644	TOK	called		call\VMC----
+645	TOK	sarcomeres		sarcomere\N5P
+646	TOK	and		and\CC
+647	TOK	are		be\V6FDR66
+648	TOK	linked		link\VMC----
+##	TAG	<loc pos="DGA7">
+649	TOK	end to end		end_to_end\DGA7
+##	TAG	</loc>
+650	TOK	to		to\P
+651	TOK	make		make\VMI----
+652	TOK	up		up\P
+653	TOK	a		a\AI---S
+654	TOK	myofibril		myofibril\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+655	TOK	Within	BOS	within\P
+656	TOK	each		each\AG---S
+657	TOK	sarcomere		sarcomere\N5S
+658	TOK	are		be\V6FDR66
+##	TAG	<num>
+659	TOK	two		two\X
+##	TAG	</num>
+660	TOK	filamentary		filamentary\JA
+661	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+662	TOK	known		know\VMC----
+663	TOK	as		as\P
+664	TOK	myosin		myosin\N5S
+665	TOK	and		and\CC
+666	TOK	actin		actin\N5S
+---	DLD	,		=\DELIM
+667	TOK	whose		whose\AW---6
+668	TOK	interaction		interaction\N5S
+669	TOK	causes		cause\VMFDRS3
+670	TOK	the		the\AT---6
+671	TOK	contraction		contraction\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+672	TOK	Basically	BOS	basically\DGA7
+---	DLD	,		=\DELIM
+673	TOK	during		during\P
+674	TOK	contraction		contraction\N5S
+675	TOK	a		a\AI---S
+676	TOK	sarcomere		sarcomere\N5S
+677	TOK	shortens		shorten\VMFDRS3
+678	TOK	like		like\P
+679	TOK	a		a\AI---S
+680	TOK	collapsing		collapse\VMG----
+681	TOK	telescope		telescope\VMF6R66
+---	DLD	,		=\DELIM
+682	TOK	as		as\P
+683	TOK	the		the\AT---6
+684	TOK	actin		actin\N5S
+685	TOK	filaments		filament\N5P
+686	TOK	at		at\P
+687	TOK	each		each\AG---S
+688	TOK	end		end\N5S
+689	TOK	of		of\P
+690	TOK	a		a\AI---S
+691	TOK	central		central\JA
+692	TOK	myosin		myosin\N5S
+693	TOK	filament		filament\N5S
+694	TOK	slide		slide\N5S
+695	TOK	toward		toward\P
+696	TOK	the		the\AT---6
+697	TOK	myosin		myosin\N5S
+698	PGR	's		genmark\GENMARK
+699	TOK	center		center\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+700	TOK	One	BOS	one\MCS
+701	TOK	component		component\N5S
+702	TOK	of		of\P
+703	TOK	the		the\AT---6
+704	TOK	myosin		myosin\N5S
+705	TOK	molecule		molecule\N5S
+---	DLD	,		=\DELIM
+706	TOK	the		the\AT---6
+707	TOK	so		so\DGA7
+---	DLI	-		=\DELIM
+708	TOK	called		call\VMC----
+709	TOK	heavy		heavy\JA
+710	TOK	chain		chain\VMF6R66
+---	DLD	,		=\DELIM
+711	TOK	determines		determine\VMFDRS3
+712	TOK	the		the\AT---6
+713	TOK	functional		functional\JA
+714	TOK	characteristics		characteristic\N5P
+715	TOK	of		of\P
+716	TOK	the		the\AT---6
+717	TOK	muscle		muscle\N5S
+718	TOK	fiber		fiber\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+719	TOK	In	BOS	in\P
+720	TOK	an		an\AI---S
+721	TOK	adult		adult\N5S
+---	DLD	,		=\DELIM
+722	TOK	this		this\AD---S
+723	TOK	heavy		heavy\JA
+724	TOK	chain		chain\N5S
+725	TOK	exists		exist\VMFDRS3
+726	TOK	in		in\P
+##	TAG	<num>
+727	TOK	three		three\X
+##	TAG	</num>
+728	TOK	different		different\JA
+729	TOK	varieties		variety\N5P
+---	DLD	,		=\DELIM
+730	TOK	known		know\VMC----
+731	TOK	as		as\P
+732	TOK	isoforms		isoform\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+733	TOK	These	BOS	this\AD---P
+734	TOK	isoforms		isoform\N5P
+735	TOK	are		be\V6FDR66
+736	TOK	designated		designate\VMC----
+737	TOK	I		I\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+738	TOK	IIa		IIa\N46
+##	TAG	</name>
+739	TOK	and		and\CC
+##	TAG	<name>
+740	TOK	IIx		IIx\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+741	TOK	as		as\DGA7
+742	TOK	are		be\V6FDR66
+743	TOK	the		the\AT---6
+744	TOK	fibers		fiber\N5P
+745	TOK	that		that\RW63N6
+746	TOK	contain		contain\VMF6R66
+747	TOK	them		them\RPP3NA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+748	TOK	Type	BOS	type\N5S
+749	TOK	I		i\N5S
+750	TOK	fibers		fiber\N5P
+751	TOK	are		be\V6FDR66
+752	TOK	also		also\DGA7
+753	TOK	known		know\VMC----
+754	TOK	as		as\P
+755	TOK	slow		slow\JA
+756	TOK	fibers		fiber\N5P
+---	DLD	;		=\DELIM
+757	TOK	type		type\N5S
+##	TAG	<name>
+758	TOK	IIa		IIa\N46
+##	TAG	</name>
+759	TOK	and		and\CC
+##	TAG	<name>
+760	TOK	IIx		IIx\N46
+##	TAG	</name>
+761	TOK	are		be\V6FDR66
+762	TOK	referred		refer\VMC----
+763	TOK	to		to\P
+764	TOK	as		as\DGA7
+765	TOK	fast		fast\JA
+766	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+767	TOK	The	BOS	the\AT---6
+768	TOK	fibers		fiber\N5P
+769	TOK	are		be\V6FDR66
+770	TOK	called		call\VMC----
+771	TOK	slow		slow\JA
+772	TOK	and		and\CC
+773	TOK	fast		fast\JA
+774	TOK	for		for\P
+775	TOK	good		good\JA
+776	TOK	reason		reason\N5S
+---	DLD	:		=\DELIM
+777	TOK	the		the\AT---6
+778	TOK	maximum		maximum\N5S
+779	TOK	contraction		contraction\N5S
+780	TOK	velocity		velocity\N5S
+781	TOK	of		of\P
+782	TOK	a		a\AI---S
+783	TOK	single		single\JA
+784	TOK	type		type\N5S
+785	TOK	I		i\N5S
+786	TOK	fiber		fiber\N5S
+787	TOK	is		be\V6FDRS3
+788	TOK	approximately		approximately\DGA7
+789	TOK	one		one\MCS
+790	TOK	tenth		tenth\JA
+791	TOK	that		that\CS
+792	TOK	of		of\P
+793	TOK	a		a\AI---S
+794	TOK	type		type\N5S
+##	TAG	<name>
+795	TOK	IIx		IIx\N46
+##	TAG	</name>
+796	TOK	fiber		fiber\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+797	TOK	The	BOS	the\AT---6
+798	TOK	velocity		velocity\N5S
+799	TOK	of		of\P
+800	TOK	type		type\N5S
+##	TAG	<name>
+801	TOK	IIa		IIa\N46
+##	TAG	</name>
+802	TOK	fibers		fiber\N5P
+803	TOK	is		be\V6FDRS3
+804	TOK	somewhere		somewhere\DGA7
+805	TOK	between		between\P
+806	TOK	those		that\RDP3N-
+807	TOK	of		of\P
+808	TOK	type		type\N5S
+809	TOK	I		i\N5S
+810	TOK	and		and\CC
+811	TOK	type		type\N5S
+##	TAG	<name>
+812	TOK	IIx		IIx\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+813	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+814	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+816	TOK	WORLD-CLASS SPRINTER BRIAN LEWIS	BOS	WORLD-CLASS_SPRINTER_BRIAN_LEWIS\N46
+##	TAG	</name>
+817	TOK	of		of\P
+818	TOK	the		the\AT---6
+##	TAG	<abbr>
+819	TOK	U.S.		U.S.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+820	TOK	opposite		opposite\JA
+821	TOK	page		page\N5S
+---	DLE	)		=\DELIM
+822	TOK	has		have\V6FDRS3
+823	TOK	a		a\AI---S
+824	TOK	larger		large\JC
+825	TOK	proportion		proportion\N5S
+826	TOK	of		of\P
+827	TOK	so		so\DGA7
+---	DLI	-		=\DELIM
+828	TOK	called		call\VMC----
+829	TOK	fast		fast\JA
+830	TOK	muscle		muscle\N5S
+831	TOK	fibers		fiber\N5P
+832	TOK	in		in\P
+833	TOK	his		his\APS3M6
+834	TOK	legs		leg\N5P
+835	TOK	than		than\CS
+836	TOK	a		a\AI---S
+837	TOK	marathoner		marathoner\N5S
+838	TOK	or		or\CC
+839	TOK	an		an\AI---S
+840	TOK	extreme		extreme\JA
+841	TOK	endurance		endurance\N5S
+842	TOK	athlete		athlete\N5S
+843	TOK	does		do\V6FDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+844	TOK	Fast	BOS	fast\JA
+##	TAG	<name>
+845	TOK	IIx		IIx\N46
+##	TAG	</name>
+846	TOK	fiber		fiber\N5S
+847	TOK	contracts		contract\N5P
+##	TAG	<num>
+848	TOK	10		10\X
+##	TAG	</num>
+849	TOK	times		time\N5P
+850	TOK	faster		fast\JC
+851	TOK	than		than\CS
+852	TOK	slow		slow\JA
+853	TOK	type		type\N5S
+854	TOK	I		i\N5S
+855	TOK	fiber		fiber\N5S
+---	DLD	,		=\DELIM
+856	TOK	and		and\CC
+857	TOK	type		type\N5S
+##	TAG	<name>
+858	TOK	IIa		IIa\N46
+##	TAG	</name>
+859	TOK	lies		lie\VMFDRS3
+860	TOK	somewhere		somewhere\DGA7
+##	TAG	<loc pos="DGA7">
+861	TOK	in between		in_between\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+862	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+863	TOK	Stuff of Muscle	EOS	Stuff_of_Muscle\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+865	TOK	The	BOS	the\AT---6
+866	TOK	differing		differ\VMG----
+867	TOK	contraction		contraction\N5S
+868	TOK	speeds		speed\N5P
+869	TOK	of		of\P
+870	TOK	the		the\AT---6
+871	TOK	fibers		fiber\N5P
+872	TOK	is		be\V6FDRS3
+873	TOK	a		a\AI---S
+874	TOK	result		result\N5S
+875	TOK	of		of\P
+876	TOK	differences		difference\N5P
+877	TOK	in		in\P
+878	TOK	the		the\AT---6
+879	TOK	way		way\N5S
+880	TOK	the		the\AT---6
+881	TOK	fibers		fiber\N5P
+882	TOK	break		break\VMF6R66
+883	TOK	down		down\DGA7
+884	TOK	a		a\AI---S
+885	TOK	molecule		molecule\N5S
+886	TOK	called		call\VMF6A66
+887	TOK	adenosine		adenosine\N5S
+888	TOK	triphosphate		triphosphate\N5S
+889	TOK	in		in\P
+890	TOK	the		the\AT---6
+891	TOK	myosin		myosin\N5S
+892	TOK	heavy		heavy\JA
+893	TOK	chain		chain\N5S
+894	TOK	region		region\N5S
+895	TOK	to		to\P
+896	TOK	derive		derive\VMI----
+897	TOK	the		the\AT---6
+898	TOK	energy		energy\N5S
+899	TOK	needed		need\VMC----
+900	TOK	for		for\P
+901	TOK	contraction		contraction\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+902	TOK	Slow	BOS	slow\JA
+903	TOK	fibers		fiber\N5P
+904	TOK	rely		rely\VMF6R66
+905	TOK	more		more\DDC7
+906	TOK	on		on\DGA7
+907	TOK	relatively		relatively\DGA7
+908	TOK	efficient		efficient\JA
+909	TOK	aerobic		aerobic\JA
+910	TOK	metabolism		metabolism\N5S
+---	DLD	,		=\DELIM
+911	TOK	whereas		whereas\CS
+912	TOK	the		the\AT---6
+913	TOK	fast		fast\JA
+914	TOK	fibers		fiber\N5P
+915	TOK	depend		depend\VMF6R66
+916	TOK	more		more\DDC7
+917	TOK	on		on\P
+918	TOK	anaerobic		anaerobic\JA
+919	TOK	metabolism		metabolism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+920	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+921	TOK	slow		slow\JA
+922	TOK	fibers		fiber\N5P
+923	TOK	are		be\V6FDR66
+924	TOK	important		important\JA
+925	TOK	for		for\P
+926	TOK	endurance		endurance\N5S
+927	TOK	activities		activity\N5P
+928	TOK	and		and\CC
+929	TOK	sports		sport\N5P
+930	TOK	such		such\RIS3N-
+931	TOK	as		as\P
+932	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+933	TOK	distance		distance\N5S
+934	TOK	running		run\VMG----
+---	DLD	,		=\DELIM
+935	TOK	cycling		cycling\N5S
+936	TOK	and		and\CC
+937	TOK	swimming		swim\VMG----
+---	DLD	,		=\DELIM
+938	TOK	whereas		whereas\CS
+939	TOK	fast		fast\JA
+940	TOK	fibers		fiber\N5P
+941	TOK	are		be\V6FDR66
+942	TOK	key		key\N5S
+943	TOK	to		to\P
+944	TOK	power		power\N5S
+945	TOK	pursuits		pursuit\N5P
+946	TOK	such		such\RIS3N-
+947	TOK	as		as\P
+948	TOK	weight		weight\N5S
+949	TOK	lifting		lift\VMG----
+950	TOK	and		and\CC
+951	TOK	sprinting		sprint\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+952	TOK	The	BOS	the\AT---6
+---	DLE	"		=\DELIM
+953	TOK	average		average\JA
+---	DLD	"		=\DELIM
+954	TOK	healthy		healthy\JA
+955	TOK	adult		adult\N5S
+956	TOK	has		have\V6FDRS3
+957	TOK	roughly		roughly\DGA7
+958	TOK	equal		equal\JA
+959	TOK	numbers		number\N5P
+960	TOK	of		of\P
+961	TOK	slow		slow\JA
+962	TOK	and		and\CC
+963	TOK	fast		fast\JA
+##	TAG	<name>
+964	TOK	Scientific American		Scientific_American\N46
+##	TAG	</name>
+##	TAG	<date pos="T" ISO8601="2000-09-">
+965	TOK	September 2000		September_2000\T
+##	TAG	</date>
+##	TAG	<num>
+966	TOK	49		49\X
+##	TAG	</num>
+##	TAG	<name>
+967	TOK	Muscle		Muscle\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+968	TOK	Genes		Genes\N46
+##	TAG	</name>
+969	TOK	and		and\CC
+##	TAG	<name>
+970	TOK	Athletic Performance		Athletic_Performance\N46
+##	TAG	</name>
+971	TOK	fibers		fiber\N5P
+972	TOK	in		in\P
+---	DLD	,		=\DELIM
+973	TOK	say		say\VMF6R66
+---	DLD	,		=\DELIM
+974	TOK	the		the\AT---6
+975	TOK	quadriceps		quadriceps\N56
+976	TOK	muscle		muscle\N5S
+977	TOK	in		in\P
+978	TOK	the		the\AT---6
+979	TOK	thigh		thigh\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+980	TOK	But	BOS	but\CC
+981	TOK	as		as\CS
+982	TOK	a		a\AI---S
+983	TOK	species		species\N56
+---	DLD	,		=\DELIM
+984	TOK	humans		human\N5P
+985	TOK	show		show\VMF6R66
+986	TOK	great		great\JA
+987	TOK	variation		variation\N5S
+988	TOK	in		in\P
+989	TOK	this		this\AD---S
+990	TOK	regard		regard\N5S
+---	DLD	;		=\DELIM
+991	TOK	we		we\RPP1NN
+992	TOK	have		have\V6F6R66
+993	TOK	encountered		encounter\VMC----
+994	TOK	people		people\N56
+995	TOK	with		with\P
+996	TOK	a		a\AI---S
+997	TOK	slow		slow\JA
+---	DLI	-		=\DELIM
+998	TOK	fiber		fiber\N5S
+999	TOK	percentage		percentage\N5S
+1000	TOK	as		as\CS
+1001	TOK	low		low\JA
+1002	TOK	as		as\P
+##	TAG	<num>
+1003	TOK	19		19\X
+##	TAG	</num>
+1004	TOK	percent		percent\N56
+1005	TOK	and		and\CC
+1006	TOK	as		as\DGA7
+1007	TOK	high		high\JA
+1008	TOK	as		as\P
+##	TAG	<num>
+1009	TOK	95		95\X
+##	TAG	</num>
+1010	TOK	percent		percent\N56
+1011	TOK	in		in\P
+1012	TOK	the		the\AT---6
+1013	TOK	quadriceps		quadriceps\N56
+1014	TOK	muscle		muscle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1015	TOK	A	BOS	a\AI---S
+1016	TOK	person		person\N5S
+1017	TOK	with		with\P
+##	TAG	<num>
+1018	TOK	95		95\X
+##	TAG	</num>
+1019	TOK	percent		percent\N56
+1020	TOK	slow		slow\JA
+1021	TOK	fibers		fiber\N5P
+1022	TOK	could		can\VOFDA66
+1023	TOK	probably		probably\DGA7
+1024	TOK	become		become\VMI----
+1025	TOK	an		an\AI---S
+1026	TOK	accomplished		accomplish\VMC----
+1027	TOK	marathoner		marathoner\N5S
+1028	TOK	but		but\CC
+1029	TOK	would		will\VOFDA66
+1030	TOK	never		never\DGA7
+1031	TOK	get		get\VMI----
+1032	TOK	anywhere		anywhere\DGA7
+1033	TOK	as		as\P
+1034	TOK	a		a\AI---S
+1035	TOK	sprinter		sprinter\N5S
+---	DLD	;		=\DELIM
+1036	TOK	the		the\AT---6
+1037	TOK	opposite		opposite\JA
+1038	TOK	would		will\VOFDA66
+1039	TOK	be		be\VMI----
+1040	TOK	true		true\JA
+1041	TOK	of		of\P
+1042	TOK	a		a\AI---S
+1043	TOK	person		person\N5S
+1044	TOK	with		with\P
+##	TAG	<num>
+1045	TOK	19		19\X
+##	TAG	</num>
+1046	TOK	percent		percent\N56
+1047	TOK	slow		slow\JA
+1048	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1049	TOK	Besides	BOS	besides\P
+1050	TOK	the		the\AT---6
+##	TAG	<num>
+1051	TOK	three		three\X
+##	TAG	</num>
+1052	TOK	distinct		distinct\JA
+1053	TOK	fiber		fiber\N5S
+1054	TOK	types		type\N5P
+---	DLD	,		=\DELIM
+1055	TOK	there		there\DGA7
+1056	TOK	are		be\V6FDR66
+1057	TOK	hybrids		hybrid\N5P
+1058	TOK	containing		contain\VMG----
+##	TAG	<num>
+1059	TOK	two		two\X
+##	TAG	</num>
+1060	TOK	different		different\JA
+1061	TOK	myosin		myosin\N5S
+1062	TOK	isoforms		isoform\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1063	TOK	The	BOS	the\AT---6
+1064	TOK	hybrid		hybrid\N5S
+1065	TOK	fibers		fiber\N5P
+1066	TOK	fall		fall\VMF6R66
+1067	TOK	in		in\P
+1068	TOK	a		a\AI---S
+1069	TOK	continuum		continuum\N5S
+1070	TOK	ranging		range\VMG----
+1071	TOK	from		from\P
+1072	TOK	those		that\RDP3N-
+1073	TOK	almost		almost\DGA7
+1074	TOK	totally		totally\DGA7
+1075	TOK	dominated		dominate\VMC----
+1076	TOK	by		by\P
+---	DLD	,		=\DELIM
+1077	TOK	say		say\VMF6R66
+---	DLD	,		=\DELIM
+1078	TOK	the		the\AT---6
+1079	TOK	slow		slow\JA
+1080	TOK	isoform		isoform\N5S
+1081	TOK	to		to\P
+1082	TOK	fibers		fiber\N5P
+1083	TOK	almost		almost\DGA7
+1084	TOK	totally		totally\DGA7
+1085	TOK	dominated		dominate\VMC----
+1086	TOK	by		by\P
+1087	TOK	a		a\AI---S
+1088	TOK	fast		fast\JA
+1089	TOK	one		one\RIS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1090	TOK	In	BOS	in\P
+1091	TOK	either		either\AG---6
+1092	TOK	case		case\N5S
+---	DLD	,		=\DELIM
+1093	TOK	as		as\DGA7
+1094	TOK	might		may\VOFDR66
+1095	TOK	be		be\VMI----
+1096	TOK	expected		expect\VMC----
+---	DLD	,		=\DELIM
+1097	TOK	the		the\AT---6
+1098	TOK	functional		functional\JA
+1099	TOK	characteristics		characteristic\N5P
+1100	TOK	of		of\P
+1101	TOK	the		the\AT---6
+1102	TOK	fiber		fiber\N5S
+1103	TOK	are		be\V6FDR66
+1104	TOK	close		close\DGA7
+1105	TOK	to		to\P
+1106	TOK	those		that\RDP3N-
+1107	TOK	of		of\P
+1108	TOK	the		the\AT---6
+1109	TOK	dominant		dominant\JA
+1110	TOK	fiber		fiber\N5S
+1111	TOK	type		type\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1112	TOK	Myosin	BOS	myosin\N5S
+1113	TOK	is		be\V6FDRS3
+1114	TOK	an		an\AI---S
+1115	TOK	unusual		unusual\JA
+1116	TOK	and		and\CC
+1117	TOK	intriguing		intriguing\JA
+1118	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1119	TOK	Comparing	BOS	compare\VMG----
+1120	TOK	myosin		myosin\N5S
+1121	TOK	isoforms		isoform\N5P
+1122	TOK	from		from\P
+1123	TOK	different		different\JA
+1124	TOK	mammals		mammal\N5P
+---	DLD	,		=\DELIM
+1125	TOK	researchers		researcher\N5P
+1126	TOK	have		have\V6F6R66
+1127	TOK	found		find\VMC----
+1128	TOK	remarkably		remarkably\DGA7
+1129	TOK	little		little\JA
+1130	TOK	variation		variation\N5S
+1131	TOK	from		from\P
+1132	TOK	species		species\N56
+1133	TOK	to		to\P
+1134	TOK	species		species\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1135	TOK	The	BOS	the\AT---6
+1136	TOK	slow		slow\JA
+---	DLE	(		=\DELIM
+1137	TOK	type		type\N5S
+1138	TOK	I		I\N5P
+---	DLD	)		=\DELIM
+1139	TOK	myosin		myosin\N5S
+1140	TOK	found		find\VMC----
+1141	TOK	in		in\P
+1142	TOK	a		a\AI---S
+1143	TOK	rat		rat\N5S
+1144	TOK	is		be\V6FDRS3
+1145	TOK	much		much\DGA7
+1146	TOK	more		more\DDC7
+1147	TOK	similar		similar\JA
+1148	TOK	to		to\P
+1149	TOK	the		the\AT---6
+1150	TOK	slow		slow\JA
+1151	TOK	isoform		isoform\N5S
+1152	TOK	found		find\VMC----
+1153	TOK	in		in\P
+1154	TOK	humans		human\N5P
+1155	TOK	than		than\CS
+1156	TOK	it		it\RPS3N6
+1157	TOK	is		be\V6FDRS3
+1158	TOK	to		to\P
+1159	TOK	the		the\AT---6
+1160	TOK	rat		rat\N5S
+1161	PGR	's		genmark\GENMARK
+1162	TOK	own		own\JA
+1163	TOK	fast		fast\JA
+1164	TOK	myosins		myosin\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1165	TOK	This	BOS	this\AD---S
+1166	TOK	fact		fact\N5S
+1167	TOK	suggests		suggest\VMFDRS3
+1168	TOK	that		that\CS
+1169	TOK	selective		selective\JA
+1170	TOK	evolutionary		evolutionary\JA
+1171	TOK	pressure		pressure\N5S
+1172	TOK	has		have\V6FDRS3
+1173	TOK	maintained		maintain\VMC----
+1174	TOK	functionally		functionally\DGA7
+1175	TOK	distinct		distinct\JA
+1176	TOK	myosin		myosin\N5S
+1177	TOK	isoforms		isoform\N5P
+1178	TOK	and		and\CC
+1179	TOK	that		that\CS
+1180	TOK	this		this\AD---S
+1181	TOK	pressure		pressure\N5S
+1182	TOK	has		have\V6FDRS3
+1183	TOK	basically		basically\DGA7
+1184	TOK	preserved		preserve\VMC----
+1185	TOK	particular		particular\JA
+1186	TOK	isoforms		isoform\N5P
+1187	TOK	that		that\RW63N6
+1188	TOK	came		come\VMF6A66
+1189	TOK	about		about\DGA7
+1190	TOK	over		over\P
+1191	TOK	millions		million\N5P
+1192	TOK	of		of\P
+1193	TOK	years		year\N5P
+1194	TOK	of		of\P
+1195	TOK	evolution		evolution\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1196	TOK	These	BOS	this\AD---P
+1197	TOK	myosin		myosin\N5S
+1198	TOK	types		type\N5P
+1199	TOK	arose		arise\VMF6A66
+1200	TOK	quite		quite\DGA7
+1201	TOK	early		early\JA
+1202	TOK	in		in\P
+##	TAG	<name>
+1203	TOK	Evolution		Evolution\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1204	TOK	even		even\DGA7
+1205	TOK	the		the\AT---6
+1206	TOK	most		most\DDS7
+1207	TOK	ancient		ancient\JA
+1208	TOK	and		and\CC
+1209	TOK	primitive		primitive\JA
+1210	TOK	creatures		creature\N5P
+1211	TOK	had		have\V6F6A66
+1212	TOK	myosin		myosin\N5S
+1213	TOK	isoforms		isoform\N5P
+1214	TOK	not		not\DGA7
+1215	TOK	terribly		terribly\DGA7
+1216	TOK	different		different\JA
+1217	TOK	from		from\P
+1218	TOK	ours		ours\RSP1N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1219	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+1220	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1222	TOK	MUSCLE	BOS	muscle\N5S
+1223	TOK	consists		consist\VMFDRS3
+1224	TOK	of		of\P
+1225	TOK	cells		cell\N5P
+1226	TOK	full		full\JA
+1227	TOK	of		of\P
+1228	TOK	strands		strand\N5P
+1229	TOK	called		call\VMC----
+1230	TOK	myofibrils		myofibril\N5P
+---	DLD	,		=\DELIM
+1231	TOK	which		which\RW63N-
+1232	TOK	are		be\V6FDR66
+1233	TOK	in		in\P
+1234	TOK	turn		turn\VMI----
+1235	TOK	made		make\VMC----
+1236	TOK	up		up\P
+1237	TOK	of		of\P
+1238	TOK	contractile		contractile\JA
+1239	TOK	units		unit\N5P
+1240	TOK	called		call\VMC----
+1241	TOK	sarcomeres		sarcomere\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1242	TOK	The	BOS	the\AT---6
+1243	TOK	key		key\N5S
+1244	TOK	components		component\N5P
+1245	TOK	of		of\P
+1246	TOK	sarcomeres		sarcomere\N5P
+1247	TOK	are		be\V6FDR66
+##	TAG	<num>
+1248	TOK	two		two\X
+##	TAG	</num>
+1249	TOK	filamentary		filamentary\JA
+1250	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+1251	TOK	actin		actin\N5S
+1252	TOK	and		and\CC
+1253	TOK	myosin		myosin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1254	TOK	These	BOS	this\AD---P
+1255	TOK	protein		protein\N5S
+1256	TOK	molecules		molecule\N5P
+1257	TOK	slide		slide\N5S
+1258	TOK	over		over\P
+##	TAG	<loc pos="DGA7">
+1259	TOK	one another		one_another\DGA7
+##	TAG	</loc>
+1260	TOK	telescopically		telescopically\DGA7
+1261	TOK	as		as\CS
+1262	TOK	the		the\AT---6
+1263	TOK	sarcomere		sarcomere\N5S
+1264	TOK	contracts		contract\N5P
+1265	TOK	and		and\CC
+1266	TOK	uncontracts		uncontracts\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1267	TOK	Bulking	BOS	bulk\VMG----
+1268	TOK	Up	EOS	Up\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1270	TOK	Muscle	BOS	muscle\N5S
+1271	TOK	fibers		fiber\N5P
+1272	TOK	can		can\V6FDR66
+1273	PGR	not		not\DGA7
+1274	TOK	split		split\VMF6A66
+1275	TOK	them		them\RPP3NA
+---	DLI	-		=\DELIM
+1276	TOK	selves		self\N5P
+1277	TOK	to		to\P
+1278	TOK	form		form\VMI----
+1279	TOK	completely		completely\DGA7
+1280	TOK	new		new\JA
+1281	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1282	TOK	As	BOS	as\P
+1283	TOK	people		people\N56
+1284	TOK	age		age\N5S
+---	DLD	,		=\DELIM
+1285	TOK	they		they\RPP3NN
+1286	TOK	lose		lose\VMF6R66
+1287	TOK	muscle		muscle\N5S
+1288	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+1289	TOK	but		but\CC
+1290	TOK	they		they\RPP3NN
+1291	TOK	never		never\DGA7
+1292	TOK	gain		gain\VMF6R66
+1293	TOK	new		new\JA
+1294	TOK	ones		one\RIP3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1295	TOK	So	BOS	so\DGA7
+1296	TOK	a		a\AI---S
+1297	TOK	muscle		muscle\N5S
+1298	TOK	can		can\VOFDR66
+1299	TOK	become		become\VMI----
+1300	TOK	more		more\DDC7
+1301	TOK	massive		massive\JA
+1302	TOK	only		only\DGA7
+1303	TOK	when		when\CS
+1304	TOK	its		its\APS3N6
+1305	TOK	individual		individual\JA
+1306	TOK	fibers		fiber\N5P
+1307	TOK	become		become\VMF6R66
+1308	TOK	thicker		thick\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1309	TOK	What	BOS	what\RW63N-
+1310	TOK	causes		cause\VMFDRS3
+1311	TOK	this		this\AD---S
+1312	TOK	thickening		thickening\N5S
+1313	TOK	is		be\V6FDRS3
+1314	TOK	the		the\AT---6
+1315	TOK	creation		creation\N5S
+1316	TOK	of		of\P
+1317	TOK	additional		additional\JA
+1318	TOK	myofibrils		myofibril\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1319	TOK	The	BOS	the\AT---6
+1320	TOK	mechanical		mechanical\JA
+1321	TOK	stresses		stress\N5P
+1322	TOK	that		that\CS
+1323	TOK	exercise		exercise\N5S
+1324	TOK	exerts		exert\VMFDRS3
+1325	TOK	on		on\P
+1326	TOK	tendons		tendon\N5P
+1327	TOK	and		and\CC
+1328	TOK	other		other\JA
+1329	TOK	structures		structure\N5P
+1330	TOK	connected		connect\VMC----
+1331	TOK	to		to\P
+1332	TOK	the		the\AT---6
+1333	TOK	muscle		muscle\N5S
+1334	TOK	trigger		trigger\N5S
+1335	TOK	signaling		signal\VMG----
+1336	TOK	proteins		protein\N5P
+1337	TOK	that		that\RW63N6
+1338	TOK	activate		activate\VMF6R66
+1339	TOK	genes		gene\N5P
+1340	TOK	that		that\RW63N6
+1341	TOK	cause		cause\VMF6R66
+1342	TOK	the		the\AT---6
+1343	TOK	muscle		muscle\N5S
+1344	TOK	fibers		fiber\N5P
+1345	TOK	to		to\P
+1346	TOK	make		make\VMI----
+1347	TOK	more		more\DDC7
+1348	TOK	contractile		contractile\JA
+1349	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1350	TOK	These	BOS	this\AD---P
+1351	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+1352	TOK	chiefly		chiefly\JA
+1353	TOK	myosin		myosin\N5S
+1354	TOK	and		and\CC
+1355	TOK	actin		actin\N5S
+---	DLD	,		=\DELIM
+1356	TOK	are		be\V6FDR66
+1357	TOK	needed		need\VMC----
+1358	TOK	as		as\P
+1359	TOK	the		the\AT---6
+1360	TOK	fiber		fiber\N5S
+1361	TOK	produces		produce\VMFDRS3
+1362	TOK	great		great\JA
+1363	TOK	amounts		amount\N5P
+1364	TOK	of		of\P
+1365	TOK	additional		additional\JA
+1366	TOK	myofibrils		myofibril\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1367	TOK	More	BOS	many\JC
+1368	TOK	nuclei		nucleus\N5P
+1369	TOK	are		be\V6FDR66
+1370	TOK	required		require\VMC----
+1371	TOK	to		to\P
+1372	TOK	produce		produce\VMI----
+1373	TOK	and		and\CC
+1374	TOK	support		support\VMI----
+1375	TOK	the		the\AT---6
+1376	TOK	making		making\N5S
+1377	TOK	of		of\P
+1378	TOK	additional		additional\JA
+1379	TOK	protein		protein\N5S
+1380	TOK	and		and\CC
+1381	TOK	to		to\P
+1382	TOK	keep		keep\VMI----
+1383	TOK	up		up\P
+1384	TOK	a		a\AI---S
+1385	TOK	certain		certain\JA
+1386	TOK	ratio		ratio\N5S
+1387	TOK	of		of\P
+1388	TOK	cell		cell\N5S
+1389	TOK	volume		volume\N5S
+1390	TOK	to		to\P
+1391	TOK	nuclei		nucleus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1392	TOK	As	BOS	as\DGA7
+1393	TOK	mentioned		mention\VMF6A66
+---	DLD	,		=\DELIM
+1394	TOK	muscle		muscle\N5S
+1395	TOK	fibers		fiber\N5P
+1396	TOK	have		have\V6F6R66
+1397	TOK	multiple		multiple\JA
+1398	TOK	nuclei		nucleus\N5P
+---	DLD	,		=\DELIM
+1399	TOK	but		but\CC
+1400	TOK	the		the\AT---6
+1401	TOK	nuclei		nucleus\N5P
+1402	TOK	within		within\P
+1403	TOK	the		the\AT---6
+1404	TOK	muscle		muscle\N5S
+1405	TOK	fiber		fiber\N5S
+1406	TOK	can		can\V6FDR66
+1407	PGR	not		not\DGA7
+1408	TOK	divide		divide\VMF6R66
+---	DLD	,		=\DELIM
+1409	TOK	so		so\CC
+1410	TOK	the		the\AT---6
+1411	TOK	new		new\JA
+1412	TOK	nuclei		nucleus\N5P
+1413	TOK	are		be\V6FDR66
+1414	TOK	donated		donate\VMC----
+1415	TOK	by		by\P
+1416	TOK	so		so\DGA7
+---	DLI	-		=\DELIM
+1417	TOK	called		call\VMC----
+1418	TOK	satellite		satellite\N5S
+1419	TOK	cells		cell\N5P
+---	DLE	(		=\DELIM
+1420	TOK	also		also\DGA7
+1421	TOK	known		know\VMC----
+1422	TOK	as		as\P
+1423	TOK	stem		stem\N5S
+1424	TOK	cells		cell\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1425	TOK	Scattered	BOS	scatter\VMC----
+1426	TOK	among		among\P
+1427	TOK	the		the\AT---6
+1428	TOK	many		many\AI---P
+1429	TOK	nuclei		nucleus\N5P
+1430	TOK	on		on\P
+1431	TOK	the		the\AT---6
+1432	TOK	surface		surface\N5S
+1433	TOK	of		of\P
+1434	TOK	a		a\AI---S
+1435	TOK	skeletal		skeletal\JA
+1436	TOK	muscle		muscle\N5S
+1437	TOK	fiber		fiber\N5S
+---	DLD	,		=\DELIM
+1438	TOK	satellite		satellite\N5S
+1439	TOK	cells		cell\N5P
+1440	TOK	are		be\V6FDR66
+1441	TOK	largely		largely\DGA7
+1442	TOK	separate		separate\JA
+1443	TOK	from		from\P
+1444	TOK	the		the\AT---6
+1445	TOK	muscle		muscle\N5S
+1446	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1447	TOK	The	BOS	the\AT---6
+1448	TOK	satellite		satellite\N5S
+1449	TOK	cells		cell\N5P
+1450	TOK	have		have\V6F6R66
+1451	TOK	only		only\DGA7
+1452	TOK	one		one\MCS
+1453	TOK	nucleus		nucleus\N5S
+1454	TOK	apiece		apiece\DGA7
+1455	TOK	and		and\CC
+1456	TOK	can		can\VOFDR66
+1457	TOK	replicate		replicate\VMI----
+1458	TOK	by		by\P
+1459	TOK	dividing		divide\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1460	TOK	After	BOS	after\P
+1461	TOK	fusion		fusion\N5S
+1462	TOK	with		with\P
+1463	TOK	the		the\AT---6
+1464	TOK	muscle		muscle\N5S
+1465	TOK	fiber		fiber\N5S
+---	DLD	,		=\DELIM
+1466	TOK	they		they\RPP3NN
+1467	TOK	serve		serve\VMF6R66
+1468	TOK	as		as\P
+1469	TOK	a		a\AI---S
+1470	TOK	source		source\N5S
+1471	TOK	of		of\P
+1472	TOK	new		new\JA
+1473	TOK	nuclei		nucleus\N5P
+1474	TOK	to		to\P
+1475	TOK	supplement		supplement\VMI----
+1476	TOK	the		the\AT---6
+1477	TOK	growing		growing\JA
+1478	TOK	fiber		fiber\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1479	TOK	Satellite	BOS	satellite\N5S
+1480	TOK	cells		cell\N5P
+1481	TOK	proliferate		proliferate\VMF6R66
+1482	TOK	in		in\P
+1483	TOK	response		response\N5S
+1484	TOK	to		to\P
+1485	TOK	the		the\AT---6
+1486	TOK	wear		wear\N5S
+1487	TOK	and		and\CC
+1488	TOK	tear		tear\VMF6R66
+1489	TOK	of		of\P
+1490	TOK	exercise		exercise\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1491	TOK	One	BOS	one\MCS
+1492	TOK	theory		theory\N5S
+1493	TOK	holds		hold\VMFDRS3
+1494	TOK	that		that\CS
+1495	TOK	rigorous		rigorous\JA
+1496	TOK	exercise		exercise\N5S
+1497	TOK	inflicts		inflict\VMFDRS3
+1498	TOK	tiny		tiny\JA
+---	DLE	"		=\DELIM
+1499	TOK	microtears		microtears\N5P
+---	DLD	"		=\DELIM
+1500	TOK	in		in\P
+1501	TOK	muscle		muscle\N5S
+1502	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1503	TOK	The	BOS	the\AT---6
+1504	TOK	damaged		damage\VMC----
+1505	TOK	area		area\N5S
+1506	TOK	attracts		attract\VMFDRS3
+1507	TOK	the		the\AT---6
+1508	TOK	satellite		satellite\N5S
+1509	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+1510	TOK	which		which\RW63N-
+1511	TOK	incorporate		incorporate\VMF6R66
+1512	TOK	themselves		themselves\RXP3N-
+1513	TOK	into		into\P
+1514	TOK	the		the\AT---6
+1515	TOK	muscle		muscle\N5S
+1516	TOK	tissue		tissue\N5S
+1517	TOK	and		and\CC
+1518	TOK	begin		begin\VMF6R66
+1519	TOK	producing		produce\VMG----
+1520	TOK	proteins		protein\N5P
+1521	TOK	to		to\P
+1522	TOK	fill		fill\VMI----
+1523	TOK	the		the\AT---6
+1524	TOK	gap		gap\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1525	TOK	As	BOS	as\P
+1526	TOK	the		the\AT---6
+1527	TOK	satellite		satellite\N5S
+1528	TOK	cells		cell\N5P
+1529	TOK	multiply		multiply\VMF6R66
+---	DLD	,		=\DELIM
+1530	TOK	some		some\DGA7
+1531	TOK	remain		remain\VMF6R66
+1532	TOK	as		as\P
+1533	TOK	satellites		satellite\N5P
+1534	TOK	on		on\P
+1535	TOK	the		the\AT---6
+1536	TOK	fiber		fiber\N5S
+---	DLD	,		=\DELIM
+1537	TOK	but		but\CC
+1538	TOK	others		other\RIP3N-
+1539	TOK	become		become\VMF6R66
+1540	TOK	incorporated		incorporate\VMC----
+1541	TOK	into		into\P
+1542	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1543	TOK	These	BOS	this\AD---P
+1544	TOK	nuclei		nucleus\N5P
+1545	TOK	become		become\VMF6R66
+1546	TOK	indistinguishable		indistinguishable\JA
+1547	TOK	from		from\P
+1548	TOK	the		the\AT---6
+1549	TOK	muscle		muscle\N5S
+1550	TOK	cell		cell\N5S
+1551	PGR	's		genmark\GENMARK
+1552	TOK	other		other\JA
+1553	TOK	nuclei		nucleus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1554	TOK	With	BOS	with\P
+1555	TOK	these		this\AD---P
+1556	TOK	additional		additional\JA
+1557	TOK	nuclei		nucleus\N5P
+---	DLD	,		=\DELIM
+1558	TOK	the		the\AT---6
+1559	TOK	fiber		fiber\N5S
+1560	TOK	is		be\V6FDRS3
+1561	TOK	able		able\JA
+1562	TOK	to		to\P
+1563	TOK	churn		churn\VMI----
+1564	TOK	out		out\DGA7
+1565	TOK	more		many\JC
+1566	TOK	proteins		protein\N5P
+1567	TOK	and		and\CC
+1568	TOK	create		create\VMI----
+1569	TOK	more		many\JC
+1570	TOK	myofibrils		myofibril\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1571	TOK	To	BOS	to\P
+1572	TOK	produce		produce\VMI----
+1573	TOK	a		a\AI---S
+1574	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+1575	TOK	a		a\AI---S
+1576	TOK	muscle		muscle\N5S
+1577	TOK	cell		cell\N5S
+1578	TOK	like		like\P
+1579	TOK	any		any\AG---6
+1580	TOK	cell		cell\N5S
+1581	TOK	in		in\P
+1582	TOK	the		the\AT---6
+1583	TOK	body		body\N5S
+1584	TOK	must		must\VOFDR66
+1585	TOK	have		have\VMI----
+1586	TOK	a		a\AI---S
+1587	TOK	blueprint		blueprint\N5S
+1588	TOK	to		to\P
+1589	TOK	specify		specify\VMI----
+1590	TOK	the		the\AT---6
+1591	TOK	order		order\N5S
+1592	TOK	in		in\P
+1593	TOK	which		which\RW63N-
+1594	TOK	amino		amino\N5S
+1595	TOK	acids		acid\N5P
+1596	TOK	should		shall\VOFDA66
+1597	TOK	be		be\VMI----
+1598	TOK	put		put\VMC----
+1599	TOK	together		together\DGA7
+1600	TOK	to		to\P
+1601	TOK	make		make\VMI----
+1602	TOK	the		the\AT---6
+1603	TOK	protein		protein\N5S
+1604	TOK	in		in\P
+1605	TOK	other		other\JA
+1606	TOK	words		word\N5P
+---	DLD	,		=\DELIM
+1607	TOK	to		to\P
+1608	TOK	indicate		indicate\VMI----
+1609	TOK	which		which\AW---6
+1610	TOK	protein		protein\N5S
+1611	TOK	will		will\VOFDR66
+1612	TOK	be		be\VMI----
+1613	TOK	created		create\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1614	TOK	This	BOS	this\AD---S
+1615	TOK	blueprint		blueprint\N5S
+1616	TOK	is		be\V6FDRS3
+1617	TOK	a		a\AI---S
+1618	TOK	gene		gene\N5S
+1619	TOK	in		in\P
+1620	TOK	the		the\AT---6
+1621	TOK	cells		cells\N5S
+1622	TOK	nucleus		nucleus\N5S
+---	DLD	,		=\DELIM
+1623	TOK	and		and\CC
+1624	TOK	the		the\AT---6
+1625	TOK	process		process\N5S
+1626	TOK	by		by\P
+1627	TOK	which		which\RW63N-
+1628	TOK	the		the\AT---6
+1629	TOK	information		information\N5S
+1630	TOK	gets		get\VMFDRS3
+##	TAG	<loc pos="P">
+1631	TOK	out of		out_of\P
+##	TAG	</loc>
+1632	TOK	the		the\AT---6
+1633	TOK	nucleus		nucleus\N5S
+1634	TOK	into		into\P
+1635	TOK	the		the\AT---6
+1636	TOK	cytoplasm		cytoplasm\N5S
+---	DLD	,		=\DELIM
+1637	TOK	where		where\CS
+1638	TOK	the		the\AT---6
+1639	TOK	protein		protein\N5S
+1640	TOK	will		will\VOFDR66
+1641	TOK	be		be\VMI----
+1642	TOK	made		make\VMC----
+---	DLD	,		=\DELIM
+1643	TOK	starts		start\N5P
+1644	TOK	with		with\P
+1645	TOK	transcription		transcription\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1646	TOK	It	BOS	it\RPS3N6
+1647	TOK	occurs		occur\VMFDRS3
+1648	TOK	in		in\P
+1649	TOK	the		the\AT---6
+1650	TOK	nucleus		nucleus\N5S
+1651	TOK	when		when\CS
+1652	TOK	a		a\AI---S
+1653	TOK	gene		gene\N5S
+1654	PGR	's		genmark\GENMARK
+1655	TOK	information		information\N5S
+---	DLE	(		=\DELIM
+1656	TOK	encoded		encode\VMC----
+1657	TOK	in		in\P
+##	TAG	<name>
+1658	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1659	TOK	is		be\V6FDRS3
+1660	TOK	copied		copy\VMC----
+1661	TOK	into		into\P
+1662	TOK	a		a\AI---S
+1663	TOK	molecule		molecule\N5S
+1664	TOK	called		call\VMF6A66
+1665	TOK	messenger		messenger\N5S
+##	TAG	<name>
+1666	TOK	RNA		RNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1667	TOK	The	BOS	the\AT---6
+1668	TOK	mRNA		mrna\N5S
+1669	TOK	then		then\DGA7
+1670	TOK	carries		carry\VMFDRS3
+1671	TOK	this		this\AD---S
+1672	TOK	information		information\N5S
+1673	TOK	outside		outside\P
+1674	TOK	the		the\AT---6
+1675	TOK	nucleus		nucleus\N5S
+1676	TOK	to		to\P
+1677	TOK	the		the\AT---6
+1678	TOK	ribosomes		ribosome\N5P
+---	DLD	,		=\DELIM
+1679	TOK	which		which\RW63N-
+1680	TOK	assemble		assemble\VMF6R66
+1681	TOK	amino		amino\N5S
+1682	TOK	acids		acid\N5P
+1683	TOK	into		into\P
+1684	TOK	the		the\AT---6
+1685	TOK	proteins		protein\N5P
+1686	TOK	actin		actin\N5S
+1687	TOK	or		or\CC
+1688	TOK	one		one\MCS
+1689	TOK	of		of\P
+1690	TOK	the		the\AT---6
+1691	TOK	myosin		myosin\N5S
+1692	TOK	isoforms		isoform\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1693	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+1694	TOK	as		as\CS
+1695	TOK	specified		specify\VMC----
+1696	TOK	by		by\P
+1697	TOK	the		the\AT---6
+1698	TOK	mRNA		mRNA\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1699	TOK	This	BOS	this\AD---S
+1700	TOK	last		last\JA
+1701	TOK	process		process\N5S
+1702	TOK	is		be\V6FDRS3
+1703	TOK	called		call\VMC----
+1704	TOK	translation		translation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1705	TOK	Biologists	BOS	biologist\N5P
+1706	TOK	refer		refer\VMF6R66
+1707	TOK	to		to\P
+1708	TOK	the		the\AT---6
+1709	TOK	entire		entire\JA
+1710	TOK	process		process\N5S
+1711	TOK	of		of\P
+1712	TOK	producing		produce\VMG----
+1713	TOK	a		a\AI---S
+1714	TOK	protein		protein\N5S
+1715	TOK	from		from\P
+1716	TOK	a		a\AI---S
+1717	TOK	gene		gene\N5S
+1718	TOK	as		as\P
+1719	TOK	expression		expression\N5S
+1720	TOK	of		of\P
+1721	TOK	that		that\AD---S
+1722	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+1723	TOK	Two	BOS	Two\X
+##	TAG	</num>
+1724	TOK	of		of\P
+1725	TOK	the		the\AT---6
+1726	TOK	most		most\DDS7
+1727	TOK	fundamental		fundamental\JA
+1728	TOK	areas		area\N5P
+1729	TOK	of		of\P
+1730	TOK	study		study\N5S
+1731	TOK	in		in\P
+1732	TOK	skeletal		skeletal\JA
+1733	TOK	muscle		muscle\N5S
+1734	TOK	research		research\N5S
+1735	TOK	ones		one\N5P
+1736	TOK	that		that\RW63N6
+1737	TOK	bear		bear\VMF6R66
+1738	TOK	directly		directly\DGA7
+1739	TOK	on		on\P
+1740	TOK	athletic		athletic\JA
+1741	TOK	performance		performance\N5S
+1742	TOK	revolve		revolve\VMF6R66
+1743	TOK	around		around\P
+1744	TOK	the		the\AT---6
+1745	TOK	way		way\N5S
+1746	TOK	in		in\P
+1747	TOK	which		which\RW63N-
+1748	TOK	exercise		exercise\N5S
+1749	TOK	and		and\CC
+1750	TOK	other		other\JA
+1751	TOK	stimuli		stimulus\N5P
+1752	TOK	cause		cause\VMF6R66
+1753	TOK	muscles		muscle\N5P
+1754	TOK	to		to\P
+1755	TOK	become		become\VMI----
+1756	TOK	enlarged		enlarge\VMC----
+---	DLE	(		=\DELIM
+1757	TOK	a		a\AI---S
+1758	TOK	process		process\N5S
+1759	TOK	called		call\VMF6A66
+1760	TOK	hypertrophy		hypertrophy\N5S
+---	DLD	)		=\DELIM
+1761	TOK	and		and\CC
+1762	TOK	how		how\DGAW
+1763	TOK	such		such\JA
+1764	TOK	activity		activity\N5S
+1765	TOK	can		can\VOFDR66
+1766	TOK	convert		convert\VMI----
+1767	TOK	muscle		muscle\N5S
+1768	TOK	fibers		fiber\N5P
+1769	TOK	from		from\P
+1770	TOK	one		one\MCS
+1771	TOK	type		type\N5S
+1772	TOK	to		to\P
+1773	TOK	another		another\RIS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1774	TOK	We	BOS	we\RPP1NN
+1775	TOK	and		and\CC
+1776	TOK	others		other\RIP3N-
+1777	TOK	have		have\V6F6R66
+1778	TOK	pursued		pursue\VMC----
+1779	TOK	these		this\AD---P
+1780	TOK	subjects		subject\N5P
+1781	TOK	intensively		intensively\DGA7
+1782	TOK	in		in\P
+1783	TOK	recent		recent\JA
+1784	TOK	years		year\N5P
+1785	TOK	and		and\CC
+1786	TOK	have		have\V6F6R66
+1787	TOK	made		make\VMC----
+1788	TOK	some		some\AG---6
+1789	TOK	signifi		signifi\N5P
+---	DLD	-		=\DELIM
+1790	TOK	cant		cant\JA
+1791	TOK	observations		observation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1792	TOK	The	BOS	the\AT---6
+1793	TOK	research		research\N5S
+1794	TOK	goes		go\VMFDRS3
+1795	TOK	back		back\DGA7
+1796	TOK	to		to\P
+1797	TOK	the		the\AT---6
+1798	TOK	early		early\JA
+##	TAG	<na type="code">
+1799	TOK	1960s		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+1800	TOK	when		when\CS
+##	TAG	<name>
+1801	TOK	A. J		A._J\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1802	TOK	Buller	BOS	bull\JC
+1803	TOK	and		and\CC
+##	TAG	<name>
+1804	TOK	John Carew Eccles		John_Carew_Eccles\N46
+##	TAG	</name>
+1805	TOK	of		of\P
+1806	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+1807	TOK	Australian National University		Australian_National_University\N46
+##	TAG	</name>
+1808	TOK	in		in\P
+##	TAG	<name>
+1809	TOK	Canberra		Canberra\N46
+##	TAG	</name>
+1810	TOK	and		and\CC
+1811	TOK	later		late\JC
+##	TAG	<name>
+1812	TOK	Michael Bárány		Michael_Bárány\N46
+##	TAG	</name>
+1813	TOK	and		and\CC
+1814	TOK	his		his\APS3M6
+1815	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+1816	TOK	workers		worker\N5P
+1817	TOK	at		at\P
+1818	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="other">
+1819	TOK	Institute for Muscle Disease		Institute_for_Muscle_Disease\N46
+##	TAG	</name>
+1820	TOK	in		in\P
+##	TAG	<name>
+1821	TOK	New York City		New_York_City\N46
+##	TAG	</name>
+1822	TOK	performed		perform\VMF6A66
+1823	TOK	a		a\AI---S
+1824	TOK	series		series\N56
+1825	TOK	of		of\P
+1826	TOK	animal		animal\N5S
+1827	TOK	studies		study\N5P
+1828	TOK	that		that\CS
+1829	TOK	converted		convert\VMC----
+1830	TOK	skeletal		skeletal\JA
+1831	TOK	muscle		muscle\N5S
+1832	TOK	fibers		fiber\N5P
+1833	TOK	from		from\P
+1834	TOK	fast		fast\JA
+1835	TOK	to		to\P
+1836	TOK	slow		slow\JA
+1837	TOK	and		and\CC
+1838	TOK	from		from\P
+1839	TOK	slow		slow\VMI----
+1840	TOK	to		to\P
+1841	TOK	fast		fast\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1842	TOK	The	BOS	the\AT---6
+1843	TOK	researchers		researcher\N5P
+1844	TOK	used		use\VMC----
+1845	TOK	several		several\JA
+1846	TOK	different		different\JA
+1847	TOK	means		mean\N56
+1848	TOK	to		to\P
+1849	TOK	convert		convert\VMI----
+1850	TOK	the		the\AT---6
+1851	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+1852	TOK	the		the\AT---6
+1853	TOK	most		most\DDS7
+1854	TOK	common		common\JA
+1855	TOK	of		of\P
+1856	TOK	which		which\RW63N-
+1857	TOK	was		be\V6F-A66
+1858	TOK	cross		cross\DGA7
+---	DLI	-		=\DELIM
+1859	TOK	innervation		innervation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1860	TOK	They	BOS	they\RPP3NN
+1861	TOK	switched		switch\VMF6A66
+1862	TOK	a		a\AI---S
+1863	TOK	nerve		nerve\N5S
+1864	TOK	that		that\CS
+1865	TOK	controlled		control\VMC----
+1866	TOK	a		a\AI---S
+1867	TOK	slow		slow\JA
+1868	TOK	muscle		muscle\N5S
+1869	TOK	with		with\P
+1870	TOK	one		one\MCS
+1871	TOK	linked		link\VMC----
+1872	TOK	to		to\P
+1873	TOK	a		a\AI---S
+1874	TOK	fast		fast\JA
+1875	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+1876	TOK	so		so\CC
+1877	TOK	that		that\CS
+1878	TOK	each		each\AG---S
+1879	TOK	controlled		control\VMC----
+1880	TOK	the		the\AT---6
+1881	TOK	opposite		opposite\JA
+1882	TOK	type		type\N5S
+1883	TOK	of		of\P
+1884	TOK	fiber		fiber\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1885	TOK	The	BOS	the\AT---6
+1886	TOK	researchers		researcher\N5P
+1887	TOK	also		also\DGA7
+1888	TOK	electrically		electrically\DGA7
+1889	TOK	stimulated		stimulate\VMC----
+1890	TOK	muscles		muscle\N5P
+1891	TOK	for		for\P
+1892	TOK	prolonged		prolong\VMC----
+1893	TOK	periods		period\N5P
+1894	TOK	or		or\CC
+---	DLD	,		=\DELIM
+1895	TOK	to		to\P
+1896	TOK	get		get\VMI----
+1897	TOK	the		the\AT---6
+1898	TOK	opposite		opposite\JA
+1899	TOK	effect		effect\N5S
+---	DLD	,		=\DELIM
+1900	TOK	cut		cut\VMF6R66
+1901	TOK	the		the\AT---6
+1902	TOK	nerve		nerve\N5S
+1903	TOK	leading		lead\VMG----
+1904	TOK	to		to\P
+1905	TOK	the		the\AT---6
+1906	TOK	muscle		muscle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1907	TOK	In	BOS	in\P
+1908	TOK	the		the\AT---6
+##	TAG	<na type="code">
+1909	TOK	1970s		noanat\W
+##	TAG	</na>
+1910	TOK	and		and\CC
+##	TAG	<na type="code">
+1911	TOK	1980s		noanat\W
+##	TAG	</na>
+1912	TOK	muscle		muscle\N5S
+1913	TOK	specialists		specialist\N5P
+1914	TOK	focused		focus\VMC----
+1915	TOK	on		on\P
+1916	TOK	demonstrating		demonstrate\VMG----
+1917	TOK	that		that\CS
+1918	TOK	the		the\AT---6
+1919	TOK	ability		ability\N5S
+1920	TOK	of		of\P
+1921	TOK	a		a\AI---S
+1922	TOK	muscle		muscle\N5S
+1923	TOK	fiber		fiber\N5S
+1924	TOK	to		to\P
+1925	TOK	change		change\N5S
+1926	TOK	size		size\N5S
+1927	TOK	and		and\CC
+1928	TOK	type		type\VMF6R66
+---	DLD	,		=\DELIM
+1929	TOK	a		a\AI---S
+1930	TOK	feature		feature\N5S
+1931	TOK	generally		generally\DGA7
+1932	TOK	referred		refer\VMC----
+1933	TOK	to		to\P
+1934	TOK	as		as\P
+1935	TOK	muscle		muscle\N5S
+1936	TOK	plasticity		plasticity\N5S
+---	DLD	,		=\DELIM
+1937	TOK	also		also\DGA7
+1938	TOK	applied		apply\VMC----
+1939	TOK	to		to\P
+1940	TOK	humans		human\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1941	TOK	An	BOS	an\AI---S
+1942	TOK	extreme		extreme\JA
+1943	TOK	example		example\N5S
+1944	TOK	of		of\P
+1945	TOK	this		this\AD---S
+1946	TOK	effect		effect\N5S
+1947	TOK	occurs		occur\VMFDRS3
+1948	TOK	in		in\P
+1949	TOK	people		people\N56
+1950	TOK	who		who\RW63N-
+1951	TOK	have		have\V6F6R66
+1952	TOK	suffered		suffer\VMC----
+1953	TOK	a		a\AI---S
+1954	TOK	spinal		spinal\JA
+1955	TOK	cord		cord\N5S
+1956	TOK	injury		injury\N5S
+1957	TOK	serious		serious\JA
+1958	TOK	enough		enough\JA
+1959	TOK	to		to\P
+1960	TOK	have		have\VMI----
+1961	TOK	paralyzed		paralyze\VMC----
+1962	TOK	their		their\APP3N6
+1963	TOK	lower		low\JC
+1964	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1965	TOK	The	BOS	the\AT---6
+1966	TOK	lack		lack\N5S
+1967	TOK	of		of\P
+1968	TOK	nerve		nerve\N5S
+1969	TOK	impulses		impulse\N5P
+1970	TOK	and		and\CC
+1971	TOK	general		general\JA
+1972	TOK	disuse		disuse\N5S
+1973	TOK	of		of\P
+1974	TOK	the		the\AT---6
+1975	TOK	muscle		muscle\N5S
+1976	TOK	cause		cause\VMF6R66
+1977	TOK	a		a\AI---S
+1978	TOK	tremendous		tremendous\JA
+1979	TOK	loss		loss\N5S
+1980	TOK	of		of\P
+1981	TOK	tissue		tissue\N5S
+---	DLD	,		=\DELIM
+1982	TOK	as		as\DGA7
+1983	TOK	might		may\VOFDR66
+1984	TOK	be		be\VMI----
+1985	TOK	expected		expect\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1986	TOK	More	BOS	more\DDC7
+1987	TOK	surprisingly		surprisingly\DGA7
+---	DLD	,		=\DELIM
+1988	TOK	the		the\AT---6
+1989	TOK	type		type\N5S
+1990	TOK	of		of\P
+1991	TOK	muscle		muscle\N5S
+1992	TOK	changes		change\N5P
+1993	TOK	dramatically		dramatically\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1994	TOK	These	BOS	this\RDP3N-
+1995	TOK	paralyzed		paralyze\VMC----
+1996	TOK	subjects		subject\N5P
+1997	TOK	experience		experience\VMF6R66
+1998	TOK	a		a\AI---S
+1999	TOK	sharp		sharp\JA
+2000	TOK	decrease		decrease\N5S
+2001	TOK	of		of\P
+2002	TOK	the		the\AT---6
+2003	TOK	relative		relative\JA
+2004	TOK	amount		amount\N5S
+2005	TOK	of		of\P
+2006	TOK	the		the\AT---6
+2007	TOK	slow		slow\JA
+2008	TOK	myosin		myosin\N5S
+2009	TOK	isoform		isoform\N5S
+---	DLD	,		=\DELIM
+2010	TOK	whereas		whereas\CS
+2011	TOK	the		the\AT---6
+2012	TOK	amount		amount\N5S
+2013	TOK	of		of\P
+2014	TOK	the		the\AT---6
+2015	TOK	fast		fast\JA
+2016	TOK	myosin		myosin\N5S
+2017	TOK	isoforms		isoform\N5P
+2018	TOK	actually		actually\DGA7
+2019	TOK	increases		increase\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2020	TOK	We	BOS	we\RPP1NN
+2021	TOK	have		have\V6F6R66
+2022	TOK	shown		show\VMC----
+2023	TOK	that		that\CS
+2024	TOK	many		many\RIP3N-
+2025	TOK	of		of\P
+2026	TOK	these		this\AD---P
+2027	TOK	subjects		subject\N5P
+2028	TOK	have		have\V6F6R66
+2029	TOK	almost		almost\DGA7
+2030	TOK	no		no\AI---6
+2031	TOK	slow		slow\JA
+2032	TOK	myosin		myosin\N5S
+2033	TOK	in		in\P
+2034	TOK	their		their\APP3N6
+2035	TOK	vastus		vastus\N5S
+2036	TOK	lateralis		lateralis\N5S
+2037	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+2038	TOK	which		which\RW63N-
+2039	TOK	is		be\V6FDRS3
+2040	TOK	part		part\N5S
+2041	TOK	of		of\P
+2042	TOK	the		the\AT---6
+2043	TOK	quadriceps		quadriceps\N56
+2044	TOK	in		in\P
+2045	TOK	the		the\AT---6
+2046	TOK	thigh		thigh\N5S
+---	DLD	,		=\DELIM
+2047	TOK	after		after\P
+##	TAG	<num>
+2048	TOK	five		five\X
+##	TAG	</num>
+2049	TOK	to		to\P
+##	TAG	<num>
+2050	TOK	10		10\X
+##	TAG	</num>
+2051	TOK	years		year\N5P
+2052	TOK	of		of\P
+2053	TOK	paralysis		paralysis\N5S
+---	DLD	;		=\DELIM
+2054	TOK	essentially		essentially\DGA7
+2055	TOK	all		all\AG---6
+2056	TOK	myosin		myosin\N5S
+2057	TOK	in		in\P
+2058	TOK	this		this\AD---S
+2059	TOK	muscle		muscle\N5S
+2060	TOK	is		be\V6FDRS3
+2061	TOK	of		of\P
+2062	TOK	the		the\AT---6
+2063	TOK	fast		fast\JA
+2064	TOK	type		type\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2065	TOK	Recall	BOS	recall\N5S
+2066	TOK	that		that\CS
+2067	TOK	in		in\P
+2068	TOK	the		the\AT---6
+2069	TOK	average		average\JA
+2070	TOK	healthy		healthy\JA
+2071	TOK	adult		adult\N5S
+2072	TOK	the		the\AT---6
+2073	TOK	distribution		distribution\N5S
+2074	TOK	is		be\V6FDRS3
+2075	TOK	about		about\DGA7
+##	TAG	<na type="function">
+2076	TOK	50/50		noanat\W
+##	TAG	</na>
+2077	TOK	for		for\P
+2078	TOK	slow		slow\JA
+2079	TOK	and		and\CC
+2080	TOK	fast		fast\JA
+2081	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2082	TOK	We	BOS	we\RPP1NN
+2083	TOK	hypothesized		hypothesize\VMF6A66
+2084	TOK	that		that\CS
+2085	TOK	the		the\AT---6
+2086	TOK	neural		neural\JA
+2087	TOK	input		input\N5S
+2088	TOK	to		to\P
+2089	TOK	the		the\AT---6
+2090	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+2091	TOK	by		by\P
+2092	TOK	electrical		electrical\JA
+2093	TOK	activation		activation\N5S
+---	DLD	,		=\DELIM
+2094	TOK	is		be\V6FDRS3
+2095	TOK	necessary		necessary\JA
+2096	TOK	for		for\P
+2097	TOK	maintaining		maintain\VMG----
+2098	TOK	the		the\AT---6
+2099	TOK	expression		expression\N5S
+2100	TOK	of		of\P
+2101	TOK	the		the\AT---6
+2102	TOK	slow		slow\JA
+2103	TOK	myosin		myosin\N5S
+2104	TOK	isoform		isoform\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2105	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+2106	TOK	electrical		electrical\JA
+2107	TOK	stimulation		stimulation\N5S
+2108	TOK	or		or\CC
+2109	TOK	electrically		electrically\DGA7
+2110	TOK	induced		induce\VMF6A66
+2111	TOK	exercise		exercise\N5S
+2112	TOK	of		of\P
+2113	TOK	these		this\AD---P
+2114	TOK	subjects		subject\N5P
+---	DLD			=\DELIM
+2115	TOK	muscles		muscle\N5P
+2116	TOK	can		can\VOFDR66
+---	DLD	,		=\DELIM
+2117	TOK	to		to\P
+2118	TOK	some		some\AG---6
+2119	TOK	extent		extent\N5S
+---	DLD	,		=\DELIM
+2120	TOK	reintroduce		reintroduce\VMF6R66
+2121	TOK	the		the\AT---6
+2122	TOK	slow		slow\JA
+2123	TOK	myosin		myosin\N5S
+2124	TOK	in		in\P
+2125	TOK	the		the\AT---6
+2126	TOK	paralyzed		paralyze\VMC----
+2127	TOK	muscles		muscle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2128	TOK	Converting	BOS	convert\VMG----
+##	TAG	<name>
+2129	TOK	Muscle	EOS	Muscle\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2131	TOK	Conversion	BOS	conversion\N5S
+2132	TOK	of		of\P
+2133	TOK	muscle		muscle\N5S
+2134	TOK	fibers		fiber\N5P
+2135	TOK	is		be\V6FDRS3
+2136	TOK	not		not\DGA7
+2137	TOK	limited		limit\VMC----
+2138	TOK	to		to\P
+2139	TOK	the		the\AT---6
+2140	TOK	extreme		extreme\JA
+2141	TOK	case		case\N5S
+2142	TOK	of		of\P
+2143	TOK	the		the\AT---6
+2144	TOK	reconditioning		recondition\VMG----
+2145	TOK	of		of\P
+2146	TOK	paralyzed		paralyze\VMC----
+2147	TOK	muscle		muscle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2148	TOK	In	BOS	in\P
+2149	TOK	fact		fact\N5S
+---	DLD	,		=\DELIM
+2150	TOK	when		when\CS
+2151	TOK	healthy		healthy\JA
+2152	TOK	muscles		muscle\N5P
+2153	TOK	are		be\V6FDR66
+2154	TOK	loaded		load\VMC----
+2155	TOK	heavily		heavily\DGA7
+2156	TOK	and		and\CC
+2157	TOK	repeatedly		repeatedly\DGA7
+---	DLD	,		=\DELIM
+2158	TOK	as		as\DGA7
+2159	TOK	in		in\P
+2160	TOK	a		a\AI---S
+2161	TOK	weight		weight\N5S
+---	DLI	-		=\DELIM
+2162	TOK	training		training\N5S
+2163	TOK	program		program\VMF6R66
+---	DLD	,		=\DELIM
+2164	TOK	the		the\AT---6
+2165	TOK	number		number\N5S
+2166	TOK	of		of\P
+2167	TOK	fast		fast\JA
+##	TAG	<name>
+2168	TOK	IIx		IIx\N46
+##	TAG	</name>
+2169	TOK	fibers		fiber\N5P
+2170	TOK	declines		decline\VMFDRS3
+2171	TOK	as		as\CS
+2172	TOK	they		they\RPP3NN
+2173	TOK	convert		convert\VMF6R66
+2174	TOK	to		to\P
+2175	TOK	fast		fast\JA
+##	TAG	<name>
+2176	TOK	IIa		IIa\N46
+##	TAG	</name>
+2177	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2178	TOK	In	BOS	in\P
+2179	TOK	those		that\AD---P
+2180	TOK	fibers		fiber\N5P
+2181	TOK	the		the\AT---6
+2182	TOK	nuclei		nucleus\N5P
+2183	TOK	stop		stop\VMF6R66
+2184	TOK	expressing		express\VMG----
+2185	TOK	the		the\AT---6
+##	TAG	<name>
+2186	TOK	IIx		IIx\N46
+##	TAG	</name>
+2187	TOK	gene		gene\N5S
+2188	TOK	and		and\CC
+2189	TOK	begin		begin\VMF6R66
+2190	TOK	expressing		express\VMG----
+2191	TOK	the		the\AT---6
+##	TAG	<name>
+2192	TOK	IIa		IIa\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2193	TOK	If	BOS	if\CS
+2194	TOK	the		the\AT---6
+2195	TOK	vigorous		vigorous\JA
+2196	TOK	exercise		exercise\N5S
+2197	TOK	continues		continue\VMFDRS3
+2198	TOK	for		for\P
+2199	TOK	about		about\DGA7
+2200	TOK	a		a\AI---S
+2201	TOK	month		month\N5S
+2202	TOK	or		or\CC
+2203	TOK	more		many\JC
+---	DLD	,		=\DELIM
+2204	TOK	the		the\AT---6
+##	TAG	<name>
+2205	TOK	IIx		IIx\N46
+##	TAG	</name>
+2206	TOK	muscle		muscle\N5S
+2207	TOK	fibers		fiber\N5P
+2208	TOK	will		will\VOFDR66
+2209	TOK	completely		completely\DGA7
+2210	TOK	transform		transform\VMI----
+2211	TOK	to		to\P
+##	TAG	<name>
+2212	TOK	IIa		IIa\N46
+##	TAG	</name>
+2213	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2214	TOK	At	BOS	at\P
+2215	TOK	the		the\AT---6
+2216	TOK	same		same\JA
+2217	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+2218	TOK	the		the\AT---6
+2219	TOK	fibers		fiber\N5P
+2220	TOK	increase		increase\VMF6R66
+2221	TOK	their		their\APP3N6
+2222	TOK	production		production\N5S
+2223	TOK	of		of\P
+2224	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+2225	TOK	becoming		become\VMG----
+2226	TOK	thicker		thick\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2227	TOK	In	BOS	in\P
+2228	TOK	the		the\AT---6
+2229	TOK	early		early\JA
+##	TAG	<na type="code">
+2230	TOK	1990s		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+2231	TOK	Geoffrey Goldspink		Geoffrey_Goldspink\N46
+##	TAG	</name>
+2232	TOK	of		of\P
+2233	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2234	TOK	Royal Free Hospital		Royal_Free_Hospital\N46
+##	TAG	</name>
+2235	TOK	in		in\P
+##	TAG	<name>
+2236	TOK	London		London\N46
+##	TAG	</name>
+2237	TOK	suggested		suggest\VMF6A66
+2238	TOK	that		that\CS
+2239	TOK	the		the\AT---6
+2240	TOK	fast		fast\JA
+##	TAG	<name>
+2241	TOK	IIx		IIx\N46
+##	TAG	</name>
+2242	TOK	gene		gene\N5S
+2243	TOK	constitutes		constitute\VMFDRS3
+2244	TOK	a		a\AI---S
+2245	TOK	kind		kind\N5S
+2246	TOK	of		of\P
+2247	TOK	default		default\N5S
+2248	TOK	setting		set\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2249	TOK	This	BOS	this\AD---S
+2250	TOK	hypothesis		hypothesis\N5S
+2251	TOK	has		have\V6FDRS3
+2252	TOK	held		hold\VMC----
+2253	TOK	up		up\P
+2254	TOK	in		in\P
+2255	TOK	various		various\JA
+2256	TOK	studies		study\N5P
+2257	TOK	over		over\P
+2258	TOK	the		the\AT---6
+2259	TOK	years		year\N5P
+2260	TOK	that		that\RW63N6
+2261	TOK	have		have\V6F6R66
+2262	TOK	found		find\VMC----
+2263	TOK	that		that\CS
+2264	TOK	sedentary		sedentary\JA
+2265	TOK	people		people\N56
+2266	TOK	have		have\V6F6R66
+2267	TOK	higher		high\JC
+2268	TOK	amounts		amount\N5P
+2269	TOK	of		of\P
+2270	TOK	myosin		myosin\N5S
+##	TAG	<name>
+2271	TOK	IIx		IIx\N46
+##	TAG	</name>
+2272	TOK	in		in\P
+2273	TOK	their		their\APP3N6
+2274	TOK	muscles		muscle\N5P
+2275	TOK	than		than\CS
+2276	TOK	do		do\V6FDR66
+2277	TOK	fit		fit\VMC----
+---	DLD	,		=\DELIM
+2278	TOK	active		active\JA
+2279	TOK	people		people\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2280	TOK	Moreover	BOS	moreover\DGA7
+---	DLD	,		=\DELIM
+2281	TOK	complementary		complementary\JA
+2282	TOK	studies		study\N5P
+2283	TOK	have		have\V6F6R66
+2284	TOK	found		find\VMC----
+2285	TOK	a		a\AI---S
+2286	TOK	positive		positive\JA
+2287	TOK	correlation		correlation\N5S
+2288	TOK	between		between\P
+2289	TOK	myosin		myosin\N5S
+##	TAG	<name>
+2290	TOK	IIa		IIa\N46
+##	TAG	</name>
+2291	TOK	and		and\CC
+2292	TOK	muscle		muscle\N5S
+2293	TOK	activity		activity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2294	TOK	What	BOS	what\RW63N-
+2295	TOK	happens		happen\VMFDRS3
+2296	TOK	when		when\CS
+2297	TOK	exercise		exercise\N5S
+2298	TOK	stops		stop\VMFDRS3
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2299	TOK	Do	BOS	do\V6FDR66
+2300	TOK	the		the\AT---6
+2301	TOK	additional		additional\JA
+##	TAG	<name>
+2302	TOK	IIa		IIa\N46
+##	TAG	</name>
+2303	TOK	fibers		fiber\N5P
+2304	TOK	then		then\DGA7
+2305	TOK	convert		convert\VMF6R66
+2306	TOK	back		back\DGA7
+2307	TOK	to		to\P
+##	TAG	<name>
+2308	TOK	IIx		IIx\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2310	TOK	The	BOS	the\AT---6
+2311	TOK	answer		answer\N5S
+2312	TOK	is		be\V6FDRS3
+2313	TOK	yes		yes\DGA7
+---	DLD	,		=\DELIM
+2314	TOK	but		but\CC
+2315	TOK	not		not\DGA7
+2316	TOK	in		in\P
+2317	TOK	the		the\AT---6
+2318	TOK	precise		precise\JA
+2319	TOK	manner		manner\N5S
+2320	TOK	that		that\RW63N6
+2321	TOK	might		may\VOFDR66
+2322	TOK	be		be\VMI----
+2323	TOK	expected		expect\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2324	TOK	To	BOS	to\P
+2325	TOK	study		study\VMI----
+2326	TOK	this		this\AD---S
+2327	TOK	issue		issue\N5S
+---	DLD	,		=\DELIM
+2328	TOK	we		we\RPP1NN
+2329	TOK	took		take\VMF6A66
+2330	TOK	muscle		muscle\N5S
+2331	TOK	samples		sample\VMFDRS3
+---	DLE	(		=\DELIM
+2332	TOK	biopsies		biopsy\N5P
+---	DLD	)		=\DELIM
+2333	TOK	from		from\P
+2334	TOK	the		the\AT---6
+2335	TOK	vastus		vastus\N5S
+2336	TOK	lateralis		lateralis\N5S
+2337	TOK	muscle		muscle\N5S
+2338	TOK	of		of\P
+##	TAG	<num>
+2339	TOK	nine		nine\X
+##	TAG	</num>
+2340	TOK	young		young\N56
+---	DLD	,		=\DELIM
+2341	TOK	sedentary		sedentary\JA
+##	TAG	<name>
+2342	TOK	Danish		Danish\N46
+##	TAG	</name>
+2343	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2344	TOK	We	BOS	we\RPP1NN
+2345	TOK	then		then\DGA7
+2346	TOK	had		have\V6F6A66
+2347	TOK	the		the\AT---6
+2348	TOK	subjects		subject\N5P
+2349	TOK	conduct		conduct\VMF6R66
+2350	TOK	heavy		heavy\JA
+2351	TOK	resistance		resistance\N5S
+2352	TOK	training		train\VMG----
+---	DLD	,		=\DELIM
+2353	TOK	aimed		aim\VMC----
+2354	TOK	mainly		mainly\DGA7
+2355	TOK	at		at\P
+2356	TOK	their		their\APP3N6
+2357	TOK	quadriceps		quadriceps\N56
+2358	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+2359	TOK	for		for\P
+##	TAG	<num>
+2360	TOK	three		three\X
+##	TAG	</num>
+2361	TOK	months		month\N5P
+---	DLD	,		=\DELIM
+2362	TOK	ending		end\VMG----
+2363	TOK	with		with\P
+2364	TOK	another		another\JA
+2365	TOK	muscle		muscle\N5S
+2366	TOK	biopsy		biopsy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2367	TOK	Then	BOS	then\DGA7
+2368	TOK	the		the\AT---6
+2369	TOK	subjects		subject\N5P
+2370	TOK	abruptly		abruptly\DGA7
+2371	TOK	stopped		stop\VMF6A66
+2372	TOK	the		the\AT---6
+2373	TOK	resistance		resistance\N5S
+2374	TOK	training		training\N5S
+2375	TOK	and		and\CC
+2376	TOK	returned		return\VMC----
+2377	TOK	to		to\P
+2378	TOK	their		their\APP3N6
+2379	TOK	sedentary		sedentary\JA
+2380	TOK	lifestyle		lifestyle\N5S
+---	DLD	,		=\DELIM
+2381	TOK	before		before\P
+2382	TOK	being		be\VMG----
+2383	TOK	biopsied		biopsy\VMC----
+2384	TOK	for		for\P
+2385	TOK	a		a\AI---S
+2386	TOK	third		third\N5S
+2387	TOK	and		and\CC
+2388	TOK	final		final\JA
+2389	TOK	time		time\N5S
+2390	TOK	after		after\P
+2391	TOK	a		a\AI---S
+2392	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+2393	TOK	month		month\N5S
+2394	TOK	period		period\N5S
+2395	TOK	of		of\P
+2396	TOK	inactivity		inactivity\N5S
+---	DLE	(		=\DELIM
+2397	TOK	corresponding		corresponding\JA
+2398	TOK	to		to\P
+2399	TOK	their		their\APP3N6
+2400	TOK	behavior		behavior\N5S
+##	TAG	<loc pos="DGA7">
+2401	TOK	prior to		prior_to\DGA7
+##	TAG	</loc>
+2402	TOK	entering		enter\VMG----
+2403	TOK	the		the\AT---6
+2404	TOK	training		train\VMG----
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2405	TOK	As	BOS	as\DGA7
+2406	TOK	expected		expect\VMF6A66
+---	DLD	,		=\DELIM
+2407	TOK	the		the\AT---6
+2408	TOK	relative		relative\JA
+2409	TOK	amount		amount\N5S
+2410	TOK	of		of\P
+2411	TOK	the		the\AT---6
+2412	TOK	fast		fast\JA
+2413	TOK	myosin		myosin\N5S
+##	TAG	<name>
+2414	TOK	IIx		IIx\N46
+##	TAG	</name>
+2415	TOK	isoform		isoform\N5S
+2416	TOK	in		in\P
+2417	TOK	their		their\APP3N6
+2418	TOK	vastus		vastus\N5S
+2419	TOK	lateralis		lateralis\N5S
+2420	TOK	muscle		muscle\N5S
+2421	TOK	was		be\V6F-A66
+2422	TOK	reduced		reduce\VMC----
+2423	TOK	from		from\P
+2424	TOK	an		an\AI---S
+2425	TOK	average		average\N5S
+2426	TOK	of		of\P
+##	TAG	<num>
+2427	TOK	9		9\X
+##	TAG	</num>
+2428	TOK	percent		percent\N56
+2429	TOK	to		to\P
+2430	TOK	about		about\DGA7
+##	TAG	<num>
+2431	TOK	2		2\X
+##	TAG	</num>
+2432	TOK	percent		percent\N56
+2433	TOK	in		in\P
+2434	TOK	the		the\AT---6
+2435	TOK	resistance		resistance\N5S
+---	DLI	-		=\DELIM
+2436	TOK	training		training\N5S
+2437	TOK	period		period\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2438	TOK	We	BOS	we\RPP1NN
+2439	TOK	then		then\DGA7
+2440	TOK	expected		expect\VMC----
+2441	TOK	that		that\CS
+2442	TOK	the		the\AT---6
+2443	TOK	relative		relative\JA
+2444	TOK	amount		amount\N5S
+2445	TOK	of		of\P
+2446	TOK	the		the\AT---6
+##	TAG	<name>
+2447	TOK	IIx		IIx\N46
+##	TAG	</name>
+2448	TOK	isoform		isoform\N5S
+2449	TOK	would		will\VOFDA66
+2450	TOK	simply		simply\DGA7
+2451	TOK	return		return\VMI----
+2452	TOK	to		to\P
+2453	TOK	the		the\AT---6
+2454	TOK	pretraining		pretraining\N5S
+2455	TOK	level		level\N5S
+2456	TOK	of		of\P
+##	TAG	<num>
+2457	TOK	9		9\X
+##	TAG	</num>
+2458	TOK	percent		percent\N56
+2459	TOK	during		during\P
+2460	TOK	the		the\AT---6
+2461	TOK	period		period\N5S
+2462	TOK	of		of\P
+2463	TOK	inactivity		inactivity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2464	TOK	Much	BOS	much\DGA7
+2465	TOK	to		to\P
+2466	TOK	our		our\APP1N6
+2467	TOK	surprise		surprise\N5S
+---	DLD	,		=\DELIM
+2468	TOK	the		the\AT---6
+2469	TOK	relative		relative\JA
+2470	TOK	amount		amount\N5S
+2471	TOK	of		of\P
+2472	TOK	myosin		myosin\N5S
+##	TAG	<name>
+2473	TOK	IIx		IIx\N46
+##	TAG	</name>
+2474	TOK	reached		reach\VMF6A66
+2475	TOK	an		an\AI---S
+2476	TOK	average		average\JA
+2477	TOK	value		value\N5S
+2478	TOK	of		of\P
+##	TAG	<num>
+2479	TOK	18		18\X
+##	TAG	</num>
+2480	TOK	per		per\P
+---	DLI	-		=\DELIM
+2481	TOK	cent		cent\N5S
+##	TAG	<num>
+2482	TOK	three		three\X
+##	TAG	</num>
+2483	TOK	months		month\N5P
+2484	TOK	into		into\P
+2485	TOK	the		the\AT---6
+2486	TOK	detraining		detrain\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2487	TOK	We	BOS	we\RPP1NN
+2488	TOK	did		do\V6FDA66
+2489	TOK	not		not\DGA7
+2490	TOK	continue		continue\VMI----
+2491	TOK	the		the\AT---6
+2492	TOK	biopsies		biopsy\N5P
+2493	TOK	after		after\P
+2494	TOK	the		the\AT---6
+2495	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+2496	TOK	month		month\N5S
+2497	TOK	period		period\N5S
+---	DLD	,		=\DELIM
+2498	TOK	but		but\CC
+2499	TOK	we		we\RPP1NN
+2500	TOK	strongly		strongly\DGA7
+2501	TOK	suspect		suspect\VMF6R66
+2502	TOK	that		that\CS
+2503	TOK	the		the\AT---6
+2504	TOK	myosin		myosin\N5S
+##	TAG	<name>
+2505	TOK	IIx		IIx\N46
+##	TAG	</name>
+2506	TOK	did		do\V6FDA66
+2507	TOK	eventually		eventually\DGA7
+2508	TOK	return		return\VMI----
+2509	TOK	to		to\P
+2510	TOK	its		its\APS3N6
+2511	TOK	initial		initial\JA
+2512	TOK	value		value\N5S
+2513	TOK	of		of\P
+2514	TOK	about		about\DGA7
+##	TAG	<num>
+2515	TOK	9		9\X
+##	TAG	</num>
+2516	TOK	per		per\P
+---	DLI	-		=\DELIM
+2517	TOK	cent		cent\N5S
+2518	TOK	some		some\AG---6
+2519	TOK	months		month\N5P
+2520	TOK	later		later\DGC7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2521	TOK	We	BOS	we\RPP1NN
+2522	TOK	do		do\V6FDR66
+2523	TOK	not		not\DGA7
+2524	TOK	yet		yet\DGA7
+2525	TOK	have		have\VMI----
+2526	TOK	a		a\AI---S
+2527	TOK	good		good\JA
+2528	TOK	explanation		explanation\N5S
+2529	TOK	for		for\P
+2530	TOK	this		this\AD---S
+2531	TOK	overshoot		overshoot\N5S
+2532	TOK	phenomenon		phenomenon\N5S
+2533	TOK	of		of\P
+2534	TOK	the		the\AT---6
+2535	TOK	expression		expression\N5S
+2536	TOK	of		of\P
+2537	TOK	the		the\AT---6
+2538	TOK	fast		fast\JA
+2539	TOK	myosin		myosin\N5S
+##	TAG	<name>
+2540	TOK	IIx		IIx\N46
+##	TAG	</name>
+2541	TOK	isoform		isoform\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2542	TOK	Nevertheless	BOS	nevertheless\DGA7
+---	DLD	,		=\DELIM
+2543	TOK	we		we\RPP1NN
+2544	TOK	can		can\VOFDR66
+2545	TOK	draw		draw\VMI----
+2546	TOK	some		some\AG---6
+2547	TOK	conclusions		conclusion\N5P
+2548	TOK	that		that\RW63N6
+2549	TOK	can		can\VOFDR66
+2550	TOK	have		have\VMI----
+2551	TOK	useful		useful\JA
+2552	TOK	applications		application\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2553	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2554	TOK	if		if\CS
+2555	TOK	sprinters		sprinter\N5P
+2556	TOK	want		want\VMF6R66
+2557	TOK	to		to\P
+2558	TOK	boost		boost\VMI----
+2559	TOK	the		the\AT---6
+2560	TOK	relative		relative\JA
+2561	TOK	amount		amount\N5S
+2562	TOK	of		of\P
+2563	TOK	the		the\AT---6
+2564	TOK	fastest		fast\JS
+2565	TOK	fibers		fiber\N5P
+2566	TOK	in		in\P
+2567	TOK	their		their\APP3N6
+2568	TOK	muscles		muscle\N5P
+---	DLD	,		=\DELIM
+2569	TOK	the		the\AT---6
+2570	TOK	best		good\JS
+2571	TOK	strategy		strategy\N5S
+2572	TOK	would		will\VOFDA66
+---	DLI	-		=\DELIM
+2573	TOK	be		be\VMI----
+2574	TOK	to		to\P
+2575	TOK	start		start\N5S
+2576	TOK	by		by\P
+2577	TOK	removing		remove\VMG----
+2578	TOK	those		that\RDP3N-
+2579	TOK	that		that\CS
+2580	TOK	they		they\RPP3NN
+2581	TOK	already		already\DGA7
+2582	TOK	have		have\V6F6R66
+2583	TOK	and		and\CC
+2584	TOK	then		then\DGA7
+2585	TOK	slow		slow\VMF6R66
+2586	TOK	down		down\DGA7
+2587	TOK	the		the\AT---6
+2588	TOK	training		training\N5S
+2589	TOK	and		and\CC
+2590	TOK	wait		wait\VMF6R66
+2591	TOK	for		for\P
+2592	TOK	the		the\AT---6
+2593	TOK	fastest		fast\JS
+2594	TOK	fibers		fiber\N5P
+2595	TOK	to		to\P
+2596	TOK	return		return\VMI----
+2597	TOK	twofold		twofold\DGA7
+---	DLD	!	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2598	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+2599	TOK	sprinters		sprinter\N5P
+2600	TOK	would		will\VOFDA66
+2601	TOK	be		be\VMI----
+2602	TOK	well		well\DGA7
+2603	TOK	advised		advise\VMC----
+2604	TOK	to		to\P
+2605	TOK	provide		provide\VMI----
+2606	TOK	in		in\P
+2607	TOK	their		their\APP3N6
+2608	TOK	schedule		schedule\N5S
+2609	TOK	for		for\P
+2610	TOK	a		a\AI---S
+2611	TOK	period		period\N5S
+2612	TOK	of		of\P
+2613	TOK	reduced		reduce\VMC----
+2614	TOK	training		train\VMG----
+---	DLD	,		=\DELIM
+2615	TOK	or		or\CC
+2616	TOK	tapering		taper\VMG----
+---	DLD	,		=\DELIM
+2617	TOK	leading		leading\JA
+2618	TOK	up		up\P
+2619	TOK	to		to\P
+2620	TOK	a		a\AI---S
+2621	TOK	major		major\JA
+2622	TOK	competition		competition\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2623	TOK	In	BOS	in\P
+2624	TOK	fact		fact\N5S
+---	DLD	,		=\DELIM
+2625	TOK	many		many\AI---P
+2626	TOK	sprinters		sprinter\N5P
+2627	TOK	have		have\V6F6R66
+2628	TOK	settled		settle\VMC----
+2629	TOK	on		on\P
+2630	TOK	such		such\JA
+2631	TOK	a		a\AI---S
+2632	TOK	regimen		regimen\N5S
+2633	TOK	simply		simply\DGA7
+2634	TOK	through		through\P
+2635	TOK	experience		experience\VMI----
+---	DLD	,		=\DELIM
+2636	TOK	without		without\P
+2637	TOK	understanding		understand\VMG----
+2638	TOK	the		the\AT---6
+2639	TOK	underlying		underlying\JA
+2640	TOK	physiology		physiology\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2641	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2642	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2644	TOK	UNEXPECTED	BOS	unexpected\JA
+##	TAG	<name>
+2645	TOK	EXPERIMENTAL RESULTS		EXPERIMENTAL_RESULTS\N46
+##	TAG	</name>
+2646	TOK	have		have\V6F6R66
+2647	TOK	practical		practical\JA
+2648	TOK	applications		application\N5P
+2649	TOK	for		for\P
+2650	TOK	the		the\AT---6
+2651	TOK	athlete		athlete\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2652	TOK	The	BOS	the\AT---6
+2653	TOK	fast		fast\JA
+##	TAG	<name>
+2654	TOK	IIx		IIx\N46
+##	TAG	</name>
+2655	TOK	myosin		myosin\N5S
+2656	TOK	declined		decline\VMF6A66
+2657	TOK	as		as\CS
+2658	TOK	expected		expect\VMC----
+2659	TOK	during		during\P
+2660	TOK	resistance		resistance\N5S
+2661	TOK	training		train\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2662	TOK	But	BOS	but\CC
+2663	TOK	when		when\CS
+2664	TOK	training		training\N5S
+2665	TOK	stopped		stop\VMF6A66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DDC7">
+2666	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+2667	TOK	simply		simply\DGA7
+2668	TOK	returning		return\VMG----
+2669	TOK	to		to\P
+2670	TOK	the		the\AT---6
+2671	TOK	pretraining		pretraining\N5S
+2672	TOK	level		level\VMF6R66
+---	DLD	,		=\DELIM
+2673	TOK	the		the\AT---6
+2674	TOK	relative		relative\JA
+2675	TOK	amount		amount\N5S
+2676	TOK	of		of\P
+##	TAG	<name>
+2677	TOK	IIx		IIx\N46
+##	TAG	</name>
+2678	TOK	roughly		roughly\DGA7
+2679	TOK	doubled		double\VMF6A66
+##	TAG	<num>
+2680	TOK	three		three\X
+##	TAG	</num>
+2681	TOK	months		month\N5P
+2682	TOK	into		into\P
+2683	TOK	detraining		detrain\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2684	TOK	So	BOS	so\CC
+2685	TOK	what		what\RW63N-
+2686	TOK	does		do\V6FDRS3
+2687	TOK	this		this\RDS3N-
+2688	TOK	mean		mean\VMI----
+2689	TOK	for		for\P
+2690	TOK	the		the\AT---6
+2691	TOK	sprinter		sprinter\N5S
+---	DLD	,		=\DELIM
+2692	TOK	to		to\P
+2693	TOK	whom		whom\RW63NA
+##	TAG	<name>
+2694	TOK	IIx		IIx\N46
+##	TAG	</name>
+2695	TOK	is		be\V6FDRS3
+2696	TOK	crucial		crucial\JA
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2697	TOK	Provide	BOS	provide\VMF6R66
+2698	TOK	for		for\P
+2699	TOK	a		a\AI---S
+2700	TOK	period		period\N5S
+2701	TOK	of		of\P
+2702	TOK	reduced		reduce\VMC----
+2703	TOK	training		training\N5S
+2704	TOK	before		before\P
+2705	TOK	a		a\AI---S
+2706	TOK	competition		competition\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2707	TOK	Slow	BOS	slow\JA
+2708	TOK	to		to\P
+##	TAG	<name>
+2709	TOK	Fast		Fast\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2711	TOK	Conversion	BOS	conversion\N5S
+2712	TOK	between		between\P
+2713	TOK	the		the\AT---6
+##	TAG	<num>
+2714	TOK	two		two\X
+##	TAG	</num>
+2715	TOK	fast		fast\JA
+2716	TOK	fiber		fiber\N5S
+2717	TOK	types		type\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2718	TOK	IIa		IIa\N46
+##	TAG	</name>
+2719	TOK	and		and\CC
+##	TAG	<name>
+2720	TOK	IIx		IIx\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2721	TOK	is		be\V6FDRS3
+2722	TOK	a		a\AI---S
+2723	TOK	natural		natural\JA
+2724	TOK	consequence		consequence\N5S
+2725	TOK	of		of\P
+2726	TOK	training		train\VMG----
+2727	TOK	and		and\CC
+2728	TOK	detraining		detrain\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2729	TOK	But	BOS	but\CC
+2730	TOK	what		what\RW63N-
+2731	TOK	about		about\DGA7
+2732	TOK	conversion		conversion\N5S
+2733	TOK	between		between\P
+2734	TOK	the		the\AT---6
+2735	TOK	slow		slow\JA
+2736	TOK	and		and\CC
+2737	TOK	fast		fast\JA
+2738	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+2739	TOK	types		type\N5P
+2740	TOK	I		I\N5P
+2741	TOK	and		and\CC
+##	TAG	<num>
+2742	TOK	II		II\X
+##	TAG	</num>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2743	TOK	Here	BOS	here\DGA7
+2744	TOK	the		the\AT---6
+2745	TOK	results		result\N5P
+2746	TOK	have		have\V6F6R66
+2747	TOK	been		be\VMC----
+2748	TOK	somewhat		somewhat\DGA7
+2749	TOK	murkier		murky\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2750	TOK	Many	BOS	many\AI---P
+2751	TOK	experiments		experiment\N5P
+2752	TOK	performed		perform\VMC----
+2753	TOK	over		over\P
+2754	TOK	the		the\AT---6
+2755	TOK	past		past\JA
+2756	TOK	couple		couple\N5S
+2757	TOK	of		of\P
+2758	TOK	decades		decade\N5P
+2759	TOK	found		find\VMF6A66
+2760	TOK	no		no\AI---6
+2761	TOK	evidence		evidence\N5S
+2762	TOK	that		that\CS
+2763	TOK	slow		slow\JA
+2764	TOK	fibers		fiber\N5P
+2765	TOK	can		can\VOFDR66
+2766	TOK	be		be\VMI----
+2767	TOK	converted		convert\VMC----
+2768	TOK	to		to\P
+2769	TOK	fast		fast\JA
+---	DLD	,		=\DELIM
+2770	TOK	and		and\CC
+##	TAG	<foreign lang="LA" pos="DGA7">
+2771	TOK	vice versa		vice_versa\DGA7
+##	TAG	</foreign>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2772	TOK	But	BOS	but\CC
+2773	TOK	in		in\P
+2774	TOK	the		the\AT---6
+2775	TOK	early		early\JA
+##	TAG	<na type="code">
+2776	TOK	1990s		noanat\W
+##	TAG	</na>
+2777	TOK	we		we\RPP1NN
+2778	TOK	did		do\V6FDA66
+2779	TOK	get		get\VMI----
+2780	TOK	an		an\AI---S
+2781	TOK	indication		indication\N5S
+2782	TOK	that		that\CS
+2783	TOK	a		a\AI---S
+2784	TOK	rigorous		rigorous\JA
+2785	TOK	exercise		exercise\N5S
+2786	TOK	regimen		regimen\N5S
+2787	TOK	could		can\VOFDA66
+2788	TOK	convert		convert\VMI----
+2789	TOK	slow		slow\JA
+2790	TOK	fibers		fiber\N5P
+2791	TOK	to		to\P
+2792	TOK	fast		fast\JA
+##	TAG	<name>
+2793	TOK	IIa		IIa\N46
+##	TAG	</name>
+2794	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2795	TOK	Our	BOS	our\APP1N6
+2796	TOK	subjects		subject\N5P
+2797	TOK	were		be\V6F-A66
+2798	TOK	very		very\JA
+2799	TOK	elite		elite\JA
+2800	TOK	sprinters		sprinter\N5P
+---	DLD	,		=\DELIM
+2801	TOK	whom		whom\RW63NA
+2802	TOK	we		we\RPP1NN
+2803	TOK	studied		study\VMF6A66
+2804	TOK	during		during\P
+2805	TOK	a		a\AI---S
+2806	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+2807	TOK	month		month\N5S
+2808	TOK	period		period\N5S
+2809	TOK	in		in\P
+2810	TOK	which		which\RW63N-
+2811	TOK	they		they\RPP3NN
+2812	TOK	combined		combine\VMF6A66
+2813	TOK	heavy		heavy\JA
+2814	TOK	resistance		resistance\N5S
+2815	TOK	training		training\N5S
+2816	TOK	with		with\P
+2817	TOK	short		short\JA
+---	DLI	-		=\DELIM
+2818	TOK	interval		interval\N5S
+2819	TOK	running		run\VMG----
+---	DLE	(		=\DELIM
+2820	TOK	these		this\RDP3N-
+2821	TOK	are		be\V6FDR66
+2822	TOK	the		the\AT---6
+2823	TOK	foundation		foundation\N5S
+2824	TOK	exercises		exercise\VMFDRS3
+2825	TOK	in		in\P
+2826	TOK	a		a\AI---S
+2827	TOK	sprinter		sprinter\N5S
+2828	PGR	's		genmark\GENMARK
+2829	TOK	yearly		yearly\JA
+2830	TOK	training		training\N5S
+2831	TOK	cycle		cycle\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2832	TOK	At	BOS	at\P
+2833	TOK	around		around\P
+2834	TOK	the		the\AT---6
+2835	TOK	same		same\JA
+2836	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2837	TOK	Mona Esbörnsson		Mona_Esbörnsson\N46
+##	TAG	</name>
+2838	TOK	and		and\CC
+2839	TOK	her		her\APS3F6
+2840	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+2841	TOK	workers		worker\N5P
+2842	TOK	at		at\P
+2843	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2844	TOK	Karolinska Institute		Karolinska_Institute\N46
+##	TAG	</name>
+2845	TOK	in		in\P
+##	TAG	<name>
+2846	TOK	Stockholm		Stockholm\N46
+##	TAG	</name>
+2847	TOK	re		re\P
+---	DLI	-		=\DELIM
+2848	TOK	ported		port\VMC----
+2849	TOK	similar		similar\JA
+2850	TOK	findings		finding\N5P
+2851	TOK	in		in\P
+2852	TOK	a		a\AI---S
+2853	TOK	study		study\N5S
+2854	TOK	involving		involve\VMG----
+2855	TOK	a		a\AI---S
+2856	TOK	dozen		dozen\N56
+2857	TOK	subjects		subject\N5P
+2858	TOK	who		who\RW63N-
+2859	TOK	were		be\V6F-A66
+2860	TOK	not		not\DGA7
+2861	TOK	elite		elite\JA
+2862	TOK	athletes		athlete\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2863	TOK	These	BOS	this\AD---P
+2864	TOK	results		result\N5P
+2865	TOK	suggest		suggest\VMF6R66
+2866	TOK	that		that\CS
+2867	TOK	a		a\AI---S
+2868	TOK	program		program\N5S
+2869	TOK	of		of\P
+2870	TOK	vigorous		vigorous\JA
+2871	TOK	weight		weight\N5S
+2872	TOK	training		training\N5S
+2873	TOK	supplemented		supplement\VMC----
+2874	TOK	with		with\P
+2875	TOK	other		other\JA
+2876	TOK	forms		form\N5P
+2877	TOK	of		of\P
+2878	TOK	anaerobic		anaerobic\JA
+2879	TOK	exercise		exercise\N5S
+2880	TOK	converts		convert\VMFDRS3
+2881	TOK	not		not\DGA7
+2882	TOK	only		only\DGA7
+2883	TOK	type		type\N5S
+##	TAG	<name>
+2884	TOK	IIx		IIx\N46
+##	TAG	</name>
+2885	TOK	fibers		fiber\N5P
+2886	TOK	to		to\P
+##	TAG	<name>
+2887	TOK	IIa		IIa\N46
+##	TAG	</name>
+2888	TOK	but		but\CC
+2889	TOK	also		also\DGA7
+2890	TOK	type		type\N5S
+2891	TOK	I		i\N5S
+2892	TOK	fibers		fiber\N5P
+2893	TOK	to		to\P
+##	TAG	<name>
+2894	TOK	IIa		IIa\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2895	TOK	If	BOS	if\CS
+2896	TOK	a		a\AI---S
+2897	TOK	certain		certain\JA
+2898	TOK	type		type\N5S
+2899	TOK	of		of\P
+2900	TOK	exertion		exertion\N5S
+2901	TOK	can		can\VOFDR66
+2902	TOK	convert		convert\VMI----
+2903	TOK	some		some\AG---6
+2904	TOK	type		type\N5S
+2905	TOK	I		i\N5S
+2906	TOK	fibers		fiber\N5P
+2907	TOK	to		to\P
+##	TAG	<name>
+2908	TOK	IIa		IIa\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2909	TOK	we		we\RPP1NN
+2910	TOK	might		may\VOFDR66
+2911	TOK	naturally		naturally\DGA7
+2912	TOK	wonder		wonder\VMI----
+2913	TOK	if		if\CS
+2914	TOK	some		some\AG---6
+2915	TOK	other		other\JA
+2916	TOK	kind		kind\N5S
+2917	TOK	can		can\VOFDR66
+2918	TOK	convert		convert\VMI----
+##	TAG	<name>
+2919	TOK	IIa		IIa\N46
+##	TAG	</name>
+2920	TOK	to		to\P
+2921	TOK	I		I\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2922	TOK	It	BOS	it\RPS3N6
+2923	TOK	may		may\VOFDR66
+2924	TOK	be		be\VMI----
+2925	TOK	possible		possible\JA
+---	DLD	,		=\DELIM
+2926	TOK	but		but\CC
+##	TAG	<loc pos="DGA7">
+2927	TOK	so far		so_far\DGA7
+##	TAG	</loc>
+2928	TOK	no		no\AI---6
+2929	TOK	lengthy		lengthy\JA
+2930	TOK	human		human\JA
+2931	TOK	training		training\N5S
+2932	TOK	study		study\N5S
+2933	TOK	has		have\V6FDRS3
+2934	TOK	unambiguously		unambiguously\DGA7
+2935	TOK	demonstrated		demonstrate\VMC----
+2936	TOK	such		such\JA
+2937	TOK	a		a\AI---S
+2938	TOK	shift		shift\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2939	TOK	True	BOS	true\JA
+---	DLD	,		=\DELIM
+2940	TOK	star		star\N5S
+2941	TOK	endurance		endurance\N5S
+2942	TOK	athletes		athlete\N5P
+2943	TOK	such		such\RIS3N-
+2944	TOK	as		as\P
+2945	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+2946	TOK	distance		distance\N5S
+2947	TOK	runners		runner\N5P
+2948	TOK	and		and\CC
+2949	TOK	swimmers		swimmer\N5P
+---	DLD	,		=\DELIM
+2950	TOK	cyclists		cyclist\N5P
+2951	TOK	and		and\CC
+2952	TOK	cross		cross\VMF6R66
+---	DLI	-		=\DELIM
+2953	TOK	country		country\N5S
+2954	TOK	skiers		skier\N5P
+2955	TOK	generally		generally\DGA7
+2956	TOK	have		have\V6F6R66
+2957	TOK	remarkably		remarkably\DGA7
+2958	TOK	high		high\JA
+2959	TOK	proportions		proportion\N5P
+2960	TOK	up		up\P
+2961	TOK	to		to\P
+##	TAG	<num>
+2962	TOK	95		95\X
+##	TAG	</num>
+2963	TOK	percent		percent\N56
+---	DLD	,		=\DELIM
+2964	TOK	as		as\P
+2965	TOK	mentioned		mention\VMC----
+2966	TOK	earlier		early\JC
+2967	TOK	of		of\P
+2968	TOK	the		the\AT---6
+2969	TOK	slow		slow\JA
+2970	TOK	type		type\N5S
+2971	TOK	I		i\N5S
+2972	TOK	fibers		fiber\N5P
+2973	TOK	in		in\P
+2974	TOK	their		their\APP3N6
+2975	TOK	major		major\JA
+2976	TOK	muscle		muscle\N5S
+2977	TOK	groups		group\N5P
+---	DLD	,		=\DELIM
+2978	TOK	such		such\JA
+2979	TOK	as		as\P
+2980	TOK	the		the\AT---6
+2981	TOK	legs		leg\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2982	TOK	Yet	BOS	yet\DGA7
+2983	TOK	at		at\P
+2984	TOK	present		present\VMI----
+2985	TOK	we		we\RPP1NN
+2986	TOK	do		do\V6FDR66
+2987	TOK	not		not\DGA7
+2988	TOK	know		know\VMI----
+2989	TOK	whether		whether\CS
+2990	TOK	these		this\AD---P
+2991	TOK	athletes		athlete\N5P
+2992	TOK	were		be\V6F-A66
+2993	TOK	born		bear\VMC----
+2994	TOK	with		with\P
+2995	TOK	such		such\JA
+2996	TOK	a		a\AI---S
+2997	TOK	high		high\JA
+2998	TOK	percentage		percentage\N5S
+2999	TOK	of		of\P
+3000	TOK	type		type\N5S
+3001	TOK	I		i\N5S
+3002	TOK	fibers		fiber\N5P
+3003	TOK	and		and\CC
+3004	TOK	gravitated		gravitate\VMC----
+3005	TOK	toward		toward\P
+3006	TOK	sports		sport\N5P
+3007	TOK	that		that\RW63N6
+3008	TOK	take		take\VMF6R66
+3009	TOK	advantage		advantage\N5S
+3010	TOK	of		of\P
+3011	TOK	their		their\APP3N6
+3012	TOK	unusual		unusual\JA
+3013	TOK	inborn		inborn\JA
+3014	TOK	trait		trait\N5S
+3015	TOK	or		or\CC
+3016	TOK	whether		whether\CS
+3017	TOK	they		they\RPP3NN
+3018	TOK	very		very\JA
+3019	TOK	gradually		gradually\DGA7
+3020	TOK	increased		increase\VMF6A66
+3021	TOK	the		the\AT---6
+3022	TOK	proportion		proportion\N5S
+3023	TOK	of		of\P
+3024	TOK	type		type\N5S
+3025	TOK	I		i\N5S
+3026	TOK	fibers		fiber\N5P
+3027	TOK	in		in\P
+3028	TOK	their		their\APP3N6
+3029	TOK	muscles		muscle\N5P
+3030	TOK	as		as\CS
+3031	TOK	they		they\RPP3NN
+3032	TOK	trained		train\VMC----
+3033	TOK	over		over\P
+3034	TOK	a		a\AI---S
+3035	TOK	period		period\N5S
+3036	TOK	of		of\P
+3037	TOK	many		many\AI---P
+3038	TOK	months		month\N5P
+3039	TOK	or		or\CC
+3040	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3041	TOK	We	BOS	we\RPP1NN
+3042	TOK	do		do\V6FDR66
+3043	TOK	know		know\VMI----
+3044	TOK	that		that\CS
+3045	TOK	if		if\CS
+3046	TOK	fast		fast\JA
+3047	TOK	type		type\N5S
+##	TAG	<name>
+3048	TOK	IIa		IIa\N46
+##	TAG	</name>
+3049	TOK	fibers		fiber\N5P
+3050	TOK	can		can\VOFDR66
+3051	TOK	be		be\VMI----
+3052	TOK	converted		convert\VMC----
+3053	TOK	to		to\P
+3054	TOK	type		type\N5S
+3055	TOK	I		I\N5P
+---	DLD	,		=\DELIM
+3056	TOK	the		the\AT---6
+3057	TOK	time		time\N5S
+3058	TOK	required		require\VMC----
+3059	TOK	for		for\P
+3060	TOK	the		the\AT---6
+3061	TOK	conversion		conversion\N5S
+3062	TOK	is		be\V6FDRS3
+3063	TOK	quite		quite\DGA7
+3064	TOK	long		long\JA
+3065	TOK	in		in\P
+3066	TOK	comparison		comparison\N5S
+3067	TOK	with		with\P
+3068	TOK	the		the\AT---6
+3069	TOK	time		time\N5S
+3070	TOK	for		for\P
+3071	TOK	the		the\AT---6
+3072	TOK	shift		shift\N5S
+3073	TOK	from		from\P
+##	TAG	<name>
+3074	TOK	IIx		IIx\N46
+##	TAG	</name>
+3075	TOK	to		to\P
+##	TAG	<name>
+3076	TOK	IIa		IIa\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3077	TOK	It	BOS	it\RPS3N6
+3078	TOK	may		may\VOFDR66
+3079	TOK	be		be\VMI----
+3080	TOK	that		that\CS
+3081	TOK	great		great\JA
+3082	TOK	marathon		marathon\N5S
+3083	TOK	runners		runner\N5P
+3084	TOK	are		be\V6FDR66
+3085	TOK	literally		literally\DGA7
+3086	TOK	born		bear\VMC----
+3087	TOK	different		different\JA
+3088	TOK	from		from\P
+3089	TOK	other		other\JA
+3090	TOK	people		people\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3091	TOK	Sprinters	BOS	sprinter\N5P
+---	DLD	,		=\DELIM
+3092	TOK	too		too\DGA7
+---	DLD	,		=\DELIM
+3093	TOK	might		may\VOFDR66
+3094	TOK	be		be\VMI----
+3095	TOK	congenitally		congenitally\DGA7
+3096	TOK	unusual		unusual\JA
+---	DLD	:		=\DELIM
+3097	TOK	in		in\P
+3098	TOK	contrast		contrast\N5S
+3099	TOK	with		with\P
+3100	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+3101	TOK	distance		distance\N5S
+3102	TOK	runners		runner\N5P
+---	DLD	,		=\DELIM
+3103	TOK	they		they\RPP3NN
+##	TAG	<loc pos="DGA7">
+3104	TOK	of course		of_course\DGA7
+##	TAG	</loc>
+3105	TOK	would		will\VOFDA66
+3106	TOK	benefit		benefit\VMI----
+3107	TOK	from		from\P
+3108	TOK	a		a\AI---S
+3109	TOK	relatively		relatively\DGA7
+3110	TOK	small		small\JA
+3111	TOK	percentage		percentage\N5S
+3112	TOK	of		of\P
+3113	TOK	type		type\N5S
+3114	TOK	I		i\N5S
+3115	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3116	TOK	Still	BOS	still\DGA7
+---	DLD	,		=\DELIM
+3117	TOK	a		a\N5S
+3118	TOK	would		will\VOFDA66
+---	DLI	-		=\DELIM
+3119	TOK	be		be\VMI----
+3120	TOK	sprinter		sprinter\N5S
+3121	TOK	with		with\P
+3122	TOK	too		too\DGA7
+3123	TOK	many		many\AI---P
+3124	TOK	type		type\N5S
+3125	TOK	I		i\N5S
+3126	TOK	fibers		fiber\N5P
+3127	TOK	need		need\V6F6R66
+3128	TOK	not		not\DGA7
+3129	TOK	give		give\VMI----
+3130	TOK	up		up\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3131	TOK	Researchers	BOS	researcher\N5P
+3132	TOK	have		have\V6F6R66
+3133	TOK	found		find\VMC----
+3134	TOK	that		that\AD---S
+3135	TOK	hypertrophy		hypertrophy\N5S
+3136	TOK	from		from\P
+3137	TOK	resistance		resistance\N5S
+3138	TOK	training		training\N5S
+3139	TOK	enlarges		enlarge\VMFDRS3
+3140	TOK	type		type\N5S
+##	TAG	<num>
+3141	TOK	II		II\X
+##	TAG	</num>
+3142	TOK	fibers		fiber\N5P
+3143	TOK	twice		twice\DGA7
+3144	TOK	as		as\DGA7
+3145	TOK	much		much\DGA7
+3146	TOK	as		as\CS
+3147	TOK	it		it\RPS3N6
+3148	TOK	does		do\V6FDRS3
+3149	TOK	type		type\N5S
+3150	TOK	I		i\N5S
+3151	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3152	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+3153	TOK	weight		weight\N5S
+3154	TOK	training		training\N5S
+3155	TOK	can		can\VOFDR66
+3156	TOK	increase		increase\VMI----
+3157	TOK	the		the\AT---6
+3158	TOK	cross		cross\N5S
+---	DLI	-		=\DELIM
+3159	TOK	sectional		sectional\JA
+3160	TOK	area		area\N5S
+3161	TOK	of		of\P
+3162	TOK	the		the\AT---6
+3163	TOK	muscle		muscle\N5S
+3164	TOK	covered		cover\VMC----
+3165	TOK	by		by\P
+3166	TOK	fast		fast\JA
+3167	TOK	fibers		fiber\N5P
+3168	TOK	without		without\P
+3169	TOK	changing		change\VMG----
+3170	TOK	the		the\AT---6
+3171	TOK	relative		relative\JA
+3172	TOK	ratio		ratio\N5S
+3173	TOK	between		between\P
+3174	TOK	the		the\AT---6
+3175	TOK	number		number\N5S
+3176	TOK	of		of\P
+3177	TOK	slow		slow\JA
+3178	TOK	and		and\CC
+3179	TOK	fast		fast\JA
+3180	TOK	fibers		fiber\N5P
+3181	TOK	in		in\P
+3182	TOK	the		the\AT---6
+3183	TOK	muscle		muscle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3184	TOK	Moreover	BOS	moreover\DGA7
+---	DLD	,		=\DELIM
+3185	TOK	it		it\RPS3N6
+3186	TOK	is		be\V6FDRS3
+3187	TOK	the		the\AT---6
+3188	TOK	relative		relative\JA
+3189	TOK	cross		cross\VMF6R66
+---	DLI	-		=\DELIM
+3190	TOK	sectional		sectional\JA
+3191	TOK	area		area\N5S
+3192	TOK	of		of\P
+3193	TOK	the		the\AT---6
+3194	TOK	fast		fast\JA
+3195	TOK	and		and\CC
+3196	TOK	slow		slow\JA
+3197	TOK	fibers		fiber\N5P
+3198	TOK	that		that\RW63N6
+3199	TOK	determines		determine\VMFDRS3
+3200	TOK	the		the\AT---6
+3201	TOK	functional		functional\JA
+3202	TOK	characteristics		characteristic\N5P
+3203	TOK	of		of\P
+3204	TOK	the		the\AT---6
+3205	TOK	entire		entire\JA
+3206	TOK	muscle		muscle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3207	TOK	The	BOS	the\AT---6
+3208	TOK	more		many\JC
+3209	TOK	area		area\N5S
+3210	TOK	covered		cover\VMC----
+3211	TOK	by		by\P
+3212	TOK	fast		fast\JA
+3213	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+3214	TOK	the		the\AT---6
+3215	TOK	faster		fast\JC
+3216	TOK	the		the\AT---6
+3217	TOK	over		over\DGA7
+---	DLI	-		=\DELIM
+3218	TOK	all		all\AG---6
+3219	TOK	muscle		muscle\N5S
+3220	TOK	will		will\VOFDR66
+3221	TOK	be		be\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3222	TOK	So	BOS	so\DGA7
+3223	TOK	a		a\AI---S
+3224	TOK	sprinter		sprinter\N5S
+##	TAG	<loc pos="DGA7">
+3225	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+3226	TOK	has		have\V6FDRS3
+3227	TOK	the		the\AT---6
+3228	TOK	option		option\N5S
+3229	TOK	of		of\P
+3230	TOK	altering		alter\VMG----
+3231	TOK	the		the\AT---6
+3232	TOK	characteristics		characteristic\N5P
+3233	TOK	of		of\P
+3234	TOK	his		his\APS3M6
+3235	TOK	or		or\CC
+3236	TOK	her		her\APS3F6
+3237	TOK	leg		leg\N5S
+3238	TOK	muscles		muscle\N5P
+3239	TOK	by		by\P
+3240	TOK	exercising		exercise\VMG----
+3241	TOK	them		them\RPP3NA
+3242	TOK	with		with\P
+3243	TOK	weights		weight\N5P
+3244	TOK	to		to\P
+3245	TOK	increase		increase\VMI----
+3246	TOK	the		the\AT---6
+3247	TOK	relative		relative\JA
+3248	TOK	cross		cross\N5S
+3249	TOK	section		section\N5S
+3250	TOK	of		of\P
+3251	TOK	fast		fast\JA
+3252	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3253	TOK	In	BOS	in\P
+3254	TOK	a		a\AI---S
+3255	TOK	study		study\N5S
+3256	TOK	published		publish\VMC----
+3257	TOK	in		in\P
+##	TAG	<num>
+3258	TOK	1988		1988\X
+##	TAG	</num>
+##	TAG	<name>
+3259	TOK	Michael Sjöström		Michael_Sjöström\N46
+##	TAG	</name>
+3260	TOK	and		and\CC
+3261	TOK	his		his\APS3M6
+3262	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+3263	TOK	workers		worker\N5P
+3264	TOK	at		at\P
+3265	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+3266	TOK	University of Umea		University_of_Umea\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3267	TOK	Sweden		Sweden\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3268	TOK	disclosed		disclose\VMC----
+3269	TOK	their		their\APP3N6
+3270	TOK	finding		finding\N5S
+3271	TOK	that		that\CS
+3272	TOK	the		the\AT---6
+3273	TOK	average		average\N5S
+3274	TOK	cross		cross\P
+---	DLI	-		=\DELIM
+3275	TOK	sectional		sectional\JA
+3276	TOK	areas		area\N5P
+3277	TOK	of		of\P
+3278	TOK	the		the\AT---6
+##	TAG	<num>
+3279	TOK	three		three\X
+##	TAG	</num>
+3280	TOK	main		main\JA
+3281	TOK	fiber		fiber\N5S
+3282	TOK	types		type\N5P
+3283	TOK	were		be\V6F-A66
+3284	TOK	almost		almost\DGA7
+3285	TOK	identical		identical\JA
+3286	TOK	in		in\P
+3287	TOK	the		the\AT---6
+3288	TOK	vastus		vastus\N5S
+3289	TOK	lateralis		lateralis\N5S
+3290	TOK	muscles		muscle\N5P
+3291	TOK	of		of\P
+3292	TOK	a		a\AI---S
+3293	TOK	group		group\N5S
+3294	TOK	of		of\P
+3295	TOK	marathon		marathon\N5S
+3296	TOK	runners		runner\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3297	TOK	In	BOS	in\P
+3298	TOK	those		that\AD---P
+3299	TOK	subjects		subject\N5P
+3300	TOK	the		the\AT---6
+3301	TOK	cross		cross\N5S
+---	DLI	-		=\DELIM
+3302	TOK	sectional		sectional\JA
+3303	TOK	area		area\N5S
+3304	TOK	of		of\P
+3305	TOK	type		type\N5S
+3306	TOK	I		i\N5S
+3307	TOK	fibers		fiber\N5P
+3308	TOK	averaged		average\VMF6A66
+##	TAG	<num>
+3309	TOK	4,800		4,800\X
+##	TAG	</num>
+3310	TOK	square		square\JA
+3311	TOK	microns		micron\N5P
+---	DLD	;		=\DELIM
+3312	TOK	type		type\N5S
+##	TAG	<name>
+3313	TOK	IIa		IIa\N46
+##	TAG	</name>
+3314	TOK	was		be\V6F-A66
+##	TAG	<num>
+3315	TOK	4,500		4,500\X
+##	TAG	</num>
+---	DLD	;		=\DELIM
+3316	TOK	and		and\CC
+3317	TOK	type		type\N5S
+##	TAG	<name>
+3318	TOK	IIx		IIx\N46
+##	TAG	</name>
+3319	TOK	was		be\V6F-A66
+##	TAG	<num>
+3320	TOK	4,600		4,600\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3321	TOK	For	BOS	for\P
+3322	TOK	a		a\AI---S
+3323	TOK	group		group\N5S
+3324	TOK	of		of\P
+3325	TOK	sprinters		sprinter\N5P
+---	DLD	,		=\DELIM
+3326	TOK	on		on\P
+3327	TOK	the		the\AT---6
+3328	TOK	other		other\JA
+3329	TOK	hand		hand\N5S
+---	DLD	,		=\DELIM
+3330	TOK	the		the\AT---6
+3331	TOK	average		average\JA
+3332	TOK	fiber		fiber\N5S
+3333	TOK	sizes		size\N5P
+3334	TOK	varied		vary\VMC----
+3335	TOK	considerably		considerably\DGA7
+---	DLD	:		=\DELIM
+3336	TOK	the		the\AT---6
+3337	TOK	type		type\N5S
+3338	TOK	I		i\N5S
+3339	TOK	fibers		fiber\N5P
+3340	TOK	averaged		average\VMF6A66
+##	TAG	<num>
+3341	TOK	5,000		5,000\X
+##	TAG	</num>
+3342	TOK	square		square\JA
+3343	TOK	microns		micron\N5P
+---	DLD	;		=\DELIM
+3344	TOK	type		type\N5S
+##	TAG	<name>
+3345	TOK	IIa		IIa\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+3346	TOK	7,300		7,300\X
+##	TAG	</num>
+---	DLD	;		=\DELIM
+3347	TOK	and		and\CC
+3348	TOK	type		type\N5S
+##	TAG	<name>
+3349	TOK	IIx		IIx\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+3350	TOK	5,900		5,900\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3351	TOK	We	BOS	we\RPP1NN
+3352	TOK	have		have\V6F6R66
+3353	TOK	results		result\N5P
+3354	TOK	from		from\P
+3355	TOK	a		a\AI---S
+3356	TOK	group		group\N5S
+3357	TOK	of		of\P
+3358	TOK	sprinters		sprinter\N5P
+3359	TOK	that		that\RW63N6
+3360	TOK	are		be\V6FDR66
+3361	TOK	very		very\JA
+3362	TOK	similar		similar\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3363	TOK	Although	BOS	although\CS
+3364	TOK	certain		certain\JA
+3365	TOK	types		type\N5P
+3366	TOK	of		of\P
+3367	TOK	fiber		fiber\N5S
+3368	TOK	conversion		conversion\N5S
+---	DLD	,		=\DELIM
+3369	TOK	such		such\JA
+3370	TOK	as		as\P
+##	TAG	<name>
+3371	TOK	IIa		IIa\N46
+##	TAG	</name>
+3372	TOK	to		to\P
+3373	TOK	I		I\N5P
+---	DLD	,		=\DELIM
+3374	TOK	appear		appear\VMF6R66
+3375	TOK	to		to\P
+3376	TOK	be		be\VMI----
+3377	TOK	difficult		difficult\JA
+3378	TOK	to		to\P
+3379	TOK	bring		bring\VMI----
+3380	TOK	about		about\DGA7
+3381	TOK	through		through\P
+3382	TOK	exercise		exercise\VMI----
+---	DLD	,		=\DELIM
+3383	TOK	the		the\AT---6
+3384	TOK	time		time\N5S
+3385	TOK	is		be\V6FDRS3
+3386	TOK	fast		fast\DGA7
+3387	TOK	approaching		approach\VMG----
+3388	TOK	when		when\CS
+3389	TOK	researchers		researcher\N5P
+3390	TOK	will		will\VOFDR66
+3391	TOK	be		be\VMI----
+3392	TOK	able		able\JA
+3393	TOK	to		to\P
+3394	TOK	accomplish		accomplish\VMI----
+3395	TOK	such		such\JA
+3396	TOK	conversions		conversion\N5P
+3397	TOK	easily		easily\DGA7
+3398	TOK	enough		enough\DGA7
+3399	TOK	through		through\P
+3400	TOK	genetic		genetic\JA
+3401	TOK	techniques		technique\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3402	TOK	Even	BOS	even\DGA7
+3403	TOK	more		more\DDC7
+3404	TOK	intriguing		intrigue\VMG----
+---	DLD	,		=\DELIM
+3405	TOK	scientists		scientist\N5P
+3406	TOK	will		will\VOFDR66
+3407	TOK	be		be\VMI----
+3408	TOK	able		able\JA
+3409	TOK	to		to\P
+3410	TOK	trigger		trigger\VMI----
+3411	TOK	the		the\AT---6
+3412	TOK	expression		expression\N5S
+3413	TOK	of		of\P
+3414	TOK	myosin		myosin\N5S
+3415	TOK	genes		gene\N5P
+3416	TOK	that		that\RW63N6
+3417	TOK	exist		exist\VMF6R66
+3418	TOK	in		in\P
+3419	TOK	the		the\AT---6
+3420	TOK	genome		genome\N5S
+3421	TOK	but		but\CC
+3422	TOK	are		be\V6FDR66
+3423	TOK	not		not\DGA7
+3424	TOK	normally		normally\DGA7
+3425	TOK	expressed		express\VMC----
+3426	TOK	in		in\P
+3427	TOK	human		human\JA
+3428	TOK	muscles		muscle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3429	TOK	These	BOS	this\AD---P
+3430	TOK	genes		gene\N5P
+3431	TOK	are		be\V6FDR66
+3432	TOK	like		like\P
+3433	TOK	archival		archival\JA
+3434	TOK	blueprints		blueprint\N5P
+3435	TOK	for		for\P
+3436	TOK	myosin		myosin\N5S
+3437	TOK	types		type\N5P
+3438	TOK	that		that\RW63N6
+3439	TOK	might		may\VOFDR66
+3440	TOK	have		have\VMI----
+3441	TOK	endowed		endow\VMC----
+3442	TOK	ancient		ancient\JA
+3443	TOK	mammalian		mammalian\JA
+3444	TOK	relatives		relative\N5P
+3445	TOK	of		of\P
+3446	TOK	ours		ours\RSP1N-
+3447	TOK	with		with\P
+3448	TOK	very		very\JA
+3449	TOK	fast		fast\JA
+3450	TOK	muscle		muscle\N5S
+3451	TOK	tissue		tissue\N5S
+3452	TOK	that		that\RW63N6
+3453	TOK	helped		help\VMF6A66
+3454	TOK	them		them\RPP3NA
+3455	TOK	escape		escape\VMI----
+3456	TOK	predators		predator\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+3457	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3458	TOK	Such	BOS	such\JA
+3459	TOK	genetic		genetic\JA
+3460	TOK	manipulations		manipulation\N5P
+---	DLD	,		=\DELIM
+3461	TOK	most		most\DDS7
+3462	TOK	likely		likely\JA
+3463	TOK	in		in\P
+3464	TOK	the		the\AT---6
+3465	TOK	form		form\N5S
+3466	TOK	of		of\P
+3467	TOK	vaccines		vaccine\N5P
+3468	TOK	that		that\RW63N6
+3469	TOK	insert		insert\VMF6R66
+3470	TOK	artificial		artificial\JA
+3471	TOK	genes		gene\N5P
+3472	TOK	into		into\P
+3473	TOK	the		the\AT---6
+3474	TOK	nuclei		nucleus\N5P
+3475	TOK	of		of\P
+3476	TOK	muscle		muscle\N5S
+3477	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+3478	TOK	will		will\VOFDR66
+3479	TOK	almost		almost\DGA7
+3480	TOK	certainly		certainly\DGA7
+3481	TOK	be		be\VMI----
+3482	TOK	the		the\AT---6
+3483	TOK	performance		performance\N5S
+---	DLI	-		=\DELIM
+3484	TOK	enhancing		enhance\VMG----
+3485	TOK	drugs		drug\N5P
+3486	TOK	of		of\P
+3487	TOK	the		the\AT---6
+3488	TOK	future		future\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3489	TOK	Through	BOS	through\P
+---	DLI	-		=\DELIM
+3490	TOK	out		out\DGA7
+3491	TOK	the		the\AT---6
+3492	TOK	recorded		record\VMC----
+3493	TOK	history		history\N5S
+3494	TOK	of		of\P
+3495	TOK	sports		sport\N5P
+3496	TOK	a		a\AI---S
+3497	TOK	persistent		persistent\JA
+3498	TOK	minority		minority\N5S
+3499	TOK	of		of\P
+3500	TOK	athletes		athlete\N5P
+3501	TOK	have		have\V6F6R66
+3502	TOK	abused		abuse\VMC----
+3503	TOK	performance		performance\N5S
+---	DLI	-		=\DELIM
+3504	TOK	enhancing		enhance\VMG----
+3505	TOK	substances		substance\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3506	TOK	Organizations	BOS	organization\N5P
+3507	TOK	such		such\RIS3N-
+3508	TOK	as		as\P
+3509	TOK	the		the\AT---6
+##	TAG	<name>
+3510	TOK	International Olympic Committee		International_Olympic_Committee\N46
+##	TAG	</name>
+3511	TOK	have		have\V6F6R66
+3512	TOK	for		for\P
+3513	TOK	decades		decade\N5P
+3514	TOK	tried		try\VMC----
+3515	TOK	to		to\P
+3516	TOK	suppress		suppress\VMI----
+3517	TOK	these		this\AD---P
+3518	TOK	drugs		drug\N5P
+3519	TOK	by		by\P
+3520	TOK	testing		testing\N5S
+3521	TOK	athletes		athlete\N5P
+3522	TOK	and		and\CC
+3523	TOK	censuring		censure\VMG----
+3524	TOK	those		that\RDP3N-
+3525	TOK	found		find\VMC----
+3526	TOK	to		to\P
+3527	TOK	have		have\VMI----
+3528	TOK	cheated		cheat\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3529	TOK	But	BOS	but\CC
+3530	TOK	as		as\CS
+3531	TOK	soon		soon\DGA7
+3532	TOK	as		as\P
+3533	TOK	new		new\JA
+3534	TOK	drugs		drug\N5P
+3535	TOK	are		be\V6FDR66
+3536	TOK	invented		invent\VMC----
+---	DLD	,		=\DELIM
+3537	TOK	they		they\RPP3NN
+3538	TOK	are		be\V6FDR66
+3539	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+3540	TOK	opted		opt\VMC----
+3541	TOK	by		by\P
+3542	TOK	dishonest		dishonest\JA
+3543	TOK	athletes		athlete\N5P
+---	DLD	,		=\DELIM
+3544	TOK	forcing		forcing\JA
+3545	TOK	officials		official\N5P
+3546	TOK	to		to\P
+3547	TOK	develop		develop\VMI----
+3548	TOK	new		new\JA
+3549	TOK	tests		test\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3550	TOK	The	BOS	the\AT---6
+3551	TOK	result		result\N5S
+3552	TOK	has		have\V6FDRS3
+3553	TOK	been		be\VMC----
+3554	TOK	an		an\AI---S
+3555	TOK	expensive		expensive\JA
+3556	TOK	race		race\N5S
+3557	TOK	pitting		pit\VMG----
+3558	TOK	the		the\AT---6
+3559	TOK	athletes		athlete\N5P
+3560	TOK	and		and\CC
+3561	TOK	their		their\APP3N6
+3562	TOK	doctors		doctor\N5P
+3563	TOK	against		against\P
+3564	TOK	the		the\AT---6
+3565	TOK	various		various\JA
+3566	TOK	athletic		athletic\JA
+3567	TOK	organizations		organization\N5P
+3568	TOK	and		and\CC
+3569	TOK	the		the\AT---6
+3570	TOK	scientists		scientist\N5P
+3571	TOK	developing		develop\VMG----
+3572	TOK	new		new\JA
+3573	TOK	antidoping		antidoping\N5S
+3574	TOK	tests		test\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3575	TOK	This	BOS	this\AD---S
+3576	TOK	contest		contest\N5S
+3577	TOK	is		be\V6FDRS3
+3578	TOK	ongoing		ongoing\JA
+3579	TOK	even		even\DGA7
+3580	TOK	now		now\DGA7
+3581	TOK	in		in\P
+##	TAG	<name>
+3582	TOK	Sydney		Sydney\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3583	TOK	but		but\CC
+3584	TOK	within		within\P
+3585	TOK	the		the\AT---6
+3586	TOK	near		near\JA
+3587	TOK	future		future\N5S
+---	DLD	,		=\DELIM
+3588	TOK	when		when\CS
+3589	TOK	athletes		athlete\N5P
+3590	TOK	can		can\VOFDR66
+3591	TOK	avail		avail\VMI----
+3592	TOK	themselves		themselves\RXP3N-
+3593	TOK	of		of\P
+3594	TOK	gene		gene\N5S
+3595	TOK	therapy		therapy\N5S
+3596	TOK	techniques		technique\N5P
+---	DLD	,		=\DELIM
+3597	TOK	they		they\RPP3NN
+3598	TOK	will		will\VOFDR66
+3599	TOK	have		have\VMI----
+3600	TOK	taken		take\VMC----
+3601	TOK	the		the\AT---6
+3602	TOK	game		game\N5S
+3603	TOK	to		to\P
+3604	TOK	a		a\AI---S
+3605	TOK	whole		whole\JA
+3606	TOK	new		new\JA
+3607	TOK	level		level\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3608	TOK	The	BOS	the\AT---6
+3609	TOK	tiny		tiny\JA
+3610	TOK	snippets		snippet\N5P
+3611	TOK	of		of\P
+3612	TOK	genetic		genetic\JA
+3613	TOK	material		material\N5S
+3614	TOK	and		and\CC
+3615	TOK	the		the\AT---6
+3616	TOK	proteins		protein\N5P
+3617	TOK	that		that\CS
+3618	TOK	gene		gene\N5S
+3619	TOK	therapy		therapy\N5S
+3620	TOK	will		will\VOFDR66
+3621	TOK	leave		leave\VMI----
+3622	TOK	behind		behind\DGA7
+3623	TOK	in		in\P
+3624	TOK	the		the\AT---6
+3625	TOK	athletes		athlete\N5P
+---	DLD	'		=\DELIM
+3626	TOK	muscle		muscle\N5S
+3627	TOK	cells		cell\N5P
+3628	TOK	may		may\VOFDR66
+3629	TOK	be		be\VMI----
+3630	TOK	impossible		impossible\JA
+3631	TOK	to		to\P
+3632	TOK	identify		identify\VMI----
+3633	TOK	as		as\DGA7
+3634	TOK	foreign		foreign\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3635	TOK	Gene	BOS	gene\N5S
+3636	TOK	therapy		therapy\N5S
+3637	TOK	is		be\V6FDRS3
+3638	TOK	now		now\DGA7
+3639	TOK	being		be\VMG----
+3640	TOK	researched		research\VMC----
+3641	TOK	intensively		intensively\DGA7
+3642	TOK	in		in\P
+3643	TOK	most		most\AG---6
+3644	TOK	developed		develop\VMC----
+3645	TOK	countries		country\N5P
+3646	TOK	for		for\P
+3647	TOK	a		a\AI---S
+3648	TOK	host		host\N5S
+3649	TOK	of		of\P
+3650	TOK	very		very\JA
+3651	TOK	good		good\JA
+3652	TOK	reasons		reason\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+3653	TOK	Instead of	BOS	Instead_of\CS
+##	TAG	</loc>
+3654	TOK	treating		treat\VMG----
+3655	TOK	deficiencies		deficiency\N5P
+3656	TOK	by		by\P
+3657	TOK	injecting		inject\VMG----
+3658	TOK	drugs		drug\N5P
+---	DLD	,		=\DELIM
+3659	TOK	doctors		doctor\N5P
+3660	TOK	will		will\VOFDR66
+3661	TOK	be		be\VMI----
+3662	TOK	able		able\JA
+3663	TOK	to		to\P
+3664	TOK	prescribe		prescribe\VMI----
+3665	TOK	genetic		genetic\JA
+3666	TOK	treatments		treatment\N5P
+3667	TOK	that		that\RW63N6
+3668	TOK	will		will\VOFDR66
+3669	TOK	induce		induce\VMI----
+3670	TOK	the		the\AT---6
+3671	TOK	bodys		bodys\N5P
+3672	TOK	own		own\JA
+3673	TOK	protein		protein\N5S
+---	DLI	-		=\DELIM
+3674	TOK	making		make\VMG----
+3675	TOK	machinery		machinery\N5S
+3676	TOK	to		to\P
+3677	TOK	produce		produce\VMI----
+3678	TOK	the		the\AT---6
+3679	TOK	proteins		protein\N5P
+3680	TOK	needed		need\VMC----
+3681	TOK	to		to\P
+3682	TOK	combat		combat\VMI----
+3683	TOK	ill		ill\DGA7
+---	DLI	-		=\DELIM
+3684	TOK	ness		ness\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3685	TOK	Such	BOS	such\JA
+3686	TOK	strategies		strategy\N5P
+3687	TOK	became		become\VMF6A66
+3688	TOK	possible		possible\JA
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+3689	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+3690	TOK	in		in\P
+3691	TOK	theory		theory\N5S
+---	DLD	,		=\DELIM
+3692	TOK	in		in\P
+3693	TOK	recent		recent\JA
+3694	TOK	years		year\N5P
+3695	TOK	as		as\P
+3696	TOK	researchers		researcher\N5P
+3697	TOK	succeeded		succeed\VMF6A66
+3698	TOK	in		in\P
+3699	TOK	making		make\VMG----
+3700	TOK	artificial		artificial\JA
+3701	TOK	copies		copy\N5P
+3702	TOK	of		of\P
+3703	TOK	the		the\AT---6
+3704	TOK	human		human\JA
+3705	TOK	genes		gene\N5P
+3706	TOK	that		that\RW63N6
+3707	TOK	could		can\VOFDA66
+3708	TOK	be		be\VMI----
+3709	TOK	manipulated		manipulate\VMC----
+3710	TOK	to		to\P
+3711	TOK	produce		produce\VMI----
+3712	TOK	large		large\JA
+3713	TOK	amounts		amount\N5P
+3714	TOK	of		of\P
+3715	TOK	specific		specific\JA
+3716	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3717	TOK	Such	BOS	such\JA
+3718	TOK	genes		gene\N5P
+3719	TOK	can		can\VOFDR66
+3720	TOK	be		be\VMI----
+3721	TOK	introduced		introduce\VMC----
+3722	TOK	into		into\P
+3723	TOK	the		the\AT---6
+3724	TOK	human		human\JA
+3725	TOK	body		body\N5S
+3726	TOK	where		where\DGAW
+---	DLD	,		=\DELIM
+3727	TOK	in		in\P
+3728	TOK	many		many\AI---P
+3729	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+3730	TOK	they		they\RPP3NN
+3731	TOK	substitute		substitute\VMF6R66
+3732	TOK	for		for\P
+3733	TOK	a		a\AI---S
+3734	TOK	defective		defective\JA
+3735	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3736	TOK	Like	BOS	like\P
+3737	TOK	ordinary		ordinary\JA
+3738	TOK	genes		gene\N5P
+---	DLD	,		=\DELIM
+3739	TOK	the		the\AT---6
+3740	TOK	artificial		artificial\JA
+3741	TOK	gene		gene\N5S
+3742	TOK	consists		consist\VMFDRS3
+3743	TOK	of		of\P
+##	TAG	<name>
+3744	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3745	TOK	It	BOS	it\RPS3N6
+3746	TOK	can		can\VOFDR66
+3747	TOK	be		be\VMI----
+3748	TOK	delivered		deliver\VMC----
+3749	TOK	to		to\P
+3750	TOK	the		the\AT---6
+3751	TOK	body		body\N5S
+3752	TOK	in		in\P
+3753	TOK	several		several\JA
+3754	TOK	ways		way\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3755	TOK	Sup	BOS	sup\VMF6R66
+---	DLI	-		=\DELIM
+3756	TOK	pose		pose\VMF6R66
+3757	TOK	the		the\AT---6
+3758	TOK	gene		gene\N5S
+3759	TOK	encodes		encode\VMFDRS3
+3760	TOK	for		for\P
+3761	TOK	one		one\MCS
+3762	TOK	of		of\P
+3763	TOK	the		the\AT---6
+3764	TOK	many		many\RIP3N-
+3765	TOK	signaling		signal\VMG----
+3766	TOK	proteins		protein\N5P
+3767	TOK	or		or\CC
+3768	TOK	hormones		hormone\N5P
+3769	TOK	that		that\RW63N6
+3770	TOK	stimulate		stimulate\VMF6R66
+3771	TOK	muscle		muscle\N5S
+3772	TOK	growth		growth\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3773	TOK	The	BOS	the\AT---6
+3774	TOK	direct		direct\JA
+3775	TOK	approach		approach\N5S
+3776	TOK	would		will\VOFDA66
+3777	TOK	be		be\VMI----
+3778	TOK	to		to\P
+3779	TOK	inject		inject\VMI----
+3780	TOK	the		the\AT---6
+##	TAG	<name>
+3781	TOK	DNA		DNA\N46
+##	TAG	</name>
+3782	TOK	into		into\P
+3783	TOK	the		the\AT---6
+3784	TOK	muscle		muscle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3785	TOK	The	BOS	the\AT---6
+3786	TOK	muscle		muscle\N5S
+3787	TOK	fibers		fiber\N5P
+3788	TOK	would		will\VOFDA66
+3789	TOK	then		then\DGA7
+3790	TOK	take		take\VMI----
+3791	TOK	up		up\P
+3792	TOK	the		the\AT---6
+##	TAG	<name>
+3793	TOK	DNA		DNA\N46
+##	TAG	</name>
+3794	TOK	and		and\CC
+3795	TOK	add		add\VMF6R66
+3796	TOK	it		it\RPS3N6
+3797	TOK	to		to\P
+3798	TOK	the		the\AT---6
+3799	TOK	normal		normal\JA
+3800	TOK	pool		pool\N5S
+3801	TOK	of		of\P
+3802	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3803	TOK	This	BOS	this\AD---S
+3804	TOK	method		method\N5S
+3805	TOK	is		be\V6FDRS3
+3806	TOK	not		not\DGA7
+3807	TOK	very		very\JA
+3808	TOK	efficient		efficient\JA
+3809	TOK	yet		yet\DGA7
+---	DLD	,		=\DELIM
+3810	TOK	so		so\JA
+3811	TOK	researchers		researcher\N5P
+3812	TOK	often		often\DGA7
+3813	TOK	use		use\VMF6R66
+3814	TOK	viruses		virus\N5P
+3815	TOK	to		to\P
+3816	TOK	carry		carry\VMI----
+3817	TOK	the		the\AT---6
+3818	TOK	gene		gene\N5S
+3819	TOK	payload		payload\N5S
+3820	TOK	into		into\P
+3821	TOK	a		a\AI---S
+3822	TOK	cells		cells\N5S
+3823	TOK	nuclei		nucleus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3824	TOK	A	BOS	a\AI---S
+3825	TOK	virus		virus\N5S
+3826	TOK	is		be\V6FDRS3
+3827	TOK	essentially		essentially\DGA7
+3828	TOK	a		a\AI---S
+3829	TOK	collection		collection\N5S
+3830	TOK	of		of\P
+3831	TOK	genes		gene\N5P
+3832	TOK	packed		pack\VMC----
+3833	TOK	in		in\P
+3834	TOK	a		a\AI---S
+3835	TOK	protein		protein\N5S
+3836	TOK	capsule		capsule\N5S
+3837	TOK	that		that\RW63N6
+3838	TOK	is		be\V6FDRS3
+3839	TOK	able		able\JA
+3840	TOK	to		to\P
+3841	TOK	bind		bind\VMI----
+3842	TOK	to		to\P
+3843	TOK	a		a\AI---S
+3844	TOK	cell		cell\N5S
+3845	TOK	and		and\CC
+3846	TOK	inject		inject\VMF6R66
+3847	TOK	the		the\AT---6
+3848	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3849	TOK	Scientists	BOS	scientist\N5P
+3850	TOK	replace		replace\VMF6R66
+3851	TOK	the		the\AT---6
+3852	TOK	viruss		viruss\N5P
+3853	TOK	own		own\JA
+3854	TOK	genes		gene\N5P
+3855	TOK	with		with\P
+3856	TOK	the		the\AT---6
+3857	TOK	artificial		artificial\JA
+3858	TOK	gene		gene\N5S
+---	DLD	,		=\DELIM
+3859	TOK	which		which\RW63N-
+3860	TOK	the		the\AT---6
+3861	TOK	virus		virus\N5S
+3862	TOK	will		will\VOFDR66
+3863	TOK	then		then\DGA7
+3864	TOK	efficiently		efficiently\DGA7
+3865	TOK	deliver		deliver\VMI----
+3866	TOK	to		to\P
+3867	TOK	cells		cell\N5P
+3868	TOK	in		in\P
+3869	TOK	the		the\AT---6
+3870	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3871	TOK	Unfortunately	BOS	unfortunately\DGA7
+---	DLD	,		=\DELIM
+3872	TOK	and		and\CC
+3873	TOK	in		in\P
+3874	TOK	contrast		contrast\N5S
+3875	TOK	to		to\P
+3876	TOK	the		the\AT---6
+3877	TOK	direct		direct\JA
+3878	TOK	injection		injection\N5S
+3879	TOK	of		of\P
+##	TAG	<name>
+3880	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3881	TOK	the		the\AT---6
+3882	TOK	artificial		artificial\JA
+3883	TOK	gene		gene\N5S
+3884	TOK	payload		payload\N5S
+3885	TOK	will		will\VOFDR66
+3886	TOK	be		be\VMI----
+3887	TOK	delivered		deliver\VMC----
+3888	TOK	not		not\DGA7
+3889	TOK	only		only\DGA7
+3890	TOK	to		to\P
+3891	TOK	the		the\AT---6
+3892	TOK	muscle		muscle\N5S
+3893	TOK	fibers		fiber\N5P
+3894	TOK	but		but\CC
+3895	TOK	also		also\DGA7
+3896	TOK	to		to\P
+3897	TOK	many		many\AI---P
+3898	TOK	other		other\JA
+3899	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+3900	TOK	such		such\JA
+3901	TOK	as		as\CS
+3902	TOK	those		that\RDP3N-
+3903	TOK	of		of\P
+3904	TOK	the		the\AT---6
+3905	TOK	blood		blood\N5S
+3906	TOK	and		and\CC
+3907	TOK	the		the\AT---6
+3908	TOK	liver		liver\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3909	TOK	Undesirable	BOS	undesirable\JA
+3910	TOK	side		side\N5S
+3911	TOK	effects		effect\N5P
+3912	TOK	could		can\VOFDA66
+3913	TOK	very		very\JA
+3914	TOK	well		well\DGA7
+3915	TOK	occur		occur\VMF6R66
+3916	TOK	when		when\CS
+3917	TOK	the		the\AT---6
+3918	TOK	artificial		artificial\JA
+3919	TOK	gene		gene\N5S
+3920	TOK	is		be\V6FDRS3
+3921	TOK	expressed		express\VMC----
+3922	TOK	in		in\P
+3923	TOK	cell		cell\N5S
+3924	TOK	types		type\N5P
+3925	TOK	other		other\JA
+3926	TOK	than		than\CS
+3927	TOK	the		the\AT---6
+3928	TOK	targeted		target\VMC----
+3929	TOK	ones		one\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+3930	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+3931	TOK	if		if\CS
+3932	TOK	a		a\AI---S
+3933	TOK	gene		gene\N5S
+3934	TOK	causing		cause\VMG----
+3935	TOK	extended		extend\VMC----
+3936	TOK	muscle		muscle\N5S
+3937	TOK	hypertrophy		hypertrophy\N5S
+3938	TOK	were		be\V6F-A66
+3939	TOK	injected		inject\VMC----
+---	DLD	,		=\DELIM
+3940	TOK	this		this\RDS3N-
+3941	TOK	would		will\VOFDA66
+3942	TOK	lead		lead\VMI----
+3943	TOK	to		to\P
+3944	TOK	the		the\AT---6
+3945	TOK	desired		desire\VMC----
+3946	TOK	growth		growth\N5S
+3947	TOK	of		of\P
+3948	TOK	the		the\AT---6
+3949	TOK	skeletal		skeletal\JA
+3950	TOK	muscles		muscle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3951	TOK	But	BOS	but\CC
+3952	TOK	it		it\RPS3N6
+3953	TOK	would		will\VOFDA66
+3954	TOK	probably		probably\DGA7
+3955	TOK	also		also\DGA7
+3956	TOK	lead		lead\VMI----
+3957	TOK	to		to\P
+3958	TOK	hypertrophy		hypertrophy\N5S
+3959	TOK	of		of\P
+3960	TOK	another		another\JA
+3961	TOK	kind		kind\N5S
+3962	TOK	of		of\P
+3963	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+3964	TOK	namely		namely\DGA7
+3965	TOK	that		that\CS
+3966	TOK	of		of\P
+3967	TOK	the		the\AT---6
+3968	TOK	heart		heart\N5S
+---	DLD	,		=\DELIM
+3969	TOK	giving		give\VMG----
+3970	TOK	rise		rise\N5S
+3971	TOK	to		to\P
+3972	TOK	all		all\AG---6
+3973	TOK	the		the\AT---6
+3974	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+3975	TOK	known		know\VMC----
+3976	TOK	complications		complication\N5P
+3977	TOK	of		of\P
+3978	TOK	having		have\VMG----
+3979	TOK	an		an\AI---S
+3980	TOK	enlarged		enlarge\VMC----
+3981	TOK	heart		heart\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3982	TOK	So	BOS	so\JA
+3983	TOK	researchers		researcher\N5P
+3984	TOK	have		have\V6F6R66
+3985	TOK	explored		explore\VMC----
+3986	TOK	another		another\JA
+3987	TOK	approach		approach\N5S
+---	DLD	,		=\DELIM
+3988	TOK	which		which\RW63N-
+3989	TOK	entails		entail\VMFDRS3
+3990	TOK	removing		remove\VMG----
+3991	TOK	specific		specific\JA
+3992	TOK	cell		cell\N5S
+3993	TOK	types		type\N5P
+3994	TOK	from		from\P
+3995	TOK	the		the\AT---6
+3996	TOK	patient		patient\N5S
+---	DLD	,		=\DELIM
+3997	TOK	adding		add\VMG----
+3998	TOK	the		the\AT---6
+3999	TOK	artificial		artificial\JA
+4000	TOK	gene		gene\N5S
+4001	TOK	in		in\P
+4002	TOK	the		the\AT---6
+4003	TOK	laboratory		laboratory\N5S
+4004	TOK	and		and\CC
+4005	TOK	reintroducing		reintroduce\VMG----
+4006	TOK	the		the\AT---6
+4007	TOK	cells		cell\N5P
+4008	TOK	into		into\P
+4009	TOK	the		the\AT---6
+4010	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4011	TOK	These	BOS	this\AD---P
+4012	TOK	techniques		technique\N5P
+4013	TOK	will		will\VOFDR66
+4014	TOK	be		be\VMI----
+4015	TOK	abused		abuse\VMC----
+4016	TOK	by		by\P
+4017	TOK	athletes		athlete\N5P
+4018	TOK	in		in\P
+4019	TOK	the		the\AT---6
+4020	TOK	future		future\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4021	TOK	And	BOS	and\CC
+4022	TOK	sports		sports\JA
+4023	TOK	officials		official\N5P
+4024	TOK	will		will\VOFDR66
+4025	TOK	be		be\VMI----
+4026	TOK	hard		hard\DGA7
+---	DLI	-		=\DELIM
+4027	TOK	pressed		press\VMC----
+4028	TOK	to		to\P
+4029	TOK	detect		detect\VMI----
+4030	TOK	the		the\AT---6
+4031	TOK	abuse		abuse\N5S
+---	DLD	,		=\DELIM
+4032	TOK	because		because\CS
+4033	TOK	the		the\AT---6
+4034	TOK	artificial		artificial\JA
+4035	TOK	genes		gene\N5P
+4036	TOK	will		will\VOFDR66
+4037	TOK	produce		produce\VMI----
+4038	TOK	proteins		protein\N5P
+4039	TOK	that		that\CS
+4040	TOK	in		in\P
+4041	TOK	many		many\AI---P
+4042	TOK	cases		case\N5P
+4043	TOK	are		be\V6FDR66
+4044	TOK	identical		identical\JA
+4045	TOK	to		to\P
+4046	TOK	the		the\AT---6
+4047	TOK	normal		normal\JA
+4048	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4049	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+4050	TOK	only		only\DGA7
+4051	TOK	one		one\MCS
+4052	TOK	injection		injection\N5S
+4053	TOK	will		will\VOFDR66
+4054	TOK	be		be\VMI----
+4055	TOK	needed		need\VMC----
+---	DLD	,		=\DELIM
+4056	TOK	minimizing		minimize\VMG----
+4057	TOK	the		the\AT---6
+4058	TOK	risk		risk\N5S
+4059	TOK	of		of\P
+4060	TOK	disclosure		disclosure\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4061	TOK	It	BOS	it\RPS3N6
+4062	TOK	is		be\V6FDRS3
+4063	TOK	true		true\JA
+4064	TOK	that		that\CS
+4065	TOK	officials		official\N5P
+4066	TOK	will		will\VOFDR66
+4067	TOK	be		be\VMI----
+4068	TOK	able		able\JA
+4069	TOK	to		to\P
+4070	TOK	detect		detect\VMI----
+4071	TOK	the		the\AT---6
+##	TAG	<name>
+4072	TOK	DNA		DNA\N46
+##	TAG	</name>
+4073	TOK	of		of\P
+4074	TOK	the		the\AT---6
+4075	TOK	artificial		artificial\JA
+4076	TOK	gene		gene\N5S
+4077	TOK	itself		itself\RXS3N-
+---	DLD	,		=\DELIM
+4078	TOK	but		but\CC
+4079	TOK	to		to\P
+4080	TOK	do		do\VMI----
+4081	TOK	so		so\DGA7
+4082	TOK	they		they\RPP3NN
+4083	TOK	would		will\VOFDA66
+4084	TOK	have		have\VMI----
+4085	TOK	to		to\P
+4086	TOK	know		know\VMI----
+4087	TOK	the		the\AT---6
+4088	TOK	sequence		sequence\N5S
+4089	TOK	of		of\P
+4090	TOK	the		the\AT---6
+4091	TOK	artificial		artificial\JA
+4092	TOK	gene		gene\N5S
+---	DLD	,		=\DELIM
+4093	TOK	and		and\CC
+4094	TOK	the		the\AT---6
+4095	TOK	testers		tester\N5P
+4096	TOK	would		will\VOFDA66
+4097	TOK	have		have\VMI----
+4098	TOK	to		to\P
+4099	TOK	obtain		obtain\VMI----
+4100	TOK	a		a\AI---S
+4101	TOK	sample		sample\N5S
+4102	TOK	of		of\P
+4103	TOK	the		the\AT---6
+4104	TOK	tissue		tissue\N5S
+4105	TOK	containing		contain\VMG----
+4106	TOK	the		the\AT---6
+##	TAG	<name>
+4107	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4108	TOK	Athletes	BOS	athlete\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+4109	TOK	of course		of_course\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+4110	TOK	will		will\VOFDR66
+4111	TOK	be		be\VMI----
+4112	TOK	quite		quite\DGA7
+4113	TOK	reluctant		reluctant\JA
+4114	TOK	to		to\P
+4115	TOK	surrender		surrender\VMI----
+4116	TOK	muscle		muscle\N5S
+4117	TOK	samples		sample\N5P
+4118	TOK	before		before\P
+4119	TOK	an		an\AI---S
+4120	TOK	important		important\JA
+4121	TOK	competition		competition\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4122	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+4123	TOK	a		a\AI---S
+4124	TOK	doping		doping\N5S
+4125	TOK	test		test\N5S
+4126	TOK	based		base\VMC----
+4127	TOK	on		on\P
+4128	TOK	taking		take\VMG----
+4129	TOK	pieces		piece\N5P
+4130	TOK	of		of\P
+4131	TOK	the		the\AT---6
+4132	TOK	athletes		athlete\N5P
+---	DLD	'		=\DELIM
+4133	TOK	muscle		muscle\N5S
+4134	TOK	is		be\V6FDRS3
+4135	TOK	not		not\DGA7
+4136	TOK	likely		likely\JA
+4137	TOK	to		to\P
+4138	TOK	become		become\VMI----
+4139	TOK	routine		routine\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4140	TOK	For	BOS	for\P
+4141	TOK	all		all\AG---6
+4142	TOK	intents		intent\N5P
+4143	TOK	and		and\CC
+4144	TOK	purposes		purpose\N5P
+---	DLD	,		=\DELIM
+4145	TOK	gene		gene\N5S
+4146	TOK	doping		doping\N5S
+4147	TOK	will		will\VOFDR66
+4148	TOK	be		be\VMI----
+4149	TOK	undetectable		undetectable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+4150	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+4151	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4153	TOK	SPRINTER	BOS	sprinter\N5S
+##	TAG	<name>
+4154	TOK	AND MARATHONER		AND_MARATHONER\N46
+##	TAG	</name>
+4155	TOK	reveal		reveal\VMF6R66
+4156	TOK	obvious		obvious\JA
+4157	TOK	differences		difference\N5P
+4158	TOK	in		in\P
+4159	TOK	leg		leg\N5S
+4160	TOK	musculature		musculature\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4161	TOK	Fast	BOS	fast\JA
+4162	TOK	fibers		fiber\N5P
+4163	TOK	rely		rely\VMF6R66
+4164	TOK	on		on\P
+4165	TOK	anaerobic		anaerobic\JA
+4166	TOK	metabolism		metabolism\N5S
+---	DLD	;		=\DELIM
+4167	TOK	slow		slow\JA
+4168	TOK	fibers		fiber\N5P
+4169	TOK	depend		depend\VMF6R66
+4170	TOK	more		more\DDC7
+4171	TOK	on		on\DGA7
+4172	TOK	relatively		relatively\DGA7
+4173	TOK	efficient		efficient\JA
+4174	TOK	aerobic		aerobic\JA
+4175	TOK	metabolism		metabolism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4176	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+4177	TOK	slow		slow\JA
+4178	TOK	fibers		fiber\N5P
+4179	TOK	are		be\V6FDR66
+4180	TOK	important		important\JA
+4181	TOK	in		in\P
+4182	TOK	endurance		endurance\N5S
+4183	TOK	sports		sport\VMFDRS3
+---	DLD	,		=\DELIM
+4184	TOK	and		and\CC
+4185	TOK	fast		fast\JA
+4186	TOK	fibers		fiber\N5P
+4187	TOK	are		be\V6FDR66
+4188	TOK	key		key\N5S
+4189	TOK	in		in\P
+4190	TOK	events		event\N5P
+4191	TOK	such		such\RIS3N-
+4192	TOK	as		as\P
+4193	TOK	sprinting		sprinting\N5S
+4194	TOK	and		and\CC
+4195	TOK	weight		weight\N5S
+4196	TOK	lifting		lift\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4197	TOK	The	BOS	the\AT---6
+4198	TOK	sprinter		sprinter\N5S
+4199	TOK	is		be\V6FDRS3
+##	TAG	<name>
+4200	TOK	Brian Lewis		Brian_Lewis\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+4201	TOK	the		the\AT---6
+4202	TOK	marathoner		marathoner\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+4203	TOK	Khalid Khannouchi		Khalid_Khannouchi\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+4204	TOK	MUSCLE	BOS	muscle\N5S
+4205	TOK	AND		and\N5S
+4206	TOK	THE		THE\N5S
+4207	TOK	ELDERLY	EOS	ELDERLY\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4209	TOK	Everyone	BOS	everyone\RIS3N-
+4210	TOK	knows		know\VMFDRS3
+4211	TOK	that		that\CS
+4212	TOK	when		when\CS
+4213	TOK	we		we\RPP1NN
+4214	TOK	age		age\VMF6R66
+---	DLD	,		=\DELIM
+4215	TOK	our		our\APP1N6
+4216	TOK	muscles		muscle\N5P
+4217	TOK	weaken		weaken\VMF6R66
+4218	TOK	and		and\CC
+4219	TOK	our		our\APP1N6
+4220	TOK	movements		movement\N5P
+4221	TOK	become		become\VMF6R66
+4222	TOK	slower		slow\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4223	TOK	But	BOS	but\CC
+4224	TOK	why		why\DGAW
+4225	TOK	is		be\V6FDRS3
+4226	TOK	that		that\CS
+4227	TOK	so		so\DGA7
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4228	TOK	With	BOS	with\P
+4229	TOK	aging		aging\N5S
+4230	TOK	come		come\VMF6R66
+4231	TOK	a		a\AI---S
+4232	TOK	number		number\N5S
+4233	TOK	of		of\P
+4234	TOK	changes		change\N5P
+4235	TOK	to		to\P
+4236	TOK	the		the\AT---6
+4237	TOK	skeletal		skeletal\JA
+4238	TOK	muscles		muscle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4239	TOK	Most	BOS	most\DDS7
+4240	TOK	marked		mark\VMC----
+4241	TOK	is		be\V6FDRS3
+4242	TOK	the		the\AT---6
+4243	TOK	loss		loss\N5S
+4244	TOK	of		of\P
+4245	TOK	mass		mass\N5S
+---	DLD	,		=\DELIM
+4246	TOK	which		which\RW63N-
+4247	TOK	begins		begin\VMFDRS3
+4248	TOK	as		as\CS
+4249	TOK	early		early\JA
+4250	TOK	as		as\P
+##	TAG	<num>
+4251	TOK	25		25\X
+##	TAG	</num>
+4252	TOK	years		year\N5P
+4253	TOK	of		of\P
+4254	TOK	age		age\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4255	TOK	By	BOS	by\P
+4256	TOK	age		age\VMI----
+##	TAG	<num>
+4257	TOK	50		50\X
+##	TAG	</num>
+4258	TOK	the		the\AT---6
+4259	TOK	skeletal		skeletal\JA
+4260	TOK	muscle		muscle\N5S
+4261	TOK	mass		mass\N5S
+4262	TOK	is		be\V6FDRS3
+4263	TOK	often		often\DGA7
+4264	TOK	reduced		reduce\VMC----
+4265	TOK	by		by\P
+##	TAG	<num>
+4266	TOK	10		10\X
+##	TAG	</num>
+4267	TOK	percent		percent\N56
+---	DLD	,		=\DELIM
+4268	TOK	and		and\CC
+4269	TOK	by		by\P
+4270	TOK	age		age\VMI----
+##	TAG	<num>
+4271	TOK	80		80\X
+##	TAG	</num>
+4272	TOK	approximately		approximately\DGA7
+##	TAG	<num>
+4273	TOK	50		50\X
+##	TAG	</num>
+4274	TOK	percent		percent\N56
+4275	TOK	of		of\P
+4276	TOK	the		the\AT---6
+4277	TOK	muscle		muscle\N5S
+4278	TOK	mass		mass\N5S
+4279	TOK	is		be\V6FDRS3
+4280	TOK	gone		go\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4281	TOK	This	BOS	this\AD---S
+4282	TOK	age		age\N5S
+---	DLI	-		=\DELIM
+4283	TOK	related		relate\VMC----
+4284	TOK	reduction		reduction\N5S
+4285	TOK	is		be\V6FDRS3
+4286	TOK	caused		cause\VMC----
+4287	TOK	mainly		mainly\DGA7
+4288	TOK	by		by\P
+4289	TOK	a		a\AI---S
+4290	TOK	loss		loss\N5S
+4291	TOK	of		of\P
+4292	TOK	muscle		muscle\N5S
+4293	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4294	TOK	By	BOS	by\P
+4295	TOK	greatly		greatly\DGA7
+4296	TOK	thickening		thicken\VMG----
+4297	TOK	the		the\AT---6
+4298	TOK	individual		individual\JA
+4299	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+4300	TOK	weight		weight\N5S
+4301	TOK	lifting		lift\VMG----
+4302	TOK	can		can\VOFDR66
+4303	TOK	stave		stave\VMI----
+4304	TOK	off		off\DGA7
+4305	TOK	the		the\AT---6
+4306	TOK	loss		loss\N5S
+4307	TOK	of		of\P
+4308	TOK	mass		mass\N5S
+4309	TOK	from		from\P
+4310	TOK	the		the\AT---6
+4311	TOK	muscle		muscle\N5S
+4312	TOK	as		as\P
+4313	TOK	a		a\AI---S
+4314	TOK	whole		whole\JA
+---	DLD	,		=\DELIM
+4315	TOK	but		but\CC
+4316	TOK	it		it\RPS3N6
+4317	TOK	appears		appear\VMFDRS3
+4318	TOK	to		to\P
+4319	TOK	have		have\VMI----
+4320	TOK	no		no\AI---6
+4321	TOK	major		major\JA
+4322	TOK	effect		effect\N5S
+4323	TOK	on		on\P
+4324	TOK	the		the\AT---6
+4325	TOK	loss		loss\N5S
+4326	TOK	of		of\P
+4327	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4328	TOK	Before	BOS	before\P
+4329	TOK	individual		individual\JA
+4330	TOK	fibers		fiber\N5P
+4331	TOK	are		be\V6FDR66
+4332	TOK	lost		lose\VMC----
+4333	TOK	to		to\P
+4334	TOK	atrophy		atrophy\VMI----
+---	DLD	,		=\DELIM
+4335	TOK	they		they\RPP3NN
+4336	TOK	change		change\VMF6R66
+4337	TOK	shape		shape\N5S
+4338	TOK	and		and\CC
+4339	TOK	appearance		appearance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4340	TOK	In	BOS	in\P
+4341	TOK	young		young\JA
+4342	TOK	people		people\N56
+---	DLD	,		=\DELIM
+4343	TOK	muscle		muscle\N5S
+4344	TOK	fibers		fiber\N5P
+4345	TOK	are		be\V6FDR66
+4346	TOK	distinctively		distinctively\DGA7
+4347	TOK	angular		angular\JA
+---	DLD	,		=\DELIM
+4348	TOK	whereas		whereas\CS
+4349	TOK	in		in\P
+4350	TOK	the		the\AT---6
+4351	TOK	elderly		elderly\N56
+4352	TOK	they		they\RPP3NN
+4353	TOK	often		often\DGA7
+4354	TOK	appear		appear\VMF6R66
+4355	TOK	more		more\DDC7
+4356	TOK	rounded		round\VMC----
+4357	TOK	and		and\CC
+4358	TOK	in		in\P
+4359	TOK	extreme		extreme\JA
+4360	TOK	cases		case\N5P
+4361	TOK	banana		banana\N5S
+---	DLI	-		=\DELIM
+4362	TOK	shaped		shape\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4363	TOK	Further	BOS	further\DGA7
+---	DLI	-		=\DELIM
+4364	TOK	more		more\DDC7
+---	DLD	,		=\DELIM
+4365	TOK	aging		aging\N5S
+4366	TOK	seems		seem\VMFDRS3
+4367	TOK	to		to\P
+4368	TOK	induce		induce\VMI----
+4369	TOK	type		type\N5S
+4370	TOK	grouping		group\VMG----
+---	DLD	:		=\DELIM
+4371	TOK	in		in\P
+4372	TOK	young		young\JA
+4373	TOK	and		and\CC
+4374	TOK	middle		middle\N5S
+---	DLI	-		=\DELIM
+4375	TOK	aged		age\VMC----
+4376	TOK	skeletal		skeletal\JA
+4377	TOK	muscle		muscle\N5S
+4378	TOK	the		the\AT---6
+4379	TOK	fast		fast\JA
+4380	TOK	and		and\CC
+4381	TOK	slow		slow\JA
+4382	TOK	fibers		fiber\N5P
+4383	TOK	are		be\V6FDR66
+4384	TOK	distributed		distribute\VMC----
+4385	TOK	in		in\P
+4386	TOK	a		a\AI---S
+4387	TOK	chessboard		chessboard\N5S
+4388	TOK	fashion		fashion\VMF6R66
+---	DLD	,		=\DELIM
+4389	TOK	whereas		whereas\CS
+4390	TOK	in		in\P
+4391	TOK	aged		age\VMC----
+4392	TOK	muscle		muscle\N5S
+4393	TOK	the		the\AT---6
+4394	TOK	fibers		fiber\N5P
+4395	TOK	cluster		cluster\VMF6R66
+4396	TOK	in		in\P
+4397	TOK	groups		group\N5P
+4398	TOK	of		of\P
+4399	TOK	either		either\AG---6
+4400	TOK	slow		slow\JA
+4401	TOK	or		or\CC
+4402	TOK	fast		fast\JA
+4403	TOK	cells		cell\N5P
+---	DLE	(		=\DELIM
+4404	TOK	this		this\AD---S
+4405	TOK	phenomenon		phenomenon\N5S
+4406	TOK	also		also\DGA7
+4407	TOK	appears		appear\VMFDRS3
+4408	TOK	in		in\P
+4409	TOK	younger		young\JC
+4410	TOK	people		people\N56
+4411	TOK	suffering		suffering\N5S
+4412	TOK	from		from\P
+4413	TOK	certain		certain\JA
+4414	TOK	motor		motor\N5S
+4415	TOK	nerve		nerve\N5S
+4416	TOK	related		relate\VMC----
+4417	TOK	diseases		disease\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4418	TOK	The	BOS	the\AT---6
+4419	TOK	findings		finding\N5P
+4420	TOK	have		have\V6F6R66
+4421	TOK	prompted		prompt\VMC----
+4422	TOK	some		some\AG---6
+4423	TOK	researchers		researcher\N5P
+4424	TOK	to		to\P
+4425	TOK	hypothesize		hypothesize\VMI----
+4426	TOK	that		that\AD---S
+4427	TOK	fiber		fiber\N5S
+4428	TOK	types		type\N5P
+4429	TOK	cluster		cluster\VMF6R66
+4430	TOK	in		in\P
+4431	TOK	elderly		elderly\JA
+4432	TOK	muscle		muscle\N5S
+4433	TOK	as		as\P
+4434	TOK	a		a\AI---S
+4435	TOK	consequence		consequence\N5S
+4436	TOK	of		of\P
+4437	TOK	a		a\AI---S
+4438	TOK	complex		complex\JA
+4439	TOK	process		process\N5S
+4440	TOK	in		in\P
+4441	TOK	which		which\RW63N-
+4442	TOK	the		the\AT---6
+4443	TOK	muscle		muscle\N5S
+---	DLI	-		=\DELIM
+4444	TOK	controlling		control\VMG----
+4445	TOK	nerves		nerve\N5P
+4446	TOK	switch		switch\N5S
+4447	TOK	from		from\P
+4448	TOK	one		one\MCS
+4449	TOK	muscle		muscle\N5S
+4450	TOK	fiber		fiber\N5S
+4451	TOK	to		to\P
+4452	TOK	another		another\RIS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4453	TOK	Consider	BOS	consider\VMF6R66
+4454	TOK	the		the\AT---6
+4455	TOK	motor		motor\N5S
+4456	TOK	unit		unit\N5S
+---	DLD	,		=\DELIM
+4457	TOK	defined		define\VMC----
+4458	TOK	as		as\P
+4459	TOK	all		all\AG---6
+4460	TOK	the		the\AT---6
+4461	TOK	muscle		muscle\N5S
+4462	TOK	fibers		fiber\N5P
+4463	TOK	controlled		control\VMF6A66
+---	DLD	,		=\DELIM
+4464	TOK	or		or\CC
+4465	TOK	innervated		innervate\VMF6A66
+---	DLD	,		=\DELIM
+4466	TOK	by		by\P
+4467	TOK	a		a\AI---S
+4468	TOK	single		single\JA
+4469	TOK	motor		motor\N5S
+4470	TOK	nerve		nerve\N5S
+4471	TOK	originating		originate\VMG----
+4472	TOK	from		from\P
+4473	TOK	the		the\AT---6
+4474	TOK	spinal		spinal\JA
+4475	TOK	cord		cord\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4476	TOK	As	BOS	as\CS
+4477	TOK	we		we\RPP1NN
+4478	TOK	age		age\VMF6R66
+---	DLD	,		=\DELIM
+4479	TOK	some		some\AG---6
+4480	TOK	of		of\P
+4481	TOK	these		this\AD---P
+4482	TOK	motor		motor\N5S
+4483	TOK	nerves		nerve\N5P
+4484	TOK	die		die\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4485	TOK	The	BOS	the\AT---6
+4486	TOK	nerves		nerves\N5S
+4487	TOK	muscle		muscle\N5S
+4488	TOK	fibers		fiber\N5P
+4489	TOK	are		be\V6FDR66
+4490	TOK	then		then\DGA7
+4491	TOK	left		leave\VMC----
+4492	TOK	without		without\P
+4493	TOK	any		any\AG---6
+4494	TOK	input		input\VMF6A66
+---	DLD	,		=\DELIM
+4495	TOK	so		so\DGA7
+4496	TOK	they		they\RPP3NN
+---	DLD	,		=\DELIM
+4497	TOK	too		too\DGA7
+---	DLD	,		=\DELIM
+4498	TOK	atrophy		atrophy\N5S
+4499	TOK	and		and\CC
+4500	TOK	die		die\VMF6R66
+4501	TOK	unless		unless\CS
+4502	TOK	they		they\RPP3NN
+4503	TOK	are		be\V6FDR66
+4504	TOK	reinnervated		reinnervated\JA
+4505	TOK	by		by\P
+4506	TOK	another		another\JA
+4507	TOK	motor		motor\N5S
+4508	TOK	nerve		nerve\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4509	TOK	Intriguingly	BOS	intriguingly\DGA7
+---	DLD	,		=\DELIM
+4510	TOK	if		if\CS
+4511	TOK	a		a\AI---S
+4512	TOK	muscle		muscle\N5S
+4513	TOK	fiber		fiber\N5S
+4514	TOK	is		be\V6FDRS3
+4515	TOK	reinnervated		reinnervated\JA
+4516	TOK	by		by\P
+4517	TOK	a		a\AI---S
+4518	TOK	nerve		nerve\N5S
+4519	TOK	from		from\P
+4520	TOK	a		a\AI---S
+4521	TOK	different		different\JA
+4522	TOK	motor		motor\N5S
+4523	TOK	unit		unit\N5S
+4524	TOK	type		type\N5S
+##	TAG	<loc pos="DGA7">
+4525	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+4526	TOK	if		if\CS
+4527	TOK	a		a\AI---S
+4528	TOK	fast		fast\JA
+4529	TOK	muscle		muscle\N5S
+4530	TOK	fiber		fiber\N5S
+4531	TOK	is		be\V6FDRS3
+4532	TOK	reinnervated		reinnervated\JA
+4533	TOK	by		by\P
+4534	TOK	a		a\AI---S
+4535	TOK	nerve		nerve\N5S
+4536	TOK	from		from\P
+4537	TOK	slow		slow\JA
+4538	TOK	fibers		fiber\N5P
+4539	TOK	the		the\AT---6
+4540	TOK	fiber		fiber\N5S
+4541	TOK	will		will\VOFDR66
+4542	TOK	be		be\VMI----
+4543	TOK	left		leave\VMC----
+4544	TOK	with		with\P
+4545	TOK	conflicting		conflicting\JA
+4546	TOK	signals		signal\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4547	TOK	Developmentally	BOS	developmentally\DGA7
+4548	TOK	it		it\RPS3N6
+4549	TOK	is		be\V6FDRS3
+4550	TOK	a		a\AI---S
+4551	TOK	fast		fast\JA
+4552	TOK	fiber		fiber\N5S
+---	DLD	,		=\DELIM
+4553	TOK	but		but\CC
+4554	TOK	it		it\RPS3N6
+4555	TOK	receives		receive\VMFDRS3
+4556	TOK	stimulation		stimulation\N5S
+4557	TOK	that		that\RW63N6
+4558	TOK	leads		lead\VMFDRS3
+4559	TOK	to		to\P
+4560	TOK	an		an\AI---S
+4561	TOK	activation		activation\N5S
+4562	TOK	pattern		pattern\N5S
+4563	TOK	that		that\RW63N6
+4564	TOK	fits		fit\VMFDRS3
+4565	TOK	a		a\AI---S
+4566	TOK	slow		slow\JA
+4567	TOK	fiber		fiber\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4568	TOK	Ultimately	BOS	ultimately\DGA7
+---	DLD	,		=\DELIM
+4569	TOK	this		this\AD---S
+4570	TOK	change		change\N5S
+4571	TOK	in		in\P
+4572	TOK	stimulation		stimulation\N5S
+4573	TOK	appears		appear\VMFDRS3
+4574	TOK	to		to\P
+4575	TOK	transform		transform\VMI----
+4576	TOK	the		the\AT---6
+4577	TOK	fast		fast\JA
+4578	TOK	fiber		fiber\N5S
+4579	TOK	to		to\P
+4580	TOK	a		a\AI---S
+4581	TOK	slow		slow\JA
+4582	TOK	fiber		fiber\N5S
+---	DLE	(		=\DELIM
+4583	TOK	or		or\CC
+##	TAG	<foreign lang="LA" pos="DGA7">
+4584	TOK	vice versa		vice_versa\DGA7
+##	TAG	</foreign>
+---	DLE	,		=\DELIM
+4585	TOK	in		in\P
+4586	TOK	the		the\AT---6
+4587	TOK	opposite		opposite\JA
+4588	TOK	case		case\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4589	TOK	Aging	BOS	aging\N5S
+4590	TOK	appears		appear\VMFDRS3
+4591	TOK	to		to\P
+4592	TOK	be		be\VMI----
+4593	TOK	harder		hard\JC
+4594	TOK	on		on\P
+4595	TOK	the		the\AT---6
+4596	TOK	fast		fast\JA
+4597	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+4598	TOK	which		which\RW63N-
+4599	TOK	atrophy		atrophy\VMF6R66
+4600	TOK	at		at\P
+4601	TOK	a		a\AI---S
+4602	TOK	higher		high\JC
+4603	TOK	rate		rate\N5S
+4604	TOK	than		than\CS
+4605	TOK	the		the\AT---6
+4606	TOK	slow		slow\JA
+4607	TOK	ones		one\N5P
+4608	TOK	do		do\V6FDR66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4609	TOK	So	BOS	so\DGA7
+4610	TOK	some		some\AG---6
+4611	TOK	re		re\P
+---	DLI	-		=\DELIM
+4612	TOK	searchers		searcher\N5P
+4613	TOK	have		have\V6F6R66
+4614	TOK	long		long\DGA7
+4615	TOK	suspected		suspect\VMC----
+4616	TOK	that		that\CS
+4617	TOK	the		the\AT---6
+4618	TOK	distribution		distribution\N5S
+4619	TOK	of		of\P
+4620	TOK	fast		fast\JA
+4621	TOK	and		and\CC
+4622	TOK	slow		slow\JA
+4623	TOK	fibers		fiber\N5P
+4624	TOK	gradually		gradually\DGA7
+4625	TOK	shifts		shift\VMFDRS3
+4626	TOK	as		as\CS
+4627	TOK	we		we\RPP1NN
+4628	TOK	age		age\N5S
+4629	TOK	to		to\P
+4630	TOK	favor		favor\VMI----
+4631	TOK	the		the\AT---6
+4632	TOK	slow		slow\JA
+4633	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4634	TOK	This	BOS	this\AD---S
+---	DLD	,		=\DELIM
+4635	TOK	they		they\RPP3NN
+4636	TOK	reasoned		reason\VMF6A66
+---	DLD	,		=\DELIM
+4637	TOK	could		can\VOFDA66
+4638	TOK	help		help\VMI----
+4639	TOK	explain		explain\VMI----
+4640	TOK	why		why\CS
+4641	TOK	a		a\AI---S
+##	TAG	<num>
+4642	TOK	10		10\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+4643	TOK	year		year\N5S
+---	DLI	-		=\DELIM
+4644	TOK	old		old\JA
+4645	TOK	boy		boy\N5S
+4646	TOK	will		will\VOFDR66
+4647	TOK	outrun		outrun\VMI----
+4648	TOK	his		his\APS3M6
+##	TAG	<num>
+4649	TOK	70		70\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+4650	TOK	year		year\N5S
+---	DLI	-		=\DELIM
+4651	TOK	old		old\JA
+4652	TOK	grandfather		grandfather\N5S
+4653	TOK	in		in\P
+4654	TOK	a		a\AI---S
+##	TAG	<num>
+4655	TOK	100		100\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+4656	TOK	meter		meter\N5S
+4657	TOK	race		race\N5S
+---	DLD	,		=\DELIM
+4658	TOK	whereas		whereas\CS
+##	TAG	<name>
+4659	TOK	Grandpa		Grandpa\N46
+##	TAG	</name>
+4660	TOK	might		may\VOFDR66
+4661	TOK	still		still\DGA7
+4662	TOK	defeat		defeat\VMI----
+##	TAG	<name>
+4663	TOK	Junior		Junior\N46
+##	TAG	</name>
+4664	TOK	in		in\P
+4665	TOK	a		a\AI---S
+##	TAG	<na type="code">
+4666	TOK	10K		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4667	TOK	The	BOS	the\AT---6
+4668	TOK	hypothesis		hypothesis\N5S
+4669	TOK	is		be\V6FDRS3
+4670	TOK	somewhat		somewhat\DGA7
+4671	TOK	controversial		controversial\JA
+4672	TOK	because		because\CS
+4673	TOK	it		it\RPS3N6
+4674	TOK	has		have\V6FDRS3
+4675	TOK	been		be\VMC----
+4676	TOK	difficult		difficult\JA
+4677	TOK	to		to\P
+4678	TOK	prove		prove\VMI----
+4679	TOK	that		that\AD---S
+4680	TOK	aging		aging\N5S
+4681	TOK	leads		lead\VMFDRS3
+4682	TOK	to		to\P
+4683	TOK	an		an\AI---S
+4684	TOK	increase		increase\N5S
+4685	TOK	in		in\P
+4686	TOK	the		the\AT---6
+4687	TOK	relative		relative\JA
+4688	TOK	amount		amount\N5S
+4689	TOK	of		of\P
+4690	TOK	slow		slow\JA
+4691	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4692	TOK	In	BOS	in\P
+4693	TOK	a		a\AI---S
+4694	TOK	recent		recent\JA
+4695	TOK	study		study\N5S
+---	DLD	,		=\DELIM
+4696	TOK	we		we\RPP1NN
+4697	TOK	set		set\VMC----
+4698	TOK	out		out\DGA7
+4699	TOK	to		to\P
+4700	TOK	approach		approach\VMI----
+4701	TOK	the		the\AT---6
+4702	TOK	problem		problem\N5S
+4703	TOK	a		a\AI---S
+4704	TOK	little		little\N5S
+4705	TOK	differently		differently\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4706	TOK	We	BOS	we\RPP1NN
+4707	TOK	persuaded		persuade\VMF6A66
+4708	TOK	a		a\AI---S
+4709	TOK	group		group\N5S
+4710	TOK	of		of\P
+##	TAG	<num>
+4711	TOK	12		12\X
+##	TAG	</num>
+4712	TOK	elderly		elderly\JA
+4713	TOK	and		and\CC
+4714	TOK	frail		frail\JA
+4715	TOK	subjects		subject\N5P
+4716	TOK	with		with\P
+4717	TOK	an		an\AI---S
+4718	TOK	average		average\JA
+4719	TOK	age		age\N5S
+4720	TOK	of		of\P
+##	TAG	<num>
+4721	TOK	88		88\X
+##	TAG	</num>
+4722	TOK	years		year\N5P
+4723	TOK	to		to\P
+4724	TOK	submit		submit\VMI----
+4725	TOK	to		to\P
+4726	TOK	a		a\AI---S
+4727	TOK	muscle		muscle\N5S
+4728	TOK	biopsy		biopsy\N5S
+4729	TOK	from		from\P
+4730	TOK	their		their\APP3N6
+4731	TOK	vastus		vastus\N5S
+4732	TOK	lateralis		lateralis\N5S
+4733	TOK	muscle		muscle\N5S
+---	DLE	(		=\DELIM
+4734	TOK	which		which\RW63N-
+4735	TOK	is		be\V6FDRS3
+4736	TOK	located		locate\VMC----
+4737	TOK	on		on\P
+4738	TOK	the		the\AT---6
+4739	TOK	front		front\N5S
+4740	TOK	side		side\N5S
+4741	TOK	of		of\P
+4742	TOK	the		the\AT---6
+4743	TOK	thigh		thigh\N5S
+4744	TOK	and		and\CC
+4745	TOK	is		be\V6FDRS3
+4746	TOK	one		one\MCS
+4747	TOK	of		of\P
+4748	TOK	the		the\AT---6
+4749	TOK	most		most\DDS7
+4750	TOK	well		well\DGA7
+4751	TOK	examined		examine\VMC----
+4752	TOK	of		of\P
+4753	TOK	human		human\JA
+4754	TOK	skeletal		skeletal\JA
+4755	TOK	muscles		muscle\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4756	TOK	Then	BOS	then\DGA7
+---	DLD	,		=\DELIM
+4757	TOK	working		working\JA
+4758	TOK	with		with\P
+4759	TOK	thin		thin\JA
+4760	TOK	needles		needle\N5P
+4761	TOK	under		under\P
+4762	TOK	a		a\AI---S
+4763	TOK	micro		micro\N5S
+---	DLI	-		=\DELIM
+4764	TOK	scope		scope\N5S
+---	DLD	,		=\DELIM
+4765	TOK	we		we\RPP1NN
+4766	TOK	dissected		dissect\VMF6A66
+4767	TOK	out		out\DGA7
+4768	TOK	single		single\JA
+4769	TOK	muscle		muscle\N5S
+4770	TOK	fibers		fiber\N5P
+4771	TOK	from		from\P
+4772	TOK	the		the\AT---6
+4773	TOK	tissue		tissue\N5S
+4774	TOK	samples		sample\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4775	TOK	We	BOS	we\RPP1NN
+4776	TOK	determined		determine\VMF6A66
+4777	TOK	the		the\AT---6
+4778	TOK	myosin		myosin\N5S
+4779	TOK	isoform		isoform\N5S
+4780	TOK	composition		composition\N5S
+4781	TOK	of		of\P
+4782	TOK	each		each\RIS3N-
+4783	TOK	of		of\P
+##	TAG	<num>
+4784	TOK	2,300		2,300\X
+##	TAG	</num>
+4785	TOK	single		single\JA
+4786	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4787	TOK	We	BOS	we\RPP1NN
+4788	TOK	know		know\VMF6R66
+4789	TOK	that		that\CS
+4790	TOK	all		all\AG---6
+4791	TOK	humans		human\N5P
+4792	TOK	have		have\V6F6R66
+4793	TOK	not		not\DGA7
+4794	TOK	only		only\DGA7
+4795	TOK	pure		pure\JA
+4796	TOK	slow		slow\JA
+4797	TOK	and		and\CC
+4798	TOK	fast		fast\JA
+4799	TOK	fibers		fiber\N5P
+4800	TOK	but		but\CC
+4801	TOK	also		also\DGA7
+4802	TOK	fibers		fiber\N5P
+4803	TOK	that		that\RW63N6
+4804	TOK	contain		contain\VMF6R66
+4805	TOK	both		both\RIP3N-
+4806	TOK	the		the\AT---6
+4807	TOK	slow		slow\JA
+4808	TOK	and		and\CC
+4809	TOK	the		the\AT---6
+##	TAG	<name>
+4810	TOK	IIa		IIa\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+4811	TOK	fast		fast\JA
+---	DLD	)		=\DELIM
+4812	TOK	myosin		myosin\N5S
+4813	TOK	isoforms		isoform\N5P
+4814	TOK	or		or\CC
+4815	TOK	both		both\RIP3N-
+4816	TOK	fast		fast\JA
+4817	TOK	isoforms		isoform\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+4818	TOK	IIa		IIa\N46
+##	TAG	</name>
+4819	TOK	and		and\CC
+##	TAG	<name>
+4820	TOK	IIx		IIx\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4821	TOK	In	BOS	in\P
+4822	TOK	the		the\AT---6
+4823	TOK	young		young\JA
+4824	TOK	vastus		vastus\N5S
+4825	TOK	lateralis		lateralis\N5S
+4826	TOK	muscle		muscle\N5S
+4827	TOK	these		this\AD---P
+4828	TOK	hybrid		hybrid\N5S
+4829	TOK	fibers		fiber\N5P
+4830	TOK	are		be\V6FDR66
+4831	TOK	scarce		scarce\JA
+---	DLD	:		=\DELIM
+4832	TOK	fewer		few\JC
+4833	TOK	than		than\CS
+##	TAG	<num>
+4834	TOK	5		5\X
+##	TAG	</num>
+4835	TOK	percent		percent\N56
+4836	TOK	of		of\P
+4837	TOK	the		the\AT---6
+4838	TOK	fibers		fiber\N5P
+4839	TOK	contain		contain\VMF6R66
+4840	TOK	both		both\RIP3N-
+4841	TOK	the		the\AT---6
+4842	TOK	slow		slow\JA
+4843	TOK	myosin		myosin\N5S
+4844	TOK	I		I\N5P
+4845	TOK	and		and\CC
+4846	TOK	fast		fast\JA
+4847	TOK	myosin		myosin\N5S
+##	TAG	<name>
+4848	TOK	IIa		IIa\N46
+##	TAG	</name>
+4849	TOK	isoform		isoform\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4850	TOK	In	BOS	in\P
+4851	TOK	our		our\APP1N6
+4852	TOK	elderly		elderly\JA
+4853	TOK	subjects		subject\N5P
+4854	TOK	we		we\RPP1NN
+4855	TOK	found		find\VMF6A66
+4856	TOK	that		that\CS
+4857	TOK	a		a\AI---S
+4858	TOK	third		third\MOS
+4859	TOK	of		of\P
+4860	TOK	all		all\AG---6
+4861	TOK	the		the\AT---6
+4862	TOK	examined		examine\VMC----
+4863	TOK	fibers		fiber\N5P
+4864	TOK	contained		contain\VMF6A66
+4865	TOK	these		this\AD---P
+##	TAG	<num>
+4866	TOK	two		two\X
+##	TAG	</num>
+4867	TOK	myosin		myosin\N5S
+4868	TOK	isoforms		isoform\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4869	TOK	Astonishingly	BOS	astonishingly\DGA7
+---	DLD	,		=\DELIM
+4870	TOK	this		this\AD---S
+4871	TOK	hybrid		hybrid\N5S
+4872	TOK	fiber		fiber\N5S
+4873	TOK	was		be\V6F-A66
+4874	TOK	the		the\AT---6
+4875	TOK	predominant		predominant\JA
+4876	TOK	type		type\N5S
+4877	TOK	in		in\P
+4878	TOK	the		the\AT---6
+4879	TOK	very		very\JA
+4880	TOK	aged		aged\JA
+4881	TOK	muscle		muscle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4882	TOK	We	BOS	we\RPP1NN
+4883	TOK	concluded		conclude\VMF6A66
+4884	TOK	that		that\CS
+4885	TOK	the		the\AT---6
+4886	TOK	question		question\N5S
+4887	TOK	of		of\P
+4888	TOK	whether		whether\CS
+4889	TOK	aging		aging\N5S
+4890	TOK	muscle		muscle\N5S
+4891	TOK	has		have\V6FDRS3
+4892	TOK	more		more\DDC7
+4893	TOK	slow		slow\JA
+4894	TOK	fibers		fiber\N5P
+4895	TOK	can		can\V6FDR66
+4896	PGR	not		not\DGA7
+4897	TOK	be		be\VMI----
+4898	TOK	answered		answer\VMC----
+4899	TOK	with		with\P
+4900	TOK	a		a\AI---S
+4901	TOK	simple		simple\JA
+4902	TOK	yes		yes\N5S
+4903	TOK	or		or\CC
+4904	TOK	no		no\AI---6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4905	TOK	What	BOS	what\RW63N-
+4906	TOK	seems		seem\VMFDRS3
+4907	TOK	to		to\P
+4908	TOK	happen		happen\VMI----
+4909	TOK	is		be\V6FDRS3
+4910	TOK	not		not\DGA7
+4911	TOK	a		a\AI---S
+4912	TOK	change		change\N5S
+4913	TOK	in		in\P
+4914	TOK	ratio		ratio\N5S
+4915	TOK	between		between\P
+4916	TOK	slow		slow\JA
+4917	TOK	and		and\CC
+4918	TOK	fast		fast\JA
+4919	TOK	fibers		fiber\N5P
+4920	TOK	but		but\CC
+4921	TOK	more		more\DDC7
+4922	TOK	an		an\AI---S
+4923	TOK	obfuscation		obfuscation\N5S
+4924	TOK	of		of\P
+4925	TOK	the		the\AT---6
+4926	TOK	border		border\N5S
+4927	TOK	between		between\P
+4928	TOK	slow		slow\JA
+4929	TOK	and		and\CC
+4930	TOK	fast		fast\JA
+4931	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+4932	TOK	so		so\CC
+4933	TOK	that		that\CS
+4934	TOK	in		in\P
+4935	TOK	very		very\JA
+4936	TOK	elderly		elderly\JA
+4937	TOK	muscle		muscle\N5S
+4938	TOK	one		one\MCS
+4939	TOK	third		third\MOS
+4940	TOK	of		of\P
+4941	TOK	the		the\AT---6
+4942	TOK	fibers		fiber\N5P
+4943	TOK	are		be\V6FDR66
+4944	TOK	neither		neither\RIP3N-
+4945	TOK	strictly		strictly\DGA7
+4946	TOK	slow		slow\JA
+4947	TOK	nor		nor\CC
+4948	TOK	fast		fast\JA
+4949	TOK	but		but\CC
+4950	TOK	rather		rather\DGA7
+4951	TOK	somewhere		somewhere\DGA7
+##	TAG	<loc pos="DGA7">
+4952	TOK	in between		in_between\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+4953	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+4954	TOK	5	EOS	5\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4956	TOK	WEIGHT	BOS	weight\N5S
+##	TAG	<name>
+4957	TOK	LIFTING		LIFTING\N46
+##	TAG	</name>
+4958	TOK	can		can\VOFDR66
+4959	TOK	prevent		prevent\VMI----
+4960	TOK	some		some\AG---6
+4961	TOK	loss		loss\N5S
+4962	TOK	of		of\P
+4963	TOK	muscle		muscle\N5S
+4964	TOK	mass		mass\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4965	TOK	But	BOS	but\CC
+4966	TOK	nothing		nothing\RIS3N-
+4967	TOK	can		can\VOFDR66
+4968	TOK	prevent		prevent\VMI----
+4969	TOK	changes		change\N5P
+4970	TOK	in		in\P
+4971	TOK	the		the\AT---6
+4972	TOK	shape		shape\N5S
+4973	TOK	and		and\CC
+4974	TOK	distribution		distribution\N5S
+4975	TOK	of		of\P
+4976	TOK	different		different\JA
+4977	TOK	types		type\N5P
+4978	TOK	of		of\P
+4979	TOK	muscle		muscle\N5S
+4980	TOK	fiber		fiber\N5S
+4981	TOK	as		as\CS
+4982	TOK	we		we\RPP1NN
+4983	TOK	age		age\VMF6R66
+---	DLE	(		=\DELIM
+4984	TOK	young		young\JA
+4985	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+4986	TOK	top		top\N5S
+---	DLD	;		=\DELIM
+4987	TOK	elderly		elderly\JA
+4988	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+4989	TOK	bottom		bottom\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+4990	TOK	Brave	BOS	brave\N5S
+##	TAG	<name>
+4991	TOK	New World	EOS	New_World\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4993	TOK	What	BOS	what\RW63N-
+4994	TOK	will		will\VOFDR66
+4995	TOK	athletics		athletics\N56
+4996	TOK	be		be\VMI----
+4997	TOK	like		like\P
+4998	TOK	in		in\P
+4999	TOK	an		an\AI---S
+5000	TOK	age		age\N5S
+5001	TOK	of		of\P
+5002	TOK	genetic		genetic\JA
+5003	TOK	enhancements		enhancement\N5P
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5004	TOK	Let	BOS	let\VMF6A66
+5005	TOK	us		us\RPP1NA
+5006	TOK	reconsider		reconsider\VMI----
+5007	TOK	our		our\APP1N6
+5008	TOK	opening		opening\N5S
+5009	TOK	scenario		scenario\N5S
+---	DLD	,		=\DELIM
+5010	TOK	at		at\P
+5011	TOK	the		the\AT---6
+5012	TOK	mens		mens\N5P
+##	TAG	<num>
+5013	TOK	100		100\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+5014	TOK	meter		meter\N5S
+5015	TOK	final		final\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5016	TOK	Only	BOS	only\DGA7
+5017	TOK	this		this\AD---S
+5018	TOK	time		time\N5S
+5019	TOK	it		it\RPS3N6
+5020	TOK	is		be\V6FDRS3
+5021	TOK	the		the\AT---6
+5022	TOK	year		year\N5S
+##	TAG	<num>
+5023	TOK	2012		2012\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+5024	TOK	Prior to	BOS	Prior_to\DGA7
+##	TAG	</loc>
+5025	TOK	these		this\AD---P
+##	TAG	<name>
+5026	TOK	Olympics		Olympics\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+5027	TOK	it		it\RPS3N6
+5028	TOK	was		be\V6F-A66
+5029	TOK	hard		hard\JA
+5030	TOK	to		to\P
+5031	TOK	pick		pick\VMI----
+5032	TOK	an		an\AI---S
+5033	TOK	obvious		obvious\JA
+5034	TOK	favorite		favorite\N5S
+5035	TOK	for		for\P
+5036	TOK	the		the\AT---6
+5037	TOK	gold		gold\N5S
+5038	TOK	medal		medal\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5039	TOK	After	BOS	after\P
+5040	TOK	the		the\AT---6
+5041	TOK	preliminary		preliminary\JA
+5042	TOK	heats		heat\N5P
+---	DLD	,		=\DELIM
+5043	TOK	that		that\CS
+5044	TOK	is		be\V6FDRS3
+5045	TOK	not		not\DGA7
+5046	TOK	so		so\DGA7
+5047	TOK	anymore		anymore\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+5048	TOK	Already	BOS	already\DGA7
+5049	TOK	after		after\P
+5050	TOK	the		the\AT---6
+5051	TOK	semifinals		semifinal\N5P
+5052	TOK	the		the\AT---6
+5053	TOK	book		book\N5S
+---	DLI	-		=\DELIM
+5054	TOK	makers		maker\N5P
+5055	TOK	closed		close\VMC----
+5056	TOK	the		the\AT---6
+5057	TOK	bets		bet\N5P
+5058	TOK	for		for\P
+5059	TOK	the		the\AT---6
+5060	TOK	runner		runner\N5S
+5061	TOK	in		in\P
+5062	TOK	lane		lane\JA
+##	TAG	<num>
+5063	TOK	four		four\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+5064	TOK	John Doeson		John_Doeson\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5065	TOK	He	BOS	he\RPS3MN
+5066	TOK	impressed		impress\VMF6A66
+5067	TOK	everyone		everyone\RIS3N-
+5068	TOK	by		by\P
+5069	TOK	easing		ease\VMG----
+5070	TOK	through		through\P
+5071	TOK	his		his\APS3M6
+##	TAG	<na type="function">
+5072	TOK	1/8		noanat\W
+##	TAG	</na>
+5073	TOK	final		final\JA
+5074	TOK	in		in\P
+5075	TOK	a		a\AI---S
+5076	TOK	time		time\N5S
+5077	TOK	only		only\JA
+##	TAG	<na type="function">
+5078	TOK	3 / 100		noanat\W
+##	TAG	</na>
+5079	TOK	of		of\P
+5080	TOK	a		a\AI---S
+5081	TOK	second		second\MOS
+5082	TOK	from		from\P
+5083	TOK	the		the\AT---6
+5084	TOK	now		now\JA
+5085	TOK	eight		eight\MCP
+---	DLI	-		=\DELIM
+5086	TOK	year		year\N5S
+---	DLI	-		=\DELIM
+5087	TOK	old		old\JA
+5088	TOK	world		world\N5S
+5089	TOK	record		record\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5090	TOK	In	BOS	in\P
+5091	TOK	the		the\AT---6
+5092	TOK	quarterfinal		quarterfinal\N5S
+5093	TOK	he		he\RPS3MN
+5094	TOK	broke		break\VMF6A66
+5095	TOK	the		the\AT---6
+5096	TOK	world		world\N5S
+5097	TOK	record		record\N5S
+5098	TOK	by		by\P
+##	TAG	<na type="function">
+5099	TOK	15 / 100		noanat\W
+##	TAG	</na>
+5100	TOK	of		of\P
+5101	TOK	a		a\AI---S
+5102	TOK	second		second\MOS
+---	DLD	,		=\DELIM
+5103	TOK	but		but\CC
+5104	TOK	the		the\AT---6
+##	TAG	<num>
+5105	TOK	87,000		87,000\X
+##	TAG	</num>
+5106	TOK	spectators		spectator\N5P
+5107	TOK	did		do\V6FDA66
+5108	TOK	not		not\DGA7
+5109	TOK	believe		believe\VMI----
+5110	TOK	their		their\APP3N6
+5111	TOK	eyes		eye\N5P
+5112	TOK	when		when\CS
+5113	TOK	in		in\P
+5114	TOK	the		the\AT---6
+5115	TOK	semifinals		semifinal\N5P
+5116	TOK	he		he\RPS3MN
+5117	TOK	lowered		lower\VMF6A66
+5118	TOK	the		the\AT---6
+5119	TOK	world		world\N5S
+5120	TOK	record		record\N5S
+5121	TOK	to		to\P
+5122	TOK	an		an\AI---S
+5123	TOK	unbelievable		unbelievable\JA
+##	TAG	<num>
+5124	TOK	8.94		8.94\X
+##	TAG	</num>
+5125	TOK	seconds		second\N5P
+---	DLD	,		=\DELIM
+5126	TOK	passing		pass\VMG----
+5127	TOK	the		the\AT---6
+5128	TOK	finish		finish\N5S
+5129	TOK	line		line\N5S
+5130	TOK	more		more\DDC7
+5131	TOK	than		than\CS
+##	TAG	<num>
+5132	TOK	10		10\X
+##	TAG	</num>
+5133	TOK	meters		meter\N5P
+##	TAG	<loc pos="P">
+5134	TOK	ahead of		ahead_of\P
+##	TAG	</loc>
+5135	TOK	the		the\AT---6
+5136	TOK	second		second\MOS
+---	DLI	-		=\DELIM
+5137	TOK	place		place\N5S
+5138	TOK	runner		run\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5139	TOK	This	BOS	this\AD---S
+5140	TOK	performance		performance\N5S
+5141	TOK	made		make\VMC----
+5142	TOK	several		several\JA
+5143	TOK	television		television\N5S
+5144	TOK	commentators		commentator\N5P
+5145	TOK	maintain		maintain\VMF6R66
+5146	TOK	that		that\CS
+5147	TOK	the		the\AT---6
+5148	TOK	viewers		viewer\N5P
+5149	TOK	had		have\V6F6A66
+5150	TOK	just		just\DGA7
+5151	TOK	seen		see\VMC----
+5152	TOK	something		something\RIS3N-
+5153	TOK	from		from\P
+##	TAG	<loc pos="P">
+5154	TOK	out of		out_of\P
+##	TAG	</loc>
+5155	TOK	this		this\AD---S
+5156	TOK	world		world\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5157	TOK	Not	BOS	not\DGA7
+5158	TOK	quite		quite\DGA7
+---	DLD	,		=\DELIM
+5159	TOK	but		but\CC
+5160	TOK	close		close\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5161	TOK	What	BOS	what\RW63N-
+5162	TOK	could		can\VOFDA66
+5163	TOK	have		have\VMI----
+5164	TOK	led		lead\VMC----
+5165	TOK	to		to\P
+5166	TOK	such		such\JA
+5167	TOK	an		an\AI---S
+5168	TOK	astonishing		astonishing\JA
+5169	TOK	performance		performance\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5170	TOK	By	BOS	by\P
+##	TAG	<num>
+5171	TOK	2012		2012\X
+##	TAG	</num>
+5172	TOK	gene		gene\N5S
+5173	TOK	therapy		therapy\N5S
+5174	TOK	will		will\VOFDR66
+5175	TOK	probably		probably\DGA7
+5176	TOK	be		be\VMI----
+5177	TOK	a		a\AI---S
+5178	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+5179	TOK	established		establish\VMC----
+5180	TOK	and		and\CC
+5181	TOK	widely		widely\DGA7
+5182	TOK	used		use\VMC----
+5183	TOK	medical		medical\JA
+5184	TOK	technology		technology\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5185	TOK	Let	BOS	let\VMF6A66
+5186	TOK	us		us\RPP1NA
+5187	TOK	say		say\VMI----
+5188	TOK	that		that\AD---S
+##	TAG	<num>
+5189	TOK	12		12\X
+##	TAG	</num>
+5190	TOK	months		month\N5P
+5191	TOK	before		before\P
+5192	TOK	the		the\AT---6
+##	TAG	<name>
+5193	TOK	Olympics		Olympics\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+5194	TOK	a		a\AI---S
+5195	TOK	doctor		doctor\N5S
+5196	TOK	approached		approach\VMF6A66
+##	TAG	<name>
+5197	TOK	Doeson		Doeson\N46
+##	TAG	</name>
+5198	TOK	with		with\P
+5199	TOK	a		a\AI---S
+5200	TOK	proposal		proposal\N5S
+5201	TOK	likely		likely\JA
+5202	TOK	to		to\P
+5203	TOK	sorely		sorely\DGA7
+5204	TOK	tempt		tempt\VMI----
+5205	TOK	any		any\AG---6
+5206	TOK	sprinter		sprinter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5207	TOK	What	BOS	what\RW63N-
+5208	TOK	if		if\CS
+5209	TOK	you		you\RP62N6
+5210	TOK	could		can\VOFDA66
+5211	TOK	make		make\VMI----
+5212	TOK	your		your\AP62N6
+5213	TOK	muscle		muscle\N5S
+5214	TOK	cells		cell\N5P
+5215	TOK	express		express\VMF6R66
+5216	TOK	the		the\AT---6
+5217	TOK	fastest		fast\JS
+5218	TOK	myosin		myosin\N5S
+5219	TOK	isoform		isoform\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5220	TOK	Under	BOS	under\P
+5221	TOK	normal		normal\JA
+5222	TOK	conditions		condition\N5P
+---	DLD	,		=\DELIM
+5223	TOK	this		this\AD---S
+5224	TOK	isoform		isoform\N5S
+5225	TOK	is		be\V6FDRS3
+5226	TOK	not		not\DGA7
+5227	TOK	expressed		express\VMC----
+5228	TOK	in		in\P
+5229	TOK	any		any\AG---6
+5230	TOK	of		of\P
+5231	TOK	the		the\AT---6
+5232	TOK	major		major\JA
+5233	TOK	human		human\JA
+5234	TOK	skeletal		skeletal\JA
+5235	TOK	muscles		muscle\N5P
+---	DLD	,		=\DELIM
+5236	TOK	but		but\CC
+5237	TOK	the		the\AT---6
+5238	TOK	gene		gene\N5S
+5239	TOK	is		be\V6FDRS3
+5240	TOK	there		there\DGA7
+5241	TOK	and		and\CC
+5242	TOK	ready		ready\JA
+5243	TOK	to		to\P
+5244	TOK	work		work\VMI----
+---	DLD	,		=\DELIM
+5245	TOK	like		like\P
+5246	TOK	a		a\AI---S
+5247	TOK	dusty		dusty\JA
+5248	TOK	blueprint		blueprint\N5S
+5249	TOK	that		that\RW63N6
+5250	TOK	just		just\DGA7
+5251	TOK	needs		need\VMFDRS3
+5252	TOK	a		a\AI---S
+5253	TOK	civil		civil\JA
+5254	TOK	engineer		engineer\N5S
+5255	TOK	and		and\CC
+5256	TOK	a		a\AI---S
+5257	TOK	construction		construction\N5S
+5258	TOK	crew		crew\N5S
+5259	TOK	to		to\P
+5260	TOK	make		make\VMI----
+5261	TOK	it		it\RPS3N6
+5262	TOK	a		a\AI---S
+5263	TOK	reality		reality\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+5264	TOK	This	BOS	this\AD---S
+5265	TOK	enticing		entice\VMG----
+5266	TOK	myosin		myosin\N5S
+5267	TOK	isoform		isoform\N5S
+5268	TOK	would		will\VOFDA66
+5269	TOK	give		give\VMI----
+5270	TOK	muscle		muscle\N5S
+5271	TOK	fibers		fiber\N5P
+5272	TOK	functional		functional\JA
+5273	TOK	characteristics		characteristic\N5P
+5274	TOK	that		that\RW63N6
+5275	TOK	correspond		correspond\VMF6R66
+5276	TOK	to		to\P
+5277	TOK	those		that\RDP3N-
+5278	TOK	of		of\P
+5279	TOK	the		the\AT---6
+5280	TOK	very		very\JA
+5281	TOK	fast		fast\JA
+##	TAG	<name>
+5282	TOK	IIb		IIb\N46
+##	TAG	</name>
+5283	TOK	isoform		isoform\N5S
+---	DLD	,		=\DELIM
+5284	TOK	found		find\VMC----
+5285	TOK	in		in\P
+5286	TOK	the		the\AT---6
+5287	TOK	rat		rat\N5S
+5288	TOK	and		and\CC
+5289	TOK	in		in\P
+5290	TOK	other		other\JA
+5291	TOK	small		small\JA
+5292	TOK	mammals		mammal\N5P
+5293	TOK	that		that\RW63N6
+5294	TOK	need		need\V6F6R66
+5295	TOK	bursts		burst\N5P
+5296	TOK	of		of\P
+5297	TOK	speed		speed\N5S
+5298	TOK	to		to\P
+5299	TOK	elude		elude\VMI----
+5300	TOK	predators		predator\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5301	TOK	This	BOS	this\AD---S
+##	TAG	<name>
+5302	TOK	IIb		IIb\N46
+##	TAG	</name>
+5303	TOK	isoform		isoform\N5S
+5304	TOK	has		have\V6FDRS3
+5305	TOK	a		a\AI---S
+5306	TOK	much		much\DGA7
+5307	TOK	higher		high\JC
+5308	TOK	velocity		velocity\N5S
+5309	TOK	of		of\P
+5310	TOK	con		con\JA
+---	DLI	-		=\DELIM
+5311	TOK	traction		traction\N5S
+5312	TOK	and		and\CC
+5313	TOK	so		so\DGA7
+5314	TOK	can		can\VOFDR66
+5315	TOK	generate		generate\VMI----
+5316	TOK	more		many\JC
+5317	TOK	power		power\N5S
+5318	TOK	than		than\CS
+##	TAG	<name>
+5319	TOK	IIx		IIx\N46
+##	TAG	</name>
+5320	TOK	or		or\CC
+##	TAG	<name>
+5321	TOK	IIa		IIa\N46
+##	TAG	</name>
+5322	TOK	fibers		fiber\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5323	TOK	Although	BOS	although\CS
+##	TAG	<name>
+5324	TOK	Doeson		Doeson\N46
+##	TAG	</name>
+5325	TOK	didnt		didnt\N5S
+5326	TOK	really		really\DGA7
+5327	TOK	understand		understand\VMF6R66
+5328	TOK	what		what\RW63N-
+5329	TOK	the		the\AT---6
+5330	TOK	doctor		doctor\N5S
+5331	TOK	was		be\V6F-A66
+5332	TOK	talking		talk\VMG----
+5333	TOK	about		about\P
+---	DLD	,		=\DELIM
+5334	TOK	he		he\RPS3MN
+5335	TOK	fully		fully\DGA7
+5336	TOK	understood		understand\VMF6A66
+5337	TOK	the		the\AT---6
+5338	TOK	words		word\N5P
+5339	TOK	velocity		velocity\N5S
+5340	TOK	and		and\CC
+5341	TOK	power		power\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5342	TOK	The	BOS	the\AT---6
+5343	TOK	doctor		doctor\N5S
+5344	TOK	enthusiastically		enthusiastically\DGA7
+5345	TOK	went		go\VMF6A66
+5346	TOK	on		on\P
+5347	TOK	explaining		explain\VMG----
+5348	TOK	his		his\APS3M6
+5349	TOK	idea		idea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5350	TOK	The	BOS	the\AT---6
+5351	TOK	gene		gene\N5S
+5352	TOK	actually		actually\DGA7
+5353	TOK	expresses		express\VMFDRS3
+5354	TOK	a		a\AI---S
+5355	TOK	kind		kind\N5S
+5356	TOK	of		of\P
+5357	TOK	protein		protein\N5S
+5358	TOK	known		know\VMC----
+5359	TOK	as		as\P
+5360	TOK	a		a\AI---S
+5361	TOK	transcription		transcription\N5S
+5362	TOK	factor		factor\N5S
+---	DLD	,		=\DELIM
+5363	TOK	which		which\RW63N-
+5364	TOK	in		in\P
+5365	TOK	turn		turn\N5S
+5366	TOK	activates		activate\VMFDRS3
+5367	TOK	the		the\AT---6
+5368	TOK	gene		gene\N5S
+5369	TOK	for		for\P
+5370	TOK	the		the\AT---6
+5371	TOK	very		very\JA
+5372	TOK	fast		fast\JA
+5373	TOK	myosin		myosin\N5S
+##	TAG	<name>
+5374	TOK	IIb		IIb\N46
+##	TAG	</name>
+5375	TOK	isoform		isoform\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5376	TOK	Such	BOS	such\JA
+5377	TOK	a		a\AI---S
+5378	TOK	transcription		transcription\N5S
+5379	TOK	factor		factor\N5S
+5380	TOK	was		be\V6F-A66
+5381	TOK	discovered		discover\VMC----
+##	TAG	<loc pos="RP63N-">
+5382	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+5383	TOK	years		year\N5P
+5384	TOK	ago		ago\DGA7
+5385	TOK	and		and\CC
+5386	TOK	was		be\V6F-A66
+5387	TOK	named		name\VMC----
+##	TAG	<name>
+5388	TOK	Velociphin		Velociphin\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5389	TOK	Holding	BOS	hold\VMG----
+5390	TOK	a		a\AI---S
+5391	TOK	tiny		tiny\JA
+5392	TOK	glass		glass\N5S
+5393	TOK	vial		vial\N5S
+5394	TOK	in		in\P
+5395	TOK	front		front\N5S
+5396	TOK	of		of\P
+5397	TOK	Doesons		Doesons\N5P
+5398	TOK	face		face\VMF6R66
+---	DLD	,		=\DELIM
+5399	TOK	he		he\RPS3MN
+5400	TOK	intoned		intone\VMF6A66
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5401	TOK	This	BOS	this\RDS3N-
+5402	TOK	is		be\V6FDRS3
+5403	TOK	the		the\AT---6
+##	TAG	<name>
+5404	TOK	DNA		DNA\N46
+##	TAG	</name>
+5405	TOK	for		for\P
+5406	TOK	an		an\AI---S
+5407	TOK	artificial		artificial\JA
+5408	TOK	gene		gene\N5S
+5409	TOK	for		for\P
+##	TAG	<name>
+5410	TOK	Velociphin		Velociphin\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5411	TOK	Just	BOS	just\DGA7
+##	TAG	<loc pos="RP63N-">
+5412	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+5413	TOK	injections		injection\N5P
+5414	TOK	of		of\P
+5415	TOK	this		this\AD---S
+##	TAG	<name>
+5416	TOK	DNA		DNA\N46
+##	TAG	</name>
+5417	TOK	into		into\P
+5418	TOK	your		your\AP62N6
+5419	TOK	quadriceps		quadriceps\N56
+---	DLD	,		=\DELIM
+5420	TOK	hamstring		hamstring\N5S
+5421	TOK	and		and\CC
+5422	TOK	gluteus		gluteus\N5S
+---	DLD	,		=\DELIM
+5423	TOK	and		and\CC
+5424	TOK	your		your\AP62N6
+5425	TOK	muscle		muscle\N5S
+5426	TOK	fibers		fiber\N5P
+5427	TOK	will		will\VOFDR66
+5428	TOK	start		start\VMI----
+5429	TOK	cranking		crank\VMG----
+5430	TOK	out		out\DGA7
+##	TAG	<name>
+5431	TOK	Velociphin		Velociphin\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+5432	TOK	which		which\RW63N-
+5433	TOK	will		will\VOFDR66
+5434	TOK	activate		activate\VMI----
+5435	TOK	the		the\AT---6
+5436	TOK	myosin		myosin\N5S
+##	TAG	<name>
+5437	TOK	IIb		IIb\N46
+##	TAG	</name>
+5438	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5439	TOK	Within	BOS	within\P
+##	TAG	<num>
+5440	TOK	three		three\X
+##	TAG	</num>
+5441	TOK	months		month\N5P
+---	DLD	,		=\DELIM
+5442	TOK	he		he\RPS3MN
+5443	TOK	added		add\VMF6A66
+---	DLD	,		=\DELIM
+5444	TOK	Doesons		Doesons\N5S
+5445	TOK	muscles		muscle\N5P
+5446	TOK	would		will\VOFDA66
+5447	TOK	contain		contain\VMI----
+5448	TOK	a		a\AI---S
+5449	TOK	good		good\JA
+5450	TOK	portion		portion\N5S
+5451	TOK	of		of\P
+##	TAG	<name>
+5452	TOK	IIb		IIb\N46
+##	TAG	</name>
+5453	TOK	fibers		fiber\N5P
+---	DLD	,		=\DELIM
+5454	TOK	enabling		enable\VMG----
+5455	TOK	him		him\RPS3MA
+5456	TOK	to		to\P
+5457	TOK	break		break\VMI----
+5458	TOK	the		the\AT---6
+##	TAG	<num>
+5459	TOK	100		100\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+5460	TOK	meter		meter\N5S
+5461	TOK	world		world\N5S
+5462	TOK	record		record\N5S
+5463	TOK	with		with\P
+5464	TOK	ease		ease\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5465	TOK	Moreover	BOS	moreover\DGA7
+---	DLD	,		=\DELIM
+5466	TOK	the		the\AT---6
+5467	TOK	doctor		doctor\N5S
+5468	TOK	noted		note\VMF6A66
+---	DLD	,		=\DELIM
+5469	TOK	Doesons		Doesons\N5S
+5470	TOK	muscles		muscle\N5P
+5471	TOK	would		will\VOFDA66
+5472	TOK	keep		keep\VMI----
+5473	TOK	producing		produce\VMG----
+##	TAG	<name>
+5474	TOK	Velociphin		Velociphin\N46
+##	TAG	</name>
+5475	TOK	for		for\P
+5476	TOK	years		year\N5P
+5477	TOK	without		without\P
+5478	TOK	further		further\JA
+5479	TOK	injections		injection\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+5480	TOK	And	BOS	and\CC
+5481	TOK	without		without\P
+5482	TOK	a		a\AI---S
+5483	TOK	muscle		muscle\N5S
+5484	TOK	biopsy		biopsy\N5S
+5485	TOK	from		from\P
+5486	TOK	the		the\AT---6
+5487	TOK	quadriceps		quadriceps\N56
+---	DLD	,		=\DELIM
+5488	TOK	hamstring		hamstring\N5S
+5489	TOK	or		or\CC
+5490	TOK	gluteus		gluteus\N5S
+---	DLD	,		=\DELIM
+5491	TOK	there		there\DGA7
+5492	TOK	will		will\VOFDR66
+5493	TOK	be		be\VMI----
+5494	TOK	no		no\AI---6
+5495	TOK	way		way\N5S
+5496	TOK	for		for\P
+5497	TOK	officials		official\N5P
+5498	TOK	to		to\P
+5499	TOK	detect		detect\VMI----
+5500	TOK	the		the\AT---6
+5501	TOK	genetic		genetic\JA
+5502	TOK	modification		modification\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+5503	TOK	A	BOS	a\AI---S
+5504	TOK	year		year\N5S
+5505	TOK	later		later\DGC7
+---	DLD	,		=\DELIM
+5506	TOK	as		as\CS
+5507	TOK	he		he\RPS3MN
+5508	TOK	pulls		pull\VMFDRS3
+5509	TOK	on		on\P
+5510	TOK	his		his\APS3M6
+5511	TOK	track		track\N5S
+5512	TOK	suit		suit\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<name>
+5513	TOK	Doeson		Doeson\N46
+##	TAG	</name>
+5514	TOK	recalls		recall\VMFDRS3
+5515	TOK	the		the\AT---6
+5516	TOK	doctors		doctors\N5S
+5517	TOK	assurance		assurance\N5S
+5518	TOK	that		that\RW63N6
+5519	TOK	there		there\DGA7
+5520	TOK	would		will\VOFDA66
+5521	TOK	be		be\VMI----
+5522	TOK	no		no\AI---6
+5523	TOK	side		side\N5S
+5524	TOK	effects		effect\N5P
+5525	TOK	of		of\P
+5526	TOK	the		the\AT---6
+5527	TOK	genetic		genetic\JA
+5528	TOK	treatment		treatment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+5529	TOK	So far	BOS	So_far\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+5530	TOK	so		so\DGA7
+5531	TOK	good		good\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5532	TOK	After	BOS	after\P
+5533	TOK	stretching		stretch\VMG----
+5534	TOK	and		and\CC
+5535	TOK	warming		warm\VMG----
+5536	TOK	up		up\P
+---	DLD	,		=\DELIM
+5537	TOK	he		he\RPS3MN
+5538	TOK	takes		take\VMFDRS3
+5539	TOK	his		his\APS3M6
+5540	TOK	place		place\N5S
+5541	TOK	on		on\P
+5542	TOK	the		the\AT---6
+5543	TOK	block		block\N5S
+5544	TOK	in		in\P
+5545	TOK	lane		lane\JA
+##	TAG	<num>
+5546	TOK	four		four\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5547	TOK	On	BOS	on\P
+5548	TOK	your		your\AP62N6
+5549	TOK	mark		mark\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5550	TOK	Get	BOS	get\N5S
+5551	TOK	set		set\VMF6-66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5552	TOK	BANG	BOS	bang\N5S
+---	DLD	!	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5553	TOK	The	BOS	the\AT---6
+5554	TOK	runners		runner\N5P
+5555	TOK	are		be\V6FDR66
+5556	TOK	away		away\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+5557	TOK	A	BOS	a\AI---S
+5558	TOK	couple		couple\N5S
+5559	TOK	of		of\P
+5560	TOK	seconds		second\N5P
+5561	TOK	later		late\JC
+##	TAG	<name>
+5562	TOK	Doeson		Doeson\N46
+##	TAG	</name>
+5563	TOK	is		be\V6FDRS3
+5564	TOK	already		already\DGA7
+5565	TOK	ahead		ahead\DGA7
+5566	TOK	by		by\P
+##	TAG	<num>
+5567	TOK	two		two\X
+##	TAG	</num>
+5568	TOK	meters		meter\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5569	TOK	Over	BOS	over\P
+5570	TOK	the		the\AT---6
+5571	TOK	next		next\JA
+5572	TOK	few		few\JA
+5573	TOK	seconds		second\N5P
+---	DLD	,		=\DELIM
+5574	TOK	astonishingly		astonishingly\DGA7
+---	DLD	,		=\DELIM
+5575	TOK	his		his\APS3M6
+5576	TOK	lead		lead\N5S
+5577	TOK	grows		grow\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5578	TOK	In	BOS	in\P
+5579	TOK	comparison		comparison\N5S
+5580	TOK	with		with\P
+5581	TOK	those		that\RDP3N-
+5582	TOK	of		of\P
+5583	TOK	the		the\AT---6
+5584	TOK	other		other\JA
+5585	TOK	runners		runner\N5P
+---	DLD	,		=\DELIM
+5586	TOK	his		his\APS3M6
+5587	TOK	strides		stride\N5P
+5588	TOK	are		be\V6FDR66
+5589	TOK	visibly		visibly\DGA7
+5590	TOK	more		more\DDC7
+5591	TOK	powerful		powerful\JA
+5592	TOK	and		and\CC
+5593	TOK	frequent		frequent\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5594	TOK	He	BOS	he\RPS3MN
+5595	TOK	feels		feel\VMFDRS3
+5596	TOK	good		good\JA
+5597	TOK	as		as\CS
+5598	TOK	he		he\RPS3MN
+5599	TOK	passes		pass\VMFDRS3
+##	TAG	<num>
+5600	TOK	30		30\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+5601	TOK	40		40\X
+##	TAG	</num>
+5602	TOK	and		and\CC
+##	TAG	<num>
+5603	TOK	50		50\X
+##	TAG	</num>
+5604	TOK	meters		meter\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+5605	TOK	But	BOS	but\CC
+5606	TOK	then		then\DGA7
+---	DLD	,		=\DELIM
+5607	TOK	at		at\P
+##	TAG	<num>
+5608	TOK	65		65\X
+##	TAG	</num>
+5609	TOK	meters		meter\N5P
+---	DLD	,		=\DELIM
+5610	TOK	far		far\DGA7
+5611	TOK	out		out\DGA7
+5612	TOK	in		in\P
+5613	TOK	front		front\N5S
+5614	TOK	of		of\P
+5615	TOK	the		the\AT---6
+5616	TOK	field		field\N5S
+---	DLD	,		=\DELIM
+5617	TOK	he		he\RPS3MN
+5618	TOK	feels		feel\VMFDRS3
+5619	TOK	a		a\AI---S
+5620	TOK	sudden		sudden\JA
+5621	TOK	twinge		twinge\N5S
+5622	TOK	in		in\P
+5623	TOK	his		his\APS3M6
+5624	TOK	hamstring		hamstring\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5625	TOK	At	BOS	at\P
+##	TAG	<num>
+5626	TOK	80		80\X
+##	TAG	</num>
+5627	TOK	meters		meter\N5P
+5628	TOK	the		the\AT---6
+5629	TOK	twinge		twinge\N5S
+5630	TOK	explodes		explode\VMFDRS3
+5631	TOK	into		into\P
+5632	TOK	overwhelming		overwhelming\JA
+5633	TOK	pain		pain\N5S
+5634	TOK	as		as\CS
+5635	TOK	he		he\RPS3MN
+5636	TOK	pulls		pull\VMFDRS3
+5637	TOK	his		his\APS3M6
+5638	TOK	hamstring		hamstring\N5S
+5639	TOK	muscle		muscle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5640	TOK	A	BOS	a\AI---S
+5641	TOK	tenth		tenth\N5S
+5642	TOK	of		of\P
+5643	TOK	a		a\AI---S
+5644	TOK	second		second\MOS
+5645	TOK	later		late\JC
+5646	TOK	Doesons		Doesons\N5P
+5647	TOK	patella		patella\N5S
+5648	TOK	tendon		tendon\N5S
+5649	TOK	gives		give\VMFDRS3
+5650	TOK	in		in\P
+---	DLD	,		=\DELIM
+5651	TOK	because		because\CS
+5652	TOK	it		it\RPS3N6
+5653	TOK	is		be\V6FDRS3
+5654	TOK	no		no\AI---6
+5655	TOK	match		match\N5S
+5656	TOK	for		for\P
+5657	TOK	the		the\AT---6
+5658	TOK	massive		massive\JA
+5659	TOK	forces		force\N5P
+5660	TOK	generated		generate\VMC----
+5661	TOK	by		by\P
+5662	TOK	his		his\APS3M6
+5663	TOK	quadriceps		quadriceps\N56
+5664	TOK	muscle		muscle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5665	TOK	The	BOS	the\AT---6
+5666	TOK	patella		patella\N5S
+5667	TOK	tendon		tendon\N5S
+5668	TOK	pulls		pull\VMFDRS3
+5669	TOK	out		out\DGA7
+5670	TOK	part		part\N5S
+5671	TOK	of		of\P
+5672	TOK	the		the\AT---6
+5673	TOK	tibia		tibia\N5S
+5674	TOK	bone		bone\N5S
+---	DLD	,		=\DELIM
+5675	TOK	which		which\RW63N-
+5676	TOK	then		then\DGA7
+5677	TOK	snaps		snap\VMFDRS3
+---	DLD	,		=\DELIM
+5678	TOK	and		and\CC
+5679	TOK	the		the\AT---6
+5680	TOK	entire		entire\JA
+5681	TOK	quadriceps		quadriceps\N56
+5682	TOK	shoots		shoot\N5P
+5683	TOK	up		up\P
+5684	TOK	along		along\P
+5685	TOK	the		the\AT---6
+5686	TOK	femur		femur\N5S
+5687	TOK	bone		bone\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+5688	TOK	Doeson	BOS	Doeson\N46
+##	TAG	</name>
+5689	TOK	crumples		crumple\N5P
+5690	TOK	to		to\P
+5691	TOK	the		the\AT---6
+5692	TOK	ground		ground\N5S
+---	DLD	,		=\DELIM
+5693	TOK	his		his\APS3M6
+5694	TOK	running		run\VMG----
+5695	TOK	career		career\N5S
+5696	TOK	over		over\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+5697	TOK	That	BOS	that\CS
+5698	TOK	is		be\V6FDRS3
+5699	TOK	not		not\DGA7
+5700	TOK	the		the\AT---6
+5701	TOK	scenario		scenario\N5S
+5702	TOK	that		that\RW63N6
+5703	TOK	generally		generally\DGA7
+5704	TOK	springs		spring\VMFDRS3
+5705	TOK	to		to\P
+5706	TOK	mind		mind\N5S
+5707	TOK	in		in\P
+5708	TOK	connection		connection\N5S
+5709	TOK	with		with\P
+5710	TOK	the		the\AT---6
+5711	TOK	words		word\N5P
+5712	TOK	genetically		genetically\DGA7
+5713	TOK	engineered		engineer\VMF6A66
+5714	TOK	superathlete		superathlete\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5715	TOK	And	BOS	and\CC
+5716	TOK	some		some\AG---6
+5717	TOK	athletes		athlete\N5P
+5718	TOK	will		will\VOFDR66
+5719	TOK	probably		probably\DGA7
+5720	TOK	manage		manage\VMI----
+5721	TOK	to		to\P
+5722	TOK	exploit		exploit\VMI----
+5723	TOK	engineered		engineer\VMC----
+5724	TOK	genes		gene\N5P
+5725	TOK	while		while\CS
+5726	TOK	avoiding		avoid\VMG----
+5727	TOK	catastrophe		catastrophe\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5728	TOK	But	BOS	but\CC
+5729	TOK	it		it\RPS3N6
+5730	TOK	is		be\V6FDRS3
+5731	TOK	clear		clear\JA
+5732	TOK	that		that\CS
+5733	TOK	as		as\P
+5734	TOK	genetic		genetic\JA
+5735	TOK	technologies		technology\N5P
+5736	TOK	begin		begin\VMF6R66
+5737	TOK	trickling		trickle\VMG----
+5738	TOK	into		into\P
+5739	TOK	the		the\AT---6
+5740	TOK	mainstream		mainstream\N5S
+5741	TOK	of		of\P
+5742	TOK	medicine		medicine\N5S
+5743	TOK	they		they\RPP3NN
+5744	TOK	will		will\VOFDR66
+5745	TOK	change		change\VMI----
+5746	TOK	sports		sport\N5P
+5747	TOK	profoundly		profoundly\DGA7
+5748	TOK	and		and\CC
+5749	TOK	not		not\DGA7
+5750	TOK	for		for\P
+5751	TOK	the		the\AT---6
+5752	TOK	better		good\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+5753	TOK	As	BOS	as\P
+5754	TOK	a		a\AI---S
+5755	TOK	society		society\N5S
+---	DLD	,		=\DELIM
+5756	TOK	we		we\RPP1NN
+5757	TOK	will		will\VOFDR66
+5758	TOK	have		have\VMI----
+5759	TOK	to		to\P
+5760	TOK	ask		ask\VMI----
+5761	TOK	ourselves		ourselves\RXP1N-
+5762	TOK	whether		whether\CS
+5763	TOK	new		new\JA
+5764	TOK	records		record\N5P
+5765	TOK	and		and\CC
+5766	TOK	other		other\JA
+5767	TOK	athletic		athletic\JA
+5768	TOK	triumphs		triumph\N5P
+5769	TOK	really		really\DGA7
+5770	TOK	are		be\V6FDR66
+5771	TOK	a		a\AI---S
+5772	TOK	simple		simple\JA
+5773	TOK	continuation		continuation\N5S
+5774	TOK	of		of\P
+5775	TOK	the		the\AT---6
+5776	TOK	age		age\N5S
+---	DLI	-		=\DELIM
+5777	TOK	old		old\JA
+5778	TOK	quest		quest\N5S
+5779	TOK	to		to\P
+5780	TOK	show		show\VMI----
+5781	TOK	what		what\AW---6
+5782	TOK	our		our\APP1N6
+5783	TOK	species		species\N56
+5784	TOK	can		can\VOFDR66
+5785	TOK	do		do\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

@@ -1,0 +1,422 @@
+##	TAG	<div1>
+##	TAG	<p>
+##	TAG	<s>
+1	TOK	Financial	BOS	financial\JA
+2	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+3	TOK	BANC	BOS	BANC\N46
+##	TAG	</name>
+4	TOK	AGRÍCOL		AGRÍCOL\N5S
+5	TOK	I		i\N5S
+6	TOK	COMERCIAL		COMERCIAL\N5S
+7	TOK	D		d\N5S
+8	TOK	'ANDORRA	EOS	'ANDORRA\N5S
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+10	TOK	Financial	BOS	financial\JA
+11	TOK	system	EOS	system\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+13	TOK	The	BOS	the\AT---6
+##	TAG	<loc pos="JA">
+14	TOK	Andorran		andorran\JA
+##	TAG	</loc>
+15	TOK	banking		banking\N5S
+16	TOK	system		system\N5S
+17	TOK	is		be\V6FDRS3
+18	TOK	governed		govern\VMC----
+19	TOK	by		by\P
+20	TOK	the		the\AT---6
+21	TOK	recently		recently\DGA7
+22	TOK	enacted		enact\VMC----
+23	TOK	law		law\N5S
+24	TOK	on		on\P
+25	TOK	the		the\AT---6
+##	TAG	<name>
+26	TOK	Regulation		Regulation\N46
+##	TAG	</name>
+27	TOK	of		of\P
+28	TOK	the		the\AT---6
+29	TOK	financial		financial\JA
+30	TOK	system		system\N5S
+31	TOK	which		which\RW63N-
+32	TOK	lays		lay\VMFDRS3
+33	TOK	down		down\DGA7
+34	TOK	the		the\AT---6
+35	TOK	requisites		requisite\N5P
+36	TOK	for		for\P
+37	TOK	financial		financial\JA
+38	TOK	bodies		body\N5P
+39	TOK	operating		operate\VMG----
+40	TOK	in		in\P
+41	TOK	the		the\AT---6
+42	TOK	country		country\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+43	TOK	limitation	BOS	limitation\N5S
+44	TOK	on		on\P
+45	TOK	foreign		foreign\JA
+46	TOK	participation		participation\N5S
+47	TOK	in		in\P
+48	TOK	company		company\N5S
+49	TOK	capital		capital\N5S
+---	DLD	,	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+50	TOK	minimum	BOS	minimum\N5S
+51	TOK	reserves		reserve\N5P
+52	TOK	of		of\P
+53	TOK	own		own\JA
+54	TOK	funds		fund\N5P
+55	TOK	to		to\P
+56	TOK	be		be\VMI----
+57	TOK	deposited		deposit\VMC----
+58	TOK	with		with\P
+59	TOK	the		the\AT---6
+##	TAG	<name>
+60	TOK	Andorran National Institute for Finance		Andorran_National_Institute_for_Finance\N46
+##	TAG	</name>
+---	DLE	,	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+62	TOK	audits	BOS	audit\N5P
+63	TOK	and		and\CC
+---	DLE	-		=\DELIM
+64	TOK	very		very\JA
+65	TOK	important		important\JA
+66	TOK	for		for\P
+67	TOK	customers		customer\N5P
+---	DLD	-		=\DELIM
+68	TOK	bank		bank\N5S
+69	TOK	secret		secret\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+70	TOK	This	BOS	this\AD---S
+71	TOK	law		law\N5S
+72	TOK	complements		complement\VMFDRS3
+73	TOK	the		the\AT---6
+74	TOK	self		self\N5S
+---	DLI	-		=\DELIM
+75	TOK	regulating		regulate\VMG----
+76	TOK	role		role\N5S
+77	TOK	hitherto		hitherto\DGA7
+78	TOK	played		play\VMF6A66
+79	TOK	by		by\P
+80	TOK	the		the\AT---6
+81	TOK	country		country\N5S
+82	PGR	's		genmark\GENMARK
+83	TOK	financial		financial\JA
+84	TOK	bodies		body\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+85	TOK	The	BOS	the\AT---6
+86	TOK	importance		importance\N5S
+87	TOK	given		give\VMC----
+88	TOK	to		to\P
+89	TOK	bank		bank\N5S
+90	TOK	secret		secret\N5S
+91	TOK	is		be\V6FDRS3
+92	TOK	worth		worth\P
+93	TOK	a		a\AI---S
+94	TOK	special		special\JA
+95	TOK	mention		mention\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+96	TOK	It	BOS	it\RPS3N6
+97	TOK	is		be\V6FDRS3
+98	TOK	specifically		specifically\DGA7
+99	TOK	protected		protect\VMC----
+100	TOK	by		by\P
+101	TOK	the		the\AT---6
+102	TOK	law		law\N5S
+103	TOK	on		on\P
+104	TOK	the		the\AT---6
+105	TOK	protection		protection\N5S
+106	TOK	of		of\P
+107	TOK	bank		bank\N5S
+108	TOK	secret		secret\N5S
+109	TOK	and		and\CC
+110	TOK	the		the\AT---6
+111	TOK	prevention		prevention\N5S
+112	TOK	of		of\P
+113	TOK	laundering		launder\VMG----
+114	TOK	of		of\P
+115	TOK	money		money\N5S
+116	TOK	or		or\CC
+117	TOK	stocks		stock\N5P
+118	TOK	of		of\P
+119	TOK	criminal		criminal\JA
+120	TOK	origin		origin\N5S
+121	TOK	and		and\CC
+122	TOK	also		also\DGA7
+123	TOK	included		include\VMC----
+124	TOK	in		in\P
+125	TOK	the		the\AT---6
+##	TAG	<name>
+126	TOK	Constitution		Constitution\N46
+##	TAG	</name>
+127	TOK	and		and\CC
+128	TOK	the		the\AT---6
+##	TAG	<name>
+129	TOK	Criminal Code		Criminal_Code\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+130	TOK	This	BOS	this\AD---S
+131	TOK	law		law\N5S
+---	DLD	,		=\DELIM
+132	TOK	as		as\P
+133	TOK	its		its\APS3N6
+134	TOK	name		name\N5S
+135	TOK	implies		imply\VMFDRS3
+---	DLD	,		=\DELIM
+136	TOK	forms		form\VMFDRS3
+137	TOK	the		the\AT---6
+138	TOK	legal		legal\JA
+139	TOK	framework		framework\N5S
+140	TOK	for		for\P
+141	TOK	preventing		prevent\VMG----
+142	TOK	the		the\AT---6
+143	TOK	laundering		launder\VMG----
+144	TOK	of		of\P
+145	TOK	money		money\N5S
+146	TOK	coming		come\VMG----
+147	TOK	from		from\P
+148	TOK	drug		drug\N5S
+149	TOK	trafficking		traffic\VMG----
+150	TOK	or		or\CC
+151	TOK	organized		organize\VMC----
+152	TOK	crime		crime\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+153	TOK	Financial	BOS	financial\JA
+154	TOK	activities		activity\N5P
+155	TOK	are		be\V6FDR66
+156	TOK	considerable		considerable\JA
+157	TOK	and		and\CC
+158	TOK	facilitate		facilitate\VMI----
+159	TOK	an		an\AI---S
+160	TOK	extraordinary		extraordinary\JA
+161	TOK	flow		flow\N5S
+162	TOK	to		to\P
+##	TAG	<name>
+163	TOK	Andorra		Andorra\N46
+##	TAG	</name>
+164	TOK	of		of\P
+165	TOK	foreign		foreign\JA
+166	TOK	capital		capital\N5S
+167	TOK	seeking		seek\VMG----
+168	TOK	to		to\P
+169	TOK	take		take\VMI----
+170	TOK	advantage		advantage\N5S
+171	TOK	of		of\P
+172	TOK	the		the\AT---6
+##	TAG	<num>
+173	TOK	zero		zero\X
+##	TAG	</num>
+174	TOK	taxation		taxation\N5S
+175	TOK	on		on\P
+176	TOK	deposits		deposit\N5P
+---	DLD	,		=\DELIM
+177	TOK	the		the\AT---6
+178	TOK	absence		absence\N5S
+179	TOK	of		of\P
+180	TOK	institutional		institutional\JA
+181	TOK	limitations		limitation\N5P
+182	TOK	on		on\P
+183	TOK	credit		credit\N5S
+184	TOK	and		and\CC
+185	TOK	the		the\AT---6
+186	TOK	offers		offer\N5P
+187	TOK	of		of\P
+188	TOK	loans		loan\N5P
+189	TOK	at		at\P
+190	TOK	competitive		competitive\JA
+191	TOK	rates		rate\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+192	TOK	To	BOS	to\P
+193	TOK	maintain		maintain\VMI----
+194	TOK	this		this\AD---S
+195	TOK	status		status\N5S
+---	DLD	,		=\DELIM
+196	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+197	TOK	Andorran		andorran\JA
+##	TAG	</loc>
+198	TOK	government		government\N5S
+199	TOK	negotiated		negotiate\VMC----
+200	TOK	for		for\P
+201	TOK	and		and\CC
+202	TOK	obtained		obtain\VMC----
+203	TOK	from		from\P
+204	TOK	the		the\AT---6
+##	TAG	<name>
+205	TOK	EEC		EEC\N46
+##	TAG	</name>
+206	TOK	the		the\AT---6
+207	TOK	status		status\N5S
+208	TOK	of		of\P
+209	TOK	third		third\MOS
+210	TOK	party		party\N5S
+211	TOK	country		country\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="CS">
+212	TOK	thanks to		thanks_to\CS
+##	TAG	</loc>
+213	TOK	which		which\RW63N-
+214	TOK	it		it\RPS3N6
+215	TOK	has		have\V6FDRS3
+216	TOK	kept		keep\VMC----
+217	TOK	most		most\DDS7
+218	TOK	of		of\P
+219	TOK	its		its\APS3N6
+220	TOK	privileges		privilege\N5P
+221	TOK	and		and\CC
+222	TOK	significant		significant\JA
+223	TOK	import		import\N5S
+224	TOK	taxes		tax\N5P
+225	TOK	are		be\V6FDR66
+226	TOK	levied		levy\VMC----
+227	TOK	on		on\P
+228	TOK	only		only\DGA7
+229	TOK	a		a\AI---S
+230	TOK	very		very\JA
+231	TOK	specific		specific\JA
+232	TOK	series		series\N56
+233	TOK	of		of\P
+234	TOK	products		product\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+235	TOK	Andorra	BOS	Andorra\N46
+##	TAG	</name>
+236	TOK	does		do\V6FDRS3
+237	TOK	not		not\DGA7
+238	TOK	have		have\VMI----
+239	TOK	its		its\APS3N6
+240	TOK	own		own\JA
+241	TOK	currency		currency\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+242	TOK	Although	BOS	although\CS
+243	TOK	the		the\AT---6
+244	TOK	state		state\N5S
+245	PGR	's		genmark\GENMARK
+246	TOK	budget		budget\N5S
+247	TOK	is		be\V6FDRS3
+248	TOK	made		make\VMC----
+249	TOK	in		in\P
+250	TOK	pesetas		peseta\N5P
+---	DLD	,		=\DELIM
+251	TOK	the		the\AT---6
+252	TOK	free		free\JA
+253	TOK	circulation		circulation\N5S
+254	TOK	of		of\P
+255	TOK	currencies		currency\N5P
+256	TOK	is		be\V6FDRS3
+257	TOK	the		the\AT---6
+258	TOK	rule		rule\N5S
+259	TOK	within		within\P
+260	TOK	the		the\AT---6
+261	TOK	country		country\N5S
+---	DLD	,		=\DELIM
+262	TOK	the		the\AT---6
+263	TOK	most		most\DDS7
+264	TOK	widely		widely\DGA7
+265	TOK	used		use\VMC----
+266	TOK	being		be\VMG----
+267	TOK	the		the\AT---6
+268	TOK	peseta		peseta\N5S
+269	TOK	and		and\CC
+270	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+271	TOK	French		french\JA
+##	TAG	</loc>
+272	TOK	franc		franc\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+273	TOK	zero	BOS	zero\X
+##	TAG	</num>
+274	TOK	direct		direct\JA
+275	TOK	taxation		taxation\N5S
+---	DLD	;	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+276	TOK	no	BOS	no\AI---6
+277	TOK	restrictions		restriction\N5P
+278	TOK	on		on\P
+279	TOK	the		the\AT---6
+280	TOK	movement		movement\N5S
+281	TOK	of		of\P
+282	TOK	capital		capital\JA
+---	DLD	;	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+283	TOK	bank	BOS	bank\N5S
+284	TOK	secret		secret\N5S
+285	TOK	protected		protect\VMC----
+286	TOK	by		by\P
+287	TOK	law		law\N5S
+---	DLD	;	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+288	TOK	very	BOS	very\JA
+289	TOK	strict		strict\JA
+290	TOK	controls		control\N5P
+291	TOK	on		on\P
+292	TOK	the		the\AT---6
+293	TOK	laundering		launder\VMG----
+294	TOK	of		of\P
+295	TOK	money		money\N5S
+296	TOK	from		from\P
+297	TOK	organized		organize\VMC----
+298	TOK	crime		crime\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	</div1>

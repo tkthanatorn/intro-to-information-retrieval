@@ -1,0 +1,2192 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<date pos="T" ISO8601="1996-03-">
+1	TOK	March 1996	BOS	March_1996\T
+##	TAG	</date>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+2	TOK	Reviews		Reviews\N46
+##	TAG	</name>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+3	TOK	Navigating		Navigating\N46
+##	TAG	</name>
+4	TOK	with		with\P
+5	TOK	a		a\AI---S
+##	TAG	<name>
+6	TOK	Web Compass	EOS	Web_Compass\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+8	TOK	Navigating	BOS	navigate\VMG----
+9	TOK	with		with\P
+10	TOK	a		a\AI---S
+##	TAG	<name>
+11	TOK	Web Compass	EOS	Web_Compass\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+13	TOK	Quarterdeck	BOS	quarterdeck\N5S
+14	TOK	harnesses		harness\N5P
+15	TOK	leading		lead\VMG----
+---	DLI	-		=\DELIM
+16	TOK	edge		edge\N5S
+---	DLE	"		=\DELIM
+17	TOK	metasearch		metasearch\VMF6R66
+---	DLD	"		=\DELIM
+18	TOK	technology		technology\N5S
+19	TOK	to		to\P
+20	TOK	create		create\VMI----
+21	TOK	a		a\AI---S
+22	TOK	smart		smart\JA
+23	TOK	agent		agent\N5S
+24	TOK	that		that\RW63N6
+25	TOK	searches		search\VMFDRS3
+26	TOK	the		the\AT---6
+##	TAG	<name>
+27	TOK	Web		Web\N46
+##	TAG	</name>
+28	TOK	and		and\CC
+29	TOK	organizes		organize\VMFDRS3
+30	TOK	the		the\AT---6
+31	TOK	results	EOS	result\N5P
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<foreign lang="LA" pos="N5S">
+32	TOK	Rex	BOS	Rex\N5S
+##	TAG	</foreign>
+##	TAG	<name>
+33	TOK	Baldazo	EOS	Baldazo\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+35	TOK	Searching	BOS	search\VMG----
+36	TOK	for		for\P
+37	TOK	a		a\AI---S
+38	TOK	specific		specific\JA
+39	TOK	subject		subject\N5S
+40	TOK	or		or\CC
+41	TOK	topic		topic\N5S
+42	TOK	on		on\P
+43	TOK	the		the\AT---6
+##	TAG	<name>
+44	TOK	Internet		Internet\N46
+##	TAG	</name>
+45	PGR	's		genmark\GENMARK
+##	TAG	<name>
+46	TOK	World Wide Web		World_Wide_Web\N46
+##	TAG	</name>
+47	TOK	is		be\V6FDRS3
+48	TOK	a		a\AI---S
+49	TOK	lot		lot\N5S
+50	TOK	like		like\P
+51	TOK	driving		drive\VMG----
+52	TOK	cross		cross\P
+---	DLI	-		=\DELIM
+53	TOK	country		country\N5S
+54	TOK	without		without\P
+55	TOK	a		a\AI---S
+56	TOK	road		road\N5S
+57	TOK	map		map\VMF6R66
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+58	TOK	You	BOS	you\RP62N6
+59	TOK	'd		'd\N5S
+60	TOK	better		better\DDC7
+61	TOK	enjoy		enjoy\VMI----
+62	TOK	the		the\AT---6
+63	TOK	journey		journey\N5S
+64	TOK	because		because\CS
+65	TOK	you		you\RP62N6
+66	TOK	may		may\VOFDR66
+67	TOK	never		never\DGA7
+68	TOK	reach		reach\VMI----
+69	TOK	your		your\AP62N6
+70	TOK	destination		destination\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+71	TOK	Index	BOS	index\N5S
+72	TOK	sites		site\N5P
+73	TOK	such		such\RIS3N-
+74	TOK	as		as\P
+##	TAG	<name>
+75	TOK	Lycos		Lycos\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="url">
+76	TOK	http://www.lycos.com		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+77	TOK	and		and\CC
+##	TAG	<name>
+78	TOK	OpenText		OpenText\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="url">
+79	TOK	http://www.opentext.com		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+80	TOK	are		be\V6FDR66
+81	TOK	a		a\AI---S
+82	TOK	good		good\JA
+83	TOK	starting		start\VMG----
+84	TOK	point		point\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+85	TOK	But	BOS	but\CC
+##	TAG	<loc pos="RIS3N-">
+86	TOK	no one		no_one\RIS3N-
+##	TAG	</loc>
+87	TOK	index		index\N5S
+88	TOK	can		can\VOFDR66
+89	TOK	cover		cover\VMI----
+90	TOK	everything		everything\RIS3N-
+---	DLD	,		=\DELIM
+91	TOK	nor		nor\CC
+92	TOK	can		can\VOFDR66
+93	TOK	any		any\DGA7
+94	TOK	search		search\VMI----
+95	TOK	site		site\N5S
+96	TOK	always		always\DGA7
+97	TOK	be		be\VMI----
+##	TAG	<loc pos="JA">
+98	TOK	up to date		up_to_date\JA
+##	TAG	</loc>
+---	DLD	;		=\DELIM
+99	TOK	you		you\RP62N6
+100	TOK	often		often\DGA7
+101	TOK	end		end\N5S
+102	TOK	up		up\P
+103	TOK	searching		search\VMG----
+104	TOK	several		several\JA
+105	TOK	of		of\P
+106	TOK	these		this\AD---P
+107	TOK	services		service\N5P
+108	TOK	in		in\P
+109	TOK	turn		turn\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+110	TOK	Quarterdeck	BOS	quarterdeck\N5S
+111	PGR	's		genmark\GENMARK
+112	TOK	new		new\JA
+##	TAG	<name>
+113	TOK	Windows		Windows\N46
+##	TAG	</name>
+114	TOK	utility		utility\N5S
+115	TOK	called		call\VMF6A66
+##	TAG	<name>
+116	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+117	TOK	greatly		greatly\DGA7
+118	TOK	simplifies		simplify\VMFDRS3
+119	TOK	the		the\AT---6
+120	TOK	task		task\N5S
+121	TOK	of		of\P
+122	TOK	searching		search\VMG----
+123	TOK	multiple		multiple\JA
+124	TOK	indices		index\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+125	TOK	Developed	BOS	develop\VMC----
+126	TOK	by		by\P
+##	TAG	<name>
+127	TOK	Limbex		Limbex\N46
+##	TAG	</name>
+##	TAG	<abbr>
+128	TOK	Corp.		Corp.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+129	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+130	TOK	is		be\V6FDRS3
+131	TOK	actually		actually\DGA7
+132	TOK	not		not\DGA7
+133	TOK	a		a\AI---S
+134	TOK	search		search\N5S
+135	TOK	tool		tool\N5S
+136	TOK	but		but\CC
+137	TOK	a		a\AI---S
+138	TOK	metasearch		metasearch\VMF6R66
+139	TOK	tool		tool\N5S
+---	DLE	(		=\DELIM
+140	TOK	see		see\VMF6R66
+141	TOK	the		the\AT---6
+142	TOK	sidebar		sidebar\N5S
+---	DLE	"		=\DELIM
+##	TAG	<name>
+143	TOK	Searching		Searching\N46
+##	TAG	</name>
+144	TOK	from		from\P
+##	TAG	<name>
+145	TOK	Among Searchers		Among_Searchers\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+147	TOK	That	BOS	that\RDS3N-
+148	PGR	's		be\V6FDRS3
+149	TOK	a		a\AI---S
+150	TOK	fancy		fancy\JA
+151	TOK	way		way\N5S
+152	TOK	of		of\P
+153	TOK	saying		say\VMG----
+154	TOK	that		that\CS
+##	TAG	<name>
+155	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+156	TOK	does		do\V6FDRS3
+157	TOK	not		not\DGA7
+158	TOK	perform		perform\VMI----
+159	TOK	any		any\AG---6
+160	TOK	searches		search\N5P
+161	TOK	itself		itself\RXS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+162	TOK	Rather	BOS	rather\DGA7
+---	DLD	,		=\DELIM
+163	TOK	it		it\RPS3N6
+164	TOK	runs		run\VMFDRS3
+165	TOK	other		other\JA
+166	TOK	search		search\N5S
+167	TOK	resources		resource\N5P
+168	TOK	such		such\RIS3N-
+169	TOK	as		as\P
+##	TAG	<name>
+170	TOK	Lycos		Lycos\N46
+##	TAG	</name>
+171	TOK	and		and\CC
+##	TAG	<name>
+172	TOK	Yahoo		Yahoo\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="url">
+173	TOK	http://www.yahoo.com		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+174	TOK	and		and\CC
+175	TOK	the		the\AT---6
+##	TAG	<name>
+176	TOK	BYTE Site		BYTE_Site\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="url">
+177	TOK	www.byte.com		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+178	TOK	When	BOS	when\CS
+179	TOK	the		the\AT---6
+180	TOK	editors		editor\N5P
+181	TOK	of		of\P
+##	TAG	<name>
+182	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+183	TOK	magazine		magazine\N5S
+184	TOK	saw		see\VMF6A66
+##	TAG	<name>
+185	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+186	TOK	demonstrated		demonstrate\VMC----
+187	TOK	at		at\P
+##	TAG	<name>
+188	TOK	Comdex/Fall		Comdex/Fall\N46
+##	TAG	</name>
+---	DLD	'		=\DELIM
+##	TAG	<num>
+189	TOK	95		95\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+190	TOK	we		we\RPP1NN
+191	TOK	were		be\V6F-A66
+192	TOK	so		so\DGA7
+193	TOK	impressed		impress\VMC----
+194	TOK	we		we\RPP1NN
+195	TOK	gave		give\VMF6A66
+196	TOK	it		it\RPS3N6
+197	TOK	our		our\APP1N6
+##	TAG	<name>
+198	TOK	Best of Show		Best_of_Show\N46
+##	TAG	</name>
+199	TOK	award		award\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+200	TOK	And	BOS	and\CC
+201	TOK	now		now\DGA7
+202	TOK	that		that\AD---S
+203	TOK	we		we\RPP1NN
+204	PGR	've		have\V6FDR66
+205	TOK	had		have\V6F6A66
+206	TOK	a		a\AI---S
+207	TOK	chance		chance\N5S
+208	TOK	to		to\P
+209	TOK	give		give\VMI----
+210	TOK	it		it\RPS3N6
+211	TOK	an		an\AI---S
+212	TOK	extended		extend\VMC----
+213	TOK	test		test\N5S
+214	TOK	drive		drive\VMF6R66
+---	DLD	,		=\DELIM
+215	TOK	we		we\RPP1NN
+216	TOK	are		be\V6FDR66
+217	TOK	more		more\DDC7
+218	TOK	impressed		impress\VMC----
+219	TOK	than		than\CS
+220	TOK	ever		ever\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+221	TOK	Use	BOS	use\N5S
+##	TAG	<name>
+222	TOK	Your Own Browser If You Want	EOS	Your_Own_Browser_If_You_Want\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+224	TOK	The	BOS	the\AT---6
+225	TOK	engine		engine\N5S
+226	TOK	that		that\RW63N6
+227	TOK	runs		run\VMFDRS3
+##	TAG	<name>
+228	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+229	TOK	is		be\V6FDRS3
+230	TOK	a		a\AI---S
+##	TAG	<name>
+231	TOK	Common Gateway Interface		Common_Gateway_Interface\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+232	TOK	CGI		CGI\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+233	TOK	application		application\N5S
+---	DLD	,		=\DELIM
+234	TOK	which		which\RW63N-
+235	TOK	means		mean\VMFDRS3
+236	TOK	you		you\RP62N6
+237	TOK	must		must\VOFDR66
+238	TOK	have		have\VMI----
+239	TOK	a		a\AI---S
+##	TAG	<name>
+240	TOK	Web		Web\N46
+##	TAG	</name>
+241	TOK	server		server\N5S
+242	TOK	running		run\VMG----
+243	TOK	on		on\P
+244	TOK	your		your\AP62N6
+245	TOK	local		local\JA
+246	TOK	machine		machine\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+247	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+248	TOK	includes		include\VMFDRS3
+249	TOK	a		a\AI---S
+250	TOK	version		version\N5S
+251	TOK	of		of\P
+##	TAG	<name>
+252	TOK	Quarterdeck		Quarterdeck\N46
+##	TAG	</name>
+253	PGR	's		genmark\GENMARK
+##	TAG	<name>
+254	TOK	WebServer		WebServer\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+255	TOK	You	BOS	you\RP62N6
+256	TOK	then		then\DGA7
+257	TOK	use		use\VMF6R66
+258	TOK	the		the\AT---6
+##	TAG	<name>
+259	TOK	Web		Web\N46
+##	TAG	</name>
+260	TOK	browser		browser\N5S
+261	TOK	of		of\P
+262	TOK	your		your\AP62N6
+263	TOK	choice		choice\N5S
+264	TOK	to		to\P
+265	TOK	control		control\N5S
+##	TAG	<name>
+266	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+267	TOK	see		see\VMF6R66
+268	TOK	the		the\AT---6
+269	TOK	screen		screen\N5S
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+271	TOK	Though	BOS	though\CS
+##	TAG	<name>
+272	TOK	Quarterdeck		Quarterdeck\N46
+##	TAG	</name>
+273	PGR	's		genmark\GENMARK
+##	TAG	<name>
+274	TOK	QMosaic		QMosaic\N46
+##	TAG	</name>
+275	TOK	is		be\V6FDRS3
+276	TOK	packaged		package\VMC----
+277	TOK	with		with\P
+##	TAG	<name>
+278	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+279	TOK	configuration		configuration\N5S
+280	TOK	problems		problem\N5P
+281	TOK	with		with\P
+282	TOK	our		our\APP1N6
+##	TAG	<name>
+283	TOK	Microsoft Network Internet		Microsoft_Network_Internet\N46
+##	TAG	</name>
+284	TOK	connection		connection\N5S
+285	TOK	prevented		prevent\VMF6A66
+286	TOK	its		its\APS3N6
+287	TOK	use		use\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+288	TOK	So	BOS	so\CC
+289	TOK	we		we\RPP1NN
+290	TOK	tried		try\VMF6A66
+291	TOK	the		the\AT---6
+##	TAG	<name>
+292	TOK	Microsoft Internet Explorer		Microsoft_Internet_Explorer\N46
+##	TAG	</name>
+##	TAG	<num>
+293	TOK	2.0		2.0\X
+##	TAG	</num>
+294	TOK	as		as\P
+295	TOK	our		our\APP1N6
+296	TOK	interface		interface\N5S
+---	DLD	,		=\DELIM
+297	TOK	which		which\RW63N-
+298	TOK	proves		prove\VMFDRS3
+299	TOK	just		just\DGA7
+300	TOK	how		how\DGAW
+301	TOK	remarkably		remarkably\DGA7
+302	TOK	flexible		flexible\JA
+##	TAG	<name>
+303	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+304	TOK	is		be\V6FDRS3
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+305	TOK	It	BOS	it\RPS3N6
+306	TOK	doesn		do\V6FDRS3
+307	PGR	't		not\DGA7
+308	TOK	care		care\N5S
+309	TOK	which		which\RW63N-
+310	TOK	browser		browser\N5S
+311	TOK	you		you\RP62N6
+312	TOK	run		run\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+313	TOK	WebCompass	BOS	WebCompass\N46
+##	TAG	</name>
+314	TOK	also		also\DGA7
+315	TOK	comes		come\VMFDRS3
+316	TOK	with		with\P
+317	TOK	a		a\AI---S
+##	TAG	<name>
+318	TOK	Microsoft Access		Microsoft_Access\N46
+##	TAG	</name>
+##	TAG	<num>
+319	TOK	2.0		2.0\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+320	TOK	format		format\N5S
+321	TOK	database		database\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+322	TOK	as		as\DGA7
+323	TOK	well		well\DGA7
+324	TOK	as		as\P
+##	TAG	<num>
+325	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+326	TOK	bit		bit\N5S
+##	TAG	<name>
+327	TOK	ODBC		ODBC\N46
+##	TAG	</name>
+328	TOK	drivers		driver\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+329	TOK	to		to\P
+330	TOK	store		store\N5S
+331	TOK	and		and\CC
+332	TOK	index		index\N5S
+333	TOK	search		search\N5S
+334	TOK	results		result\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+335	TOK	When	BOS	when\CS
+336	TOK	you		you\RP62N6
+337	TOK	install		install\VMF6R66
+##	TAG	<name>
+338	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+339	TOK	you		you\RP62N6
+340	TOK	have		have\V6F6R66
+341	TOK	the		the\AT---6
+342	TOK	option		option\N5S
+343	TOK	of		of\P
+344	TOK	installing		instal\VMG----
+345	TOK	a		a\AI---S
+346	TOK	database		database\N5S
+347	TOK	that		that\RW63N6
+348	TOK	has		have\V6FDRS3
+349	TOK	been		be\VMC----
+350	TOK	prepopulated		prepopulate\VMC----
+351	TOK	with		with\P
+352	TOK	various		various\JA
+353	TOK	topics		topic\N5P
+354	TOK	to		to\P
+355	TOK	aid		aid\N5S
+356	TOK	in		in\P
+357	TOK	organizing		organize\VMG----
+358	TOK	and		and\CC
+359	TOK	cross		cross\VMF6R66
+---	DLI	-		=\DELIM
+360	TOK	referencing		reference\VMG----
+361	TOK	data		data\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+362	TOK	Add	BOS	add\VMF6R66
+363	TOK	up		up\P
+364	TOK	these		this\AD---P
+365	TOK	components		component\N5P
+366	TOK	and		and\CC
+##	TAG	<name>
+367	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+368	TOK	has		have\V6FDRS3
+369	TOK	an		an\AI---S
+370	TOK	imposing		imposing\JA
+371	TOK	footprint		footprint\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+372	TOK	Quarterdeck	BOS	quarterdeck\N5S
+373	TOK	recommends		recommend\VMFDRS3
+374	TOK	around		around\P
+##	TAG	<num>
+375	TOK	30		30\X
+##	TAG	</num>
+##	TAG	<name>
+376	TOK	MB		MB\N46
+##	TAG	</name>
+377	TOK	of		of\P
+378	TOK	disk		disk\N5S
+379	TOK	space		space\N5S
+380	TOK	for		for\P
+381	TOK	a		a\AI---S
+382	TOK	typical		typical\JA
+383	TOK	installation		installation\N5S
+---	DLD	,		=\DELIM
+384	TOK	about		about\P
+385	TOK	half		half\N5S
+386	TOK	of		of\P
+387	TOK	which		which\RW63N-
+388	TOK	is		be\V6FDRS3
+389	TOK	the		the\AT---6
+390	TOK	prepopulated		prepopulate\VMC----
+391	TOK	database		database\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+392	TOK	Once	BOS	once\CS
+393	TOK	you		you\RP62N6
+394	TOK	start		start\VMF6R66
+395	TOK	storing		store\VMG----
+396	TOK	and		and\CC
+397	TOK	indexing		index\VMG----
+398	TOK	your		your\AP62N6
+399	TOK	search		search\N5S
+400	TOK	results		result\VMFDRS3
+---	DLD	,		=\DELIM
+401	TOK	the		the\AT---6
+402	TOK	database		database\N5S
+403	TOK	will		will\VOFDR66
+404	TOK	only		only\DGA7
+405	TOK	get		get\VMI----
+406	TOK	bigger		big\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+407	TOK	Resource	BOS	resource\N5S
+##	TAG	<name>
+408	TOK	Management	EOS	Management\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+410	TOK	The	BOS	the\AT---6
+411	TOK	key		key\N5S
+412	TOK	to		to\P
+##	TAG	<name>
+413	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+414	TOK	is		be\V6FDRS3
+415	TOK	its		its\APS3N6
+416	TOK	ability		ability\N5S
+417	TOK	to		to\P
+418	TOK	interact		interact\VMI----
+419	TOK	with		with\P
+420	TOK	various		various\JA
+421	TOK	search		search\N5S
+422	TOK	engines		engine\N5P
+---	DLD	,		=\DELIM
+423	TOK	which		which\RW63N-
+424	TOK	it		it\RPS3N6
+425	TOK	terms		term\VMFDRS3
+426	TOK	resources		resource\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+427	TOK	The	BOS	the\AT---6
+428	TOK	package		package\N5S
+429	TOK	comes		come\VMFDRS3
+430	TOK	with		with\P
+431	TOK	several		several\JA
+432	TOK	resources		resource\N5P
+433	TOK	configured		configure\VMF6A66
+---	DLD	,		=\DELIM
+434	TOK	including		including\P
+##	TAG	<name>
+435	TOK	CNN		CNN\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+436	TOK	CNN Sports		CNN_Sports\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+437	TOK	Yahoo		Yahoo\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+438	TOK	Lycos		Lycos\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+439	TOK	and		and\CC
+##	TAG	<name>
+440	TOK	Excite		Excite\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+441	TOK	In	BOS	in\P
+442	TOK	turn		turn\VMI----
+---	DLD	,		=\DELIM
+443	TOK	each		each\AG---S
+444	TOK	resource		resource\N5S
+445	TOK	is		be\V6FDRS3
+446	TOK	grouped		group\VMC----
+447	TOK	into		into\P
+448	TOK	a		a\AI---S
+449	TOK	category		category\N5S
+---	DLD	,		=\DELIM
+450	TOK	such		such\JA
+451	TOK	as		as\P
+##	TAG	<name>
+452	TOK	General Resources		General_Resources\N46
+##	TAG	</name>
+453	TOK	or		or\CC
+##	TAG	<name>
+454	TOK	Technical Resources		Technical_Resources\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+455	TOK	When	BOS	when\CS
+456	TOK	you		you\RP62N6
+457	TOK	run		run\VMF6R66
+458	TOK	a		a\AI---S
+##	TAG	<name>
+459	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+460	TOK	search		search\VMF6R66
+---	DLD	,		=\DELIM
+461	TOK	you		you\RP62N6
+462	TOK	specify		specify\VMF6R66
+463	TOK	both		both\RIP3N-
+464	TOK	the		the\AT---6
+465	TOK	search		search\N5S
+466	TOK	terms		term\N5P
+467	TOK	and		and\CC
+468	TOK	the		the\AT---6
+469	TOK	resources		resource\N5P
+470	TOK	you		you\RP62N6
+471	TOK	wish		wish\VMF6R66
+472	TOK	to		to\P
+473	TOK	use		use\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+474	TOK	WebCompass	BOS	WebCompass\N46
+##	TAG	</name>
+475	TOK	then		then\DGA7
+476	TOK	goes		go\VMFDRS3
+477	TOK	out		out\DGA7
+478	TOK	across		across\P
+479	TOK	the		the\AT---6
+##	TAG	<name>
+480	TOK	Web		Web\N46
+##	TAG	</name>
+481	TOK	and		and\CC
+482	TOK	runs		run\VMFDRS3
+483	TOK	those		that\AD---P
+484	TOK	resources		resource\N5P
+485	TOK	for		for\P
+486	TOK	you		you\RP62N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+487	TOK	Instead of	BOS	Instead_of\CS
+##	TAG	</loc>
+488	TOK	you		you\RP62N6
+489	TOK	having		have\VMG----
+490	TOK	to		to\P
+491	TOK	visit		visit\VMI----
+492	TOK	each		each\AG---S
+493	TOK	search		search\N5S
+494	TOK	site		site\N5S
+495	TOK	in		in\P
+496	TOK	turn		turn\VMI----
+---	DLD	,		=\DELIM
+##	TAG	<name>
+497	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+498	TOK	does		do\V6FDRS3
+499	TOK	the		the\AT---6
+500	TOK	dirty		dirty\JA
+501	TOK	work		work\N5S
+502	TOK	of		of\P
+503	TOK	querying		query\VMG----
+504	TOK	the		the\AT---6
+505	TOK	resources		resource\N5P
+---	DLD	,		=\DELIM
+506	TOK	collecting		collect\VMG----
+507	TOK	all		all\AG---6
+508	TOK	the		the\AT---6
+509	TOK	responses		response\N5P
+---	DLD	,		=\DELIM
+510	TOK	and		and\CC
+511	TOK	presenting		present\VMG----
+512	TOK	them		them\RPP3NA
+513	TOK	on		on\P
+514	TOK	a		a\AI---S
+515	TOK	single		single\JA
+516	TOK	page		page\N5S
+---	DLE	(		=\DELIM
+517	TOK	see		see\VMF6R66
+518	TOK	the		the\AT---6
+519	TOK	screen		screen\N5S
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+520	TOK	You	BOS	you\RP62N6
+521	TOK	can		can\VOFDR66
+522	TOK	use		use\VMI----
+523	TOK	resource		resource\N5S
+524	TOK	categories		category\N5P
+525	TOK	to		to\P
+526	TOK	group		group\N5S
+527	TOK	similar		similar\JA
+528	TOK	resources		resource\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+529	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+530	TOK	if		if\CS
+531	TOK	you		you\RP62N6
+532	TOK	're		're\N5S
+533	TOK	running		run\VMG----
+534	TOK	a		a\AI---S
+535	TOK	query		query\N5S
+536	TOK	on		on\P
+##	TAG	<name>
+537	TOK	Montana		Montana\N46
+##	TAG	</name>
+538	TOK	but		but\CC
+539	TOK	you		you\RP62N6
+540	TOK	want		want\VMF6R66
+541	TOK	the		the\AT---6
+542	TOK	quarterback		quarterback\N5S
+543	TOK	and		and\CC
+544	TOK	not		not\DGA7
+545	TOK	the		the\AT---6
+546	TOK	state		state\N5S
+---	DLD	,		=\DELIM
+547	TOK	you		you\RP62N6
+548	TOK	can		can\VOFDR66
+549	TOK	tell		tell\VMI----
+##	TAG	<name>
+550	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+551	TOK	to		to\P
+552	TOK	search		search\VMI----
+553	TOK	only		only\DGA7
+554	TOK	the		the\AT---6
+##	TAG	<name>
+555	TOK	Sports		Sports\N46
+##	TAG	</name>
+556	TOK	resources		resource\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+557	TOK	If	BOS	if\CS
+558	TOK	you		you\RP62N6
+559	TOK	want		want\VMF6R66
+560	TOK	to		to\P
+561	TOK	search		search\VMI----
+562	TOK	all		all\AG---6
+563	TOK	the		the\AT---6
+564	TOK	resources		resource\N5P
+565	TOK	for		for\P
+##	TAG	<name>
+566	TOK	Montana		Montana\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+567	TOK	you		you\RP62N6
+568	TOK	can		can\VOFDR66
+569	TOK	do		do\VMI----
+570	TOK	that		that\CS
+571	TOK	as		as\DGA7
+572	TOK	well		well\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+573	TOK	The	BOS	the\AT---6
+574	TOK	search		search\N5S
+575	TOK	results		result\N5P
+576	TOK	would		will\VOFDA66
+577	TOK	then		then\DGA7
+578	TOK	include		include\VMI----
+579	TOK	references		reference\N5P
+580	TOK	to		to\P
+##	TAG	<name>
+581	TOK	Joe Montana		Joe_Montana\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+582	TOK	the		the\AT---6
+##	TAG	<name>
+583	TOK	Big Sky		Big_Sky\N46
+##	TAG	</name>
+584	TOK	conference		conference\N5S
+---	DLD	,		=\DELIM
+585	TOK	and		and\CC
+586	TOK	perhaps		perhaps\DGA7
+##	TAG	<name>
+587	TOK	Yellowstone National Park		Yellowstone_National_Park\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+588	TOK	If	BOS	if\CS
+589	TOK	the		the\AT---6
+590	TOK	configured		configure\VMC----
+591	TOK	resources		resource\N5P
+592	TOK	don		do\V6FDR66
+593	PGR	't		not\DGA7
+594	TOK	fit		fit\VMF6R66
+595	TOK	your		your\AP62N6
+596	TOK	bill		bill\N5S
+---	DLD	,		=\DELIM
+597	TOK	you		you\RP62N6
+598	TOK	can		can\VOFDR66
+599	TOK	add		add\VMI----
+600	TOK	new		new\JA
+601	TOK	resources		resource\N5P
+602	TOK	and		and\CC
+603	TOK	reassign		reassign\VMI----
+604	TOK	existing		existing\JA
+605	TOK	ones		one\N5P
+606	TOK	to		to\P
+607	TOK	different		different\JA
+608	TOK	categories		category\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+609	TOK	Adding	BOS	add\VMG----
+610	TOK	a		a\AI---S
+611	TOK	new		new\JA
+612	TOK	resource		resource\N5S
+613	TOK	is		be\V6FDRS3
+614	TOK	a		a\AI---S
+615	TOK	two		two\MCP
+---	DLI	-		=\DELIM
+616	TOK	step		step\N5S
+617	TOK	process		process\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+618	TOK	You	BOS	you\RP62N6
+619	TOK	first		first\DGA7
+620	TOK	enter		enter\VMF6R66
+621	TOK	the		the\AT---6
+##	TAG	<name>
+622	TOK	URL		URL\N46
+##	TAG	</name>
+##	TAG	<loc pos="P">
+623	TOK	along with		along_with\P
+##	TAG	</loc>
+624	TOK	descriptive		descriptive\JA
+625	TOK	information		information\N5S
+626	TOK	and		and\CC
+627	TOK	the		the\AT---6
+628	TOK	desired		desire\VMC----
+629	TOK	category		category\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+630	TOK	Then	BOS	then\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+631	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+632	TOK	reads		read\N5P
+633	TOK	in		in\P
+634	TOK	the		the\AT---6
+635	TOK	search		search\N5S
+636	TOK	resource		resource\N5S
+637	TOK	at		at\P
+638	TOK	that		that\AD---S
+##	TAG	<name>
+639	TOK	URL		URL\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+640	TOK	You	BOS	you\RP62N6
+641	TOK	must		must\VOFDR66
+642	TOK	then		then\DGA7
+643	TOK	specify		specify\VMI----
+644	TOK	which		which\AW---6
+645	TOK	field		field\N5S
+646	TOK	on		on\P
+647	TOK	the		the\AT---6
+648	TOK	resource		resource\N5S
+649	TOK	page		page\N5S
+650	TOK	will		will\VOFDR66
+651	TOK	be		be\VMI----
+652	TOK	used		use\VMC----
+653	TOK	to		to\P
+654	TOK	enter		enter\VMI----
+655	TOK	search		search\N5S
+656	TOK	text		text\N5S
+---	DLD	,		=\DELIM
+657	TOK	and		and\CC
+658	TOK	you		you\RP62N6
+659	TOK	also		also\DGA7
+660	TOK	have		have\V6F6R66
+661	TOK	to		to\P
+662	TOK	set		set\N5S
+663	TOK	up		up\P
+664	TOK	the		the\AT---6
+665	TOK	resource		resource\N5S
+666	TOK	page		page\N5S
+667	TOK	by		by\P
+668	TOK	entering		enter\VMG----
+669	TOK	search		search\N5S
+670	TOK	criteria		criterion\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+671	TOK	You	BOS	you\RP62N6
+672	TOK	set		set\VMF6-66
+673	TOK	up		up\P
+674	TOK	the		the\AT---6
+675	TOK	search		search\N5S
+676	TOK	page		page\N5S
+677	TOK	the		the\AT---6
+678	TOK	way		way\N5S
+679	TOK	you		you\RP62N6
+680	TOK	would		will\VOFDA66
+681	TOK	want		want\VMI----
+682	TOK	to		to\P
+683	TOK	use		use\VMI----
+684	TOK	it		it\RPS3N6
+685	TOK	if		if\CS
+686	TOK	you		you\RP62N6
+687	TOK	were		be\V6F-A66
+688	TOK	running		run\VMG----
+689	TOK	it		it\RPS3N6
+690	TOK	directly		directly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+691	TOK	From then on	BOS	From_then_on\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+692	TOK	whenever		whenever\CS
+693	TOK	you		you\RP62N6
+694	TOK	choose		choose\VMF6R66
+695	TOK	a		a\AI---S
+##	TAG	<name>
+696	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+697	TOK	category		category\N5S
+698	TOK	that		that\RW63N6
+699	TOK	includes		include\VMFDRS3
+700	TOK	this		this\AD---S
+701	TOK	new		new\JA
+702	TOK	search		search\N5S
+703	TOK	resource		resource\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+704	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+705	TOK	can		can\VOFDR66
+706	TOK	automatically		automatically\DGA7
+707	TOK	run		run\VMI----
+708	TOK	that		that\AD---S
+709	TOK	search		search\N5S
+710	TOK	page		page\N5S
+711	TOK	for		for\P
+712	TOK	you		you\RP62N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+713	TOK	Undercover	BOS	undercover\JA
+##	TAG	<name>
+714	TOK	Agent	EOS	Agent\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+716	TOK	WebCompass	BOS	WebCompass\N46
+##	TAG	</name>
+717	TOK	has		have\V6FDRS3
+##	TAG	<num>
+718	TOK	two		two\X
+##	TAG	</num>
+719	TOK	search		search\N5S
+720	TOK	modes		mode\N5P
+---	DLD	:		=\DELIM
+721	TOK	interactive		interactive\JA
+722	TOK	and		and\CC
+723	TOK	agent		agent\N5S
+---	DLI	-		=\DELIM
+724	TOK	based		base\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+725	TOK	Interactive	BOS	interactive\JA
+726	TOK	is		be\V6FDRS3
+727	TOK	the		the\AT---6
+728	TOK	traditional		traditional\JA
+729	TOK	mode		mode\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+730	TOK	You	BOS	you\RP62N6
+731	TOK	type		type\VMF6R66
+732	TOK	in		in\P
+733	TOK	your		your\AP62N6
+734	TOK	search		search\N5S
+735	TOK	terms		term\N5P
+---	DLD	,		=\DELIM
+736	TOK	select		select\VMI----
+737	TOK	a		a\AI---S
+738	TOK	resource		resource\N5S
+739	TOK	category		category\N5S
+---	DLD	,		=\DELIM
+740	TOK	and		and\CC
+741	TOK	activate		activate\VMF6R66
+742	TOK	the		the\AT---6
+743	TOK	search		search\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+744	TOK	WebCompass	BOS	WebCompass\N46
+##	TAG	</name>
+745	TOK	then		then\DGA7
+746	TOK	does		do\V6FDRS3
+747	TOK	the		the\AT---6
+748	TOK	hunting		hunting\N5S
+749	TOK	and		and\CC
+750	TOK	gathering		gathering\N5S
+751	TOK	and		and\CC
+752	TOK	presents		present\VMFDRS3
+753	TOK	all		all\AG---6
+754	TOK	the		the\AT---6
+755	TOK	results		result\N5P
+---	DLD	,		=\DELIM
+756	TOK	or		or\CC
+757	TOK	hits		hit\VMFDRS3
+---	DLE	,		=\DELIM
+758	TOK	from		from\P
+759	TOK	the		the\AT---6
+760	TOK	various		various\JA
+761	TOK	resources		resource\N5P
+762	TOK	on		on\P
+763	TOK	a		a\AI---S
+764	TOK	single		single\JA
+765	TOK	page		page\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+766	TOK	You	BOS	you\RP62N6
+767	TOK	can		can\VOFDR66
+768	TOK	investigate		investigate\VMI----
+769	TOK	each		each\AG---S
+770	TOK	hit		hit\N5S
+771	TOK	in		in\P
+772	TOK	turn		turn\VMI----
+773	TOK	and		and\CC
+774	TOK	add		add\VMI----
+775	TOK	it		it\RPS3N6
+776	TOK	to		to\P
+777	TOK	your		your\AP62N6
+778	TOK	local		local\JA
+779	TOK	database		database\N5S
+780	TOK	by		by\P
+781	TOK	checking		check\VMG----
+782	TOK	the		the\AT---6
+783	TOK	box		box\N56
+##	TAG	<loc pos="DGA7">
+784	TOK	next to		next_to\DGA7
+##	TAG	</loc>
+785	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+786	TOK	You	BOS	you\RP62N6
+787	TOK	then		then\DGA7
+788	TOK	can		can\VOFDR66
+789	TOK	add		add\VMI----
+790	TOK	the		the\AT---6
+791	TOK	hit		hit\N5S
+792	TOK	to		to\P
+793	TOK	a		a\AI---S
+794	TOK	topic		topic\N5S
+795	TOK	that		that\RW63N6
+796	TOK	is		be\V6FDRS3
+797	TOK	usually		usually\DGA7
+798	TOK	related		relate\VMC----
+799	TOK	to		to\P
+800	TOK	the		the\AT---6
+801	TOK	search		search\N5S
+802	TOK	term		term\N5S
+803	TOK	you		you\RP62N6
+804	TOK	used		use\VMF6A66
+805	TOK	to		to\P
+806	TOK	find		find\VMI----
+807	TOK	the		the\AT---6
+808	TOK	hit		hit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+809	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+810	TOK	WebCompass Agent		WebCompass_Agent\N46
+##	TAG	</name>
+811	TOK	will		will\VOFDR66
+812	TOK	then		then\DGA7
+813	TOK	retrieve		retrieve\VMI----
+814	TOK	and		and\CC
+815	TOK	index		index\VMI----
+816	TOK	the		the\AT---6
+817	TOK	document		document\N5S
+818	TOK	in		in\P
+819	TOK	your		your\AP62N6
+820	TOK	local		local\JA
+821	TOK	database		database\N5S
+822	TOK	so		so\CC
+823	TOK	you		you\RP62N6
+824	TOK	have		have\VMI----
+825	TOK	it		it\RPS3N6
+826	TOK	for		for\P
+827	TOK	future		future\N5S
+828	TOK	reference		reference\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+829	TOK	In	BOS	in\P
+830	TOK	fact		fact\N5S
+---	DLD	,		=\DELIM
+831	TOK	this		this\AD---S
+832	TOK	local		local\JA
+833	TOK	topic		topic\N5S
+834	TOK	database		database\N5S
+835	TOK	is		be\V6FDRS3
+836	TOK	one		one\MCS
+837	TOK	of		of\P
+##	TAG	<name>
+838	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+---	DLD	'		=\DELIM
+839	TOK	search		search\N5S
+840	TOK	categories		category\N5P
+---	DLD	,		=\DELIM
+841	TOK	so		so\DGA7
+842	TOK	you		you\RP62N6
+843	TOK	can		can\VOFDR66
+844	TOK	search		search\VMI----
+845	TOK	it		it\RPS3N6
+846	TOK	just		just\DGA7
+847	TOK	as		as\CS
+848	TOK	you		you\RP62N6
+849	TOK	would		will\VOFDA66
+850	TOK	any		any\AG---6
+851	TOK	other		other\JA
+852	TOK	resource		resource\N5S
+853	TOK	category		category\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+854	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+855	TOK	Agent		Agent\N46
+##	TAG	</name>
+856	TOK	is		be\V6FDRS3
+857	TOK	one		one\MCS
+858	TOK	of		of\P
+859	TOK	the		the\AT---6
+860	TOK	unique		unique\JA
+861	TOK	strengths		strength\N5P
+862	TOK	of		of\P
+##	TAG	<name>
+863	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+864	TOK	It	BOS	it\RPS3N6
+865	TOK	runs		run\VMFDRS3
+866	TOK	as		as\CS
+867	TOK	a		a\AI---S
+868	TOK	separate		separate\JA
+869	TOK	application		application\N5S
+870	TOK	outside		outside\P
+871	TOK	the		the\AT---6
+872	TOK	browser		browser\N5S
+---	DLD	,		=\DELIM
+873	TOK	though		though\CS
+874	TOK	you		you\RP62N6
+875	TOK	activate		activate\VMF6R66
+876	TOK	it		it\RPS3N6
+877	TOK	from		from\P
+878	TOK	the		the\AT---6
+879	TOK	main		main\JA
+##	TAG	<name>
+880	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+881	TOK	page		page\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+882	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+883	TOK	Agent		Agent\N46
+##	TAG	</name>
+884	TOK	has		have\V6FDRS3
+##	TAG	<num>
+885	TOK	two		two\X
+##	TAG	</num>
+886	TOK	roles		role\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+887	TOK	It	BOS	it\RPS3N6
+888	TOK	retrieves		retrieve\VMFDRS3
+889	TOK	and		and\CC
+890	TOK	indexes		index\VMFDRS3
+891	TOK	articles		article\N5P
+892	TOK	you		you\RP62N6
+893	TOK	have		have\V6F6R66
+894	TOK	selected		select\VMC----
+895	TOK	as		as\CS
+896	TOK	a		a\AI---S
+897	TOK	result		result\N5S
+898	TOK	of		of\P
+899	TOK	a		a\AI---S
+900	TOK	previous		previous\JA
+901	TOK	search		search\N5S
+---	DLD	,		=\DELIM
+902	TOK	and		and\CC
+903	TOK	it		it\RPS3N6
+904	TOK	automatically		automatically\DGA7
+905	TOK	performs		perform\VMFDRS3
+906	TOK	searches		search\N5P
+907	TOK	for		for\P
+908	TOK	you		you\RP62N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+909	TOK	Once	BOS	once\DGA7
+910	TOK	you		you\RP62N6
+911	PGR	've		have\V6FDR66
+912	TOK	specified		specify\VMC----
+913	TOK	which		which\RW63N-
+914	TOK	articles		article\N5P
+915	TOK	to		to\P
+916	TOK	add		add\VMI----
+917	TOK	to		to\P
+918	TOK	the		the\AT---6
+919	TOK	local		local\JA
+920	TOK	database		database\N5S
+---	DLD	,		=\DELIM
+921	TOK	the		the\AT---6
+##	TAG	<name>
+922	TOK	Agent		Agent\N46
+##	TAG	</name>
+923	TOK	can		can\VOFDR66
+924	TOK	go		go\VMI----
+925	TOK	off		off\DGA7
+926	TOK	and		and\CC
+927	TOK	retrieve		retrieve\VMI----
+928	TOK	them		them\RPP3NA
+---	DLD	,		=\DELIM
+929	TOK	index		index\N5S
+930	TOK	them		them\RPP3NA
+---	DLD	,		=\DELIM
+931	TOK	and		and\CC
+932	TOK	organize		organize\VMI----
+933	TOK	the		the\AT---6
+934	TOK	documents		document\N5P
+935	TOK	for		for\P
+936	TOK	later		late\JC
+937	TOK	review		review\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+938	TOK	The	BOS	the\AT---6
+939	TOK	indexing		indexing\N5S
+940	TOK	scheme		scheme\N5S
+941	TOK	is		be\V6FDRS3
+942	TOK	fairly		fairly\DGA7
+943	TOK	reliable		reliable\JA
+---	DLD	,		=\DELIM
+944	TOK	usually		usually\DGA7
+945	TOK	getting		get\VMG----
+946	TOK	related		relate\VMC----
+947	TOK	articles		article\N5P
+948	TOK	together		together\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+949	TOK	In	BOS	in\P
+950	TOK	our		our\APP1N6
+951	TOK	tests		test\N5P
+952	TOK	using		use\VMG----
+##	TAG	<name>
+953	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+954	TOK	the		the\AT---6
+##	TAG	<name>
+955	TOK	Agent		Agent\N46
+##	TAG	</name>
+956	TOK	sometimes		sometimes\DGA7
+957	TOK	put		put\VMF6R66
+958	TOK	unrelated		unrelated\JA
+959	TOK	articles		article\N5P
+960	TOK	together		together\DGA7
+---	DLD	,		=\DELIM
+961	TOK	but		but\CC
+962	TOK	the		the\AT---6
+963	TOK	software		software\N5S
+964	TOK	generally		generally\DGA7
+965	TOK	took		take\VMF6A66
+966	TOK	a		a\AI---S
+967	TOK	reasonable		reasonable\JA
+968	TOK	first		first\MOS
+969	TOK	stab		stab\N5S
+970	TOK	at		at\P
+971	TOK	grouping		group\VMG----
+972	TOK	the		the\AT---6
+973	TOK	articles		article\N5P
+974	TOK	it		it\RPS3N6
+975	TOK	found		find\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+976	TOK	When	BOS	when\CS
+977	TOK	you		you\RP62N6
+978	TOK	run		run\VMF6R66
+979	TOK	a		a\AI---S
+980	TOK	search		search\N5S
+981	TOK	interactively		interactively\DGA7
+---	DLD	,		=\DELIM
+982	TOK	you		you\RP62N6
+983	TOK	can		can\VOFDR66
+984	TOK	add		add\VMI----
+985	TOK	it		it\RPS3N6
+986	TOK	to		to\P
+987	TOK	a		a\AI---S
+988	TOK	new		new\JA
+989	TOK	or		or\CC
+990	TOK	existing		existing\JA
+991	TOK	topic		topic\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+992	TOK	We	BOS	we\RPP1NN
+993	TOK	ran		run\VMF6A66
+994	TOK	a		a\AI---S
+995	TOK	search		search\N5S
+996	TOK	on		on\P
+997	TOK	the		the\AT---6
+998	TOK	word		word\N5S
+##	TAG	<name>
+999	TOK	Bosnia		Bosnia\N46
+##	TAG	</name>
+1000	TOK	and		and\CC
+1001	TOK	created		create\VMF6A66
+1002	TOK	a		a\AI---S
+1003	TOK	new		new\JA
+1004	TOK	topic		topic\N5S
+1005	TOK	also		also\DGA7
+1006	TOK	called		call\VMF6A66
+##	TAG	<abbr>
+1007	TOK	Bosnia.		Bosnia.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1008	TOK	Topics		Topics\N46
+##	TAG	</name>
+1009	TOK	are		be\V6FDR66
+1010	TOK	keywords		keyword\N5P
+1011	TOK	that		that\RW63N6
+1012	TOK	help		help\VMF6R66
+1013	TOK	organize		organize\VMI----
+1014	TOK	data		data\N56
+1015	TOK	in		in\P
+1016	TOK	the		the\AT---6
+1017	TOK	local		local\JA
+##	TAG	<abbr>
+1018	TOK	database.		database.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+1019	TOK	If		if\N5S
+1020	TOK	you		you\RP62N6
+1021	TOK	specify		specify\VMF6R66
+1022	TOK	a		a\AI---S
+1023	TOK	particular		particular\JA
+1024	TOK	topic		topic\N5S
+1025	TOK	as		as\P
+1026	TOK	active		active\JA
+---	DLD	,		=\DELIM
+1027	TOK	the		the\AT---6
+##	TAG	<name>
+1028	TOK	WebCompass Agent		WebCompass_Agent\N46
+##	TAG	</name>
+1029	TOK	will		will\VOFDR66
+1030	TOK	automatically		automatically\DGA7
+1031	TOK	run		run\VMI----
+1032	TOK	the		the\AT---6
+1033	TOK	searches		search\N5P
+1034	TOK	related		relate\VMC----
+1035	TOK	to		to\P
+1036	TOK	that		that\AD---S
+1037	TOK	topic		topic\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1038	TOK	The	BOS	the\AT---6
+1039	TOK	software		software\N5S
+1040	TOK	then		then\DGA7
+1041	TOK	adds		add\VMFDRS3
+1042	TOK	these		this\AD---P
+1043	TOK	new		new\JA
+1044	TOK	search		search\N5S
+1045	TOK	results		result\N5P
+1046	TOK	to		to\P
+1047	TOK	the		the\AT---6
+1048	TOK	local		local\JA
+1049	TOK	database		database\N5S
+1050	TOK	for		for\P
+1051	TOK	later		late\JC
+1052	TOK	review		review\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1053	TOK	Agent	BOS	agent\N5S
+1054	TOK	searches		search\N5P
+1055	TOK	can		can\VOFDR66
+1056	TOK	run		run\VMI----
+1057	TOK	while		while\CS
+1058	TOK	you		you\RP62N6
+1059	TOK	use		use\VMF6R66
+1060	TOK	your		your\AP62N6
+1061	TOK	browser		browser\N5S
+1062	TOK	to		to\P
+1063	TOK	view		view\N5S
+##	TAG	<loc pos="N5S">
+1064	TOK	something else		something_else\N5S
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<loc pos="RP63N-">
+1065	TOK	A Few	BOS	A_Few\RP63N-
+##	TAG	</loc>
+##	TAG	<name>
+1066	TOK	Nits Found	EOS	Nits_Found\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1068	TOK	Having	BOS	have\VMG----
+1069	TOK	the		the\AT---6
+##	TAG	<name>
+1070	TOK	Agent		Agent\N46
+##	TAG	</name>
+1071	TOK	repeatedly		repeatedly\DGA7
+1072	TOK	run		run\VMF6R66
+1073	TOK	the		the\AT---6
+1074	TOK	same		same\JA
+1075	TOK	query		query\N5S
+1076	TOK	every		every\AG---S
+1077	TOK	day		day\N5S
+1078	TOK	quickly		quickly\DGA7
+1079	TOK	adds		add\VMFDRS3
+1080	TOK	up		up\P
+1081	TOK	to		to\P
+##	TAG	<loc pos="DDA7">
+1082	TOK	a lot of		a_lot_of\DDA7
+##	TAG	</loc>
+1083	TOK	articles		article\N5P
+1084	TOK	indexed		index\VMC----
+1085	TOK	in		in\P
+1086	TOK	the		the\AT---6
+1087	TOK	local		local\JA
+1088	TOK	database		database\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1089	TOK	Thankfully	BOS	thankfully\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1090	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+1091	TOK	comes		come\VMFDRS3
+1092	TOK	with		with\P
+1093	TOK	tools		tool\N5P
+1094	TOK	for		for\P
+1095	TOK	managing		manage\VMG----
+1096	TOK	the		the\AT---6
+1097	TOK	database		database\N5S
+---	DLD	,		=\DELIM
+1098	TOK	but		but\CC
+1099	TOK	since		since\CS
+1100	TOK	these		this\RDP3N-
+1101	TOK	are		be\V6FDR66
+1102	TOK	also		also\DGA7
+##	TAG	<name>
+1103	TOK	Web		Web\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1104	TOK	based		base\VMF6A66
+---	DLD	,		=\DELIM
+1105	TOK	they		they\RPP3NN
+1106	TOK	feel		feel\VMF6R66
+1107	TOK	clunky		clunky\JA
+1108	TOK	at		at\P
+1109	TOK	times		time\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1110	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1111	TOK	you		you\RP62N6
+1112	TOK	can		can\VOFDR66
+1113	TOK	delete		delete\VMI----
+1114	TOK	a		a\AI---S
+1115	TOK	group		group\N5S
+1116	TOK	of		of\P
+1117	TOK	articles		article\N5P
+1118	TOK	with		with\P
+1119	TOK	a		a\AI---S
+1120	TOK	single		single\JA
+1121	TOK	click		click\VMF6R66
+---	DLD	,		=\DELIM
+1122	TOK	but		but\CC
+1123	TOK	to		to\P
+1124	TOK	delete		delete\VMI----
+1125	TOK	a		a\AI---S
+1126	TOK	single		single\JA
+1127	TOK	article		article\N5S
+1128	TOK	you		you\RP62N6
+1129	TOK	have		have\V6F6R66
+1130	TOK	to		to\P
+1131	TOK	jump		jump\VMI----
+1132	TOK	to		to\P
+1133	TOK	a		a\AI---S
+1134	TOK	separate		separate\JA
+1135	TOK	form		form\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1136	TOK	And	BOS	and\CC
+1137	TOK	you		you\RP62N6
+1138	TOK	can		can\VOFDR66
+1139	TOK	move		move\VMI----
+1140	TOK	articles		article\N5P
+1141	TOK	from		from\P
+1142	TOK	one		one\MCS
+1143	TOK	topic		topic\N5S
+1144	TOK	to		to\P
+1145	TOK	another		another\RIS3N-
+---	DLD	,		=\DELIM
+1146	TOK	but		but\CC
+1147	TOK	since		since\CS
+1148	TOK	the		the\AT---6
+1149	TOK	interface		interface\N5S
+1150	TOK	is		be\V6FDRS3
+##	TAG	<name>
+1151	TOK	Web		Web\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1152	TOK	based		base\VMF6A66
+---	DLD	,		=\DELIM
+1153	TOK	no		no\N5S
+1154	TOK	drag		drag\VMI----
+---	DLI	-		=\DELIM
+1155	TOK	and		and\CC
+---	DLI	-		=\DELIM
+1156	TOK	drop		drop\N5S
+1157	TOK	commands		command\N5P
+1158	TOK	are		be\V6FDR66
+1159	TOK	available		available\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1160	TOK	You	BOS	you\RP62N6
+1161	TOK	have		have\V6F6R66
+1162	TOK	to		to\P
+1163	TOK	step		step\N5S
+1164	TOK	through		through\P
+1165	TOK	a		a\AI---S
+##	TAG	<name>
+1166	TOK	Hypertext Markup Language		Hypertext_Markup_Language\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1167	TOK	HTML		HTML\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1168	TOK	form		form\N5S
+1169	TOK	to		to\P
+1170	TOK	accomplish		accomplish\VMI----
+1171	TOK	the		the\AT---6
+1172	TOK	task		task\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1173	TOK	You	BOS	you\RP62N6
+1174	TOK	also		also\DGA7
+1175	TOK	have		have\V6F6R66
+1176	TOK	to		to\P
+1177	TOK	use		use\VMI----
+##	TAG	<name>
+1178	TOK	HTML		HTML\N46
+##	TAG	</name>
+1179	TOK	to		to\P
+1180	TOK	configure		configure\VMI----
+1181	TOK	new		new\JA
+1182	TOK	resources		resource\N5P
+1183	TOK	and		and\CC
+1184	TOK	set		set\VMC----
+1185	TOK	up		up\P
+1186	TOK	the		the\AT---6
+##	TAG	<name>
+1187	TOK	Agent		Agent\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1188	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+1189	TOK	while		while\CS
+1190	TOK	being		be\VMG----
+1191	TOK	able		able\JA
+1192	TOK	to		to\P
+1193	TOK	use		use\VMI----
+1194	TOK	different		different\JA
+1195	TOK	browsers		browser\N5P
+1196	TOK	is		be\V6FDRS3
+1197	TOK	a		a\AI---S
+1198	TOK	strength		strength\N5S
+1199	TOK	of		of\P
+##	TAG	<name>
+1200	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1201	TOK	it		it\RPS3N6
+1202	TOK	is		be\V6FDRS3
+1203	TOK	also		also\DGA7
+1204	TOK	a		a\AI---S
+1205	TOK	weakness		weakness\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1206	TOK	The	BOS	the\AT---6
+1207	TOK	caching		cache\VMG----
+1208	TOK	schemes		scheme\N5P
+1209	TOK	of		of\P
+1210	TOK	some		some\AG---6
+1211	TOK	browsers		browser\N5P
+1212	TOK	can		can\VOFDR66
+1213	TOK	cause		cause\VMI----
+1214	TOK	a		a\AI---S
+1215	TOK	mismatch		mismatch\N5S
+1216	TOK	between		between\P
+1217	TOK	what		what\RW63N-
+1218	TOK	your		your\AP62N6
+1219	TOK	browser		browser\N5S
+1220	TOK	shows		show\N5P
+1221	TOK	and		and\CC
+1222	TOK	what		what\AW---6
+##	TAG	<name>
+1223	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+1224	TOK	is		be\V6FDRS3
+1225	TOK	actually		actually\DGA7
+1226	TOK	doing		do\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1227	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1228	TOK	the		the\AT---6
+1229	TOK	browser		browser\N5S
+1230	TOK	might		may\VOFDR66
+1231	TOK	indicate		indicate\VMI----
+1232	TOK	that		that\CS
+1233	TOK	the		the\AT---6
+##	TAG	<name>
+1234	TOK	Agent		Agent\N46
+##	TAG	</name>
+1235	TOK	is		be\V6FDRS3
+1236	TOK	inactive		inactive\JA
+1237	TOK	when		when\CS
+1238	TOK	in		in\P
+1239	TOK	fact		fact\N5S
+1240	TOK	it		it\RPS3N6
+1241	TOK	is		be\V6FDRS3
+##	TAG	<loc pos="DGA7">
+1242	TOK	out there		out_there\DGA7
+##	TAG	</loc>
+1243	TOK	busily		busily\DGA7
+1244	TOK	running		run\VMG----
+1245	TOK	an		an\AI---S
+1246	TOK	indexing		indexing\N5S
+1247	TOK	task		task\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1248	TOK	You	BOS	you\RP62N6
+1249	TOK	can		can\VOFDR66
+1250	TOK	fix		fix\VMI----
+1251	TOK	this		this\AD---S
+1252	TOK	inconsistency		inconsistency\N5S
+1253	TOK	by		by\P
+1254	TOK	reloading		reload\VMG----
+1255	TOK	your		your\AP62N6
+1256	TOK	browser		browser\N5S
+1257	TOK	whenever		whenever\CS
+1258	TOK	you		you\RP62N6
+1259	TOK	suspect		suspect\VMF6R66
+1260	TOK	it		it\RPS3N6
+1261	TOK	might		may\VOFDR66
+1262	TOK	be		be\VMI----
+##	TAG	<loc pos="P">
+1263	TOK	out of		out_of\P
+##	TAG	</loc>
+1264	TOK	sync		sync\N5S
+1265	TOK	with		with\P
+##	TAG	<name>
+1266	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1267	TOK	What	BOS	what\RW63N-
+1268	PGR	's		be\V6FDRS3
+1269	TOK	more		more\DDC7
+1270	TOK	annoying		annoying\JA
+1271	TOK	is		be\V6FDRS3
+1272	TOK	that		that\CS
+##	TAG	<name>
+1273	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+1274	TOK	is		be\V6FDRS3
+1275	TOK	a		a\AI---S
+1276	TOK	single		single\JA
+---	DLI	-		=\DELIM
+1277	TOK	user		user\N5S
+1278	TOK	application		application\N5S
+---	DLD	,		=\DELIM
+1279	TOK	which		which\RW63N-
+1280	TOK	means		mean\VMFDRS3
+1281	TOK	you		you\RP62N6
+1282	TOK	can		can\V6FDR66
+1283	PGR	't		not\DGA7
+1284	TOK	set		set\N5S
+1285	TOK	up		up\P
+1286	TOK	an		an\AI---S
+1287	TOK	instance		instance\N5S
+1288	TOK	of		of\P
+##	TAG	<name>
+1289	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+1290	TOK	on		on\P
+1291	TOK	your		your\AP62N6
+1292	TOK	network		network\N5S
+1293	TOK	and		and\CC
+1294	TOK	let		let\VMF6R66
+1295	TOK	different		different\JA
+1296	TOK	people		people\N56
+1297	TOK	maintain		maintain\VMF6R66
+1298	TOK	their		their\APP3N6
+1299	TOK	own		own\JA
+1300	TOK	topic		topic\N5S
+1301	TOK	databases		database\N5P
+1302	TOK	using		use\VMG----
+1303	TOK	the		the\AT---6
+1304	TOK	common		common\JA
+1305	TOK	installation		installation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1306	TOK	These	BOS	this\RDP3N-
+1307	TOK	are		be\V6FDR66
+1308	TOK	minor		minor\JA
+1309	TOK	flaws		flaw\N5P
+---	DLD	,		=\DELIM
+1310	TOK	some		some\AG---6
+1311	TOK	of		of\P
+1312	TOK	which		which\RW63N-
+1313	TOK	will		will\VOFDR66
+1314	TOK	no		no\AI---6
+1315	TOK	doubt		doubt\N5S
+1316	TOK	be		be\VMI----
+1317	TOK	ironed		iron\VMC----
+1318	TOK	out		out\DGA7
+1319	TOK	in		in\P
+1320	TOK	the		the\AT---6
+1321	TOK	next		next\JA
+1322	TOK	release		release\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1323	TOK	What	BOS	what\AW---6
+1324	TOK	matters		matter\N5P
+1325	TOK	is		be\V6FDRS3
+1326	TOK	that		that\CS
+##	TAG	<name>
+1327	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+1328	TOK	has		have\V6FDRS3
+1329	TOK	quickly		quickly\DGA7
+1330	TOK	made		make\VMC----
+1331	TOK	itself		itself\RXS3N-
+1332	TOK	an		an\AI---S
+1333	TOK	invaluable		invaluable\JA
+1334	TOK	part		part\N5S
+1335	TOK	of		of\P
+1336	TOK	our		our\APP1N6
+##	TAG	<name>
+1337	TOK	Internet		Internet\N46
+##	TAG	</name>
+1338	TOK	tool		tool\N5S
+1339	TOK	set		set\VMF6-66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1340	TOK	PRODUCT	BOS	product\N5S
+1341	TOK	INFORMATION	EOS	information\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1343	TOK	WebCompass	BOS	WebCompass\N46
+##	TAG	</name>
+##	TAG	<num>
+1344	TOK	1.0		1.0\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1345	TOK	$		$\N5P
+##	TAG	<num>
+1346	TOK	100		100\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1347	TOK	anticipated		anticipate\VMC----
+1348	TOK	street		street\N5S
+1349	TOK	price		price\N5S
+---	DLD	)		=\DELIM
+##	TAG	<name>
+1350	TOK	Quarterdeck Corp		Quarterdeck_Corp\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1351	TOK	Marina	BOS	marina\N5S
+1352	TOK	del		del\N5S
+##	TAG	<name>
+1353	TOK	Rey		Rey\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1354	TOK	CA Phone		CA_Phone\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1355	TOK	310		310\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1356	TOK	309-3700		noanat\W
+##	TAG	</na>
+1357	TOK	or		or\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1358	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1359	TOK	683-6696		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1360	TOK	Fax		Fax\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1361	TOK	813		813\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1362	TOK	523-2335		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1363	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+##	TAG	<na type="url">
+1364	TOK	http://www.quarterdeck.com		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1365	TOK	Circle		Circle\N46
+##	TAG	</name>
+##	TAG	<num>
+1366	TOK	1049		1049\X
+##	TAG	</num>
+1367	TOK	on		on\P
+##	TAG	<name>
+1368	TOK	Inquiry Card		Inquiry_Card\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1369	TOK	Search	BOS	search\N5S
+1370	TOK	from		from\P
+1371	TOK	Anywhere	EOS	anywhere\N5S
+##	TAG	</head>
+##	TAG	<head>
+1373	TOK	screen_link	BOS	screen_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1374	TOK	69		69\X
+##	TAG	</num>
+##	TAG	<name>
+1375	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1377	TOK	Quarterdeck	BOS	Quarterdeck\N46
+##	TAG	</name>
+1378	PGR	's		genmark\GENMARK
+##	TAG	<name>
+1379	TOK	WebCompass		WebCompass\N46
+##	TAG	</name>
+1380	TOK	search		search\N5S
+1381	TOK	agent		agent\N5S
+1382	TOK	lets		let\VMFDRS3
+1383	TOK	you		you\RP62N6
+1384	TOK	launch		launch\VMI----
+1385	TOK	a		a\AI---S
+1386	TOK	search		search\N5S
+1387	TOK	from		from\P
+1388	TOK	any		any\AG---6
+##	TAG	<name>
+1389	TOK	Web		Web\N46
+##	TAG	</name>
+1390	TOK	browser		browser\N5S
+---	DLE	(		=\DELIM
+##	TAG	<loc pos="DGA7">
+1391	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1392	TOK	Microsoft Internet Explorer		Microsoft_Internet_Explorer\N46
+##	TAG	</name>
+##	TAG	<num>
+1393	TOK	2.0		2.0\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1395	TOK	Let	BOS	let\VMF6R66
+1396	TOK	the		the\AT---6
+##	TAG	<name>
+1397	TOK	Agent Do		Agent_Do\N46
+##	TAG	</name>
+1398	TOK	the		the\AT---6
+##	TAG	<name>
+1399	TOK	Querying	EOS	Querying\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+1401	TOK	screen_link	BOS	screen_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1402	TOK	29		29\X
+##	TAG	</num>
+##	TAG	<name>
+1403	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1405	TOK	The	BOS	the\AT---6
+1406	TOK	agent		agent\N5S
+1407	TOK	queries		query\VMFDRS3
+##	TAG	<name>
+1408	TOK	Internet		Internet\N46
+##	TAG	</name>
+1409	TOK	search		search\N5S
+1410	TOK	sites		site\N5P
+1411	TOK	and		and\CC
+1412	TOK	groups		group\N5P
+1413	TOK	the		the\AT---6
+1414	TOK	results		result\N5P
+1415	TOK	on		on\P
+1416	TOK	a		a\AI---S
+1417	TOK	single		single\JA
+1418	TOK	page		page\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<foreign lang="LA" pos="N5S">
+1419	TOK	Rex	BOS	Rex\N5S
+##	TAG	</foreign>
+##	TAG	<name>
+1420	TOK	Baldazo		Baldazo\N46
+##	TAG	</name>
+1421	TOK	is		be\V6FDRS3
+1422	TOK	a		a\AI---S
+1423	TOK	technical		technical\JA
+1424	TOK	editor		editor\N5S
+1425	TOK	in		in\P
+##	TAG	<name>
+1426	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+1427	PGR	's		genmark\GENMARK
+##	TAG	<name>
+1428	TOK	New Media		New_Media\N46
+##	TAG	</name>
+1429	TOK	department		department\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1430	TOK	You	BOS	you\RP62N6
+1431	TOK	can		can\VOFDR66
+1432	TOK	reach		reach\VMI----
+1433	TOK	him		him\RPS3MA
+1434	TOK	at		at\P
+##	TAG	<na type="email">
+1435	TOK	rbaldazo@bix.com		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1436	TOK	Copyright	BOS	copyright\JA
+1437	TOK	©		©\N5P
+##	TAG	<na type="function">
+1438	TOK	1994-1996		noanat\W
+##	TAG	</na>
+tf	TOK		EOS	=\DELS
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

@@ -1,0 +1,44 @@
+
+R5000 Cuts 3-D Cost
+
+Programmers usually write their software to the metal, but now chip engineers are bending the metal to fit the software.
+The new R5000 microprocessor from Mips Technologies (Mountain View, CA) is specially optimized for the single-precision floating-point operations that characterize today's 2-D and 3-D graphics.
+The result is a powerful, affordable CPU that executes 400 million floating-point operations per second (MFLOPS) and is driving down the cost of high-end graphics performance.
+
+Silicon Graphics (Mountain View, CA), Mips' parent company, just announced three new models of its Indy desktop workstation based on early versions of the R5000.
+Prices range from $8495 to $13,995.
+SGI says the new systems handle 3-D graphics up to almost 100 percent faster than R4x00-based Indy workstations at the same price.
+
+The R5000 inherits several architectural innovations from Mips' top-of-the-line R8000 and R10000 processors.
+For example, the R5000 is a 64-bit CPU that supports the latest Mips IV instruction set, and its FPU has two-way superscalar pipelines.
+The R5000 has separate primary caches for instructions and data, and each cache is 32 KB in size, as well as two-way set-associative, just like the R10000.
+
+To cut corners, the R5000 doesn't have superscalar integer pipelines and can't execute instructions out of order.
+This greatly reduces the chip's complexity because it doesn't have to bother with scoreboarding and other tricky techniques to put instructions back in order again.
+In another cost-cutting measure, Mips eliminated the 128-bit secondary-cache bus found on the R4000 and R10000.
+Instead, the R5000 accesses its secondary cache over the general I/O bus, which is 64 bits wide.
+
+The payoff for the R5000's reduced complexity is a die that's exceptionally small (84 square millimetres on a .32-micron process) for a CPU of this capability.
+And a small die means less power consumption, lower manufacturing costs, and higher clock speeds .
+
+In March, Mips licensees NEC Electronics (Mountain View, CA) and Integrated Device Technology (Santa Clara, CA) were expected to begin shipping early versions of the R5000 clocked at 180 and 200 MHz.
+Prices range from $225 to $285, and the estimated performance at 200 MHz is a well-balanced 5.5 SPECint95 and 5.5 SPECfp95.
+Later this year, both vendors plan to ship 250-MHz versions that will deliver SPECmarks of about 6.8 (for both integer and floating-point performance) and still cost less than $300. 
+
+Floating-point performance is the R5000's greatest strength.
+Mips says the R5000 can process more than 1.1 million 3-D graphics primitives per second, compared to about 670,000 graphics primitives for a 133-MHz PowerPC 604 and about 170,000 for a 133-MHz Pentium.
+Yet its overall performance is so well balanced that NEC and IDT expect to sell the R5000 to customers who will build the chip into a wide range of devices, including network routers, bridges, X Window terminals, laser printers, copiers, videogame machines, high-end PCs, and entry-level servers.
+
+MIPS R5000: What's New 
+
+- 64-bit Rx000-compatible CPU
+- Two-way superscalar FPU
+- Target clock speed: 250 MHz (later in 1996) 
+- Performance: 6.8 SPECint95, 6.8 SPECfp95 at 250 MHz
+- 480 MFLOPS for single-precision geometry calculations
+- On-board caches: 32 KB instruction, 32 KB data
+- 3.7 million transistors
+- Die size: 84 sq mm at 0.32 microns
+- Volume production: March 1996 (at 180-200 MHz)
+
+Intel's fastest Pentium Pro outruns the Mips R5000 chip, but the R5000 isn't far behind, and it costs only about one-sixth as much as the Pentium Pro.

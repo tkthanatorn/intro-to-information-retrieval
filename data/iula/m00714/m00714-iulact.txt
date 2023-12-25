@@ -1,0 +1,4440 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	GROWING	BOS	growing\JA
+2	TOK	NEW		NEW\N5S
+3	TOK	ORGANS	EOS	organ\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+5	TOK	Researchers	BOS	researcher\N5P
+6	TOK	have		have\V6F6R66
+7	TOK	taken		take\VMC----
+8	TOK	the		the\AT---6
+9	TOK	first		first\MOS
+10	TOK	steps		step\N5P
+11	TOK	toward		toward\P
+12	TOK	creating		create\VMG----
+13	TOK	semisynthetic		semisynthetic\JA
+---	DLD	,		=\DELIM
+14	TOK	living		living\JA
+15	TOK	organs		organ\N5P
+16	TOK	that		that\RW63N6
+17	TOK	can		can\VOFDR66
+18	TOK	be		be\VMI----
+19	TOK	used		use\VMC----
+20	TOK	as		as\P
+21	TOK	human		human\JA
+22	TOK	replacement		replacement\N5S
+23	TOK	parts		part\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+24	TOK	Every	BOS	every\AG---S
+25	TOK	day		day\N5S
+26	TOK	thousands		thousand\N5P
+27	TOK	of		of\P
+28	TOK	people		people\N56
+29	TOK	of		of\P
+30	TOK	all		all\AG---6
+31	TOK	ages		age\N5P
+32	TOK	are		be\V6FDR66
+33	TOK	admitted		admit\VMC----
+34	TOK	to		to\P
+35	TOK	hospitals		hospital\N5P
+##	TAG	<loc pos="P">
+36	TOK	because of		because_of\P
+##	TAG	</loc>
+37	TOK	the		the\AT---6
+38	TOK	malfunction		malfunction\N5S
+39	TOK	of		of\P
+40	TOK	some		some\AG---6
+41	TOK	vital		vital\JA
+42	TOK	organ		organ\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+43	TOK	Because of	BOS	Because_of\P
+##	TAG	</loc>
+44	TOK	a		a\AI---S
+45	TOK	dearth		dearth\N5S
+46	TOK	of		of\P
+47	TOK	transplantable		transplantable\JA
+48	TOK	organs		organ\N5P
+---	DLD	,		=\DELIM
+49	TOK	many		many\AI---P
+50	TOK	of		of\P
+51	TOK	these		this\AD---P
+52	TOK	people		people\N56
+53	TOK	will		will\VOFDR66
+54	TOK	die		die\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+55	TOK	In	BOS	in\P
+56	TOK	perhaps		perhaps\DGA7
+57	TOK	the		the\AT---6
+58	TOK	most		most\DDS7
+59	TOK	dramatic		dramatic\JA
+60	TOK	example		example\N5S
+---	DLD	,		=\DELIM
+61	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+62	TOK	American Heart Association		American_Heart_Association\N46
+##	TAG	</name>
+63	TOK	reports		report\VMFDRS3
+64	TOK	only		only\DGA7
+##	TAG	<num>
+65	TOK	2,300		2,300\X
+##	TAG	</num>
+66	TOK	of		of\P
+67	TOK	the		the\AT---6
+##	TAG	<num>
+68	TOK	40,000		40,000\X
+##	TAG	</num>
+##	TAG	<loc pos="N5P">
+69	TOK	Americans		american\N5P
+##	TAG	</loc>
+70	TOK	who		who\RW63N-
+71	TOK	needed		need\VMF6A66
+72	TOK	a		a\AI---S
+73	TOK	new		new\JA
+74	TOK	heart		heart\N5S
+75	TOK	in		in\P
+##	TAG	<num>
+76	TOK	1997		1997\X
+##	TAG	</num>
+77	TOK	got		get\VMF6A66
+78	TOK	one		one\MCS
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+79	TOK	Lifesaving	BOS	lifesaving\JA
+80	TOK	livers		liver\N5P
+81	TOK	and		and\CC
+82	TOK	kidneys		kidney\N5P
+83	TOK	likewise		likewise\DGA7
+84	TOK	are		be\V6FDR66
+85	TOK	scarce		scarce\JA
+---	DLD	,		=\DELIM
+86	TOK	as		as\DGA7
+87	TOK	is		be\V6FDRS3
+88	TOK	skin		skin\N5S
+89	TOK	for		for\P
+90	TOK	burn		burn\VMI----
+91	TOK	victims		victim\N5P
+92	TOK	and		and\CC
+93	TOK	others		other\RIP3N-
+94	TOK	with		with\P
+95	TOK	wounds		wound\N5P
+96	TOK	that		that\RW63N6
+97	TOK	fail		fail\VMF6R66
+98	TOK	to		to\P
+99	TOK	heal		heal\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+100	TOK	It	BOS	it\RPS3N6
+101	TOK	can		can\VOFDR66
+102	TOK	sometimes		sometimes\DGA7
+103	TOK	be		be\VMI----
+104	TOK	easier		easy\JC
+105	TOK	to		to\P
+106	TOK	repair		repair\VMI----
+107	TOK	a		a\AI---S
+108	TOK	damaged		damage\VMC----
+109	TOK	automobile		automobile\N5S
+110	TOK	than		than\CS
+111	TOK	the		the\AT---6
+112	TOK	vehicle		vehicle\N5S
+113	PGR	's		genmark\GENMARK
+114	TOK	driver		driver\N5S
+115	TOK	because		because\CS
+116	TOK	the		the\AT---6
+117	TOK	former		former\JA
+118	TOK	may		may\VOFDR66
+119	TOK	be		be\VMI----
+120	TOK	rebuilt		rebuild\VMC----
+121	TOK	using		use\VMG----
+122	TOK	spare		spare\JA
+123	TOK	parts		part\N5P
+---	DLD	,		=\DELIM
+124	TOK	a		a\AI---S
+125	TOK	luxury		luxury\N5S
+126	TOK	that		that\CS
+127	TOK	human		human\JA
+128	TOK	beings		being\N5P
+129	TOK	simply		simply\DGA7
+130	TOK	have		have\V6F6R66
+131	TOK	not		not\DGA7
+132	TOK	enjoyed		enjoy\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+133	TOK	An	BOS	an\AI---S
+134	TOK	exciting		exciting\JA
+135	TOK	new		new\JA
+136	TOK	strategy		strategy\N5S
+---	DLD	,		=\DELIM
+137	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+138	TOK	is		be\V6FDRS3
+139	TOK	poised		poise\VMC----
+140	TOK	to		to\P
+141	TOK	revolutionize		revolutionize\VMI----
+142	TOK	the		the\AT---6
+143	TOK	treatment		treatment\N5S
+144	TOK	of		of\P
+145	TOK	patients		patient\N5P
+146	TOK	who		who\RW63N-
+147	TOK	need		need\V6F6R66
+148	TOK	new		new\JA
+149	TOK	vital		vital\JA
+150	TOK	structures		structure\N5P
+---	DLD	:		=\DELIM
+151	TOK	the		the\AT---6
+152	TOK	creation		creation\N5S
+153	TOK	of		of\P
+154	TOK	man		man\N5S
+---	DLI	-		=\DELIM
+155	TOK	made		make\VMC----
+156	TOK	tissues		tissue\N5P
+157	TOK	or		or\CC
+158	TOK	organs		organ\N5P
+---	DLD	,		=\DELIM
+159	TOK	known		know\VMC----
+160	TOK	as		as\P
+161	TOK	neo		neo\N5P
+---	DLI	-		=\DELIM
+162	TOK	organs		organ\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+163	TOK	In	BOS	in\P
+164	TOK	one		one\MCS
+165	TOK	scenario		scenario\N5S
+---	DLD	,		=\DELIM
+166	TOK	a		a\AI---S
+167	TOK	tissue		tissue\N5S
+168	TOK	engineer		engineer\N5S
+169	TOK	injects		inject\VMFDRS3
+170	TOK	or		or\CC
+171	TOK	places		place\VMFDRS3
+172	TOK	a		a\AI---S
+173	TOK	given		give\VMC----
+174	TOK	molecule		molecule\N5S
+---	DLD	,		=\DELIM
+175	TOK	such		such\JA
+176	TOK	as		as\P
+177	TOK	a		a\AI---S
+178	TOK	growth		growth\N5S
+179	TOK	factor		factor\N5S
+---	DLD	,		=\DELIM
+180	TOK	into		into\P
+181	TOK	a		a\AI---S
+182	TOK	wound		wound\N5S
+183	TOK	or		or\CC
+184	TOK	an		an\AI---S
+185	TOK	organ		organ\N5S
+186	TOK	that		that\RW63N6
+187	TOK	requires		require\VMFDRS3
+188	TOK	regeneration		regeneration\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+189	TOK	These	BOS	this\AD---P
+190	TOK	molecules		molecule\N5P
+191	TOK	cause		cause\VMF6R66
+192	TOK	the		the\AT---6
+193	TOK	patient		patient\N5S
+194	PGR	's		genmark\GENMARK
+195	TOK	own		own\JA
+196	TOK	cells		cell\N5P
+197	TOK	to		to\P
+198	TOK	migrate		migrate\VMI----
+199	TOK	into		into\P
+200	TOK	the		the\AT---6
+201	TOK	wound		wound\N5S
+202	TOK	site		site\N5S
+---	DLD	,		=\DELIM
+203	TOK	turn		turn\N5S
+204	TOK	into		into\P
+205	TOK	the		the\AT---6
+206	TOK	right		right\JA
+207	TOK	type		type\N5S
+208	TOK	of		of\P
+209	TOK	cell		cell\N5S
+210	TOK	and		and\CC
+211	TOK	regenerate		regenerate\VMF6R66
+212	TOK	the		the\AT---6
+213	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+214	TOK	In	BOS	in\P
+215	TOK	the		the\AT---6
+216	TOK	second		second\MOS
+---	DLD	,		=\DELIM
+217	TOK	and		and\CC
+218	TOK	more		more\DDC7
+219	TOK	ambitious		ambitious\JA
+---	DLD	,		=\DELIM
+220	TOK	procedure		procedure\N5S
+---	DLD	,		=\DELIM
+221	TOK	the		the\AT---6
+222	TOK	patient		patient\N5S
+223	TOK	receives		receive\VMFDRS3
+224	TOK	cells		cell\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+225	TOK	either		either\CC
+226	TOK	his		his\APS3M6
+227	TOK	or		or\CC
+228	TOK	her		her\APS3F6
+229	TOK	own		own\JA
+230	TOK	or		or\CC
+231	TOK	those		that\RDP3N-
+232	TOK	of		of\P
+233	TOK	a		a\AI---S
+234	TOK	donor		donor\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+235	TOK	that		that\RW63N6
+236	TOK	have		have\V6F6R66
+237	TOK	been		be\VMC----
+238	TOK	harvested		harvest\VMC----
+239	TOK	previously		previously\DGA7
+240	TOK	and		and\CC
+241	TOK	incorporated		incorporate\VMC----
+242	TOK	into		into\P
+243	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+244	TOK	dimensional		dimensional\JA
+245	TOK	scaffolds		scaffold\N5P
+246	TOK	of		of\P
+247	TOK	biodegradable		biodegradable\JA
+248	TOK	polymers		polymer\N5P
+---	DLD	,		=\DELIM
+249	TOK	such		such\JA
+250	TOK	as		as\CS
+251	TOK	those		that\RDP3N-
+252	TOK	used		use\VMC----
+253	TOK	to		to\P
+254	TOK	make		make\VMI----
+255	TOK	dissolvable		dissolvable\JA
+256	TOK	sutures		suture\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+257	TOK	The	BOS	the\AT---6
+258	TOK	entire		entire\JA
+259	TOK	structure		structure\N5S
+260	TOK	of		of\P
+261	TOK	cells		cell\N5P
+262	TOK	and		and\CC
+263	TOK	scaffolding		scaffolding\N5S
+264	TOK	is		be\V6FDRS3
+265	TOK	transplanted		transplant\VMC----
+266	TOK	into		into\P
+267	TOK	the		the\AT---6
+268	TOK	wound		wound\N5S
+269	TOK	site		site\N5S
+---	DLD	,		=\DELIM
+270	TOK	where		where\CS
+271	TOK	the		the\AT---6
+272	TOK	cells		cell\N5P
+273	TOK	replicate		replicate\VMF6R66
+---	DLD	,		=\DELIM
+274	TOK	reorganize		reorganize\VMF6R66
+275	TOK	and		and\CC
+276	TOK	form		form\VMF6R66
+277	TOK	new		new\JA
+278	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+279	TOK	At	BOS	at\P
+280	TOK	the		the\AT---6
+281	TOK	same		same\JA
+282	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+283	TOK	the		the\AT---6
+284	TOK	artificial		artificial\JA
+285	TOK	polymers		polymer\N5P
+286	TOK	break		break\VMF6R66
+287	TOK	down		down\DGA7
+---	DLD	,		=\DELIM
+288	TOK	leaving		leave\VMG----
+289	TOK	only		only\DGA7
+290	TOK	a		a\AI---S
+291	TOK	completely		completely\DGA7
+292	TOK	natural		natural\JA
+293	TOK	final		final\JA
+294	TOK	product		product\N5S
+295	TOK	in		in\P
+296	TOK	the		the\AT---6
+297	TOK	body		body\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+298	TOK	a		a\AI---S
+299	TOK	neo		neo\JA
+---	DLI	-		=\DELIM
+300	TOK	organ		organ\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+301	TOK	The	BOS	the\AT---6
+302	TOK	creation		creation\N5S
+303	TOK	of		of\P
+304	TOK	neo		neo\N5P
+---	DLI	-		=\DELIM
+305	TOK	organs		organ\N5P
+306	TOK	applies		apply\VMFDRS3
+307	TOK	the		the\AT---6
+308	TOK	basic		basic\JA
+309	TOK	knowledge		knowledge\N5S
+310	TOK	gained		gain\VMC----
+311	TOK	in		in\P
+312	TOK	biology		biology\N5S
+313	TOK	over		over\P
+314	TOK	the		the\AT---6
+315	TOK	past		past\JA
+316	TOK	few		few\JA
+317	TOK	decades		decade\N5P
+318	TOK	to		to\P
+319	TOK	the		the\AT---6
+320	TOK	problems		problem\N5P
+321	TOK	of		of\P
+322	TOK	tissue		tissue\N5S
+323	TOK	and		and\CC
+324	TOK	organ		organ\N5S
+325	TOK	reconstruction		reconstruction\N5S
+---	DLD	,		=\DELIM
+326	TOK	just		just\DGA7
+327	TOK	as		as\P
+328	TOK	advances		advance\N5P
+329	TOK	in		in\P
+330	TOK	materials		material\N5P
+331	TOK	science		science\N5S
+332	TOK	make		make\VMF6R66
+333	TOK	possible		possible\JA
+334	TOK	entirely		entirely\DGA7
+335	TOK	new		new\JA
+336	TOK	types		type\N5P
+337	TOK	of		of\P
+338	TOK	architectural		architectural\JA
+339	TOK	design		design\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+340	TOK	Science	BOS	science\N5S
+---	DLI	-		=\DELIM
+341	TOK	fiction		fiction\N5S
+342	TOK	fans		fan\N5P
+343	TOK	are		be\V6FDR66
+344	TOK	often		often\DGA7
+345	TOK	confronted		confront\VMC----
+346	TOK	with		with\P
+347	TOK	the		the\AT---6
+348	TOK	concept		concept\N5S
+349	TOK	of		of\P
+350	TOK	tissue		tissue\N5S
+351	TOK	engineering		engineer\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+352	TOK	Various	BOS	various\JA
+353	TOK	television		television\N5S
+354	TOK	programs		program\N5P
+355	TOK	and		and\CC
+356	TOK	movies		movie\N5P
+357	TOK	have		have\V6F6R66
+358	TOK	pictured		picture\VMC----
+359	TOK	individual		individual\JA
+360	TOK	organs		organ\N5P
+361	TOK	or		or\CC
+362	TOK	whole		whole\JA
+363	TOK	people		people\N56
+---	DLE	(		=\DELIM
+364	TOK	or		or\CC
+365	TOK	aliens		alien\VMFDRS3
+---	DLD	)		=\DELIM
+366	TOK	growing		growing\JA
+367	TOK	from		from\P
+##	TAG	<loc pos="RP63N-">
+368	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+369	TOK	isolated		isolate\VMC----
+370	TOK	cells		cell\N5P
+371	TOK	in		in\P
+372	TOK	a		a\AI---S
+373	TOK	vat		vat\N5S
+374	TOK	of		of\P
+375	TOK	some		some\AG---6
+376	TOK	powerful		powerful\JA
+377	TOK	nutrient		nutrient\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+378	TOK	Tissue	BOS	tissue\N5S
+379	TOK	engineering		engineering\N5S
+380	TOK	does		do\V6FDRS3
+381	TOK	not		not\DGA7
+382	TOK	yet		yet\DGA7
+383	TOK	rival		rival\VMI----
+384	TOK	these		this\AD---P
+385	TOK	fictional		fictional\JA
+386	TOK	presentations		presentation\N5P
+---	DLD	,		=\DELIM
+387	TOK	but		but\CC
+388	TOK	a		a\AI---S
+389	TOK	glimpse		glimpse\N5S
+390	TOK	of		of\P
+391	TOK	the		the\AT---6
+392	TOK	future		future\N5S
+393	TOK	has		have\V6FDRS3
+394	TOK	already		already\DGA7
+395	TOK	arrived		arrive\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+396	TOK	The	BOS	the\AT---6
+397	TOK	creation		creation\N5S
+398	TOK	of		of\P
+399	TOK	tissue		tissue\N5S
+400	TOK	for		for\P
+401	TOK	medical		medical\JA
+402	TOK	use		use\N5S
+403	TOK	is		be\V6FDRS3
+404	TOK	already		already\DGA7
+405	TOK	a		a\AI---S
+406	TOK	fact		fact\N5S
+---	DLD	,		=\DELIM
+407	TOK	to		to\P
+408	TOK	a		a\AI---S
+409	TOK	limited		limit\VMC----
+410	TOK	extent		extent\N5S
+---	DLD	,		=\DELIM
+411	TOK	in		in\P
+412	TOK	hospitals		hospital\N5P
+413	TOK	across		across\P
+414	TOK	the		the\AT---6
+##	TAG	<name>
+415	TOK	U.S		U.S\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+416	TOK	These	BOS	this\AD---P
+417	TOK	groundbreaking		groundbreaking\JA
+418	TOK	applications		application\N5P
+419	TOK	involve		involve\VMF6R66
+420	TOK	fabricated		fabricate\VMC----
+421	TOK	skin		skin\N5S
+---	DLD	,		=\DELIM
+422	TOK	cartilage		cartilage\N5S
+---	DLD	,		=\DELIM
+423	TOK	bone		bone\N5S
+---	DLD	,		=\DELIM
+424	TOK	ligament		ligament\N5S
+425	TOK	and		and\CC
+426	TOK	tendon		tendon\N5S
+427	TOK	and		and\CC
+428	TOK	make		make\VMF6R66
+429	TOK	musings		musing\N5P
+430	TOK	of		of\P
+---	DLE	"		=\DELIM
+431	TOK	off		off\P
+---	DLI	-		=\DELIM
+432	TOK	the		the\AT---6
+---	DLI	-		=\DELIM
+433	TOK	shelf		shelf\N5S
+---	DLD	"		=\DELIM
+434	TOK	whole		whole\JA
+435	TOK	organs		organ\N5P
+436	TOK	seem		seem\VMF6R66
+437	TOK	less		less\DDC7
+438	TOK	than		than\CS
+439	TOK	far		far\DGA7
+---	DLI	-		=\DELIM
+440	TOK	fetched		fetch\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+441	TOK	Indeed	BOS	indeed\DGA7
+---	DLD	,		=\DELIM
+442	TOK	evidence		evidence\N5S
+443	TOK	abounds		abound\VMFDRS3
+444	TOK	that		that\CS
+445	TOK	it		it\RPS3N6
+446	TOK	is		be\V6FDRS3
+##	TAG	<loc pos="DGA7">
+447	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+448	TOK	theoretically		theoretically\DGA7
+449	TOK	possible		possible\JA
+450	TOK	to		to\P
+451	TOK	engineer		engineer\N5S
+452	TOK	large		large\JA
+---	DLD	,		=\DELIM
+453	TOK	complex		complex\JA
+454	TOK	organs		organ\N5P
+455	TOK	such		such\RIS3N-
+456	TOK	as		as\P
+457	TOK	livers		liver\N5P
+---	DLD	,		=\DELIM
+458	TOK	kidneys		kidney\N5P
+---	DLD	,		=\DELIM
+459	TOK	breasts		breast\N5P
+---	DLD	,		=\DELIM
+460	TOK	bladders		bladder\N5P
+461	TOK	and		and\CC
+462	TOK	intestines		intestine\N5P
+---	DLD	,		=\DELIM
+463	TOK	all		all\AG---6
+464	TOK	of		of\P
+465	TOK	which		which\RW63N-
+466	TOK	include		include\VMF6R66
+467	TOK	many		many\AI---P
+468	TOK	different		different\JA
+469	TOK	kinds		kind\N5P
+470	TOK	of		of\P
+471	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+472	TOK	The	BOS	the\AT---6
+473	TOK	proof		proof\N5S
+474	TOK	can		can\VOFDR66
+475	TOK	be		be\VMI----
+476	TOK	found		find\VMC----
+477	TOK	in		in\P
+478	TOK	any		any\AG---6
+479	TOK	expectant		expectant\JA
+480	TOK	mother		mother\N5S
+481	PGR	's		genmark\GENMARK
+482	TOK	womb		womb\N5S
+---	DLD	,		=\DELIM
+483	TOK	where		where\CS
+484	TOK	a		a\AI---S
+485	TOK	small		small\JA
+486	TOK	group		group\N5S
+487	TOK	of		of\P
+488	TOK	undifferentiated		undifferentiated\JA
+489	TOK	cells		cell\N5P
+490	TOK	finds		find\VMFDRS3
+491	TOK	the		the\AT---6
+492	TOK	way		way\N5S
+493	TOK	to		to\P
+494	TOK	develop		develop\VMI----
+495	TOK	into		into\P
+496	TOK	a		a\AI---S
+497	TOK	complex		complex\JA
+498	TOK	individual		individual\N5S
+499	TOK	with		with\P
+500	TOK	multiple		multiple\JA
+501	TOK	organs		organ\N5P
+502	TOK	and		and\CC
+503	TOK	tissues		tissue\N5P
+504	TOK	with		with\P
+505	TOK	vastly		vastly\DGA7
+506	TOK	different		different\JA
+507	TOK	properties		property\N5P
+508	TOK	and		and\CC
+509	TOK	functions		function\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+510	TOK	Barring	BOS	bar\VMG----
+511	TOK	any		any\AG---6
+512	TOK	unforeseen		unforeseen\JA
+513	TOK	impediments		impediment\N5P
+---	DLD	,		=\DELIM
+514	TOK	teasing		tease\VMG----
+515	TOK	out		out\DGA7
+516	TOK	the		the\AT---6
+517	TOK	details		detail\N5P
+518	TOK	of		of\P
+519	TOK	the		the\AT---6
+520	TOK	process		process\N5S
+521	TOK	by		by\P
+522	TOK	which		which\RW63N-
+523	TOK	a		a\AI---S
+524	TOK	liver		liver\N5S
+525	TOK	becomes		become\VMFDRS3
+526	TOK	a		a\AI---S
+527	TOK	liver		live\JC
+---	DLD	,		=\DELIM
+528	TOK	or		or\CC
+529	TOK	a		a\AI---S
+530	TOK	lung		lung\N5S
+531	TOK	a		a\AI---S
+532	TOK	lung		lung\N5S
+---	DLD	,		=\DELIM
+533	TOK	will		will\VOFDR66
+534	TOK	eventually		eventually\DGA7
+535	TOK	allow		allow\VMI----
+536	TOK	researchers		researcher\N5P
+537	TOK	to		to\P
+538	TOK	replicate		replicate\VMI----
+539	TOK	that		that\AD---S
+540	TOK	process		process\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+541	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+542	TOK	Pinch of Protein	EOS	Pinch_of_Protein\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+544	TOK	Cells	BOS	cell\N5P
+545	TOK	behave		behave\VMF6R66
+546	TOK	in		in\P
+547	TOK	predictable		predictable\JA
+548	TOK	ways		way\N5P
+549	TOK	when		when\CS
+550	TOK	exposed		expose\VMC----
+551	TOK	to		to\P
+552	TOK	particular		particular\JA
+553	TOK	biochemical		biochemical\JA
+554	TOK	factors		factor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+555	TOK	In	BOS	in\P
+556	TOK	the		the\AT---6
+557	TOK	simpler		simple\JC
+558	TOK	technique		technique\N5S
+559	TOK	for		for\P
+560	TOK	growing		grow\VMG----
+561	TOK	new		new\JA
+562	TOK	tissue		tissue\N5S
+---	DLD	,		=\DELIM
+563	TOK	the		the\AT---6
+564	TOK	engineer		engineer\N5S
+565	TOK	exposes		expose\VMFDRS3
+566	TOK	a		a\AI---S
+567	TOK	wound		wound\N5S
+568	TOK	or		or\CC
+569	TOK	damaged		damage\VMC----
+570	TOK	organ		organ\N5S
+571	TOK	to		to\P
+572	TOK	factors		factor\N5P
+573	TOK	that		that\RW63N6
+574	TOK	act		act\VMF6R66
+575	TOK	as		as\P
+576	TOK	proponents		proponent\N5P
+577	TOK	of		of\P
+578	TOK	healing		healing\N5S
+579	TOK	or		or\CC
+580	TOK	regeneration		regeneration\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+581	TOK	This	BOS	this\AD---S
+582	TOK	concept		concept\N5S
+583	TOK	is		be\V6FDRS3
+584	TOK	based		base\VMC----
+585	TOK	on		on\P
+##	TAG	<num>
+586	TOK	two		two\X
+##	TAG	</num>
+587	TOK	key		key\N5S
+588	TOK	observations		observation\N5P
+---	DLD	,		=\DELIM
+589	TOK	in		in\P
+590	TOK	bones		bone\N5P
+591	TOK	and		and\CC
+592	TOK	in		in\P
+593	TOK	blood		blood\N5S
+594	TOK	vessels		vessel\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+595	TOK	In	BOS	in\P
+##	TAG	<num>
+596	TOK	1965		1965\X
+##	TAG	</num>
+##	TAG	<name>
+597	TOK	Marshall R. Urist		Marshall_R._Urist\N46
+##	TAG	</name>
+598	TOK	of		of\P
+599	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+600	TOK	University of California		University_of_California\N46
+##	TAG	</name>
+601	TOK	at		at\P
+##	TAG	<name>
+602	TOK	Los Angeles		Los_Angeles\N46
+##	TAG	</name>
+603	TOK	demonstrated		demonstrate\VMF6A66
+604	TOK	that		that\CS
+605	TOK	new		new\JA
+---	DLD	,		=\DELIM
+606	TOK	bony		bony\JA
+607	TOK	tissue		tissue\N5S
+608	TOK	would		will\VOFDA66
+609	TOK	form		form\VMI----
+610	TOK	in		in\P
+611	TOK	animals		animal\N5P
+612	TOK	that		that\RW63N6
+613	TOK	received		receive\VMF6A66
+614	TOK	implants		implant\N5P
+615	TOK	of		of\P
+616	TOK	powdered		powder\VMC----
+617	TOK	bone		bone\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+618	TOK	His	BOS	his\APS3M6
+619	TOK	observation		observation\N5S
+620	TOK	led		lead\VMC----
+621	TOK	to		to\P
+622	TOK	the		the\AT---6
+623	TOK	isolation		isolation\N5S
+624	TOK	of		of\P
+625	TOK	the		the\AT---6
+626	TOK	specific		specific\JA
+627	TOK	proteins		protein\N5P
+---	DLE	(		=\DELIM
+628	TOK	the		the\AT---6
+629	TOK	bone		bone\N5S
+630	TOK	morphogenetic		morphogenetic\JA
+631	TOK	proteins		protein\N5P
+---	DLE	,		=\DELIM
+632	TOK	or		or\CC
+##	TAG	<name>
+633	TOK	BMPs		BMPs\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+634	TOK	responsible		responsible\JA
+635	TOK	for		for\P
+636	TOK	this		this\AD---S
+637	TOK	activity		activity\N5S
+638	TOK	and		and\CC
+639	TOK	the		the\AT---6
+640	TOK	determination		determination\N5S
+641	TOK	of		of\P
+642	TOK	the		the\AT---6
+##	TAG	<name>
+643	TOK	DNA		DNA\N46
+##	TAG	</name>
+644	TOK	sequences		sequence\N5P
+645	TOK	of		of\P
+646	TOK	the		the\AT---6
+647	TOK	relevant		relevant\JA
+648	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+649	TOK	A	BOS	a\AI---S
+650	TOK	number		number\N5S
+651	TOK	of		of\P
+652	TOK	companies		company\N5P
+653	TOK	subsequently		subsequently\DGA7
+654	TOK	began		begin\VMF6A66
+655	TOK	to		to\P
+656	TOK	produce		produce\VMI----
+657	TOK	large		large\JA
+658	TOK	quantities		quantity\N5P
+659	TOK	of		of\P
+660	TOK	recombinant		recombinant\N5S
+661	TOK	human		human\JA
+##	TAG	<name>
+662	TOK	BMPs		BMPs\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+663	TOK	the		the\AT---6
+664	TOK	genes		gene\N5P
+665	TOK	coding		code\VMG----
+666	TOK	for		for\P
+##	TAG	<name>
+667	TOK	BMPs		BMPs\N46
+##	TAG	</name>
+668	TOK	were		be\V6F-A66
+669	TOK	inserted		insert\VMC----
+670	TOK	into		into\P
+671	TOK	mammalian		mammalian\JA
+672	TOK	cell		cell\N5S
+673	TOK	lines		line\N5P
+674	TOK	that		that\RW63N6
+675	TOK	then		then\DGA7
+676	TOK	produced		produce\VMF6A66
+677	TOK	the		the\AT---6
+678	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+679	TOK	Various	BOS	various\JA
+680	TOK	clinical		clinical\JA
+681	TOK	trials		trial\N5P
+682	TOK	are		be\V6FDR66
+683	TOK	under		under\P
+684	TOK	way		way\N5S
+685	TOK	to		to\P
+686	TOK	test		test\VMI----
+687	TOK	the		the\AT---6
+688	TOK	ability		ability\N5S
+689	TOK	of		of\P
+690	TOK	these		this\AD---P
+691	TOK	bone		bone\N5S
+692	TOK	growth		growth\N5S
+693	TOK	promoters		promoter\N5P
+694	TOK	to		to\P
+695	TOK	regenerate		regenerate\VMI----
+696	TOK	bony		bony\JA
+697	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+698	TOK	Applications	BOS	application\N5P
+699	TOK	of		of\P
+700	TOK	this		this\AD---S
+701	TOK	approach		approach\N5S
+702	TOK	that		that\RW63N6
+703	TOK	are		be\V6FDR66
+704	TOK	currently		currently\DGA7
+705	TOK	being		be\VMG----
+706	TOK	tested		test\VMC----
+707	TOK	include		include\VMF6R66
+708	TOK	healing		heal\VMG----
+709	TOK	acute		acute\JA
+710	TOK	bone		bone\N5S
+711	TOK	fractures		fracture\N5P
+712	TOK	caused		cause\VMC----
+713	TOK	by		by\P
+714	TOK	accidents		accident\N5P
+715	TOK	and		and\CC
+716	TOK	boosting		boost\VMG----
+717	TOK	the		the\AT---6
+718	TOK	regeneration		regeneration\N5S
+719	TOK	of		of\P
+720	TOK	diseased		diseased\JA
+721	TOK	periodontal		periodontal\JA
+722	TOK	tissues		tissue\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+723	TOK	Creative	BOS	creative\JA
+##	TAG	<name>
+724	TOK	BioMolecules		BioMolecules\N46
+##	TAG	</name>
+725	TOK	in		in\P
+##	TAG	<name>
+726	TOK	Hopkinton		Hopkinton\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+727	TOK	Mass.		Mass.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+728	TOK	recently		recently\DGA7
+729	TOK	completed		complete\VMF6A66
+730	TOK	clinical		clinical\JA
+731	TOK	trials		trial\N5P
+732	TOK	showing		show\VMG----
+733	TOK	that		that\CS
+##	TAG	<name>
+734	TOK	BMP		BMP\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+735	TOK	7		7\X
+##	TAG	</num>
+736	TOK	does		do\V6FDRS3
+737	TOK	indeed		indeed\DGA7
+738	TOK	help		help\VMI----
+739	TOK	heal		heal\VMF6R66
+740	TOK	severe		severe\JA
+741	TOK	bone		bone\N5S
+742	TOK	fractures		fracture\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+743	TOK	This	BOS	this\AD---S
+744	TOK	trial		trial\N5S
+745	TOK	followed		follow\VMF6A66
+##	TAG	<num>
+746	TOK	122		122\X
+##	TAG	</num>
+747	TOK	patients		patient\N5P
+748	TOK	with		with\P
+749	TOK	leg		leg\N5S
+750	TOK	fractures		fracture\N5P
+751	TOK	in		in\P
+752	TOK	which		which\RW63N-
+753	TOK	the		the\AT---6
+754	TOK	sections		section\N5P
+755	TOK	failed		fail\VMC----
+756	TOK	to		to\P
+757	TOK	rejoin		rejoin\VMI----
+758	TOK	after		after\P
+##	TAG	<num>
+759	TOK	nine		nine\X
+##	TAG	</num>
+760	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+761	TOK	Patients	BOS	patient\N5P
+762	TOK	whose		whose\AW---6
+763	TOK	healing		healing\N5S
+764	TOK	was		be\V6F-A66
+765	TOK	encouraged		encourage\VMC----
+766	TOK	by		by\P
+##	TAG	<name>
+767	TOK	BMP		BMP\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+768	TOK	7		7\X
+##	TAG	</num>
+769	TOK	did		do\V6FDA66
+##	TAG	<loc pos="DGA7">
+770	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+771	TOK	those		that\RDP3N-
+772	TOK	who		who\RW63N-
+773	TOK	received		receive\VMF6A66
+774	TOK	a		a\AI---S
+775	TOK	surgical		surgical\JA
+776	TOK	graft		graft\N5S
+777	TOK	of		of\P
+778	TOK	bone		bone\N5S
+779	TOK	harvested		harvest\VMC----
+780	TOK	from		from\P
+781	TOK	another		another\JA
+782	TOK	part		part\N5S
+783	TOK	of		of\P
+784	TOK	their		their\APP3N6
+785	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+786	TOK	A	BOS	a\AI---S
+787	TOK	critical		critical\JA
+788	TOK	challenge		challenge\N5S
+789	TOK	in		in\P
+790	TOK	engineering		engineering\N5S
+791	TOK	neo		neo\N5P
+---	DLI	-		=\DELIM
+792	TOK	organs		organ\N5P
+793	TOK	is		be\V6FDRS3
+794	TOK	feeding		feed\VMG----
+795	TOK	every		every\AG---S
+796	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+797	TOK	Tissues	BOS	tissue\N5P
+798	TOK	more		more\DDC7
+799	TOK	than		than\CS
+##	TAG	<loc pos="RP63N-">
+800	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+801	TOK	millimeters		millimeter\N5P
+802	TOK	thick		thick\DGA7
+803	TOK	require		require\VMF6R66
+804	TOK	blood		blood\N5S
+805	TOK	vessels		vessel\N5P
+806	TOK	to		to\P
+807	TOK	grow		grow\VMI----
+808	TOK	into		into\P
+809	TOK	them		them\RPP3NA
+810	TOK	and		and\CC
+811	TOK	supply		supply\N5S
+812	TOK	nutrients		nutrient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+813	TOK	Fortunately	BOS	fortunately\DGA7
+---	DLD	,		=\DELIM
+814	TOK	investigations		investigation\N5P
+815	TOK	by		by\P
+##	TAG	<name>
+816	TOK	Judah Folkman		Judah_Folkman\N46
+##	TAG	</name>
+817	TOK	have		have\V6F6R66
+818	TOK	shown		show\VMC----
+819	TOK	that		that\CS
+820	TOK	cells		cell\N5P
+821	TOK	already		already\DGA7
+822	TOK	in		in\P
+823	TOK	the		the\AT---6
+824	TOK	body		body\N5S
+825	TOK	can		can\VOFDR66
+826	TOK	be		be\VMI----
+827	TOK	coaxed		coax\VMC----
+828	TOK	into		into\P
+829	TOK	producing		produce\VMG----
+830	TOK	new		new\JA
+831	TOK	blood		blood\N5S
+832	TOK	vessels		vessel\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+833	TOK	Folkman	BOS	Folkman\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+834	TOK	a		a\AI---S
+835	TOK	cancer		cancer\N5S
+836	TOK	researcher		researcher\N5S
+837	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+838	TOK	Harvard Medical School's Children's Hospital		Harvard_Medical_School's_Children's_Hospital\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+839	TOK	recognized		recognize\VMC----
+840	TOK	this		this\AD---S
+841	TOK	possibility		possibility\N5S
+842	TOK	almost		almost\DGA7
+##	TAG	<num>
+843	TOK	three		three\X
+##	TAG	</num>
+844	TOK	decades		decade\N5P
+845	TOK	ago		ago\DGA7
+846	TOK	in		in\P
+847	TOK	studies		study\N5P
+848	TOK	aimed		aim\VMF6A66
+---	DLD	,		=\DELIM
+849	TOK	ironically		ironically\DGA7
+---	DLD	,		=\DELIM
+850	TOK	at		at\P
+851	TOK	the		the\AT---6
+852	TOK	prevention		prevention\N5S
+853	TOK	of		of\P
+854	TOK	cellular		cellular\JA
+855	TOK	growth		growth\N5S
+856	TOK	in		in\P
+857	TOK	the		the\AT---6
+858	TOK	form		form\N5S
+859	TOK	of		of\P
+860	TOK	cancerous		cancerous\JA
+861	TOK	tumors		tumor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+862	TOK	Folkman	BOS	Folkman\N46
+##	TAG	</name>
+863	TOK	perceived		perceive\VMC----
+864	TOK	that		that\CS
+865	TOK	developing		developing\JA
+866	TOK	tumors		tumor\N5P
+867	TOK	need		need\V6F6R66
+868	TOK	to		to\P
+869	TOK	grow		grow\VMI----
+870	TOK	their		their\APP3N6
+871	TOK	own		own\JA
+872	TOK	blood		blood\N5S
+873	TOK	vessels		vessel\N5P
+874	TOK	to		to\P
+875	TOK	supply		supply\VMI----
+876	TOK	themselves		themselves\RXP3N-
+877	TOK	with		with\P
+878	TOK	nutrients		nutrient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+879	TOK	In	BOS	in\P
+##	TAG	<num>
+880	TOK	1972		1972\X
+##	TAG	</num>
+881	TOK	he		he\RPS3MN
+882	TOK	proposed		propose\VMF6A66
+883	TOK	that		that\CS
+884	TOK	specific		specific\JA
+885	TOK	molecules		molecule\N5P
+886	TOK	could		can\VOFDA66
+887	TOK	be		be\VMI----
+888	TOK	used		use\VMC----
+889	TOK	to		to\P
+890	TOK	inhibit		inhibit\VMI----
+891	TOK	such		such\JA
+892	TOK	vessel		vessel\N5S
+893	TOK	growth		growth\N5S
+---	DLD	,		=\DELIM
+894	TOK	or		or\CC
+895	TOK	angiogenesis		angiogenesis\N5S
+---	DLD	,		=\DELIM
+896	TOK	and		and\CC
+897	TOK	perhaps		perhaps\DGA7
+898	TOK	starve		starve\VMF6R66
+##	TAG	<abbr>
+899	TOK	tumors.		tumors.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+900	TOK	This		This\N5P
+901	TOK	avenue		avenue\N5S
+902	TOK	of		of\P
+903	TOK	attack		attack\N5S
+904	TOK	against		against\P
+905	TOK	cancer		cancer\N5S
+906	TOK	became		become\VMF6A66
+907	TOK	a		a\AI---S
+908	TOK	major		major\JA
+909	TOK	news		news\N56
+910	TOK	story		story\N5S
+911	TOK	in		in\P
+##	TAG	<num>
+912	TOK	1998		1998\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+---	DLE	)		=\DELIM
+##	TAG	<name>
+913	TOK	Realizing		Realizing\N46
+##	TAG	</name>
+914	TOK	that		that\CS
+915	TOK	other		other\JA
+916	TOK	molecules		molecule\N5P
+917	TOK	would		will\VOFDA66
+918	TOK	undoubtedly		undoubtedly\DGA7
+919	TOK	abet		abet\VMI----
+920	TOK	angiogenesis		angiogenesis\N5S
+---	DLD	,		=\DELIM
+921	TOK	he		he\RPS3MN
+922	TOK	and		and\CC
+923	TOK	others		other\RIP3N-
+924	TOK	have		have\V6F6R66
+925	TOK	subsequently		subsequently\DGA7
+926	TOK	identified		identify\VMC----
+927	TOK	a		a\AI---S
+928	TOK	number		number\N5S
+929	TOK	of		of\P
+930	TOK	factors		factor\N5P
+931	TOK	in		in\P
+932	TOK	each		each\AG---S
+933	TOK	category		category\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+934	TOK	That	BOS	that\CS
+935	TOK	work		work\N5S
+936	TOK	is		be\V6FDRS3
+937	TOK	now		now\DGA7
+938	TOK	being		be\VMG----
+939	TOK	exploited		exploit\VMC----
+940	TOK	by		by\P
+941	TOK	tissue		tissue\N5S
+942	TOK	engineers		engineer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+943	TOK	Many	BOS	many\AI---P
+944	TOK	angiogenesis		angiogenesis\N5S
+---	DLI	-		=\DELIM
+945	TOK	stimulating		stimulate\VMG----
+946	TOK	molecules		molecule\N5P
+947	TOK	are		be\V6FDR66
+948	TOK	commercially		commercially\DGA7
+949	TOK	available		available\JA
+950	TOK	in		in\P
+951	TOK	recombinant		recombinant\N5S
+952	TOK	form		form\VMF6R66
+---	DLD	,		=\DELIM
+953	TOK	and		and\CC
+954	TOK	animal		animal\N5S
+955	TOK	studies		study\N5P
+956	TOK	have		have\V6F6R66
+957	TOK	shown		show\VMC----
+958	TOK	that		that\CS
+959	TOK	such		such\JA
+960	TOK	molecules		molecule\N5P
+961	TOK	promote		promote\VMF6R66
+962	TOK	the		the\AT---6
+963	TOK	growth		growth\N5S
+964	TOK	of		of\P
+965	TOK	new		new\JA
+966	TOK	blood		blood\N5S
+967	TOK	vessels		vessel\N5P
+968	TOK	that		that\RW63N6
+969	TOK	bypass		bypass\VMF6R66
+970	TOK	blockages		blockage\N5P
+971	TOK	in		in\P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+972	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+973	TOK	the		the\AT---6
+974	TOK	coronary		coronary\JA
+975	TOK	artery		artery\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+976	TOK	Small	BOS	small\JA
+---	DLI	-		=\DELIM
+977	TOK	scale		scale\N5S
+978	TOK	trials		trial\N5P
+979	TOK	are		be\V6FDR66
+980	TOK	also		also\DGA7
+981	TOK	under		under\P
+982	TOK	way		way\N5S
+983	TOK	to		to\P
+984	TOK	test		test\VMI----
+985	TOK	this		this\AD---S
+986	TOK	approach		approach\N5S
+987	TOK	in		in\P
+988	TOK	the		the\AT---6
+989	TOK	treatment		treatment\N5S
+990	TOK	of		of\P
+991	TOK	similar		similar\JA
+992	TOK	conditions		condition\N5P
+993	TOK	in		in\P
+994	TOK	human		human\JA
+995	TOK	subjects		subject\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+996	TOK	Scientists	BOS	scientist\N5P
+997	TOK	must		must\VOFDR66
+998	TOK	surmount		surmount\VMI----
+##	TAG	<loc pos="RP63N-">
+999	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+1000	TOK	obstacles		obstacle\N5P
+---	DLD	,		=\DELIM
+1001	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+1002	TOK	before		before\P
+1003	TOK	drugs		drug\N5P
+1004	TOK	that		that\RW63N6
+1005	TOK	promote		promote\VMF6R66
+1006	TOK	tissue		tissue\N5S
+1007	TOK	and		and\CC
+1008	TOK	organ		organ\N5S
+1009	TOK	formation		formation\N5S
+1010	TOK	become		become\VMF6R66
+1011	TOK	commonplace		commonplace\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1012	TOK	To	BOS	to\P
+1013	TOK	date		date\VMI----
+---	DLD	,		=\DELIM
+1014	TOK	only		only\DGA7
+1015	TOK	the		the\AT---6
+1016	TOK	factors		factor\N5P
+1017	TOK	responsible		responsible\JA
+1018	TOK	for		for\P
+1019	TOK	bone		bone\N5S
+1020	TOK	and		and\CC
+1021	TOK	blood		blood\N5S
+1022	TOK	vessel		vessel\N5S
+1023	TOK	growth		growth\N5S
+1024	TOK	have		have\V6F6R66
+1025	TOK	been		be\VMC----
+1026	TOK	characterized		characterize\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1027	TOK	To	BOS	to\P
+1028	TOK	regenerate		regenerate\VMI----
+1029	TOK	other		other\JA
+1030	TOK	organs		organ\N5P
+---	DLD	,		=\DELIM
+1031	TOK	such		such\JA
+1032	TOK	as		as\P
+1033	TOK	a		a\AI---S
+1034	TOK	liver		live\JC
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1035	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1036	TOK	the		the\AT---6
+1037	TOK	specific		specific\JA
+1038	TOK	molecules		molecule\N5P
+1039	TOK	for		for\P
+1040	TOK	their		their\APP3N6
+1041	TOK	development		development\N5S
+1042	TOK	must		must\VOFDR66
+1043	TOK	be		be\VMI----
+1044	TOK	identified		identify\VMC----
+1045	TOK	and		and\CC
+1046	TOK	produced		produce\VMC----
+1047	TOK	reliably		reliably\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1048	TOK	An	BOS	an\AI---S
+1049	TOK	additional		additional\JA
+---	DLD	,		=\DELIM
+1050	TOK	practical		practical\JA
+1051	TOK	issue		issue\N5S
+1052	TOK	is		be\V6FDRS3
+1053	TOK	how		how\DGAW
+1054	TOK	best		good\DDS7
+1055	TOK	to		to\P
+1056	TOK	administer		administer\VMI----
+1057	TOK	the		the\AT---6
+1058	TOK	substances		substance\N5P
+1059	TOK	that		that\RW63N6
+1060	TOK	would		will\VOFDA66
+1061	TOK	shape		shape\VMI----
+1062	TOK	organ		organ\N5S
+1063	TOK	regeneration		regeneration\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1064	TOK	Researchers	BOS	researcher\N5P
+1065	TOK	must		must\VOFDR66
+1066	TOK	answer		answer\VMI----
+1067	TOK	these		this\AD---P
+1068	TOK	questions		question\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1069	TOK	What	BOS	what\AW---6
+1070	TOK	specific		specific\JA
+1071	TOK	concentrations		concentration\N5P
+1072	TOK	of		of\P
+1073	TOK	the		the\AT---6
+1074	TOK	molecules		molecule\N5P
+1075	TOK	are		be\V6FDR66
+1076	TOK	needed		need\VMC----
+1077	TOK	for		for\P
+1078	TOK	the		the\AT---6
+1079	TOK	desired		desire\VMC----
+1080	TOK	effect		effect\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1081	TOK	How	BOS	how\DGAW
+1082	TOK	long		long\JA
+1083	TOK	should		shall\VOFDA66
+1084	TOK	the		the\AT---6
+1085	TOK	cells		cell\N5P
+1086	TOK	be		be\VMI----
+1087	TOK	exposed		expose\VMC----
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1088	TOK	How	BOS	how\DGAW
+1089	TOK	long		long\DGA7
+1090	TOK	will		will\VOFDR66
+1091	TOK	the		the\AT---6
+1092	TOK	factors		factor\N5P
+1093	TOK	be		be\VMI----
+1094	TOK	active		active\JA
+1095	TOK	in		in\P
+1096	TOK	the		the\AT---6
+1097	TOK	body		body\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1098	TOK	Certainly	BOS	certainly\DGA7
+1099	TOK	multiple		multiple\JA
+1100	TOK	factors		factor\N5P
+1101	TOK	will		will\VOFDR66
+1102	TOK	be		be\VMI----
+1103	TOK	needed		need\VMC----
+1104	TOK	for		for\P
+1105	TOK	complex		complex\JA
+1106	TOK	organs		organ\N5P
+---	DLD	,		=\DELIM
+1107	TOK	but		but\CC
+1108	TOK	when		when\DGAW
+1109	TOK	exactly		exactly\DGA7
+1110	TOK	in		in\P
+1111	TOK	the		the\AT---6
+1112	TOK	development		development\N5S
+1113	TOK	of		of\P
+1114	TOK	the		the\AT---6
+1115	TOK	organ		organ\N5S
+1116	TOK	does		do\V6FDRS3
+1117	TOK	one		one\MCS
+1118	TOK	factor		factor\N5S
+1119	TOK	need		need\N5S
+1120	TOK	to		to\P
+1121	TOK	replace		replace\VMI----
+1122	TOK	another		another\RIS3N-
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1123	TOK	Controlled	BOS	control\VMC----
+1124	TOK	drug		drug\N5S
+---	DLI	-		=\DELIM
+1125	TOK	delivery		delivery\N5S
+1126	TOK	technology		technology\N5S
+1127	TOK	such		such\RIS3N-
+1128	TOK	as		as\P
+1129	TOK	transdermal		transdermal\JA
+1130	TOK	patches		patch\N5P
+1131	TOK	developed		develop\VMC----
+1132	TOK	by		by\P
+1133	TOK	the		the\AT---6
+1134	TOK	pharmaceutical		pharmaceutical\JA
+1135	TOK	industry		industry\N5S
+1136	TOK	will		will\VOFDR66
+1137	TOK	surely		surely\DGA7
+1138	TOK	aid		aid\VMI----
+1139	TOK	efforts		effort\N5P
+1140	TOK	to		to\P
+1141	TOK	resolve		resolve\VMI----
+1142	TOK	these		this\AD---P
+1143	TOK	concerns		concern\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1144	TOK	In	BOS	in\P
+1145	TOK	particular		particular\JA
+---	DLD	,		=\DELIM
+1146	TOK	injectable		injectable\JA
+1147	TOK	polymers		polymer\N5P
+1148	TOK	may		may\VOFDR66
+1149	TOK	facilitate		facilitate\VMI----
+1150	TOK	the		the\AT---6
+1151	TOK	delivery		delivery\N5S
+1152	TOK	of		of\P
+1153	TOK	bioactive		bioactive\JA
+1154	TOK	molecules		molecule\N5P
+1155	TOK	where		where\CS
+1156	TOK	they		they\RPP3NN
+1157	TOK	are		be\V6FDR66
+1158	TOK	needed		need\VMC----
+---	DLD	,		=\DELIM
+1159	TOK	with		with\P
+1160	TOK	minimal		minimal\JA
+1161	TOK	surgical		surgical\JA
+1162	TOK	intervention		intervention\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1163	TOK	Michael J. Yaszemski	BOS	Michael_J._Yaszemski\N46
+##	TAG	</name>
+1164	TOK	of		of\P
+1165	TOK	the		the\AT---6
+##	TAG	<name>
+1166	TOK	Mayo Clinic		Mayo_Clinic\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1167	TOK	Alan W. Yasko		Alan_W._Yasko\N46
+##	TAG	</name>
+1168	TOK	of		of\P
+1169	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+1170	TOK	M. D. Anderson Cancer Center		M._D._Anderson_Cancer_Center\N46
+##	TAG	</name>
+1171	TOK	in		in\P
+##	TAG	<name>
+1172	TOK	Houston		Houston\N46
+##	TAG	</name>
+1173	TOK	and		and\CC
+1174	TOK	one		one\MCS
+1175	TOK	of		of\P
+1176	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1177	TOK	Mikos		Mikos\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1178	TOK	are		be\V6FDR66
+1179	TOK	developing		develop\VMG----
+1180	TOK	new		new\JA
+1181	TOK	injectable		injectable\JA
+1182	TOK	biodegradable		biodegradable\JA
+1183	TOK	polymers		polymer\N5P
+1184	TOK	for		for\P
+1185	TOK	orthopedic		orthopedic\JA
+1186	TOK	applications		application\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1187	TOK	The	BOS	the\AT---6
+1188	TOK	polymers		polymer\N5P
+1189	TOK	are		be\V6FDR66
+1190	TOK	moldable		moldable\JA
+---	DLD	,		=\DELIM
+1191	TOK	so		so\DGA7
+1192	TOK	they		they\RPP3NN
+1193	TOK	can		can\VOFDR66
+1194	TOK	fill		fill\VMI----
+1195	TOK	irregularly		irregularly\DGA7
+1196	TOK	shaped		shape\VMC----
+1197	TOK	defects		defect\N5P
+---	DLD	,		=\DELIM
+1198	TOK	and		and\CC
+1199	TOK	they		they\RPP3NN
+1200	TOK	harden		harden\VMF6R66
+1201	TOK	in		in\P
+##	TAG	<num>
+1202	TOK	10		10\X
+##	TAG	</num>
+1203	TOK	to		to\P
+##	TAG	<num>
+1204	TOK	15		15\X
+##	TAG	</num>
+1205	TOK	minutes		minute\N5P
+1206	TOK	to		to\P
+1207	TOK	provide		provide\VMI----
+1208	TOK	the		the\AT---6
+1209	TOK	reconstructed		reconstruct\VMC----
+1210	TOK	skeletal		skeletal\JA
+1211	TOK	region		region\N5S
+1212	TOK	with		with\P
+1213	TOK	mechanical		mechanical\JA
+1214	TOK	properties		property\N5P
+1215	TOK	similar		similar\JA
+1216	TOK	to		to\P
+1217	TOK	those		that\RDP3N-
+1218	TOK	of		of\P
+1219	TOK	the		the\AT---6
+1220	TOK	bone		bone\N5S
+1221	TOK	they		they\RPP3NN
+1222	TOK	replace		replace\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1223	TOK	These	BOS	this\AD---P
+1224	TOK	polymers		polymer\N5P
+1225	TOK	subsequently		subsequently\DGA7
+1226	TOK	degrade		degrade\VMF6R66
+1227	TOK	in		in\P
+1228	TOK	a		a\AI---S
+1229	TOK	controlled		control\VMC----
+1230	TOK	fashion		fashion\N5S
+---	DLD	,		=\DELIM
+1231	TOK	over		over\P
+1232	TOK	a		a\AI---S
+1233	TOK	period		period\N5S
+1234	TOK	of		of\P
+1235	TOK	weeks		week\N5P
+1236	TOK	to		to\P
+1237	TOK	months		month\N5P
+---	DLD	,		=\DELIM
+1238	TOK	and		and\CC
+1239	TOK	newly		newly\DGA7
+1240	TOK	grown		grow\VMC----
+1241	TOK	bone		bone\N5S
+1242	TOK	fills		fill\VMFDRS3
+1243	TOK	the		the\AT---6
+1244	TOK	site		site\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1245	TOK	We	BOS	we\RPP1NN
+1246	TOK	have		have\V6F6R66
+1247	TOK	also		also\DGA7
+1248	TOK	been		be\VMC----
+1249	TOK	studying		study\VMG----
+1250	TOK	the		the\AT---6
+1251	TOK	potential		potential\JA
+1252	TOK	of		of\P
+1253	TOK	injectable		injectable\JA
+---	DLD	,		=\DELIM
+1254	TOK	biodegradable		biodegradable\JA
+1255	TOK	hydrogels		hydrogel\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1256	TOK	gelatinlike		gelatinlike\N5P
+---	DLD	,		=\DELIM
+1257	TOK	water		water\N5S
+---	DLI	-		=\DELIM
+1258	TOK	filled		fill\VMC----
+1259	TOK	polymers		polymer\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1260	TOK	for		for\P
+1261	TOK	treating		treat\VMG----
+1262	TOK	dental		dental\JA
+1263	TOK	defects		defect\N5P
+---	DLD	,		=\DELIM
+1264	TOK	such		such\JA
+1265	TOK	as		as\P
+1266	TOK	poor		poor\JA
+1267	TOK	bonding		bonding\N5S
+1268	TOK	between		between\P
+1269	TOK	teeth		tooth\N5P
+1270	TOK	and		and\CC
+1271	TOK	the		the\AT---6
+1272	TOK	underlying		underlying\JA
+1273	TOK	bone		bone\N5S
+---	DLD	,		=\DELIM
+1274	TOK	through		through\P
+1275	TOK	guided		guide\VMC----
+1276	TOK	bone		bone\N5S
+1277	TOK	regeneration		regeneration\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1278	TOK	The	BOS	the\AT---6
+1279	TOK	hydrogels		hydrogel\N5P
+1280	TOK	incorporate		incorporate\VMF6R66
+1281	TOK	molecules		molecule\N5P
+1282	TOK	that		that\CS
+1283	TOK	both		both\RIP3N-
+1284	TOK	modulate		modulate\VMF6R66
+1285	TOK	cellular		cellular\JA
+1286	TOK	function		function\N5S
+1287	TOK	and		and\CC
+1288	TOK	induce		induce\VMF6R66
+1289	TOK	bone		bone\N5S
+1290	TOK	formation		formation\N5S
+---	DLD	;		=\DELIM
+1291	TOK	they		they\RPP3NN
+1292	TOK	provide		provide\VMF6R66
+1293	TOK	a		a\AI---S
+1294	TOK	scaffold		scaffold\N5S
+1295	TOK	on		on\P
+1296	TOK	which		which\RW63N-
+1297	TOK	new		new\JA
+1298	TOK	bone		bone\N5S
+1299	TOK	can		can\VOFDR66
+1300	TOK	grow		grow\VMI----
+---	DLD	,		=\DELIM
+1301	TOK	and		and\CC
+1302	TOK	they		they\RPP3NN
+1303	TOK	minimize		minimize\VMF6R66
+1304	TOK	the		the\AT---6
+1305	TOK	formation		formation\N5S
+1306	TOK	of		of\P
+1307	TOK	scar		scar\N5S
+1308	TOK	tissue		tissue\N5S
+1309	TOK	within		within\P
+1310	TOK	the		the\AT---6
+1311	TOK	regenerated		regenerate\VMC----
+1312	TOK	region		region\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1313	TOK	An	BOS	an\AI---S
+1314	TOK	intriguing		intriguing\JA
+1315	TOK	variation		variation\N5S
+1316	TOK	of		of\P
+1317	TOK	more		more\DDC7
+1318	TOK	conventional		conventional\JA
+1319	TOK	drug		drug\N5S
+1320	TOK	delivery		delivery\N5S
+1321	TOK	has		have\V6FDRS3
+1322	TOK	been		be\VMC----
+1323	TOK	pioneered		pioneer\VMC----
+1324	TOK	by		by\P
+##	TAG	<name>
+1325	TOK	Jeffrey F. Bonadio		Jeffrey_F._Bonadio\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1326	TOK	Steven A. Goldstein		Steven_A._Goldstein\N46
+##	TAG	</name>
+1327	TOK	and		and\CC
+1328	TOK	their		their\APP3N6
+1329	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+1330	TOK	workers		worker\N5P
+1331	TOK	at		at\P
+1332	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+1333	TOK	University of Michigan		University_of_Michigan\N46
+##	TAG	</name>
+---	DLD	.		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1334	TOK	Bonadio		Bonadio\N46
+##	TAG	</name>
+1335	TOK	is		be\V6FDRS3
+1336	TOK	now		now\DGA7
+1337	TOK	at		at\P
+##	TAG	<name>
+1338	TOK	Selective Genetics		Selective_Genetics\N46
+##	TAG	</name>
+1339	TOK	in		in\P
+##	TAG	<name>
+1340	TOK	San		San\N46
+##	TAG	</name>
+##	TAG	<abbr>
+1341	TOK	Diego.		Diego.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+1342	TOK	Their		Their\N5S
+1343	TOK	approach		approach\N5S
+1344	TOK	combines		combine\VMFDRS3
+1345	TOK	the		the\AT---6
+1346	TOK	concepts		concept\N5P
+1347	TOK	of		of\P
+1348	TOK	gene		gene\N5S
+1349	TOK	therapy		therapy\N5S
+1350	TOK	and		and\CC
+1351	TOK	tissue		tissue\N5S
+1352	TOK	engineering		engineer\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+1353	TOK	Instead of	BOS	Instead_of\CS
+##	TAG	</loc>
+1354	TOK	administering		administer\VMG----
+1355	TOK	growth		growth\N5S
+1356	TOK	factors		factor\N5P
+1357	TOK	directly		directly\DGA7
+---	DLD	,		=\DELIM
+1358	TOK	they		they\RPP3NN
+1359	TOK	insert		insert\VMF6R66
+1360	TOK	genes		gene\N5P
+1361	TOK	that		that\RW63N6
+1362	TOK	encode		encode\VMF6R66
+1363	TOK	those		that\AD---P
+1364	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1365	TOK	The	BOS	the\AT---6
+1366	TOK	genes		gene\N5P
+1367	TOK	are		be\V6FDR66
+1368	TOK	part		part\N5S
+1369	TOK	of		of\P
+1370	TOK	a		a\AI---S
+1371	TOK	plasmid		plasmid\N5S
+---	DLD	,		=\DELIM
+1372	TOK	a		a\AI---S
+1373	TOK	circular		circular\JA
+1374	TOK	piece		piece\N5S
+1375	TOK	of		of\P
+##	TAG	<name>
+1376	TOK	DNA		DNA\N46
+##	TAG	</name>
+1377	TOK	constructed		construct\VMC----
+1378	TOK	for		for\P
+1379	TOK	this		this\AD---S
+1380	TOK	purpose		purpose\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1381	TOK	The	BOS	the\AT---6
+1382	TOK	surrounding		surround\VMG----
+1383	TOK	cells		cell\N5P
+1384	TOK	take		take\VMF6R66
+1385	TOK	up		up\P
+1386	TOK	the		the\AT---6
+##	TAG	<name>
+1387	TOK	DNA		DNA\N46
+##	TAG	</name>
+1388	TOK	and		and\CC
+1389	TOK	treat		treat\VMI----
+1390	TOK	it		it\RPS3N6
+1391	TOK	as		as\P
+1392	TOK	their		their\APP3N6
+1393	TOK	own		own\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1394	TOK	They	BOS	they\RPP3NN
+1395	TOK	turn		turn\VMF6R66
+1396	TOK	into		into\P
+1397	TOK	tiny		tiny\JA
+1398	TOK	factories		factory\N5P
+---	DLD	,		=\DELIM
+1399	TOK	churning		churn\VMG----
+1400	TOK	out		out\DGA7
+1401	TOK	the		the\AT---6
+1402	TOK	factors		factor\N5P
+1403	TOK	coded		code\VMC----
+1404	TOK	for		for\P
+1405	TOK	by		by\P
+1406	TOK	the		the\AT---6
+1407	TOK	plasmid		plasmid\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1408	TOK	Because	BOS	because\CS
+1409	TOK	the		the\AT---6
+1410	TOK	inserted		insert\VMC----
+##	TAG	<name>
+1411	TOK	DNA		DNA\N46
+##	TAG	</name>
+1412	TOK	is		be\V6FDRS3
+1413	TOK	free		free\JA
+---	DLI	-		=\DELIM
+1414	TOK	floating		float\VMG----
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DDC7">
+1415	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+1416	TOK	incorporated		incorporate\VMC----
+1417	TOK	into		into\P
+1418	TOK	the		the\AT---6
+1419	TOK	cells		cell\N5P
+---	DLD	'		=\DELIM
+1420	TOK	own		own\JA
+##	TAG	<name>
+1421	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1422	TOK	it		it\RPS3N6
+1423	TOK	eventually		eventually\DGA7
+1424	TOK	degrades		degrade\VMFDRS3
+1425	TOK	and		and\CC
+1426	TOK	the		the\AT---6
+1427	TOK	product		product\N5S
+1428	TOK	ceases		cease\VMFDRS3
+1429	TOK	to		to\P
+1430	TOK	be		be\VMI----
+1431	TOK	synthesized		synthesize\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1432	TOK	Plasmid	BOS	plasmid\N5S
+1433	TOK	inserts		insert\N5P
+1434	TOK	have		have\V6F6R66
+1435	TOK	successfully		successfully\DGA7
+1436	TOK	promoted		promote\VMC----
+1437	TOK	bone		bone\N5S
+1438	TOK	regrowth		regrowth\N5S
+1439	TOK	in		in\P
+1440	TOK	animals		animal\N5P
+---	DLD	;		=\DELIM
+1441	TOK	the		the\AT---6
+1442	TOK	duration		duration\N5S
+1443	TOK	of		of\P
+1444	TOK	their		their\APP3N6
+1445	TOK	effects		effect\N5P
+1446	TOK	is		be\V6FDRS3
+1447	TOK	still		still\DGA7
+1448	TOK	being		be\VMG----
+1449	TOK	investigated		investigate\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1450	TOK	One	BOS	one\RIS3N-
+1451	TOK	of		of\P
+1452	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1453	TOK	Mooney		Mooney\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="P">
+1454	TOK	along with		along_with\P
+##	TAG	</loc>
+##	TAG	<name>
+1455	TOK	Lonnie D		Lonnie_D\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1456	TOK	Shea	BOS	shea\N5S
+1457	TOK	and		and\CC
+1458	TOK	our		our\APP1N6
+1459	TOK	other		other\JA
+1460	TOK	aforementioned		aforementioned\JA
+##	TAG	<name>
+1461	TOK	Michigan		Michigan\N46
+##	TAG	</name>
+1462	TOK	colleagues		colleague\N5P
+---	DLD	,		=\DELIM
+1463	TOK	recently		recently\DGA7
+1464	TOK	demonstrated		demonstrate\VMC----
+1465	TOK	with		with\P
+1466	TOK	animals		animal\N5P
+1467	TOK	that		that\RW63N6
+1468	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+1469	TOK	dimensional		dimensional\JA
+1470	TOK	biodegradable		biodegradable\JA
+1471	TOK	polymers		polymer\N5P
+1472	TOK	spiked		spike\VMC----
+1473	TOK	with		with\P
+1474	TOK	plasmids		plasmid\N5P
+1475	TOK	will		will\VOFDR66
+1476	TOK	release		release\VMI----
+1477	TOK	that		that\CS
+##	TAG	<name>
+1478	TOK	DNA		DNA\N46
+##	TAG	</name>
+1479	TOK	over		over\P
+1480	TOK	extended		extend\VMC----
+1481	TOK	periods		period\N5P
+1482	TOK	and		and\CC
+1483	TOK	simultaneously		simultaneously\DGA7
+1484	TOK	serve		serve\VMF6R66
+1485	TOK	as		as\P
+1486	TOK	a		a\AI---S
+1487	TOK	scaffold		scaffold\N5S
+1488	TOK	for		for\P
+1489	TOK	new		new\JA
+1490	TOK	tissue		tissue\N5S
+1491	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1492	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1493	TOK	DNA		DNA\N46
+##	TAG	</name>
+1494	TOK	finds		find\VMFDRS3
+1495	TOK	its		its\APS3N6
+1496	TOK	way		way\N5S
+1497	TOK	into		into\P
+1498	TOK	adjacent		adjacent\JA
+1499	TOK	cells		cell\N5P
+1500	TOK	as		as\CS
+1501	TOK	they		they\RPP3NN
+1502	TOK	migrate		migrate\VMF6R66
+1503	TOK	into		into\P
+1504	TOK	the		the\AT---6
+1505	TOK	polymer		polymer\N5S
+1506	TOK	scaffold		scaffold\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1507	TOK	The	BOS	the\AT---6
+1508	TOK	cells		cell\N5P
+1509	TOK	then		then\DGA7
+1510	TOK	express		express\VMF6R66
+1511	TOK	the		the\AT---6
+1512	TOK	desired		desire\VMC----
+1513	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1514	TOK	This	BOS	this\AD---S
+1515	TOK	technique		technique\N5S
+1516	TOK	makes		make\VMFDRS3
+1517	TOK	it		it\RPS3N6
+1518	TOK	possible		possible\JA
+1519	TOK	to		to\P
+1520	TOK	control		control\N5S
+1521	TOK	tissue		tissue\N5S
+1522	TOK	formation		formation\N5S
+1523	TOK	more		more\DDC7
+1524	TOK	precisely		precisely\DGA7
+---	DLD	;		=\DELIM
+1525	TOK	physicians		physician\N5P
+1526	TOK	might		may\VOFDR66
+1527	TOK	one		one\MCS
+1528	TOK	day		day\N5S
+1529	TOK	be		be\VMI----
+1530	TOK	able		able\JA
+1531	TOK	to		to\P
+1532	TOK	manage		manage\VMI----
+1533	TOK	the		the\AT---6
+1534	TOK	dose		dose\N5S
+1535	TOK	and		and\CC
+1536	TOK	time		time\N5S
+1537	TOK	course		course\N5S
+1538	TOK	of		of\P
+1539	TOK	molecule		molecule\N5S
+1540	TOK	production		production\N5S
+1541	TOK	by		by\P
+1542	TOK	the		the\AT---6
+1543	TOK	cells		cell\N5P
+1544	TOK	that		that\RW63N6
+1545	TOK	take		take\VMF6R66
+1546	TOK	up		up\P
+1547	TOK	the		the\AT---6
+##	TAG	<name>
+1548	TOK	DNA		DNA\N46
+##	TAG	</name>
+1549	TOK	and		and\CC
+1550	TOK	deliver		deliver\VMI----
+1551	TOK	multiple		multiple\JA
+1552	TOK	genes		gene\N5P
+1553	TOK	at		at\P
+1554	TOK	various		various\JA
+1555	TOK	times		time\N5P
+1556	TOK	to		to\P
+1557	TOK	promote		promote\VMI----
+1558	TOK	tissue		tissue\N5S
+1559	TOK	formation		formation\N5S
+1560	TOK	in		in\P
+1561	TOK	stages		stage\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1562	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+1563	TOK	Dash of Cells	EOS	Dash_of_Cells\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1565	TOK	Promoting	BOS	promote\VMG----
+1566	TOK	tissue		tissue\N5S
+1567	TOK	and		and\CC
+1568	TOK	organ		organ\N5S
+1569	TOK	development		development\N5S
+1570	TOK	via		via\P
+1571	TOK	growth		growth\N5S
+1572	TOK	factors		factor\N5P
+1573	TOK	is		be\V6FDRS3
+1574	TOK	obviously		obviously\DGA7
+1575	TOK	a		a\AI---S
+1576	TOK	considerable		considerable\JA
+1577	TOK	step		step\N5S
+1578	TOK	forward		forward\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1579	TOK	But	BOS	but\CC
+1580	TOK	it		it\RPS3N6
+1581	TOK	pales		pale\VMFDRS3
+1582	TOK	in		in\P
+1583	TOK	comparison		comparison\N5S
+1584	TOK	to		to\P
+1585	TOK	the		the\AT---6
+1586	TOK	ultimate		ultimate\JA
+1587	TOK	goal		goal\N5S
+1588	TOK	of		of\P
+1589	TOK	the		the\AT---6
+1590	TOK	tissue		tissue\N5S
+1591	TOK	engineer		engineer\N5S
+---	DLD	:		=\DELIM
+1592	TOK	the		the\AT---6
+1593	TOK	creation		creation\N5S
+1594	TOK	from		from\P
+1595	TOK	scratch		scratch\N5S
+1596	TOK	of		of\P
+1597	TOK	whole		whole\JA
+1598	TOK	neo		neo\N5P
+---	DLI	-		=\DELIM
+1599	TOK	organs		organ\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1600	TOK	Science	BOS	science\N5S
+1601	TOK	fiction		fiction\N5S
+1602	PGR	's		genmark\GENMARK
+1603	TOK	conception		conception\N5S
+1604	TOK	of		of\P
+1605	TOK	prefabricated		prefabricate\VMF6A66
+---	DLE	"		=\DELIM
+1606	TOK	spare		spare\JA
+1607	TOK	parts		part\N5P
+---	DLD	"		=\DELIM
+1608	TOK	is		be\V6FDRS3
+1609	TOK	slowly		slowly\DGA7
+1610	TOK	taking		take\VMG----
+1611	TOK	shape		shape\N5S
+1612	TOK	in		in\P
+1613	TOK	the		the\AT---6
+1614	TOK	efforts		effort\N5P
+1615	TOK	to		to\P
+1616	TOK	transplant		transplant\N5S
+1617	TOK	cells		cell\N5P
+1618	TOK	directly		directly\DGA7
+1619	TOK	to		to\P
+1620	TOK	the		the\AT---6
+1621	TOK	body		body\N5S
+1622	TOK	that		that\RW63N6
+1623	TOK	will		will\VOFDR66
+1624	TOK	then		then\DGA7
+1625	TOK	develop		develop\VMI----
+1626	TOK	into		into\P
+1627	TOK	the		the\AT---6
+1628	TOK	proper		proper\JA
+1629	TOK	bodily		bodily\JA
+1630	TOK	component		component\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1631	TOK	The	BOS	the\AT---6
+1632	TOK	best		good\JS
+1633	TOK	way		way\N5S
+1634	TOK	to		to\P
+1635	TOK	sprout		sprout\N5S
+1636	TOK	organs		organ\N5P
+1637	TOK	and		and\CC
+1638	TOK	tissues		tissue\N5P
+1639	TOK	is		be\V6FDRS3
+1640	TOK	still		still\DGA7
+1641	TOK	to		to\P
+1642	TOK	rely		rely\VMI----
+1643	TOK	on		on\P
+1644	TOK	the		the\AT---6
+1645	TOK	body		body\N5S
+1646	PGR	's		genmark\GENMARK
+1647	TOK	own		own\JA
+1648	TOK	biochemical		biochemical\JA
+1649	TOK	wisdom		wisdom\N5S
+---	DLD	;		=\DELIM
+1650	TOK	the		the\AT---6
+1651	TOK	appropriate		appropriate\JA
+1652	TOK	cells		cell\N5P
+1653	TOK	are		be\V6FDR66
+1654	TOK	transferred		transfer\VMC----
+---	DLD	,		=\DELIM
+1655	TOK	in		in\P
+1656	TOK	a		a\AI---S
+1657	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+1658	TOK	dimensional		dimensional\JA
+1659	TOK	matrix		matrix\N5S
+---	DLD	,		=\DELIM
+1660	TOK	to		to\P
+1661	TOK	the		the\AT---6
+1662	TOK	desired		desire\VMC----
+1663	TOK	site		site\N5S
+---	DLD	,		=\DELIM
+1664	TOK	and		and\CC
+1665	TOK	growth		growth\N5S
+1666	TOK	unfolds		unfold\VMFDRS3
+1667	TOK	within		within\P
+1668	TOK	the		the\AT---6
+1669	TOK	person		person\N5S
+1670	TOK	or		or\CC
+1671	TOK	organism		organism\N5S
+##	TAG	<loc pos="DDC7">
+1672	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+1673	TOK	in		in\P
+1674	TOK	an		an\AI---S
+1675	TOK	external		external\JA
+---	DLD	,		=\DELIM
+1676	TOK	artificial		artificial\JA
+1677	TOK	environment		environment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1678	TOK	This	BOS	this\AD---S
+1679	TOK	approach		approach\N5S
+---	DLD	,		=\DELIM
+1680	TOK	pioneered		pioneer\VMC----
+1681	TOK	by		by\P
+##	TAG	<name>
+1682	TOK	Ioannis V. Yannas		Ioannis_V._Yannas\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1683	TOK	Eugene Bell		Eugene_Bell\N46
+##	TAG	</name>
+1684	TOK	and		and\CC
+##	TAG	<name>
+1685	TOK	Robert S. Langer		Robert_S._Langer\N46
+##	TAG	</name>
+1686	TOK	of		of\P
+1687	TOK	the		the\AT---6
+##	TAG	<name>
+1688	TOK	Massachusetts Institute of Technology		Massachusetts_Institute_of_Technology\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name pos="N46" type="organization">
+1689	TOK	Joseph P. Vacanti of Harvard Medical School		Joseph_P._Vacanti_of_Harvard_Medical_School\N46
+##	TAG	</name>
+1690	TOK	and		and\CC
+1691	TOK	others		other\RIP3N-
+1692	TOK	in		in\P
+1693	TOK	the		the\AT---6
+##	TAG	<na type="code">
+1694	TOK	1970s		noanat\W
+##	TAG	</na>
+1695	TOK	and		and\CC
+##	TAG	<na type="code">
+1696	TOK	1980s		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+1697	TOK	is		be\V6FDRS3
+1698	TOK	now		now\DGA7
+1699	TOK	actually		actually\DGA7
+1700	TOK	in		in\P
+1701	TOK	use		use\N5S
+1702	TOK	in		in\P
+1703	TOK	some		some\AG---6
+1704	TOK	patients		patient\N5P
+---	DLD	,		=\DELIM
+1705	TOK	notably		notably\DGA7
+1706	TOK	those		that\RDP3N-
+1707	TOK	with		with\P
+1708	TOK	skin		skin\N5S
+1709	TOK	wounds		wound\N5P
+1710	TOK	or		or\CC
+1711	TOK	cartilage		cartilage\N5S
+1712	TOK	damage		damage\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1713	TOK	The	BOS	the\AT---6
+1714	TOK	usual		usual\JA
+1715	TOK	procedure		procedure\N5S
+1716	TOK	entails		entail\VMFDRS3
+1717	TOK	the		the\AT---6
+1718	TOK	multiplication		multiplication\N5S
+1719	TOK	of		of\P
+1720	TOK	isolated		isolate\VMC----
+1721	TOK	cells		cell\N5P
+1722	TOK	in		in\P
+1723	TOK	culture		culture\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1724	TOK	These	BOS	this\AD---P
+1725	TOK	cells		cell\N5P
+1726	TOK	are		be\V6FDR66
+1727	TOK	then		then\DGA7
+1728	TOK	used		use\VMC----
+1729	TOK	to		to\P
+1730	TOK	seed		seed\VMI----
+1731	TOK	a		a\AI---S
+1732	TOK	matrix		matrix\N5S
+---	DLD	,		=\DELIM
+1733	TOK	typically		typically\DGA7
+1734	TOK	one		one\MCS
+1735	TOK	consisting		consist\VMG----
+1736	TOK	of		of\P
+1737	TOK	synthetic		synthetic\JA
+1738	TOK	polymers		polymer\N5P
+1739	TOK	or		or\CC
+1740	TOK	collagen		collagen\N5S
+---	DLD	,		=\DELIM
+1741	TOK	the		the\AT---6
+1742	TOK	protein		protein\N5S
+1743	TOK	that		that\RW63N6
+1744	TOK	forms		form\VMFDRS3
+1745	TOK	the		the\AT---6
+1746	TOK	natural		natural\JA
+1747	TOK	support		support\N5S
+1748	TOK	scaffolding		scaffolding\N5S
+1749	TOK	of		of\P
+1750	TOK	most		most\AG---6
+1751	TOK	tissues		tissue\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1752	TOK	In	BOS	in\P
+1753	TOK	addition		addition\N5S
+1754	TOK	to		to\P
+1755	TOK	merely		merely\DGA7
+1756	TOK	delivering		deliver\VMG----
+1757	TOK	the		the\AT---6
+1758	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+1759	TOK	the		the\AT---6
+1760	TOK	matrix		matrix\N5S
+1761	TOK	both		both\RIP3N-
+1762	TOK	creates		create\VMFDRS3
+1763	TOK	and		and\CC
+1764	TOK	maintains		maintain\VMFDRS3
+1765	TOK	a		a\AI---S
+1766	TOK	space		space\N5S
+1767	TOK	for		for\P
+1768	TOK	the		the\AT---6
+1769	TOK	formation		formation\N5S
+1770	TOK	of		of\P
+1771	TOK	the		the\AT---6
+1772	TOK	tissue		tissue\N5S
+1773	TOK	and		and\CC
+1774	TOK	guides		guide\VMFDRS3
+1775	TOK	its		its\APS3N6
+1776	TOK	structural		structural\JA
+1777	TOK	development		development\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1778	TOK	Once	BOS	once\DGA7
+1779	TOK	the		the\AT---6
+1780	TOK	developmental		developmental\JA
+1781	TOK	rules		rule\N5P
+1782	TOK	for		for\P
+1783	TOK	a		a\AI---S
+1784	TOK	given		give\VMC----
+1785	TOK	organ		organ\N5S
+1786	TOK	or		or\CC
+1787	TOK	tissue		tissue\N5S
+1788	TOK	are		be\V6FDR66
+1789	TOK	fully		fully\DGA7
+1790	TOK	known		know\VMC----
+---	DLD	,		=\DELIM
+1791	TOK	any		any\AG---6
+1792	TOK	of		of\P
+1793	TOK	those		that\AD---P
+1794	TOK	entities		entity\N5P
+1795	TOK	could		can\VOFDA66
+1796	TOK	theoretically		theoretically\DGA7
+1797	TOK	be		be\VMI----
+1798	TOK	grown		grow\VMC----
+1799	TOK	from		from\P
+1800	TOK	a		a\AI---S
+1801	TOK	small		small\JA
+1802	TOK	sample		sample\N5S
+1803	TOK	of		of\P
+1804	TOK	starter		starter\JA
+##	TAG	<abbr>
+1805	TOK	cells.		cells.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+1806	TOK	A		A\N5P
+1807	TOK	sufficient		sufficient\JA
+1808	TOK	understanding		understanding\N5S
+1809	TOK	of		of\P
+1810	TOK	the		the\AT---6
+1811	TOK	developmental		developmental\JA
+1812	TOK	pathways		pathway\N5P
+1813	TOK	should		shall\VOFDA66
+1814	TOK	eventually		eventually\DGA7
+1815	TOK	allow		allow\VMI----
+1816	TOK	the		the\AT---6
+1817	TOK	transfer		transfer\N5S
+1818	TOK	of		of\P
+1819	TOK	this		this\AD---S
+1820	TOK	procedure		procedure\N5S
+1821	TOK	from		from\P
+1822	TOK	the		the\AT---6
+1823	TOK	body		body\N5S
+1824	TOK	to		to\P
+1825	TOK	the		the\AT---6
+1826	TOK	laboratory		laboratory\N5S
+---	DLD	,		=\DELIM
+1827	TOK	making		make\VMG----
+1828	TOK	true		true\JA
+1829	TOK	off		off\P
+---	DLI	-		=\DELIM
+1830	TOK	the		the\AT---6
+---	DLI	-		=\DELIM
+1831	TOK	shelf		shelf\N5S
+1832	TOK	organs		organ\N5P
+1833	TOK	possible		possible\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1834	TOK	A	BOS	a\AI---S
+1835	TOK	surgeon		surgeon\N5S
+1836	TOK	could		can\VOFDA66
+1837	TOK	implant		implant\VMI----
+1838	TOK	these		this\AD---P
+1839	TOK	immediately		immediately\DGA7
+1840	TOK	in		in\P
+1841	TOK	an		an\AI---S
+1842	TOK	emergency		emergency\N5S
+1843	TOK	situation		situation\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1844	TOK	an		an\AI---S
+1845	TOK	appealing		appealing\JA
+1846	TOK	notion		notion\N5S
+---	DLD	,		=\DELIM
+1847	TOK	because		because\CS
+1848	TOK	failing		fail\VMG----
+1849	TOK	organs		organ\N5P
+1850	TOK	can		can\VOFDR66
+1851	TOK	quickly		quickly\DGA7
+1852	TOK	lead		lead\VMI----
+1853	TOK	to		to\P
+1854	TOK	death		death\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1855	TOK	instead		instead\DGA7
+1856	TOK	of		of\P
+1857	TOK	waiting		wait\VMG----
+1858	TOK	weeks		week\N5P
+1859	TOK	or		or\CC
+1860	TOK	months		month\N5P
+1861	TOK	to		to\P
+1862	TOK	grow		grow\VMI----
+1863	TOK	a		a\AI---S
+1864	TOK	new		new\JA
+1865	TOK	organ		organ\N5S
+1866	TOK	in		in\P
+1867	TOK	the		the\AT---6
+1868	TOK	laboratory		laboratory\N5S
+1869	TOK	or		or\CC
+1870	TOK	to		to\P
+1871	TOK	use		use\N5S
+1872	TOK	growth		growth\N5S
+1873	TOK	factors		factor\N5P
+1874	TOK	to		to\P
+1875	TOK	induce		induce\VMI----
+1876	TOK	the		the\AT---6
+1877	TOK	patient		patient\N5S
+1878	PGR	's		genmark\GENMARK
+1879	TOK	own		own\JA
+1880	TOK	body		body\N5S
+1881	TOK	to		to\P
+1882	TOK	grow		grow\VMI----
+1883	TOK	the		the\AT---6
+1884	TOK	tissues		tissue\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1885	TOK	In	BOS	in\P
+1886	TOK	the		the\AT---6
+1887	TOK	case		case\N5S
+1888	TOK	of		of\P
+1889	TOK	skin		skin\N5S
+---	DLD	,		=\DELIM
+1890	TOK	the		the\AT---6
+1891	TOK	future		future\N5S
+1892	TOK	is		be\V6FDRS3
+1893	TOK	here		here\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1894	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1895	TOK	U.S		U.S\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1896	TOK	Food	BOS	food\N5S
+1897	TOK	and		and\CC
+##	TAG	<name>
+1898	TOK	Drug Administration		Drug_Administration\N46
+##	TAG	</name>
+1899	TOK	has		have\V6FDRS3
+1900	TOK	already		already\DGA7
+1901	TOK	approved		approve\VMC----
+1902	TOK	a		a\AI---S
+1903	TOK	living		living\JA
+1904	TOK	skin		skin\N5S
+1905	TOK	product		product\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1906	TOK	and		and\CC
+1907	TOK	others		other\RIP3N-
+1908	TOK	are		be\V6FDR66
+1909	TOK	now		now\DGA7
+1910	TOK	in		in\P
+1911	TOK	the		the\AT---6
+1912	TOK	regulatory		regulatory\JA
+1913	TOK	pipeline		pipeline\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1914	TOK	The	BOS	the\AT---6
+1915	TOK	need		need\N5S
+1916	TOK	for		for\P
+1917	TOK	skin		skin\N5S
+1918	TOK	is		be\V6FDRS3
+1919	TOK	acute		acute\JA
+---	DLD	:		=\DELIM
+1920	TOK	every		every\AG---S
+1921	TOK	year		year\N5S
+##	TAG	<num>
+1922	TOK	600,000		600,000\X
+##	TAG	</num>
+##	TAG	<loc pos="N5P">
+1923	TOK	Americans		american\N5P
+##	TAG	</loc>
+1924	TOK	suffer		suffer\VMF6R66
+1925	TOK	from		from\P
+1926	TOK	diabetic		diabetic\JA
+1927	TOK	ulcers		ulcer\N5P
+---	DLD	,		=\DELIM
+1928	TOK	which		which\RW63N-
+1929	TOK	are		be\V6FDR66
+1930	TOK	particularly		particularly\DGA7
+1931	TOK	difficult		difficult\JA
+1932	TOK	to		to\P
+1933	TOK	heal		heal\VMI----
+---	DLD	;		=\DELIM
+1934	TOK	another		another\RIS3N-
+##	TAG	<num>
+1935	TOK	600,000		600,000\X
+##	TAG	</num>
+1936	TOK	have		have\VMI----
+1937	TOK	skin		skin\N5S
+1938	TOK	removed		remove\VMC----
+1939	TOK	to		to\P
+1940	TOK	treat		treat\VMI----
+1941	TOK	skin		skin\N5S
+1942	TOK	cancer		cancer\N5S
+---	DLD	;		=\DELIM
+1943	TOK	and		and\CC
+1944	TOK	between		between\P
+##	TAG	<num>
+1945	TOK	10,000		10,000\X
+##	TAG	</num>
+1946	TOK	and		and\CC
+##	TAG	<num>
+1947	TOK	15,000		15,000\X
+##	TAG	</num>
+1948	TOK	undergo		undergo\VMF6R66
+1949	TOK	skin		skin\N5S
+1950	TOK	grafts		graft\N5P
+1951	TOK	to		to\P
+1952	TOK	treat		treat\VMI----
+1953	TOK	severe		severe\JA
+1954	TOK	burns		burn\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1955	TOK	The	BOS	the\AT---6
+1956	TOK	next		next\JA
+1957	TOK	tissue		tissue\N5S
+1958	TOK	to		to\P
+1959	TOK	be		be\VMI----
+1960	TOK	widely		widely\DGA7
+1961	TOK	used		use\VMC----
+1962	TOK	in		in\P
+1963	TOK	humans		human\N5P
+1964	TOK	will		will\VOFDR66
+1965	TOK	most		most\DDS7
+1966	TOK	likely		likely\DGA7
+1967	TOK	be		be\VMI----
+1968	TOK	cartilage		cartilage\N5S
+1969	TOK	for		for\P
+1970	TOK	orthopedic		orthopedic\JA
+---	DLD	,		=\DELIM
+1971	TOK	craniofacial		craniofacial\JA
+1972	TOK	and		and\CC
+1973	TOK	urological		urological\JA
+1974	TOK	applications		application\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1975	TOK	Currently	BOS	currently\DGA7
+1976	TOK	available		available\JA
+1977	TOK	cartilage		cartilage\N5S
+1978	TOK	is		be\V6FDRS3
+1979	TOK	insufficient		insufficient\JA
+1980	TOK	for		for\P
+1981	TOK	the		the\AT---6
+1982	TOK	half		half\N5S
+##	TAG	<num>
+1983	TOK	a million		a_million\X
+##	TAG	</num>
+1984	TOK	operations		operation\N5P
+1985	TOK	annually		annually\DGA7
+1986	TOK	in		in\P
+1987	TOK	the		the\AT---6
+##	TAG	<abbr>
+1988	TOK	U.S.		U.S.\N5S
+##	TAG	</abbr>
+1989	TOK	that		that\CS
+1990	TOK	repair		repair\N5S
+1991	TOK	damaged		damage\VMC----
+1992	TOK	joints		joint\N5P
+1993	TOK	and		and\CC
+1994	TOK	for		for\P
+1995	TOK	the		the\AT---6
+1996	TOK	additional		additional\JA
+##	TAG	<num>
+1997	TOK	28,000		28,000\X
+##	TAG	</num>
+1998	TOK	face		face\N5S
+1999	TOK	and		and\CC
+2000	TOK	head		head\N5S
+2001	TOK	reconstructive		reconstructive\JA
+2002	TOK	surgeries		surgery\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2003	TOK	Cartilage	BOS	cartilage\N5S
+---	DLD	,		=\DELIM
+2004	TOK	which		which\RW63N-
+2005	TOK	has		have\V6FDRS3
+2006	TOK	low		low\JA
+2007	TOK	nutrient		nutrient\JA
+2008	TOK	needs		need\N5P
+---	DLD	,		=\DELIM
+2009	TOK	does		do\V6FDRS3
+2010	TOK	not		not\DGA7
+2011	TOK	require		require\VMI----
+2012	TOK	growth		growth\N5S
+2013	TOK	of		of\P
+2014	TOK	new		new\JA
+2015	TOK	blood		blood\N5S
+2016	TOK	vessels		vessel\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2017	TOK	an		an\AI---S
+2018	TOK	advantage		advantage\N5S
+2019	TOK	for		for\P
+2020	TOK	its		its\APS3N6
+2021	TOK	straightforward		straightforward\JA
+2022	TOK	development		development\N5S
+2023	TOK	as		as\P
+2024	TOK	an		an\AI---S
+2025	TOK	engineered		engineer\VMC----
+2026	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2027	TOK	Genzyme Tissue Repair	BOS	Genzyme_Tissue_Repair\N46
+##	TAG	</name>
+2028	TOK	in		in\P
+##	TAG	<name>
+2029	TOK	Cambridge		Cambridge\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+2030	TOK	Mass.		Mass.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+2031	TOK	has		have\V6FDRS3
+2032	TOK	received		receive\VMC----
+##	TAG	<name>
+2033	TOK	FDA		FDA\N46
+##	TAG	</name>
+2034	TOK	approval		approval\N5S
+2035	TOK	to		to\P
+2036	TOK	engineer		engineer\N5S
+2037	TOK	tissues		tissue\N5P
+2038	TOK	derived		derive\VMC----
+2039	TOK	from		from\P
+2040	TOK	a		a\AI---S
+2041	TOK	patient		patient\N5S
+2042	PGR	's		genmark\GENMARK
+2043	TOK	own		own\JA
+2044	TOK	cells		cell\N5P
+2045	TOK	for		for\P
+2046	TOK	the		the\AT---6
+2047	TOK	repair		repair\N5S
+2048	TOK	of		of\P
+2049	TOK	traumatic		traumatic\JA
+2050	TOK	knee		knee\N5S
+---	DLI	-		=\DELIM
+2051	TOK	cartilage		cartilage\N5S
+2052	TOK	damage		damage\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2053	TOK	Its	BOS	its\APS3N6
+2054	TOK	procedure		procedure\N5S
+2055	TOK	involves		involve\VMFDRS3
+2056	TOK	growing		grow\VMG----
+2057	TOK	the		the\AT---6
+2058	TOK	patient		patient\N5S
+2059	PGR	's		genmark\GENMARK
+2060	TOK	cells		cell\N5P
+2061	TOK	in		in\P
+2062	TOK	the		the\AT---6
+2063	TOK	lab		lab\N5S
+---	DLD	,		=\DELIM
+2064	TOK	harvested		harvest\VMC----
+2065	TOK	from		from\P
+2066	TOK	the		the\AT---6
+2067	TOK	same		same\JA
+2068	TOK	knee		knee\N5S
+2069	TOK	under		under\P
+2070	TOK	repair		repair\N5S
+2071	TOK	when		when\CS
+2072	TOK	possible		possible\JA
+---	DLD	,		=\DELIM
+2073	TOK	and		and\CC
+2074	TOK	then		then\DGA7
+2075	TOK	implanting		implant\VMG----
+2076	TOK	those		that\AD---P
+2077	TOK	cells		cell\N5P
+2078	TOK	into		into\P
+2079	TOK	the		the\AT---6
+2080	TOK	injury		injury\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2081	TOK	Depending	BOS	depend\VMG----
+2082	TOK	on		on\P
+2083	TOK	the		the\AT---6
+2084	TOK	patient		patient\N5S
+2085	TOK	and		and\CC
+2086	TOK	the		the\AT---6
+2087	TOK	extent		extent\N5S
+2088	TOK	of		of\P
+2089	TOK	the		the\AT---6
+2090	TOK	defect		defect\N5S
+---	DLD	,		=\DELIM
+2091	TOK	full		full\JA
+2092	TOK	regeneration		regeneration\N5S
+2093	TOK	takes		take\VMFDRS3
+2094	TOK	between		between\P
+##	TAG	<num>
+2095	TOK	12		12\X
+##	TAG	</num>
+2096	TOK	and		and\CC
+##	TAG	<num>
+2097	TOK	18		18\X
+##	TAG	</num>
+2098	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2099	TOK	In	BOS	in\P
+2100	TOK	animal		animal\N5S
+2101	TOK	studies		study\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2102	TOK	Charles A. Vacanti		Charles_A._Vacanti\N46
+##	TAG	</name>
+2103	TOK	of		of\P
+2104	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2105	TOK	University of Massachusetts Medical School		University_of_Massachusetts_Medical_School\N46
+##	TAG	</name>
+2106	TOK	in		in\P
+##	TAG	<name>
+2107	TOK	Worcester		Worcester\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2108	TOK	his		his\APS3M6
+2109	TOK	brother		brother\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2110	TOK	Joseph Vacanti		Joseph_Vacanti\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2111	TOK	Langer		Langer\N46
+##	TAG	</name>
+2112	TOK	and		and\CC
+2113	TOK	their		their\APP3N6
+2114	TOK	colleagues		colleague\N5P
+2115	TOK	have		have\V6F6R66
+2116	TOK	shown		show\VMC----
+2117	TOK	that		that\CS
+2118	TOK	new		new\JA
+2119	TOK	cartilage		cartilage\N5S
+2120	TOK	can		can\VOFDR66
+2121	TOK	be		be\VMI----
+2122	TOK	grown		grow\VMC----
+2123	TOK	in		in\P
+2124	TOK	the		the\AT---6
+2125	TOK	shapes		shape\N5P
+2126	TOK	of		of\P
+2127	TOK	ears		ear\N5P
+---	DLD	,		=\DELIM
+2128	TOK	noses		nose\N5P
+2129	TOK	and		and\CC
+2130	TOK	other		other\JA
+2131	TOK	recognizable		recognizable\JA
+2132	TOK	forms		form\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2133	TOK	The	BOS	the\AT---6
+2134	TOK	relative		relative\JA
+2135	TOK	ease		ease\N5S
+2136	TOK	of		of\P
+2137	TOK	growing		growing\JA
+2138	TOK	cartilage		cartilage\N5S
+2139	TOK	has		have\V6FDRS3
+2140	TOK	led		lead\VMC----
+##	TAG	<name pos="N46" type="organization">
+2141	TOK	Anthony J. Atala of Harvard Medical School's Children's Hospital		Anthony_J._Atala_of_Harvard_Medical_School's_Children's_Hospital\N46
+##	TAG	</name>
+2142	TOK	to		to\P
+2143	TOK	develop		develop\VMI----
+2144	TOK	a		a\AI---S
+2145	TOK	novel		novel\JA
+2146	TOK	approach		approach\N5S
+2147	TOK	for		for\P
+2148	TOK	treating		treat\VMG----
+2149	TOK	urological		urological\JA
+2150	TOK	disorders		disorder\N5P
+2151	TOK	such		such\RIS3N-
+2152	TOK	as		as\P
+2153	TOK	incontinence		incontinence\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2154	TOK	Reprogenesis	BOS	Reprogenesis\N46
+##	TAG	</name>
+2155	TOK	in		in\P
+##	TAG	<name>
+2156	TOK	Cambridge		Cambridge\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+2157	TOK	Mass.		Mass.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+2158	TOK	which		which\RW63N-
+2159	TOK	supports		support\VMFDRS3
+##	TAG	<name>
+2160	TOK	Atala		Atala\N46
+##	TAG	</name>
+2161	PGR	's		genmark\GENMARK
+2162	TOK	research		research\N5S
+---	DLD	,		=\DELIM
+2163	TOK	is		be\V6FDRS3
+2164	TOK	testing		test\VMG----
+2165	TOK	whether		whether\CS
+2166	TOK	cartilage		cartilage\N5S
+2167	TOK	cells		cell\N5P
+2168	TOK	can		can\VOFDR66
+2169	TOK	be		be\VMI----
+2170	TOK	removed		remove\VMC----
+2171	TOK	from		from\P
+2172	TOK	patients		patient\N5P
+---	DLD	,		=\DELIM
+2173	TOK	multiplied		multiply\VMC----
+2174	TOK	in		in\P
+2175	TOK	the		the\AT---6
+2176	TOK	laboratory		laboratory\N5S
+2177	TOK	and		and\CC
+2178	TOK	used		use\VMC----
+2179	TOK	to		to\P
+2180	TOK	add		add\VMI----
+2181	TOK	bulk		bulk\N5S
+2182	TOK	to		to\P
+2183	TOK	the		the\AT---6
+2184	TOK	urethra		urethra\N5S
+2185	TOK	or		or\CC
+2186	TOK	ureters		ureter\N5P
+2187	TOK	to		to\P
+2188	TOK	alleviate		alleviate\VMI----
+2189	TOK	urinary		urinary\JA
+2190	TOK	incontinence		incontinence\N5S
+2191	TOK	in		in\P
+2192	TOK	adults		adult\N5P
+2193	TOK	and		and\CC
+2194	TOK	bladder		bladder\N5S
+2195	TOK	reflux		reflux\N5S
+2196	TOK	in		in\P
+2197	TOK	children		child\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2198	TOK	These	BOS	this\AD---P
+2199	TOK	conditions		condition\N5P
+2200	TOK	are		be\V6FDR66
+2201	TOK	often		often\DGA7
+2202	TOK	caused		cause\VMC----
+2203	TOK	by		by\P
+2204	TOK	a		a\AI---S
+2205	TOK	lack		lack\N5S
+2206	TOK	of		of\P
+2207	TOK	muscle		muscle\N5S
+2208	TOK	tone		tone\N5S
+2209	TOK	that		that\RW63N6
+2210	TOK	allows		allow\VMFDRS3
+2211	TOK	urine		urine\N5S
+2212	TOK	to		to\P
+2213	TOK	flow		flow\N5S
+2214	TOK	forward		forward\DGA7
+2215	TOK	unexpectedly		unexpectedly\DGA7
+2216	TOK	or		or\CC
+---	DLD	,		=\DELIM
+2217	TOK	in		in\P
+2218	TOK	the		the\AT---6
+2219	TOK	childhood		childhood\N5S
+2220	TOK	syndrome		syndrome\N5S
+---	DLD	,		=\DELIM
+2221	TOK	to		to\P
+2222	TOK	back		back\N5S
+2223	TOK	up		up\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2224	TOK	Currently	BOS	currently\DGA7
+2225	TOK	patients		patient\N5P
+2226	TOK	with		with\P
+2227	TOK	severe		severe\JA
+2228	TOK	incontinence		incontinence\N5S
+2229	TOK	or		or\CC
+2230	TOK	bladder		bladder\N5S
+2231	TOK	reflux		reflux\N5S
+2232	TOK	may		may\VOFDR66
+2233	TOK	undergo		undergo\VMI----
+2234	TOK	various		various\JA
+2235	TOK	procedures		procedure\N5P
+---	DLD	,		=\DELIM
+2236	TOK	including		including\P
+2237	TOK	complex		complex\JA
+2238	TOK	surgery		surgery\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2239	TOK	Adults	BOS	adult\N5P
+2240	TOK	sometimes		sometimes\DGA7
+2241	TOK	receive		receive\VMF6R66
+2242	TOK	collagen		collagen\N5S
+2243	TOK	that		that\RW63N6
+2244	TOK	provides		provide\VMFDRS3
+2245	TOK	the		the\AT---6
+2246	TOK	same		same\JA
+2247	TOK	bulk		bulk\N5S
+2248	TOK	as		as\P
+2249	TOK	the		the\AT---6
+2250	TOK	cartilage		cartilage\N5S
+2251	TOK	implant		implant\VMF6R66
+---	DLD	,		=\DELIM
+2252	TOK	but		but\CC
+2253	TOK	collagen		collagen\N5S
+2254	TOK	eventually		eventually\DGA7
+2255	TOK	degrades		degrade\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2256	TOK	The	BOS	the\AT---6
+2257	TOK	new		new\JA
+2258	TOK	approach		approach\N5S
+2259	TOK	involves		involve\VMFDRS3
+2260	TOK	minimally		minimally\DGA7
+2261	TOK	invasive		invasive\JA
+2262	TOK	surgery		surgery\N5S
+2263	TOK	to		to\P
+2264	TOK	deliver		deliver\VMI----
+2265	TOK	the		the\AT---6
+2266	TOK	cells		cell\N5P
+2267	TOK	and		and\CC
+2268	TOK	grow		grow\VMF6R66
+2269	TOK	the		the\AT---6
+2270	TOK	new		new\JA
+2271	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2272	TOK	Walter D	BOS	Walter_D\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2273	TOK	Holder	BOS	holder\N5S
+---	DLD	,		=\DELIM
+##	TAG	<abbr pos="N5S" expansion="junior">
+2274	TOK	Jr.		Jr.\N5S
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+2275	TOK	and		and\CC
+##	TAG	<name pos="N46" type="organization">
+2276	TOK	Craig R. Halberstadt of Carolinas Medical Center		Craig_R._Halberstadt_of_Carolinas_Medical_Center\N46
+##	TAG	</name>
+2277	TOK	in		in\P
+##	TAG	<name>
+2278	TOK	Charlotte		Charlotte\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+2279	TOK	N.C.		N.C.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+2280	TOK	and		and\CC
+2281	TOK	one		one\RIS3N-
+2282	TOK	of		of\P
+2283	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2284	TOK	Mooney		Mooney\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2285	TOK	have		have\VMI----
+2286	TOK	begun		begin\VMC----
+2287	TOK	to		to\P
+2288	TOK	apply		apply\VMI----
+2289	TOK	such		such\JA
+2290	TOK	general		general\JA
+2291	TOK	tissue		tissue\N5S
+---	DLI	-		=\DELIM
+2292	TOK	engineering		engineering\N5S
+2293	TOK	concepts		concept\N5P
+2294	TOK	to		to\P
+2295	TOK	a		a\AI---S
+2296	TOK	major		major\JA
+2297	TOK	women		woman\N5P
+2298	PGR	's		genmark\GENMARK
+2299	TOK	health		health\N5S
+2300	TOK	issue		issue\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2301	TOK	We	BOS	we\RPP1NN
+2302	TOK	are		be\V6FDR66
+2303	TOK	attempting		attempt\VMG----
+2304	TOK	to		to\P
+2305	TOK	use		use\N5S
+2306	TOK	tissue		tissue\N5S
+2307	TOK	from		from\P
+2308	TOK	the		the\AT---6
+2309	TOK	legs		leg\N5P
+2310	TOK	or		or\CC
+2311	TOK	buttocks		buttock\N5P
+2312	TOK	to		to\P
+2313	TOK	grow		grow\VMI----
+2314	TOK	new		new\JA
+2315	TOK	breast		breast\N5S
+2316	TOK	tissue		tissue\N5S
+---	DLD	,		=\DELIM
+2317	TOK	to		to\P
+2318	TOK	replace		replace\VMI----
+2319	TOK	that		that\CS
+2320	TOK	removed		remove\VMC----
+2321	TOK	in		in\P
+2322	TOK	mastectomies		mastectomy\N5P
+2323	TOK	or		or\CC
+2324	TOK	lumpectomies		lumpectomy\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2325	TOK	We	BOS	we\RPP1NN
+2326	TOK	propose		propose\VMF6R66
+2327	TOK	to		to\P
+2328	TOK	take		take\VMI----
+2329	TOK	a		a\AI---S
+2330	TOK	biopsy		biopsy\N5S
+2331	TOK	of		of\P
+2332	TOK	the		the\AT---6
+2333	TOK	patient		patient\N5S
+2334	PGR	's		genmark\GENMARK
+2335	TOK	tissue		tissue\N5S
+---	DLD	,		=\DELIM
+2336	TOK	isolate		isolate\JA
+2337	TOK	cells		cell\N5P
+2338	TOK	from		from\P
+2339	TOK	this		this\AD---S
+2340	TOK	biopsy		biopsy\N5S
+2341	TOK	and		and\CC
+2342	TOK	multiply		multiply\VMF6R66
+2343	TOK	these		this\AD---P
+2344	TOK	cells		cell\N5P
+2345	TOK	outside		outside\P
+2346	TOK	the		the\AT---6
+2347	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2348	TOK	The	BOS	the\AT---6
+2349	TOK	woman		woman\N5S
+2350	PGR	's		genmark\GENMARK
+2351	TOK	own		own\JA
+2352	TOK	cells		cell\N5P
+2353	TOK	would		will\VOFDA66
+2354	TOK	then		then\DGA7
+2355	TOK	be		be\VMI----
+2356	TOK	returned		return\VMC----
+2357	TOK	to		to\P
+2358	TOK	her		her\APS3F6
+2359	TOK	in		in\P
+2360	TOK	a		a\AI---S
+2361	TOK	biodegradable		biodegradable\JA
+2362	TOK	polymer		polymer\N5S
+2363	TOK	matrix		matrix\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2364	TOK	Back	BOS	back\N5S
+2365	TOK	in		in\P
+2366	TOK	the		the\AT---6
+2367	TOK	body		body\N5S
+---	DLD	,		=\DELIM
+2368	TOK	cell		cell\N5S
+2369	TOK	growth		growth\N5S
+2370	TOK	and		and\CC
+2371	TOK	the		the\AT---6
+2372	TOK	deterioration		deterioration\N5S
+2373	TOK	of		of\P
+2374	TOK	the		the\AT---6
+2375	TOK	matrix		matrix\N5S
+2376	TOK	would		will\VOFDA66
+2377	TOK	lead		lead\VMI----
+2378	TOK	to		to\P
+2379	TOK	the		the\AT---6
+2380	TOK	formation		formation\N5S
+2381	TOK	of		of\P
+2382	TOK	completely		completely\DGA7
+2383	TOK	new		new\JA
+---	DLD	,		=\DELIM
+2384	TOK	natural		natural\JA
+2385	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2386	TOK	This	BOS	this\AD---S
+2387	TOK	process		process\N5S
+2388	TOK	would		will\VOFDA66
+2389	TOK	create		create\VMI----
+2390	TOK	only		only\DGA7
+2391	TOK	a		a\AI---S
+2392	TOK	soft		soft\JA
+---	DLI	-		=\DELIM
+2393	TOK	tissue		tissue\N5S
+2394	TOK	mass		mass\N5S
+---	DLD	,		=\DELIM
+2395	TOK	not		not\DGA7
+2396	TOK	the		the\AT---6
+2397	TOK	complex		complex\JA
+2398	TOK	system		system\N5S
+2399	TOK	of		of\P
+2400	TOK	numerous		numerous\JA
+2401	TOK	cell		cell\N5S
+2402	TOK	types		type\N5P
+2403	TOK	that		that\RW63N6
+2404	TOK	makes		make\VMFDRS3
+2405	TOK	up		up\P
+2406	TOK	a		a\AI---S
+2407	TOK	true		true\JA
+2408	TOK	breast		breast\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2409	TOK	Nevertheless	BOS	nevertheless\DGA7
+---	DLD	,		=\DELIM
+2410	TOK	it		it\RPS3N6
+2411	TOK	could		can\VOFDA66
+2412	TOK	provide		provide\VMI----
+2413	TOK	an		an\AI---S
+2414	TOK	alternative		alternative\N5S
+2415	TOK	to		to\P
+2416	TOK	current		current\JA
+2417	TOK	breast		breast\N5S
+2418	TOK	prostheses		prosthesis\N5P
+2419	TOK	or		or\CC
+2420	TOK	implants		implant\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2421	TOK	Optimism	BOS	optimism\N5S
+2422	TOK	for		for\P
+2423	TOK	the		the\AT---6
+2424	TOK	growth		growth\N5S
+2425	TOK	of		of\P
+2426	TOK	large		large\JA
+2427	TOK	neo		neo\N5P
+---	DLI	-		=\DELIM
+2428	TOK	organs		organ\N5P
+2429	TOK	of		of\P
+##	TAG	<loc pos="DGA7">
+2430	TOK	one or more		one_or_more\DGA7
+##	TAG	</loc>
+2431	TOK	cell		cell\N5S
+2432	TOK	types		type\N5P
+2433	TOK	has		have\V6FDRS3
+2434	TOK	been		be\VMC----
+2435	TOK	fueled		fuel\VMC----
+2436	TOK	by		by\P
+2437	TOK	success		success\N5S
+2438	TOK	in		in\P
+2439	TOK	several		several\JA
+2440	TOK	animal		animal\N5S
+2441	TOK	models		model\N5P
+2442	TOK	of		of\P
+2443	TOK	human		human\JA
+2444	TOK	diseases		disease\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2445	TOK	Mikos	BOS	Mikos\N46
+##	TAG	</name>
+2446	TOK	recently		recently\DGA7
+2447	TOK	demonstrated		demonstrate\VMF6A66
+2448	TOK	that		that\CS
+2449	TOK	new		new\JA
+2450	TOK	bone		bone\N5S
+2451	TOK	tissue		tissue\N5S
+2452	TOK	can		can\VOFDR66
+2453	TOK	be		be\VMI----
+2454	TOK	grown		grow\VMC----
+2455	TOK	by		by\P
+2456	TOK	transplanting		transplant\VMG----
+2457	TOK	cells		cell\N5P
+2458	TOK	taken		take\VMC----
+2459	TOK	from		from\P
+2460	TOK	bone		bone\N5S
+2461	TOK	marrow		marrow\N5S
+2462	TOK	and		and\CC
+2463	TOK	growing		grow\VMG----
+2464	TOK	them		them\RPP3NA
+2465	TOK	on		on\P
+2466	TOK	biodegradable		biodegradable\JA
+2467	TOK	polymers		polymer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2468	TOK	Transplantation	BOS	transplantation\N5S
+2469	TOK	of		of\P
+2470	TOK	cells		cell\N5P
+2471	TOK	to		to\P
+2472	TOK	skeletal		skeletal\JA
+2473	TOK	defects		defect\N5P
+2474	TOK	makes		make\VMFDRS3
+2475	TOK	it		it\RPS3N6
+2476	TOK	possible		possible\JA
+2477	TOK	for		for\P
+2478	TOK	cells		cell\N5P
+2479	TOK	to		to\P
+2480	TOK	produce		produce\VMI----
+2481	TOK	factors		factor\N5P
+2482	TOK	locally		locally\DGA7
+---	DLD	,		=\DELIM
+2483	TOK	thus		thus\DGA7
+2484	TOK	offering		offer\VMG----
+2485	TOK	a		a\AI---S
+2486	TOK	new		new\JA
+2487	TOK	means		mean\N56
+2488	TOK	of		of\P
+2489	TOK	delivery		delivery\N5S
+2490	TOK	for		for\P
+2491	TOK	growth		growth\N5S
+---	DLI	-		=\DELIM
+2492	TOK	promoting		promote\VMG----
+2493	TOK	drugs		drug\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2494	TOK	Recipes	BOS	recipe\N5P
+2495	TOK	for		for\P
+2496	TOK	the		the\AT---6
+##	TAG	<name>
+2497	TOK	Future	EOS	Future\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2499	TOK	In	BOS	in\P
+2500	TOK	any		any\AG---6
+2501	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+2502	TOK	size		size\N5S
+2503	TOK	imposes		impose\VMFDRS3
+2504	TOK	new		new\JA
+2505	TOK	demands		demand\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2506	TOK	As	BOS	as\CS
+2507	TOK	previously		previously\DGA7
+2508	TOK	noted		note\VMF6A66
+---	DLD	,		=\DELIM
+2509	TOK	tissues		tissue\N5P
+2510	TOK	of		of\P
+2511	TOK	any		any\AG---6
+2512	TOK	substantial		substantial\JA
+2513	TOK	size		size\N5S
+2514	TOK	need		need\V6F6R66
+2515	TOK	a		a\AI---S
+2516	TOK	blood		blood\N5S
+2517	TOK	supply		supply\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2518	TOK	To	BOS	to\P
+2519	TOK	address		address\VMI----
+2520	TOK	that		that\AD---S
+2521	TOK	requirement		requirement\N5S
+---	DLD	,		=\DELIM
+2522	TOK	engineers		engineer\N5P
+2523	TOK	may		may\VOFDR66
+2524	TOK	need		need\VMI----
+2525	TOK	to		to\P
+2526	TOK	transplant		transplant\N5S
+2527	TOK	the		the\AT---6
+2528	TOK	right		right\JA
+2529	TOK	cell		cell\N5S
+2530	TOK	types		type\N5P
+2531	TOK	together		together\DGA7
+2532	TOK	with		with\P
+2533	TOK	drugs		drug\N5P
+2534	TOK	that		that\RW63N6
+2535	TOK	spur		spur\VMF6R66
+2536	TOK	angiogenesis		angiogenesis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2537	TOK	Molecules	BOS	molecule\N5P
+2538	TOK	that		that\RW63N6
+2539	TOK	promote		promote\VMF6R66
+2540	TOK	blood		blood\N5S
+2541	TOK	vessel		vessel\N5S
+2542	TOK	growth		growth\N5S
+2543	TOK	could		can\VOFDA66
+2544	TOK	be		be\VMI----
+2545	TOK	included		include\VMC----
+2546	TOK	in		in\P
+2547	TOK	the		the\AT---6
+2548	TOK	polymers		polymer\N5P
+2549	TOK	used		use\VMC----
+2550	TOK	as		as\P
+2551	TOK	transplant		transplant\N5S
+2552	TOK	scaffolds		scaffold\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2553	TOK	Alternatively	BOS	alternatively\DGA7
+---	DLD	,		=\DELIM
+2554	TOK	we		we\RPP1NN
+2555	TOK	and		and\CC
+2556	TOK	others		other\RIP3N-
+2557	TOK	have		have\V6F6R66
+2558	TOK	proposed		propose\VMC----
+2559	TOK	that		that\CS
+2560	TOK	it		it\RPS3N6
+2561	TOK	may		may\VOFDR66
+2562	TOK	be		be\VMI----
+2563	TOK	possible		possible\JA
+2564	TOK	to		to\P
+2565	TOK	create		create\VMI----
+2566	TOK	a		a\AI---S
+2567	TOK	blood		blood\N5S
+2568	TOK	vessel		vessel\N5S
+2569	TOK	network		network\N5S
+2570	TOK	within		within\P
+2571	TOK	an		an\AI---S
+2572	TOK	engineered		engineer\VMC----
+2573	TOK	organ		organ\N5S
+##	TAG	<loc pos="DGA7">
+2574	TOK	prior to		prior_to\DGA7
+##	TAG	</loc>
+2575	TOK	transplantation		transplantation\N5S
+2576	TOK	by		by\P
+2577	TOK	incorporating		incorporate\VMG----
+2578	TOK	cells		cell\N5P
+2579	TOK	that		that\RW63N6
+2580	TOK	will		will\VOFDR66
+2581	TOK	become		become\VMI----
+2582	TOK	blood		blood\N5S
+2583	TOK	vessels		vessel\N5P
+2584	TOK	within		within\P
+2585	TOK	the		the\AT---6
+2586	TOK	scaffold		scaffold\N5S
+2587	TOK	matrix		matrix\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2588	TOK	Such	BOS	such\JA
+2589	TOK	engineered		engineer\VMC----
+2590	TOK	blood		blood\N5S
+2591	TOK	vessels		vessel\N5P
+2592	TOK	would		will\VOFDA66
+2593	TOK	then		then\DGA7
+2594	TOK	need		need\VMI----
+2595	TOK	only		only\DGA7
+2596	TOK	to		to\P
+2597	TOK	connect		connect\VMI----
+2598	TOK	to		to\P
+2599	TOK	surrounding		surround\VMG----
+2600	TOK	vessels		vessel\N5P
+2601	TOK	for		for\P
+2602	TOK	the		the\AT---6
+2603	TOK	engineered		engineer\VMC----
+2604	TOK	tissue		tissue\N5S
+2605	TOK	to		to\P
+2606	TOK	develop		develop\VMI----
+2607	TOK	a		a\AI---S
+2608	TOK	blood		blood\N5S
+2609	TOK	supply		supply\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2610	TOK	In	BOS	in\P
+2611	TOK	collaboration		collaboration\N5S
+2612	TOK	with		with\P
+##	TAG	<name>
+2613	TOK	Peter J. Polverini of Michigan		Peter_J._Polverini_of_Michigan\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2614	TOK	Mooney		Mooney\N46
+##	TAG	</name>
+2615	TOK	has		have\V6FDRS3
+2616	TOK	shown		show\VMC----
+2617	TOK	that		that\CS
+2618	TOK	transplanted		transplant\VMC----
+2619	TOK	blood		blood\N5S
+2620	TOK	vessel		vessel\N5S
+2621	TOK	cells		cell\N5P
+2622	TOK	will		will\VOFDR66
+2623	TOK	indeed		indeed\DGA7
+2624	TOK	form		form\VMI----
+2625	TOK	such		such\JA
+2626	TOK	connections		connection\N5P
+2627	TOK	and		and\CC
+2628	TOK	that		that\CS
+2629	TOK	the		the\AT---6
+2630	TOK	new		new\JA
+2631	TOK	vessels		vessel\N5P
+2632	TOK	are		be\V6FDR66
+2633	TOK	a		a\AI---S
+2634	TOK	blend		blend\N5S
+2635	TOK	of		of\P
+2636	TOK	both		both\RIP3N-
+2637	TOK	implanted		implant\VMF6A66
+2638	TOK	and		and\CC
+2639	TOK	host		host\N5S
+2640	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2641	TOK	But	BOS	but\CC
+2642	TOK	this		this\AD---S
+2643	TOK	technique		technique\N5S
+2644	TOK	might		may\VOFDR66
+2645	TOK	not		not\DGA7
+2646	TOK	work		work\VMI----
+2647	TOK	when		when\CS
+2648	TOK	transplanting		transplant\VMG----
+2649	TOK	engineered		engineer\VMC----
+2650	TOK	tissue		tissue\N5S
+2651	TOK	into		into\P
+2652	TOK	a		a\AI---S
+2653	TOK	site		site\N5S
+2654	TOK	where		where\CS
+2655	TOK	blood		blood\N5S
+2656	TOK	vessels		vessel\N5P
+2657	TOK	have		have\V6F6R66
+2658	TOK	been		be\VMC----
+2659	TOK	damaged		damage\VMC----
+2660	TOK	by		by\P
+2661	TOK	cancer		cancer\N5S
+2662	TOK	therapy		therapy\N5S
+2663	TOK	or		or\CC
+2664	TOK	trauma		trauma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2665	TOK	In	BOS	in\P
+2666	TOK	such		such\JA
+2667	TOK	situations		situation\N5P
+---	DLD	,		=\DELIM
+2668	TOK	it		it\RPS3N6
+2669	TOK	may		may\VOFDR66
+2670	TOK	be		be\VMI----
+2671	TOK	necessary		necessary\JA
+2672	TOK	to		to\P
+2673	TOK	propagate		propagate\VMI----
+2674	TOK	the		the\AT---6
+2675	TOK	tissue		tissue\N5S
+2676	TOK	first		first\DGA7
+2677	TOK	at		at\P
+2678	TOK	another		another\JA
+2679	TOK	site		site\N5S
+2680	TOK	in		in\P
+2681	TOK	the		the\AT---6
+2682	TOK	body		body\N5S
+2683	TOK	where		where\CS
+2684	TOK	blood		blood\N5S
+2685	TOK	vessels		vessel\N5P
+2686	TOK	can		can\VOFDR66
+2687	TOK	more		more\DDC7
+2688	TOK	readily		readily\DGA7
+2689	TOK	grow		grow\VMF6R66
+2690	TOK	into		into\P
+2691	TOK	the		the\AT---6
+2692	TOK	new		new\JA
+2693	TOK	structure		structure\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2694	TOK	Mikos	BOS	Mikos\N46
+##	TAG	</name>
+2695	TOK	collaborates		collaborate\VMFDRS3
+2696	TOK	with		with\P
+##	TAG	<name>
+2697	TOK	Michael J		Michael_J\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2698	TOK	Miller	BOS	miller\N5S
+2699	TOK	of		of\P
+2700	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2701	TOK	M. D. Anderson Cancer Center		M._D._Anderson_Cancer_Center\N46
+##	TAG	</name>
+2702	TOK	to		to\P
+2703	TOK	fabricate		fabricate\VMI----
+2704	TOK	vascularized		vascularize\VMC----
+2705	TOK	bone		bone\N5S
+2706	TOK	for		for\P
+2707	TOK	reconstructive		reconstructive\JA
+2708	TOK	surgery		surgery\N5S
+2709	TOK	using		use\VMG----
+2710	TOK	this		this\AD---S
+2711	TOK	approach		approach\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2712	TOK	A	BOS	a\AI---S
+2713	TOK	jawbone		jawbone\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+2714	TOK	for instance		for_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2715	TOK	could		can\VOFDA66
+2716	TOK	be		be\VMI----
+2717	TOK	grown		grow\VMC----
+2718	TOK	connected		connect\VMC----
+2719	TOK	to		to\P
+2720	TOK	a		a\AI---S
+2721	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+2722	TOK	vascularized		vascularize\VMC----
+2723	TOK	hipbone		hipbone\N5S
+2724	TOK	for		for\P
+2725	TOK	an		an\AI---S
+2726	TOK	oral		oral\JA
+2727	TOK	cancer		cancer\N5S
+2728	TOK	patient		patient\N5S
+2729	TOK	who		who\RW63N-
+2730	TOK	has		have\V6FDRS3
+2731	TOK	received		receive\VMC----
+2732	TOK	radiation		radiation\N5S
+2733	TOK	treatments		treatment\N5P
+2734	TOK	around		around\P
+2735	TOK	the		the\AT---6
+2736	TOK	mouth		mouth\N5S
+2737	TOK	that		that\RW63N6
+2738	TOK	damaged		damage\VMF6A66
+2739	TOK	the		the\AT---6
+2740	TOK	blood		blood\N5S
+2741	TOK	supply		supply\N5S
+2742	TOK	to		to\P
+2743	TOK	the		the\AT---6
+2744	TOK	jawbone		jawbone\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2745	TOK	On	BOS	on\P
+2746	TOK	another		another\JA
+2747	TOK	front		front\N5S
+---	DLD	,		=\DELIM
+2748	TOK	engineered		engineer\VMC----
+2749	TOK	tissues		tissue\N5P
+2750	TOK	typically		typically\DGA7
+2751	TOK	use		use\VMF6R66
+2752	TOK	biomaterials		biomaterial\N5P
+---	DLD	,		=\DELIM
+2753	TOK	such		such\JA
+2754	TOK	as		as\P
+2755	TOK	collagen		collagen\N5S
+---	DLD	,		=\DELIM
+2756	TOK	that		that\RW63N6
+2757	TOK	are		be\V6FDR66
+2758	TOK	available		available\JA
+2759	TOK	from		from\P
+2760	TOK	nature		nature\N5S
+2761	TOK	or		or\CC
+2762	TOK	that		that\RW63N6
+2763	TOK	can		can\VOFDR66
+2764	TOK	be		be\VMI----
+2765	TOK	adapted		adapt\VMC----
+2766	TOK	from		from\P
+2767	TOK	other		other\JA
+2768	TOK	biomedical		biomedical\JA
+2769	TOK	uses		use\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2770	TOK	We	BOS	we\RPP1NN
+2771	TOK	and		and\CC
+2772	TOK	others		other\RIP3N-
+---	DLD	,		=\DELIM
+2773	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+2774	TOK	are		be\V6FDR66
+2775	TOK	developing		develop\VMG----
+2776	TOK	new		new\JA
+2777	TOK	biodegradable		biodegradable\JA
+---	DLD	,		=\DELIM
+2778	TOK	polymeric		polymeric\JA
+2779	TOK	materials		material\N5P
+2780	TOK	specific		specific\JA
+2781	TOK	to		to\P
+2782	TOK	this		this\AD---S
+2783	TOK	task		task\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2784	TOK	These	BOS	this\AD---P
+2785	TOK	materials		material\N5P
+2786	TOK	may		may\VOFDR66
+2787	TOK	accurately		accurately\DGA7
+2788	TOK	determine		determine\VMI----
+2789	TOK	the		the\AT---6
+2790	TOK	size		size\N5S
+2791	TOK	and		and\CC
+2792	TOK	shape		shape\N5S
+2793	TOK	of		of\P
+2794	TOK	an		an\AI---S
+2795	TOK	engineered		engineer\VMC----
+2796	TOK	tissue		tissue\N5S
+---	DLD	,		=\DELIM
+2797	TOK	precisely		precisely\DGA7
+2798	TOK	control		control\VMF6R66
+2799	TOK	the		the\AT---6
+2800	TOK	function		function\N5S
+2801	TOK	of		of\P
+2802	TOK	cells		cell\N5P
+2803	TOK	in		in\P
+2804	TOK	contact		contact\N5S
+2805	TOK	with		with\P
+2806	TOK	the		the\AT---6
+2807	TOK	material		material\N5S
+2808	TOK	and		and\CC
+2809	TOK	degrade		degrade\VMF6R66
+2810	TOK	at		at\P
+2811	TOK	rates		rate\N5P
+2812	TOK	that		that\RW63N6
+2813	TOK	optimize		optimize\VMF6R66
+2814	TOK	tissue		tissue\N5S
+2815	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2816	TOK	Structural	BOS	structural\JA
+2817	TOK	tissues		tissue\N5P
+---	DLD	,		=\DELIM
+2818	TOK	such		such\JA
+2819	TOK	as		as\P
+2820	TOK	skin		skin\N5S
+---	DLD	,		=\DELIM
+2821	TOK	bone		bone\N5S
+2822	TOK	and		and\CC
+2823	TOK	cartilage		cartilage\N5S
+---	DLD	,		=\DELIM
+2824	TOK	will		will\VOFDR66
+2825	TOK	most		most\DDS7
+2826	TOK	likely		likely\DGA7
+2827	TOK	continue		continue\VMF6R66
+2828	TOK	to		to\P
+2829	TOK	dominate		dominate\VMI----
+2830	TOK	the		the\AT---6
+2831	TOK	first		first\MOS
+2832	TOK	wave		wave\N5S
+2833	TOK	of		of\P
+2834	TOK	success		success\N5S
+2835	TOK	stories		story\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="CS">
+2836	TOK	thanks to		thanks_to\CS
+##	TAG	</loc>
+2837	TOK	their		their\APP3N6
+2838	TOK	relative		relative\JA
+2839	TOK	simplicity		simplicity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2840	TOK	The	BOS	the\AT---6
+2841	TOK	holy		holy\JA
+2842	TOK	grail		grail\N5S
+2843	TOK	of		of\P
+2844	TOK	tissue		tissue\N5S
+2845	TOK	engineering		engineer\VMG----
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+2846	TOK	of course		of_course\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2847	TOK	remains		remain\VMFDRS3
+2848	TOK	complete		complete\JA
+2849	TOK	internal		internal\JA
+2850	TOK	organs		organ\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2851	TOK	The	BOS	the\AT---6
+2852	TOK	liver		liver\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+2853	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2854	TOK	performs		perform\VMFDRS3
+2855	TOK	many		many\AI---P
+2856	TOK	chemical		chemical\JA
+2857	TOK	reactions		reaction\N5P
+2858	TOK	critical		critical\JA
+2859	TOK	to		to\P
+2860	TOK	life		life\N5S
+---	DLD	,		=\DELIM
+2861	TOK	and		and\CC
+2862	TOK	more		more\DDC7
+2863	TOK	than		than\CS
+##	TAG	<num>
+2864	TOK	30,000		30,000\X
+##	TAG	</num>
+2865	TOK	people		people\N56
+2866	TOK	die		die\VMF6R66
+2867	TOK	every		every\AG---S
+2868	TOK	year		year\N5S
+##	TAG	<loc pos="P">
+2869	TOK	because of		because_of\P
+##	TAG	</loc>
+2870	TOK	liver		liver\N5S
+2871	TOK	failure		failure\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2872	TOK	It	BOS	it\RPS3N6
+2873	TOK	has		have\V6FDRS3
+2874	TOK	been		be\VMC----
+2875	TOK	recognized		recognize\VMC----
+2876	TOK	since		since\CS
+##	TAG	<loc pos="DGA7">
+2877	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+2878	TOK	the		the\AT---6
+2879	TOK	time		time\N5S
+2880	TOK	of		of\P
+2881	TOK	the		the\AT---6
+2882	TOK	ancient		ancient\JA
+##	TAG	<loc pos="JA">
+2883	TOK	Greek		greek\JA
+##	TAG	</loc>
+2884	TOK	legend		legend\N5S
+2885	TOK	of		of\P
+##	TAG	<name>
+2886	TOK	Prometheus		Prometheus\N46
+##	TAG	</name>
+2887	TOK	that		that\CS
+2888	TOK	the		the\AT---6
+2889	TOK	liver		liver\N5S
+2890	TOK	has		have\V6FDRS3
+2891	TOK	the		the\AT---6
+2892	TOK	unique		unique\JA
+2893	TOK	potential		potential\JA
+2894	TOK	to		to\P
+2895	TOK	regenerate		regenerate\VMI----
+2896	TOK	partially		partially\DGA7
+2897	TOK	after		after\P
+2898	TOK	injury		injury\N5S
+---	DLD	,		=\DELIM
+2899	TOK	and		and\CC
+2900	TOK	tissue		tissue\N5S
+2901	TOK	engineers		engineer\N5P
+2902	TOK	are		be\V6FDR66
+2903	TOK	now		now\DGA7
+2904	TOK	trying		try\VMG----
+2905	TOK	to		to\P
+2906	TOK	exploit		exploit\VMI----
+2907	TOK	this		this\AD---S
+2908	TOK	property		property\N5S
+2909	TOK	of		of\P
+2910	TOK	liver		liver\N5S
+2911	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2912	TOK	A	BOS	a\AI---S
+2913	TOK	number		number\N5S
+2914	TOK	of		of\P
+2915	TOK	investigators		investigator\N5P
+---	DLD	,		=\DELIM
+2916	TOK	including		including\P
+##	TAG	<name>
+2917	TOK	Joseph Vacanti		Joseph_Vacanti\N46
+##	TAG	</name>
+2918	TOK	and		and\CC
+##	TAG	<name pos="N46" type="organization">
+2919	TOK	Achilles A. Demetriou of Cedars-Sinai Medical Center		Achilles_A._Demetriou_of_Cedars-Sinai_Medical_Center\N46
+##	TAG	</name>
+2920	TOK	in		in\P
+##	TAG	<name>
+2921	TOK	Los Angeles		Los_Angeles\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2922	TOK	have		have\V6F6R66
+2923	TOK	demonstrated		demonstrate\VMC----
+2924	TOK	that		that\CS
+2925	TOK	new		new\JA
+2926	TOK	liverlike		liverlike\JA
+2927	TOK	tissues		tissue\N5P
+2928	TOK	can		can\VOFDR66
+2929	TOK	be		be\VMI----
+2930	TOK	created		create\VMC----
+2931	TOK	in		in\P
+2932	TOK	animals		animal\N5P
+2933	TOK	from		from\P
+2934	TOK	transplanted		transplant\VMC----
+2935	TOK	liver		liver\N5S
+2936	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2937	TOK	We	BOS	we\RPP1NN
+2938	TOK	have		have\V6F6R66
+2939	TOK	developed		develop\VMC----
+2940	TOK	new		new\JA
+2941	TOK	biomaterials		biomaterial\N5P
+2942	TOK	for		for\P
+2943	TOK	growing		grow\VMG----
+2944	TOK	liverlike		liverlike\JA
+2945	TOK	tissues		tissue\N5P
+2946	TOK	and		and\CC
+2947	TOK	shown		show\VMC----
+2948	TOK	that		that\CS
+2949	TOK	delivering		deliver\VMG----
+2950	TOK	drugs		drug\N5P
+2951	TOK	to		to\P
+2952	TOK	transplanted		transplant\VMC----
+2953	TOK	liver		liver\N5S
+2954	TOK	cells		cell\N5P
+2955	TOK	can		can\VOFDR66
+2956	TOK	increase		increase\VMI----
+2957	TOK	their		their\APP3N6
+2958	TOK	growth		growth\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2959	TOK	The	BOS	the\AT---6
+2960	TOK	new		new\JA
+2961	TOK	tissues		tissue\N5P
+2962	TOK	grown		grow\VMC----
+2963	TOK	in		in\P
+2964	TOK	all		all\AG---6
+2965	TOK	these		this\AD---P
+2966	TOK	studies		study\N5P
+2967	TOK	can		can\VOFDR66
+2968	TOK	replace		replace\VMI----
+2969	TOK	single		single\JA
+2970	TOK	chemical		chemical\JA
+2971	TOK	functions		function\N5P
+2972	TOK	of		of\P
+2973	TOK	the		the\AT---6
+2974	TOK	liver		liver\N5S
+2975	TOK	in		in\P
+2976	TOK	animals		animal\N5P
+---	DLD	,		=\DELIM
+2977	TOK	but		but\CC
+2978	TOK	the		the\AT---6
+2979	TOK	entire		entire\JA
+2980	TOK	function		function\N5S
+2981	TOK	of		of\P
+2982	TOK	the		the\AT---6
+2983	TOK	organ		organ\N5S
+2984	TOK	has		have\V6FDRS3
+2985	TOK	not		not\DGA7
+2986	TOK	yet		yet\DGA7
+2987	TOK	been		be\VMC----
+2988	TOK	replicated		replicate\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2989	TOK	H. David Humes of Michigan	BOS	H._David_Humes_of_Michigan\N46
+##	TAG	</name>
+2990	TOK	and		and\CC
+##	TAG	<name>
+2991	TOK	Atala		Atala\N46
+##	TAG	</name>
+2992	TOK	are		be\V6FDR66
+2993	TOK	using		use\VMG----
+2994	TOK	kidney		kidney\N5S
+2995	TOK	cells		cell\N5P
+2996	TOK	to		to\P
+2997	TOK	make		make\VMI----
+2998	TOK	neo		neo\N5P
+---	DLI	-		=\DELIM
+2999	TOK	organs		organ\N5P
+3000	TOK	that		that\RW63N6
+3001	TOK	possess		possess\VMF6R66
+3002	TOK	the		the\AT---6
+3003	TOK	filtering		filter\VMG----
+3004	TOK	capability		capability\N5S
+3005	TOK	of		of\P
+3006	TOK	the		the\AT---6
+3007	TOK	kidney		kidney\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3008	TOK	In	BOS	in\P
+3009	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+3010	TOK	recent		recent\JA
+3011	TOK	animal		animal\N5S
+3012	TOK	studies		study\N5P
+3013	TOK	by		by\P
+##	TAG	<name>
+3014	TOK	Joseph Vacanti		Joseph_Vacanti\N46
+##	TAG	</name>
+3015	PGR	's		genmark\GENMARK
+3016	TOK	group		group\N5S
+3017	TOK	have		have\V6F6R66
+3018	TOK	demonstrated		demonstrate\VMC----
+3019	TOK	that		that\AD---S
+3020	TOK	intestine		intestine\N5S
+3021	TOK	can		can\VOFDR66
+3022	TOK	be		be\VMI----
+3023	TOK	grown		grow\VMC----
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+3024	TOK	within		within\P
+3025	TOK	the		the\AT---6
+3026	TOK	abdominal		abdominal\JA
+3027	TOK	cavity		cavity\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+3028	TOK	and		and\CC
+3029	TOK	then		then\DGA7
+3030	TOK	spliced		splice\VMC----
+3031	TOK	into		into\P
+3032	TOK	existing		existing\JA
+3033	TOK	intestinal		intestinal\JA
+3034	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3035	TOK	Human	BOS	human\JA
+3036	TOK	versions		version\N5P
+3037	TOK	of		of\P
+3038	TOK	these		this\AD---P
+3039	TOK	neointestines		neointestines\N5P
+3040	TOK	could		can\VOFDA66
+3041	TOK	be		be\VMI----
+3042	TOK	a		a\AI---S
+3043	TOK	boon		boon\N5S
+3044	TOK	to		to\P
+3045	TOK	patients		patient\N5P
+3046	TOK	suffering		suffer\VMG----
+3047	TOK	from		from\P
+3048	TOK	short		short\JA
+---	DLI	-		=\DELIM
+3049	TOK	bowel		bowel\N5S
+3050	TOK	syndrome		syndrome\N5S
+---	DLD	,		=\DELIM
+3051	TOK	a		a\AI---S
+3052	TOK	condition		condition\N5S
+3053	TOK	caused		cause\VMC----
+3054	TOK	by		by\P
+3055	TOK	birth		birth\N5S
+3056	TOK	defects		defect\N5P
+3057	TOK	or		or\CC
+3058	TOK	trauma		trauma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3059	TOK	This	BOS	this\AD---S
+3060	TOK	syndrome		syndrome\N5S
+3061	TOK	affects		affect\VMFDRS3
+3062	TOK	overall		overall\JA
+3063	TOK	physical		physical\JA
+3064	TOK	development		development\N5S
+##	TAG	<loc pos="P">
+3065	TOK	because of		because_of\P
+##	TAG	</loc>
+3066	TOK	digestion		digestion\N5S
+3067	TOK	problems		problem\N5P
+3068	TOK	and		and\CC
+3069	TOK	subsequent		subsequent\JA
+3070	TOK	insufficient		insufficient\JA
+3071	TOK	nutrient		nutrient\JA
+3072	TOK	intake		intake\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3073	TOK	The	BOS	the\AT---6
+3074	TOK	only		only\DGA7
+3075	TOK	available		available\JA
+3076	TOK	treatment		treatment\N5S
+3077	TOK	is		be\V6FDRS3
+3078	TOK	an		an\AI---S
+3079	TOK	intestinal		intestinal\JA
+3080	TOK	transplant		transplant\N5S
+---	DLD	,		=\DELIM
+3081	TOK	although		although\CS
+3082	TOK	few		few\JA
+3083	TOK	patients		patient\N5P
+3084	TOK	actually		actually\DGA7
+3085	TOK	get		get\VMF6R66
+3086	TOK	one		one\MCS
+---	DLD	,		=\DELIM
+3087	TOK	again		again\DGA7
+##	TAG	<loc pos="P">
+3088	TOK	because of		because_of\P
+##	TAG	</loc>
+3089	TOK	the		the\AT---6
+3090	TOK	extreme		extreme\JA
+3091	TOK	shortage		shortage\N5S
+3092	TOK	of		of\P
+3093	TOK	donated		donate\VMC----
+3094	TOK	organs		organ\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3095	TOK	Recently	BOS	recently\DGA7
+##	TAG	<name>
+3096	TOK	Atala		Atala\N46
+##	TAG	</name>
+3097	TOK	has		have\V6FDRS3
+3098	TOK	also		also\DGA7
+3099	TOK	demonstrated		demonstrate\VMC----
+3100	TOK	in		in\P
+3101	TOK	animals		animal\N5P
+3102	TOK	that		that\CS
+3103	TOK	a		a\AI---S
+3104	TOK	complete		complete\JA
+3105	TOK	bladder		bladder\N5S
+3106	TOK	can		can\VOFDR66
+3107	TOK	be		be\VMI----
+3108	TOK	formed		form\VMC----
+3109	TOK	with		with\P
+3110	TOK	this		this\AD---S
+3111	TOK	approach		approach\N5S
+3112	TOK	and		and\CC
+3113	TOK	used		use\VMC----
+3114	TOK	to		to\P
+3115	TOK	replace		replace\VMI----
+3116	TOK	the		the\AT---6
+3117	TOK	native		native\JA
+3118	TOK	bladder		bladder\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3119	TOK	Even	BOS	even\DGA7
+3120	TOK	the		the\AT---6
+3121	TOK	heart		heart\N5S
+3122	TOK	is		be\V6FDRS3
+3123	TOK	a		a\AI---S
+3124	TOK	target		target\N5S
+3125	TOK	for		for\P
+3126	TOK	regrowth		regrowth\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3127	TOK	A	BOS	a\AI---S
+3128	TOK	group		group\N5S
+3129	TOK	of		of\P
+3130	TOK	scientists		scientist\N5P
+3131	TOK	headed		head\VMC----
+3132	TOK	by		by\P
+##	TAG	<name>
+3133	TOK	Michael V. Sefton		Michael_V._Sefton\N46
+##	TAG	</name>
+3134	TOK	at		at\P
+3135	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+3136	TOK	University of Toronto		University_of_Toronto\N46
+##	TAG	</name>
+3137	TOK	recently		recently\DGA7
+3138	TOK	began		begin\VMF6A66
+3139	TOK	an		an\AI---S
+3140	TOK	ambitious		ambitious\JA
+3141	TOK	project		project\N5S
+3142	TOK	to		to\P
+3143	TOK	grow		grow\VMI----
+3144	TOK	new		new\JA
+3145	TOK	hearts		heart\N5P
+3146	TOK	for		for\P
+3147	TOK	the		the\AT---6
+3148	TOK	multitude		multitude\N5S
+3149	TOK	of		of\P
+3150	TOK	people		people\N56
+3151	TOK	who		who\RW63N-
+3152	TOK	die		die\VMF6R66
+3153	TOK	from		from\P
+3154	TOK	heart		heart\N5S
+3155	TOK	failure		failure\N5S
+3156	TOK	every		every\AG---S
+3157	TOK	year		year\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3158	TOK	It	BOS	it\RPS3N6
+3159	TOK	will		will\VOFDR66
+3160	TOK	very		very\JA
+3161	TOK	likely		likely\DGA7
+3162	TOK	take		take\VMF6R66
+3163	TOK	scientists		scientist\N5P
+##	TAG	<num>
+3164	TOK	10		10\X
+##	TAG	</num>
+3165	TOK	to		to\P
+##	TAG	<num>
+3166	TOK	20		20\X
+##	TAG	</num>
+3167	TOK	years		year\N5P
+3168	TOK	to		to\P
+3169	TOK	learn		learn\VMI----
+3170	TOK	how		how\DGAW
+3171	TOK	to		to\P
+3172	TOK	grow		grow\VMI----
+3173	TOK	an		an\AI---S
+3174	TOK	entire		entire\JA
+3175	TOK	heart		heart\N5S
+---	DLD	,		=\DELIM
+3176	TOK	but		but\CC
+3177	TOK	tissues		tissue\N5P
+3178	TOK	such		such\RIS3N-
+3179	TOK	as		as\P
+3180	TOK	heart		heart\N5S
+3181	TOK	valves		valve\N5P
+3182	TOK	and		and\CC
+3183	TOK	blood		blood\N5S
+3184	TOK	vessels		vessel\N5P
+3185	TOK	may		may\VOFDR66
+3186	TOK	be		be\VMI----
+3187	TOK	available		available\JA
+3188	TOK	sooner		sooner\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3189	TOK	Indeed	BOS	indeed\DGA7
+---	DLD	,		=\DELIM
+3190	TOK	several		several\JA
+3191	TOK	companies		company\N5P
+---	DLD	,		=\DELIM
+3192	TOK	including		including\P
+##	TAG	<name>
+3193	TOK	Advanced Tissue Sciences		Advanced_Tissue_Sciences\N46
+##	TAG	</name>
+3194	TOK	in		in\P
+##	TAG	<name>
+3195	TOK	La Jolla		La_Jolla\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+3196	TOK	Calif.		Calif.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+3197	TOK	and		and\CC
+##	TAG	<name>
+3198	TOK	Organogenesis		Organogenesis\N46
+##	TAG	</name>
+3199	TOK	in		in\P
+##	TAG	<name>
+3200	TOK	Canton		Canton\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+3201	TOK	Mass.		Mass.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+3202	TOK	are		be\V6FDR66
+3203	TOK	attempting		attempt\VMG----
+3204	TOK	to		to\P
+3205	TOK	develop		develop\VMI----
+3206	TOK	commercial		commercial\JA
+3207	TOK	processes		process\N5P
+3208	TOK	for		for\P
+3209	TOK	growing		grow\VMG----
+3210	TOK	these		this\AD---P
+3211	TOK	tissues		tissue\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3212	TOK	Prediction	BOS	prediction\N5S
+---	DLD	,		=\DELIM
+3213	TOK	especially		especially\DGA7
+3214	TOK	in		in\P
+3215	TOK	medicine		medicine\N5S
+---	DLD	,		=\DELIM
+3216	TOK	is		be\V6FDRS3
+3217	TOK	fraught		fraught\JA
+3218	TOK	with		with\P
+3219	TOK	peril		peril\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3220	TOK	A	BOS	a\AI---S
+3221	TOK	safe		safe\JA
+3222	TOK	way		way\N5S
+3223	TOK	to		to\P
+3224	TOK	prophesy		prophesy\VMI----
+3225	TOK	the		the\AT---6
+3226	TOK	future		future\N5S
+3227	TOK	of		of\P
+3228	TOK	tissue		tissue\N5S
+3229	TOK	engineering		engineer\VMG----
+---	DLD	,		=\DELIM
+3230	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+3231	TOK	may		may\VOFDR66
+3232	TOK	be		be\VMI----
+3233	TOK	to		to\P
+3234	TOK	weigh		weigh\VMI----
+3235	TOK	how		how\DGAW
+3236	TOK	surprised		surprise\VMC----
+3237	TOK	workers		worker\N5P
+3238	TOK	in		in\P
+3239	TOK	the		the\AT---6
+3240	TOK	field		field\N5S
+3241	TOK	would		will\VOFDA66
+3242	TOK	be		be\VMI----
+3243	TOK	after		after\P
+3244	TOK	being		be\VMG----
+3245	TOK	told		tell\VMC----
+3246	TOK	of		of\P
+3247	TOK	a		a\AI---S
+3248	TOK	particular		particular\JA
+3249	TOK	hypothetical		hypothetical\JA
+3250	TOK	advance		advance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3251	TOK	Tell	BOS	tell\VMI----
+3252	TOK	us		us\RPP1NA
+3253	TOK	that		that\CS
+3254	TOK	completely		completely\DGA7
+3255	TOK	functional		functional\JA
+3256	TOK	skin		skin\N5S
+3257	TOK	constructs		construct\N5P
+3258	TOK	will		will\VOFDR66
+3259	TOK	be		be\VMI----
+3260	TOK	available		available\JA
+3261	TOK	for		for\P
+3262	TOK	most		most\AG---6
+3263	TOK	medical		medical\JA
+3264	TOK	uses		use\N5P
+3265	TOK	within		within\P
+##	TAG	<num>
+3266	TOK	five		five\X
+##	TAG	</num>
+3267	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+3268	TOK	and		and\CC
+3269	TOK	we		we\RPP1NN
+3270	TOK	would		will\VOFDA66
+3271	TOK	consider		consider\VMI----
+3272	TOK	that		that\CS
+3273	TOK	reasonable		reasonable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3274	TOK	Inform	BOS	inform\VMI----
+3275	TOK	us		us\RPP1NA
+3276	TOK	that		that\CS
+3277	TOK	fully		fully\DGA7
+3278	TOK	functional		functional\JA
+---	DLD	,		=\DELIM
+3279	TOK	implantable		implantable\JA
+3280	TOK	livers		liver\N5P
+3281	TOK	will		will\VOFDR66
+3282	TOK	be		be\VMI----
+3283	TOK	here		here\DGA7
+3284	TOK	in		in\P
+##	TAG	<num>
+3285	TOK	five		five\X
+##	TAG	</num>
+3286	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+3287	TOK	and		and\CC
+3288	TOK	we		we\RPP1NN
+3289	TOK	would		will\VOFDA66
+3290	TOK	be		be\VMI----
+3291	TOK	quite		quite\DGA7
+3292	TOK	incredulous		incredulous\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3293	TOK	But	BOS	but\CC
+3294	TOK	tell		tell\VMI----
+3295	TOK	us		us\RPP1NA
+3296	TOK	that		that\CS
+3297	TOK	this		this\AD---S
+3298	TOK	same		same\JA
+3299	TOK	liver		liver\N5S
+3300	TOK	will		will\VOFDR66
+3301	TOK	be		be\VMI----
+3302	TOK	here		here\DGA7
+3303	TOK	in		in\P
+---	DLD	,		=\DELIM
+3304	TOK	say		say\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<num>
+3305	TOK	30		30\X
+##	TAG	</num>
+3306	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+3307	TOK	and		and\CC
+3308	TOK	we		we\RPP1NN
+3309	TOK	might		may\VOFDR66
+3310	TOK	nod		nod\VMI----
+3311	TOK	our		our\APP1N6
+3312	TOK	heads		head\N5P
+3313	TOK	in		in\P
+3314	TOK	sanguine		sanguine\JA
+3315	TOK	acceptance		acceptance\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+3316	TOK	it		it\RPS3N6
+3317	TOK	sounds		sound\VMFDRS3
+3318	TOK	possible		possible\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+3319	TOK	Ten	BOS	Ten\X
+##	TAG	</num>
+3320	TOK	millennia		millennium\N5P
+3321	TOK	ago		ago\DGA7
+3322	TOK	the		the\AT---6
+3323	TOK	development		development\N5S
+3324	TOK	of		of\P
+3325	TOK	agriculture		agriculture\N5S
+3326	TOK	freed		free\VMC----
+3327	TOK	humanity		humanity\N5S
+3328	TOK	from		from\P
+3329	TOK	a		a\AI---S
+3330	TOK	reliance		reliance\N5S
+3331	TOK	on		on\P
+3332	TOK	whatever		whatever\AW---6
+3333	TOK	sustenance		sustenance\N5S
+3334	TOK	nature		nature\N5S
+3335	TOK	was		be\V6F-A66
+3336	TOK	kind		kind\JA
+3337	TOK	enough		enough\JA
+3338	TOK	to		to\P
+3339	TOK	provide		provide\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3340	TOK	The	BOS	the\AT---6
+3341	TOK	development		development\N5S
+3342	TOK	of		of\P
+3343	TOK	tissue		tissue\N5S
+3344	TOK	engineering		engineering\N5S
+3345	TOK	should		shall\VOFDA66
+3346	TOK	provide		provide\VMI----
+3347	TOK	an		an\AI---S
+3348	TOK	analogous		analogous\JA
+3349	TOK	freedom		freedom\N5S
+3350	TOK	from		from\P
+3351	TOK	the		the\AT---6
+3352	TOK	limitations		limitation\N5P
+3353	TOK	of		of\P
+3354	TOK	the		the\AT---6
+3355	TOK	human		human\JA
+3356	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

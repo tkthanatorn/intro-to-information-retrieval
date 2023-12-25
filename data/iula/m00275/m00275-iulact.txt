@@ -1,0 +1,5112 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	Population	BOS	population\N5S
+##	TAG	<name>
+2	TOK	Genetics	EOS	Genetics\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+4	TOK	CHAPTER	BOS	chapter\N5S
+5	TOK	CONCEPTS	EOS	concept\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+7	TOK	Individuals	BOS	individual\N5P
+8	TOK	can		can\VOFDR66
+9	TOK	carry		carry\VMI----
+10	TOK	only		only\DGA7
+##	TAG	<num>
+11	TOK	two		two\X
+##	TAG	</num>
+12	TOK	different		different\JA
+13	TOK	alleles		allele\N5P
+14	TOK	of		of\P
+15	TOK	a		a\AI---S
+16	TOK	given		give\VMC----
+17	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+18	TOK	A	BOS	a\AI---S
+19	TOK	group		group\N5S
+20	TOK	of		of\P
+21	TOK	individuals		individual\N5P
+22	TOK	can		can\VOFDR66
+23	TOK	carry		carry\VMI----
+24	TOK	a		a\AI---S
+25	TOK	larger		large\JC
+26	TOK	number		number\N5S
+27	TOK	of		of\P
+28	TOK	different		different\JA
+29	TOK	alleles		allele\N5P
+---	DLD	,		=\DELIM
+30	TOK	giving		give\VMG----
+31	TOK	rise		rise\N5S
+32	TOK	to		to\P
+33	TOK	a		a\AI---S
+34	TOK	reservoir		reservoir\N5S
+35	TOK	of		of\P
+36	TOK	genetic		genetic\JA
+37	TOK	diversity		diversity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+38	TOK	The	BOS	the\AT---6
+39	TOK	diversity		diversity\N5S
+40	TOK	contained		contain\VMC----
+41	TOK	in		in\P
+42	TOK	the		the\AT---6
+43	TOK	population		population\N5S
+44	TOK	can		can\VOFDR66
+45	TOK	be		be\VMI----
+46	TOK	measured		measure\VMC----
+47	TOK	by		by\P
+48	TOK	the		the\AT---6
+##	TAG	<name>
+49	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+50	TOK	law		law\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+51	TOK	Mutation	BOS	mutation\N5S
+52	TOK	is		be\V6FDRS3
+53	TOK	the		the\AT---6
+54	TOK	ultimate		ultimate\JA
+55	TOK	source		source\N5S
+56	TOK	of		of\P
+57	TOK	genetic		genetic\JA
+58	TOK	variation		variation\N5S
+---	DLD	,		=\DELIM
+59	TOK	and		and\CC
+60	TOK	other		other\JA
+61	TOK	factors		factor\N5P
+62	TOK	such		such\RIS3N-
+63	TOK	as		as\P
+64	TOK	drift		drift\VMI----
+---	DLD	,		=\DELIM
+65	TOK	migration		migration\N5S
+---	DLD	,		=\DELIM
+66	TOK	and		and\CC
+67	TOK	selection		selection\N5S
+68	TOK	can		can\VOFDR66
+69	TOK	alter		alter\VMI----
+70	TOK	the		the\AT---6
+71	TOK	amount		amount\N5S
+72	TOK	of		of\P
+73	TOK	genetic		genetic\JA
+74	TOK	variation		variation\N5S
+75	TOK	in		in\P
+76	TOK	populations		population\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+77	TOK	When	BOS	when\CS
+##	TAG	<name>
+78	TOK	Charles Darwin		Charles_Darwin\N46
+##	TAG	</name>
+79	TOK	published		publish\VMC----
+##	TAG	<name>
+80	TOK	The Origin of Species		The_Origin_of_Species\N46
+##	TAG	</name>
+81	TOK	in		in\P
+##	TAG	<num>
+82	TOK	1859		1859\X
+##	TAG	</num>
+83	TOK	following		following\JA
+84	TOK	work		work\N5S
+85	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+86	TOK	authored		author\VMC----
+87	TOK	with		with\P
+##	TAG	<name>
+88	TOK	Alfred Russel Wallace		Alfred_Russel_Wallace\N46
+##	TAG	</name>
+89	TOK	on		on\P
+90	TOK	the		the\AT---6
+91	TOK	likely		likely\JA
+92	TOK	mechanism		mechanism\N5S
+93	TOK	of		of\P
+94	TOK	natural		natural\JA
+95	TOK	selection		selection\N5S
+---	DLD	,		=\DELIM
+96	TOK	they		they\RPP3NN
+97	TOK	established		establish\VMF6A66
+98	TOK	the		the\AT---6
+99	TOK	foundation		foundation\N5S
+100	TOK	for		for\P
+101	TOK	the		the\AT---6
+102	TOK	modern		modern\JA
+103	TOK	interpretation		interpretation\N5S
+104	TOK	of		of\P
+105	TOK	evolution		evolution\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+106	TOK	Although	BOS	although\CS
+107	TOK	organisms		organism\N5P
+108	TOK	are		be\V6FDR66
+109	TOK	capable		capable\JA
+110	TOK	of		of\P
+111	TOK	reproducing		reproduce\VMG----
+112	TOK	in		in\P
+113	TOK	an		an\AI---S
+114	TOK	exponential		exponential\JA
+115	TOK	fashion		fashion\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+116	TOK	Wallace		Wallace\N46
+##	TAG	</name>
+117	TOK	and		and\CC
+##	TAG	<name>
+118	TOK	Darwin		Darwin\N46
+##	TAG	</name>
+119	TOK	observed		observe\VMF6A66
+120	TOK	that		that\CS
+121	TOK	this		this\AD---S
+122	TOK	growth		growth\N5S
+123	TOK	potential		potential\JA
+124	TOK	of		of\P
+125	TOK	species		species\N56
+126	TOK	is		be\V6FDRS3
+127	TOK	not		not\DGA7
+128	TOK	realized		realize\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+129	TOK	Instead	BOS	instead\DGA7
+---	DLD	,		=\DELIM
+130	TOK	population		population\N5S
+131	TOK	numbers		number\N5P
+132	TOK	remain		remain\VMF6R66
+133	TOK	relatively		relatively\DGA7
+134	TOK	constant		constant\JA
+135	TOK	in		in\P
+136	TOK	nature		nature\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+137	TOK	Both	BOS	both\RIP3N-
+##	TAG	<name>
+138	TOK	Wallace		Wallace\N46
+##	TAG	</name>
+139	TOK	and		and\CC
+##	TAG	<name>
+140	TOK	Darwin		Darwin\N46
+##	TAG	</name>
+141	TOK	deduced		deduce\VMF6A66
+142	TOK	that		that\CS
+143	TOK	some		some\AG---6
+144	TOK	form		form\N5S
+145	TOK	of		of\P
+146	TOK	competitive		competitive\JA
+147	TOK	struggle		struggle\N5S
+148	TOK	for		for\P
+149	TOK	survival		survival\N5S
+150	TOK	must		must\VOFDR66
+151	TOK	therefore		therefore\DGA7
+152	TOK	occur		occur\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+153	TOK	Darwin	BOS	Darwin\N46
+##	TAG	</name>
+154	TOK	observed		observe\VMF6A66
+155	TOK	that		that\CS
+156	TOK	there		there\DGA7
+157	TOK	is		be\V6FDRS3
+158	TOK	a		a\AI---S
+159	TOK	natural		natural\JA
+160	TOK	variation		variation\N5S
+161	TOK	between		between\P
+162	TOK	individuals		individual\N5P
+163	TOK	within		within\P
+164	TOK	a		a\AI---S
+165	TOK	species		species\N56
+---	DLD	;		=\DELIM
+166	TOK	on		on\P
+167	TOK	this		this\AD---S
+168	TOK	observation		observation\N5S
+---	DLD	,		=\DELIM
+169	TOK	he		he\RPS3MN
+170	TOK	based		base\VMF6A66
+171	TOK	his		his\APS3M6
+172	TOK	theory		theory\N5S
+173	TOK	of		of\P
+174	TOK	natural		natural\JA
+175	TOK	selection		selection\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+##	TAG	<gap length=3>
+176	TOK	that		that\CS
+177	TOK	any		any\AG---6
+178	TOK	being		be\VMG----
+---	DLD	,		=\DELIM
+179	TOK	if		if\CS
+180	TOK	it		it\RPS3N6
+181	TOK	vary		vary\VMF6R66
+182	TOK	however		however\DGA7
+183	TOK	slightly		slightly\DGA7
+184	TOK	in		in\P
+185	TOK	any		any\AG---6
+186	TOK	manner		manner\N5S
+187	TOK	profitable		profitable\JA
+188	TOK	to		to\P
+189	TOK	itself		itself\RXS3N-
+##	TAG	<gap length=3>
+190	TOK	will		will\VOFDR66
+191	TOK	have		have\VMI----
+192	TOK	a		a\AI---S
+193	TOK	better		good\JC
+194	TOK	chance		chance\N5S
+195	TOK	of		of\P
+196	TOK	surviving		survive\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+##	TAG	<name>
+197	TOK	Darwin		Darwin\N46
+##	TAG	</name>
+198	TOK	included		include\VMF6A66
+199	TOK	in		in\P
+200	TOK	his		his\APS3M6
+201	TOK	concept		concept\N5S
+202	TOK	of		of\P
+203	TOK	survival		survival\N5S
+---	DLE	"		=\DELIM
+204	TOK	not		not\DGA7
+205	TOK	only		only\DGA7
+206	TOK	the		the\AT---6
+207	TOK	life		life\N5S
+208	TOK	of		of\P
+209	TOK	the		the\AT---6
+210	TOK	individual		individual\JA
+---	DLD	,		=\DELIM
+211	TOK	but		but\CC
+212	TOK	success		success\N5S
+213	TOK	in		in\P
+214	TOK	leaving		leave\VMG----
+215	TOK	progeny		progeny\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+216	TOK	While		while\CS
+##	TAG	<name>
+217	TOK	Gregor Mendel		Gregor_Mendel\N46
+##	TAG	</name>
+218	TOK	was		be\V6F-A66
+219	TOK	familiar		familiar\JA
+220	TOK	with		with\P
+##	TAG	<name>
+221	TOK	Darwin		Darwin\N46
+##	TAG	</name>
+222	PGR	's		genmark\GENMARK
+223	TOK	work		work\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<name>
+224	TOK	Darwin		Darwin\N46
+##	TAG	</name>
+225	TOK	was		be\V6F-A66
+226	TOK	unaware		unaware\JA
+227	TOK	of		of\P
+228	TOK	any		any\AG---6
+229	TOK	underlying		underlying\JA
+230	TOK	mechanism		mechanism\N5S
+231	TOK	to		to\P
+232	TOK	account		account\N5S
+233	TOK	for		for\P
+234	TOK	the		the\AT---6
+235	TOK	morphological		morphological\JA
+236	TOK	variation		variation\N5S
+237	TOK	he		he\RPS3MN
+238	TOK	had		have\V6F6A66
+239	TOK	observed		observe\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+240	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+241	TOK	with		with\P
+242	TOK	the		the\AT---6
+243	TOK	development		development\N5S
+244	TOK	of		of\P
+245	TOK	the		the\AT---6
+246	TOK	concept		concept\N5S
+247	TOK	of		of\P
+248	TOK	genes		gene\N5P
+249	TOK	and		and\CC
+250	TOK	alleles		allele\N5P
+---	DLD	,		=\DELIM
+251	TOK	the		the\AT---6
+252	TOK	genetic		genetic\JA
+253	TOK	basis		basis\N5S
+254	TOK	of		of\P
+255	TOK	inherited		inherit\VMC----
+256	TOK	variation		variation\N5S
+257	TOK	was		be\V6F-A66
+258	TOK	established		establish\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+259	TOK	As	BOS	as\CS
+260	TOK	others		other\RIP3N-
+261	TOK	pursued		pursue\VMF6A66
+262	TOK	the		the\AT---6
+263	TOK	study		study\N5S
+264	TOK	of		of\P
+265	TOK	evolution		evolution\N5S
+---	DLD	,		=\DELIM
+266	TOK	it		it\RPS3N6
+267	TOK	became		become\VMF6A66
+268	TOK	apparent		apparent\JA
+269	TOK	that		that\CS
+270	TOK	the		the\AT---6
+271	TOK	population		population\N5S
+##	TAG	<loc pos="DDC7">
+272	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+273	TOK	the		the\AT---6
+274	TOK	individual		individual\N5S
+275	TOK	was		be\V6F-A66
+276	TOK	the		the\AT---6
+277	TOK	unit		unit\N5S
+278	TOK	of		of\P
+279	TOK	study		study\N5S
+280	TOK	in		in\P
+281	TOK	this		this\AD---S
+282	TOK	process		process\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+283	TOK	In order to	BOS	In_order_to\P
+##	TAG	</loc>
+284	TOK	study		study\VMI----
+285	TOK	the		the\AT---6
+286	TOK	role		role\N5S
+287	TOK	of		of\P
+288	TOK	genetics		genetics\N56
+289	TOK	in		in\P
+290	TOK	the		the\AT---6
+291	TOK	process		process\N5S
+292	TOK	of		of\P
+293	TOK	evolution		evolution\N5S
+---	DLD	,		=\DELIM
+294	TOK	therefore		therefore\DGA7
+---	DLD	,		=\DELIM
+295	TOK	it		it\RPS3N6
+296	TOK	was		be\V6F-A66
+297	TOK	necessary		necessary\JA
+298	TOK	to		to\P
+299	TOK	consider		consider\VMI----
+300	TOK	allele		allele\N5S
+301	TOK	frequencies		frequency\N5P
+302	TOK	in		in\P
+303	TOK	populations		population\N5P
+##	TAG	<loc pos="DDC7">
+304	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+305	TOK	offspring		offspring\N56
+306	TOK	from		from\P
+307	TOK	individual		individual\JA
+308	TOK	matings		matings\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+309	TOK	Thus	BOS	thus\DGA7
+310	TOK	arose		arise\VMF6A66
+311	TOK	the		the\AT---6
+312	TOK	discipline		discipline\N5S
+313	TOK	of		of\P
+314	TOK	population		population\N5S
+315	TOK	genetics		genetics\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+317	TOK	Early	BOS	early\JA
+318	TOK	in		in\P
+319	TOK	the		the\AT---6
+320	TOK	twentieth		twentieth\MOS
+321	TOK	century		century\N5S
+322	TOK	a		a\AI---S
+323	TOK	number		number\N5S
+324	TOK	of		of\P
+325	TOK	workers		worker\N5P
+---	DLD	,		=\DELIM
+326	TOK	including		including\P
+##	TAG	<name>
+327	TOK	Gudny Yule		Gudny_Yule\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+328	TOK	William Castle		William_Castle\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+329	TOK	Godfrey Hardy		Godfrey_Hardy\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+330	TOK	and		and\CC
+##	TAG	<name>
+331	TOK	Wilhelm Weinberg		Wilhelm_Weinberg\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+332	TOK	formulated		formulate\VMF6A66
+333	TOK	the		the\AT---6
+334	TOK	basic		basic\JA
+335	TOK	principles		principle\N5P
+336	TOK	of		of\P
+337	TOK	this		this\AD---S
+338	TOK	field		field\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+339	TOK	In	BOS	in\P
+340	TOK	the		the\AT---6
+341	TOK	early		early\JA
+342	TOK	years		year\N5P
+343	TOK	of		of\P
+344	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+345	TOK	genetics		genetics\N56
+---	DLD	,		=\DELIM
+346	TOK	the		the\AT---6
+347	TOK	emphasis		emphasis\N5S
+348	TOK	was		be\V6F-A66
+349	TOK	on		on\P
+350	TOK	theory		theory\N5S
+351	TOK	and		and\CC
+352	TOK	the		the\AT---6
+353	TOK	development		development\N5S
+354	TOK	of		of\P
+355	TOK	mathematical		mathematical\JA
+356	TOK	models		model\N5P
+357	TOK	to		to\P
+358	TOK	describe		describe\VMI----
+359	TOK	the		the\AT---6
+360	TOK	genetic		genetic\JA
+361	TOK	structure		structure\N5S
+362	TOK	of		of\P
+363	TOK	populations		population\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+364	TOK	Workers	BOS	worker\N5P
+365	TOK	in		in\P
+366	TOK	this		this\AD---S
+367	TOK	field		field\N5S
+368	TOK	include		include\VMF6R66
+##	TAG	<name>
+369	TOK	Sewall Wright		Sewall_Wright\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+370	TOK	Ronald Fisher		Ronald_Fisher\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+371	TOK	and		and\CC
+##	TAG	<name>
+372	TOK	J.B.S		J.B.S\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+373	TOK	Haldane	BOS	Haldane\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+374	TOK	Following	BOS	following\P
+375	TOK	their		their\APP3N6
+376	TOK	work		work\VMF6R66
+---	DLD	,		=\DELIM
+377	TOK	experimentalists		experimentalist\N5P
+378	TOK	and		and\CC
+379	TOK	field		field\N5S
+380	TOK	workers		worker\N5P
+381	TOK	have		have\V6F6R66
+382	TOK	used		use\VMC----
+383	TOK	biochemical		biochemical\JA
+384	TOK	and		and\CC
+385	TOK	molecular		molecular\JA
+386	TOK	techniques		technique\N5P
+387	TOK	to		to\P
+388	TOK	directly		directly\DGA7
+389	TOK	measure		measure\VMI----
+390	TOK	variation		variation\N5S
+391	TOK	at		at\P
+392	TOK	the		the\AT---6
+393	TOK	protein		protein\N5S
+394	TOK	and		and\CC
+##	TAG	<name>
+395	TOK	DNA		DNA\N46
+##	TAG	</name>
+396	TOK	levels		level\N5P
+##	TAG	<loc pos="P">
+397	TOK	in order to		in_order_to\P
+##	TAG	</loc>
+398	TOK	test		test\VMI----
+399	TOK	these		this\AD---P
+400	TOK	theories		theory\N5P
+401	TOK	and		and\CC
+402	TOK	models		model\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+403	TOK	Allele	BOS	allele\N5S
+404	TOK	frequencies		frequency\N5P
+405	TOK	and		and\CC
+406	TOK	the		the\AT---6
+407	TOK	forces		force\N5P
+408	TOK	that		that\RW63N6
+409	TOK	alter		alter\VMF6R66
+410	TOK	these		this\AD---P
+411	TOK	frequencies		frequency\N5P
+---	DLD	,		=\DELIM
+412	TOK	such		such\JA
+413	TOK	as		as\P
+414	TOK	mutation		mutation\N5S
+---	DLD	,		=\DELIM
+415	TOK	migration		migration\N5S
+---	DLD	,		=\DELIM
+416	TOK	selection		selection\N5S
+---	DLD	,		=\DELIM
+417	TOK	and		and\CC
+418	TOK	random		random\JA
+419	TOK	genetic		genetic\JA
+420	TOK	drift		drift\VMF6R66
+---	DLD	,		=\DELIM
+421	TOK	have		have\V6F6R66
+422	TOK	been		be\VMC----
+423	TOK	and		and\CC
+424	TOK	are		be\V6FDR66
+425	TOK	being		be\VMG----
+426	TOK	examined		examine\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+427	TOK	In	BOS	in\P
+428	TOK	this		this\AD---S
+429	TOK	chapter		chapter\N5S
+430	TOK	we		we\RPP1NN
+431	TOK	shall		shall\VOFDR66
+432	TOK	consider		consider\VMI----
+433	TOK	some		some\AG---6
+434	TOK	general		general\JA
+435	TOK	aspects		aspect\N5P
+436	TOK	of		of\P
+437	TOK	population		population\N5S
+438	TOK	genetics		genetics\N56
+439	TOK	and		and\CC
+440	TOK	also		also\DGA7
+441	TOK	discuss		discuss\VMF6R66
+442	TOK	other		other\JA
+443	TOK	areas		area\N5P
+444	TOK	of		of\P
+445	TOK	genetics		genetics\N56
+##	TAG	<loc pos="P">
+446	TOK	relating to		relating_to\P
+##	TAG	</loc>
+447	TOK	evolution		evolution\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+448	TOK	Populations	BOS	population\N5P
+449	TOK	and		and\CC
+##	TAG	<name>
+450	TOK	Gene Pools	EOS	Gene_Pools\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+452	TOK	Members	BOS	member\N5P
+453	TOK	of		of\P
+454	TOK	a		a\AI---S
+455	TOK	species		species\N56
+456	TOK	are		be\V6FDR66
+457	TOK	often		often\DGA7
+458	TOK	distributed		distribute\VMC----
+459	TOK	over		over\P
+460	TOK	a		a\AI---S
+461	TOK	wide		wide\JA
+462	TOK	geographic		geographic\JA
+463	TOK	range		range\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+464	TOK	A	BOS	a\AI---S
+465	TOK	population		population\N5S
+466	TOK	is		be\V6FDRS3
+467	TOK	a		a\AI---S
+468	TOK	local		local\JA
+469	TOK	group		group\N5S
+470	TOK	belonging		belong\VMG----
+471	TOK	to		to\P
+472	TOK	a		a\AI---S
+473	TOK	single		single\JA
+474	TOK	species		species\N56
+---	DLD	,		=\DELIM
+475	TOK	within		within\P
+476	TOK	which		which\RW63N-
+477	TOK	mating		mate\VMG----
+478	TOK	is		be\V6FDRS3
+479	TOK	actually		actually\DGA7
+480	TOK	or		or\CC
+481	TOK	potentially		potentially\DGA7
+482	TOK	occurring		occur\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+483	TOK	The	BOS	the\AT---6
+484	TOK	set		set\N5S
+485	TOK	of		of\P
+486	TOK	genetic		genetic\JA
+487	TOK	information		information\N5S
+488	TOK	carried		carry\VMC----
+489	TOK	by		by\P
+490	TOK	all		all\AG---6
+491	TOK	interbreeding		interbreed\VMG----
+492	TOK	members		member\N5P
+493	TOK	of		of\P
+494	TOK	a		a\AI---S
+495	TOK	population		population\N5S
+496	TOK	is		be\V6FDRS3
+497	TOK	called		call\VMC----
+498	TOK	the		the\AT---6
+499	TOK	gene		gene\N5S
+500	TOK	pool		pool\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+502	TOK	For	BOS	for\P
+503	TOK	a		a\AI---S
+504	TOK	given		give\VMC----
+505	TOK	locus		locus\N5S
+---	DLD	,		=\DELIM
+506	TOK	this		this\AD---S
+507	TOK	pool		pool\N5S
+508	TOK	includes		include\VMFDRS3
+509	TOK	all		all\AG---6
+510	TOK	the		the\AT---6
+511	TOK	alleles		allele\N5P
+512	TOK	of		of\P
+513	TOK	that		that\AD---S
+514	TOK	gene		gene\N5S
+515	TOK	present		present\JA
+516	TOK	in		in\P
+517	TOK	the		the\AT---6
+518	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+519	TOK	In	BOS	in\P
+520	TOK	population		population\N5S
+521	TOK	genetics		genetics\N56
+522	TOK	the		the\AT---6
+523	TOK	focus		focus\N5S
+524	TOK	is		be\V6FDRS3
+525	TOK	on		on\P
+526	TOK	groups		group\N5P
+##	TAG	<loc pos="DDC7">
+527	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+528	TOK	on		on\P
+529	TOK	individuals		individual\N5P
+---	DLD	,		=\DELIM
+530	TOK	and		and\CC
+531	TOK	on		on\P
+532	TOK	the		the\AT---6
+533	TOK	measurement		measurement\N5S
+534	TOK	of		of\P
+535	TOK	allele		allele\N5S
+536	TOK	and		and\CC
+537	TOK	genotype		genotype\N5S
+538	TOK	frequencies		frequency\N5P
+539	TOK	in		in\P
+540	TOK	succeeding		succeed\VMG----
+541	TOK	generations		generation\N5P
+##	TAG	<loc pos="DDC7">
+542	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+543	TOK	on		on\P
+544	TOK	the		the\AT---6
+545	TOK	distribution		distribution\N5S
+546	TOK	of		of\P
+547	TOK	genotypes		genotype\N5P
+548	TOK	resulting		result\VMG----
+549	TOK	from		from\P
+550	TOK	a		a\AI---S
+551	TOK	single		single\JA
+552	TOK	mating		mate\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+553	TOK	The	BOS	the\AT---6
+554	TOK	term		term\N5S
+555	TOK	allele		allele\N5S
+556	TOK	frequency		frequency\N5S
+557	TOK	will		will\VOFDR66
+558	TOK	be		be\VMI----
+559	TOK	used		use\VMC----
+560	TOK	throughout		throughout\P
+561	TOK	the		the\AT---6
+562	TOK	chapter		chapter\N5S
+563	TOK	and		and\CC
+564	TOK	will		will\VOFDR66
+565	TOK	represent		represent\VMI----
+566	TOK	the		the\AT---6
+567	TOK	frequency		frequency\N5S
+568	TOK	of		of\P
+569	TOK	alleles		allele\N5P
+570	TOK	in		in\P
+571	TOK	contrast		contrast\N5S
+572	TOK	to		to\P
+573	TOK	genotype		genotype\N5S
+574	TOK	frequencies		frequency\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+575	TOK	Gametes	BOS	gamete\N5P
+576	TOK	produced		produce\VMC----
+577	TOK	by		by\P
+578	TOK	one		one\MCS
+579	TOK	generation		generation\N5S
+580	TOK	form		form\VMF6R66
+581	TOK	the		the\AT---6
+582	TOK	zygotes		zygote\N5P
+583	TOK	of		of\P
+584	TOK	the		the\AT---6
+585	TOK	next		next\JA
+586	TOK	generation		generation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+587	TOK	This	BOS	this\AD---S
+588	TOK	new		new\JA
+589	TOK	gene		gene\N5S
+590	TOK	ration		ration\N5S
+591	TOK	has		have\V6FDRS3
+592	TOK	a		a\AI---S
+593	TOK	reconstitute		reconstitute\VMF6R66
+594	TOK	d		d\N5S
+595	TOK	gene		gene\N5S
+596	TOK	pool		pool\N5S
+597	TOK	that		that\RW63N6
+598	TOK	may		may\VOFDR66
+599	TOK	differ		differ\VMI----
+600	TOK	from		from\P
+601	TOK	that		that\RDS3N-
+602	TOK	of		of\P
+603	TOK	the		the\AT---6
+604	TOK	preceding		preceding\JA
+605	TOK	generation		generation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+606	TOK	Populations	BOS	population\N5P
+607	TOK	are		be\V6FDR66
+608	TOK	dynamic		dynamic\JA
+---	DLD	;		=\DELIM
+609	TOK	they		they\RPP3NN
+610	TOK	may		may\VOFDR66
+611	TOK	grow		grow\VMI----
+612	TOK	and		and\CC
+613	TOK	expand		expand\VMI----
+614	TOK	or		or\CC
+615	TOK	diminish		diminish\VMI----
+616	TOK	and		and\CC
+617	TOK	contract		contract\N5S
+618	TOK	through		through\P
+619	TOK	changes		change\N5P
+620	TOK	in		in\P
+621	TOK	birth		birth\N5S
+622	TOK	or		or\CC
+623	TOK	death		death\N5S
+624	TOK	rates		rate\N5P
+---	DLD	,		=\DELIM
+625	TOK	by		by\P
+626	TOK	migration		migration\N5S
+---	DLD	,		=\DELIM
+627	TOK	or		or\CC
+628	TOK	by		by\P
+629	TOK	merging		merge\VMG----
+630	TOK	with		with\P
+631	TOK	other		other\JA
+632	TOK	populations		population\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+633	TOK	This	BOS	this\RDS3N-
+634	TOK	has		have\V6FDRS3
+635	TOK	important		important\JA
+636	TOK	consequences		consequence\N5P
+637	TOK	and		and\CC
+---	DLD	,		=\DELIM
+638	TOK	over		over\P
+639	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+640	TOK	can		can\VOFDR66
+641	TOK	lead		lead\VMI----
+642	TOK	to		to\P
+643	TOK	changes		change\N5P
+644	TOK	in		in\P
+645	TOK	the		the\AT---6
+646	TOK	genetic		genetic\JA
+647	TOK	structure		structure\N5S
+648	TOK	of		of\P
+649	TOK	the		the\AT---6
+650	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+651	TOK	Calculating	BOS	calculate\VMG----
+##	TAG	<name>
+652	TOK	Allele Frequencies	EOS	Allele_Frequencies\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+654	TOK	One	BOS	one\MCS
+655	TOK	approach		approach\N5S
+656	TOK	used		use\VMC----
+657	TOK	to		to\P
+658	TOK	study		study\VMI----
+659	TOK	a		a\AI---S
+660	TOK	population		population\N5S
+661	PGR	's		genmark\GENMARK
+662	TOK	genetic		genetic\JA
+663	TOK	structure		structure\N5S
+664	TOK	is		be\V6FDRS3
+665	TOK	to		to\P
+666	TOK	measure		measure\VMI----
+667	TOK	the		the\AT---6
+668	TOK	frequency		frequency\N5S
+669	TOK	of		of\P
+670	TOK	a		a\AI---S
+671	TOK	given		give\VMC----
+672	TOK	allele		allele\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+673	TOK	This	BOS	this\RDS3N-
+674	TOK	is		be\V6FDRS3
+675	TOK	possible		possible\JA
+676	TOK	once		once\CS
+677	TOK	the		the\AT---6
+678	TOK	mode		mode\N5S
+679	TOK	of		of\P
+680	TOK	inheritance		inheritance\N5S
+681	TOK	and		and\CC
+682	TOK	the		the\AT---6
+683	TOK	number		number\N5S
+684	TOK	of		of\P
+685	TOK	different		different\JA
+686	TOK	alleles		allele\N5P
+687	TOK	of		of\P
+688	TOK	this		this\AD---S
+689	TOK	gene		gene\N5S
+690	TOK	present		present\JA
+691	TOK	in		in\P
+692	TOK	the		the\AT---6
+693	TOK	population		population\N5S
+694	TOK	have		have\V6F6R66
+695	TOK	been		be\VMC----
+696	TOK	established		establish\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+697	TOK	Allele	BOS	allele\N5S
+698	TOK	frequencies		frequency\N5P
+699	TOK	can		can\V6FDR66
+700	PGR	not		not\DGA7
+701	TOK	always		always\DGA7
+702	TOK	be		be\VMI----
+703	TOK	determined		determine\VMC----
+704	TOK	directly		directly\DGA7
+705	TOK	because		because\CS
+706	TOK	in		in\P
+707	TOK	many		many\AI---P
+708	TOK	cases		case\N5P
+709	TOK	only		only\JA
+710	TOK	phenotypes		phenotype\N5P
+---	DLD	,		=\DELIM
+711	TOK	and		and\CC
+712	TOK	not		not\DGA7
+713	TOK	genotypes		genotype\N5P
+---	DLD	,		=\DELIM
+714	TOK	can		can\VOFDR66
+715	TOK	be		be\VMI----
+716	TOK	observed		observe\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+717	TOK	If	BOS	if\CS
+---	DLD	,		=\DELIM
+718	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+719	TOK	alleles		allele\N5P
+720	TOK	expressed		express\VMC----
+721	TOK	in		in\P
+722	TOK	a		a\AI---S
+723	TOK	codominant		codominant\JA
+724	TOK	fashion		fashion\N5S
+725	TOK	are		be\V6FDR66
+726	TOK	considered		consider\VMC----
+---	DLD	,		=\DELIM
+727	TOK	there		there\DGA7
+728	TOK	is		be\V6FDRS3
+729	TOK	a		a\AI---S
+730	TOK	direct		direct\JA
+731	TOK	relationship		relationship\N5S
+732	TOK	between		between\P
+733	TOK	phenotypes		phenotype\N5P
+734	TOK	and		and\CC
+735	TOK	genotypes		genotype\N5P
+736	TOK	with		with\P
+737	TOK	each		each\AG---S
+738	TOK	phenotype		phenotype\N5S
+739	TOK	having		have\VMG----
+740	TOK	a		a\AI---S
+741	TOK	unique		unique\JA
+742	TOK	genotype		genotype\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+743	TOK	Such	BOS	such\RIS3N-
+744	TOK	is		be\V6FDRS3
+745	TOK	the		the\AT---6
+746	TOK	case		case\N5S
+747	TOK	with		with\P
+748	TOK	the		the\AT---6
+749	TOK	autosomally		autosomally\DGA7
+750	TOK	inherited		inherit\VMC----
+##	TAG	<name>
+751	TOK	MN		MN\N46
+##	TAG	</name>
+752	TOK	blood		blood\N5S
+753	TOK	group		group\N5S
+754	TOK	in		in\P
+755	TOK	humans		human\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+756	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+757	TOK	24.1	EOS	24.1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+759	TOK	MN Blood Groups	BOS	MN_Blood_Groups\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+761	TOK	Genotype	BOS	genotype\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+762	TOK	Blood	BOS	blood\N5S
+##	TAG	<name>
+763	TOK	Type		Type\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+764	TOK	Anti-M	BOS	Anti-M\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+765	TOK	Anti-N	BOS	Anti-N\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+766	TOK	LMLM	BOS	LMLM\N46
+##	TAG	</name>
+---	DLD	.		=\DELIM
+767	TOK	M		m\N5S
+---	DLD	.		=\DELIM
+768	TOK	+		plus\CS
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	-	BOS	=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+770	TOK	LMLN	BOS	LMLN\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+771	TOK	MN	BOS	MN\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+772	TOK	+	BOS	+\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+773	TOK	+	BOS	+\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+774	TOK	LNLN	BOS	LNLN\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+775	TOK	N	BOS	n\N5S
+---	DLD	.		=\DELIM
+---	DLE	-		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+776	TOK	+	BOS	+\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+777	TOK	In	BOS	in\P
+778	TOK	this		this\AD---S
+779	TOK	case		case\N5S
+---	DLD	,		=\DELIM
+780	TOK	the		the\AT---6
+781	TOK	gene		gene\N5S
+782	TOK	L		l\N5S
+783	TOK	on		on\P
+784	TOK	chromosome		chromosome\N5S
+##	TAG	<num>
+785	TOK	2		2\X
+##	TAG	</num>
+786	TOK	has		have\V6FDRS3
+##	TAG	<num>
+787	TOK	two		two\X
+##	TAG	</num>
+788	TOK	alleles		allele\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+789	TOK	LM		LM\N46
+##	TAG	</name>
+790	TOK	and		and\CC
+##	TAG	<name>
+791	TOK	LN		LN\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+792	TOK	often		often\DGA7
+793	TOK	referred		refer\VMC----
+794	TOK	to		to\P
+795	TOK	as		as\DGA7
+796	TOK	M		M\N5P
+797	TOK	and		and\CC
+798	TOK	N		N\N5P
+---	DLD	,		=\DELIM
+799	TOK	respectively		respectively\DGA7
+---	DLD	)		=\DELIM
+---	DLE	[		=\DELIM
+##	TAG	<num>
+800	TOK	0		0\X
+##	TAG	</num>
+---	DLD	]		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+801	TOK	Each	BOS	each\AG---S
+802	TOK	allele		allele\N5S
+803	TOK	controls		control\VMFDRS3
+804	TOK	the		the\AT---6
+805	TOK	production		production\N5S
+806	TOK	of		of\P
+807	TOK	a		a\AI---S
+808	TOK	distinct		distinct\JA
+809	TOK	antigen		antigen\N5S
+810	TOK	on		on\P
+811	TOK	the		the\AT---6
+812	TOK	surface		surface\N5S
+813	TOK	of		of\P
+814	TOK	red		red\JA
+815	TOK	blood		blood\N5S
+816	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+817	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+818	TOK	the		the\AT---6
+819	TOK	genotype		genotype\N5S
+820	TOK	of		of\P
+821	TOK	any		any\AG---6
+822	TOK	individual		individual\JA
+823	TOK	in		in\P
+824	TOK	a		a\AI---S
+825	TOK	population		population\N5S
+826	TOK	may		may\VOFDR66
+827	TOK	be		be\VMI----
+828	TOK	type		type\N5S
+829	TOK	M		M\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+830	TOK	LMLM		LMLM\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+831	TOK	N		N\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+832	TOK	LNLN		LNLN\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+833	TOK	or		or\CC
+##	TAG	<name>
+834	TOK	MN		MN\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+835	TOK	LMLN		LMLN\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+836	TOK	The	BOS	the\AT---6
+837	TOK	genotypes		genotype\N5P
+---	DLD	,		=\DELIM
+838	TOK	phenotypes		phenotype\N5P
+---	DLD	,		=\DELIM
+839	TOK	and		and\CC
+840	TOK	immunological		immunological\JA
+841	TOK	reactions		reaction\N5P
+842	TOK	of		of\P
+843	TOK	the		the\AT---6
+##	TAG	<name>
+844	TOK	MN		MN\N46
+##	TAG	</name>
+845	TOK	blood		blood\N5S
+846	TOK	group		group\N5S
+847	TOK	are		be\V6FDR66
+848	TOK	shown		show\VMC----
+849	TOK	in		in\P
+##	TAG	<name>
+850	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+851	TOK	24.1		24.1\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+852	TOK	Because	BOS	because\CS
+853	TOK	they		they\RPP3NN
+854	TOK	are		be\V6FDR66
+855	TOK	codominant		codominant\JA
+---	DLE	(		=\DELIM
+856	TOK	and		and\CC
+857	TOK	genotypes		genotype\N5P
+858	TOK	may		may\VOFDR66
+859	TOK	be		be\VMI----
+860	TOK	inferred		infer\VMC----
+861	TOK	from		from\P
+862	TOK	phenotypes		phenotype\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+863	TOK	the		the\AT---6
+864	TOK	frequency		frequency\N5S
+865	TOK	of		of\P
+866	TOK	the		the\AT---6
+867	TOK	M		m\N5S
+868	TOK	and		and\CC
+869	TOK	N		n\N5S
+870	TOK	alleles		allele\N5P
+871	TOK	in		in\P
+872	TOK	a		a\AI---S
+873	TOK	population		population\N5S
+874	TOK	can		can\VOFDR66
+875	TOK	be		be\VMI----
+876	TOK	determined		determine\VMC----
+877	TOK	simply		simply\DGA7
+878	TOK	by		by\P
+879	TOK	counting		count\VMG----
+880	TOK	the		the\AT---6
+881	TOK	number		number\N5S
+882	TOK	of		of\P
+883	TOK	individuals		individual\N5P
+884	TOK	with		with\P
+885	TOK	each		each\AG---S
+886	TOK	phenotype		phenotype\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+887	TOK	As	BOS	as\P
+888	TOK	an		an\AI---S
+889	TOK	example		example\N5S
+---	DLD	,		=\DELIM
+890	TOK	consider		consider\VMF6R66
+891	TOK	a		a\AI---S
+892	TOK	population		population\N5S
+893	TOK	of		of\P
+##	TAG	<num>
+894	TOK	100		100\X
+##	TAG	</num>
+895	TOK	individuals		individual\N5P
+896	TOK	of		of\P
+897	TOK	which		which\RW63N-
+##	TAG	<num>
+898	TOK	36		36\X
+##	TAG	</num>
+899	TOK	are		be\V6FDR66
+900	TOK	type		type\N5S
+901	TOK	M		M\N5P
+---	DLD	,		=\DELIM
+##	TAG	<num>
+902	TOK	48		48\X
+##	TAG	</num>
+903	TOK	are		be\V6FDR66
+904	TOK	type		type\N5S
+##	TAG	<name>
+905	TOK	MN		MN\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+906	TOK	and		and\CC
+##	TAG	<num>
+907	TOK	16		16\X
+##	TAG	</num>
+908	TOK	are		be\V6FDR66
+909	TOK	type		type\N5S
+910	TOK	N		N\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+911	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+912	TOK	36		36\X
+##	TAG	</num>
+913	TOK	type		type\N5S
+914	TOK	M		m\N5S
+915	TOK	individuals		individual\N5P
+916	TOK	represent		represent\VMF6R66
+##	TAG	<num>
+917	TOK	72		72\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+918	TOK	M		M\N56
+##	TAG	</loc>
+919	TOK	alleles		allele\N5P
+---	DLD	,		=\DELIM
+920	TOK	and		and\CC
+921	TOK	the		the\AT---6
+##	TAG	<num>
+922	TOK	48		48\X
+##	TAG	</num>
+##	TAG	<name>
+923	TOK	MN		MN\N46
+##	TAG	</name>
+924	TOK	heterozygotes		heterozygote\N5P
+925	TOK	represent		represent\VMF6R66
+926	TOK	an		an\AI---S
+927	TOK	additional		additional\JA
+##	TAG	<num>
+928	TOK	48		48\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+929	TOK	M		M\N56
+##	TAG	</loc>
+930	TOK	alleles		allele\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+931	TOK	This	BOS	this\AD---S
+932	TOK	means		mean\N56
+933	TOK	there		there\DGA7
+934	TOK	are		be\V6FDR66
+##	TAG	<num>
+935	TOK	72		72\X
+##	TAG	</num>
+936	TOK	xxx		noanat\W
+##	TAG	<num>
+937	TOK	48		48\X
+##	TAG	</num>
+938	TOK	or		or\CC
+##	TAG	<num>
+939	TOK	120		120\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+940	TOK	M		M\N56
+##	TAG	</loc>
+941	TOK	alleles		allele\N5P
+942	TOK	in		in\P
+943	TOK	the		the\AT---6
+944	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="P">
+945	TOK	out of		out_of\P
+##	TAG	</loc>
+946	TOK	a		a\AI---S
+947	TOK	total		total\JA
+948	TOK	of		of\P
+##	TAG	<num>
+949	TOK	200		200\X
+##	TAG	</num>
+950	TOK	alleles		allele\N5P
+951	TOK	at		at\P
+952	TOK	this		this\AD---S
+##	TAG	<foreign lang="LA" pos="N5S">
+953	TOK	locus		locus\N5S
+##	TAG	</foreign>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+954	TOK	100		100\X
+##	TAG	</num>
+955	TOK	individuals		individual\N5P
+---	DLD	,		=\DELIM
+956	TOK	each		each\RIS3N-
+957	TOK	with		with\P
+##	TAG	<num>
+958	TOK	two		two\X
+##	TAG	</num>
+959	TOK	alleles		allele\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+960	TOK	Therefore	BOS	therefore\DGA7
+---	DLD	,		=\DELIM
+961	TOK	the		the\AT---6
+962	TOK	frequency		frequency\N5S
+963	TOK	of		of\P
+964	TOK	the		the\AT---6
+965	TOK	M		m\N5S
+966	TOK	allele		allele\N5S
+967	TOK	in		in\P
+968	TOK	this		this\AD---S
+969	TOK	population		population\N5S
+970	TOK	is		be\V6FDRS3
+##	TAG	<num>
+971	TOK	0.6		0.6\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+972	TOK	120/200 = 0.6		noanat\W
+##	TAG	</na>
+973	TOK	=		noanat\W
+##	TAG	<num>
+974	TOK	60		60\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+975	TOK	The	BOS	the\AT---6
+976	TOK	frequency		frequency\N5S
+977	TOK	of		of\P
+978	TOK	the		the\AT---6
+979	TOK	N		n\N5S
+980	TOK	allele		allele\N5S
+981	TOK	can		can\VOFDR66
+982	TOK	be		be\VMI----
+983	TOK	estimated		estimate\VMC----
+984	TOK	in		in\P
+985	TOK	a		a\AI---S
+986	TOK	similar		similar\JA
+987	TOK	fashion		fashion\N5S
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+988	TOK	80/200 = 0.4		noanat\W
+##	TAG	</na>
+989	TOK	=		noanat\W
+##	TAG	<num>
+990	TOK	40		40\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+991	TOK	and		and\CC
+992	TOK	is		be\V6FDRS3
+##	TAG	<num>
+993	TOK	0.4		0.4\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+994	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+995	TOK	24.2		24.2\X
+##	TAG	</num>
+996	TOK	illustrates		illustrate\VMFDRS3
+##	TAG	<num>
+997	TOK	two		two\X
+##	TAG	</num>
+998	TOK	methods		method\N5P
+999	TOK	for		for\P
+1000	TOK	computing		compute\VMG----
+1001	TOK	the		the\AT---6
+1002	TOK	frequency		frequency\N5S
+1003	TOK	of		of\P
+1004	TOK	M		m\N5S
+1005	TOK	and		and\CC
+##	TAG	<name>
+1006	TOK	Nalleles		Nalleles\N46
+##	TAG	</name>
+1007	TOK	in		in\P
+1008	TOK	a		a\AI---S
+1009	TOK	hypothetical		hypothetical\JA
+1010	TOK	population		population\N5S
+1011	TOK	of		of\P
+##	TAG	<num>
+1012	TOK	100		100\X
+##	TAG	</num>
+1013	TOK	individuals		individual\N5P
+---	DLD	,		=\DELIM
+1014	TOK	and		and\CC
+##	TAG	<name>
+1015	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+1016	TOK	24.3		24.3\X
+##	TAG	</num>
+1017	TOK	lists		list\VMFDRS3
+1018	TOK	the		the\AT---6
+1019	TOK	frequencies		frequency\N5P
+1020	TOK	of		of\P
+##	TAG	<name>
+1021	TOK	Mand Nalleles		Mand_Nalleles\N46
+##	TAG	</name>
+1022	TOK	actually		actually\DGA7
+1023	TOK	measured		measure\VMC----
+1024	TOK	in		in\P
+1025	TOK	several		several\JA
+1026	TOK	human		human\JA
+1027	TOK	populations		population\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1028	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+1029	TOK	24.2	EOS	24.2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+1031	TOK	Methods	BOS	method\N5P
+1032	TOK	of		of\P
+##	TAG	<name>
+1033	TOK	Determining Allele Frequencies for Codominant Alleles	EOS	Determining_Allele_Frequencies_for_Codominant_Alleles\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1035	TOK	A	BOS	a\AI---S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1036	TOK	Counting	BOS	count\VMG----
+##	TAG	<name>
+1037	TOK	Alleles		Alleles\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1038	TOK	Genotype/Phenotype	BOS	Genotype/Phenotype\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1039	TOK	MM	BOS	MM\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+1040	TOK	MN		MN\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1041	TOK	NN	BOS	NN\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1042	TOK	Total	BOS	total\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1043	TOK	Number	BOS	number\N5S
+1044	TOK	of		of\P
+1045	TOK	individuals		individual\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1047	TOK	Number	BOS	number\N5S
+1048	TOK	of		of\P
+1049	TOK	M		m\N5S
+1050	TOK	alleles		allele\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1051	TOK	Number	BOS	number\N5S
+1052	TOK	of		of\P
+1053	TOK	N		n\N5S
+1054	TOK	alleles		allele\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1055	TOK	Total	BOS	total\JA
+1056	TOK	number		number\N5S
+1057	TOK	of		of\P
+1058	TOK	alleles		allele\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1059	TOK	Frequency	BOS	frequency\N5S
+1060	TOK	of		of\P
+1061	TOK	M		M\N5P
+1062	TOK	in		in\P
+1063	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1064	TOK	Frequency	BOS	frequency\N5S
+1065	TOK	of		of\P
+1066	TOK	N		N\N5P
+1067	TOK	in		in\P
+1068	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1069	TOK	B	BOS	b\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1070	TOK	From	BOS	from\P
+##	TAG	<name>
+1071	TOK	Genotypes		Genotypes\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1072	TOK	Genotype/Phenotype	BOS	Genotype/Phenotype\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1073	TOK	MN	BOS	MN\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1074	TOK	MN	BOS	MN\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1075	TOK	NN	BOS	NN\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1076	TOK	Total	BOS	total\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1078	TOK	Number	BOS	number\N5S
+1079	TOK	of		of\P
+1080	TOK	individuals		individual\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1081	TOK	Genotype	BOS	genotype\N5S
+1082	TOK	frequency		frequency\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1083	TOK	Frequency	BOS	frequency\N5S
+1084	TOK	of		of\P
+1085	TOK	M		M\N5P
+1086	TOK	in		in\P
+1087	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1088	TOK	Frequency	BOS	frequency\N5S
+1089	TOK	of		of\P
+1090	TOK	N		N\N5P
+1091	TOK	in		in\P
+1092	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1093	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+1094	TOK	24.3	EOS	24.3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+1096	TOK	Frequencies	BOS	frequency\N5P
+1097	TOK	of		of\P
+1098	TOK	M		m\N5S
+1099	TOK	and		and\CC
+##	TAG	<name>
+1100	TOK	N Alleles		N_Alleles\N46
+##	TAG	</name>
+1101	TOK	in		in\P
+##	TAG	<name>
+1102	TOK	Various Populations	EOS	Various_Populations\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1104	TOK	Eskimos	BOS	Eskimos\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1105	TOK	Greenland		Greenland\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="U.S.">
+##	TAG	<s>
+##	TAG	<name>
+1107	TOK	Indians	BOS	Indians\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="U.S.">
+##	TAG	<s>
+1108	TOK	whites	BOS	white\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="U.S.">
+##	TAG	<s>
+1109	TOK	blacks	BOS	black\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1110	TOK	Ainus	BOS	Ainus\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1111	TOK	Japan		Japan\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1113	TOK	Aborigines	BOS	aborigine\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1114	TOK	Australia		Australia\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1116	TOK	The	BOS	the\AT---6
+##	TAG	<name pos="N46" type="other">
+1117	TOK	Hardy-Weinberg Law	EOS	Hardy-Weinberg_Law\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1119	TOK	In	BOS	in\P
+1120	TOK	the		the\AT---6
+1121	TOK	case		case\N5S
+1122	TOK	of		of\P
+1123	TOK	the		the\AT---6
+##	TAG	<name>
+1124	TOK	MN		MN\N46
+##	TAG	</name>
+1125	TOK	blood		blood\N5S
+1126	TOK	group		group\VMF6R66
+---	DLD	,		=\DELIM
+1127	TOK	M		M\N5P
+1128	TOK	and		and\CC
+1129	TOK	N		N\N5P
+1130	TOK	are		be\V6FDR66
+1131	TOK	codominant		codominant\JA
+1132	TOK	alleles		allele\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1133	TOK	If	BOS	if\CS
+---	DLD	,		=\DELIM
+1134	TOK	on		on\P
+1135	TOK	the		the\AT---6
+1136	TOK	other		other\JA
+1137	TOK	hand		hand\N5S
+---	DLD	,		=\DELIM
+1138	TOK	one		one\MCS
+1139	TOK	allele		allele\N5S
+1140	TOK	had		have\V6F6A66
+1141	TOK	been		be\VMC----
+1142	TOK	recessive		recessive\JA
+---	DLD	,		=\DELIM
+1143	TOK	the		the\AT---6
+1144	TOK	heterozygotes		heterozygote\N5P
+1145	TOK	would		will\VOFDA66
+1146	TOK	have		have\VMI----
+1147	TOK	been		be\VMC----
+1148	TOK	phenotypically		phenotypically\DGA7
+1149	TOK	identical		identical\JA
+1150	TOK	to		to\P
+1151	TOK	the		the\AT---6
+1152	TOK	homozygous		homozygous\JA
+1153	TOK	dominant		dominant\JA
+1154	TOK	individuals		individual\N5P
+---	DLD	,		=\DELIM
+1155	TOK	and		and\CC
+1156	TOK	the		the\AT---6
+1157	TOK	frequency		frequency\N5S
+1158	TOK	of		of\P
+1159	TOK	the		the\AT---6
+1160	TOK	alleles		allele\N5P
+1161	TOK	could		can\VOFDA66
+1162	TOK	not		not\DGA7
+1163	TOK	have		have\VMI----
+1164	TOK	been		be\VMC----
+1165	TOK	directly		directly\DGA7
+1166	TOK	determined		determine\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1167	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1168	TOK	a		a\AI---S
+1169	TOK	mathematical		mathematical\JA
+1170	TOK	model		model\N5S
+1171	TOK	developed		develop\VMC----
+1172	TOK	independently		independently\DGA7
+1173	TOK	by		by\P
+1174	TOK	the		the\AT---6
+##	TAG	<name>
+1175	TOK	British		British\N46
+##	TAG	</name>
+1176	TOK	mathematician		mathematician\N5S
+##	TAG	<name>
+1177	TOK	Godfrey H		Godfrey_H\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1178	TOK	Hardy	BOS	hardy\JA
+1179	TOK	and		and\CC
+1180	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+1181	TOK	German		german\JA
+##	TAG	</loc>
+1182	TOK	physician		physician\N5S
+##	TAG	<name>
+1183	TOK	Wilhelm Weinberg		Wilhelm_Weinberg\N46
+##	TAG	</name>
+1184	TOK	can		can\VOFDR66
+1185	TOK	be		be\VMI----
+1186	TOK	used		use\VMC----
+1187	TOK	to		to\P
+1188	TOK	calculate		calculate\VMI----
+1189	TOK	allele		allele\N5S
+1190	TOK	frequencies		frequency\N5P
+1191	TOK	in		in\P
+1192	TOK	this		this\AD---S
+1193	TOK	case		case\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1194	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1195	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+1196	TOK	law		law\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1197	TOK	HWL		HWL\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1198	TOK	is		be\V6FDRS3
+1199	TOK	one		one\MCS
+1200	TOK	of		of\P
+1201	TOK	the		the\AT---6
+1202	TOK	fundamental		fundamental\JA
+1203	TOK	concepts		concept\N5P
+1204	TOK	in		in\P
+1205	TOK	population		population\N5S
+1206	TOK	genetics		genetics\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1207	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1208	TOK	HWL		HWL\N46
+##	TAG	</name>
+1209	TOK	has		have\V6FDRS3
+##	TAG	<num>
+1210	TOK	three		three\X
+##	TAG	</num>
+1211	TOK	important		important\JA
+1212	TOK	properties		property\N5P
+---	DLD	:		=\DELIM
+##	TAG	<num>
+1213	TOK	1		1\X
+##	TAG	</num>
+1214	TOK	allele		allele\N5S
+1215	TOK	frequencies		frequency\N5P
+1216	TOK	predict		predict\VMF6R66
+1217	TOK	genotype		genotype\N5S
+1218	TOK	frequencies		frequency\N5P
+##	TAG	<num>
+1219	TOK	2		2\X
+##	TAG	</num>
+1220	TOK	at		at\P
+1221	TOK	equilibrium		equilibrium\N5S
+---	DLD	,		=\DELIM
+1222	TOK	allele		allele\N5S
+1223	TOK	and		and\CC
+1224	TOK	genotype		genotype\N5S
+1225	TOK	frequencies		frequency\N5P
+1226	TOK	do		do\V6FDR66
+1227	TOK	not		not\DGA7
+1228	TOK	change		change\VMI----
+1229	TOK	from		from\P
+1230	TOK	generation		generation\N5S
+1231	TOK	to		to\P
+1232	TOK	generation		generation\N5S
+---	DLD	;		=\DELIM
+1233	TOK	and		and\CC
+##	TAG	<num>
+1234	TOK	3		3\X
+##	TAG	</num>
+1235	TOK	equilibrium		equilibrium\N5S
+1236	TOK	is		be\V6FDRS3
+1237	TOK	reached		reach\VMC----
+1238	TOK	in		in\P
+1239	TOK	one		one\MCS
+1240	TOK	generation		generation\N5S
+1241	TOK	of		of\P
+1242	TOK	random		random\JA
+1243	TOK	muting	EOS	mute\VMG----
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1244	TOK	Assumptions	BOS	assumption\N5P
+1245	TOK	for		for\P
+1246	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="other">
+1247	TOK	Hardy-Weinberg Law	EOS	Hardy-Weinberg_Law\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+1249	TOK	In	BOS	in\P
+1250	TOK	the		the\AT---6
+##	TAG	<name>
+1251	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+1252	TOK	law		law\N5S
+---	DLD	,		=\DELIM
+1253	TOK	the		the\AT---6
+1254	TOK	following		following\JA
+1255	TOK	conditions		condition\N5P
+1256	TOK	are		be\V6FDR66
+1257	TOK	presumed		presume\VMC----
+---	DLD	:		=\DELIM
+##	TAG	<num>
+1258	TOK	1		1\X
+##	TAG	</num>
+1259	TOK	The		The\N5S
+1260	TOK	population		population\N5S
+1261	TOK	is		be\V6FDRS3
+1262	TOK	infinitely		infinitely\DGA7
+1263	TOK	large		large\JA
+---	DLD	,		=\DELIM
+1264	TOK	which		which\RW63N-
+1265	TOK	in		in\P
+1266	TOK	practical		practical\JA
+1267	TOK	terms		term\N5P
+1268	TOK	means		mean\VMFDRS3
+1269	TOK	that		that\CS
+1270	TOK	the		the\AT---6
+1271	TOK	population		population\N5S
+1272	TOK	is		be\V6FDRS3
+1273	TOK	large		large\JA
+1274	TOK	enough		enough\DGA7
+1275	TOK	that		that\CS
+1276	TOK	sampling		sampling\N5S
+1277	TOK	errors		error\N5P
+1278	TOK	and		and\CC
+1279	TOK	random		random\JA
+1280	TOK	effects		effect\N5P
+1281	TOK	are		be\V6FDR66
+1282	TOK	negligible		negligible\JA
+##	TAG	<num>
+1283	TOK	2		2\X
+##	TAG	</num>
+##	TAG	<name>
+1284	TOK	Muting		Muting\N46
+##	TAG	</name>
+1285	TOK	within		within\P
+1286	TOK	the		the\AT---6
+1287	TOK	population		population\N5S
+1288	TOK	occurs		occur\VMFDRS3
+1289	TOK	at		at\P
+1290	TOK	random		random\JA
+##	TAG	<num>
+1291	TOK	3		3\X
+##	TAG	</num>
+1292	TOK	There		there\N5S
+1293	TOK	is		be\V6FDRS3
+1294	TOK	no		no\AI---6
+1295	TOK	selective		selective\JA
+1296	TOK	advantage		advantage\N5S
+1297	TOK	for		for\P
+1298	TOK	any		any\AG---6
+1299	TOK	genotype		genotype\N5S
+---	DLD	;		=\DELIM
+1300	TOK	that		that\CS
+1301	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+1302	TOK	all		all\AG---6
+1303	TOK	genotypes		genotype\N5P
+1304	TOK	produced		produce\VMC----
+1305	TOK	by		by\P
+1306	TOK	random		random\JA
+1307	TOK	muting		mute\VMG----
+1308	TOK	are		be\V6FDR66
+1309	TOK	equally		equally\DGA7
+1310	TOK	viable		viable\JA
+1311	TOK	and		and\CC
+1312	TOK	fertile		fertile\JA
+##	TAG	<num>
+1313	TOK	4		4\X
+##	TAG	</num>
+1314	TOK	There		there\N5S
+1315	TOK	is		be\V6FDRS3
+1316	TOK	an		an\AI---S
+1317	TOK	absence		absence\N5S
+1318	TOK	of		of\P
+1319	TOK	other		other\JA
+1320	TOK	factors		factor\N5P
+1321	TOK	including		including\P
+1322	TOK	mutation		mutation\N5S
+---	DLD	,		=\DELIM
+1323	TOK	migration		migration\N5S
+---	DLD	,		=\DELIM
+1324	TOK	and		and\CC
+1325	TOK	random		random\JA
+1326	TOK	genetic		genetic\JA
+1327	TOK	drift	EOS	drift\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1328	TOK	In	BOS	in\P
+1329	TOK	such		such\JA
+1330	TOK	an		an\AI---S
+1331	TOK	ideal		ideal\JA
+1332	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+1333	TOK	suppose		suppose\VMF6R66
+1334	TOK	that		that\CS
+1335	TOK	a		a\AI---S
+##	TAG	<foreign lang="LA" pos="N5S">
+1336	TOK	locus		locus\N5S
+##	TAG	</foreign>
+1337	TOK	has		have\V6FDRS3
+##	TAG	<num>
+1338	TOK	two		two\X
+##	TAG	</num>
+1339	TOK	alleles		allele\N5P
+---	DLD	,		=\DELIM
+1340	TOK	A		a\N5S
+1341	TOK	and		and\CC
+1342	TOK	a		a\AI---S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1343	TOK	The	BOS	the\AT---6
+1344	TOK	frequency		frequency\N5S
+1345	TOK	of		of\P
+1346	TOK	the		the\AT---6
+1347	TOK	allele		allele\N5S
+1348	TOK	A		a\N5S
+1349	TOK	in		in\P
+1350	TOK	both		both\RIP3N-
+1351	TOK	eggs		egg\N5P
+1352	TOK	and		and\CC
+1353	TOK	sperm		sperm\N56
+1354	TOK	is		be\V6FDRS3
+1355	TOK	represented		represent\VMC----
+1356	TOK	by		by\P
+1357	TOK	p		p\N5S
+---	DLD	,		=\DELIM
+1358	TOK	and		and\CC
+1359	TOK	the		the\AT---6
+1360	TOK	frequency		frequency\N5S
+1361	TOK	of		of\P
+1362	TOK	a		a\AI---S
+1363	TOK	in		in\P
+1364	TOK	gametes		gamete\N5P
+1365	TOK	is		be\V6FDRS3
+1366	TOK	represented		represent\VMC----
+1367	TOK	by		by\P
+1368	TOK	q		q\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1369	TOK	Because	BOS	because\CS
+1370	TOK	the		the\AT---6
+1371	TOK	sum		sum\N5S
+1372	TOK	of		of\P
+1373	TOK	p		p\N5S
+1374	TOK	and		and\CC
+1375	TOK	q		q\N5S
+1376	TOK	represents		represent\VMFDRS3
+##	TAG	<num>
+1377	TOK	100		100\X
+##	TAG	</num>
+1378	TOK	percent		percent\N56
+1379	TOK	of		of\P
+1380	TOK	the		the\AT---6
+1381	TOK	alleles		allele\N5P
+1382	TOK	for		for\P
+1383	TOK	that		that\AD---S
+1384	TOK	gene		gene\N5S
+1385	TOK	in		in\P
+1386	TOK	the		the\AT---6
+1387	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+1388	TOK	then		then\DGA7
+##	TAG	<na type="equation">
+1389	TOK	p + q = 1		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1390	TOK	A	BOS	a\AI---S
+1391	TOK	diagram		diagram\N5S
+1392	TOK	can		can\VOFDR66
+1393	TOK	be		be\VMI----
+1394	TOK	used		use\VMC----
+1395	TOK	to		to\P
+1396	TOK	represent		represent\VMI----
+1397	TOK	the		the\AT---6
+1398	TOK	random		random\JA
+1399	TOK	combination		combination\N5S
+1400	TOK	of		of\P
+1401	TOK	gametes		gamete\N5P
+1402	TOK	containing		contain\VMG----
+1403	TOK	these		this\AD---P
+1404	TOK	alleles		allele\N5P
+1405	TOK	and		and\CC
+1406	TOK	the		the\AT---6
+1407	TOK	resulting		result\VMG----
+1408	TOK	genotypes		genotype\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1409	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1410	TOK	24.1		24.1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1412	TOK	In	BOS	in\P
+1413	TOK	the		the\AT---6
+1414	TOK	random		random\JA
+1415	TOK	combination		combination\N5S
+1416	TOK	of		of\P
+1417	TOK	gametes		gamete\N5P
+1418	TOK	in		in\P
+1419	TOK	the		the\AT---6
+1420	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+1421	TOK	the		the\AT---6
+1422	TOK	probability		probability\N5S
+1423	TOK	that		that\CS
+1424	TOK	sperm		sperm\N56
+1425	TOK	and		and\CC
+1426	TOK	egg		egg\N5S
+1427	TOK	both		both\RIP3N-
+1428	TOK	contain		contain\VMF6R66
+1429	TOK	the		the\AT---6
+1430	TOK	A		a\N5S
+1431	TOK	allele		allele\N5S
+1432	TOK	is		be\V6FDRS3
+1433	TOK	p		p\N5S
+1434	TOK	x		x\N5S
+##	TAG	<na type="equation">
+1435	TOK	p = p2		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1436	TOK	Similarly	BOS	similarly\DGA7
+---	DLD	,		=\DELIM
+1437	TOK	the		the\AT---6
+1438	TOK	chance		chance\N5S
+1439	TOK	that		that\CS
+1440	TOK	gametes		gamete\N5P
+1441	TOK	will		will\VOFDR66
+1442	TOK	carry		carry\VMI----
+1443	TOK	unlike		unlike\P
+1444	TOK	alleles		allele\N5P
+1445	TOK	is		be\V6FDRS3
+---	DLE	(		=\DELIM
+1446	TOK	p		p\N5S
+1447	TOK	x		x\N5S
+1448	TOK	q		q\N5S
+---	DLD	)		=\DELIM
+1449	TOK	+		plus\CS
+---	DLE	(		=\DELIM
+1450	TOK	p		p\N5S
+1451	TOK	x		x\N5S
+1452	TOK	q		q\N5S
+---	DLD	)		=\DELIM
+1453	TOK	=		noanat\W
+1454	TOK	2pq		2pq\N5P
+---	DLE	,		=\DELIM
+1455	TOK	and		and\CC
+1456	TOK	the		the\AT---6
+1457	TOK	chance		chance\N5S
+1458	TOK	that		that\CS
+1459	TOK	a		a\AI---S
+1460	TOK	homozygous		homozygous\JA
+1461	TOK	recessive		recessive\JA
+1462	TOK	individual		individual\N5S
+1463	TOK	will		will\VOFDR66
+1464	TOK	result		result\VMI----
+1465	TOK	is		be\V6FDRS3
+1466	TOK	q		q\N5S
+1467	TOK	x		x\N5S
+##	TAG	<na type="equation">
+1468	TOK	q = q2		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1469	TOK	Note	BOS	note\N5S
+1470	TOK	that		that\CS
+1471	TOK	these		this\AD---P
+1472	TOK	terms		term\N5P
+1473	TOK	also		also\DGA7
+1474	TOK	describe		describe\VMF6R66
+1475	TOK	one		one\MCS
+1476	TOK	of		of\P
+1477	TOK	the		the\AT---6
+1478	TOK	characteristics		characteristic\N5P
+1479	TOK	of		of\P
+1480	TOK	the		the\AT---6
+##	TAG	<name>
+1481	TOK	HWL		HWL\N46
+##	TAG	</name>
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1483	TOK	Allele	BOS	allele\N5S
+1484	TOK	frequencies		frequency\N5P
+1485	TOK	determine		determine\VMF6R66
+1486	TOK	genotype		genotype\N5S
+1487	TOK	frequencies		frequency\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1488	TOK	In	BOS	in\P
+1489	TOK	other		other\JA
+1490	TOK	words		word\N5P
+---	DLD	,		=\DELIM
+1491	TOK	while		while\CS
+1492	TOK	the		the\AT---6
+1493	TOK	value		value\N5S
+1494	TOK	p2		p2\N5S
+1495	TOK	is		be\V6FDRS3
+1496	TOK	the		the\AT---6
+1497	TOK	probability		probability\N5S
+1498	TOK	that		that\CS
+1499	TOK	both		both\RIP3N-
+1500	TOK	gametes		gamete\N5P
+1501	TOK	in		in\P
+1502	TOK	a		a\AI---S
+1503	TOK	fertilization		fertilization\N5S
+1504	TOK	event		event\N5S
+1505	TOK	will		will\VOFDR66
+1506	TOK	carry		carry\VMI----
+1507	TOK	the		the\AT---6
+1508	TOK	A		a\N5S
+1509	TOK	allele		allele\N5S
+---	DLD	,		=\DELIM
+1510	TOK	it		it\RPS3N6
+1511	TOK	is		be\V6FDRS3
+1512	TOK	also		also\DGA7
+1513	TOK	a		a\AI---S
+1514	TOK	measure		measure\N5S
+1515	TOK	of		of\P
+1516	TOK	the		the\AT---6
+1517	TOK	frequency		frequency\N5S
+1518	TOK	of		of\P
+##	TAG	<name>
+1519	TOK	AA		AA\N46
+##	TAG	</name>
+1520	TOK	homozygotes		homozygote\N5P
+1521	TOK	in		in\P
+1522	TOK	the		the\AT---6
+1523	TOK	ensuing		ensue\VMG----
+1524	TOK	generation		generation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1525	TOK	In	BOS	in\P
+1526	TOK	a		a\AI---S
+1527	TOK	similar		similar\JA
+1528	TOK	way		way\N5S
+---	DLD	,		=\DELIM
+1529	TOK	2pq		2pq\N5S
+1530	TOK	describes		describe\VMFDRS3
+1531	TOK	the		the\AT---6
+1532	TOK	frequency		frequency\N5S
+1533	TOK	of		of\P
+1534	TOK	As		As\N5S
+1535	TOK	heterozygotes		heterozygote\N5P
+---	DLD	,		=\DELIM
+1536	TOK	and		and\CC
+1537	TOK	q2		q2\N5S
+1538	TOK	is		be\V6FDRS3
+1539	TOK	a		a\AI---S
+1540	TOK	measure		measure\N5S
+1541	TOK	of		of\P
+1542	TOK	the		the\AT---6
+1543	TOK	frequency		frequency\N5S
+1544	TOK	of		of\P
+1545	TOK	homozygous		homozygous\JA
+1546	TOK	recessive		recessive\JA
+---	DLE	(		=\DELIM
+1547	TOK	aa		aa\N5S
+---	DLD	)		=\DELIM
+1548	TOK	zygotes		zygote\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1549	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+1550	TOK	the		the\AT---6
+1551	TOK	distribution		distribution\N5S
+1552	TOK	of		of\P
+1553	TOK	homozygous		homozygous\JA
+1554	TOK	and		and\CC
+1555	TOK	heterozygous		heterozygous\JA
+1556	TOK	genotypes		genotype\N5P
+1557	TOK	in		in\P
+1558	TOK	the		the\AT---6
+1559	TOK	next		next\JA
+1560	TOK	generation		generation\N5S
+1561	TOK	can		can\VOFDR66
+1562	TOK	be		be\VMI----
+1563	TOK	expressed		express\VMC----
+1564	TOK	as		as\P
+1565	TOK	p		p\N5S
+1566	TOK	+2pq+q		+2pq+q\N5P
+---	DLD	-		=\DELIM
+---	DLD	=		=\DELIM
+##	TAG	<num>
+1567	TOK	1		1\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1568	TOK	24.1		24.1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+1569	TOK	Next		next\N5S
+---	DLD	,		=\DELIM
+1570	TOK	consider		consider\VMF6R66
+1571	TOK	a		a\AI---S
+1572	TOK	population		population\N5S
+1573	TOK	in		in\P
+1574	TOK	which		which\RW63N-
+##	TAG	<num>
+1575	TOK	70		70\X
+##	TAG	</num>
+1576	TOK	percent		percent\N56
+1577	TOK	of		of\P
+1578	TOK	the		the\AT---6
+1579	TOK	alleles		allele\N5P
+1580	TOK	for		for\P
+1581	TOK	a		a\AI---S
+1582	TOK	given		give\VMC----
+1583	TOK	gene		gene\N5S
+1584	TOK	are		be\V6FDR66
+1585	TOK	A		A\N5P
+---	DLD	,		=\DELIM
+1586	TOK	and		and\CC
+##	TAG	<num>
+1587	TOK	30		30\X
+##	TAG	</num>
+1588	TOK	percent		percent\N56
+1589	TOK	are		be\V6FDR66
+1590	TOK	a		a\AI---S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1591	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<na type="equation">
+1592	TOK	p = 0.7		noanat\W
+##	TAG	</na>
+1593	TOK	and		and\CC
+##	TAG	<na type="equation">
+1594	TOK	q = 0.3		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+1595	TOK	and		and\CC
+1596	TOK	p		p\N5S
+---	DLD	(		=\DELIM
+##	TAG	<num>
+1597	TOK	0.7		0.7\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+1598	TOK	+		plus\N5S
+1599	TOK	q(O		q(O\N5P
+##	TAG	<num>
+1600	TOK	.3		.3\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+1601	TOK	=		noanat\W
+##	TAG	<num>
+1602	TOK	1		1\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1603	TOK	The	BOS	the\AT---6
+1604	TOK	distribution		distribution\N5S
+1605	TOK	of		of\P
+1606	TOK	genotypes		genotype\N5P
+1607	TOK	produced		produce\VMC----
+1608	TOK	by		by\P
+1609	TOK	random		random\JA
+1610	TOK	muting		mute\VMG----
+1611	TOK	is		be\V6FDRS3
+1612	TOK	shown		show\VMC----
+1613	TOK	in		in\P
+##	TAG	<name>
+1614	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1615	TOK	24.2		24.2\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1616	TOK	In	BOS	in\P
+1617	TOK	the		the\AT---6
+1618	TOK	new		new\JA
+1619	TOK	generation		generation\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1620	TOK	49		49\X
+##	TAG	</num>
+1621	TOK	percent		percent\N56
+---	DLE	(		=\DELIM
+1622	TOK	p2		p2\N5P
+---	DLD	)		=\DELIM
+1623	TOK	of		of\P
+1624	TOK	the		the\AT---6
+1625	TOK	individuals		individual\N5P
+1626	TOK	will		will\VOFDR66
+1627	TOK	be		be\VMI----
+1628	TOK	homozygous		homozygous\JA
+1629	TOK	dominant		dominant\JA
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1630	TOK	42		42\X
+##	TAG	</num>
+1631	TOK	percent		percent\N56
+---	DLE	(		=\DELIM
+1632	TOK	2pq		2pq\N5P
+---	DLE	)		=\DELIM
+1633	TOK	will		will\VOFDR66
+1634	TOK	be		be\VMI----
+1635	TOK	heterozygous		heterozygous\JA
+---	DLD	,		=\DELIM
+1636	TOK	and		and\CC
+##	TAG	<num>
+1637	TOK	9		9\X
+##	TAG	</num>
+1638	TOK	percent		percent\N56
+---	DLE	(		=\DELIM
+1639	TOK	q2		q2\N5P
+---	DLE	)		=\DELIM
+1640	TOK	will		will\VOFDR66
+1641	TOK	be		be\VMI----
+1642	TOK	homozygous		homozygous\JA
+1643	TOK	recessive		recessive\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1644	TOK	The	BOS	the\AT---6
+1645	TOK	frequency		frequency\N5S
+1646	TOK	of		of\P
+1647	TOK	the		the\AT---6
+1648	TOK	A		a\N5S
+1649	TOK	allele		allele\N5S
+1650	TOK	in		in\P
+1651	TOK	the		the\AT---6
+1652	TOK	new		new\JA
+1653	TOK	generation		generation\N5S
+1654	TOK	can		can\VOFDR66
+1655	TOK	be		be\VMI----
+1656	TOK	calculated		calculate\VMC----
+1657	TOK	as		as\P
+##	TAG	<na type="function">
+1658	TOK	p2 + 1/2		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+1659	TOK	2pq		2pq\N5P
+---	DLD	)		=\DELIM
+##	TAG	<na type="function">
+1660	TOK	0.49 + 1/2		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1661	TOK	0.42		0.42\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="equation">
+1662	TOK	0.49 + 0.21 = 0.70		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1663	TOK	24.2		24.2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+1664	TOK	For		For\N5S
+1665	TOK	a		a\AI---S
+---	DLD	,		=\DELIM
+1666	TOK	the		the\AT---6
+1667	TOK	frequency		frequency\N5S
+1668	TOK	is		be\V6FDRS3
+##	TAG	<na type="function">
+1669	TOK	q2 + 1/2		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+1670	TOK	2pq		2pq\N5P
+---	DLD	)		=\DELIM
+##	TAG	<na type="function">
+1671	TOK	0.09 + 1/2		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1672	TOK	0.42		0.42\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="equation">
+1673	TOK	0.09 + 0.21 = 0.30		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1674	TOK	24.3		24.3\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+1675	TOK	Since		Since\N5S
+##	TAG	<na type="equation">
+1676	TOK	p + q = 1		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+1677	TOK	the		the\AT---6
+1678	TOK	value		value\N5S
+1679	TOK	for		for\P
+1680	TOK	a		a\AI---S
+1681	TOK	could		can\VOFDA66
+1682	TOK	have		have\VMI----
+1683	TOK	been		be\VMC----
+1684	TOK	calculated		calculate\VMC----
+1685	TOK	as		as\P
+##	TAG	<na type="equation">
+1686	TOK	q = 1 - p		noanat\W
+##	TAG	</na>
+##	TAG	<na type="equation">
+1687	TOK	q = 1 - 0.70 = 0.30		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1688	TOK	24.4		24.4\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+1689	TOK	The		The\N5S
+1690	TOK	frequencies		frequency\N5P
+1691	TOK	of		of\P
+1692	TOK	A		a\N5S
+1693	TOK	and		and\CC
+1694	TOK	a		a\AI---S
+1695	TOK	in		in\P
+1696	TOK	the		the\AT---6
+1697	TOK	new		new\JA
+1698	TOK	generation		generation\N5S
+1699	TOK	are		be\V6FDR66
+1700	TOK	the		the\AT---6
+1701	TOK	same		same\JA
+1702	TOK	as		as\DGA7
+1703	TOK	in		in\P
+1704	TOK	the		the\AT---6
+1705	TOK	previous		previous\JA
+1706	TOK	generation		generation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1707	TOK	If	BOS	if\CS
+##	TAG	<name>
+1708	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+1709	TOK	conditions		condition\N5P
+1710	TOK	are		be\V6FDR66
+1711	TOK	assumed		assume\VMC----
+---	DLD	,		=\DELIM
+1712	TOK	allele		allele\N5S
+1713	TOK	frequencies		frequency\N5P
+1714	TOK	and		and\CC
+1715	TOK	the		the\AT---6
+1716	TOK	frequencies		frequency\N5P
+1717	TOK	of		of\P
+1718	TOK	other		other\JA
+1719	TOK	genotypes		genotype\N5P
+1720	TOK	can		can\VOFDR66
+1721	TOK	be		be\VMI----
+1722	TOK	calculated		calculate\VMC----
+1723	TOK	from		from\P
+1724	TOK	knowing		know\VMG----
+1725	TOK	only		only\DGA7
+1726	TOK	the		the\AT---6
+1727	TOK	frequency		frequency\N5S
+1728	TOK	of		of\P
+1729	TOK	one		one\MCS
+1730	TOK	genotype		genotype\N5S
+---	DLE	(		=\DELIM
+1731	TOK	such		such\JA
+1732	TOK	as		as\P
+1733	TOK	the		the\AT---6
+1734	TOK	homozygous		homozygous\JA
+1735	TOK	recessive		recessive\JA
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1736	TOK	In	BOS	in\P
+1737	TOK	human		human\JA
+1738	TOK	genetics		genetics\N56
+---	DLD	,		=\DELIM
+1739	TOK	this		this\AD---S
+1740	TOK	relationship		relationship\N5S
+1741	TOK	is		be\V6FDRS3
+1742	TOK	used		use\VMC----
+1743	TOK	to		to\P
+1744	TOK	calculate		calculate\VMI----
+1745	TOK	the		the\AT---6
+1746	TOK	frequency		frequency\N5S
+1747	TOK	of		of\P
+1748	TOK	heterozygotes		heterozygote\N5P
+1749	TOK	carrying		carry\VMG----
+1750	TOK	a		a\AI---S
+1751	TOK	recessive		recessive\JA
+1752	TOK	allele		allele\N5S
+1753	TOK	for		for\P
+1754	TOK	a		a\AI---S
+1755	TOK	genetic		genetic\JA
+1756	TOK	disorder		disorder\N5S
+---	DLE	(		=\DELIM
+1757	TOK	see		see\VMF6R66
+1758	TOK	below		below\P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1759	TOK	A	BOS	a\AI---S
+1760	TOK	population		population\N5S
+1761	TOK	in		in\P
+1762	TOK	which		which\RW63N-
+1763	TOK	the		the\AT---6
+1764	TOK	frequency		frequency\N5S
+1765	TOK	of		of\P
+1766	TOK	a		a\AI---S
+1767	TOK	given		give\VMC----
+1768	TOK	allele		allele\N5S
+1769	TOK	remains		remain\VMFDRS3
+1770	TOK	constant		constant\JA
+1771	TOK	from		from\P
+1772	TOK	generation		generation\N5S
+1773	TOK	to		to\P
+1774	TOK	generation		generation\N5S
+1775	TOK	is		be\V6FDRS3
+1776	TOK	said		say\VMC----
+1777	TOK	to		to\P
+1778	TOK	be		be\VMI----
+1779	TOK	in		in\P
+1780	TOK	a		a\AI---S
+1781	TOK	state		state\N5S
+1782	TOK	of		of\P
+1783	TOK	genetic		genetic\JA
+1784	TOK	equilibrium		equilibrium\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1786	TOK	In	BOS	in\P
+1787	TOK	this		this\AD---S
+1788	TOK	case		case\N5S
+---	DLD	,		=\DELIM
+1789	TOK	the		the\AT---6
+1790	TOK	frequencies		frequency\N5P
+1791	TOK	of		of\P
+1792	TOK	A		a\N5S
+1793	TOK	and		and\CC
+1794	TOK	a		a\AI---S
+1795	TOK	remain		remain\VMF6R66
+1796	TOK	constant		constant\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1797	TOK	Several	BOS	several\JA
+1798	TOK	important		important\JA
+1799	TOK	points		point\N5P
+1800	TOK	are		be\V6FDR66
+1801	TOK	relevant		relevant\JA
+1802	TOK	to		to\P
+1803	TOK	the		the\AT---6
+1804	TOK	preceding		preceding\JA
+1805	TOK	example		example\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1806	TOK	First	BOS	first\MOS
+---	DLD	,		=\DELIM
+1807	TOK	while		while\CS
+1808	TOK	the		the\AT---6
+1809	TOK	hypothetical		hypothetical\JA
+1810	TOK	alleles		allele\N5P
+1811	TOK	we		we\RPP1NN
+1812	TOK	have		have\V6F6R66
+1813	TOK	considered		consider\VMC----
+1814	TOK	were		be\V6F-A66
+1815	TOK	at		at\P
+1816	TOK	equilibrium		equilibrium\N5S
+---	DLD	,		=\DELIM
+1817	TOK	not		not\DGA7
+1818	TOK	all		all\AG---6
+1819	TOK	alleles		allele\N5P
+1820	TOK	in		in\P
+1821	TOK	a		a\AI---S
+1822	TOK	population		population\N5S
+1823	TOK	are		be\V6FDR66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1824	TOK	This	BOS	this\RDS3N-
+1825	TOK	is		be\V6FDRS3
+1826	TOK	particularly		particularly\DGA7
+1827	TOK	true		true\JA
+1828	TOK	when		when\CS
+1829	TOK	the		the\AT---6
+1830	TOK	assumptions		assumption\N5P
+1831	TOK	made		make\VMC----
+1832	TOK	in		in\P
+1833	TOK	the		the\AT---6
+##	TAG	<name>
+1834	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+1835	TOK	law		law\N5S
+1836	TOK	do		do\V6FDR66
+1837	TOK	not		not\DGA7
+1838	TOK	hold		hold\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1839	TOK	Second	BOS	second\MOS
+---	DLD	,		=\DELIM
+1840	TOK	the		the\AT---6
+1841	TOK	examples		example\N5P
+1842	TOK	illustrate		illustrate\VMF6R66
+1843	TOK	why		why\CS
+1844	TOK	dominant		dominant\JA
+1845	TOK	traits		trait\N5P
+1846	TOK	do		do\V6FDR66
+1847	TOK	not		not\DGA7
+1848	TOK	tend		tend\VMI----
+1849	TOK	to		to\P
+1850	TOK	increase		increase\VMI----
+1851	TOK	in		in\P
+1852	TOK	frequency		frequency\N5S
+1853	TOK	as		as\P
+1854	TOK	new		new\JA
+1855	TOK	generations		generation\N5P
+1856	TOK	are		be\V6FDR66
+1857	TOK	produced		produce\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1858	TOK	Finally	BOS	finally\DGA7
+---	DLD	,		=\DELIM
+1859	TOK	the		the\AT---6
+1860	TOK	examples		example\N5P
+1861	TOK	demonstrate		demonstrate\VMF6R66
+1862	TOK	that		that\CS
+1863	TOK	genetic		genetic\JA
+1864	TOK	equilibrium		equilibrium\N5S
+1865	TOK	and		and\CC
+1866	TOK	genetic		genetic\JA
+1867	TOK	variability		variability\N5S
+1868	TOK	can		can\VOFDR66
+1869	TOK	be		be\VMI----
+1870	TOK	maintained		maintain\VMC----
+1871	TOK	in		in\P
+1872	TOK	a		a\AI---S
+1873	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1874	TOK	Once	BOS	once\DGA7
+1875	TOK	established		establish\VMC----
+1876	TOK	in		in\P
+1877	TOK	a		a\AI---S
+1878	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+1879	TOK	allelic		allelic\JA
+1880	TOK	frequencies		frequency\N5P
+1881	TOK	remain		remain\VMF6R66
+1882	TOK	unchanged		unchanged\JA
+1883	TOK	during		during\P
+1884	TOK	equilibrium		equilibrium\N5S
+---	DLI	-		=\DELIM
+1885	TOK	a		a\AI---S
+1886	TOK	factor		factor\N5S
+1887	TOK	important		important\JA
+1888	TOK	to		to\P
+1889	TOK	the		the\AT---6
+1890	TOK	evolutionary		evolutionary\JA
+1891	TOK	process		process\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1892	TOK	Testing	BOS	testing\N5S
+1893	TOK	for		for\P
+##	TAG	<name>
+1894	TOK	Equilibrium	EOS	Equilibrium\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1896	TOK	The	BOS	the\AT---6
+##	TAG	<name pos="N46" type="other">
+1897	TOK	Hardy-Weinberg Law		Hardy-Weinberg_Law\N46
+##	TAG	</name>
+1898	TOK	can		can\VOFDR66
+1899	TOK	also		also\DGA7
+1900	TOK	be		be\VMI----
+1901	TOK	used		use\VMC----
+1902	TOK	to		to\P
+1903	TOK	determine		determine\VMI----
+1904	TOK	whether		whether\CS
+1905	TOK	genotypes		genotype\N5P
+1906	TOK	in		in\P
+1907	TOK	a		a\AI---S
+1908	TOK	given		give\VMC----
+1909	TOK	population		population\N5S
+1910	TOK	are		be\V6FDR66
+1911	TOK	in		in\P
+1912	TOK	equilibrium		equilibrium\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1913	TOK	In	BOS	in\P
+1914	TOK	a		a\AI---S
+1915	TOK	natural		natural\JA
+1916	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+1917	TOK	any		any\AG---6
+1918	TOK	of		of\P
+1919	TOK	the		the\AT---6
+1920	TOK	assumptions		assumption\N5P
+1921	TOK	of		of\P
+1922	TOK	the		the\AT---6
+##	TAG	<name>
+1923	TOK	HWL		HWL\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+1924	TOK	size		size\N5S
+---	DLD	,		=\DELIM
+1925	TOK	random		random\JA
+1926	TOK	muting		mute\VMG----
+---	DLD	,		=\DELIM
+1927	TOK	no		no\N5S
+1928	TOK	selection		selection\N5S
+---	DLD	)		=\DELIM
+1929	TOK	may		may\VOFDR66
+1930	TOK	not		not\DGA7
+1931	TOK	be		be\VMI----
+1932	TOK	valid		valid\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1933	TOK	To	BOS	to\P
+1934	TOK	do		do\VMI----
+1935	TOK	this		this\AD---S
+---	DLD	,		=\DELIM
+1936	TOK	one		one\RIS3N-
+1937	TOK	must		must\VOFDR66
+1938	TOK	be		be\VMI----
+1939	TOK	able		able\JA
+1940	TOK	to		to\P
+1941	TOK	phenotypically		phenotypically\DGA7
+1942	TOK	identify		identify\VMI----
+1943	TOK	heterozygotes		heterozygote\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1944	TOK	If	BOS	if\CS
+1945	TOK	this		this\RDS3N-
+1946	TOK	is		be\V6FDRS3
+1947	TOK	possible		possible\JA
+---	DLD	,		=\DELIM
+1948	TOK	then		then\DGA7
+1949	TOK	it		it\RPS3N6
+1950	TOK	must		must\VOFDR66
+1951	TOK	be		be\VMI----
+1952	TOK	ascertained		ascertain\VMC----
+1953	TOK	whether		whether\CS
+1954	TOK	the		the\AT---6
+1955	TOK	existing		existing\JA
+1956	TOK	population		population\N5S
+1957	TOK	fits		fit\VMFDRS3
+1958	TOK	a		a\AI---S
+##	TAG	<na type="equation">
+1959	TOK	p2 + 2pq + q2 = 1		noanat\W
+##	TAG	</na>
+1960	TOK	relationship		relationship\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1961	TOK	If	BOS	if\CS
+1962	TOK	not		not\DGA7
+---	DLD	,		=\DELIM
+1963	TOK	same		same\JA
+1964	TOK	factor		factor\N5S
+---	DLE	(		=\DELIM
+1965	TOK	presumably		presumably\DGA7
+1966	TOK	selection		selection\N5S
+---	DLD	,		=\DELIM
+1967	TOK	mutation		mutation\N5S
+---	DLD	,		=\DELIM
+1968	TOK	migration		migration\N5S
+---	DLD	)		=\DELIM
+1969	TOK	is		be\V6FDRS3
+1970	TOK	causing		cause\VMG----
+1971	TOK	allele		allele\N5S
+1972	TOK	frequencies		frequency\N5P
+1973	TOK	to		to\P
+1974	TOK	shift		shift\N5S
+1975	TOK	with		with\P
+1976	TOK	each		each\AG---S
+1977	TOK	successive		successive\JA
+1978	TOK	generation		generation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1979	TOK	MN	BOS	MN\N46
+##	TAG	</name>
+1980	TOK	blood		blood\N5S
+1981	TOK	group		group\N5S
+1982	TOK	distribution		distribution\N5S
+1983	TOK	of		of\P
+1984	TOK	allele		allele\N5S
+1985	TOK	frequencies		frequency\N5P
+1986	TOK	of		of\P
+1987	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+1988	TOK	Australian		australian\JA
+##	TAG	</loc>
+1989	TOK	aborigines		aborigine\N5P
+1990	TOK	is		be\V6FDRS3
+1991	TOK	a		a\AI---S
+1992	TOK	good		good\JA
+1993	TOK	example		example\N5S
+1994	TOK	of		of\P
+1995	TOK	this		this\AD---S
+1996	TOK	application		application\N5S
+1997	TOK	of		of\P
+1998	TOK	the		the\AT---6
+##	TAG	<name>
+1999	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+2000	TOK	law		law\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2001	TOK	From	BOS	from\P
+2002	TOK	the		the\AT---6
+2003	TOK	values		value\N5P
+2004	TOK	of		of\P
+2005	TOK	allele		allele\N5S
+2006	TOK	frequencies		frequency\N5P
+2007	TOK	in		in\P
+##	TAG	<name>
+2008	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+2009	TOK	24.3		24.3\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2010	TOK	0.178		0.178\X
+##	TAG	</num>
+2011	TOK	for		for\P
+2012	TOK	M		M\N5P
+2013	TOK	and		and\CC
+##	TAG	<num>
+2014	TOK	0.822		0.822\X
+##	TAG	</num>
+2015	TOK	for		for\P
+2016	TOK	N		N\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2017	TOK	the		the\AT---6
+2018	TOK	expected		expect\VMC----
+2019	TOK	frequencies		frequency\N5P
+2020	TOK	of		of\P
+2021	TOK	blood		blood\N5S
+2022	TOK	types		type\N5P
+2023	TOK	M		M\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2024	TOK	MN		MN\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2025	TOK	and		and\CC
+2026	TOK	N		n\N5S
+2027	TOK	can		can\VOFDR66
+2028	TOK	be		be\VMI----
+2029	TOK	calculated		calculate\VMC----
+2030	TOK	to		to\P
+2031	TOK	determine		determine\VMI----
+2032	TOK	if		if\CS
+2033	TOK	the		the\AT---6
+2034	TOK	population		population\N5S
+2035	TOK	is		be\V6FDRS3
+2036	TOK	in		in\P
+2037	TOK	equilibrium		equilibrium\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2038	TOK	Expected	BOS	expect\VMC----
+2039	TOK	frequency		frequency\N5S
+2040	TOK	of		of\P
+2041	TOK	type		type\N5S
+##	TAG	<na type="equation">
+2042	TOK	M = p2		noanat\W
+##	TAG	</na>
+2043	TOK	=		noanat\W
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2044	TOK	0.178		0.178\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="equation">
+2045	TOK	2 = 0.032 = 3		noanat\W
+##	TAG	</na>
+##	TAG	<num>
+2046	TOK	.2		.2\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+##	TAG	<name>
+2047	TOK	Expected		Expected\N46
+##	TAG	</name>
+2048	TOK	frequency		frequency\N5S
+2049	TOK	of		of\P
+2050	TOK	type		type\N5S
+##	TAG	<na type="equation">
+2051	TOK	MN = 2pq = 2		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2052	TOK	0.178		0.178\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="equation">
+2053	TOK	(0.822) = 0.292 = 29		noanat\W
+##	TAG	</na>
+##	TAG	<num>
+2054	TOK	.2		.2\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+##	TAG	<name>
+2055	TOK	Expected		Expected\N46
+##	TAG	</name>
+2056	TOK	frequency		frequency\N5S
+2057	TOK	of		of\P
+2058	TOK	type		type\N5S
+##	TAG	<na type="equation">
+2059	TOK	N = q2		noanat\W
+##	TAG	</na>
+2060	TOK	=		noanat\W
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2061	TOK	0.822		0.822\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="equation">
+2062	TOK	2 = 0.676 = 67.6% (24.5)		noanat\W
+##	TAG	</na>
+2063	TOK	These		These\N5S
+2064	TOK	expected		expect\VMC----
+2065	TOK	frequencies		frequency\N5P
+2066	TOK	are		be\V6FDR66
+2067	TOK	nearly		nearly\DGA7
+2068	TOK	identical		identical\JA
+2069	TOK	to		to\P
+2070	TOK	the		the\AT---6
+2071	TOK	observed		observe\VMC----
+2072	TOK	frequencies		frequency\N5P
+2073	TOK	shown		show\VMC----
+2074	TOK	in		in\P
+##	TAG	<name>
+2075	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+2076	TOK	24.3		24.3\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+2077	TOK	confirming		confirm\VMG----
+2078	TOK	that		that\CS
+2079	TOK	the		the\AT---6
+2080	TOK	population		population\N5S
+2081	TOK	is		be\V6FDRS3
+2082	TOK	in		in\P
+2083	TOK	equilibrium		equilibrium\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2084	TOK	If	BOS	if\CS
+2085	TOK	there		there\DGA7
+2086	TOK	were		be\V6F-A66
+2087	TOK	a		a\AI---S
+2088	TOK	question		question\N5S
+##	TAG	<loc pos="P">
+2089	TOK	as to		as_to\P
+##	TAG	</loc>
+2090	TOK	whether		whether\CS
+2091	TOK	the		the\AT---6
+2092	TOK	observe		observe\VMI----
+2093	TOK	frequencies		frequency\N5P
+2094	TOK	varied		vary\VMC----
+2095	TOK	significantly		significantly\DGA7
+2096	TOK	from		from\P
+2097	TOK	the		the\AT---6
+2098	TOK	expected		expect\VMC----
+2099	TOK	frequencies		frequency\N5P
+---	DLD	,		=\DELIM
+2100	TOK	a		a\AI---S
+2101	TOK	chi		chi\N5S
+---	DLI	-		=\DELIM
+2102	TOK	square		square\JA
+2103	TOK	analysis		analysis\N5S
+2104	TOK	could		can\VOFDA66
+2105	TOK	be		be\VMI----
+2106	TOK	performed		perform\VMF6A66
+---	DLE	(		=\DELIM
+2107	TOK	see		see\VMF6R66
+2108	TOK	chapter		chapter\N5S
+##	TAG	<num>
+2109	TOK	3		3\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2110	TOK	On	BOS	on\P
+2111	TOK	the		the\AT---6
+2112	TOK	other		other\JA
+2113	TOK	hand		hand\N5S
+---	DLD	,		=\DELIM
+2114	TOK	if		if\CS
+2115	TOK	the		the\AT---6
+##	TAG	<name>
+2116	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+2117	TOK	test		test\N5S
+2118	TOK	demonstrates		demonstrate\VMFDRS3
+2119	TOK	that		that\CS
+2120	TOK	the		the\AT---6
+2121	TOK	population		population\N5S
+2122	TOK	is		be\V6FDRS3
+2123	TOK	not		not\DGA7
+2124	TOK	in		in\P
+2125	TOK	equilibrium		equilibrium\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+2126	TOK	one or more		one_or_more\DGA7
+##	TAG	</loc>
+2127	TOK	of		of\P
+2128	TOK	these		this\AD---P
+2129	TOK	necessary		necessary\JA
+2130	TOK	conditions		condition\N5P
+2131	TOK	are		be\V6FDR66
+2132	TOK	not		not\DGA7
+2133	TOK	being		be\VMG----
+2134	TOK	met		meet\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2135	TOK	Using	BOS	use\VMG----
+2136	TOK	the		the\AT---6
+2137	TOK	values		value\N5P
+2138	TOK	listed		list\VMC----
+2139	TOK	for		for\P
+2140	TOK	M		m\N5S
+2141	TOK	and		and\CC
+2142	TOK	N		n\N5S
+2143	TOK	frequencies		frequency\N5P
+2144	TOK	in		in\P
+##	TAG	<name>
+2145	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+2146	TOK	24.3		24.3\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+2147	TOK	we		we\RPP1NN
+2148	TOK	can		can\VOFDR66
+2149	TOK	construct		construct\VMI----
+2150	TOK	a		a\AI---S
+2151	TOK	hypothetical		hypothetical\JA
+2152	TOK	mixed		mix\VMC----
+2153	TOK	population		population\N5S
+2154	TOK	of		of\P
+##	TAG	<num>
+2155	TOK	500		500\X
+##	TAG	</num>
+##	TAG	<loc pos="JA">
+2156	TOK	Australian		australian\JA
+##	TAG	</loc>
+2157	TOK	aborigines		aborigine\N5P
+2158	TOK	and		and\CC
+##	TAG	<num>
+2159	TOK	500		500\X
+##	TAG	</num>
+##	TAG	<name>
+2160	TOK	American Indians		American_Indians\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2161	TOK	The	BOS	the\AT---6
+2162	TOK	frequencies		frequency\N5P
+2163	TOK	for		for\P
+2164	TOK	M		M\N5P
+2165	TOK	and		and\CC
+2166	TOK	N		N\N5P
+2167	TOK	for		for\P
+2168	TOK	this		this\AD---S
+2169	TOK	hypothetical		hypothetical\JA
+2170	TOK	population		population\N5S
+2171	TOK	are		be\V6FDR66
+2172	TOK	shown		show\VMC----
+2173	TOK	in		in\P
+##	TAG	<name>
+2174	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+2175	TOK	24.4		24.4\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2176	TOK	In	BOS	in\P
+2177	TOK	such		such\JA
+2178	TOK	a		a\AI---S
+2179	TOK	mixed		mix\VMC----
+2180	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+2181	TOK	the		the\AT---6
+2182	TOK	frequency		frequency\N5S
+2183	TOK	of		of\P
+2184	TOK	M		M\N5P
+---	DLE	(		=\DELIM
+2185	TOK	p		p\N5S
+---	DLD	)		=\DELIM
+2186	TOK	would		will\VOFDA66
+2187	TOK	be		be\VMI----
+##	TAG	<na type="function">
+2188	TOK	0.315 + 1/2		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2189	TOK	0.324		0.324\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2190	TOK	=		noanat\W
+##	TAG	<num>
+2191	TOK	0.477		0.477\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2192	TOK	24.6		24.6\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2193	TOK	and		and\CC
+2194	TOK	that		that\CS
+2195	TOK	of		of\P
+2196	TOK	N		N\N5P
+---	DLE	(		=\DELIM
+2197	TOK	q		q\N5S
+---	DLD	)		=\DELIM
+2198	TOK	would		will\VOFDA66
+2199	TOK	be		be\VMI----
+##	TAG	<na type="function">
+2200	TOK	0.361 + 1/2		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2201	TOK	0.324		0.324\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2202	TOK	=		noanat\W
+##	TAG	<num>
+2203	TOK	0.523		0.523\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2204	TOK	24.7		24.7\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2205	TOK	If		if\N5S
+2206	TOK	these		this\AD---P
+2207	TOK	allelic		allelic\JA
+2208	TOK	frequencies		frequency\N5P
+2209	TOK	were		be\V6F-A66
+2210	TOK	derived		derive\VMC----
+2211	TOK	by		by\P
+2212	TOK	random		random\JA
+2213	TOK	muting		mute\VMG----
+---	DLD	,		=\DELIM
+2214	TOK	then		then\DGA7
+2215	TOK	the		the\AT---6
+2216	TOK	proportions		proportion\N5P
+2217	TOK	of		of\P
+2218	TOK	phenotypes		phenotype\N5P
+2219	TOK	we		we\RPP1NN
+2220	TOK	should		shall\VOFDA66
+2221	TOK	expect		expect\VMI----
+2222	TOK	are		be\V6FDR66
+##	TAG	<num>
+2223	TOK	MM		MM\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+2224	TOK	p2		p2\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<num>
+2225	TOK	22.8		22.8\X
+##	TAG	</num>
+2226	TOK	percent		percent\N56
+---	DLD	;		=\DELIM
+##	TAG	<name>
+2227	TOK	MN		MN\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+2228	TOK	2pq		2pq\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<num>
+2229	TOK	49.8		49.8\X
+##	TAG	</num>
+2230	TOK	percent		percent\N56
+---	DLD	;		=\DELIM
+2231	TOK	and		and\CC
+##	TAG	<name>
+2232	TOK	NN		NN\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+2233	TOK	q2		q2\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<num>
+2234	TOK	27.4		27.4\X
+##	TAG	</num>
+2235	TOK	percent		percent\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2236	TOK	Because	BOS	because\CS
+2237	TOK	the		the\AT---6
+2238	TOK	expected		expect\VMC----
+2239	TOK	genotype		genotype\N5S
+2240	TOK	frequencies		frequency\N5P
+2241	TOK	do		do\V6FDR66
+2242	TOK	not		not\DGA7
+2243	TOK	fit		fit\VMI----
+2244	TOK	those		that\RDP3N-
+2245	TOK	observed		observe\VMF6A66
+---	DLE	(		=\DELIM
+2246	TOK	and		and\CC
+2247	TOK	a		a\AI---S
+2248	TOK	chi		chi\N5S
+---	DLI	-		=\DELIM
+2249	TOK	square		square\JA
+2250	TOK	test		test\N5S
+2251	TOK	would		will\VOFDA66
+2252	TOK	confirm		confirm\VMI----
+2253	TOK	this		this\AD---S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2254	TOK	we		we\RPP1NN
+2255	TOK	would		will\VOFDA66
+2256	TOK	conclude		conclude\VMI----
+2257	TOK	that		that\CS
+2258	TOK	the		the\AT---6
+2259	TOK	population		population\N5S
+2260	TOK	is		be\V6FDRS3
+2261	TOK	in		in\P
+2262	TOK	a		a\AI---S
+2263	TOK	state		state\N5S
+2264	TOK	of		of\P
+2265	TOK	nonequilibrium		nonequilibrium\N5S
+2266	TOK	brought		bring\VMC----
+2267	TOK	about		about\P
+---	DLD	,		=\DELIM
+2268	TOK	obviously		obviously\DGA7
+---	DLD	,		=\DELIM
+2269	TOK	by		by\P
+2270	TOK	a		a\AI---S
+2271	TOK	lack		lack\N5S
+2272	TOK	of		of\P
+2273	TOK	random		random\JA
+2274	TOK	muting		mute\VMG----
+2275	TOK	in		in\P
+2276	TOK	this		this\AD---S
+2277	TOK	hypothetical		hypothetical\JA
+2278	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2279	TOK	What	BOS	what\RW63N-
+2280	TOK	would		will\VOFDA66
+2281	TOK	happen		happen\VMI----
+---	DLD	,		=\DELIM
+2282	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+2283	TOK	if		if\CS
+2284	TOK	such		such\JA
+2285	TOK	a		a\AI---S
+2286	TOK	mixed		mix\VMC----
+2287	TOK	population		population\N5S
+2288	TOK	were		be\V6F-A66
+2289	TOK	to		to\P
+2290	TOK	be		be\VMI----
+2291	TOK	established		establish\VMC----
+2292	TOK	on		on\P
+2293	TOK	an		an\AI---S
+##	TAG	<name>
+2294	TOK	Island		Island\N46
+##	TAG	</name>
+2295	TOK	with		with\P
+2296	TOK	no		no\AI---6
+2297	TOK	previous		previous\JA
+2298	TOK	inhabitants		inhabitant\N5P
+2299	TOK	and		and\CC
+2300	TOK	muting		mute\VMG----
+2301	TOK	did		do\V6FDA66
+2302	TOK	take		take\VMI----
+2303	TOK	place		place\N5S
+2304	TOK	at		at\P
+2305	TOK	random		random\JA
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2306	TOK	How	BOS	how\DGAW
+2307	TOK	long		long\JA
+2308	TOK	would		will\VOFDA66
+2309	TOK	it		it\RPS3N6
+2310	TOK	take		take\VMI----
+2311	TOK	for		for\P
+2312	TOK	equilibrium		equilibrium\N5S
+2313	TOK	to		to\P
+2314	TOK	be		be\VMI----
+2315	TOK	established		establish\VMC----
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2316	TOK	Applying	BOS	apply\VMG----
+2317	TOK	the		the\AT---6
+##	TAG	<name>
+2318	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+2319	TOK	equation		equation\N5S
+---	DLD	,		=\DELIM
+2320	TOK	we		we\RPP1NN
+2321	TOK	can		can\VOFDR66
+2322	TOK	predict		predict\VMI----
+2323	TOK	that		that\CS
+2324	TOK	after		after\P
+2325	TOK	one		one\MCS
+2326	TOK	generation		generation\N5S
+2327	TOK	the		the\AT---6
+2328	TOK	observed		observe\VMC----
+2329	TOK	and		and\CC
+2330	TOK	expected		expect\VMC----
+2331	TOK	genotype		genotype\N5S
+2332	TOK	frequencies		frequency\N5P
+2333	TOK	would		will\VOFDA66
+2334	TOK	converge		converge\VMI----
+---	DLD	,		=\DELIM
+2335	TOK	illustrating		illustrate\VMG----
+2336	TOK	the		the\AT---6
+2337	TOK	third		third\MOS
+2338	TOK	important		important\JA
+2339	TOK	characteristic		characteristic\JA
+2340	TOK	of		of\P
+2341	TOK	the		the\AT---6
+##	TAG	<name>
+2342	TOK	HWL		HWL\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2343	TOK	Using	BOS	use\VMG----
+2344	TOK	the		the\AT---6
+2345	TOK	p		p\N5S
+2346	TOK	and		and\CC
+2347	TOK	q		q\N5S
+2348	TOK	values		value\N5P
+2349	TOK	just		just\DGA7
+2350	TOK	calculated		calculate\VMF6A66
+---	DLD	,		=\DELIM
+2351	TOK	and		and\CC
+2352	TOK	remembering		remember\VMG----
+2353	TOK	that		that\CS
+2354	TOK	the		the\AT---6
+2355	TOK	allele		allele\N5S
+2356	TOK	frequencies		frequency\N5P
+2357	TOK	represent		represent\VMF6R66
+2358	TOK	those		that\RDP3N-
+2359	TOK	of		of\P
+2360	TOK	the		the\AT---6
+2361	TOK	total		total\JA
+2362	TOK	gene		gene\N5S
+2363	TOK	pool		pool\N5S
+2364	TOK	of		of\P
+2365	TOK	the		the\AT---6
+2366	TOK	first		first\MOS
+2367	TOK	generation		generation\N5S
+2368	TOK	mixed		mix\VMC----
+2369	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+2370	TOK	the		the\AT---6
+2371	TOK	frequencies		frequency\N5P
+2372	TOK	after		after\P
+2373	TOK	one		one\MCS
+2374	TOK	generation		generation\N5S
+2375	TOK	of		of\P
+2376	TOK	random		random\JA
+2377	TOK	muting		mute\VMG----
+2378	TOK	are		be\V6FDR66
+2379	TOK	shown		show\VMC----
+2380	TOK	in		in\P
+##	TAG	<name>
+2381	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+2382	TOK	24.3		24.3\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2383	TOK	We	BOS	we\RPP1NN
+2384	TOK	can		can\VOFDR66
+2385	TOK	see		see\VMI----
+2386	TOK	that		that\CS
+2387	TOK	after		after\P
+2388	TOK	one		one\MCS
+2389	TOK	generation		generation\N5S
+---	DLD	,		=\DELIM
+2390	TOK	the		the\AT---6
+2391	TOK	observed		observe\VMC----
+2392	TOK	genotype		genotype\N5S
+2393	TOK	frequencies		frequency\N5P
+2394	TOK	of		of\P
+##	TAG	<num>
+2395	TOK	22.8		22.8\X
+##	TAG	</num>
+2396	TOK	percent		percent\N56
+2397	TOK	for		for\P
+##	TAG	<num>
+2398	TOK	MM		MM\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+2399	TOK	p2		p2\N5P
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+##	TAG	<num>
+2400	TOK	49.8		49.8\X
+##	TAG	</num>
+2401	TOK	percent		percent\N56
+2402	TOK	for		for\P
+##	TAG	<name>
+2403	TOK	MN		MN\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+2404	TOK	2pq		2pq\N5P
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+2405	TOK	and		and\CC
+##	TAG	<num>
+2406	TOK	27.4		27.4\X
+##	TAG	</num>
+2407	TOK	percent		percent\N56
+2408	TOK	for		for\P
+##	TAG	<name>
+2409	TOK	NN		NN\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+2410	TOK	q2		q2\N5P
+---	DLD	)		=\DELIM
+2411	TOK	are		be\V6FDR66
+2412	TOK	those		that\RDP3N-
+2413	TOK	expected		expect\VMC----
+2414	TOK	for		for\P
+2415	TOK	an		an\AI---S
+2416	TOK	equilibrium		equilibrium\N5S
+2417	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2418	TOK	The	BOS	the\AT---6
+2419	TOK	allele		allele\N5S
+2420	TOK	frequencies		frequency\N5P
+2421	TOK	of		of\P
+##	TAG	<na type="equation">
+2422	TOK	M = 0.477		noanat\W
+##	TAG	</na>
+2423	TOK	and		and\CC
+##	TAG	<na type="equation">
+2424	TOK	N = 0.523		noanat\W
+##	TAG	</na>
+2425	TOK	are		be\V6FDR66
+2426	TOK	also		also\DGA7
+2427	TOK	those		that\RDP3N-
+2428	TOK	expected		expect\VMC----
+2429	TOK	for		for\P
+2430	TOK	an		an\AI---S
+2431	TOK	equilibrium		equilibrium\N5S
+2432	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2433	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+2434	TOK	to		to\P
+2435	TOK	demonstrate		demonstrate\VMI----
+##	TAG	<name>
+2436	TOK	HWL		HWL\N46
+##	TAG	</name>
+2437	TOK	equilibrium		equilibrium\N5S
+2438	TOK	rigorously		rigorously\DGA7
+---	DLD	,		=\DELIM
+2439	TOK	we		we\RPP1NN
+2440	TOK	would		will\VOFDA66
+2441	TOK	need		need\VMI----
+2442	TOK	to		to\P
+2443	TOK	calculate		calculate\VMI----
+2444	TOK	the		the\AT---6
+2445	TOK	frequency		frequency\N5S
+2446	TOK	of		of\P
+2447	TOK	matings		matings\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2448	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+2449	TOK	24.4	EOS	24.4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2451	TOK	Frequencies	BOS	frequency\N5P
+2452	TOK	of		of\P
+2453	TOK	M		m\N5S
+2454	TOK	and		and\CC
+##	TAG	<name>
+2455	TOK	N Alleles		N_Alleles\N46
+##	TAG	</name>
+2456	TOK	and		and\CC
+##	TAG	<name>
+2457	TOK	Genotypes		Genotypes\N46
+##	TAG	</name>
+2458	TOK	in		in\P
+##	TAG	<name>
+2459	TOK	Natural		Natural\N46
+##	TAG	</name>
+2460	TOK	and		and\CC
+##	TAG	<name>
+2461	TOK	Artificial Populations	EOS	Artificial_Populations\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2463	TOK	Population	BOS	population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2464	TOK	MM	BOS	MM\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+2465	TOK	MN		MN\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2466	TOK	NN	BOS	NN\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="p.">
+##	TAG	</item>
+##	TAG	<item label="q.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="JA">
+2467	TOK	Australian	BOS	australian\JA
+##	TAG	</loc>
+2468	TOK	aborigines		aborigine\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="0.03.">
+##	TAG	</item>
+##	TAG	<item label="0.296.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+2469	TOK	0.674	BOS	0.674\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="0.178.">
+##	TAG	</item>
+##	TAG	<item label="0.822.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2470	TOK	American Indians	BOS	American_Indians\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="0.60.">
+##	TAG	</item>
+##	TAG	<item label="0.351.">
+##	TAG	</item>
+##	TAG	<item label="0.049.">
+##	TAG	</item>
+##	TAG	<item label="0.776.">
+##	TAG	</item>
+##	TAG	<item label="0.224.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2471	TOK	Mixed	BOS	mix\VMC----
+2472	TOK	population		population\N5S
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+2473	TOK	500 + 500		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	:		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2474	TOK	Observed	BOS	observe\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="0.315.">
+##	TAG	</item>
+##	TAG	<item label="0.324.">
+##	TAG	</item>
+##	TAG	<item label="0.361.">
+##	TAG	</item>
+##	TAG	<item label="0.477.">
+##	TAG	</item>
+##	TAG	<item label="0.523.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2476	TOK	Expected	BOS	expect\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="0.228.">
+##	TAG	</item>
+##	TAG	<item label="0.498.">
+##	TAG	</item>
+##	TAG	<item label="0.274.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<head>
+2477	TOK	Extensions	BOS	extension\N5P
+2478	TOK	of		of\P
+2479	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="other">
+2480	TOK	Hardy-Weinberg Law	EOS	Hardy-Weinberg_Law\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2482	TOK	In	BOS	in\P
+2483	TOK	con		con\JA
+2484	TOK	side		side\N5S
+2485	TOK	ring		ring\N5S
+2486	TOK	genotype		genotype\N5S
+2487	TOK	and		and\CC
+2488	TOK	allele		allele\N5S
+2489	TOK	frequencies		frequency\N5P
+2490	TOK	for		for\P
+2491	TOK	autosomal		autosomal\JA
+2492	TOK	loci		locus\N5P
+2493	TOK	using		use\VMG----
+2494	TOK	the		the\AT---6
+##	TAG	<name>
+2495	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+2496	TOK	equation		equation\N5S
+---	DLD	,		=\DELIM
+2497	TOK	we		we\RPP1NN
+2498	TOK	assumed		assume\VMF6A66
+2499	TOK	that		that\CS
+2500	TOK	the		the\AT---6
+2501	TOK	frequency		frequency\N5S
+2502	TOK	of		of\P
+2503	TOK	A		a\N5S
+2504	TOK	is		be\V6FDRS3
+2505	TOK	the		the\AT---6
+2506	TOK	same		same\JA
+2507	TOK	in		in\P
+2508	TOK	both		both\RIP3N-
+2509	TOK	sperm		sperm\N56
+2510	TOK	and		and\CC
+2511	TOK	eggs		egg\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2512	TOK	What	BOS	what\RW63N-
+2513	TOK	about		about\P
+##	TAG	<name>
+2514	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+2515	TOK	genes		gene\N5P
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2516	TOK	In	BOS	in\P
+2517	TOK	species		species\N56
+2518	TOK	that		that\RW63N6
+2519	TOK	have		have\V6F6R66
+##	TAG	<num>
+2520	TOK	two		two\X
+##	TAG	</num>
+2521	TOK	X		x\N5S
+2522	TOK	chromosomes		chromosome\N5P
+---	DLD	,		=\DELIM
+2523	TOK	such		such\JA
+2524	TOK	as		as\P
+2525	TOK	humans		human\N5P
+2526	TOK	and		and\CC
+##	TAG	<name>
+2527	TOK	Drosophila		Drosophila\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2528	TOK	females		female\N5P
+2529	TOK	carry		carry\VMF6R66
+##	TAG	<num>
+2530	TOK	two		two\X
+##	TAG	</num>
+2531	TOK	copies		copy\N5P
+2532	TOK	of		of\P
+2533	TOK	all		all\AG---6
+2534	TOK	genes		gene\N5P
+2535	TOK	on		on\P
+2536	TOK	the		the\AT---6
+2537	TOK	X		x\N5S
+2538	TOK	chromosome		chromosome\N5S
+---	DLD	,		=\DELIM
+2539	TOK	whereas		whereas\CS
+2540	TOK	males		male\N5P
+2541	TOK	carry		carry\VMF6R66
+2542	TOK	only		only\DGA7
+2543	TOK	one		one\MCS
+2544	TOK	copy		copy\N5S
+2545	TOK	of		of\P
+2546	TOK	all		all\AG---6
+##	TAG	<name>
+2547	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+2548	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2549	TOK	Genes	BOS	gene\N5P
+2550	TOK	on		on\P
+2551	TOK	the		the\AT---6
+2552	TOK	X		x\N5S
+2553	TOK	chromosome		chromosome\N5S
+2554	TOK	are		be\V6FDR66
+2555	TOK	therefore		therefore\DGA7
+2556	TOK	distributed		distribute\VMC----
+2557	TOK	unequally		unequally\DGA7
+2558	TOK	in		in\P
+2559	TOK	the		the\AT---6
+2560	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+2561	TOK	and		and\CC
+2562	TOK	when		when\DGAW
+2563	TOK	there		there\DGA7
+2564	TOK	are		be\V6FDR66
+2565	TOK	equal		equal\JA
+2566	TOK	numbers		number\N5P
+2567	TOK	of		of\P
+2568	TOK	males		male\N5P
+2569	TOK	and		and\CC
+2570	TOK	females		female\N5P
+---	DLD	,		=\DELIM
+2571	TOK	the		the\AT---6
+2572	TOK	females		female\N5P
+2573	TOK	carry		carry\VMF6R66
+2574	TOK	two		two\MCP
+---	DLD	-		=\DELIM
+2575	TOK	thirds		third\N5P
+2576	TOK	of		of\P
+2577	TOK	all		all\AG---6
+##	TAG	<name>
+2578	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+2579	TOK	genes		gene\N5P
+---	DLD	,		=\DELIM
+2580	TOK	and		and\CC
+2581	TOK	males		male\N5P
+2582	TOK	carry		carry\VMF6R66
+2583	TOK	one		one\MCS
+---	DLI	-		=\DELIM
+2584	TOK	third		third\MOS
+2585	TOK	of		of\P
+2586	TOK	the		the\AT---6
+2587	TOK	total		total\JA
+2588	TOK	number		number\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2589	TOK	Can	BOS	can\VOFDR66
+2590	TOK	the		the\AT---6
+##	TAG	<name>
+2591	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+2592	TOK	law		law\N5S
+2593	TOK	be		be\VMI----
+2594	TOK	applied		apply\VMC----
+2595	TOK	to		to\P
+2596	TOK	calculate		calculate\VMI----
+2597	TOK	allelic		allelic\JA
+2598	TOK	frequencies		frequency\N5P
+2599	TOK	and		and\CC
+2600	TOK	genotypic		genotypic\JA
+2601	TOK	frequencies		frequency\N5P
+2602	TOK	in		in\P
+2603	TOK	such		such\JA
+2604	TOK	circumstances		circumstance\N5P
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+2605	TOK	X-Linked Genes	BOS	X-Linked_Genes\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2607	TOK	It	BOS	it\RPS3N6
+2608	TOK	is		be\V6FDRS3
+2609	TOK	easy		easy\JA
+2610	TOK	to		to\P
+2611	TOK	determine		determine\VMI----
+2612	TOK	frequencies		frequency\N5P
+2613	TOK	for		for\P
+##	TAG	<name>
+2614	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+2615	TOK	genes		gene\N5P
+2616	TOK	in		in\P
+2617	TOK	males		male\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2618	TOK	Because	BOS	because\CS
+2619	TOK	they		they\RPP3NN
+2620	TOK	have		have\V6F6R66
+2621	TOK	only		only\DGA7
+2622	TOK	one		one\MCS
+2623	TOK	copy		copy\N5S
+2624	TOK	of		of\P
+2625	TOK	all		all\AG---6
+2626	TOK	genes		gene\N5P
+2627	TOK	on		on\P
+2628	TOK	this		this\AD---S
+2629	TOK	chromosome		chromosome\N5S
+---	DLD	,		=\DELIM
+2630	TOK	the		the\AT---6
+2631	TOK	phenotype		phenotype\N5S
+2632	TOK	reveals		reveal\VMFDRS3
+2633	TOK	both		both\RIP3N-
+2634	TOK	dominant		dominant\JA
+2635	TOK	and		and\CC
+2636	TOK	recessive		recessive\JA
+2637	TOK	alleles		allele\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2638	TOK	Therefore	BOS	therefore\DGA7
+---	DLD	,		=\DELIM
+2639	TOK	in		in\P
+2640	TOK	males		male\N5P
+---	DLD	,		=\DELIM
+2641	TOK	the		the\AT---6
+2642	TOK	frequency		frequency\N5S
+2643	TOK	of		of\P
+2644	TOK	an		an\AI---S
+2645	TOK	X		X\N5P
+---	DLD	-		=\DELIM
+2646	TOK	linked		link\VMC----
+2647	TOK	allele		allele\N5S
+2648	TOK	is		be\V6FDRS3
+2649	TOK	the		the\AT---6
+2650	TOK	same		same\JA
+2651	TOK	as		as\P
+2652	TOK	the		the\AT---6
+2653	TOK	phenotypic		phenotypic\JA
+2654	TOK	frequency		frequency\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2655	TOK	In	BOS	in\P
+##	TAG	<name>
+2656	TOK	Western Europe		Western_Europe\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2657	TOK	a		a\AI---S
+2658	TOK	form		form\N5S
+2659	TOK	of		of\P
+##	TAG	<name>
+2660	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+2661	TOK	color		color\N5S
+2662	TOK	blindness		blindness\N5S
+2663	TOK	occurs		occur\VMFDRS3
+2664	TOK	with		with\P
+2665	TOK	a		a\AI---S
+2666	TOK	frequency		frequency\N5S
+2667	TOK	of		of\P
+##	TAG	<num>
+2668	TOK	8		8\X
+##	TAG	</num>
+2669	TOK	percent		percent\N56
+2670	TOK	in		in\P
+2671	TOK	males		male\N5P
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+2672	TOK	q = 0.08		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2674	TOK	Because	BOS	because\CS
+2675	TOK	females		female\N5P
+2676	TOK	have		have\V6F6R66
+##	TAG	<num>
+2677	TOK	two		two\X
+##	TAG	</num>
+2678	TOK	doses		dose\N5P
+2679	TOK	of		of\P
+2680	TOK	all		all\AG---6
+2681	TOK	genes		gene\N5P
+2682	TOK	on		on\P
+2683	TOK	the		the\AT---6
+2684	TOK	X		x\N5S
+2685	TOK	chromosome		chromosome\N5S
+---	DLD	,		=\DELIM
+2686	TOK	color		color\N5S
+---	DLI	-		=\DELIM
+2687	TOK	blind		blind\JA
+2688	TOK	females		female\N5P
+2689	TOK	exhibit		exhibit\VMF6R66
+2690	TOK	the		the\AT---6
+2691	TOK	phenotypic		phenotypic\JA
+2692	TOK	frequencies		frequency\N5P
+2693	TOK	expected		expect\VMC----
+2694	TOK	for		for\P
+2695	TOK	complete		complete\JA
+2696	TOK	dominance		dominance\N5S
+---	DLD	,		=\DELIM
+2697	TOK	and		and\CC
+2698	TOK	the		the\AT---6
+2699	TOK	genotype		genotype\N5S
+2700	TOK	and		and\CC
+2701	TOK	allele		allele\N5S
+2702	TOK	frequencies		frequency\N5P
+2703	TOK	can		can\VOFDR66
+2704	TOK	be		be\VMI----
+2705	TOK	calculated		calculate\VMC----
+2706	TOK	by		by\P
+2707	TOK	using		use\VMG----
+2708	TOK	the		the\AT---6
+2709	TOK	standard		standard\JA
+##	TAG	<name>
+2710	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+2711	TOK	equation		equation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2712	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2713	TOK	as		as\P
+2714	TOK	color		color\N5S
+2715	TOK	blindness		blindness\N5S
+2716	TOK	in		in\P
+2717	TOK	males		male\N5P
+2718	TOK	has		have\V6FDRS3
+2719	TOK	a		a\AI---S
+2720	TOK	frequency		frequency\N5S
+2721	TOK	of		of\P
+##	TAG	<num>
+2722	TOK	0.08		0.08\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+2723	TOK	at		at\P
+2724	TOK	equilibrium		equilibrium\N5S
+---	DLD	,		=\DELIM
+2725	TOK	the		the\AT---6
+2726	TOK	expected		expect\VMC----
+2727	TOK	frequency		frequency\N5S
+2728	TOK	in		in\P
+2729	TOK	females		female\N5P
+2730	TOK	is		be\V6FDRS3
+2731	TOK	q2		q2\N5S
+---	DLE	,		=\DELIM
+2732	TOK	or		or\CC
+##	TAG	<num>
+2733	TOK	0.0064		0.0064\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2734	TOK	This	BOS	this\AD---S
+2735	TOK	means		mean\N56
+2736	TOK	that		that\RW63N6
+##	TAG	<num>
+2737	TOK	800		800\X
+##	TAG	</num>
+##	TAG	<loc pos="P">
+2738	TOK	out of		out_of\P
+##	TAG	</loc>
+##	TAG	<num>
+2739	TOK	10,000		10,000\X
+##	TAG	</num>
+2740	TOK	males		male\N5P
+2741	TOK	surveyed		survey\VMC----
+2742	TOK	would		will\VOFDA66
+2743	TOK	be		be\VMI----
+2744	TOK	expected		expect\VMC----
+2745	TOK	to		to\P
+2746	TOK	be		be\VMI----
+2747	TOK	color		color\N5S
+---	DLI	-		=\DELIM
+2748	TOK	blind		blind\JA
+---	DLD	,		=\DELIM
+2749	TOK	but		but\CC
+2750	TOK	only		only\DGA7
+##	TAG	<num>
+2751	TOK	64		64\X
+##	TAG	</num>
+2752	TOK	of		of\P
+##	TAG	<num>
+2753	TOK	10,000		10,000\X
+##	TAG	</num>
+2754	TOK	females		female\N5P
+2755	TOK	would		will\VOFDA66
+2756	TOK	show		show\VMI----
+2757	TOK	this		this\AD---S
+2758	TOK	trait		trait\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2759	TOK	Expected	BOS	expect\VMC----
+2760	TOK	values		value\N5P
+2761	TOK	of		of\P
+2762	TOK	the		the\AT---6
+2763	TOK	frequency		frequency\N5S
+2764	TOK	of		of\P
+##	TAG	<name>
+2765	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+2766	TOK	traits		trait\N5P
+2767	TOK	in		in\P
+2768	TOK	males		male\N5P
+2769	TOK	and		and\CC
+2770	TOK	females		female\N5P
+2771	TOK	are		be\V6FDR66
+2772	TOK	compared		compare\VMC----
+2773	TOK	in		in\P
+##	TAG	<name>
+2774	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+2775	TOK	24.5		24.5\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2776	TOK	If	BOS	if\CS
+2777	TOK	the		the\AT---6
+2778	TOK	frequency		frequency\N5S
+2779	TOK	of		of\P
+2780	TOK	an		an\AI---S
+##	TAG	<name>
+2781	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+2782	TOK	allele		allele\N5S
+2783	TOK	differs		differ\VMFDRS3
+2784	TOK	between		between\P
+2785	TOK	males		male\N5P
+2786	TOK	and		and\CC
+2787	TOK	females		female\N5P
+---	DLD	,		=\DELIM
+2788	TOK	then		then\DGA7
+2789	TOK	the		the\AT---6
+2790	TOK	population		population\N5S
+2791	TOK	is		be\V6FDRS3
+2792	TOK	not		not\DGA7
+2793	TOK	in		in\P
+2794	TOK	equilibrium		equilibrium\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2795	TOK	In	BOS	in\P
+2796	TOK	contrast		contrast\N5S
+2797	TOK	to		to\P
+2798	TOK	alleles		allele\N5P
+2799	TOK	of		of\P
+2800	TOK	autosomal		autosomal\JA
+2801	TOK	loci		locus\N5P
+---	DLD	,		=\DELIM
+2802	TOK	equilibrium		equilibrium\N5S
+2803	TOK	in		in\P
+2804	TOK	each		each\AG---S
+2805	TOK	group		group\N5S
+2806	TOK	will		will\VOFDR66
+2807	TOK	not		not\DGA7
+2808	TOK	be		be\VMI----
+2809	TOK	reached		reach\VMC----
+2810	TOK	in		in\P
+2811	TOK	a		a\AI---S
+2812	TOK	single		single\JA
+2813	TOK	generation		generation\N5S
+---	DLD	,		=\DELIM
+2814	TOK	but		but\CC
+2815	TOK	will		will\VOFDR66
+2816	TOK	be		be\VMI----
+2817	TOK	approached		approach\VMC----
+2818	TOK	over		over\P
+2819	TOK	a		a\AI---S
+2820	TOK	series		series\N56
+2821	TOK	of		of\P
+2822	TOK	succeeding		succeed\VMG----
+2823	TOK	generations		generation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2824	TOK	Because	BOS	because\CS
+2825	TOK	males		male\N5P
+2826	TOK	inherit		inherit\VMF6R66
+2827	TOK	their		their\APP3N6
+2828	TOK	X		x\N5S
+2829	TOK	chromosome		chromosome\N5S
+2830	TOK	maternally		maternally\DGA7
+---	DLD	,		=\DELIM
+2831	TOK	the		the\AT---6
+2832	TOK	allelic		allelic\JA
+2833	TOK	frequency		frequency\N5S
+2834	TOK	in		in\P
+2835	TOK	females		female\N5P
+2836	TOK	will		will\VOFDR66
+2837	TOK	determine		determine\VMI----
+2838	TOK	the		the\AT---6
+2839	TOK	frequency		frequency\N5S
+2840	TOK	in		in\P
+2841	TOK	males		male\N5P
+2842	TOK	of		of\P
+2843	TOK	the		the\AT---6
+2844	TOK	next		next\JA
+2845	TOK	generation		generation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2846	TOK	Daughters	BOS	daughter\N5P
+2847	TOK	will		will\VOFDR66
+2848	TOK	inherit		inherit\VMI----
+2849	TOK	both		both\RIP3N-
+2850	TOK	a		a\AI---S
+2851	TOK	maternal		maternal\JA
+2852	TOK	and		and\CC
+2853	TOK	a		a\AI---S
+2854	TOK	paternal		paternal\JA
+2855	TOK	X		X\N5P
+---	DLD	,		=\DELIM
+2856	TOK	and		and\CC
+2857	TOK	their		their\APP3N6
+2858	TOK	allelic		allelic\JA
+2859	TOK	frequency		frequency\N5S
+2860	TOK	is		be\V6FDRS3
+2861	TOK	the		the\AT---6
+2862	TOK	average		average\N5S
+2863	TOK	of		of\P
+2864	TOK	that		that\RDS3N-
+2865	TOK	found		find\VMC----
+2866	TOK	in		in\P
+2867	TOK	the		the\AT---6
+2868	TOK	parents		parent\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+2869	TOK	Even though	BOS	Even_though\CS
+##	TAG	</loc>
+2870	TOK	the		the\AT---6
+2871	TOK	population		population\N5S
+2872	PGR	's		genmark\GENMARK
+2873	TOK	overall		overall\JA
+2874	TOK	allele		allele\N5S
+2875	TOK	frequency		frequency\N5S
+2876	TOK	remains		remain\VMFDRS3
+2877	TOK	constant		constant\JA
+---	DLD	,		=\DELIM
+2878	TOK	there		there\DGA7
+2879	TOK	is		be\V6FDRS3
+2880	TOK	an		an\AI---S
+2881	TOK	oscillation		oscillation\N5S
+2882	TOK	in		in\P
+2883	TOK	frequencies		frequency\N5P
+2884	TOK	for		for\P
+2885	TOK	the		the\AT---6
+##	TAG	<num>
+2886	TOK	two		two\X
+##	TAG	</num>
+2887	TOK	sexes		sex\N5P
+2888	TOK	in		in\P
+2889	TOK	each		each\AG---S
+2890	TOK	generation		generation\N5S
+---	DLD	,		=\DELIM
+2891	TOK	with		with\P
+2892	TOK	the		the\AT---6
+2893	TOK	differences		difference\N5P
+2894	TOK	being		be\VMG----
+2895	TOK	halved		halve\VMC----
+2896	TOK	in		in\P
+2897	TOK	each		each\AG---S
+2898	TOK	succeeding		succeed\VMG----
+2899	TOK	generation		generation\N5S
+2900	TOK	until		until\P
+2901	TOK	an		an\AI---S
+2902	TOK	equilibrium		equilibrium\N5S
+2903	TOK	is		be\V6FDRS3
+2904	TOK	reached		reach\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2905	TOK	This	BOS	this\AD---S
+2906	TOK	concept		concept\N5S
+2907	TOK	is		be\V6FDRS3
+2908	TOK	illustrated		illustrate\VMC----
+2909	TOK	in		in\P
+##	TAG	<name>
+2910	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+2911	TOK	24.4		24.4\X
+##	TAG	</num>
+2912	TOK	for		for\P
+2913	TOK	the		the\AT---6
+2914	TOK	simple		simple\JA
+2915	TOK	case		case\N5S
+2916	TOK	where		where\CS
+2917	TOK	an		an\AI---S
+2918	TOK	allele		allele\N5S
+2919	TOK	has		have\V6FDRS3
+2920	TOK	an		an\AI---S
+2921	TOK	initial		initial\JA
+2922	TOK	frequency		frequency\N5S
+2923	TOK	of		of\P
+##	TAG	<num>
+2924	TOK	1.0		1.0\X
+##	TAG	</num>
+2925	TOK	in		in\P
+2926	TOK	females		female\N5P
+2927	TOK	and		and\CC
+##	TAG	<num>
+2928	TOK	0.0		0.0\X
+##	TAG	</num>
+2929	TOK	in		in\P
+2930	TOK	males		male\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2931	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+2932	TOK	24.5	EOS	24.5\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2934	TOK	Expected	BOS	expect\VMC----
+##	TAG	<name>
+2935	TOK	Relative Frequency of X-Linked Traits		Relative_Frequency_of_X-Linked_Traits\N46
+##	TAG	</name>
+2936	TOK	in		in\P
+##	TAG	<name>
+2937	TOK	Males		Males\N46
+##	TAG	</name>
+2938	TOK	and		and\CC
+##	TAG	<name>
+2939	TOK	Females	EOS	Females\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2941	TOK	Frequency	BOS	frequency\N5S
+2942	TOK	of		of\P
+##	TAG	<name>
+2943	TOK	Males		Males\N46
+##	TAG	</name>
+2944	TOK	with		with\P
+##	TAG	<name>
+2945	TOK	Trait		Trait\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2946	TOK	Expected	BOS	expect\VMC----
+##	TAG	<name>
+2947	TOK	Frequency		Frequency\N46
+##	TAG	</name>
+2948	TOK	in		in\P
+##	TAG	<name>
+2949	TOK	Females		Females\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+2950	TOK	90/100	BOS	90/100\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2951	TOK	81/100	BOS	81/100\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+2952	TOK	50/100	BOS	50/100\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2953	TOK	25/100	BOS	25/100\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+2954	TOK	10/100	BOS	10/100\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2955	TOK	1/100	BOS	1/100\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+2956	TOK	1/100	BOS	1/100\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2957	TOK	1/10,000	BOS	1/10,000\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+2958	TOK	1/1000	BOS	1/1000\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2959	TOK	1/1,000,000	BOS	1/1,000,000\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+2960	TOK	1/10,000	BOS	1/10,000\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2961	TOK	1/100,000,000	BOS	1/100,000,000\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2962	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2963	TOK	0	EOS	0\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2965	TOK	A	BOS	a\AI---S
+2966	TOK	population		population\N5S
+2967	TOK	of		of\P
+2968	TOK	king		king\N5S
+2969	TOK	penguins		penguin\N5P
+---	DLE	(		=\DELIM
+##	TAG	<loc pos="P">
+2970	TOK	along with		along_with\P
+##	TAG	</loc>
+2971	TOK	a		a\AI---S
+2972	TOK	fur		fur\N5S
+2973	TOK	seal		seal\N56
+2974	TOK	and		and\CC
+2975	TOK	an		an\AI---S
+2976	TOK	elephant		elephant\N56
+2977	TOK	seal		seal\N56
+---	DLD	)		=\DELIM
+2978	TOK	in		in\P
+##	TAG	<name>
+2979	TOK	Antarctica		Antarctica\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+2980	TOK	Figure	BOS	Figure\N5P
+##	TAG	<num>
+2981	TOK	24.1	EOS	24.1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2983	TOK	Gametes	BOS	gamete\N5P
+2984	TOK	represent		represent\VMF6R66
+2985	TOK	withdrawals		withdrawal\N5P
+2986	TOK	from		from\P
+2987	TOK	the		the\AT---6
+2988	TOK	gene		gene\N5S
+2989	TOK	pool		pool\N5S
+2990	TOK	to		to\P
+2991	TOK	form		form\VMI----
+2992	TOK	the		the\AT---6
+2993	TOK	genotypes		genotype\N5P
+2994	TOK	of		of\P
+2995	TOK	the		the\AT---6
+2996	TOK	next		next\JA
+2997	TOK	generation	EOS	generation\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2999	TOK	In	BOS	in\P
+3000	TOK	this		this\AD---S
+3001	TOK	example		example\N5S
+---	DLD	,		=\DELIM
+3002	TOK	males		male\N5P
+3003	TOK	and		and\CC
+3004	TOK	females		female\N5P
+3005	TOK	have		have\V6F6R66
+3006	TOK	the		the\AT---6
+3007	TOK	same		same\JA
+3008	TOK	frequency		frequency\N5S
+---	DLE	(		=\DELIM
+3009	TOK	p		p\N5S
+---	DLD	)		=\DELIM
+3010	TOK	of		of\P
+3011	TOK	the		the\AT---6
+3012	TOK	dominant		dominant\JA
+3013	TOK	allele		allele\N5S
+3014	TOK	A		A\N5P
+---	DLD	,		=\DELIM
+3015	TOK	and		and\CC
+3016	TOK	the		the\AT---6
+3017	TOK	same		same\JA
+3018	TOK	frequency		frequency\N5S
+---	DLE	(		=\DELIM
+3019	TOK	q		q\N5S
+---	DLD	)		=\DELIM
+3020	TOK	for		for\P
+3021	TOK	the		the\AT---6
+3022	TOK	recessive		recessive\JA
+3023	TOK	allele		allele\N5S
+3024	TOK	a		a\AI---S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3025	TOK	After	BOS	after\P
+3026	TOK	muting		mute\VMG----
+---	DLD	,		=\DELIM
+3027	TOK	the		the\AT---6
+##	TAG	<num>
+3028	TOK	three		three\X
+##	TAG	</num>
+3029	TOK	genotypes		genotype\N5P
+3030	TOK	M		M\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3031	TOK	Aa		Aa\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3032	TOK	and		and\CC
+3033	TOK	aa		aa\N5S
+3034	TOK	have		have\V6F6R66
+3035	TOK	the		the\AT---6
+3036	TOK	frequencies		frequency\N5P
+3037	TOK	of		of\P
+3038	TOK	p2		p2\N5P
+---	DLE	,		=\DELIM
+3039	TOK	2pq		2pq\N5P
+3040	TOK	and		and\CC
+3041	TOK	q2		q2\N5P
+---	DLE	,		=\DELIM
+3042	TOK	respectively		respectively\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3043	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3044	TOK	24.2	EOS	24.2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3046	TOK	In	BOS	in\P
+3047	TOK	this		this\AD---S
+3048	TOK	population		population\N5S
+---	DLD	,		=\DELIM
+3049	TOK	the		the\AT---6
+3050	TOK	frequency		frequency\N5S
+3051	TOK	of		of\P
+3052	TOK	the		the\AT---6
+3053	TOK	A		a\N5S
+3054	TOK	allele		allele\N5S
+3055	TOK	is		be\V6FDRS3
+##	TAG	<na type="equation">
+3056	TOK	p = 0.7		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+3057	TOK	and		and\CC
+3058	TOK	the		the\AT---6
+3059	TOK	frequency		frequency\N5S
+3060	TOK	of		of\P
+3061	TOK	the		the\AT---6
+3062	TOK	a		a\AI---S
+3063	TOK	allele		allele\N5S
+3064	TOK	is		be\V6FDRS3
+##	TAG	<na type="equation">
+3065	TOK	q = 0.3		noanat\W
+##	TAG	</na>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3066	TOK	Using	BOS	use\VMG----
+3067	TOK	the		the\AT---6
+3068	TOK	formula		formula\N5S
+##	TAG	<na type="function">
+3069	TOK	p2 + 2pq + q2		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+3070	TOK	the		the\AT---6
+3071	TOK	frequencies		frequency\N5P
+3072	TOK	of		of\P
+3073	TOK	the		the\AT---6
+3074	TOK	genotypes		genotype\N5P
+3075	TOK	in		in\P
+3076	TOK	the		the\AT---6
+3077	TOK	next		next\JA
+3078	TOK	generation		generation\N5S
+3079	TOK	can		can\VOFDR66
+3080	TOK	be		be\VMI----
+3081	TOK	calculated		calculate\VMC----
+3082	TOK	as		as\P
+##	TAG	<na type="equation">
+3083	TOK	M = 0.49		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+##	TAG	<na type="equation">
+3084	TOK	Aa = 0.42		noanat\W
+##	TAG	</na>
+3085	TOK	and		and\CC
+##	TAG	<na type="equation">
+3086	TOK	aa = 0.09		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3087	TOK	The	BOS	the\AT---6
+3088	TOK	frequencies		frequency\N5P
+3089	TOK	of		of\P
+3090	TOK	A		a\N5S
+3091	TOK	and		and\CC
+3092	TOK	a		a\AI---S
+3093	TOK	remain		remain\VMF6R66
+3094	TOK	constant		constant\JA
+3095	TOK	from		from\P
+3096	TOK	generation		generation\N5S
+3097	TOK	to		to\P
+3098	TOK	generation		generation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3099	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3100	TOK	24.3	EOS	24.3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3102	TOK	If	BOS	if\CS
+3103	TOK	mating		mate\VMG----
+3104	TOK	in		in\P
+3105	TOK	a		a\AI---S
+3106	TOK	population		population\N5S
+3107	TOK	with		with\P
+3108	TOK	differences		difference\N5P
+3109	TOK	in		in\P
+3110	TOK	allele		allele\N5S
+3111	TOK	frequencies		frequency\N5P
+3112	TOK	follows		follow\VMFDRS3
+3113	TOK	the		the\AT---6
+3114	TOK	expectations		expectation\N5P
+3115	TOK	of		of\P
+3116	TOK	the		the\AT---6
+##	TAG	<name>
+3117	TOK	Hardy-Weinberg		Hardy-Weinberg\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3118	TOK	an		an\AI---S
+3119	TOK	equilibrium		equilibrium\N5S
+3120	TOK	will		will\VOFDR66
+3121	TOK	be		be\VMI----
+3122	TOK	reached		reach\VMC----
+3123	TOK	in		in\P
+3124	TOK	one		one\MCS
+3125	TOK	generation	EOS	generation\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3127	TOK	Compare	BOS	compare\VMF6R66
+3128	TOK	the		the\AT---6
+3129	TOK	genotype		genotype\N5S
+3130	TOK	frequencies		frequency\N5P
+3131	TOK	after		after\P
+3132	TOK	one		one\MCS
+3133	TOK	generation		generation\N5S
+3134	TOK	of		of\P
+3135	TOK	muting		mute\VMG----
+3136	TOK	with		with\P
+3137	TOK	those		that\RDP3N-
+3138	TOK	in		in\P
+##	TAG	<name>
+3139	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+3140	TOK	24.4		24.4\X
+##	TAG	</num>
+3141	TOK	for		for\P
+3142	TOK	a		a\AI---S
+3143	TOK	population		population\N5S
+3144	TOK	in		in\P
+3145	TOK	equilibrium		equilibrium\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3146	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3147	TOK	24.4	EOS	24.4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3149	TOK	Approach	BOS	approach\N5S
+3150	TOK	to		to\P
+3151	TOK	equilibrium		equilibrium\N5S
+3152	TOK	for		for\P
+3153	TOK	an		an\AI---S
+##	TAG	<name>
+3154	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+3155	TOK	trait		trait\N5S
+3156	TOK	with		with\P
+3157	TOK	an		an\AI---S
+3158	TOK	initial		initial\JA
+3159	TOK	frequency		frequency\N5S
+3160	TOK	of		of\P
+##	TAG	<num>
+3161	TOK	1.0	EOS	1.0\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3163	TOK	The	BOS	the\AT---6
+3164	TOK	fluctuations		fluctuation\N5P
+3165	TOK	in		in\P
+3166	TOK	frequency		frequency\N5S
+3167	TOK	in		in\P
+3168	TOK	the		the\AT---6
+3169	TOK	first		first\MOS
+##	TAG	<num>
+3170	TOK	two		two\X
+##	TAG	</num>
+3171	TOK	generations		generation\N5P
+3172	TOK	are		be\V6FDR66
+3173	TOK	shown		show\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3174	TOK	In	BOS	in\P
+3175	TOK	the		the\AT---6
+3176	TOK	parents		parent\N5P
+3177	TOK	of		of\P
+3178	TOK	generation		generation\N5S
+3179	TOK	I		I\N5P
+---	DLD	,		=\DELIM
+3180	TOK	the		the\AT---6
+##	TAG	<name>
+3181	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+3182	TOK	trait		trait\N5S
+---	DLE	(		=\DELIM
+3183	TOK	x+		x+\N5P
+---	DLE	)		=\DELIM
+3184	TOK	is		be\V6FDRS3
+3185	TOK	present		present\JA
+3186	TOK	in		in\P
+##	TAG	<num>
+3187	TOK	100		100\X
+##	TAG	</num>
+3188	TOK	percent		percent\N56
+3189	TOK	of		of\P
+3190	TOK	the		the\AT---6
+3191	TOK	females		female\N5P
+3192	TOK	and		and\CC
+3193	TOK	O		o\N5S
+3194	TOK	percent		percent\N56
+3195	TOK	of		of\P
+3196	TOK	the		the\AT---6
+3197	TOK	males		male\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3198	TOK	In	BOS	in\P
+3199	TOK	the		the\AT---6
+3200	TOK	progeny		progeny\N5S
+---	DLD	,		=\DELIM
+3201	TOK	the		the\AT---6
+3202	TOK	trait		trait\N5S
+3203	TOK	is		be\V6FDRS3
+3204	TOK	present		present\JA
+3205	TOK	in		in\P
+##	TAG	<num>
+3206	TOK	50		50\X
+##	TAG	</num>
+3207	TOK	percent		percent\N56
+3208	TOK	of		of\P
+3209	TOK	all		all\AG---6
+3210	TOK	female		female\N5S
+3211	TOK	X		x\N5S
+3212	TOK	chromosomes		chromosome\N5P
+3213	TOK	and		and\CC
+3214	TOK	in		in\P
+##	TAG	<num>
+3215	TOK	100		100\X
+##	TAG	</num>
+3216	TOK	percent		percent\N56
+3217	TOK	of		of\P
+3218	TOK	all		all\AG---6
+3219	TOK	male		male\N5S
+3220	TOK	X		x\N5S
+3221	TOK	chromosomes		chromosome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3222	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+3223	TOK	as		as\P
+3224	TOK	the		the\AT---6
+3225	TOK	graph		graph\N5S
+3226	TOK	shows		show\VMFDRS3
+---	DLD	,		=\DELIM
+3227	TOK	the		the\AT---6
+3228	TOK	frequency		frequency\N5S
+3229	TOK	in		in\P
+3230	TOK	females		female\N5P
+3231	TOK	drops		drop\VMFDRS3
+3232	TOK	from		from\P
+##	TAG	<num>
+3233	TOK	1.0		1.0\X
+##	TAG	</num>
+3234	TOK	to		to\P
+##	TAG	<num>
+3235	TOK	0.5		0.5\X
+##	TAG	</num>
+3236	TOK	in		in\P
+3237	TOK	a		a\AI---S
+3238	TOK	generation		generation\N5S
+---	DLD	,		=\DELIM
+3239	TOK	while		while\CS
+3240	TOK	the		the\AT---6
+3241	TOK	frequency		frequency\N5S
+3242	TOK	in		in\P
+3243	TOK	males		male\N5P
+3244	TOK	rises		rise\VMFDRS3
+3245	TOK	from		from\P
+##	TAG	<num>
+3246	TOK	0.0		0.0\X
+##	TAG	</num>
+3247	TOK	to		to\P
+##	TAG	<num>
+3248	TOK	1.0		1.0\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3249	TOK	In	BOS	in\P
+3250	TOK	generation		generation\N5S
+##	TAG	<num>
+3251	TOK	2		2\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+3252	TOK	the		the\AT---6
+3253	TOK	frequency		frequency\N5S
+3254	TOK	in		in\P
+3255	TOK	females		female\N5P
+3256	TOK	is		be\V6FDRS3
+##	TAG	<num>
+3257	TOK	0.75		0.75\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+3258	TOK	and		and\CC
+3259	TOK	in		in\P
+3260	TOK	males		male\N5P
+##	TAG	<num>
+3261	TOK	0.5		0.5\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3262	TOK	This	BOS	this\AD---S
+3263	TOK	oscillation		oscillation\N5S
+3264	TOK	continues		continue\VMFDRS3
+3265	TOK	until		until\CS
+3266	TOK	eventually		eventually\DGA7
+3267	TOK	an		an\AI---S
+3268	TOK	equilibrium		equilibrium\N5S
+3269	TOK	is		be\V6FDRS3
+3270	TOK	reached		reach\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLE	[	BOS	=\DELIM
+##	TAG	<num>
+3271	TOK	0		0\X
+##	TAG	</num>
+---	DLD	]		=\DELIM
+3272	TOK	L		l\N5S
+3273	TOK	stands		stand\VMFDRS3
+3274	TOK	for		for\P
+##	TAG	<name>
+3275	TOK	Karl Landsteiner		Karl_Landsteiner\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3276	TOK	the		the\AT---6
+3277	TOK	geneticist		geneticist\N5S
+3278	TOK	for		for\P
+3279	TOK	whom		whom\RW63NA
+3280	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+3281	TOK	locus		locus\N5S
+##	TAG	</foreign>
+3282	TOK	is		be\V6FDRS3
+3283	TOK	named		name\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

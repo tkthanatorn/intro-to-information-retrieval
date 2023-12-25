@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesHeader xmlns="http://www.xces.org/ns/GrAF/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xces.org/ns/GrAF/1.0/ http://www.anc.org/masc/schema/docheader-0.1.xsd" creator="UPF" date.created="2012-10-31_10:4:7" version="0.1">
+<fileDesc>
+	<titleStmt>
+		<title>NO TITLE</title>
+	</titleStmt>
+	<extent wordCount="3030"></extent>
+	<sourceDesc>
+		<title>NO TITLE</title>
+		<publisher type="UNKOWN_TYPE_PUBLISHER">NO PUBLISHER</publisher>
+		<edition>NO EDITION</edition>
+		<pubDate>NO PUBDATE</pubDate>
+		<pubPlace>NO PUBPLACE</pubPlace>
+	</sourceDesc>
+</fileDesc>
+<profileDesc>
+	<textClass catRef="">
+		<domain>UNKOWN</domain>
+		<subdomain>UNKOWN</subdomain>
+		<subject>UNKOWN</subject>
+		<audience>UNKOWN</audience>
+		<medium>UNKOWN</medium>
+	</textClass>
+	<primaryData loc="a00016.iula" medium="xml"></primaryData>
+	<annotations>
+		<annotation ann.loc="a00016-plain.txt" type="original">Document original</annotation>
+		<annotation ann.loc="a00016-seg.xml" type="seg">Base segmentation</annotation>
+		<annotation ann.loc="a00016-pos.xml" type="Iula_Tagging">Iula Part of Speech tags annotations</annotation>
+		<annotation ann.loc="a00016-s.xml" type="s">Structure Markup</annotation>
+	</annotations>
+</profileDesc>
+<revisionDesc>
+	<change>
+		<changeDate value="3912-11-31_10:4:7"></changeDate>
+		<respName>IULA</respName>
+		<item>NO TITLE</item>
+	</change>
+</revisionDesc>
+</cesHeader>

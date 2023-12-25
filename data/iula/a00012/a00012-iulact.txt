@@ -1,0 +1,4703 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	Strategies	BOS	strategy\N5P
+2	TOK	on		on\P
+3	TOK	the		the\AT---6
+4	TOK	future		future\N5S
+5	TOK	of		of\P
+6	TOK	the		the\AT---6
+7	TOK	chlorine		chlorine\N5S
+8	TOK	industry	EOS	industry\N5S
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+10	TOK	C. Hendriks	BOS	C._Hendriks\N46
+##	TAG	</name>
+11	TOK	and		and\CC
+##	TAG	<name>
+12	TOK	D. Papameletiou	EOS	D._Papameletiou\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+14	TOK	Issue	BOS	issue\VMF6R66
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+15	TOK	Production	BOS	production\N5S
+16	TOK	and		and\CC
+17	TOK	use		use\N5S
+18	TOK	of		of\P
+19	TOK	chlorine		chlorine\N5S
+20	TOK	are		be\V6FDR66
+21	TOK	of		of\P
+22	TOK	key		key\N5S
+23	TOK	importance		importance\N5S
+24	TOK	for		for\P
+25	TOK	the		the\AT---6
+26	TOK	chemical		chemical\JA
+27	TOK	industry		industry\N5S
+---	DLD	,		=\DELIM
+28	TOK	with		with\P
+29	TOK	a		a\AI---S
+30	TOK	large		large\JA
+31	TOK	number		number\N5S
+32	TOK	of		of\P
+33	TOK	chlorinated		chlorinate\VMC----
+34	TOK	compounds		compound\N5P
+35	TOK	on		on\P
+36	TOK	the		the\AT---6
+37	TOK	market		market\N5S
+---	DLD	,		=\DELIM
+38	TOK	and		and\CC
+39	TOK	nearly		nearly\DGA7
+##	TAG	<na type="function">
+40	TOK	60% of		noanat\W
+##	TAG	</na>
+41	TOK	the		the\AT---6
+42	TOK	global		global\JA
+43	TOK	sales		sale\N5P
+44	TOK	of		of\P
+45	TOK	chemical		chemical\JA
+46	TOK	products		product\N5P
+47	TOK	being		be\VMG----
+48	TOK	directly		directly\DGA7
+49	TOK	or		or\CC
+50	TOK	indirectly		indirectly\DGA7
+51	TOK	linked		link\VMC----
+52	TOK	with		with\P
+53	TOK	chlorine		chlorine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+54	TOK	Besides	BOS	besides\P
+55	TOK	its		its\APS3N6
+56	TOK	importance		importance\N5S
+57	TOK	for		for\P
+58	TOK	the		the\AT---6
+59	TOK	economy		economy\N5S
+---	DLD	,		=\DELIM
+60	TOK	chlorine		chlorine\N5S
+61	TOK	has		have\V6FDRS3
+62	TOK	for		for\P
+63	TOK	many		many\AI---P
+64	TOK	years		year\N5P
+65	TOK	been		be\VMC----
+66	TOK	the		the\AT---6
+67	TOK	subject		subject\N5S
+68	TOK	of		of\P
+69	TOK	controversial		controversial\JA
+70	TOK	debates		debate\N5P
+##	TAG	<loc pos="P">
+71	TOK	because of		because_of\P
+##	TAG	</loc>
+72	TOK	adverse		adverse\JA
+73	TOK	environmental		environmental\JA
+74	TOK	and		and\CC
+75	TOK	health		health\N5S
+76	TOK	impacts		impact\N5P
+77	TOK	of		of\P
+78	TOK	many		many\AI---P
+79	TOK	chlorinated		chlorinate\VMC----
+80	TOK	organic		organic\JA
+81	TOK	compounds		compound\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+82	TOK	As	BOS	as\P
+83	TOK	a		a\AI---S
+84	TOK	result		result\N5S
+85	TOK	of		of\P
+86	TOK	these		this\AD---P
+87	TOK	debates		debate\N5P
+---	DLD	,		=\DELIM
+88	TOK	there		there\DGA7
+89	TOK	is		be\V6FDRS3
+90	TOK	currently		currently\DGA7
+91	TOK	a		a\AI---S
+92	TOK	world		world\N5S
+---	DLI	-		=\DELIM
+93	TOK	wide		wide\JA
+94	TOK	trend		trend\N5S
+95	TOK	to		to\P
+96	TOK	study		study\VMI----
+97	TOK	how		how\DGAW
+98	TOK	many		many\RIP3N-
+99	TOK	of		of\P
+100	TOK	the		the\AT---6
+101	TOK	chlorine		chlorine\N5S
+102	TOK	uses		use\N5P
+103	TOK	can		can\VOFDR66
+104	TOK	be		be\VMI----
+105	TOK	substituted		substitute\VMC----
+106	TOK	by		by\P
+107	TOK	other		other\JA
+108	TOK	substances		substance\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+109	TOK	Relevance	BOS	relevance\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+110	TOK	Recent	BOS	recent\JA
+111	TOK	studies		study\N5P
+112	TOK	coming		come\VMG----
+113	TOK	from		from\P
+114	TOK	authoritative		authoritative\JA
+115	TOK	sources		source\N5P
+116	TOK	in		in\P
+##	TAG	<name>
+117	TOK	Member States		Member_States\N46
+##	TAG	</name>
+118	TOK	of		of\P
+119	TOK	the		the\AT---6
+##	TAG	<name>
+120	TOK	EU		EU\N46
+##	TAG	</name>
+121	TOK	have		have\V6F6R66
+122	TOK	reached		reach\VMC----
+123	TOK	important		important\JA
+124	TOK	conclusions		conclusion\N5P
+125	TOK	about		about\P
+126	TOK	the		the\AT---6
+127	TOK	necessity		necessity\N5S
+128	TOK	and		and\CC
+129	TOK	feasibility		feasibility\N5S
+130	TOK	for		for\P
+131	TOK	replacing		replace\VMG----
+132	TOK	chlorine		chlorine\N5S
+133	TOK	with		with\P
+134	TOK	alternative		alternative\JA
+135	TOK	substances		substance\N5P
+136	TOK	in		in\P
+137	TOK	most		most\AG---6
+138	TOK	of		of\P
+139	TOK	its		its\APS3N6
+140	TOK	uses		use\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+141	TOK	The	BOS	the\AT---6
+142	TOK	results		result\N5P
+143	TOK	of		of\P
+144	TOK	these		this\AD---P
+145	TOK	studies		study\N5P
+146	TOK	may		may\VOFDR66
+147	TOK	have		have\VMI----
+148	TOK	significant		significant\JA
+149	TOK	repercussions		repercussion\N5P
+150	TOK	for		for\P
+151	TOK	the		the\AT---6
+152	TOK	chlorine		chlorine\N5S
+153	TOK	industry		industry\N5S
+154	TOK	in		in\P
+155	TOK	terms		term\N5P
+156	TOK	of		of\P
+157	TOK	its		its\APS3N6
+158	TOK	competitiveness		competitiveness\N5S
+---	DLD	,		=\DELIM
+159	TOK	and		and\CC
+160	TOK	its		its\APS3N6
+161	TOK	employment		employment\N5S
+162	TOK	and		and\CC
+163	TOK	environmental		environmental\JA
+164	TOK	impacts		impact\N5P
+---	DLD	,		=\DELIM
+165	TOK	and		and\CC
+166	TOK	they		they\RPP3NN
+167	TOK	therefore		therefore\DGA7
+168	TOK	need		need\V6F6R66
+169	TOK	to		to\P
+170	TOK	be		be\VMI----
+171	TOK	analysed		analyse\VMC----
+172	TOK	closely		closely\DGA7
+173	TOK	with		with\P
+174	TOK	respect		respect\N5S
+175	TOK	to		to\P
+176	TOK	their		their\APP3N6
+177	TOK	usefulness		usefulness\N5S
+178	TOK	for		for\P
+179	TOK	policy		policy\N5S
+180	TOK	making		make\VMG----
+181	TOK	at		at\P
+##	TAG	<name>
+182	TOK	EU		EU\N46
+##	TAG	</name>
+183	TOK	level		level\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+184	TOK	The	BOS	the\AT---6
+185	TOK	debate		debate\N5S
+186	TOK	on		on\P
+187	TOK	the		the\AT---6
+188	TOK	future		future\N5S
+189	TOK	of		of\P
+190	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+191	TOK	European		european\JA
+##	TAG	</loc>
+192	TOK	chlorine		chlorine\N5S
+193	TOK	industry		industry\N5S
+194	TOK	has		have\V6FDRS3
+195	TOK	recently		recently\DGA7
+196	TOK	been		be\VMC----
+197	TOK	fuelled		fuel\VMC----
+198	TOK	by		by\P
+199	TOK	a		a\AI---S
+200	TOK	study		study\N5S
+201	TOK	conducted		conduct\VMC----
+202	TOK	by		by\P
+##	TAG	<name>
+203	TOK	Prognos		Prognos\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+204	TOK	This	BOS	this\AD---S
+205	TOK	study		study\N5S
+206	TOK	examined		examine\VMF6A66
+207	TOK	the		the\AT---6
+208	TOK	manufacture		manufacture\N5S
+209	TOK	of		of\P
+210	TOK	chlorine		chlorine\N5S
+211	TOK	and		and\CC
+212	TOK	its		its\APS3N6
+213	TOK	uses		use\N5P
+214	TOK	in		in\P
+##	TAG	<name>
+215	TOK	Germany		Germany\N46
+##	TAG	</name>
+216	TOK	and		and\CC
+217	TOK	found		find\VMF6A66
+218	TOK	that		that\CS
+219	TOK	elemental		elemental\JA
+220	TOK	chlorine		chlorine\N5S
+221	TOK	could		can\VOFDA66
+222	TOK	be		be\VMI----
+223	TOK	eliminated		eliminate\VMC----
+224	TOK	in		in\P
+225	TOK	more		more\DDC7
+226	TOK	than		than\CS
+##	TAG	<na type="function">
+227	TOK	50% of		noanat\W
+##	TAG	</na>
+228	TOK	its		its\APS3N6
+229	TOK	applications		application\N5P
+230	TOK	over		over\P
+231	TOK	the		the\AT---6
+232	TOK	next		next\JA
+##	TAG	<na type="function">
+233	TOK	15-20		noanat\W
+##	TAG	</na>
+234	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+235	TOK	at		at\P
+236	TOK	a		a\AI---S
+237	TOK	net		net\N5S
+238	TOK	cost		cost\N5S
+239	TOK	increase		increase\N5S
+240	TOK	of		of\P
+241	TOK	only		only\DGA7
+##	TAG	<num>
+242	TOK	1		1\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+243	TOK	Another	BOS	another\JA
+244	TOK	recent		recent\JA
+245	TOK	study		study\N5S
+246	TOK	by		by\P
+##	TAG	<name>
+247	TOK	TNO		TNO\N46
+##	TAG	</name>
+248	TOK	and		and\CC
+##	TAG	<num>
+249	TOK	CML		CML\X
+##	TAG	</num>
+250	TOK	investigated		investigate\VMC----
+251	TOK	the		the\AT---6
+252	TOK	need		need\N5S
+253	TOK	for		for\P
+254	TOK	a		a\AI---S
+255	TOK	move		move\N5S
+256	TOK	towards		towards\P
+257	TOK	a		a\AI---S
+258	TOK	chlorine		chlorine\N5S
+259	TOK	free		free\JA
+260	TOK	society		society\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+261	TOK	On	BOS	on\P
+262	TOK	the		the\AT---6
+263	TOK	basis		basis\N5S
+264	TOK	of		of\P
+265	TOK	its		its\APS3N6
+266	TOK	results		result\N5P
+---	DLD	,		=\DELIM
+267	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+268	TOK	Dutch Ministry		Dutch_Ministry\N46
+##	TAG	</name>
+269	TOK	for		for\P
+270	TOK	the		the\AT---6
+##	TAG	<name>
+271	TOK	Environment		Environment\N46
+##	TAG	</name>
+272	TOK	concluded		conclude\VMF6A66
+273	TOK	that		that\CS
+274	TOK	the		the\AT---6
+275	TOK	risks		risk\N5P
+276	TOK	related		relate\VMC----
+277	TOK	to		to\P
+278	TOK	chlorine		chlorine\N5S
+279	TOK	and		and\CC
+280	TOK	the		the\AT---6
+281	TOK	chlorinated		chlorinate\VMC----
+282	TOK	compounds		compound\N5P
+283	TOK	are		be\V6FDR66
+284	TOK	largely		largely\DGA7
+285	TOK	manageable		manageable\JA
+286	TOK	by		by\P
+287	TOK	already		already\DGA7
+288	TOK	established		establish\VMC----
+289	TOK	policies		policy\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+290	TOK	A	BOS	a\AI---S
+291	TOK	new		new\JA
+292	TOK	policy		policy\N5S
+293	TOK	on		on\P
+294	TOK	all		all\AG---6
+295	TOK	chlorine		chlorine\N5S
+296	TOK	compounds		compound\N5P
+297	TOK	was		be\V6F-A66
+298	TOK	therefore		therefore\DGA7
+299	TOK	not		not\DGA7
+300	TOK	recommended		recommend\VMF6A66
+---	DLD	,		=\DELIM
+301	TOK	although		although\CS
+302	TOK	the		the\AT---6
+##	TAG	<name>
+303	TOK	Ministry		Ministry\N46
+##	TAG	</name>
+304	TOK	recognised		recognise\VMF6A66
+305	TOK	the		the\AT---6
+306	TOK	need		need\N5S
+307	TOK	of		of\P
+308	TOK	combining		combine\VMG----
+309	TOK	existing		existing\JA
+310	TOK	policies		policy\N5P
+311	TOK	with		with\P
+312	TOK	additional		additional\JA
+313	TOK	actions		action\N5P
+314	TOK	and		and\CC
+315	TOK	instruments		instrument\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+316	TOK	A	BOS	a\AI---S
+##	TAG	<num>
+317	TOK	50		50\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+318	TOK	reduction		reduction\N5S
+319	TOK	in		in\P
+320	TOK	chlorine		chlorine\N5S
+321	TOK	use		use\N5S
+322	TOK	is		be\V6FDRS3
+323	TOK	feasible		feasible\JA
+324	TOK	over		over\P
+325	TOK	the		the\AT---6
+326	TOK	next		next\JA
+##	TAG	<na type="function">
+327	TOK	15-20		noanat\W
+##	TAG	</na>
+328	TOK	years		year\N5P
+329	TOK	at		at\P
+##	TAG	<num>
+330	TOK	1		1\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+331	TOK	extra		extra\JA
+332	TOK	cost		cost\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="P">
+333	TOK	according to		according_to\P
+##	TAG	</loc>
+334	TOK	the		the\AT---6
+##	TAG	<name>
+335	TOK	Prognos		Prognos\N46
+##	TAG	</name>
+336	TOK	study		study\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+337	TOK	Growth	BOS	growth\N5S
+338	TOK	of		of\P
+339	TOK	the		the\AT---6
+340	TOK	chlorine		chlorine\N5S
+341	TOK	industry		industry\N5S
+342	TOK	and		and\CC
+343	TOK	its		its\APS3N6
+344	TOK	negative		negative\JA
+345	TOK	environmental		environmental\JA
+346	TOK	reputation	EOS	reputation\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+348	TOK	Since	BOS	since\CS
+349	TOK	the		the\AT---6
+350	TOK	beginning		beginning\N5S
+351	TOK	of		of\P
+352	TOK	this		this\AD---S
+353	TOK	century		century\N5S
+---	DLD	,		=\DELIM
+354	TOK	the		the\AT---6
+355	TOK	chemical		chemical\JA
+356	TOK	industry		industry\N5S
+357	TOK	has		have\V6FDRS3
+358	TOK	expanded		expand\VMC----
+359	TOK	rapidly		rapidly\DGA7
+360	TOK	without		without\P
+361	TOK	the		the\AT---6
+362	TOK	necessary		necessary\JA
+363	TOK	scientific		scientific\JA
+364	TOK	knowledge		knowledge\N5S
+365	TOK	of		of\P
+366	TOK	the		the\AT---6
+367	TOK	environmental		environmental\JA
+368	TOK	chemistry		chemistry\N5S
+---	DLD	,		=\DELIM
+369	TOK	bioaccumulation		bioaccumulation\N5S
+---	DLD	,		=\DELIM
+370	TOK	toxicity		toxicity\N5S
+371	TOK	of		of\P
+372	TOK	chemicals		chemical\N5P
+---	DLD	,		=\DELIM
+373	TOK	or		or\CC
+374	TOK	of		of\P
+375	TOK	general		general\JA
+376	TOK	environmental		environmental\JA
+377	TOK	issues		issue\N5P
+378	TOK	such		such\RIS3N-
+379	TOK	as		as\P
+380	TOK	ozone		ozone\N5S
+381	TOK	layer		layer\N5S
+382	TOK	destruction		destruction\N5S
+383	TOK	and		and\CC
+384	TOK	long		long\JA
+385	TOK	range		range\N5S
+386	TOK	air		air\N5S
+387	TOK	transport		transport\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+388	TOK	On	BOS	on\P
+389	TOK	the		the\AT---6
+390	TOK	one		one\MCS
+391	TOK	hand		hand\N5S
+392	TOK	this		this\RDS3N-
+393	TOK	has		have\V6FDRS3
+394	TOK	allowed		allow\VMC----
+395	TOK	the		the\AT---6
+396	TOK	chlorine		chlorine\N5S
+397	TOK	industry		industry\N5S
+398	TOK	to		to\P
+399	TOK	grow		grow\VMI----
+400	TOK	to		to\P
+401	TOK	its		its\APS3N6
+402	TOK	current		current\JA
+403	TOK	size		size\N5S
+---	DLE	(		=\DELIM
+404	TOK	see		see\VMF6R66
+##	TAG	<name>
+405	TOK	Box		Box\N46
+##	TAG	</name>
+406	TOK	below		below\P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+407	TOK	on		on\P
+408	TOK	the		the\AT---6
+409	TOK	other		other\JA
+410	TOK	hand		hand\N5S
+411	TOK	it		it\RPS3N6
+412	TOK	has		have\V6FDRS3
+413	TOK	led		lead\VMC----
+414	TOK	to		to\P
+415	TOK	several		several\JA
+416	TOK	prominent		prominent\JA
+417	TOK	cases		case\N5P
+418	TOK	where		where\CS
+419	TOK	widely		widely\DGA7
+420	TOK	used		use\VMC----
+421	TOK	chlorinated		chlorinate\VMC----
+422	TOK	products		product\N5P
+423	TOK	had		have\V6F6A66
+424	TOK	to		to\P
+425	TOK	be		be\VMI----
+426	TOK	banned		ban\VMC----
+##	TAG	<loc pos="P">
+427	TOK	because of		because_of\P
+##	TAG	</loc>
+428	TOK	their		their\APP3N6
+429	TOK	eco		eco\N56
+---	DLD	-		=\DELIM
+430	TOK	toxicity		toxicity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+431	TOK	DDT	BOS	DDT\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+432	TOK	PCBs		PCBs\N46
+##	TAG	</name>
+433	TOK	and		and\CC
+##	TAG	<name>
+434	TOK	CFCs		CFCs\N46
+##	TAG	</name>
+435	TOK	represent		represent\VMF6R66
+436	TOK	some		some\AG---6
+437	TOK	of		of\P
+438	TOK	the		the\AT---6
+439	TOK	cases		case\N5P
+440	TOK	which		which\RW63N-
+441	TOK	have		have\V6F6R66
+442	TOK	contributed		contribute\VMC----
+443	TOK	to		to\P
+444	TOK	the		the\AT---6
+445	TOK	poor		poor\JA
+446	TOK	environmental		environmental\JA
+447	TOK	reputation		reputation\N5S
+---	DLD	,		=\DELIM
+448	TOK	not		not\DGA7
+449	TOK	only		only\DGA7
+450	TOK	of		of\P
+451	TOK	the		the\AT---6
+452	TOK	chlorine		chlorine\N5S
+453	TOK	industry		industry\N5S
+---	DLD	,		=\DELIM
+454	TOK	but		but\CC
+455	TOK	also		also\DGA7
+456	TOK	of		of\P
+457	TOK	the		the\AT---6
+458	TOK	element		element\N5S
+459	TOK	itself		itself\RXS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+460	TOK	In	BOS	in\P
+461	TOK	the		the\AT---6
+462	TOK	mean		mean\JA
+463	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+464	TOK	while		while\CS
+465	TOK	the		the\AT---6
+466	TOK	chlorine		chlorine\N5S
+467	TOK	industry		industry\N5S
+468	TOK	maintains		maintain\VMFDRS3
+469	TOK	that		that\CS
+470	TOK	current		current\JA
+471	TOK	scientific		scientific\JA
+472	TOK	progress		progress\N5S
+473	TOK	guarantees		guarantee\VMFDRS3
+474	TOK	that		that\CS
+475	TOK	similar		similar\JA
+476	TOK	cases		case\N5P
+477	TOK	will		will\VOFDR66
+478	TOK	not		not\DGA7
+479	TOK	be		be\VMI----
+480	TOK	repeated		repeat\VMC----
+481	TOK	again		again\DGA7
+---	DLD	,		=\DELIM
+482	TOK	several		several\JA
+483	TOK	environmental		environmental\JA
+484	TOK	organisations		organisation\N5P
+485	TOK	have		have\V6F6R66
+486	TOK	been		be\VMC----
+487	TOK	advocating		advocate\VMG----
+488	TOK	a		a\AI---S
+489	TOK	complete		complete\JA
+490	TOK	phaseout		phaseout\N5S
+491	TOK	of		of\P
+492	TOK	chlorine		chlorine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+493	TOK	Chlorine	BOS	chlorine\N5S
+494	TOK	production		production\N5S
+495	TOK	in		in\P
+496	TOK	the		the\AT---6
+497	TOK	world		world\N5S
+498	TOK	in		in\P
+499	TOK	kt/year		kt/year\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+500	TOK	37	BOS	37\X
+##	TAG	</num>
+501	TOK	in		in\P
+##	TAG	<num>
+502	TOK	1900		1900\X
+##	TAG	</num>
+---	DLD	;		=\DELIM
+##	TAG	<num>
+503	TOK	3000		3000\X
+##	TAG	</num>
+504	TOK	in		in\P
+##	TAG	<num>
+505	TOK	1950		1950\X
+##	TAG	</num>
+---	DLD	;		=\DELIM
+##	TAG	<num>
+506	TOK	37.000		37.000\X
+##	TAG	</num>
+507	TOK	in		in\P
+##	TAG	<num>
+508	TOK	1995		1995\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+509	TOK	Chlorine	BOS	chlorine\N5S
+510	TOK	production		production\N5S
+511	TOK	in		in\P
+##	TAG	<name>
+512	TOK	Europe		Europe\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+513	TOK	Euro- Chlor Federation		Euro-_Chlor_Federation\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+514	TOK	in		in\P
+515	TOK	kt/year		kt/year\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+516	TOK	800	BOS	800\X
+##	TAG	</num>
+517	TOK	in		in\P
+##	TAG	<num>
+518	TOK	1950		1950\X
+##	TAG	</num>
+---	DLD	;		=\DELIM
+##	TAG	<num>
+519	TOK	9.000		9.000\X
+##	TAG	</num>
+520	TOK	in		in\P
+##	TAG	<num>
+521	TOK	1995		1995\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+522	TOK	Chlorine	BOS	chlorine\N5S
+523	TOK	use		use\N5S
+524	TOK	in		in\P
+##	TAG	<name>
+525	TOK	Europe		Europe\N46
+##	TAG	</name>
+##	TAG	<num>
+526	TOK	12.500		12.500\X
+##	TAG	</num>
+527	TOK	kt		kt\N5S
+528	TOK	in		in\P
+##	TAG	<num>
+529	TOK	1995		1995\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+530	TOK	94% of		noanat\W
+##	TAG	</na>
+531	TOK	this		this\AD---S
+532	TOK	amount		amount\N5S
+533	TOK	were		be\V6F-A66
+534	TOK	produced		produce\VMC----
+535	TOK	and		and\CC
+536	TOK	used		use\VMC----
+537	TOK	in		in\P
+##	TAG	<num>
+538	TOK	83		83\X
+##	TAG	</num>
+539	TOK	identified		identify\VMC----
+540	TOK	locations		location\N5P
+---	DLD	)		=\DELIM
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+541	TOK	34	BOS	34\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+542	TOK	recycled		recycle\VMC----
+543	TOK	from		from\P
+544	TOK	used		use\VMC----
+##	TAG	<name>
+545	TOK	HCl		HCl\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+546	TOK	4,083		4,083\X
+##	TAG	</num>
+547	TOK	kt		kt\N5P
+---	DLD	)		=\DELIM
+548	TOK	and		and\CC
+##	TAG	<name>
+549	TOK	CHC		CHC\N46
+##	TAG	</name>
+---	DLE	[		=\DELIM
+##	TAG	<num>
+550	TOK	1		1\X
+##	TAG	</num>
+---	DLD	]		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+551	TOK	223		223\X
+##	TAG	</num>
+552	TOK	kt		kt\N5P
+---	DLD	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+553	TOK	66	BOS	66\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+554	TOK	from		from\P
+##	TAG	<name>
+555	TOK	NaCl		NaCl\N46
+##	TAG	</name>
+556	TOK	salt	EOS	salt\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+558	TOK	Uses	BOS	use\VMFDRS3
+559	TOK	of		of\P
+560	TOK	chlorine		chlorine\N5S
+561	TOK	in		in\P
+562	TOK	the		the\AT---6
+563	TOK	world		world\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+564	TOK	Table	BOS	table\N5S
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+---	DLD	%	BOS	=\DELIM
+566	TOK	of		of\P
+567	TOK	the		the\AT---6
+568	TOK	market		market\N5S
+---	DLE	[		=\DELIM
+##	TAG	<num>
+569	TOK	3		3\X
+##	TAG	</num>
+---	DLD	]		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLD	%	BOS	=\DELIM
+570	TOK	annual		annual\JA
+571	TOK	growth		growth\N5S
+572	TOK	rate		rate\N5S
+---	DLE	[		=\DELIM
+##	TAG	<num>
+573	TOK	4		4\X
+##	TAG	</num>
+---	DLD	]		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+574	TOK	Vinyl	BOS	vinyl\N5S
+575	TOK	chloride		chloride\N5S
+576	TOK	monomer		monomer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+577	TOK	34	BOS	34\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+578	TOK	+		plus\CS
+##	TAG	<num>
+579	TOK	4.2		4.2\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+580	TOK	Phosgene	BOS	phosgene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+581	TOK	6.0	BOS	6.0\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+582	TOK	+	BOS	plus\CS
+##	TAG	<num>
+583	TOK	2.5		2.5\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+584	TOK	Hypochlorite	BOS	hypochlorite\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+585	TOK	2.5	BOS	2.5\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+586	TOK	+		plus\CS
+##	TAG	<num>
+587	TOK	2		2\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+588	TOK	Titanium	BOS	titanium\N5S
+589	TOK	dioxide		dioxide\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+590	TOK	1.8	BOS	1.8\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+591	TOK	+		plus\CS
+##	TAG	<num>
+592	TOK	1.5		1.5\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+593	TOK	Allyl	BOS	allyl\JA
+594	TOK	chloride		chloride\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+596	TOK	2.0	BOS	2.0\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+597	TOK	+		plus\CS
+##	TAG	<num>
+598	TOK	1.8		1.8\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+599	TOK	Pulp	BOS	pulp\N5S
+600	TOK	and		and\CC
+601	TOK	paper		paper\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="9.0.">
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+602	TOK	6.0	BOS	6.0\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+603	TOK	Propylene	BOS	propylene\N5S
+604	TOK	oxide		oxide\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+605	TOK	7.0	BOS	7.0\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+606	TOK	+		plus\CS
+##	TAG	<num>
+607	TOK	0.8		0.8\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+608	TOK	CHC	BOS	CHC\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+609	TOK	C1		C1\N46
+##	TAG	</name>
+610	TOK	and		and\CC
+##	TAG	<name>
+611	TOK	C2		C2\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="6.0.">
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+613	TOK	4.5	BOS	4.5\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+614	TOK	Chlorobenzene	BOS	chlorobenzene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="2.0.">
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+615	TOK	0.8	BOS	0.8\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+616	TOK	Water	BOS	water\N5S
+617	TOK	treatment		treatment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+618	TOK	5.4	BOS	5.4\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+619	TOK	+		plus\CS
+##	TAG	<num>
+620	TOK	0.7		0.7\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+621	TOK	Employment	BOS	employment\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<name>
+622	TOK	Europe	BOS	Europe\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+623	TOK	about		about\P
+##	TAG	<num>
+624	TOK	2 million		2_million\X
+##	TAG	</num>
+625	TOK	jobs		job\N5P
+626	TOK	are		be\V6FDR66
+627	TOK	related		relate\VMC----
+628	TOK	to		to\P
+629	TOK	the		the\AT---6
+630	TOK	chlorine		chlorine\N5S
+631	TOK	industry	EOS	industry\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<name>
+633	TOK	Germany	BOS	Germany\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+634	TOK	about		about\P
+##	TAG	<num>
+635	TOK	0.5 million		0.5_million\X
+##	TAG	</num>
+636	TOK	jobs	EOS	job\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<name>
+638	TOK	USA	BOS	USA\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+639	TOK	about		about\P
+##	TAG	<num>
+640	TOK	1 million		1_million\X
+##	TAG	</num>
+641	TOK	jobs	EOS	job\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+643	TOK	Turnover	BOS	turnover\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+644	TOK	Europe	BOS	Europe\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+##	TAG	<num>
+645	TOK	100 billion		100_billion\X
+##	TAG	</num>
+##	TAG	<name>
+646	TOK	ECU		ECU\N46
+##	TAG	</name>
+647	TOK	per		per\P
+648	TOK	year		year\N5S
+649	TOK	are		be\V6FDR66
+650	TOK	related		relate\VMC----
+651	TOK	to		to\P
+652	TOK	the		the\AT---6
+653	TOK	chlorine		chlorine\N5S
+654	TOK	industry		industry\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+655	TOK	Reviews	BOS	review\N5P
+656	TOK	of		of\P
+657	TOK	chorine		chorine\N5S
+658	TOK	use		use\N5S
+659	TOK	are		be\V6FDR66
+##	TAG	<loc pos="DGA7">
+660	TOK	no longer		no_longer\DGA7
+##	TAG	</loc>
+661	TOK	confined		confine\VMC----
+662	TOK	to		to\P
+663	TOK	environmental		environmental\JA
+664	TOK	groups		group\N5P
+---	DLD	,		=\DELIM
+665	TOK	but		but\CC
+666	TOK	extend		extend\VMI----
+667	TOK	to		to\P
+668	TOK	governments		government\N5P
+669	TOK	and		and\CC
+670	TOK	international		international\JA
+671	TOK	bodies		body\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+672	TOK	These	BOS	this\AD---P
+673	TOK	organisations		organisation\N5P
+674	TOK	have		have\V6F6R66
+675	TOK	been		be\VMC----
+676	TOK	so		so\DGA7
+677	TOK	successful		successful\JA
+678	TOK	in		in\P
+679	TOK	their		their\APP3N6
+680	TOK	campaign		campaign\N5S
+681	TOK	that		that\CS
+682	TOK	we		we\RPP1NN
+683	TOK	are		be\V6FDR66
+684	TOK	now		now\DGA7
+685	TOK	witnessing		witness\VMG----
+686	TOK	world		world\N5S
+---	DLI	-		=\DELIM
+687	TOK	wide		wide\JA
+688	TOK	actions		action\N5P
+689	TOK	reviewing		review\VMG----
+690	TOK	the		the\AT---6
+691	TOK	scope		scope\N5S
+692	TOK	of		of\P
+693	TOK	chlorine		chlorine\N5S
+694	TOK	production		production\N5S
+695	TOK	and		and\CC
+696	TOK	uses		use\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+697	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+698	TOK	these		this\AD---P
+699	TOK	actions		action\N5P
+700	TOK	are		be\V6FDR66
+701	TOK	not		not\DGA7
+702	TOK	only		only\DGA7
+703	TOK	limited		limit\VMC----
+704	TOK	to		to\P
+705	TOK	the		the\AT---6
+706	TOK	initiatives		initiative\N5P
+707	TOK	of		of\P
+708	TOK	environmental		environmental\JA
+709	TOK	groups		group\N5P
+710	TOK	such		such\RIS3N-
+711	TOK	as		as\P
+##	TAG	<name>
+712	TOK	Greenpeace		Greenpeace\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+713	TOK	but		but\CC
+714	TOK	are		be\V6FDR66
+715	TOK	increasingly		increasingly\DGA7
+716	TOK	undertaken		undertake\VMC----
+717	TOK	by		by\P
+718	TOK	governments		government\N5P
+---	DLD	,		=\DELIM
+719	TOK	such		such\JA
+720	TOK	as		as\P
+721	TOK	the		the\AT---6
+##	TAG	<name>
+722	TOK	US		US\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<loc pos="JA">
+723	TOK	German		german\JA
+##	TAG	</loc>
+724	TOK	and		and\CC
+725	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+726	TOK	Dutch		dutch\JA
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+727	TOK	and		and\CC
+728	TOK	international		international\JA
+729	TOK	bodies		body\N5P
+---	DLD	,		=\DELIM
+730	TOK	such		such\JA
+731	TOK	as		as\P
+732	TOK	the		the\AT---6
+##	TAG	<name>
+733	TOK	Oslo		Oslo\N46
+##	TAG	</name>
+734	TOK	and		and\CC
+##	TAG	<name>
+735	TOK	Paris Commissions		Paris_Commissions\N46
+##	TAG	</name>
+736	TOK	for		for\P
+737	TOK	the		the\AT---6
+##	TAG	<name>
+738	TOK	Prevention of Marine Pollution		Prevention_of_Marine_Pollution\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+739	TOK	the		the\AT---6
+##	TAG	<name>
+740	TOK	Barcelona Convention		Barcelona_Convention\N46
+##	TAG	</name>
+741	TOK	on		on\P
+742	TOK	the		the\AT---6
+##	TAG	<name>
+743	TOK	Mediterranean Sea		Mediterranean_Sea\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+744	TOK	the		the\AT---6
+##	TAG	<name>
+745	TOK	International Whaling Commission		International_Whaling_Commission\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+746	TOK	the		the\AT---6
+##	TAG	<name>
+747	TOK	World Wilderness Conference		World_Wilderness_Conference\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+748	TOK	and		and\CC
+749	TOK	the		the\AT---6
+##	TAG	<name>
+750	TOK	USA-Canada International Joint Commission		USA-Canada_International_Joint_Commission\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+751	TOK	which		which\RW63N-
+752	TOK	are		be\V6FDR66
+753	TOK	commissioning		commission\VMG----
+754	TOK	related		relate\VMC----
+755	TOK	studies		study\N5P
+756	TOK	aimed		aim\VMC----
+757	TOK	at		at\P
+758	TOK	analysing		analyse\VMG----
+759	TOK	the		the\AT---6
+760	TOK	current		current\JA
+761	TOK	situation		situation\N5S
+762	TOK	and		and\CC
+763	TOK	screening		screening\N5S
+764	TOK	policy		policy\N5S
+765	TOK	options		option\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+766	TOK	Current	BOS	current\JA
+767	TOK	policy		policy\N5S
+768	TOK	issues		issue\N5P
+769	TOK	and		and\CC
+770	TOK	related		relate\VMC----
+771	TOK	studies	EOS	study\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+773	TOK	One	BOS	one\MCS
+774	TOK	of		of\P
+775	TOK	the		the\AT---6
+776	TOK	most		most\DDS7
+777	TOK	significant		significant\JA
+778	TOK	contributions		contribution\N5P
+779	TOK	to		to\P
+780	TOK	the		the\AT---6
+781	TOK	chlorine		chlorine\N5S
+782	TOK	debate		debate\N5S
+783	TOK	over		over\P
+784	TOK	recent		recent\JA
+785	TOK	years		year\N5P
+786	TOK	has		have\V6FDRS3
+787	TOK	been		be\VMC----
+788	TOK	the		the\AT---6
+---	DLE	"		=\DELIM
+##	TAG	<name>
+789	TOK	Chlorine-Free Campaign		Chlorine-Free_Campaign\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+790	TOK	of		of\P
+##	TAG	<name>
+791	TOK	Greenpeace International		Greenpeace_International\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+792	TOK	It	BOS	it\RPS3N6
+793	TOK	claims		claim\VMFDRS3
+794	TOK	to		to\P
+795	TOK	represent		represent\VMI----
+796	TOK	an		an\AI---S
+797	TOK	international		international\JA
+798	TOK	movement		movement\N5S
+799	TOK	calling		calling\N5S
+800	TOK	for		for\P
+801	TOK	a		a\AI---S
+802	TOK	complete		complete\JA
+803	TOK	phaseout		phaseout\N5S
+804	TOK	of		of\P
+805	TOK	chlorine		chlorine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+806	TOK	Its	BOS	its\APS3N6
+807	TOK	argument		argument\N5S
+808	TOK	is		be\V6FDRS3
+809	TOK	based		base\VMC----
+810	TOK	on		on\P
+811	TOK	data		data\N56
+##	TAG	<loc pos="P">
+812	TOK	relating to		relating_to\P
+##	TAG	</loc>
+813	TOK	around		around\DGA7
+##	TAG	<num>
+814	TOK	177		177\X
+##	TAG	</num>
+815	TOK	different		different\JA
+816	TOK	organochlorines		organochlorine\N5P
+817	TOK	that		that\RW63N6
+818	TOK	have		have\V6F6R66
+819	TOK	been		be\VMC----
+820	TOK	found		find\VMC----
+821	TOK	in		in\P
+822	TOK	the		the\AT---6
+823	TOK	fat		fat\N5S
+---	DLD	,		=\DELIM
+824	TOK	blood		blood\N5S
+---	DLD	,		=\DELIM
+825	TOK	mothers		mother\N5P
+826	TOK	milk		milk\VMF6R66
+---	DLD	,		=\DELIM
+827	TOK	semen		semen\N5S
+---	DLD	,		=\DELIM
+828	TOK	and		and\CC
+829	TOK	breath		breath\N5S
+830	TOK	of		of\P
+831	TOK	the		the\AT---6
+832	TOK	general		general\JA
+833	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+834	TOK	This	BOS	this\AD---S
+835	TOK	analysis		analysis\N5S
+836	TOK	has		have\V6FDRS3
+837	TOK	led		lead\VMC----
+##	TAG	<name>
+838	TOK	Greenpeace		Greenpeace\N46
+##	TAG	</name>
+839	TOK	to		to\P
+840	TOK	conclude		conclude\VMI----
+841	TOK	that		that\CS
+842	TOK	organochlorines		organochlorine\N5P
+843	TOK	can		can\VOFDR66
+844	TOK	cause		cause\VMI----
+845	TOK	damage		damage\N5S
+846	TOK	to		to\P
+847	TOK	human		human\JA
+848	TOK	reproductive		reproductive\JA
+849	TOK	systems		system\N5P
+---	DLD	,		=\DELIM
+850	TOK	from		from\P
+851	TOK	the		the\AT---6
+852	TOK	womb		womb\N5S
+853	TOK	to		to\P
+854	TOK	adulthood		adulthood\N5S
+855	TOK	and		and\CC
+856	TOK	it		it\RPS3N6
+857	TOK	warns		warn\VMFDRS3
+858	TOK	that		that\AD---S
+---	DLE	"		=\DELIM
+859	TOK	we		we\RPP1NN
+860	TOK	are		be\V6FDR66
+861	TOK	confronting		confront\VMG----
+862	TOK	a		a\AI---S
+863	TOK	persistent		persistent\JA
+---	DLD	,		=\DELIM
+864	TOK	global		global\JA
+865	TOK	pollution		pollution\N5S
+866	TOK	burden		burden\N5S
+867	TOK	that		that\RW63N6
+868	TOK	results		result\VMFDRS3
+869	TOK	in		in\P
+870	TOK	an		an\AI---S
+871	TOK	universal		universal\JA
+872	TOK	exposure		exposure\N5S
+873	TOK	on		on\P
+874	TOK	a		a\AI---S
+875	TOK	multigenerational		multigenerational\JA
+876	TOK	time		time\N5S
+877	TOK	scale		scale\N5S
+---	DLD	"		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+878	TOK	According to	BOS	According_to\P
+##	TAG	</loc>
+##	TAG	<name>
+879	TOK	Greenpeace		Greenpeace\N46
+##	TAG	</name>
+880	TOK	the		the\AT---6
+881	TOK	current		current\JA
+882	TOK	risk		risk\N5S
+883	TOK	assessment		assessment\N5S
+884	TOK	procedures		procedure\N5P
+885	TOK	and		and\CC
+886	TOK	predictions		prediction\N5P
+887	TOK	of		of\P
+888	TOK	safe		safe\JA
+889	TOK	pollution		pollution\N5S
+890	TOK	levels		level\N5P
+891	TOK	are		be\V6FDR66
+892	TOK	at		at\P
+893	TOK	the		the\AT---6
+894	TOK	route		route\N5S
+895	TOK	of		of\P
+896	TOK	the		the\AT---6
+897	TOK	chlorine		chlorine\N5S
+898	TOK	problem		problem\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+899	TOK	Greenpeace	BOS	Greenpeace\N46
+##	TAG	</name>
+900	TOK	has		have\V6FDRS3
+901	TOK	been		be\VMC----
+902	TOK	playing		play\VMG----
+903	TOK	a		a\AI---S
+904	TOK	particularly		particularly\DGA7
+905	TOK	active		active\JA
+906	TOK	role		role\N5S
+907	TOK	in		in\P
+908	TOK	the		the\AT---6
+##	TAG	<name>
+909	TOK	US		US\N46
+##	TAG	</name>
+910	TOK	debate		debate\N5S
+911	TOK	on		on\P
+912	TOK	chlorine		chlorine\N5S
+---	DLD	,		=\DELIM
+913	TOK	where		where\CS
+914	TOK	it		it\RPS3N6
+915	TOK	has		have\V6FDRS3
+916	TOK	questioned		question\VMC----
+917	TOK	the		the\AT---6
+918	TOK	effectiveness		effectiveness\N5S
+919	TOK	of		of\P
+920	TOK	applied		apply\VMC----
+921	TOK	policies		policy\N5P
+922	TOK	and		and\CC
+923	TOK	instruments		instrument\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+924	TOK	It	BOS	it\RPS3N6
+925	TOK	claims		claim\VMFDRS3
+926	TOK	that		that\CS
+927	TOK	the		the\AT---6
+928	TOK	discharges		discharge\N5P
+929	TOK	currently		currently\DGA7
+930	TOK	perceived		perceive\VMC----
+931	TOK	as		as\P
+932	TOK	acceptable		acceptable\JA
+---	DLD	,		=\DELIM
+933	TOK	slowly		slowly\DGA7
+934	TOK	build		build\VMF6R66
+935	TOK	up		up\P
+936	TOK	until		until\CS
+937	TOK	they		they\RPP3NN
+938	TOK	reach		reach\VMF6R66
+939	TOK	unacceptable		unacceptable\JA
+940	TOK	levels		level\N5P
+---	DLD	,		=\DELIM
+941	TOK	and		and\CC
+942	TOK	that		that\CS
+943	TOK	the		the\AT---6
+944	TOK	capacity		capacity\N5S
+945	TOK	of		of\P
+946	TOK	the		the\AT---6
+947	TOK	ecosystem		ecosystem\N5S
+948	TOK	to		to\P
+949	TOK	assimilate		assimilate\VMI----
+950	TOK	even		even\DGA7
+951	TOK	very		very\JA
+952	TOK	low		low\JA
+953	TOK	dosages		dosage\N5P
+954	TOK	of		of\P
+955	TOK	pollutants		pollutant\N5P
+956	TOK	that		that\RW63N6
+957	TOK	are		be\V6FDR66
+958	TOK	either		either\DGA7
+959	TOK	persistent		persistent\JA
+960	TOK	in		in\P
+961	TOK	the		the\AT---6
+962	TOK	environment		environment\N5S
+963	TOK	or		or\CC
+964	TOK	toxic		toxic\JA
+---	DLD	,		=\DELIM
+965	TOK	or		or\CC
+966	TOK	both		both\RIP3N-
+---	DLD	,		=\DELIM
+967	TOK	is		be\V6FDRS3
+968	TOK	essentially		essentially\DGA7
+##	TAG	<num>
+969	TOK	zero		zero\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+970	TOK	On	BOS	on\P
+971	TOK	that		that\AD---S
+972	TOK	basis		basis\N5S
+---	DLD	,		=\DELIM
+973	TOK	the		the\AT---6
+974	TOK	current		current\JA
+975	TOK	risk		risk\N5S
+976	TOK	assessment		assessment\N5S
+977	TOK	procedures		procedure\N5P
+978	TOK	and		and\CC
+979	TOK	predictions		prediction\N5P
+980	TOK	of		of\P
+981	TOK	safe		safe\JA
+982	TOK	pollution		pollution\N5S
+983	TOK	levels		level\N5P
+984	TOK	based		base\VMC----
+985	TOK	on		on\P
+---	DLE	"		=\DELIM
+986	TOK	good		good\JA
+987	TOK	science		science\N5S
+---	DLD	"		=\DELIM
+---	DLD	,		=\DELIM
+988	TOK	which		which\RW63N-
+989	TOK	allow		allow\VMF6R66
+990	TOK	organochlorines		organochlorine\N5P
+991	TOK	to		to\P
+992	TOK	be		be\VMI----
+993	TOK	regulated		regulate\VMC----
+994	TOK	individually		individually\DGA7
+995	TOK	are		be\V6FDR66
+996	TOK	considered		consider\VMC----
+997	TOK	to		to\P
+998	TOK	be		be\VMI----
+999	TOK	inadequate		inadequate\JA
+1000	TOK	and		and\CC
+1001	TOK	are		be\V6FDR66
+1002	TOK	at		at\P
+1003	TOK	the		the\AT---6
+1004	TOK	heart		heart\N5S
+1005	TOK	of		of\P
+1006	TOK	the		the\AT---6
+1007	TOK	chlorine		chlorine\N5S
+1008	TOK	problem		problem\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1009	TOK	Greenpeace	BOS	Greenpeace\N46
+##	TAG	</name>
+1010	TOK	therefore		therefore\DGA7
+1011	TOK	recommends		recommend\VMFDRS3
+1012	TOK	a		a\AI---S
+1013	TOK	re		re\P
+---	DLI	-		=\DELIM
+1014	TOK	examination		examination\N5S
+1015	TOK	of		of\P
+1016	TOK	each		each\AG---S
+1017	TOK	use		use\N5S
+1018	TOK	of		of\P
+1019	TOK	chlorine		chlorine\N5S
+---	DLD	,		=\DELIM
+1020	TOK	not		not\DGA7
+1021	TOK	on		on\P
+1022	TOK	an		an\AI---S
+1023	TOK	individual		individual\JA
+1024	TOK	basis		basis\N5S
+1025	TOK	but		but\CC
+1026	TOK	within		within\P
+1027	TOK	a		a\AI---S
+1028	TOK	framework		framework\N5S
+1029	TOK	of		of\P
+1030	TOK	a		a\AI---S
+1031	TOK	systematic		systematic\JA
+1032	TOK	phaseout		phaseout\N5S
+1033	TOK	strategy		strategy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1034	TOK	After	BOS	after\P
+1035	TOK	being		be\VMG----
+1036	TOK	directly		directly\DGA7
+1037	TOK	attacked		attack\VMF6A66
+1038	TOK	on		on\P
+1039	TOK	its		its\APS3N6
+1040	TOK	risk		risk\N5S
+1041	TOK	assessment		assessment\N5S
+1042	TOK	practices		practice\N5P
+---	DLD	,		=\DELIM
+1043	TOK	the		the\AT---6
+##	TAG	<name>
+1044	TOK	US EPA		US_EPA\N46
+##	TAG	</name>
+1045	TOK	announced		announce\VMF6A66
+---	DLD	,		=\DELIM
+1046	TOK	in		in\P
+1047	TOK	early		early\DGA7
+##	TAG	<num>
+1048	TOK	1994		1994\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1049	TOK	its		its\APS3N6
+1050	TOK	intention		intention\N5S
+1051	TOK	to		to\P
+1052	TOK	develop		develop\VMI----
+1053	TOK	a		a\AI---S
+1054	TOK	national		national\JA
+1055	TOK	strategy		strategy\N5S
+1056	TOK	for		for\P
+1057	TOK	substituting		substitute\VMG----
+---	DLD	,		=\DELIM
+1058	TOK	reducing		reduce\VMG----
+1059	TOK	or		or\CC
+1060	TOK	prohibiting		prohibit\VMG----
+1061	TOK	the		the\AT---6
+1062	TOK	use		use\N5S
+1063	TOK	of		of\P
+1064	TOK	chlorine		chlorine\N5S
+1065	TOK	and		and\CC
+1066	TOK	chlorinated		chlorinate\VMC----
+1067	TOK	compounds		compound\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1068	TOK	Related	BOS	relate\VMC----
+1069	TOK	actions		action\N5P
+1070	TOK	have		have\V6F6R66
+1071	TOK	been		be\VMC----
+1072	TOK	carried		carry\VMC----
+1073	TOK	out		out\DGA7
+1074	TOK	by		by\P
+1075	TOK	the		the\AT---6
+##	TAG	<name>
+1076	TOK	International Joint Commission		International_Joint_Commission\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1077	TOK	IJC		IJC\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+1078	TOK	an		an\AI---S
+1079	TOK	environmental		environmental\JA
+---	DLI	-		=\DELIM
+1080	TOK	policy		policy\N5S
+1081	TOK	group		group\N5S
+1082	TOK	organised		organise\VMC----
+1083	TOK	by		by\P
+1084	TOK	the		the\AT---6
+##	TAG	<name>
+1085	TOK	US		US\N46
+##	TAG	</name>
+1086	TOK	and		and\CC
+##	TAG	<loc pos="JA">
+1087	TOK	Canadian		canadian\JA
+##	TAG	</loc>
+1088	TOK	governments		government\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1089	TOK	The	BOS	the\AT---6
+##	TAG	<name pos="N46" expansion="international joint commission">
+1090	TOK	IJC		IJC\N46
+##	TAG	</name>
+1091	TOK	focuses		focus\VMFDRS3
+1092	TOK	on		on\P
+1093	TOK	water		water\N5S
+1094	TOK	pollution		pollution\N5S
+1095	TOK	in		in\P
+1096	TOK	the		the\AT---6
+##	TAG	<name>
+1097	TOK	Great Lakes		Great_Lakes\N46
+##	TAG	</name>
+1098	TOK	region		region\N5S
+---	DLD	,		=\DELIM
+1099	TOK	which		which\RW63N-
+1100	TOK	is		be\V6FDRS3
+1101	TOK	associated		associate\VMC----
+1102	TOK	to		to\P
+1103	TOK	discharges		discharge\N5P
+1104	TOK	of		of\P
+1105	TOK	chlorinated		chlorinate\VMC----
+1106	TOK	substances		substance\N5P
+1107	TOK	from		from\P
+1108	TOK	the		the\AT---6
+1109	TOK	pulp		pulp\N5S
+1110	TOK	and		and\CC
+1111	TOK	paper		paper\N5S
+1112	TOK	industry		industry\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1113	TOK	In	BOS	in\P
+##	TAG	<name>
+1114	TOK	Europe		Europe\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1115	TOK	the		the\AT---6
+##	TAG	<name>
+1116	TOK	Oslo		Oslo\N46
+##	TAG	</name>
+1117	TOK	and		and\CC
+##	TAG	<name>
+1118	TOK	Paris Convention		Paris_Convention\N46
+##	TAG	</name>
+1119	TOK	adopted		adopt\VMF6A66
+1120	TOK	a		a\AI---S
+1121	TOK	legally		legally\DGA7
+1122	TOK	binding		binding\JA
+1123	TOK	agreement		agreement\N5S
+1124	TOK	in		in\P
+##	TAG	<num>
+1125	TOK	1992		1992\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1126	TOK	requesting		request\VMG----
+1127	TOK	the		the\AT---6
+1128	TOK	reduction		reduction\N5S
+1129	TOK	of		of\P
+1130	TOK	discharges		discharge\N5P
+1131	TOK	and		and\CC
+1132	TOK	emissions		emission\N5P
+1133	TOK	of		of\P
+1134	TOK	substances		substance\N5P
+1135	TOK	which		which\RW63N-
+1136	TOK	are		be\V6FDR66
+1137	TOK	toxic		toxic\JA
+---	DLD	,		=\DELIM
+1138	TOK	persistent		persistent\JA
+1139	TOK	and		and\CC
+1140	TOK	liable		liable\JA
+1141	TOK	to		to\P
+1142	TOK	bioaccumulate		bioaccumulate\VMI----
+---	DLD	,		=\DELIM
+1143	TOK	in		in\P
+1144	TOK	particular		particular\JA
+1145	TOK	organohalogen		organohalogen\JA
+1146	TOK	substances		substance\N5P
+---	DLD	,		=\DELIM
+1147	TOK	to		to\P
+1148	TOK	levels		level\N5P
+1149	TOK	that		that\RW63N6
+1150	TOK	are		be\V6FDR66
+1151	TOK	not		not\DGA7
+1152	TOK	harmful		harmful\JA
+1153	TOK	to		to\P
+1154	TOK	man		man\N5S
+1155	TOK	or		or\CC
+1156	TOK	nature		nature\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1157	TOK	A	BOS	a\AI---S
+1158	TOK	ministerial		ministerial\JA
+1159	TOK	declaration		declaration\N5S
+1160	TOK	set		set\VMC----
+1161	TOK	a		a\AI---S
+1162	TOK	reduction		reduction\N5S
+1163	TOK	target		target\N5S
+1164	TOK	for		for\P
+1165	TOK	the		the\AT---6
+1166	TOK	year		year\N5S
+##	TAG	<num>
+1167	TOK	2000		2000\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1168	TOK	In	BOS	in\P
+1169	TOK	this		this\AD---S
+1170	TOK	context		context\N5S
+---	DLD	,		=\DELIM
+1171	TOK	the		the\AT---6
+##	TAG	<name>
+1172	TOK	Third North Sea Conference		Third_North_Sea_Conference\N46
+##	TAG	</name>
+1173	TOK	in		in\P
+##	TAG	<num>
+1174	TOK	1990		1990\X
+##	TAG	</num>
+1175	TOK	agreed		agree\VMC----
+1176	TOK	that		that\CS
+1177	TOK	chlor		chlor\N5S
+---	DLI	-		=\DELIM
+1178	TOK	alkali		alkali\N5S
+1179	TOK	plants		plant\N5P
+1180	TOK	should		shall\VOFDA66
+1181	TOK	meet		meet\VMI----
+1182	TOK	low		low\JA
+1183	TOK	mercury		mercury\N5S
+1184	TOK	emission		emission\N5S
+1185	TOK	standards		standard\N5P
+1186	TOK	by		by\P
+1187	TOK	the		the\AT---6
+1188	TOK	end		end\N5S
+1189	TOK	of		of\P
+##	TAG	<num>
+1190	TOK	1996		1996\X
+##	TAG	</num>
+1191	TOK	and		and\CC
+1192	TOK	recommended		recommend\VMF6A66
+1193	TOK	a		a\AI---S
+1194	TOK	complete		complete\JA
+1195	TOK	phase		phase\N5S
+---	DLI	-		=\DELIM
+1196	TOK	out		out\DGA7
+1197	TOK	of		of\P
+1198	TOK	chlorine		chlorine\N5S
+---	DLI	-		=\DELIM
+1199	TOK	alkali		alkali\N5S
+1200	TOK	plants		plant\N5P
+1201	TOK	using		use\VMG----
+1202	TOK	mercury		mercury\N5S
+1203	TOK	cell		cell\N5S
+1204	TOK	technology		technology\N5S
+1205	TOK	by		by\P
+##	TAG	<num>
+1206	TOK	2010		2010\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1207	TOK	In	BOS	in\P
+1208	TOK	the		the\AT---6
+##	TAG	<name>
+1209	TOK	Fourth North Sea Conference		Fourth_North_Sea_Conference\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1210	TOK	held		hold\VMC----
+1211	TOK	in		in\P
+##	TAG	<date pos="T" ISO8601="1995-06-">
+1212	TOK	June 1995		June_1995\T
+##	TAG	</date>
+---	DLE	,		=\DELIM
+1213	TOK	the		the\AT---6
+##	TAG	<name>
+1214	TOK	Ministers		Ministers\N46
+##	TAG	</name>
+1215	TOK	re		re\P
+---	DLI	-		=\DELIM
+1216	TOK	confirmed		confirm\VMF6A66
+1217	TOK	the		the\AT---6
+1218	TOK	goals		goal\N5P
+1219	TOK	set		set\VMC----
+1220	TOK	in		in\P
+##	TAG	<num>
+1221	TOK	1992		1992\X
+##	TAG	</num>
+1222	TOK	for		for\P
+1223	TOK	the		the\AT---6
+1224	TOK	year		year\N5S
+##	TAG	<num>
+1225	TOK	2000		2000\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1226	TOK	Recent	BOS	recent\JA
+1227	TOK	amendments		amendment\N5P
+1228	TOK	to		to\P
+1229	TOK	the		the\AT---6
+---	DLE	"		=\DELIM
+##	TAG	<name>
+1230	TOK	Protocol		Protocol\N46
+##	TAG	</name>
+1231	TOK	for		for\P
+1232	TOK	the		the\AT---6
+##	TAG	<name>
+1233	TOK	Protection		Protection\N46
+##	TAG	</name>
+1234	TOK	of		of\P
+1235	TOK	the		the\AT---6
+##	TAG	<name>
+1236	TOK	Mediterranean Sea		Mediterranean_Sea\N46
+##	TAG	</name>
+1237	TOK	against		against\P
+##	TAG	<name>
+1238	TOK	Pollution		Pollution\N46
+##	TAG	</name>
+1239	TOK	from		from\P
+##	TAG	<name>
+1240	TOK	Land-based Sources		Land-based_Sources\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+---	DLD	,		=\DELIM
+1241	TOK	adopted		adopt\VMC----
+1242	TOK	by		by\P
+1243	TOK	the		the\AT---6
+##	TAG	<name>
+1244	TOK	Barcelona Convention		Barcelona_Convention\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1245	TOK	request		request\N5S
+1246	TOK	the		the\AT---6
+##	TAG	<name>
+1247	TOK	Contracting Parties		Contracting_Parties\N46
+##	TAG	</name>
+1248	TOK	to		to\P
+1249	TOK	eliminate		eliminate\VMI----
+---	DLD	,		=\DELIM
+1250	TOK	to		to\P
+1251	TOK	the		the\AT---6
+1252	TOK	fullest		full\JS
+1253	TOK	possible		possible\JA
+1254	TOK	extent		extent\N5S
+---	DLD	,		=\DELIM
+1255	TOK	inputs		input\N5P
+1256	TOK	of		of\P
+1257	TOK	substances		substance\N5P
+1258	TOK	that		that\RW63N6
+1259	TOK	are		be\V6FDR66
+1260	TOK	toxic		toxic\JA
+---	DLD	,		=\DELIM
+1261	TOK	persistent		persistent\JA
+1262	TOK	and		and\CC
+1263	TOK	liable		liable\JA
+1264	TOK	to		to\P
+1265	TOK	bioaccumulate		bioaccumulate\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1266	TOK	Priority	BOS	priority\N5S
+1267	TOK	is		be\V6FDRS3
+1268	TOK	given		give\VMC----
+1269	TOK	to		to\P
+1270	TOK	aldrin		aldrin\N5S
+---	DLD	,		=\DELIM
+1271	TOK	chlordane		chlordane\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1272	TOK	DDT		DDT\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1273	TOK	dieldrin		dieldrin\N5S
+---	DLD	,		=\DELIM
+1274	TOK	dioxins		dioxin\N5P
+1275	TOK	and		and\CC
+1276	TOK	furans		furan\N5P
+---	DLD	,		=\DELIM
+1277	TOK	endrin		endrin\N5S
+---	DLD	,		=\DELIM
+1278	TOK	heptachlor		heptachlor\N5S
+---	DLD	,		=\DELIM
+1279	TOK	hexachlorobenzene		hexachlorobenzene\N5S
+---	DLD	,		=\DELIM
+1280	TOK	mirex		mirex\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1281	TOK	PCBs		PCBs\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1282	TOK	and		and\CC
+1283	TOK	toxaprene		toxaprene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1284	TOK	Systematic	BOS	systematic\JA
+1285	TOK	discussion		discussion\N5S
+1286	TOK	of		of\P
+1287	TOK	the		the\AT---6
+1288	TOK	problems		problem\N5P
+1289	TOK	arising		arise\VMG----
+1290	TOK	from		from\P
+1291	TOK	the		the\AT---6
+1292	TOK	chlorine		chlorine\N5S
+1293	TOK	industry		industry\N5S
+1294	TOK	in		in\P
+##	TAG	<name>
+1295	TOK	Germany		Germany\N46
+##	TAG	</name>
+1296	TOK	has		have\V6FDRS3
+1297	TOK	been		be\VMC----
+1298	TOK	carried		carry\VMC----
+1299	TOK	out		out\DGA7
+1300	TOK	by		by\P
+1301	TOK	the		the\AT---6
+##	TAG	<name>
+1302	TOK	Enquete Commission		Enquete_Commission\N46
+##	TAG	</name>
+1303	TOK	of		of\P
+1304	TOK	the		the\AT---6
+##	TAG	<name>
+1305	TOK	German Bundestag		German_Bundestag\N46
+##	TAG	</name>
+1306	TOK	on		on\P
+1307	TOK	the		the\AT---6
+---	DLE	"		=\DELIM
+##	TAG	<name>
+1308	TOK	Protection of Humanity		Protection_of_Humanity\N46
+##	TAG	</name>
+1309	TOK	and		and\CC
+1310	TOK	the		the\AT---6
+##	TAG	<name>
+1311	TOK	Environment		Environment\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1313	TOK	The	BOS	the\AT---6
+1314	TOK	chlorine		chlorine\N5S
+1315	TOK	industry		industry\N5S
+1316	TOK	was		be\V6F-A66
+1317	TOK	selected		select\VMC----
+1318	TOK	not		not\DGA7
+1319	TOK	only		only\DGA7
+1320	TOK	because		because\CS
+1321	TOK	it		it\RPS3N6
+1322	TOK	is		be\V6FDRS3
+1323	TOK	a		a\AI---S
+1324	TOK	key		key\N5S
+1325	TOK	sector		sector\N5S
+1326	TOK	but		but\CC
+1327	TOK	also		also\DGA7
+1328	TOK	because		because\CS
+1329	TOK	the		the\AT---6
+##	TAG	<name>
+1330	TOK	Enquete Commission		Enquete_Commission\N46
+##	TAG	</name>
+1331	TOK	deliberately		deliberately\DGA7
+1332	TOK	wanted		want\VMF6A66
+1333	TOK	to		to\P
+1334	TOK	tackle		tackle\VMI----
+1335	TOK	a		a\AI---S
+1336	TOK	topic		topic\N5S
+1337	TOK	which		which\RW63N-
+1338	TOK	has		have\V6FDRS3
+1339	TOK	been		be\VMC----
+1340	TOK	the		the\AT---6
+1341	TOK	subject		subject\N5S
+1342	TOK	of		of\P
+1343	TOK	a		a\AI---S
+1344	TOK	controversial		controversial\JA
+1345	TOK	debate		debate\N5S
+1346	TOK	for		for\P
+1347	TOK	many		many\AI---P
+1348	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1349	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1350	TOK	Commission		Commission\N46
+##	TAG	</name>
+1351	TOK	identified		identify\VMF6A66
+1352	TOK	a		a\AI---S
+1353	TOK	fundamental		fundamental\JA
+1354	TOK	need		need\N5S
+1355	TOK	to		to\P
+1356	TOK	keep		keep\VMI----
+1357	TOK	the		the\AT---6
+1358	TOK	chlorine		chlorine\N5S
+1359	TOK	flows		flow\N5P
+1360	TOK	within		within\P
+1361	TOK	closed		close\VMC----
+1362	TOK	integrated		integrate\VMC----
+1363	TOK	production		production\N5S
+1364	TOK	and		and\CC
+1365	TOK	application		application\N5S
+1366	TOK	systems		system\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+1367	TOK	In	BOS	in\P
+1368	TOK	the		the\AT---6
+1369	TOK	case		case\N5S
+1370	TOK	of		of\P
+##	TAG	<name>
+1371	TOK	Polyvinyl Chloride		Polyvinyl_Chloride\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1372	TOK	PVC		PVC\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1373	TOK	the		the\AT---6
+1374	TOK	members		member\N5P
+1375	TOK	of		of\P
+1376	TOK	the		the\AT---6
+##	TAG	<name>
+1377	TOK	Commission		Commission\N46
+##	TAG	</name>
+1378	TOK	did		do\V6FDA66
+1379	TOK	not		not\DGA7
+1380	TOK	agree		agree\VMI----
+1381	TOK	on		on\P
+1382	TOK	all		all\AG---6
+1383	TOK	points		point\N5P
+1384	TOK	of		of\P
+1385	TOK	the		the\AT---6
+1386	TOK	available		available\JA
+##	TAG	<loc pos="JA">
+1387	TOK	German		german\JA
+##	TAG	</loc>
+1388	TOK	disposal		disposal\N5S
+1389	TOK	strategies		strategy\N5P
+---	DLD	;	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+1390	TOK	In	BOS	in\P
+1391	TOK	the		the\AT---6
+1392	TOK	case		case\N5S
+1393	TOK	of		of\P
+1394	TOK	chlorinated		chlorinate\VMC----
+1395	TOK	hydrocarbon		hydrocarbon\N5S
+1396	TOK	solvents		solvent\N5P
+1397	TOK	the		the\AT---6
+##	TAG	<name>
+1398	TOK	Commission		Commission\N46
+##	TAG	</name>
+1399	TOK	recommended		recommend\VMF6A66
+1400	TOK	their		their\APP3N6
+1401	TOK	use		use\N5S
+1402	TOK	should		shall\VOFDA66
+1403	TOK	be		be\VMI----
+1404	TOK	minimised		minimise\VMC----
+1405	TOK	by		by\P
+1406	TOK	ensuring		ensure\VMG----
+1407	TOK	leak		leak\N5S
+---	DLI	-		=\DELIM
+1408	TOK	free		free\JA
+1409	TOK	processing		processing\N5S
+1410	TOK	cycles		cycle\N5P
+1411	TOK	or		or\CC
+1412	TOK	by		by\P
+1413	TOK	means		mean\N56
+1414	TOK	of		of\P
+1415	TOK	substitution		substitution\N5S
+---	DLD	;	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+1416	TOK	In	BOS	in\P
+1417	TOK	the		the\AT---6
+1418	TOK	case		case\N5S
+1419	TOK	of		of\P
+##	TAG	<name>
+1420	TOK	Propylene Oxide		Propylene_Oxide\N46
+##	TAG	</name>
+1421	TOK	produced		produce\VMC----
+1422	TOK	exclusively		exclusively\DGA7
+1423	TOK	by		by\P
+1424	TOK	the		the\AT---6
+1425	TOK	chlorohydrin		chlorohydrin\N5S
+1426	TOK	process		process\N5S
+1427	TOK	in		in\P
+##	TAG	<name>
+1428	TOK	Germany		Germany\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1429	TOK	the		the\AT---6
+##	TAG	<name>
+1430	TOK	Commission		Commission\N46
+##	TAG	</name>
+1431	TOK	suggested		suggest\VMF6A66
+1432	TOK	the		the\AT---6
+1433	TOK	examination		examination\N5S
+1434	TOK	of		of\P
+1435	TOK	the		the\AT---6
+1436	TOK	oxiran		oxiran\N5S
+1437	TOK	process		process\VMF6R66
+---	DLD	,		=\DELIM
+1438	TOK	an		an\AI---S
+1439	TOK	alternative		alternative\JA
+1440	TOK	chlorine		chlorine\N5S
+---	DLI	-		=\DELIM
+1441	TOK	free		free\JA
+1442	TOK	production		production\N5S
+1443	TOK	route		route\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+1444	TOK	As	BOS	as\P
+1445	TOK	a		a\AI---S
+1446	TOK	general		general\JA
+1447	TOK	interim		interim\N5S
+1448	TOK	conclusion		conclusion\N5S
+1449	TOK	the		the\AT---6
+##	TAG	<name>
+1450	TOK	Commission		Commission\N46
+##	TAG	</name>
+1451	TOK	expressed		express\VMF6A66
+1452	TOK	its		its\APS3N6
+1453	TOK	unanimous		unanimous\JA
+1454	TOK	support		support\N5S
+1455	TOK	to		to\P
+1456	TOK	a		a\AI---S
+---	DLE	"		=\DELIM
+1457	TOK	partial		partial\JA
+1458	TOK	conversion		conversion\N5S
+---	DLD	"		=\DELIM
+1459	TOK	of		of\P
+1460	TOK	chlorine		chlorine\N5S
+1461	TOK	chemistry		chemistry\N5S
+1462	TOK	by		by\P
+1463	TOK	using		use\VMG----
+1464	TOK	alternative		alternative\JA
+1465	TOK	technologies		technology\N5P
+1466	TOK	or		or\CC
+1467	TOK	substances		substance\N5P
+---	DLD	,		=\DELIM
+1468	TOK	where		where\CS
+1469	TOK	this		this\RDS3N-
+1470	TOK	is		be\V6FDRS3
+1471	TOK	ecologically		ecologically\DGA7
+1472	TOK	necessary		necessary\JA
+1473	TOK	and		and\CC
+1474	TOK	economically		economically\DGA7
+1475	TOK	and		and\CC
+1476	TOK	socially		socially\DGA7
+1477	TOK	acceptable		acceptable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1478	TOK	About	BOS	about\P
+##	TAG	<na type="function">
+1479	TOK	29% of		noanat\W
+##	TAG	</na>
+1480	TOK	chlorine		chlorine\N5S
+1481	TOK	use		use\N5S
+1482	TOK	can		can\VOFDR66
+1483	TOK	be		be\VMI----
+1484	TOK	eliminated		eliminate\VMC----
+1485	TOK	in		in\P
+##	TAG	<name>
+1486	TOK	Germany		Germany\N46
+##	TAG	</name>
+1487	TOK	by		by\P
+1488	TOK	switching		switch\VMG----
+1489	TOK	to		to\P
+1490	TOK	the		the\AT---6
+1491	TOK	oxiran		oxiran\N5S
+1492	TOK	process		process\N5S
+1493	TOK	for		for\P
+1494	TOK	producing		produce\VMG----
+1495	TOK	propylene		propylene\N5S
+1496	TOK	oxide		oxide\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="P">
+1497	TOK	according to		according_to\P
+##	TAG	</loc>
+1498	TOK	the		the\AT---6
+##	TAG	<name>
+1499	TOK	Prognos		Prognos\N46
+##	TAG	</name>
+1500	TOK	study		study\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1501	TOK	In	BOS	in\P
+1502	TOK	parallel		parallel\N5S
+1503	TOK	to		to\P
+1504	TOK	the		the\AT---6
+1505	TOK	work		work\N5S
+1506	TOK	of		of\P
+1507	TOK	the		the\AT---6
+##	TAG	<name>
+1508	TOK	Enquete Commission		Enquete_Commission\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1509	TOK	a		a\AI---S
+1510	TOK	more		more\DDC7
+1511	TOK	detailed		detail\VMC----
+1512	TOK	study		study\N5S
+1513	TOK	has		have\V6FDRS3
+1514	TOK	been		be\VMC----
+1515	TOK	undertaken		undertake\VMC----
+1516	TOK	in		in\P
+##	TAG	<name>
+1517	TOK	Germany		Germany\N46
+##	TAG	</name>
+1518	TOK	by		by\P
+##	TAG	<name>
+1519	TOK	Prognos		Prognos\N46
+##	TAG	</name>
+1520	TOK	on		on\P
+1521	TOK	behalf		behalf\N5S
+1522	TOK	of		of\P
+1523	TOK	the		the\AT---6
+##	TAG	<name>
+1524	TOK	BMFT		BMFT\N46
+##	TAG	</name>
+1525	TOK	and		and\CC
+1526	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+1527	TOK	Ministry of Environment		Ministry_of_Environment\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1528	TOK	Energy		Energy\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1529	TOK	and		and\CC
+##	TAG	<name>
+1530	TOK	Federal Affairs		Federal_Affairs\N46
+##	TAG	</name>
+1531	TOK	of		of\P
+1532	TOK	the		the\AT---6
+##	TAG	<name>
+1533	TOK	Land Hessen		Land_Hessen\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1534	TOK	Based	BOS	base\VMC----
+1535	TOK	on		on\P
+1536	TOK	previous		previous\JA
+1537	TOK	results		result\N5P
+---	DLD	,		=\DELIM
+1538	TOK	this		this\AD---S
+1539	TOK	study		study\N5S
+1540	TOK	concludes		conclude\VMFDRS3
+1541	TOK	that		that\CS
+1542	TOK	around		around\DGA7
+##	TAG	<na type="function">
+1543	TOK	50% of		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1544	TOK	PVC		PVC\N46
+##	TAG	</name>
+1545	TOK	currently		currently\DGA7
+1546	TOK	used		use\VMC----
+1547	TOK	can		can\VOFDR66
+1548	TOK	be		be\VMI----
+1549	TOK	substituted		substitute\VMC----
+1550	TOK	with		with\P
+1551	TOK	no		no\AI---6
+1552	TOK	cost		cost\N5S
+1553	TOK	increase		increase\VMF6R66
+---	DLD	,		=\DELIM
+1554	TOK	and		and\CC
+1555	TOK	about		about\P
+##	TAG	<num>
+1556	TOK	70		70\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+1557	TOK	with		with\P
+1558	TOK	a		a\AI---S
+1559	TOK	very		very\JA
+1560	TOK	moderate		moderate\JA
+1561	TOK	cost		cost\N5S
+1562	TOK	increase		increase\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1563	TOK	Concerning	BOS	concerning\P
+1564	TOK	the		the\AT---6
+1565	TOK	use		use\N5S
+1566	TOK	of		of\P
+1567	TOK	chlorine		chlorine\N5S
+1568	TOK	in		in\P
+1569	TOK	the		the\AT---6
+1570	TOK	production		production\N5S
+1571	TOK	of		of\P
+1572	TOK	propylene		propylene\N5S
+1573	TOK	oxide		oxide\N5S
+---	DLD	,		=\DELIM
+1574	TOK	the		the\AT---6
+1575	TOK	study		study\N5S
+1576	TOK	suggests		suggest\VMFDRS3
+1577	TOK	that		that\CS
+1578	TOK	the		the\AT---6
+1579	TOK	alternative		alternative\JA
+1580	TOK	oxiran		oxiran\N5S
+1581	TOK	process		process\N5S
+1582	TOK	is		be\V6FDRS3
+1583	TOK	both		both\RIP3N-
+1584	TOK	economically		economically\DGA7
+1585	TOK	viable		viable\JA
+1586	TOK	and		and\CC
+1587	TOK	ecologically		ecologically\DGA7
+1588	TOK	advantageous		advantageous\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1589	TOK	On	BOS	on\P
+1590	TOK	the		the\AT---6
+1591	TOK	basis		basis\N5S
+1592	TOK	of		of\P
+1593	TOK	this		this\AD---S
+1594	TOK	substitution		substitution\N5S
+1595	TOK	alone		alone\DGA7
+---	DLD	,		=\DELIM
+1596	TOK	the		the\AT---6
+##	TAG	<name>
+1597	TOK	Prognos		Prognos\N46
+##	TAG	</name>
+1598	TOK	study		study\N5S
+1599	TOK	estimates		estimate\N5P
+1600	TOK	that		that\CS
+##	TAG	<na type="function">
+1601	TOK	29% of		noanat\W
+##	TAG	</na>
+1602	TOK	chorine		chorine\N5S
+1603	TOK	use		use\N5S
+1604	TOK	can		can\VOFDR66
+1605	TOK	be		be\VMI----
+1606	TOK	eliminated		eliminate\VMC----
+1607	TOK	in		in\P
+##	TAG	<name>
+1608	TOK	Germany		Germany\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1609	TOK	In	BOS	in\P
+1610	TOK	the		the\AT---6
+1611	TOK	case		case\N5S
+1612	TOK	of		of\P
+1613	TOK	the		the\AT---6
+1614	TOK	chlorine		chlorine\N5S
+1615	TOK	involvement		involvement\N5S
+1616	TOK	in		in\P
+1617	TOK	the		the\AT---6
+1618	TOK	phosgene		phosgene\N5S
+1619	TOK	and		and\CC
+1620	TOK	polycarbonate		polycarbonate\N5S
+1621	TOK	chemistry		chemistry\N5S
+---	DLD	,		=\DELIM
+1622	TOK	the		the\AT---6
+1623	TOK	study		study\N5S
+1624	TOK	identified		identify\VMC----
+1625	TOK	limited		limit\VMC----
+1626	TOK	substitution		substitution\N5S
+1627	TOK	opportunities		opportunity\N5P
+1628	TOK	which		which\RW63N-
+1629	TOK	could		can\VOFDA66
+1630	TOK	lead		lead\VMI----
+1631	TOK	to		to\P
+1632	TOK	about		about\DGA7
+##	TAG	<num>
+1633	TOK	20		20\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+1634	TOK	elimination		elimination\N5S
+1635	TOK	of		of\P
+1636	TOK	the		the\AT---6
+1637	TOK	chlorine		chlorine\N5S
+1638	TOK	use		use\N5S
+1639	TOK	in		in\P
+1640	TOK	this		this\AD---S
+1641	TOK	area		area\N5S
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+1642	TOK	14% of		noanat\W
+##	TAG	</na>
+1643	TOK	total		total\JA
+1644	TOK	chlorine		chlorine\N5S
+1645	TOK	use		use\VMF6R66
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1646	TOK	Finally	BOS	finally\DGA7
+---	DLD	,		=\DELIM
+1647	TOK	concerning		concerning\P
+1648	TOK	the		the\AT---6
+1649	TOK	epoxy		epoxy\N5S
+1650	TOK	resins		resin\N5P
+---	DLD	,		=\DELIM
+1651	TOK	it		it\RPS3N6
+1652	TOK	concludes		conclude\VMFDRS3
+1653	TOK	that		that\CS
+##	TAG	<na type="function">
+1654	TOK	60% of		noanat\W
+##	TAG	</na>
+1655	TOK	the		the\AT---6
+1656	TOK	chlorine		chlorine\N5S
+1657	TOK	use		use\N5S
+1658	TOK	can		can\VOFDR66
+1659	TOK	be		be\VMI----
+1660	TOK	eliminated		eliminate\VMC----
+1661	TOK	by		by\P
+1662	TOK	switching		switch\VMG----
+1663	TOK	to		to\P
+1664	TOK	an		an\AI---S
+1665	TOK	alternative		alternative\JA
+1666	TOK	low		low\JA
+1667	TOK	chlorine		chlorine\N5S
+1668	TOK	process		process\N5S
+1669	TOK	for		for\P
+1670	TOK	the		the\AT---6
+1671	TOK	production		production\N5S
+1672	TOK	of		of\P
+1673	TOK	epichlorhydrine		epichlorhydrine\N5S
+1674	TOK	and		and\CC
+1675	TOK	through		through\P
+1676	TOK	substitution		substitution\N5S
+1677	TOK	of		of\P
+1678	TOK	some		some\AG---6
+1679	TOK	of		of\P
+1680	TOK	the		the\AT---6
+1681	TOK	resins		resin\N5P
+1682	TOK	through		through\P
+1683	TOK	chlorine		chlorine\N5S
+1684	TOK	free		free\JA
+1685	TOK	materials		material\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1686	TOK	In	BOS	in\P
+1687	TOK	total		total\JA
+---	DLD	,		=\DELIM
+1688	TOK	the		the\AT---6
+1689	TOK	study		study\N5S
+1690	TOK	claims		claim\VMFDRS3
+1691	TOK	that		that\CS
+##	TAG	<na type="function">
+1692	TOK	50% of		noanat\W
+##	TAG	</na>
+1693	TOK	chlorine		chlorine\N5S
+1694	TOK	use		use\N5S
+1695	TOK	could		can\VOFDA66
+1696	TOK	be		be\VMI----
+1697	TOK	eliminated		eliminate\VMC----
+1698	TOK	over		over\P
+##	TAG	<na type="function">
+1699	TOK	15-20		noanat\W
+##	TAG	</na>
+1700	TOK	years		year\N5P
+1701	TOK	at		at\P
+1702	TOK	a		a\AI---S
+1703	TOK	net		net\N5S
+1704	TOK	cost		cost\N5S
+1705	TOK	increase		increase\N5S
+1706	TOK	of		of\P
+1707	TOK	only		only\DGA7
+##	TAG	<num>
+1708	TOK	1		1\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1709	TOK	In	BOS	in\P
+1710	TOK	the		the\AT---6
+##	TAG	<name>
+1711	TOK	Netherlands		Netherlands\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1712	TOK	a		a\AI---S
+1713	TOK	detailed		detail\VMC----
+1714	TOK	study		study\N5S
+1715	TOK	recommended		recommend\VMF6A66
+1716	TOK	actions		action\N5P
+1717	TOK	relating		relate\VMG----
+1718	TOK	only		only\DGA7
+1719	TOK	to		to\P
+1720	TOK	specific		specific\JA
+1721	TOK	chlorinated		chlorinate\VMC----
+1722	TOK	compounds		compound\N5P
+##	TAG	<gap length=3>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1724	TOK	Another	BOS	another\JA
+1725	TOK	important		important\JA
+1726	TOK	study		study\N5S
+1727	TOK	has		have\V6FDRS3
+1728	TOK	been		be\VMC----
+1729	TOK	carried		carry\VMC----
+1730	TOK	out		out\DGA7
+1731	TOK	recently		recently\DGA7
+1732	TOK	by		by\P
+##	TAG	<name>
+1733	TOK	TNO		TNO\N46
+##	TAG	</name>
+1734	TOK	and		and\CC
+##	TAG	<num>
+1735	TOK	CML		CML\X
+##	TAG	</num>
+1736	TOK	in		in\P
+1737	TOK	the		the\AT---6
+##	TAG	<name>
+1738	TOK	Netherlands		Netherlands\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1739	TOK	The	BOS	the\AT---6
+1740	TOK	study		study\N5S
+1741	TOK	was		be\V6F-A66
+1742	TOK	set		set\VMC----
+1743	TOK	up		up\P
+1744	TOK	as		as\P
+1745	TOK	a		a\AI---S
+1746	TOK	substance		substance\N5S
+1747	TOK	flow		flow\N5S
+1748	TOK	analysis		analysis\N5S
+---	DLD	,		=\DELIM
+1749	TOK	covering		cover\VMG----
+1750	TOK	about		about\P
+##	TAG	<na type="function">
+1751	TOK	99% of		noanat\W
+##	TAG	</na>
+1752	TOK	the		the\AT---6
+1753	TOK	flows		flow\N5P
+1754	TOK	of		of\P
+1755	TOK	chlorinated		chlorinate\VMC----
+1756	TOK	substances		substance\N5P
+1757	TOK	in		in\P
+1758	TOK	the		the\AT---6
+##	TAG	<name>
+1759	TOK	Netherlands		Netherlands\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1760	TOK	It	BOS	it\RPS3N6
+1761	TOK	involved		involve\VMF6A66
+1762	TOK	the		the\AT---6
+1763	TOK	compilation		compilation\N5S
+1764	TOK	of		of\P
+1765	TOK	an		an\AI---S
+1766	TOK	inventory		inventory\N5S
+1767	TOK	of		of\P
+1768	TOK	all		all\AG---6
+1769	TOK	emissions		emission\N5P
+---	DLD	,		=\DELIM
+1770	TOK	waste		waste\N5S
+1771	TOK	generation		generation\N5S
+---	DLD	,		=\DELIM
+1772	TOK	exports		export\N5P
+---	DLD	,		=\DELIM
+1773	TOK	imports		import\N5P
+1774	TOK	and		and\CC
+1775	TOK	economical		economical\JA
+1776	TOK	transactions		transaction\N5P
+1777	TOK	and		and\CC
+1778	TOK	an		an\AI---S
+1779	TOK	assessment		assessment\N5S
+1780	TOK	of		of\P
+1781	TOK	their		their\APP3N6
+1782	TOK	environmental		environmental\JA
+1783	TOK	impact		impact\N5S
+1784	TOK	using		use\VMG----
+1785	TOK	data		data\N56
+1786	TOK	sources		source\N5P
+1787	TOK	such		such\RIS3N-
+1788	TOK	as		as\P
+1789	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+1790	TOK	Dutch		dutch\JA
+##	TAG	</loc>
+1791	TOK	emission		emission\N5S
+1792	TOK	registration		registration\N5S
+1793	TOK	database		database\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1794	TOK	LCA		LCA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1795	TOK	databases		database\N5P
+---	DLD	,		=\DELIM
+1796	TOK	industrial		industrial\JA
+1797	TOK	data		data\N56
+1798	TOK	etc		etc\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1799	TOK	The	BOS	the\AT---6
+1800	TOK	study		study\N5S
+1801	TOK	concludes		conclude\VMFDRS3
+1802	TOK	that		that\AD---S
+---	DLD	,		=\DELIM
+1803	TOK	based		base\VMC----
+1804	TOK	on		on\P
+1805	TOK	present		present\JA
+1806	TOK	knowledge		knowledge\N5S
+1807	TOK	about		about\P
+1808	TOK	emissions		emission\N5P
+1809	TOK	and		and\CC
+1810	TOK	toxicological		toxicological\JA
+1811	TOK	evaluation		evaluation\N5S
+---	DLD	,		=\DELIM
+1812	TOK	there		there\DGA7
+1813	TOK	appears		appear\VMFDRS3
+1814	TOK	to		to\P
+1815	TOK	be		be\VMI----
+1816	TOK	no		no\AI---6
+1817	TOK	inherent		inherent\JA
+1818	TOK	danger		danger\N5S
+1819	TOK	related		relate\VMC----
+1820	TOK	to		to\P
+1821	TOK	the		the\AT---6
+1822	TOK	chlorine		chlorine\N5S
+1823	TOK	chain		chain\VMF6R66
+---	DLD	,		=\DELIM
+1824	TOK	but		but\CC
+1825	TOK	that		that\CS
+1826	TOK	important		important\JA
+1827	TOK	uncertainties		uncertainty\N5P
+1828	TOK	exist		exist\VMF6R66
+1829	TOK	and		and\CC
+1830	TOK	require		require\VMF6R66
+1831	TOK	attention		attention\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<gap length=3>
+1832	TOK	with	BOS	with\P
+1833	TOK	regards		regard\VMFDRS3
+##	TAG	<name>
+1834	TOK	PVC		PVC\N46
+##	TAG	</name>
+1835	TOK	the		the\AT---6
+1836	TOK	recommendations		recommendation\N5P
+1837	TOK	are		be\V6FDR66
+1838	TOK	moderate		moderate\JA
+---	DLD	,		=\DELIM
+1839	TOK	suggesting		suggest\VMG----
+1840	TOK	its		its\APS3N6
+1841	TOK	production		production\N5S
+1842	TOK	and		and\CC
+1843	TOK	recycling		recycle\VMG----
+1844	TOK	be		be\VMI----
+1845	TOK	given		give\VMC----
+1846	TOK	further		further\JA
+1847	TOK	attention		attention\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1848	TOK	On	BOS	on\P
+1849	TOK	the		the\AT---6
+1850	TOK	basis		basis\N5S
+1851	TOK	of		of\P
+1852	TOK	these		this\AD---P
+1853	TOK	results		result\N5P
+---	DLD	,		=\DELIM
+1854	TOK	the		the\AT---6
+##	TAG	<name>
+1855	TOK	Ministry		Ministry\N46
+##	TAG	</name>
+1856	TOK	for		for\P
+1857	TOK	the		the\AT---6
+##	TAG	<name>
+1858	TOK	Environment		Environment\N46
+##	TAG	</name>
+1859	TOK	in		in\P
+1860	TOK	the		the\AT---6
+##	TAG	<name>
+1861	TOK	Netherlands		Netherlands\N46
+##	TAG	</name>
+1862	TOK	decided		decide\VMF6A66
+1863	TOK	against		against\P
+1864	TOK	a		a\AI---S
+1865	TOK	specific		specific\JA
+1866	TOK	policy		policy\N5S
+1867	TOK	for		for\P
+1868	TOK	chlorine		chlorine\N5S
+1869	TOK	compounds		compound\N5P
+1870	TOK	in		in\P
+1871	TOK	general		general\JA
+---	DLD	,		=\DELIM
+1872	TOK	as		as\CS
+1873	TOK	they		they\RPP3NN
+1874	TOK	believe		believe\VMF6R66
+1875	TOK	existing		existing\JA
+1876	TOK	government		government\N5S
+1877	TOK	policy		policy\N5S
+1878	TOK	to		to\P
+1879	TOK	be		be\VMI----
+1880	TOK	sufficient		sufficient\JA
+1881	TOK	for		for\P
+1882	TOK	achieving		achieve\VMG----
+1883	TOK	emission		emission\N5S
+1884	TOK	reductions		reduction\N5P
+1885	TOK	in		in\P
+1886	TOK	the		the\AT---6
+1887	TOK	areas		area\N5P
+1888	TOK	where		where\CS
+1889	TOK	chlorine		chlorine\N5S
+1890	TOK	presents		present\VMFDRS3
+1891	TOK	the		the\AT---6
+1892	TOK	biggest		big\JS
+1893	TOK	environmental		environmental\JA
+1894	TOK	burden		burden\N5S
+---	DLD	:		=\DELIM
+1895	TOK	climate		climate\N5S
+1896	TOK	change		change\N5S
+1897	TOK	and		and\CC
+1898	TOK	water		water\N5S
+1899	TOK	quality		quality\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1900	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1901	TOK	the		the\AT---6
+##	TAG	<name>
+1902	TOK	Ministry		Ministry\N46
+##	TAG	</name>
+1903	TOK	recognised		recognise\VMF6A66
+1904	TOK	the		the\AT---6
+1905	TOK	need		need\N5S
+1906	TOK	for		for\P
+1907	TOK	supplementary		supplementary\JA
+1908	TOK	measures		measure\N5P
+1909	TOK	to		to\P
+1910	TOK	reduce		reduce\VMI----
+1911	TOK	the		the\AT---6
+1912	TOK	risk		risk\N5S
+1913	TOK	presented		present\VMC----
+1914	TOK	by		by\P
+1915	TOK	certain		certain\JA
+1916	TOK	chlorinated		chlorinate\VMC----
+1917	TOK	compounds		compound\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1918	TOK	Specific	BOS	specific\JA
+1919	TOK	follow		follow\VMF6R66
+---	DLI	-		=\DELIM
+1920	TOK	up		up\P
+1921	TOK	actions		action\N5P
+1922	TOK	will		will\VOFDR66
+1923	TOK	therefore		therefore\DGA7
+1924	TOK	be		be\VMI----
+1925	TOK	taken		take\VMC----
+1926	TOK	concerning		concerning\P
+1927	TOK	tetra		tetra\N5S
+---	DLI	-		=\DELIM
+1928	TOK	chloroethylene		chloroethylene\N5S
+---	DLE	(		=\DELIM
+1929	TOK	dry		dry\JA
+---	DLD	-		=\DELIM
+1930	TOK	cleaning		clean\VMG----
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1931	TOK	di		di\N5P
+---	DLI	-		=\DELIM
+1932	TOK	chlorobenzene		chlorobenzene\N5S
+---	DLE	(		=\DELIM
+1933	TOK	mothballs		mothball\N5P
+1934	TOK	and		and\CC
+1935	TOK	toilet		toilet\N5S
+1936	TOK	fresheners		freshener\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1937	TOK	methyl		methyl\N5S
+1938	TOK	chloride		chloride\N5S
+---	DLE	(		=\DELIM
+1939	TOK	paint		paint\N5S
+1940	TOK	stripper		stripper\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1941	TOK	and		and\CC
+1942	TOK	trichloroethylene		trichloroethylene\N5S
+---	DLE	(		=\DELIM
+1943	TOK	solvent		solvent\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1944	TOK	Concerning	BOS	concerning\P
+1945	TOK	the		the\AT---6
+1946	TOK	use		use\N5S
+1947	TOK	of		of\P
+##	TAG	<name>
+1948	TOK	PVC		PVC\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1949	TOK	the		the\AT---6
+1950	TOK	recommendations		recommendation\N5P
+1951	TOK	of		of\P
+1952	TOK	the		the\AT---6
+1953	TOK	study		study\N5S
+1954	TOK	are		be\V6FDR66
+1955	TOK	moderate		moderate\JA
+---	DLD	,		=\DELIM
+1956	TOK	suggesting		suggest\VMG----
+1957	TOK	further		further\JA
+1958	TOK	attention		attention\N5S
+1959	TOK	be		be\VMI----
+1960	TOK	given		give\VMC----
+1961	TOK	to		to\P
+1962	TOK	it		it\RPS3N6
+1963	TOK	or		or\CC
+1964	TOK	to		to\P
+1965	TOK	its		its\APS3N6
+1966	TOK	recycling		recycle\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1967	TOK	Further	BOS	further\JA
+1968	TOK	study		study\N5S
+1969	TOK	is		be\V6FDRS3
+1970	TOK	also		also\DGA7
+1971	TOK	expected		expect\VMC----
+1972	TOK	on		on\P
+1973	TOK	reducing		reduce\VMG----
+1974	TOK	emissions		emission\N5P
+1975	TOK	from		from\P
+1976	TOK	hypochlorite		hypochlorite\N5S
+1977	TOK	which		which\RW63N-
+1978	TOK	is		be\V6FDRS3
+1979	TOK	used		use\VMC----
+1980	TOK	in		in\P
+1981	TOK	household		household\N5S
+1982	TOK	bleach		bleach\VMF6R66
+---	DLD	,		=\DELIM
+1983	TOK	swimming		swimming\N5S
+1984	TOK	pools		pool\VMFDRS3
+---	DLD	,		=\DELIM
+1985	TOK	electricity		electricity\N5S
+1986	TOK	power		power\N5S
+1987	TOK	stations		station\N5P
+1988	TOK	and		and\CC
+1989	TOK	industrial		industrial\JA
+1990	TOK	cooling		cool\VMG----
+---	DLI	-		=\DELIM
+1991	TOK	water		water\N5S
+1992	TOK	systems		system\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1993	TOK	No	BOS	no\AI---6
+1994	TOK	final		final\JA
+1995	TOK	conclusions		conclusion\N5P
+1996	TOK	could		can\VOFDA66
+1997	TOK	be		be\VMI----
+1998	TOK	made		make\VMC----
+1999	TOK	on		on\P
+2000	TOK	the		the\AT---6
+2001	TOK	emissions		emission\N5P
+2002	TOK	from		from\P
+2003	TOK	the		the\AT---6
+##	TAG	<na type="function">
+2004	TOK	1% of		noanat\W
+##	TAG	</na>
+2005	TOK	the		the\AT---6
+2006	TOK	chlorine		chlorine\N5S
+2007	TOK	use		use\N5S
+2008	TOK	in		in\P
+2009	TOK	the		the\AT---6
+##	TAG	<name>
+2010	TOK	Netherlands		Netherlands\N46
+##	TAG	</name>
+2011	TOK	which		which\RW63N-
+2012	TOK	is		be\V6FDRS3
+2013	TOK	not		not\DGA7
+2014	TOK	monitored		monitor\VMC----
+2015	TOK	and		and\CC
+2016	TOK	the		the\AT---6
+2017	TOK	study		study\N5S
+2018	TOK	therefore		therefore\DGA7
+2019	TOK	suggests		suggest\VMFDRS3
+2020	TOK	further		further\JA
+2021	TOK	investigation		investigation\N5S
+2022	TOK	of		of\P
+2023	TOK	the		the\AT---6
+2024	TOK	so		so\DGA7
+---	DLI	-		=\DELIM
+2025	TOK	called		call\VMF6A66
+---	DLE	"		=\DELIM
+2026	TOK	micro		micro\N5S
+---	DLI	-		=\DELIM
+2027	TOK	chlorines		chlorine\N5P
+---	DLD	"		=\DELIM
+2028	TOK	that		that\RW63N6
+2029	TOK	might		may\VOFDR66
+2030	TOK	be		be\VMI----
+2031	TOK	formed		form\VMC----
+2032	TOK	in		in\P
+2033	TOK	low		low\JA
+2034	TOK	quantities		quantity\N5P
+2035	TOK	in		in\P
+2036	TOK	production		production\N5S
+2037	TOK	processes		process\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2038	TOK	These	BOS	this\AD---P
+2039	TOK	substances		substance\N5P
+2040	TOK	are		be\V6FDR66
+2041	TOK	not		not\DGA7
+2042	TOK	yet		yet\DGA7
+2043	TOK	covered		cover\VMC----
+2044	TOK	in		in\P
+2045	TOK	the		the\AT---6
+2046	TOK	emission		emission\N5S
+2047	TOK	databases		database\N5P
+2048	TOK	because		because\CS
+2049	TOK	their		their\APP3N6
+2050	TOK	formation		formation\N5S
+2051	TOK	in		in\P
+2052	TOK	small		small\JA
+2053	TOK	quantities		quantity\N5P
+2054	TOK	and		and\CC
+2055	TOK	environmental		environmental\JA
+2056	TOK	impact		impact\N5S
+2057	TOK	is		be\V6FDRS3
+2058	TOK	not		not\DGA7
+2059	TOK	well		well\DGA7
+2060	TOK	understood		understand\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2061	TOK	Some	BOS	some\AG---6
+2062	TOK	of		of\P
+2063	TOK	them		them\RPP3NA
+2064	TOK	are		be\V6FDR66
+2065	TOK	believed		believe\VMC----
+2066	TOK	to		to\P
+2067	TOK	be		be\VMI----
+2068	TOK	persistent		persistent\JA
+---	DLD	,		=\DELIM
+2069	TOK	toxic		toxic\JA
+2070	TOK	and		and\CC
+2071	TOK	liable		liable\JA
+2072	TOK	to		to\P
+2073	TOK	bioaccumulate		bioaccumulate\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2074	TOK	In	BOS	in\P
+2075	TOK	addition		addition\N5S
+2076	TOK	to		to\P
+2077	TOK	these		this\AD---P
+2078	TOK	studies		study\N5P
+---	DLD	,		=\DELIM
+2079	TOK	an		an\AI---S
+2080	TOK	inventory		inventory\N5S
+2081	TOK	of		of\P
+2082	TOK	major		major\JA
+2083	TOK	accidents		accident\N5P
+2084	TOK	has		have\V6FDRS3
+2085	TOK	been		be\VMC----
+2086	TOK	set		set\VMC----
+2087	TOK	up		up\P
+2088	TOK	by		by\P
+2089	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2090	TOK	Major Accident Hazards Bureau		Major_Accident_Hazards_Bureau\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2091	TOK	MAHB		MAHB\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2092	TOK	of		of\P
+2093	TOK	the		the\AT---6
+##	TAG	<name>
+2094	TOK	European Commission		European_Commission\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2095	TOK	which		which\RW63N-
+2096	TOK	runs		run\VMFDRS3
+2097	TOK	a		a\AI---S
+2098	TOK	dedicated		dedicate\VMC----
+2099	TOK	database		database\N5S
+2100	TOK	called		call\VMF6A66
+##	TAG	<name>
+2101	TOK	MARS		MARS\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name pos="N46" expansion="major accidents has been">
+2102	TOK	MAHB	BOS	MAHB\N46
+##	TAG	</name>
+2103	TOK	states		state\VMFDRS3
+2104	TOK	that		that\CS
+##	TAG	<na type="function">
+2105	TOK	10% of		noanat\W
+##	TAG	</na>
+2106	TOK	the		the\AT---6
+##	TAG	<num>
+2107	TOK	230		230\X
+##	TAG	</num>
+2108	TOK	accidents		accident\N5P
+2109	TOK	reported		report\VMC----
+2110	TOK	by		by\P
+2111	TOK	the		the\AT---6
+##	TAG	<name>
+2112	TOK	Member States		Member_States\N46
+##	TAG	</name>
+2113	TOK	involves		involve\VMFDRS3
+2114	TOK	mostly		mostly\DGA7
+2115	TOK	chlorine		chlorine\N5S
+2116	TOK	as		as\P
+2117	TOK	a		a\AI---S
+2118	TOK	pure		pure\JA
+2119	TOK	substance		substance\N5S
+2120	TOK	released		release\VMC----
+2121	TOK	from		from\P
+2122	TOK	fixed		fix\VMC----
+2123	TOK	installations		installation\N5P
+---	DLD	,		=\DELIM
+2124	TOK	in		in\P
+2125	TOK	addition		addition\N5S
+2126	TOK	to		to\P
+##	TAG	<loc pos="RP63N-">
+2127	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+2128	TOK	cases		case\N5P
+2129	TOK	related		relate\VMC----
+2130	TOK	to		to\P
+2131	TOK	chlorinated		chlorinate\VMC----
+2132	TOK	compounds		compound\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2133	TOK	The	BOS	the\AT---6
+2134	TOK	strategies		strategy\N5P
+2135	TOK	and		and\CC
+2136	TOK	position		position\N5S
+2137	TOK	of		of\P
+2138	TOK	industry		industry\N5S
+---	DLD	:		=\DELIM
+2139	TOK	short		short\JA
+---	DLI	-		=\DELIM
+2140	TOK	term		term\N5S
+2141	TOK	and		and\CC
+2142	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+2143	TOK	term		term\N5S
+2144	TOK	visions		vision\N5P
+2145	TOK	are		be\V6FDR66
+2146	TOK	needed	EOS	need\VMC----
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2147	TOK	The	BOS	the\AT---6
+2148	TOK	visible		visible\JA
+2149	TOK	part		part\N5S
+2150	TOK	of		of\P
+2151	TOK	industry		industry\N5S
+2152	PGR	's		genmark\GENMARK
+2153	TOK	efforts		effort\N5P
+2154	TOK	is		be\V6FDRS3
+2155	TOK	contributing		contribute\VMG----
+2156	TOK	to		to\P
+2157	TOK	the		the\AT---6
+2158	TOK	controversy		controversy\N5S
+2159	TOK	with		with\P
+2160	TOK	environmental		environmental\JA
+2161	TOK	groups		group\N5P
+2162	TOK	and		and\CC
+2163	TOK	the		the\AT---6
+2164	TOK	authorities		authority\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2165	TOK	Industry	BOS	industry\N5S
+2166	TOK	considers		consider\VMFDRS3
+2167	TOK	sound		sound\JA
+2168	TOK	scientific		scientific\JA
+2169	TOK	criteria		criterion\N5P
+2170	TOK	to		to\P
+2171	TOK	be		be\VMI----
+2172	TOK	a		a\AI---S
+2173	TOK	firm		firm\JA
+2174	TOK	priority		priority\N5S
+2175	TOK	for		for\P
+2176	TOK	decision		decision\N5S
+---	DLI	-		=\DELIM
+2177	TOK	making		making\N5S
+2178	TOK	and		and\CC
+2179	TOK	it		it\RPS3N6
+2180	TOK	is		be\V6FDRS3
+2181	TOK	therefore		therefore\DGA7
+2182	TOK	reluctant		reluctant\JA
+2183	TOK	to		to\P
+2184	TOK	accept		accept\VMI----
+2185	TOK	simplified		simplify\VMC----
+2186	TOK	interpretations		interpretation\N5P
+2187	TOK	of		of\P
+2188	TOK	eco		eco\N56
+---	DLI	-		=\DELIM
+2189	TOK	toxicological		toxicological\JA
+2190	TOK	events		event\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2191	TOK	Environmentalists	BOS	environmentalist\N5P
+2192	TOK	believe		believe\VMF6R66
+2193	TOK	this		this\AD---S
+2194	TOK	attitude		attitude\N5S
+2195	TOK	is		be\V6FDRS3
+2196	TOK	a		a\AI---S
+2197	TOK	systematic		systematic\JA
+2198	TOK	approach		approach\N5S
+2199	TOK	to		to\P
+2200	TOK	delay		delay\N5S
+2201	TOK	action		action\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2202	TOK	A	BOS	a\AI---S
+2203	TOK	less		less\DDC7
+2204	TOK	visible		visible\JA
+2205	TOK	part		part\N5S
+2206	TOK	of		of\P
+2207	TOK	industry		industry\N5S
+2208	PGR	's		genmark\GENMARK
+2209	TOK	agenda		agendum\N5P
+---	DLD	,		=\DELIM
+2210	TOK	with		with\P
+2211	TOK	a		a\AI---S
+2212	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+2213	TOK	term		term\N5S
+2214	TOK	goals		goal\N5P
+---	DLD	,		=\DELIM
+2215	TOK	is		be\V6FDRS3
+2216	TOK	to		to\P
+2217	TOK	develop		develop\VMI----
+2218	TOK	alternative		alternative\JA
+2219	TOK	techniques		technique\N5P
+2220	TOK	and		and\CC
+2221	TOK	products		product\N5P
+2222	TOK	that		that\RW63N6
+2223	TOK	limit		limit\VMF6R66
+2224	TOK	or		or\CC
+2225	TOK	eliminate		eliminate\VMF6R66
+2226	TOK	chlorine		chlorine\N5S
+2227	TOK	use		use\N5S
+2228	TOK	or		or\CC
+2229	TOK	abate		abate\VMF6R66
+2230	TOK	the		the\AT---6
+2231	TOK	hazards		hazard\N5P
+2232	TOK	from		from\P
+2233	TOK	their		their\APP3N6
+2234	TOK	use		use\N5S
+2235	TOK	and		and\CC
+2236	TOK	final		final\JA
+2237	TOK	disposal		disposal\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2238	TOK	There	BOS	there\DGA7
+2239	TOK	a		a\AI---S
+2240	TOK	several		several\JA
+2241	TOK	cases		case\N5P
+2242	TOK	of		of\P
+2243	TOK	successful		successful\JA
+2244	TOK	innovation		innovation\N5S
+2245	TOK	in		in\P
+2246	TOK	industry		industry\N5S
+2247	TOK	and		and\CC
+2248	TOK	clear		clear\JA
+2249	TOK	evidence		evidence\N5S
+2250	TOK	that		that\CS
+2251	TOK	the		the\AT---6
+2252	TOK	traditional		traditional\JA
+2253	TOK	markets		market\N5P
+2254	TOK	for		for\P
+2255	TOK	chlorine		chlorine\N5S
+2256	TOK	are		be\V6FDR66
+2257	TOK	shrinking		shrink\VMG----
+---	DLD	,		=\DELIM
+2258	TOK	such		such\JA
+2259	TOK	as		as\P
+2260	TOK	the		the\AT---6
+2261	TOK	chlorinated		chlorinate\VMC----
+2262	TOK	solvents		solvent\N5P
+2263	TOK	and		and\CC
+2264	TOK	the		the\AT---6
+2265	TOK	use		use\N5S
+2266	TOK	of		of\P
+2267	TOK	elemental		elemental\JA
+2268	TOK	chlorine		chlorine\N5S
+2269	TOK	in		in\P
+2270	TOK	the		the\AT---6
+2271	TOK	pulp		pulp\N5S
+2272	TOK	and		and\CC
+2273	TOK	paper		paper\N5S
+2274	TOK	industry		industry\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2275	TOK	In	BOS	in\P
+2276	TOK	the		the\AT---6
+##	TAG	<name>
+2277	TOK	USA		USA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2278	TOK	the		the\AT---6
+2279	TOK	chlorine		chlorine\N5S
+2280	TOK	industry		industry\N5S
+2281	TOK	responded		respond\VMF6A66
+2282	TOK	to		to\P
+2283	TOK	the		the\AT---6
+##	TAG	<name>
+2284	TOK	EPA		EPA\N46
+##	TAG	</name>
+2285	PGR	's		genmark\GENMARK
+2286	TOK	announcement		announcement\N5S
+2287	TOK	about		about\P
+2288	TOK	a		a\AI---S
+2289	TOK	targeted		target\VMC----
+2290	TOK	chlorine		chlorine\N5S
+2291	TOK	strategy		strategy\N5S
+2292	TOK	by		by\P
+2293	TOK	reinforcing		reinforce\VMG----
+2294	TOK	its		its\APS3N6
+##	TAG	<name>
+2295	TOK	Chlorine Chemistry Council		Chlorine_Chemistry_Council\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2296	TOK	which		which\RW63N-
+2297	TOK	later		later\DGC7
+2298	TOK	disseminated		disseminate\VMF6A66
+2299	TOK	a		a\AI---S
+2300	TOK	study		study\N5S
+2301	TOK	by		by\P
+##	TAG	<name>
+2302	TOK	Charles River Associates		Charles_River_Associates\N46
+##	TAG	</name>
+2303	TOK	advocating		advocate\VMG----
+2304	TOK	that		that\AD---S
+2305	TOK	chlorine		chlorine\N5S
+2306	TOK	and		and\CC
+2307	TOK	its		its\APS3N6
+2308	TOK	products		product\N5P
+2309	TOK	are		be\V6FDR66
+2310	TOK	indispensable		indispensable\JA
+2311	TOK	to		to\P
+2312	TOK	the		the\AT---6
+##	TAG	<name>
+2313	TOK	US		US\N46
+##	TAG	</name>
+2314	TOK	economy		economy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2315	TOK	In	BOS	in\P
+##	TAG	<name>
+2316	TOK	Germany		Germany\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2317	TOK	industry		industry\N5S
+2318	PGR	's		genmark\GENMARK
+2319	TOK	position		position\N5S
+2320	TOK	is		be\V6FDRS3
+2321	TOK	clearly		clearly\DGA7
+2322	TOK	reflected		reflect\VMC----
+2323	TOK	in		in\P
+2324	TOK	the		the\AT---6
+2325	TOK	evaluation		evaluation\N5S
+2326	TOK	of		of\P
+2327	TOK	the		the\AT---6
+##	TAG	<name>
+2328	TOK	Prognos		Prognos\N46
+##	TAG	</name>
+2329	TOK	study		study\N5S
+2330	TOK	carried		carry\VMC----
+2331	TOK	out		out\DGA7
+2332	TOK	by		by\P
+2333	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2334	TOK	Association of German Chemical Industries		Association_of_German_Chemical_Industries\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2335	TOK	VCI		VCI\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2337	TOK	It	BOS	it\RPS3N6
+2338	TOK	argues		argue\VMFDRS3
+2339	TOK	that		that\CS
+2340	TOK	the		the\AT---6
+2341	TOK	study		study\N5S
+2342	TOK	focuses		focus\VMFDRS3
+2343	TOK	too		too\DGA7
+2344	TOK	much		much\DGA7
+2345	TOK	on		on\P
+2346	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+2347	TOK	German		german\JA
+##	TAG	</loc>
+2348	TOK	situation		situation\N5S
+2349	TOK	alone		alone\DGA7
+2350	TOK	while		while\CS
+2351	TOK	ignoring		ignore\VMG----
+2352	TOK	the		the\AT---6
+2353	TOK	influence		influence\N5S
+2354	TOK	of		of\P
+2355	TOK	the		the\AT---6
+2356	TOK	global		global\JA
+2357	TOK	market		market\N5S
+2358	TOK	which		which\RW63N-
+2359	TOK	is		be\V6FDRS3
+2360	TOK	especially		especially\DGA7
+2361	TOK	strong		strong\JA
+2362	TOK	in		in\P
+2363	TOK	the		the\AT---6
+2364	TOK	case		case\N5S
+2365	TOK	of		of\P
+2366	TOK	chlorine		chlorine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+2367	TOK	According to	BOS	According_to\P
+##	TAG	</loc>
+##	TAG	<name>
+2368	TOK	VCI		VCI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2369	TOK	'conversion		'conversion\N5S
+2370	TOK	of		of\P
+2371	TOK	chlorine		chlorine\N5S
+2372	TOK	chemistry		chemistry\N5S
+---	DLD	'		=\DELIM
+2373	TOK	should		shall\VOFDA66
+2374	TOK	only		only\DGA7
+2375	TOK	be		be\VMI----
+2376	TOK	considered		consider\VMC----
+2377	TOK	in		in\P
+2378	TOK	cases		case\N5P
+2379	TOK	of		of\P
+2380	TOK	urgent		urgent\JA
+2381	TOK	ecological		ecological\JA
+2382	TOK	or		or\CC
+2383	TOK	toxicological		toxicological\JA
+2384	TOK	necessity		necessity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2385	TOK	It	BOS	it\RPS3N6
+2386	TOK	goes		go\VMFDRS3
+2387	TOK	on		on\P
+2388	TOK	to		to\P
+2389	TOK	state		state\N5S
+2390	TOK	that		that\CS
+2391	TOK	such		such\JA
+2392	TOK	cases		case\N5P
+2393	TOK	do		do\V6FDR66
+2394	TOK	not		not\DGA7
+2395	TOK	exist		exist\VMI----
+---	DLD	,		=\DELIM
+2396	TOK	and		and\CC
+2397	TOK	that		that\CS
+2398	TOK	the		the\AT---6
+2399	TOK	approach		approach\N5S
+2400	TOK	taken		take\VMC----
+2401	TOK	by		by\P
+2402	TOK	the		the\AT---6
+##	TAG	<name>
+2403	TOK	Prognos		Prognos\N46
+##	TAG	</name>
+2404	TOK	study		study\N5S
+2405	TOK	for		for\P
+2406	TOK	the		the\AT---6
+2407	TOK	ecological		ecological\JA
+2408	TOK	and		and\CC
+2409	TOK	economic		economic\JA
+2410	TOK	assessment		assessment\N5S
+2411	TOK	was		be\V6F-A66
+2412	TOK	invalid		invalid\JA
+2413	TOK	and		and\CC
+2414	TOK	in		in\P
+2415	TOK	any		any\AG---6
+2416	TOK	case		case\N5S
+2417	TOK	was		be\V6F-A66
+2418	TOK	based		base\VMC----
+2419	TOK	on		on\P
+2420	TOK	incomplete		incomplete\JA
+---	DLD	,		=\DELIM
+2421	TOK	erroneous		erroneous\JA
+---	DLD	,		=\DELIM
+2422	TOK	or		or\CC
+2423	TOK	partly		partly\DGA7
+2424	TOK	outdated		outdated\JA
+2425	TOK	literature		literature\N5S
+2426	TOK	data		data\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2427	TOK	In	BOS	in\P
+2428	TOK	reference		reference\N5S
+2429	TOK	to		to\P
+2430	TOK	the		the\AT---6
+2431	TOK	economic		economic\JA
+2432	TOK	viability		viability\N5S
+2433	TOK	of		of\P
+2434	TOK	substituting		substitute\VMG----
+2435	TOK	the		the\AT---6
+2436	TOK	current		current\JA
+2437	TOK	propylene		propylene\N5S
+2438	TOK	oxide		oxide\N5S
+2439	TOK	production		production\N5S
+2440	TOK	route		route\N5S
+2441	TOK	by		by\P
+2442	TOK	the		the\AT---6
+2443	TOK	oxiran		oxiran\N5S
+2444	TOK	process		process\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2445	TOK	VCI		VCI\N46
+##	TAG	</name>
+2446	TOK	doubts		doubt\N5P
+2447	TOK	whether		whether\CS
+2448	TOK	investors		investor\N5P
+2449	TOK	would		will\VOFDA66
+2450	TOK	adopt		adopt\VMI----
+2451	TOK	this		this\AD---S
+2452	TOK	option		option\N5S
+2453	TOK	even		even\DGA7
+2454	TOK	in		in\P
+2455	TOK	new		new\JA
+2456	TOK	plants		plant\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2457	TOK	In	BOS	in\P
+2458	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2459	TOK	VCI		VCI\N46
+##	TAG	</name>
+2460	TOK	claims		claim\VMFDRS3
+2461	TOK	that		that\CS
+2462	TOK	the		the\AT---6
+2463	TOK	ecological		ecological\JA
+2464	TOK	risks		risk\N5P
+2465	TOK	of		of\P
+2466	TOK	the		the\AT---6
+2467	TOK	oxiran		oxiran\N5S
+2468	TOK	process		process\N5S
+2469	TOK	were		be\V6F-A66
+2470	TOK	not		not\DGA7
+2471	TOK	taken		take\VMC----
+2472	TOK	into		into\P
+2473	TOK	consideration		consideration\N5S
+2474	TOK	by		by\P
+2475	TOK	the		the\AT---6
+##	TAG	<name>
+2476	TOK	Prognos		Prognos\N46
+##	TAG	</name>
+2477	TOK	study		study\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2478	TOK	With	BOS	with\P
+2479	TOK	regards		regard\VMFDRS3
+##	TAG	<name>
+2480	TOK	PVC		PVC\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2481	TOK	VCI		VCI\N46
+##	TAG	</name>
+2482	TOK	disagrees		disagree\VMFDRS3
+2483	TOK	with		with\P
+2484	TOK	the		the\AT---6
+2485	TOK	method		method\N5S
+2486	TOK	and		and\CC
+2487	TOK	criteria		criterion\N5P
+2488	TOK	applied		apply\VMC----
+2489	TOK	by		by\P
+##	TAG	<name>
+2490	TOK	Prognos		Prognos\N46
+##	TAG	</name>
+2491	TOK	for		for\P
+2492	TOK	evaluating		evaluate\VMG----
+2493	TOK	the		the\AT---6
+2494	TOK	related		relate\VMC----
+2495	TOK	ecological		ecological\JA
+2496	TOK	advantages		advantage\N5P
+2497	TOK	of		of\P
+2498	TOK	substituting		substitute\VMG----
+##	TAG	<name>
+2499	TOK	PVC		PVC\N46
+##	TAG	</name>
+2500	TOK	with		with\P
+2501	TOK	other		other\JA
+2502	TOK	polymer		polymer\N5S
+2503	TOK	materials		material\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2504	TOK	At	BOS	at\P
+2505	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+2506	TOK	European		european\JA
+##	TAG	</loc>
+2507	TOK	level		level\N5S
+2508	TOK	and		and\CC
+2509	TOK	in		in\P
+2510	TOK	view		view\N5S
+2511	TOK	of		of\P
+2512	TOK	the		the\AT---6
+2513	TOK	emerging		emerging\JA
+2514	TOK	actions		action\N5P
+2515	TOK	to		to\P
+2516	TOK	phase		phase\N5S
+2517	TOK	out		out\DGA7
+2518	TOK	the		the\AT---6
+2519	TOK	use		use\N5S
+2520	TOK	of		of\P
+2521	TOK	chlorine		chlorine\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2522	TOK	Euro Chlor		Euro_Chlor\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2523	TOK	the		the\AT---6
+##	TAG	<name>
+2524	TOK	Brussels		Brussels\N46
+##	TAG	</name>
+2525	TOK	based		base\VMC----
+2526	TOK	federation		federation\N5S
+2527	TOK	of		of\P
+##	TAG	<loc pos="JA">
+2528	TOK	European		european\JA
+##	TAG	</loc>
+2529	TOK	chlorine		chlorine\N5S
+2530	TOK	manufacturers		manufacturer\N5P
+---	DLD	,		=\DELIM
+2531	TOK	has		have\V6FDRS3
+2532	TOK	begun		begin\VMC----
+2533	TOK	a		a\AI---S
+2534	TOK	campaign		campaign\N5S
+2535	TOK	to		to\P
+2536	TOK	persuade		persuade\VMI----
+2537	TOK	the		the\AT---6
+2538	TOK	public		public\N56
+2539	TOK	that		that\CS
+2540	TOK	chlorine		chlorine\N5S
+2541	TOK	is		be\V6FDRS3
+2542	TOK	essential		essential\JA
+2543	TOK	in		in\P
+2544	TOK	many		many\AI---P
+2545	TOK	important		important\JA
+2546	TOK	human		human\JA
+2547	TOK	activities		activity\N5P
+2548	TOK	and		and\CC
+2549	TOK	has		have\V6FDRS3
+2550	TOK	tried		try\VMC----
+2551	TOK	to		to\P
+2552	TOK	reduce		reduce\VMI----
+2553	TOK	the		the\AT---6
+2554	TOK	potential		potential\JA
+2555	TOK	risks		risk\N5P
+2556	TOK	as		as\CS
+2557	TOK	far		far\DGA7
+2558	TOK	as		as\DGA7
+2559	TOK	possible		possible\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2560	TOK	It	BOS	it\RPS3N6
+2561	TOK	argues		argue\VMFDRS3
+2562	TOK	that		that\CS
+2563	TOK	there		there\DGA7
+2564	TOK	is		be\V6FDRS3
+2565	TOK	a		a\AI---S
+2566	TOK	sustainable		sustainable\JA
+2567	TOK	future		future\N5S
+2568	TOK	for		for\P
+2569	TOK	a		a\AI---S
+2570	TOK	number		number\N5S
+2571	TOK	of		of\P
+2572	TOK	chlorine		chlorine\N5S
+2573	TOK	uses		use\N5P
+2574	TOK	which		which\RW63N-
+2575	TOK	present		present\VMF6R66
+2576	TOK	no		no\AI---6
+2577	TOK	risk		risk\N5S
+2578	TOK	to		to\P
+2579	TOK	the		the\AT---6
+2580	TOK	environment		environment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2581	TOK	In	BOS	in\P
+2582	TOK	this		this\AD---S
+2583	TOK	context		context\N5S
+##	TAG	<name>
+2584	TOK	Euro Chlor		Euro_Chlor\N46
+##	TAG	</name>
+2585	PGR	's		genmark\GENMARK
+2586	TOK	top		top\N5S
+2587	TOK	priority		priority\N5S
+2588	TOK	is		be\V6FDRS3
+2589	TOK	to		to\P
+2590	TOK	gather		gather\VMI----
+2591	TOK	information		information\N5S
+2592	TOK	on		on\P
+2593	TOK	the		the\AT---6
+2594	TOK	health		health\N5S
+2595	TOK	and		and\CC
+2596	TOK	environmental		environmental\JA
+2597	TOK	impact		impact\N5S
+2598	TOK	of		of\P
+2599	TOK	chlorine		chlorine\N5S
+---	DLI	-		=\DELIM
+2600	TOK	based		base\VMC----
+2601	TOK	products		product\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2602	TOK	A	BOS	a\AI---S
+2603	TOK	related		relate\VMC----
+2604	TOK	data		data\N56
+2605	TOK	base		base\N5S
+2606	TOK	known		know\VMC----
+2607	TOK	as		as\P
+##	TAG	<name>
+2608	TOK	Co-ordinated Orbital Monitoring Programme Alarm Security System		Co-ordinated_Orbital_Monitoring_Programme_Alarm_Security_System\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2609	TOK	COMPASS		COMPASS\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2610	TOK	is		be\V6FDRS3
+2611	TOK	being		be\VMG----
+2612	TOK	set		set\VMC----
+2613	TOK	up		up\P
+2614	TOK	to		to\P
+2615	TOK	monitor		monitor\VMI----
+2616	TOK	world		world\N5S
+---	DLI	-		=\DELIM
+2617	TOK	wide		wide\JA
+2618	TOK	scientific		scientific\JA
+2619	TOK	information		information\N5S
+2620	TOK	on		on\P
+2621	TOK	products		product\N5P
+2622	TOK	containing		contain\VMG----
+2623	TOK	chlorine		chlorine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2624	TOK	The	BOS	the\AT---6
+2625	TOK	possibility		possibility\N5S
+2626	TOK	that		that\CS
+2627	TOK	chlorinated		chlorinate\VMC----
+2628	TOK	compounds		compound\N5P
+2629	TOK	mimic		mimic\VMF6R66
+2630	TOK	oestrogens		oestrogen\N5P
+2631	TOK	needs		need\VMFDRS3
+2632	TOK	to		to\P
+2633	TOK	be		be\VMI----
+2634	TOK	investigated		investigate\VMC----
+2635	TOK	further		further\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2636	TOK	R	BOS	r\N5S
+2637	TOK	&		&\CC
+2638	TOK	D		d\N5S
+2639	TOK	needs		need\N5P
+2640	TOK	and		and\CC
+2641	TOK	priorities	EOS	priority\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2643	TOK	Concerns	BOS	concern\N5P
+2644	TOK	have		have\V6F6R66
+2645	TOK	been		be\VMC----
+2646	TOK	raised		raise\VMC----
+2647	TOK	recently		recently\DGA7
+2648	TOK	over		over\P
+2649	TOK	the		the\AT---6
+2650	TOK	possibility		possibility\N5S
+2651	TOK	that		that\CS
+2652	TOK	chemicals		chemical\N5P
+2653	TOK	present		present\VMF6R66
+2654	TOK	in		in\P
+2655	TOK	the		the\AT---6
+2656	TOK	environment		environment\N5S
+2657	TOK	may		may\VOFDR66
+2658	TOK	mimic		mimic\VMI----
+2659	TOK	the		the\AT---6
+2660	TOK	action		action\N5S
+2661	TOK	of		of\P
+2662	TOK	the		the\AT---6
+2663	TOK	animal		animal\N5S
+2664	TOK	and		and\CC
+2665	TOK	human		human\JA
+2666	TOK	hormones		hormone\N5P
+---	DLD	,		=\DELIM
+2667	TOK	oestrogens		oestrogen\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2668	TOK	The	BOS	the\AT---6
+2669	TOK	hypothesis		hypothesis\N5S
+2670	TOK	is		be\V6FDRS3
+2671	TOK	that		that\CS
+2672	TOK	these		this\AD---P
+2673	TOK	chemicals		chemical\N5P
+2674	TOK	may		may\VOFDR66
+2675	TOK	bind		bind\VMI----
+2676	TOK	with		with\P
+2677	TOK	oestrogen		oestrogen\N5S
+2678	TOK	receptors		receptor\N5P
+2679	TOK	to		to\P
+2680	TOK	produce		produce\VMI----
+2681	TOK	a		a\AI---S
+2682	TOK	variety		variety\N5S
+2683	TOK	of		of\P
+2684	TOK	undesirable		undesirable\JA
+2685	TOK	side		side\N5S
+2686	TOK	effects		effect\N5P
+2687	TOK	on		on\P
+2688	TOK	the		the\AT---6
+2689	TOK	reproductive		reproductive\JA
+2690	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2691	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+2692	TOK	it		it\RPS3N6
+2693	TOK	is		be\V6FDRS3
+2694	TOK	generally		generally\DGA7
+2695	TOK	recognised		recognise\VMC----
+2696	TOK	that		that\CS
+2697	TOK	we		we\RPP1NN
+2698	TOK	are		be\V6FDR66
+##	TAG	<loc pos="RP63N-">
+2699	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+2700	TOK	years		year\N5P
+2701	TOK	away		away\DGA7
+2702	TOK	from		from\P
+2703	TOK	understanding		understand\VMG----
+2704	TOK	the		the\AT---6
+2705	TOK	underlying		underlying\JA
+2706	TOK	hypotheses		hypothesis\N5P
+---	DLD	,		=\DELIM
+2707	TOK	mechanisms		mechanism\N5P
+2708	TOK	or		or\CC
+2709	TOK	any		any\AG---6
+2710	TOK	structural		structural\JA
+2711	TOK	activity		activity\N5S
+2712	TOK	relationship		relationship\N5S
+##	TAG	<loc pos="P">
+2713	TOK	relating to		relating_to\P
+##	TAG	</loc>
+2714	TOK	oestrogen		oestrogen\N5S
+2715	TOK	mimicry		mimicry\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2716	TOK	Euro	BOS	euro\JA
+##	TAG	<name>
+2717	TOK	Chlor		Chlor\N46
+##	TAG	</name>
+2718	TOK	is		be\V6FDRS3
+2719	TOK	working		working\JA
+2720	TOK	with		with\P
+##	TAG	<name>
+2721	TOK	CEFIC		CEFIC\N46
+##	TAG	</name>
+2722	TOK	on		on\P
+2723	TOK	this		this\AD---S
+2724	TOK	issue		issue\N5S
+---	DLD	,		=\DELIM
+2725	TOK	as		as\CS
+2726	TOK	it		it\RPS3N6
+2727	TOK	believes		believe\VMFDRS3
+2728	TOK	there		there\DGA7
+2729	TOK	is		be\V6FDRS3
+2730	TOK	insufficient		insufficient\JA
+2731	TOK	scientific		scientific\JA
+2732	TOK	evidence		evidence\N5S
+2733	TOK	to		to\P
+2734	TOK	implicate		implicate\VMI----
+2735	TOK	chlorinated		chlorinate\VMC----
+2736	TOK	compounds		compound\N5P
+2737	TOK	with		with\P
+2738	TOK	any		any\AG---6
+2739	TOK	reproductive		reproductive\JA
+2740	TOK	abnormalities		abnormality\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2741	TOK	Other	BOS	other\JA
+2742	TOK	areas		area\N5P
+2743	TOK	where		where\CS
+2744	TOK	further		further\JA
+2745	TOK	research		research\N5S
+2746	TOK	is		be\V6FDRS3
+2747	TOK	needed		need\VMC----
+2748	TOK	include		include\VMF6R66
+2749	TOK	associated		associate\VMC----
+2750	TOK	endocrine		endocrine\N5S
+2751	TOK	problems		problem\N5P
+---	DLD	;		=\DELIM
+2752	TOK	evaluation		evaluation\N5S
+2753	TOK	of		of\P
+2754	TOK	the		the\AT---6
+2755	TOK	risk		risk\N5S
+2756	TOK	associated		associate\VMC----
+2757	TOK	with		with\P
+2758	TOK	chlorinated		chlorinate\VMC----
+2759	TOK	compounds		compound\N5P
+2760	TOK	in		in\P
+2761	TOK	drinking		drink\VMG----
+2762	TOK	water		water\N5S
+---	DLD	;		=\DELIM
+2763	TOK	so		so\CC
+---	DLI	-		=\DELIM
+2764	TOK	called		call\VMC----
+2765	TOK	micro		micro\N5S
+---	DLI	-		=\DELIM
+2766	TOK	chlorines		chlorine\N5P
+---	DLD	;		=\DELIM
+2767	TOK	the		the\AT---6
+2768	TOK	metabolism		metabolism\N5S
+2769	TOK	of		of\P
+2770	TOK	emitted		emit\VMC----
+2771	TOK	compounds		compound\N5P
+---	DLD	;		=\DELIM
+2772	TOK	and		and\CC
+2773	TOK	the		the\AT---6
+2774	TOK	combined		combine\VMC----
+2775	TOK	toxicity		toxicity\N5S
+2776	TOK	of		of\P
+2777	TOK	chemicals		chemical\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2778	TOK	Generally	BOS	generally\DGA7
+---	DLD	,		=\DELIM
+2779	TOK	the		the\AT---6
+2780	TOK	need		need\N5S
+2781	TOK	for		for\P
+2782	TOK	improved		improve\VMC----
+2783	TOK	procedures		procedure\N5P
+2784	TOK	for		for\P
+2785	TOK	'risk		'risk\N5S
+2786	TOK	management		management\N5S
+2787	TOK	in		in\P
+2788	TOK	uncertainty		uncertainty\N5S
+---	DLD	'		=\DELIM
+2789	TOK	and		and\CC
+2790	TOK	'life		'life\N5S
+2791	TOK	cycle		cycle\N5S
+2792	TOK	analysis		analysis\N5S
+---	DLD	'		=\DELIM
+2793	TOK	are		be\V6FDR66
+2794	TOK	expected		expect\VMC----
+2795	TOK	to		to\P
+2796	TOK	be		be\VMI----
+2797	TOK	a		a\AI---S
+2798	TOK	major		major\JA
+2799	TOK	issue		issue\N5S
+2800	TOK	in		in\P
+2801	TOK	future		future\N5S
+2802	TOK	debates		debate\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2803	TOK	Research	BOS	research\N5S
+2804	TOK	in		in\P
+2805	TOK	this		this\AD---S
+2806	TOK	area		area\N5S
+2807	TOK	is		be\V6FDRS3
+2808	TOK	considered		consider\VMC----
+2809	TOK	to		to\P
+2810	TOK	be		be\VMI----
+2811	TOK	a		a\AI---S
+2812	TOK	clear		clear\JA
+2813	TOK	priority		priority\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2814	TOK	Conclusions	BOS	conclusion\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2816	TOK	The	BOS	the\AT---6
+2817	TOK	refinement		refinement\N5S
+2818	TOK	of		of\P
+2819	TOK	existing		existing\JA
+2820	TOK	tools		tool\N5P
+2821	TOK	for		for\P
+2822	TOK	risk		risk\N5S
+2823	TOK	assessment		assessment\N5S
+2824	TOK	and		and\CC
+2825	TOK	management		management\N5S
+2826	TOK	would		will\VOFDA66
+2827	TOK	certainly		certainly\DGA7
+2828	TOK	help		help\VMI----
+2829	TOK	to		to\P
+2830	TOK	resolve		resolve\VMI----
+2831	TOK	the		the\AT---6
+2832	TOK	current		current\JA
+2833	TOK	controversy		controversy\N5S
+2834	TOK	about		about\P
+2835	TOK	the		the\AT---6
+2836	TOK	future		future\N5S
+2837	TOK	of		of\P
+2838	TOK	the		the\AT---6
+2839	TOK	chlorine		chlorine\N5S
+2840	TOK	industry		industry\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2841	TOK	The	BOS	the\AT---6
+2842	TOK	industry		industry\N5S
+2843	TOK	is		be\V6FDRS3
+2844	TOK	defending		defend\VMG----
+---	DLD	,		=\DELIM
+2845	TOK	with		with\P
+2846	TOK	all		all\AG---6
+2847	TOK	available		available\JA
+2848	TOK	technical		technical\JA
+2849	TOK	and		and\CC
+2850	TOK	scientific		scientific\JA
+2851	TOK	knowledge		knowledge\N5S
+2852	TOK	and		and\CC
+2853	TOK	resources		resource\N5P
+---	DLD	,		=\DELIM
+2854	TOK	the		the\AT---6
+2855	TOK	major		major\JA
+2856	TOK	traditional		traditional\JA
+2857	TOK	uses		use\N5P
+2858	TOK	of		of\P
+2859	TOK	chlorine		chlorine\N5S
+2860	TOK	in		in\P
+2861	TOK	the		the\AT---6
+2862	TOK	plastics		plastic\N5P
+2863	TOK	industry		industry\N5S
+2864	TOK	such		such\RIS3N-
+2865	TOK	as		as\CS
+2866	TOK	in		in\P
+##	TAG	<name>
+2867	TOK	PVC		PVC\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2868	TOK	propylene		propylene\N5S
+2869	TOK	oxide		oxide\N5S
+2870	TOK	and		and\CC
+2871	TOK	epoxy		epoxy\N5S
+2872	TOK	resins		resin\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2873	TOK	In	BOS	in\P
+2874	TOK	these		this\AD---P
+2875	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+2876	TOK	improvements		improvement\N5P
+2877	TOK	in		in\P
+2878	TOK	modern		modern\JA
+2879	TOK	recycling		recycle\VMG----
+2880	TOK	and		and\CC
+2881	TOK	incineration		incineration\N5S
+2882	TOK	techniques		technique\N5P
+2883	TOK	are		be\V6FDR66
+2884	TOK	considered		consider\VMC----
+2885	TOK	as		as\P
+2886	TOK	promising		promising\JA
+2887	TOK	justification		justification\N5S
+2888	TOK	for		for\P
+2889	TOK	further		further\DGA7
+2890	TOK	long		long\JA
+---	DLD	-		=\DELIM
+2891	TOK	term		term\N5S
+2892	TOK	investments		investment\N5P
+2893	TOK	despite		despite\P
+2894	TOK	the		the\AT---6
+2895	TOK	current		current\JA
+2896	TOK	controversial		controversial\JA
+2897	TOK	debate		debate\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2898	TOK	An	BOS	an\AI---S
+##	TAG	<name>
+2899	TOK	EU Action Plan		EU_Action_Plan\N46
+##	TAG	</name>
+2900	TOK	for		for\P
+2901	TOK	chlorine		chlorine\N5S
+2902	TOK	would		will\VOFDA66
+2903	TOK	help		help\VMI----
+2904	TOK	harmonise		harmonise\VMI----
+2905	TOK	measures		measure\N5P
+2906	TOK	between		between\P
+##	TAG	<name>
+2907	TOK	Member States		Member_States\N46
+##	TAG	</name>
+2908	TOK	and		and\CC
+2909	TOK	contribute		contribute\VMF6R66
+2910	TOK	to		to\P
+2911	TOK	more		more\DDC7
+2912	TOK	constructive		constructive\JA
+2913	TOK	dialogue		dialogue\N5S
+2914	TOK	with		with\P
+2915	TOK	industry	EOS	industry\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2917	TOK	At	BOS	at\P
+##	TAG	<name>
+2918	TOK	EU		EU\N46
+##	TAG	</name>
+2919	TOK	level		level\VMF6R66
+---	DLD	,		=\DELIM
+2920	TOK	a		a\AI---S
+2921	TOK	policy		policy\N5S
+2922	TOK	initiative		initiative\N5S
+2923	TOK	concerning		concerning\P
+2924	TOK	an		an\AI---S
+2925	TOK	overall		overall\JA
+2926	TOK	chlorine		chlorine\N5S
+2927	TOK	strategy		strategy\N5S
+2928	TOK	has		have\V6FDRS3
+2929	TOK	not		not\DGA7
+2930	TOK	yet		yet\DGA7
+2931	TOK	been		be\VMC----
+2932	TOK	planned		plan\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2933	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+2934	TOK	as		as\P
+2935	TOK	several		several\JA
+##	TAG	<name>
+2936	TOK	Member States		Member_States\N46
+##	TAG	</name>
+2937	TOK	and		and\CC
+2938	TOK	the		the\AT---6
+##	TAG	<name>
+2939	TOK	USA		USA\N46
+##	TAG	</name>
+2940	TOK	are		be\V6FDR66
+2941	TOK	taking		take\VMG----
+2942	TOK	advanced		advance\VMC----
+2943	TOK	positions		position\N5P
+2944	TOK	on		on\P
+2945	TOK	chlorine		chlorine\N5S
+---	DLD	,		=\DELIM
+2946	TOK	an		an\AI---S
+##	TAG	<name>
+2947	TOK	EU		EU\N46
+##	TAG	</name>
+2948	TOK	action		action\N5S
+2949	TOK	plan		plan\N5S
+2950	TOK	would		will\VOFDA66
+2951	TOK	be		be\VMI----
+2952	TOK	desirable		desirable\JA
+##	TAG	<loc pos="P">
+2953	TOK	in order to		in_order_to\P
+##	TAG	</loc>
+2954	TOK	provide		provide\VMI----
+2955	TOK	a		a\AI---S
+2956	TOK	framework		framework\N5S
+2957	TOK	in		in\P
+2958	TOK	which		which\RW63N-
+2959	TOK	to		to\P
+2960	TOK	harmonise		harmonise\VMI----
+2961	TOK	measures		measure\N5P
+2962	TOK	of		of\P
+##	TAG	<name>
+2963	TOK	Member States		Member_States\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2964	TOK	and		and\CC
+2965	TOK	guidelines		guideline\N5P
+2966	TOK	for		for\P
+2967	TOK	positioning		position\VMG----
+2968	TOK	the		the\AT---6
+##	TAG	<name>
+2969	TOK	EU		EU\N46
+##	TAG	</name>
+2970	TOK	interests		interest\N5P
+2971	TOK	in		in\P
+2972	TOK	international		international\JA
+2973	TOK	negotiations		negotiation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2974	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+2975	TOK	it		it\RPS3N6
+2976	TOK	would		will\VOFDA66
+2977	TOK	also		also\DGA7
+2978	TOK	help		help\VMI----
+2979	TOK	the		the\AT---6
+2980	TOK	industry		industry\N5S
+2981	TOK	concerned		concern\VMC----
+2982	TOK	to		to\P
+2983	TOK	enter		enter\VMI----
+2984	TOK	a		a\AI---S
+2985	TOK	more		more\DDC7
+2986	TOK	constructive		constructive\JA
+2987	TOK	dialogue		dialogue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2988	TOK	Regarding	BOS	regarding\P
+2989	TOK	risk		risk\N5S
+2990	TOK	assessment		assessment\N5S
+2991	TOK	and		and\CC
+2992	TOK	risk		risk\N5S
+2993	TOK	management		management\N5S
+2994	TOK	of		of\P
+2995	TOK	chemicals		chemical\N5P
+2996	TOK	as		as\P
+2997	TOK	products		product\N5P
+---	DLD	,		=\DELIM
+2998	TOK	the		the\AT---6
+2999	TOK	main		main\JA
+3000	TOK	tools		tool\N5P
+3001	TOK	in		in\P
+3002	TOK	the		the\AT---6
+##	TAG	<name>
+3003	TOK	EU		EU\N46
+##	TAG	</name>
+3004	TOK	are		be\V6FDR66
+3005	TOK	given		give\VMC----
+3006	TOK	by		by\P
+3007	TOK	the		the\AT---6
+##	TAG	<name>
+3008	TOK	Regulation		Regulation\N46
+##	TAG	</name>
+##	TAG	<na type="function">
+3009	TOK	793/93		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3010	TOK	Existing		Existing\N46
+##	TAG	</name>
+3011	TOK	substances		substance\N5P
+---	DLD	)		=\DELIM
+3012	TOK	and		and\CC
+3013	TOK	the		the\AT---6
+##	TAG	<name>
+3014	TOK	Directives		Directives\N46
+##	TAG	</name>
+##	TAG	<na type="function">
+3015	TOK	92/32		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3016	TOK	New		New\N46
+##	TAG	</name>
+3017	TOK	substances		substance\N5P
+---	DLD	)		=\DELIM
+3018	TOK	and		and\CC
+##	TAG	<na type="function">
+3019	TOK	76/769		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3020	TOK	Market		Market\N46
+##	TAG	</name>
+3021	TOK	and		and\CC
+3022	TOK	use		use\N5S
+3023	TOK	limitation		limitation\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3024	TOK	The	BOS	the\AT---6
+3025	TOK	appropriate		appropriate\JA
+3026	TOK	forum		forum\N5S
+3027	TOK	for		for\P
+3028	TOK	discussions		discussion\N5P
+3029	TOK	concerning		concerning\P
+3030	TOK	product		product\N5S
+3031	TOK	phase		phase\N5S
+---	DLI	-		=\DELIM
+3032	TOK	outs		out\N5P
+3033	TOK	or		or\CC
+3034	TOK	restrictions		restriction\N5P
+3035	TOK	which		which\RW63N-
+3036	TOK	would		will\VOFDA66
+3037	TOK	involve		involve\VMI----
+3038	TOK	considerable		considerable\JA
+3039	TOK	changes		change\N5P
+3040	TOK	in		in\P
+3041	TOK	the		the\AT---6
+3042	TOK	internal		internal\JA
+3043	TOK	market		market\N5S
+---	DLD	,		=\DELIM
+3044	TOK	is		be\V6FDRS3
+3045	TOK	under		under\P
+##	TAG	<name>
+3046	TOK	Directive		Directive\N46
+##	TAG	</name>
+##	TAG	<num>
+3047	TOK	76/769		76/769\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3048	TOK	In	BOS	in\P
+3049	TOK	the		the\AT---6
+3050	TOK	context		context\N5S
+3051	TOK	of		of\P
+3052	TOK	this		this\AD---S
+##	TAG	<name>
+3053	TOK	Directive		Directive\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3054	TOK	the		the\AT---6
+##	TAG	<name>
+3055	TOK	Commission		Commission\N46
+##	TAG	</name>
+3056	TOK	is		be\V6FDRS3
+3057	TOK	now		now\DGA7
+3058	TOK	working		working\JA
+3059	TOK	on		on\P
+3060	TOK	a		a\AI---S
+3061	TOK	proposal		proposal\N5S
+3062	TOK	to		to\P
+3063	TOK	limit		limit\VMI----
+3064	TOK	some		some\AG---6
+3065	TOK	uses		use\N5P
+3066	TOK	of		of\P
+3067	TOK	chlorinated		chlorinate\VMC----
+3068	TOK	solvents		solvent\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3069	TOK	The	BOS	the\AT---6
+3070	TOK	forthcoming		forthcoming\JA
+##	TAG	<name>
+3071	TOK	Integrated Pollution Prevention		Integrated_Pollution_Prevention\N46
+##	TAG	</name>
+3072	TOK	and		and\CC
+##	TAG	<name>
+3073	TOK	Control Directive		Control_Directive\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3074	TOK	IPPC		IPPC\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+3075	TOK	could		can\VOFDA66
+3076	TOK	help		help\VMI----
+3077	TOK	tackle		tackle\VMI----
+3078	TOK	several		several\JA
+3079	TOK	problem		problem\N5S
+3080	TOK	areas		area\N5P
+3081	TOK	of		of\P
+3082	TOK	the		the\AT---6
+3083	TOK	'chlorine		'chlorine\N5S
+3084	TOK	debate		debate\N5S
+---	DLD	'		=\DELIM
+---	DLD	,		=\DELIM
+3085	TOK	such		such\JA
+3086	TOK	as		as\P
+3087	TOK	the		the\AT---6
+3088	TOK	production		production\N5S
+3089	TOK	of		of\P
+3090	TOK	chlorine		chlorine\N5S
+---	DLD	,		=\DELIM
+3091	TOK	propylene		propylene\N5S
+3092	TOK	oxide		oxide\N5S
+---	DLD	,		=\DELIM
+3093	TOK	epoxy		epoxy\N5S
+3094	TOK	resins		resin\N5P
+3095	TOK	and		and\CC
+3096	TOK	the		the\AT---6
+3097	TOK	incineration		incineration\N5S
+3098	TOK	of		of\P
+3099	TOK	wastes		waste\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3100	TOK	This	BOS	this\AD---S
+##	TAG	<name>
+3101	TOK	Directive		Directive\N46
+##	TAG	</name>
+3102	TOK	provides		provide\VMFDRS3
+3103	TOK	adequate		adequate\JA
+3104	TOK	instruments		instrument\N5P
+3105	TOK	for		for\P
+3106	TOK	the		the\AT---6
+3107	TOK	systematic		systematic\JA
+3108	TOK	assessment		assessment\N5S
+3109	TOK	of		of\P
+3110	TOK	the		the\AT---6
+3111	TOK	production		production\N5S
+3112	TOK	routes		route\N5P
+3113	TOK	that		that\RW63N6
+3114	TOK	should		shall\VOFDA66
+3115	TOK	be		be\VMI----
+3116	TOK	adopted		adopt\VMC----
+3117	TOK	as		as\P
+##	TAG	<name>
+3118	TOK	BATs		BATs\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3119	TOK	Best Available Techniques		Best_Available_Techniques\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3121	TOK	By	BOS	by\P
+3122	TOK	using		use\VMG----
+3123	TOK	rigorous		rigorous\JA
+##	TAG	<name>
+3124	TOK	BAT		BAT\N46
+##	TAG	</name>
+3125	TOK	descriptions		description\N5P
+3126	TOK	in		in\P
+3127	TOK	future		future\N5S
+3128	TOK	permitting		permit\VMG----
+3129	TOK	procedures		procedure\N5P
+3130	TOK	at		at\P
+##	TAG	<name>
+3131	TOK	EU		EU\N46
+##	TAG	</name>
+3132	TOK	level		level\VMF6R66
+---	DLD	,		=\DELIM
+3133	TOK	the		the\AT---6
+3134	TOK	future		future\N5S
+3135	TOK	evolution		evolution\N5S
+3136	TOK	of		of\P
+3137	TOK	the		the\AT---6
+3138	TOK	manufacturing		manufacturing\N5S
+3139	TOK	technologies		technology\N5P
+3140	TOK	and		and\CC
+3141	TOK	capacities		capacity\N5P
+---	DLD	,		=\DELIM
+3142	TOK	that		that\RW63N6
+3143	TOK	are		be\V6FDR66
+3144	TOK	related		relate\VMC----
+3145	TOK	to		to\P
+3146	TOK	chlorine		chlorine\N5S
+3147	TOK	production		production\N5S
+3148	TOK	and		and\CC
+3149	TOK	use		use\VMF6R66
+---	DLD	,		=\DELIM
+3150	TOK	will		will\VOFDR66
+3151	TOK	be		be\VMI----
+3152	TOK	helped		help\VMC----
+3153	TOK	to		to\P
+3154	TOK	develop		develop\VMI----
+3155	TOK	towards		towards\P
+3156	TOK	ecologically		ecologically\DGA7
+3157	TOK	desirable		desirable\JA
+3158	TOK	solutions		solution\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3159	TOK	An	BOS	an\AI---S
+3160	TOK	early		early\JA
+3161	TOK	recognition		recognition\N5S
+3162	TOK	of		of\P
+3163	TOK	the		the\AT---6
+3164	TOK	trends		trend\N5P
+3165	TOK	for		for\P
+3166	TOK	chlorine		chlorine\N5S
+3167	TOK	substitution		substitution\N5S
+3168	TOK	is		be\V6FDRS3
+3169	TOK	essential		essential\JA
+3170	TOK	for		for\P
+3171	TOK	analyses		analysis\N5P
+3172	TOK	about		about\P
+3173	TOK	the		the\AT---6
+3174	TOK	prospects		prospect\N5P
+3175	TOK	and		and\CC
+3176	TOK	competitiveness		competitiveness\N5S
+3177	TOK	of		of\P
+3178	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+3179	TOK	European		european\JA
+##	TAG	</loc>
+3180	TOK	chemical		chemical\JA
+3181	TOK	industry		industry\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3182	TOK	Although	BOS	although\CS
+3183	TOK	it		it\RPS3N6
+3184	TOK	is		be\V6FDRS3
+3185	TOK	yet		yet\DGA7
+3186	TOK	unclear		unclear\JA
+3187	TOK	how		how\DGAW
+3188	TOK	much		much\DGA7
+3189	TOK	funding		funding\N5S
+3190	TOK	either		either\CC
+3191	TOK	governments		government\N5P
+3192	TOK	or		or\CC
+3193	TOK	industry		industry\N5S
+3194	TOK	are		be\V6FDR66
+3195	TOK	prepared		prepare\VMC----
+3196	TOK	to		to\P
+3197	TOK	commit		commit\VMI----
+3198	TOK	to		to\P
+3199	TOK	the		the\AT---6
+3200	TOK	chlorine		chlorine\N5S
+---	DLI	-		=\DELIM
+3201	TOK	research		research\N5S
+3202	TOK	effort		effort\N5S
+---	DLD	,		=\DELIM
+3203	TOK	it		it\RPS3N6
+3204	TOK	seems		seem\VMFDRS3
+3205	TOK	that		that\CS
+3206	TOK	industry		industry\N5S
+---	DLD	,		=\DELIM
+3207	TOK	besides		besides\P
+3208	TOK	its		its\APS3N6
+3209	TOK	public		public\N56
+---	DLI	-		=\DELIM
+3210	TOK	relations		relation\N5P
+3211	TOK	campaigns		campaign\N5P
+3212	TOK	to		to\P
+3213	TOK	assure		assure\VMI----
+3214	TOK	people		people\N56
+3215	TOK	that		that\CS
+3216	TOK	chlorine		chlorine\N5S
+3217	TOK	compounds		compound\N5P
+3218	TOK	are		be\V6FDR66
+3219	TOK	safe		safe\JA
+---	DLD	,		=\DELIM
+3220	TOK	has		have\V6FDRS3
+3221	TOK	started		start\VMC----
+3222	TOK	to		to\P
+3223	TOK	study		study\N5S
+3224	TOK	substitution		substitution\N5S
+3225	TOK	options		option\N5P
+3226	TOK	for		for\P
+3227	TOK	a		a\AI---S
+3228	TOK	number		number\N5S
+3229	TOK	of		of\P
+3230	TOK	areas		area\N5P
+3231	TOK	where		where\CS
+3232	TOK	there		there\DGA7
+3233	TOK	is		be\V6FDRS3
+3234	TOK	growing		grow\VMG----
+3235	TOK	evidence		evidence\N5S
+3236	TOK	that		that\CS
+3237	TOK	society		society\N5S
+3238	TOK	is		be\V6FDRS3
+3239	TOK	not		not\DGA7
+3240	TOK	prepared		prepare\VMC----
+3241	TOK	to		to\P
+3242	TOK	accept		accept\VMI----
+3243	TOK	scientific		scientific\JA
+3244	TOK	uncertainty		uncertainty\N5S
+3245	TOK	and		and\CC
+3246	TOK	risks		risk\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+---	DLE	[	BOS	=\DELIM
+##	TAG	<num>
+3247	TOK	1		1\X
+##	TAG	</num>
+---	DLD	]		=\DELIM
+##	TAG	<name>
+3248	TOK	CHC		CHC\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+3249	TOK	chlorinated		chlorinate\VMC----
+3250	TOK	hydrocarbons	EOS	hydrocarbon\N5P
+##	TAG	</head>
+##	TAG	<head>
+---	DLE	[	BOS	=\DELIM
+##	TAG	<num>
+3252	TOK	3		3\X
+##	TAG	</num>
+---	DLD	]		=\DELIM
+3253	TOK	cumulative		cumulative\JA
+3254	TOK	previsions		prevision\N5P
+3255	TOK	for		for\P
+3256	TOK	the		the\AT---6
+3257	TOK	period		period\N5S
+##	TAG	<na type="function">
+3258	TOK	1994-1999		noanat\W
+##	TAG	</na>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<head>
+---	DLE	[	BOS	=\DELIM
+##	TAG	<num>
+3260	TOK	3		3\X
+##	TAG	</num>
+---	DLD	]		=\DELIM
+3261	TOK	cumulative		cumulative\JA
+3262	TOK	previsions		prevision\N5P
+3263	TOK	for		for\P
+3264	TOK	the		the\AT---6
+3265	TOK	period		period\N5S
+##	TAG	<na type="function">
+3266	TOK	1994-1999		noanat\W
+##	TAG	</na>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	</div1>

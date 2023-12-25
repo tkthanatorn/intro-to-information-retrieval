@@ -1,0 +1,525 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	New	BOS	new\JA
+##	TAG	<name>
+2	TOK	CPUs Signal Better Multimedia PCs	EOS	CPUs_Signal_Better_Multimedia_PCs\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4	TOK	Talk	BOS	talk\N5S
+5	TOK	about		about\P
+6	TOK	strange		strange\JA
+7	TOK	bedfellows		bedfellow\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+8	TOK	Former	BOS	former\JA
+9	TOK	blood		blood\N5S
+10	TOK	enemies		enemy\N5P
+##	TAG	<name>
+11	TOK	Intel		Intel\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+12	TOK	Santa Clara		Santa_Clara\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+13	TOK	CA		CA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+14	TOK	and		and\CC
+##	TAG	<name>
+15	TOK	Advanced Micro Devices		Advanced_Micro_Devices\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+16	TOK	Sunnyvale		Sunnyvale\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+17	TOK	CA		CA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+18	TOK	have		have\V6F6R66
+19	TOK	signed		sign\VMC----
+20	TOK	a		a\AI---S
+21	TOK	landmark		landmark\N5S
+22	TOK	cross		cross\P
+---	DLI	-		=\DELIM
+23	TOK	licensing		licensing\N5S
+24	TOK	agreement		agreement\N5S
+25	TOK	that		that\RW63N6
+26	TOK	will		will\VOFDR66
+27	TOK	allow		allow\VMI----
+28	TOK	them		them\RPP3NA
+29	TOK	to		to\P
+30	TOK	introduce		introduce\VMI----
+##	TAG	<name>
+31	TOK	CPUs		CPUs\N46
+##	TAG	</name>
+32	TOK	with		with\P
+33	TOK	new		new\JA
+34	TOK	multimedia		multimedia\JA
+35	TOK	x86		x86\N5S
+36	TOK	instructions		instruction\N5P
+37	TOK	by		by\P
+38	TOK	the		the\AT---6
+39	TOK	end		end\N5S
+40	TOK	of		of\P
+41	TOK	this		this\AD---S
+42	TOK	year		year\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+43	TOK	Frozen	BOS	freeze\VMC----
+44	TOK	out		out\DGA7
+---	DLD	,		=\DELIM
+45	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+46	TOK	is		be\V6FDRS3
+##	TAG	<name>
+47	TOK	Cyrix		Cyrix\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+48	TOK	Richardson		Richardson\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+49	TOK	TX		TX\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+50	TOK	and		and\CC
+51	TOK	its		its\APS3N6
+52	TOK	manufacturing		manufacturing\N5S
+53	TOK	partner		partner\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+54	TOK	IBM Microelectronics		IBM_Microelectronics\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+55	TOK	Fishkill		Fishkill\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+56	TOK	NY		NY\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+57	TOK	The	BOS	the\AT---6
+58	TOK	surprising		surprising\JA
+59	TOK	detente		detente\N5S
+60	TOK	between		between\P
+61	TOK	the		the\AT---6
+##	TAG	<num>
+62	TOK	two		two\X
+##	TAG	</num>
+63	TOK	leading		leading\JA
+64	TOK	x86		x86\N5S
+65	TOK	vendors		vendor\N5P
+66	TOK	could		can\VOFDA66
+67	TOK	be		be\VMI----
+68	TOK	the		the\AT---6
+69	TOK	most		most\DDS7
+70	TOK	significant		significant\JA
+71	TOK	step		step\N5S
+72	TOK	in		in\P
+73	TOK	the		the\AT---6
+74	TOK	evolution		evolution\N5S
+75	TOK	of		of\P
+76	TOK	the		the\AT---6
+77	TOK	x86		x86\N5S
+78	TOK	since		since\P
+##	TAG	<name>
+79	TOK	Intel		Intel\N46
+##	TAG	</name>
+80	TOK	introduced		introduce\VMF6A66
+81	TOK	the		the\AT---6
+##	TAG	<num>
+82	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+83	TOK	bit		bite\VMF6A66
+##	TAG	<num>
+84	TOK	386		386\X
+##	TAG	</num>
+85	TOK	in		in\P
+##	TAG	<num>
+86	TOK	1985		1985\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+87	TOK	Intel	BOS	Intel\N46
+##	TAG	</name>
+88	TOK	and		and\CC
+##	TAG	<name>
+89	TOK	AMD		AMD\N46
+##	TAG	</name>
+90	TOK	plan		plan\N5S
+91	TOK	to		to\P
+92	TOK	make		make\VMI----
+93	TOK	new		new\JA
+94	TOK	x86		x86\N5S
+95	TOK	chips		chip\N5P
+96	TOK	that		that\RW63N6
+97	TOK	recognize		recognize\VMF6R66
+98	TOK	the		the\AT---6
+99	TOK	same		same\JA
+100	TOK	set		set\N5S
+101	TOK	of		of\P
+102	TOK	extended		extend\VMC----
+103	TOK	instructions		instruction\N5P
+104	TOK	for		for\P
+105	TOK	multimedia		multimedia\JA
+106	TOK	tasks		task\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+107	TOK	This	BOS	this\AD---S
+108	TOK	technology		technology\N5S
+---	DLD	,		=\DELIM
+109	TOK	known		know\VMC----
+110	TOK	as		as\P
+##	TAG	<name>
+111	TOK	MMx		MMx\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+112	TOK	is		be\V6FDRS3
+113	TOK	supposed		suppose\VMC----
+114	TOK	to		to\P
+115	TOK	dramatically		dramatically\DGA7
+116	TOK	improve		improve\VMI----
+117	TOK	the		the\AT---6
+118	TOK	ability		ability\N5S
+119	TOK	of		of\P
+120	TOK	x86		x86\JA
+121	TOK	chips		chip\N5P
+122	TOK	to		to\P
+123	TOK	process		process\N5S
+124	TOK	audio		audio\JA
+---	DLD	,		=\DELIM
+125	TOK	video		video\N5S
+---	DLD	,		=\DELIM
+126	TOK	and		and\CC
+127	TOK	other		other\JA
+128	TOK	multimedia		multimedia\JA
+129	TOK	data		data\N56
+130	TOK	types		type\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+131	TOK	The	BOS	the\AT---6
+132	TOK	cross		cross\N5S
+---	DLI	-		=\DELIM
+133	TOK	licensing		licensing\N5S
+134	TOK	agreement		agreement\N5S
+135	TOK	ensures		ensure\VMFDRS3
+136	TOK	that		that\CS
+##	TAG	<name>
+137	TOK	Intel		Intel\N46
+##	TAG	</name>
+138	PGR	's		genmark\GENMARK
+139	TOK	and		and\CC
+##	TAG	<name>
+140	TOK	AMD		AMD\N46
+##	TAG	</name>
+141	PGR	's		genmark\GENMARK
+142	TOK	multimedia		multimedia\JA
+143	TOK	processors		processor\N5P
+144	TOK	will		will\VOFDR66
+145	TOK	be		be\VMI----
+146	TOK	fully		fully\DGA7
+147	TOK	compatible		compatible\JA
+148	TOK	with		with\P
+##	TAG	<loc pos="RPP3N-">
+149	TOK	each other		each_other\RPP3N-
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+150	TOK	Without	BOS	without\P
+151	TOK	the		the\AT---6
+152	TOK	deal		deal\N5S
+---	DLD	,		=\DELIM
+153	TOK	each		each\AG---S
+154	TOK	company		company\N5S
+155	TOK	might		may\VOFDR66
+156	TOK	have		have\VMI----
+157	TOK	introduced		introduce\VMC----
+158	TOK	its		its\APS3N6
+159	TOK	own		own\JA
+160	TOK	proprietary		proprietary\JA
+161	TOK	extensions		extension\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+162	TOK	That	BOS	that\RW63N6
+163	TOK	would		will\VOFDA66
+164	TOK	have		have\VMI----
+165	TOK	forced		force\VMC----
+166	TOK	software		software\N5S
+167	TOK	developers		developer\N5P
+168	TOK	to		to\P
+169	TOK	support		support\VMI----
+170	TOK	only		only\DGA7
+171	TOK	one		one\MCS
+172	TOK	company		company\N5S
+173	PGR	's		genmark\GENMARK
+174	TOK	new		new\JA
+175	TOK	instructions		instruction\N5P
+---	DLE	(		=\DELIM
+176	TOK	most		most\DDS7
+177	TOK	likely		likely\JA
+##	TAG	<name>
+178	TOK	Intel		Intel\N46
+##	TAG	</name>
+179	PGR	's		genmark\GENMARK
+---	DLD	)		=\DELIM
+180	TOK	or		or\CC
+181	TOK	everybody		everybody\RIS3N-
+182	PGR	's		genmark\GENMARK
+183	TOK	new		new\JA
+184	TOK	instructions		instruction\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+185	TOK	a		a\AI---S
+186	TOK	wasteful		wasteful\JA
+187	TOK	and		and\CC
+188	TOK	potentially		potentially\DGA7
+189	TOK	chaotic		chaotic\JA
+190	TOK	situation		situation\N5S
+191	TOK	for		for\P
+192	TOK	both		both\RIP3N-
+193	TOK	developers		developer\N5P
+194	TOK	and		and\CC
+195	TOK	users		user\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+196	TOK	Two	BOS	Two\X
+##	TAG	</num>
+197	TOK	things		thing\N5P
+198	TOK	are		be\V6FDR66
+199	TOK	surprising		surprising\JA
+200	TOK	about		about\P
+201	TOK	this		this\AD---S
+202	TOK	agreement		agreement\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+203	TOK	First	BOS	first\MOS
+---	DLD	,		=\DELIM
+204	TOK	it		it\RPS3N6
+205	TOK	comes		come\VMFDRS3
+206	TOK	only		only\DGA7
+207	TOK	months		month\N5P
+208	TOK	after		after\P
+##	TAG	<name>
+209	TOK	Intel		Intel\N46
+##	TAG	</name>
+210	TOK	and		and\CC
+##	TAG	<name>
+211	TOK	AMD		AMD\N46
+##	TAG	</name>
+212	TOK	concluded		conclude\VMF6A66
+213	TOK	a		a\AI---S
+214	TOK	bitter		bitter\JA
+215	TOK	five		five\MCP
+---	DLI	-		=\DELIM
+216	TOK	year		year\N5S
+217	TOK	legal		legal\JA
+218	TOK	battle		battle\N5S
+219	TOK	over		over\P
+220	TOK	microcode		microcode\N5S
+221	TOK	copyrights		copyright\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+222	TOK	All	BOS	all\AG---6
+223	TOK	those		that\AD---P
+224	TOK	differences		difference\N5P
+225	TOK	are		be\V6FDR66
+226	TOK	now		now\DGA7
+227	TOK	settled		settle\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+228	TOK	Second	BOS	second\MOS
+---	DLD	,		=\DELIM
+229	TOK	the		the\AT---6
+230	TOK	agreement		agreement\N5S
+231	TOK	leaves		leave\VMFDRS3
+##	TAG	<name>
+232	TOK	Cyrix		Cyrix\N46
+##	TAG	</name>
+233	TOK	out		out\DGA7
+234	TOK	on		on\P
+235	TOK	a		a\AI---S
+236	TOK	limb		limb\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+237	TOK	Cyrix	BOS	Cyrix\N46
+##	TAG	</name>
+238	TOK	has		have\V6FDRS3
+239	TOK	been		be\VMC----
+240	TOK	working		work\VMG----
+241	TOK	on		on\P
+242	TOK	its		its\APS3N6
+243	TOK	own		own\JA
+244	TOK	multimedia		multimedia\JA
+245	TOK	extensions		extension\N5P
+---	DLD	,		=\DELIM
+246	TOK	but		but\CC
+247	TOK	they		they\RPP3NN
+248	TOK	won		would\VOFDR66
+249	PGR	't		not\DGA7
+250	TOK	be		be\VMI----
+251	TOK	compatible		compatible\JA
+252	TOK	with		with\P
+##	TAG	<name>
+253	TOK	Intel		Intel\N46
+##	TAG	</name>
+254	PGR	's		genmark\GENMARK
+255	TOK	and		and\CC
+##	TAG	<name>
+256	TOK	AMD		AMD\N46
+##	TAG	</name>
+257	PGR	's		genmark\GENMARK
+258	TOK	unless		unless\CS
+##	TAG	<name>
+259	TOK	Cyrix		Cyrix\N46
+##	TAG	</name>
+260	TOK	either		either\CC
+261	TOK	licenses		license\N5P
+262	TOK	or		or\CC
+263	TOK	reverse		reverse\JA
+---	DLI	-		=\DELIM
+264	TOK	engineers		engineer\N5P
+265	TOK	the		the\AT---6
+266	TOK	same		same\JA
+267	TOK	technology		technology\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+268	TOK	At	BOS	at\P
+269	TOK	this		this\AD---S
+270	TOK	writing		write\VMG----
+---	DLD	,		=\DELIM
+271	TOK	there		there\DGA7
+272	TOK	is		be\V6FDRS3
+273	TOK	no		no\AI---6
+274	TOK	indication		indication\N5S
+275	TOK	from		from\P
+276	TOK	either		either\AG---6
+##	TAG	<name>
+277	TOK	Intel		Intel\N46
+##	TAG	</name>
+278	TOK	or		or\CC
+##	TAG	<name>
+279	TOK	Cyrix		Cyrix\N46
+##	TAG	</name>
+280	TOK	that		that\CS
+281	TOK	a		a\AI---S
+282	TOK	licensing		licensing\N5S
+283	TOK	deal		deal\N5S
+284	TOK	is		be\V6FDRS3
+285	TOK	pending		pending\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+286	TOK	If	BOS	if\CS
+##	TAG	<name>
+287	TOK	Cyrix		Cyrix\N46
+##	TAG	</name>
+288	TOK	must		must\VOFDR66
+289	TOK	resort		resort\VMI----
+290	TOK	to		to\P
+291	TOK	reverse		reverse\JA
+292	TOK	engineering		engineer\VMG----
+---	DLD	,		=\DELIM
+293	TOK	the		the\AT---6
+294	TOK	extra		extra\JA
+295	TOK	effort		effort\N5S
+296	TOK	could		can\VOFDA66
+297	TOK	seriously		seriously\DGA7
+298	TOK	delay		delay\VMI----
+##	TAG	<name>
+299	TOK	Cyrix		Cyrix\N46
+##	TAG	</name>
+300	PGR	's		genmark\GENMARK
+301	TOK	multimedia		multimedia\JA
+##	TAG	<name>
+302	TOK	CPUs		CPUs\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+303	TOK	IBM	BOS	IBM\N46
+##	TAG	</name>
+304	TOK	suffers		suffer\VMFDRS3
+---	DLD	,		=\DELIM
+305	TOK	too		too\DGA7
+---	DLD	,		=\DELIM
+306	TOK	because		because\CS
+##	TAG	<name>
+307	TOK	IBM		IBM\N46
+##	TAG	</name>
+308	TOK	licenses		license\VMFDRS3
+309	TOK	its		its\APS3N6
+310	TOK	latest		late\JS
+311	TOK	x86		x86\N5S
+312	TOK	designs		design\N5P
+313	TOK	from		from\P
+##	TAG	<name>
+314	TOK	Cyrix		Cyrix\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+315	TOK	But	BOS	but\CC
+##	TAG	<loc pos="P">
+316	TOK	according to		according_to\P
+##	TAG	</loc>
+##	TAG	<name>
+317	TOK	Steve Tobak		Steve_Tobak\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+318	TOK	vice		vice\N5S
+319	TOK	president		president\N5S
+320	TOK	of		of\P
+321	TOK	corporate		corporate\JA
+322	TOK	marketing		marketing\N5S
+323	TOK	for		for\P
+##	TAG	<name>
+324	TOK	Cyrix		Cyrix\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+325	TOK	reverse		reverse\JA
+326	TOK	engineering		engineering\N5S
+327	TOK	may		may\VOFDR66
+328	TOK	not		not\DGA7
+329	TOK	be		be\VMI----
+330	TOK	necessary		necessary\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

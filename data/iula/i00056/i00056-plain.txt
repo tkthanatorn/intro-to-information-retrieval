@@ -1,0 +1,208 @@
+
+NT 4.0 Part of our COVER STORY by Keith Pleas
+
+WINDOWS NT 4.0 Explore the New Features
+
+Windows NT 4.0 is currently undergoing beta testing and is due for release early this summer.
+NT 4.0 combines --and improves on-- the Windows 95 user interface without compromising NT's robust architecture.
+NT 4.0 also offers improved interoperability with other systems, although this improvement is mostly relevant for integration with legacy systems.
+
+User Interface 
+
+NT 4.0 has sometimes been called the Shell Update Release because Windows NT Workstation and Server both get the Windows 95 user interface (known as the shell ) in this release.
+This fact is ironic because much of the work on this user interface was originally for Microsoft's forthcoming Cairo operating system (which has become a floating collection of features to put in future versions of NT).
+As the situation stands, responsibility for the shell bounces between the NT and Windows 95 teams, as each leap-frogs the other in major releases.
+One way to look at the state of the interface is that the Win95 team added the "eye candy" we've become familiar with, and then the NT team got to figure out how to make the interface robust and secure, support multiple logins and multiple profiles, and be Unicode-aware.
+
+From a technical perspective, the new user interface in NT 4.0 consists of several pieces that will be familiar from the Windows 95 interface.
+The most obvious piece includes the new shell components, such as the Taskbar, Start Menu, Desktop, and Explorer.
+From Windows 95, you can also recognize NT 4.0's new common controls and common dialogs (for instance, the FileSave dialog); the new look , which incorporates user interface features such as 3D forms, single-button close, and Microsoft Sans Serif font for menus; and even the new WinHelp system, which has such features as full-text search and easy-to-use "what's this" help.
+
+Some of this shell-related functionality first shipped with Windows NT 3.51.
+In particular, the Windows common controls --implemented in the COMMCTRL.DLL -- provide most of the intrinsic control for new shell components such as the Explorer (see screen 1).
+In its dual-pane view with everything turned on, the Explorer primarily consists of a Treeview, Listview, Toolbar, Tooltip, and Status control.
+Although support for these controls shipped with NT 3.51, we didn't get a chance to play with them until the new Windows shell and applications designed for the Windows 95 Compatibility Logo started shipping.
+Eventually, most of the operating system and virtually all applications will use these controls and will look and feel similar in Windows 95 and NT.
+
+Still more aspects of the new user interface will become obvious once you get a chance to use it.
+Some, such as right mouse-button context menus and tabbed dialogs for properties, aren't so much shell features as they are strongly suggested guidelines for application developers.
+Some shell features don't even have any visible interface.
+A good example is the ShellExecuteEx function, which is called when a user types something into the Run dialog.
+In this case, the user's string can contain a program, a file of a registered type, a folder to open or explore, or even a Hypertext Transfer Protocol (HTTP) or File Transfer Protocol (FTP) Universal Resource Locator (URL).
+Windows NT knows how to activate the string, even to the point of starting the Internet Explorer or initiating a Remote Access Service (RAS) AutoDial to access a remote file or folder.
+SCREEN 1:The Explorer primarily consists of a Treeview, Listview, Toolbar, Tooltip, and Status control. 
+SCREEN 2:Here you can see the structure of the profiles subdirectory,including subdirectories for Administrator, All Users, Default User, and one for each user on the system. 
+SCREEN 3:In the Windows 95 shell, you have only three subcategories to help you view the properties of your OLE documents. 
+SCREEN 4: The NT 4.0 shell lets you create a robust set of properties with your OLE documents. 
+
+Shell-related Differences 
+
+Although the NT 4.0 shell is similar to the Windows 95 interface, some features and functions in the new shell work uniquely with NT (however, some of these will be in the next update to Windows 95).
+Perhaps the best place to start discussing shell-related differences between NT 4.0 and Windows 95 is at the point where a user logs on.
+Administrators and experienced NT users know that previous versions of NT store individual user profile information in the registry and maintain it in a separate hive, or disk file, in the systemroot \system32\config directory .
+The Program Manager uses this information to implement user-specific and common program groups.
+The new shell replaces program groups with folders that contain shortcuts, and administrators implement the functionality of common program groups by placing folders and shortcuts under the systemroot \profiles\All Users directory .
+Screen 2 shows the structure of the profiles subdirectory, including subdirectories for Administrator, All Users, Default User, and one for each user on the system.
+
+As you might expect, the NT implementation of the new shell is secure.
+The NT 4.0 shell security includes the usual user profile protections and addresses such features as the wastebasket, or Recycle Bin.
+An important point is that the NT shell provides several Unicode interfaces, all of which are missing in Unicode-ignorant Windows 95.
+Although these Unicode interfaces are primarily a developer issue, they have some important ramifications.
+For example, the NT version of the Briefcase can convert Unicode to ANSI (file names only), and the Find Files feature includes an ANSI-only search option.
+
+One of the NT shell's handiest features is the built-in support for viewing the properties of Object Linking and Embedding (OLE) documents, such as those that Microsoft's Office suite of applications creates.
+In the Windows 95 shell, the properties page for this article looks like screen 3.
+NT 4.0, however, understands the latest version of the document summary information and adds properties tabs for contents and customizing.
+Users can now select from a richer set of properties or even develop their own, assigning text, date, number, or yes/no values (see screen 4).
+Also promised --but not delivered in the first beta-- is a new Task Manager.
+
+Alas, a few features from the Windows 95 implementation of the shell are missing or limited in NT 4.0.
+A good example is changing the display resolution.
+Windows 95's desktop properties control lets you easily change the display resolution.
+In NT 4.0, you still have to reboot to implement this change.
+Some Plus! pack functionality, which many people lump in with Windows 95, is an example of features that appear to be new in the NT 4.0 shell but that were already part of NT.
+These features that were already in NT include full-window drag, RAS server, and animated icons.
+Other Windows 95 Plus! features, such as the sound schemes, are in NT, and yet other features, such as disk defragmentation, will never work under NT.
+Fortunately, NT 4.0 does include the Plus! pack's well-done Pinball arcade-style game.
+
+Internet 
+
+In recent months, Microsoft has made a lot of noise about how important the Internet is and how all Microsoft products revolve around it, but NT 4.0 doesn't have much new Internet technology.
+The most important Internet-related feature in NT 4.0 Server is Microsoft's Internet Information Server (IIS--formerly code-named Gibraltar).
+IIS shipped in February as an add-on to Windows NT and has received favorable reviews, particularly for its speed.
+The IIS version that will ship with NT 4.0 will be only a minor update of the February release and not add any major new functionality.
+
+On the client side, Microsoft has packaged several components for developers to use when creating Internet-enabled applications.
+Of course, Microsoft did include a newer version of the Internet Explorer than the version that shipped with Windows 95 (and the updated version is now also available for Windows 95).
+
+Network OLE 
+
+One big feature under the hood in NT 4.0 is the first release of Network OLE.
+You won't really see anything in Network OLE, and users will probably be unaware of its existence.
+However, having Network OLE will let developers and solution providers use off-the-shelf and custom-created OLE components to build robust distributed applications.
+Without going into much detail, I'll just say that Network OLE uses an industry standard Remote Procedure Call (RPC) mechanism to enable an OLE-based application to start and manipulate a remote or networked OLE server.
+To facilitate this architecture, a Service Control Manager (SCM) manages object creation on the local machine by examining the cache of running objects and causing them to be created remotely when appropriate.
+
+Roughly the same functionality is available today with the remote automation capabilities of Microsoft Visual Basic (VB) 4.0's Enterprise Edition.
+However, that solution works only with OLE Automation, whereas Network OLE supports any built-in or custom OLE service.
+Network OLE also improves performance over Remote Automation because Network OLE dispenses with Remote Automation's proxy and Automation Manager.
+Note: Windows 95 currently does not have a Service Control Manager, so Windows 95 cannot use Network OLE.
+Microsoft has indicated that some sort of Windows 95 support is forthcoming, but the company has not yet said how it will package and deliver this support.
+
+NT 4.0 also includes support for OLE free threading.
+To isolate threads, previous OLE implementations were either not thread-safe or had to use what Microsoft called "apartment-model" threading.
+Although OLE free threading requires significant additional development work, it removes OLE from the message loop, which results in fewer thread transitions and can measurably improve performance.
+Applications that are free threaded can initialize a pool of worker threads, which means the application scales better.
+This capability is particularly useful in server applications.
+In addition, an application can implement some components using the free-threading model and some using the apartment model.
+This flexibility is important when you can't re-architect your applications or when some of your development tools --for instance, VB-- don't support free threading.
+
+OLE in NT 4.0 takes full advantage of NT's built-in security and cleans up a problem that was frequently associated with OLE applications trying to run as services under NT: NT's built-in security did not let OLE services communicate between applications because most applications are launched from a desktop running in a different security context or winstation from the services.
+Using Network OLE, NT 4.0 now allows communication between security contexts.
+
+Kernel Mode User and GDI 
+
+Another feature that's way under the hood in NT 4.0 is the incorporation of the Win32 subsystem into the Kernel.
+In the past, most of Windows' core functionality was implemented in three DLLs comprising a library of callable routines that, in greatly simplified terms, provided the following.
+User: keyboard and mouse input, user interface output (windows, icons, menus, and so on), and messaging.
+Kernel: I/O services, virtual memory management, and task scheduling.
+Graphics Device Interface (GDI): bitmaps, fonts, colors, and so on.
+
+In the 16-bit versions of Windows, all applications share the same address space.
+When Microsoft (actually, Dave Cutler) designed Windows NT, the decision was to put each process in a separate address space, isolate the Kernel from the rest of the operating system and create a separate Win32 process for managing User and GDI objects.
+Under this design, each application is isolated not only from the operating system, but also from all its windows, menus, and so on.
+
+NT 4.0 For Developers
+
+Microsoft will be releasing updated versions of the Win32 SDK and Driver Developer's Kit (DDK) to reflect the changes for NT 4.0.
+Developers who subscribe to Level 2 of the Microsoft Developer Network (MSDN) will be getting beta copies as part of their normal subscription.
+Microsoft will update the SDK to reflect new APIs in the core system and additional services such as the Internet Server API (ISAPI).
+
+A survey of all new APIs would read like, well, the SDK documents, and we certainly don't have room for all that here.
+However, I'd like to draw your attention to one new system API, LoadUserProfile.
+The Service Control Manager calls this API before a service is started under a user account and sets up the profile to have an HKEY_CURRENT_USER registry key.
+This API is important because, although previous versions of NT let you run services as a particular user, they don't give you access to the corresponding user area in the registry.
+Other API sets of notable interest include the following.
+Cryptography API: CAPI gives developers several functions for encoding data and messages to secure storage and transmission.
+You can encrypt and digitally sign data, and these functions also let you ensure data integrity.
+As is the case with the TAPI architecture, separate components known as a cryptographic service providers (CSP) perform the operations.
+Microsoft ships one CSP, RSA Base Provider, with NT 4.0 and expects other providers soon.
+Internet Client (Sweeper): While the server side of the Internet puzzle receives of press coverage, you read relatively little about Microsoft's client-side tools.
+Loosely grouped into a collection of tools, code-named Sweeper, these client-side tools will eventually make it into the Win32 SDK.
+Sweeper lets developers build Internet-enabled applications easily by either integrating them into the Internet Explorer or using the Sweeper services directly (for instance, to get current business information off the World Wide Web and feed it into an existing business application).
+Currently, Sweeper includes the following bits and pieces:Datapath properties with progress notification, URL Monikers, New OLE controls (OCX) specification, which handles downloading self-registering OLE controls over the Internet.
+This is the mechanism that controls will use that will be authored in the next major version of VB, which is due out this year.
+WININET.DLL , which is primarily an abstract layer on top of Windows Sockets (WinSock), OLE Scripting and VB Script, which is a carefully tailored subset of Microsoft's Visual Basic for Applications (VBA) engine that currently ships in VB 4.0 and with several Microsoft Office applications.
+
+Microsoft has been uncharacteristically open about its Internet development plans.
+If you want to know more, be sure to visit the company's Web site ( www.microsoft.com ).
+You can either drill down into the Internet area from the Microsoft home page or use this URL: http://www.microsoft.com/intdev .
+
+Unfortunately, most calls to a User or GDI routine involve a trip through a client-server runtime subsystem in the Kernel executive.
+This trip entails a substantial number of thread transitions and noticeably affects performance.
+The NT developers did as much as possible to improve performance and ended up implementing a couple of optimization techniques: First, they implemented batching of User and GDI calls, which helps amortize the overhead of the thread transitions, and second, they implemented caching values on the client side to potentially short circuit some calls.
+Figure 1 shows an architectural diagram of the typical path that a call to NT's User32.DLL takes.
+
+With NT 4.0, Microsoft wanted to add the new shell and user interface without taking a noticeable performance hit, so the developers decided to move the Win32 subsystem into the Kernel.
+The idea was to save some overhead and eliminate a large number of (expensive) thread transitions.
+Microsoft then figured that performance would increase so much that batching and caching would no longer be required.
+Unfortunately, tests showed improved performance for User routines, but GDI routines were slower.
+The developers put batching and caching back in and brought overall performance into line with what they were initially trying to achieve.
+
+Microsoft claims that these changes do not affect system stability, but many users undoubtedly will adopt a wait-and-see attitude.
+Figure 2 is the revised architectural diagram showing the relocated Win32 subsystem.
+Note that the client/server runtime subsystem is still present in NT 4.0 --a small CSRSS.EXE still loads CSRSRV.DLL , which is primarily for console applications.
+FIGURE 1: A call to NT's User32.DLL usually takes a path that is similar to this architectural diagram. 
+
+Hardware Profile Support
+
+Another top customer-requested feature of NT is built-in support for multiple hardware configurations.
+Although NT didn't get Windows 95's handy plug-and-play support --it has been deferred back into Cairo-- NT 4.0 adds support for multiple hardware profiles.
+You can select a hardware profile at boot time, usually to handle docking stations, external peripherals, and even PC Card devices (PCMCIA cards with a marketing makeover).
+PC Cards work fine in NT 4.0 and even have a new Control Panel configuration applet --you just can't hot swap them.
+NT 4.0 also doesn't support Advanced Power Management (APM), although it will obviously respect any hardware settings you have enabled.
+FIGURE 2: Here you can see a revised architectural diagram showing the relocated Win32 subsystem. 
+
+Other Features 
+
+Now that we've reviewed the most prominent features of NT 4.0, we can turn to the less earth-shattering ones.
+Here are a few interesting ones.
+DirectX: The Windows 95 Game Software Developer's Kit (SDK) introduced the DirectX family of application programming interfaces (APIs) to give Windows game developers better performance by letting them program closer to the hardware.
+Specific DirectX API sets include DirectDraw for high-speed graphics and animation, DirectPlay for multiplayer communications, DirectInput for handling game input devices, and DirectSound for advanced audio capabilities such as low latency and mixing.
+Although support for the DirectX APIs isn't in the first beta-release of NT 4.0, the plan is to include these APIs in beta 2.
+Unfortunately, the entire spectrum of DirectX APIs may not end up fully implemented.
+DirectSound, for instance, runs in emulation mode and uses the existing NT sound drivers.
+RAS: NT 4.0 also includes revamped RAS support.
+Changes include shell integration similar to Windows 95 (where the Dial-Up Networking folder appears off the My Computer root), AutoDial, the new RAS APIs added to Windows 95 to support Microsoft Network (MSN) and the Internet Explorer, and new phonebook APIs that display built-in dialogs for adding and editing phonebook entries.
+You can trigger RAS AutoDial by referring to an Internet host name, an Internet Protocol (IP) address, or a NetBIOS server name that RAS AutoDial has previously learned.
+Telephony API: TAPI is available in Windows NT 3.51, but only as a limited subset supporting the functions necessary to make data calls and interface with RAS.
+NT 4.0 gains full TAPI support, so NT will now be able to run such applications as MSN, the Exchange Client, the Internet Explorer, and various fax applications.
+Unfortunately, both MSN and Microsoft Fax --including the fax printer driver, shared fax modem, viewer, send fax wizard, and exchange extensions-- are not shipping with NT 4.0.
+Also, some telephony applications such as Microsoft Phone, need additional support for Unimodem/V, which is not yet ported to NT.
+486 Emulation: Previous versions of NT running on RISC platforms perform only 286 emulation.
+NT 4.0 runs 386-enhanced 16-bit applications.
+CD File System (CDFS): NT 4.0 CDFS now supports autoplay CDs and CD-XA formats. 
+Messaging Subsystem (NT-WMS): The NT-WMS includes the Exchange client, Mail API (MAPI), migration Microsoft Mail service, and Internet mail service.
+The Exchange group delivers it, and it is equivalent to the components that shipped with Windows 95.
+NetWare 4 client/login script support: The NetWare Directory Service (NDS) client for Windows NT Workstation provides NetWare login script support and file/print capabilities.
+Windows Internet Name Service (WINS) and Domain Name System (DNS): NT 4.0 includes DNS (equivalent to the Berkeley Internet Naming Daemon--BIND--in BSD UNIX).
+DNS returns IP addresses for named clients.
+DNS integration with the dynamic WINS database for mapping computer names to IP addresses is improved.
+
+A Desktop Winner
+
+NT 4.0 has a lot to offer: a great and extensible user interface, a robust architecture, as much security as you feel like administering, and a bunch of new services for developers to play with.
+It's too early to know for sure, but a memory requirement of 12MB will likely make NT Workstation 4.0 more competitive on the business desktop.
+And on the server side, IIS and other new features in NT Server 4.0 go a long way to strengthen NT server's competitive position and strategic importance in the corporate market.
+Of course, you still might want to run Windows 95 on systems where you play DOS-based games on laptops with frequent PCMCIA card hot swaps, or on systems that don't support NT's minimum memory requirements (probably 12MB for NT Workstation).
+If, however, you are looking for an industrial-strength solution for corporate desktops, NT 4.0 offers an impressive set of features and functions.
+Don't be surprised to see NT 4.0 blanket the landscape like a sudden snowstorm.
+
+ABOUT THE AUTHOR
+
+Keith Pleas is a contributing editor for Windows NT Magazine and Visual Basic Programmer's Journal .
+He is also an independent developer and author who does both on-site and public training.
+Keith developed the Visual Basic Professional Certification Exam for Microsoft.
+You can reach him at 71333.3014@compuserve.com 
+
+Back to NT 4.0 Info Center, if you have any questions or comments about this web site, contact the Web Master.

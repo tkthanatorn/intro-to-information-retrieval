@@ -1,0 +1,4356 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	GENE	BOS	gene\N5S
+2	TOK	THERAPY		therapy\N5S
+3	TOK	FOR		FOR\N5S
+4	TOK	THE		THE\N5P
+5	TOK	NERVOUS		nervous\JA
+6	TOK	SYSTEM	EOS	system\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+8	TOK	Inserting	BOS	insert\VMG----
+9	TOK	genes		gene\N5P
+10	TOK	into		into\P
+11	TOK	brain		brain\N5S
+12	TOK	cells		cell\N5P
+##	TAG	<date pos="T" ISO8601="-05-01">
+13	TOK	may one		may_one\T
+##	TAG	</date>
+14	TOK	day		day\N5S
+15	TOK	offer		offer\VMF6R66
+16	TOK	doctors		doctor\N5P
+17	TOK	a		a\AI---S
+18	TOK	way		way\N5S
+19	TOK	to		to\P
+20	TOK	slow		slow\VMI----
+---	DLD	,		=\DELIM
+21	TOK	or		or\CC
+22	TOK	even		even\DGA7
+23	TOK	reverse		reverse\JA
+---	DLD	,		=\DELIM
+24	TOK	the		the\AT---6
+25	TOK	damage		damage\N5S
+26	TOK	from		from\P
+27	TOK	degenerative		degenerative\JA
+28	TOK	neurological		neurological\JA
+29	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+30	TOK	The	BOS	the\AT---6
+31	TOK	prospect		prospect\N5S
+32	TOK	of		of\P
+33	TOK	acquiring		acquire\VMG----
+34	TOK	any		any\AG---6
+35	TOK	chronic		chronic\JA
+36	TOK	illness		illness\N5S
+37	TOK	is		be\V6FDRS3
+38	TOK	disturbing		disturb\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+39	TOK	But for	BOS	But_for\P
+##	TAG	</loc>
+40	TOK	most		most\AG---6
+41	TOK	people		people\N56
+---	DLD	,		=\DELIM
+42	TOK	the		the\AT---6
+43	TOK	threat		threat\N5S
+44	TOK	of		of\P
+45	TOK	neurological		neurological\JA
+46	TOK	impairment		impairment\N5S
+47	TOK	evokes		evoke\VMFDRS3
+48	TOK	a		a\AI---S
+49	TOK	special		special\JA
+50	TOK	dread		dread\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+51	TOK	Afflictions	BOS	affliction\N5P
+52	TOK	such		such\RIS3N-
+53	TOK	as		as\P
+##	TAG	<name>
+54	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+55	PGR	's		genmark\GENMARK
+56	TOK	disease		disease\N5S
+57	TOK	or		or\CC
+58	TOK	amyotrophic		amyotrophic\JA
+59	TOK	lateral		lateral\JA
+60	TOK	sclerosis		sclerosis\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+61	TOK	Lou Gehrig		Lou_Gehrig\N46
+##	TAG	</name>
+62	PGR	's		genmark\GENMARK
+63	TOK	disease		disease\N5S
+---	DLD	)		=\DELIM
+64	TOK	progressively		progressively\DGA7
+65	TOK	rob		rob\VMF6R66
+66	TOK	control		control\N5S
+67	TOK	of		of\P
+68	TOK	the		the\AT---6
+69	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+70	TOK	Damage	BOS	damage\N5S
+71	TOK	to		to\P
+72	TOK	the		the\AT---6
+73	TOK	spinal		spinal\JA
+74	TOK	cord		cord\N5S
+75	TOK	can		can\VOFDR66
+76	TOK	create		create\VMI----
+77	TOK	equal		equal\JA
+78	TOK	misery		misery\N5S
+79	TOK	in		in\P
+80	TOK	just		just\DGA7
+81	TOK	an		an\AI---S
+82	TOK	instant		instant\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+83	TOK	And	BOS	and\CC
+##	TAG	<name>
+84	TOK	Alzheimer		Alzheimer\N46
+##	TAG	</name>
+85	PGR	's		genmark\GENMARK
+86	TOK	disease		disease\N5S
+87	TOK	attacks		attack\N5P
+88	TOK	the		the\AT---6
+89	TOK	very		very\JA
+90	TOK	essence		essence\N5S
+91	TOK	of		of\P
+92	TOK	one		one\RIS3N-
+93	PGR	's		genmark\GENMARK
+94	TOK	personality		personality\N5S
+95	TOK	as		as\CS
+96	TOK	it		it\RPS3N6
+97	TOK	destroys		destroy\VMFDRS3
+98	TOK	the		the\AT---6
+99	TOK	mind		mind\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+100	TOK	Unfortunately	BOS	unfortunately\DGA7
+---	DLD	,		=\DELIM
+101	TOK	physicians		physician\N5P
+102	TOK	and		and\CC
+103	TOK	medical		medical\JA
+104	TOK	researchers		researcher\N5P
+105	TOK	have		have\V6F6R66
+106	TOK	made		make\VMC----
+107	TOK	only		only\DGA7
+108	TOK	limited		limit\VMC----
+109	TOK	progress		progress\N5S
+110	TOK	in		in\P
+111	TOK	the		the\AT---6
+112	TOK	battle		battle\N5S
+113	TOK	against		against\P
+114	TOK	such		such\JA
+115	TOK	diseases		disease\N5P
+---	DLD	,		=\DELIM
+116	TOK	in		in\P
+117	TOK	large		large\JA
+118	TOK	part		part\N5S
+119	TOK	because		because\CS
+120	TOK	the		the\AT---6
+121	TOK	brain		brain\N5S
+122	TOK	and		and\CC
+123	TOK	spine		spine\N5S
+124	TOK	are		be\V6FDR66
+125	TOK	so		so\DGA7
+126	TOK	vulnerable		vulnerable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+127	TOK	Unlike	BOS	unlike\P
+128	TOK	many		many\AI---P
+129	TOK	types		type\N5P
+130	TOK	of		of\P
+131	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+132	TOK	neurons		neuron\N5P
+---	DLE	(		=\DELIM
+133	TOK	nerve		nerve\N5S
+134	TOK	cells		cell\N5P
+---	DLD	)		=\DELIM
+135	TOK	in		in\P
+136	TOK	the		the\AT---6
+137	TOK	central		central\JA
+138	TOK	nervous		nervous\JA
+139	TOK	system		system\N5S
+140	TOK	of		of\P
+141	TOK	adults		adult\N5P
+142	TOK	are		be\V6FDR66
+143	TOK	typically		typically\DGA7
+144	TOK	unable		unable\JA
+145	TOK	to		to\P
+146	TOK	divide		divide\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+147	TOK	That	BOS	that\CS
+148	TOK	fact		fact\N5S
+149	TOK	of		of\P
+150	TOK	life		life\N5S
+151	TOK	creates		create\VMFDRS3
+152	TOK	the		the\AT---6
+153	TOK	central		central\JA
+154	TOK	tragedy		tragedy\N5S
+155	TOK	of		of\P
+156	TOK	neurological		neurological\JA
+157	TOK	illness		illness\N5S
+158	TOK	or		or\CC
+159	TOK	injury		injury\N5S
+---	DLD	:		=\DELIM
+160	TOK	under		under\P
+161	TOK	normal		normal\JA
+162	TOK	circumstances		circumstance\N5P
+---	DLD	,		=\DELIM
+163	TOK	neurons		neuron\N5P
+164	TOK	that		that\RW63N6
+165	TOK	are		be\V6FDR66
+166	TOK	lost		lose\VMC----
+167	TOK	are		be\V6FDR66
+168	TOK	gone		go\VMC----
+169	TOK	for		for\P
+170	TOK	good		good\JA
+---	DLD	,		=\DELIM
+171	TOK	and		and\CC
+172	TOK	injured		injure\VMC----
+173	TOK	nerve		nerve\N5S
+174	TOK	tissue		tissue\N5S
+175	TOK	of		of\P
+176	TOK	the		the\AT---6
+177	TOK	brain		brain\N5S
+178	TOK	and		and\CC
+179	TOK	spinal		spinal\JA
+180	TOK	cord		cord\N5S
+181	TOK	can		can\V6FDR66
+182	PGR	not		not\DGA7
+183	TOK	be		be\VMI----
+184	TOK	expected		expect\VMC----
+185	TOK	to		to\P
+186	TOK	repair		repair\N5S
+187	TOK	itself		itself\RXS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+188	TOK	But	BOS	but\CC
+189	TOK	scientific		scientific\JA
+190	TOK	advances		advance\N5P
+191	TOK	might		may\VOFDR66
+192	TOK	yet		yet\DGA7
+193	TOK	change		change\VMI----
+194	TOK	that		that\CS
+195	TOK	grim		grim\JA
+196	TOK	situation		situation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+197	TOK	Some	BOS	some\AG---6
+198	TOK	of		of\P
+199	TOK	the		the\AT---6
+200	TOK	most		most\DDS7
+201	TOK	ambitious		ambitious\JA
+202	TOK	research		research\N5S
+203	TOK	in		in\P
+204	TOK	neurology		neurology\N5S
+205	TOK	aims		aim\VMFDRS3
+206	TOK	to		to\P
+207	TOK	replace		replace\VMI----
+208	TOK	lost		lose\VMC----
+209	TOK	cells		cell\N5P
+210	TOK	in		in\P
+211	TOK	damaged		damage\VMC----
+212	TOK	tissue		tissue\N5S
+213	TOK	by		by\P
+214	TOK	transplanting		transplant\VMG----
+215	TOK	neurons		neuron\N5P
+216	TOK	or		or\CC
+217	TOK	by		by\P
+218	TOK	delivering		deliver\VMG----
+219	TOK	growth		growth\N5S
+220	TOK	factors		factor\N5P
+221	TOK	chemicals		chemical\N5P
+222	TOK	that		that\RW63N6
+223	TOK	can		can\VOFDR66
+224	TOK	stimulate		stimulate\VMI----
+225	TOK	surviving		survive\VMG----
+226	TOK	neurons		neuron\N5P
+227	TOK	to		to\P
+228	TOK	extend		extend\VMI----
+229	TOK	their		their\APP3N6
+230	TOK	reach		reach\N5S
+231	TOK	or		or\CC
+232	TOK	that		that\RW63N6
+233	TOK	can		can\VOFDR66
+234	TOK	awaken		awaken\VMI----
+235	TOK	the		the\AT---6
+236	TOK	cells		cell\N5P
+---	DLD	'		=\DELIM
+237	TOK	dormant		dormant\JA
+238	TOK	ability		ability\N5S
+239	TOK	to		to\P
+240	TOK	regenerate		regenerate\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+241	TOK	Such	BOS	such\JA
+242	TOK	therapies		therapy\N5P
+243	TOK	would		will\VOFDA66
+244	TOK	be		be\VMI----
+245	TOK	immensely		immensely\DGA7
+246	TOK	beneficial		beneficial\JA
+---	DLD	,		=\DELIM
+247	TOK	but		but\CC
+248	TOK	it		it\RPS3N6
+249	TOK	will		will\VOFDR66
+250	TOK	probably		probably\DGA7
+251	TOK	take		take\VMI----
+252	TOK	many		many\AI---P
+253	TOK	years		year\N5P
+254	TOK	before		before\CS
+255	TOK	they		they\RPP3NN
+256	TOK	become		become\VMF6R66
+257	TOK	routine		routine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+258	TOK	Preventing	BOS	prevent\VMG----
+259	TOK	neuron		neuron\N5S
+260	TOK	loss		loss\N5S
+261	TOK	in		in\P
+262	TOK	the		the\AT---6
+263	TOK	first		first\MOS
+264	TOK	place		place\N5S
+265	TOK	is		be\V6FDRS3
+266	TOK	a		a\AI---S
+267	TOK	more		more\DDC7
+268	TOK	modest		modest\JA
+269	TOK	goal		goal\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+270	TOK	one		one\RIS3N-
+271	TOK	that		that\RW63N6
+272	TOK	is		be\V6FDRS3
+273	TOK	perhaps		perhaps\DGA7
+274	TOK	not		not\DGA7
+275	TOK	so		so\DGA7
+276	TOK	distant		distant\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+277	TOK	In	BOS	in\P
+278	TOK	the		the\AT---6
+279	TOK	past		past\JA
+280	TOK	few		few\JA
+281	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+282	TOK	researchers		researcher\N5P
+283	TOK	have		have\V6F6R66
+284	TOK	learned		learn\VMC----
+285	TOK	a		a\AI---S
+286	TOK	great		great\JA
+287	TOK	deal		deal\N5S
+288	TOK	about		about\P
+289	TOK	how		how\DGAW
+290	TOK	neurons		neuron\N5P
+291	TOK	die		die\VMF6R66
+292	TOK	after		after\P
+293	TOK	a		a\AI---S
+294	TOK	sudden		sudden\JA
+295	TOK	medical		medical\JA
+296	TOK	insult		insult\N5S
+297	TOK	such		such\RIS3N-
+298	TOK	as		as\P
+299	TOK	a		a\AI---S
+300	TOK	stroke		stroke\N5S
+---	DLD	,		=\DELIM
+301	TOK	seizure		seizure\N5S
+302	TOK	or		or\CC
+303	TOK	head		head\N5S
+304	TOK	injury		injury\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+305	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+306	TOK	during		during\P
+307	TOK	progressive		progressive\JA
+308	TOK	diseases		disease\N5P
+309	TOK	such		such\RIS3N-
+310	TOK	as		as\P
+##	TAG	<name>
+311	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+312	PGR	's		genmark\GENMARK
+313	TOK	or		or\CC
+##	TAG	<name>
+314	TOK	Alzheimer		Alzheimer\N46
+##	TAG	</name>
+315	PGR	's		genmark\GENMARK
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+316	TOK	Some	BOS	some\AG---6
+317	TOK	attempts		attempt\N5P
+318	TOK	to		to\P
+319	TOK	take		take\VMI----
+320	TOK	advantage		advantage\N5S
+321	TOK	of		of\P
+322	TOK	these		this\AD---P
+323	TOK	recent		recent\JA
+324	TOK	discoveries		discovery\N5P
+325	TOK	suggest		suggest\VMF6R66
+326	TOK	that		that\CS
+327	TOK	administering		administer\VMG----
+328	TOK	certain		certain\JA
+329	TOK	drugs		drug\N5P
+330	TOK	may		may\VOFDR66
+331	TOK	protect		protect\VMI----
+332	TOK	threatened		threaten\VMC----
+333	TOK	neurons		neuron\N5P
+334	TOK	or		or\CC
+335	TOK	even		even\DGA7
+336	TOK	that		that\CS
+337	TOK	lowering		lower\VMG----
+338	TOK	the		the\AT---6
+339	TOK	temperature		temperature\N5S
+340	TOK	of		of\P
+341	TOK	the		the\AT---6
+342	TOK	brain		brain\N5S
+343	TOK	can		can\VOFDR66
+344	TOK	avert		avert\VMI----
+345	TOK	the		the\AT---6
+346	TOK	death		death\N5S
+347	TOK	of		of\P
+348	TOK	fragile		fragile\JA
+349	TOK	cells		cell\N5P
+350	TOK	during		during\P
+351	TOK	a		a\AI---S
+352	TOK	neurological		neurological\JA
+353	TOK	crisis		crisis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+354	TOK	What	BOS	what\RW63N-
+355	TOK	is		be\V6FDRS3
+356	TOK	more		more\DDC7
+---	DLD	,		=\DELIM
+357	TOK	new		new\JA
+358	TOK	knowledge		knowledge\N5S
+359	TOK	about		about\P
+360	TOK	how		how\DGAW
+361	TOK	neurons		neuron\N5P
+362	TOK	succumb		succumb\VMF6R66
+363	TOK	to		to\P
+364	TOK	various		various\JA
+365	TOK	diseases		disease\N5P
+366	TOK	has		have\V6FDRS3
+367	TOK	raised		raise\VMC----
+368	TOK	the		the\AT---6
+369	TOK	exciting		exciting\JA
+370	TOK	possibility		possibility\N5S
+371	TOK	of		of\P
+372	TOK	protecting		protect\VMG----
+373	TOK	these		this\AD---P
+374	TOK	cells		cell\N5P
+375	TOK	by		by\P
+376	TOK	modifying		modify\VMG----
+377	TOK	their		their\APP3N6
+378	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+379	TOK	Reprogramming	BOS	reprogram\VMG----
+380	TOK	for		for\P
+##	TAG	<name>
+381	TOK	Survival	EOS	Survival\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+383	TOK	Genes	BOS	gene\N5P
+384	TOK	instruct		instruct\VMF6R66
+385	TOK	cells		cell\N5P
+386	TOK	to		to\P
+387	TOK	make		make\VMI----
+388	TOK	specific		specific\JA
+389	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+390	TOK	such		such\JA
+391	TOK	as		as\P
+392	TOK	the		the\AT---6
+393	TOK	enzymes		enzyme\N5P
+394	TOK	that		that\RW63N6
+395	TOK	catalyze		catalyze\VMF6R66
+396	TOK	various		various\JA
+397	TOK	chemical		chemical\JA
+398	TOK	reactions		reaction\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+399	TOK	Nerve	BOS	nerve\N5S
+400	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+401	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+402	TOK	produce		produce\N5S
+403	TOK	enzymes		enzyme\N5P
+404	TOK	that		that\RW63N6
+405	TOK	synthesize		synthesize\VMF6R66
+406	TOK	neurotransmitters		neurotransmitter\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+407	TOK	substances		substance\N5P
+408	TOK	that		that\RW63N6
+409	TOK	carry		carry\VMF6R66
+410	TOK	chemical		chemical\JA
+411	TOK	signals		signal\N5P
+412	TOK	across		across\P
+413	TOK	the		the\AT---6
+414	TOK	tiny		tiny\JA
+415	TOK	gaps		gap\N5P
+---	DLE	(		=\DELIM
+416	TOK	synaptic		synaptic\JA
+417	TOK	spaces		space\N5P
+---	DLD	)		=\DELIM
+418	TOK	between		between\P
+419	TOK	one		one\MCS
+420	TOK	neuron		neuron\N5S
+421	TOK	and		and\CC
+422	TOK	another		another\RIS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+423	TOK	Gene	BOS	gene\N5S
+424	TOK	therapy		therapy\N5S
+425	TOK	targeted		target\VMC----
+426	TOK	to		to\P
+427	TOK	failing		fail\VMG----
+428	TOK	neurons		neuron\N5P
+429	TOK	could		can\VOFDA66
+430	TOK	potentially		potentially\DGA7
+431	TOK	provide		provide\VMI----
+432	TOK	them		them\RPP3NA
+433	TOK	with		with\P
+434	TOK	a		a\AI---S
+435	TOK	gene		gene\N5S
+436	TOK	specifying		specify\VMG----
+437	TOK	a		a\AI---S
+438	TOK	protein		protein\N5S
+439	TOK	that		that\RW63N6
+440	TOK	is		be\V6FDRS3
+441	TOK	able		able\JA
+442	TOK	to		to\P
+443	TOK	shield		shield\VMI----
+444	TOK	these		this\AD---P
+445	TOK	cells		cell\N5P
+446	TOK	from		from\P
+447	TOK	whatever		whatever\AW---6
+448	TOK	threat		threat\N5S
+449	TOK	may		may\VOFDR66
+450	TOK	loom		loom\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+451	TOK	To	BOS	to\P
+452	TOK	create		create\VMI----
+453	TOK	such		such\JA
+454	TOK	remedies		remedy\N5P
+---	DLD	,		=\DELIM
+455	TOK	researchers		researcher\N5P
+456	TOK	must		must\VOFDR66
+457	TOK	first		first\DGA7
+458	TOK	decide		decide\VMI----
+459	TOK	what		what\AW---6
+460	TOK	kinds		kind\N5P
+461	TOK	of		of\P
+462	TOK	proteins		protein\N5P
+463	TOK	would		will\VOFDA66
+464	TOK	be		be\VMI----
+465	TOK	most		most\AG---6
+466	TOK	helpful		helpful\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+467	TOK	In	BOS	in\P
+468	TOK	some		some\AG---6
+469	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+470	TOK	the		the\AT---6
+471	TOK	goal		goal\N5S
+472	TOK	would		will\VOFDA66
+473	TOK	be		be\VMI----
+474	TOK	to		to\P
+475	TOK	augment		augment\VMI----
+476	TOK	the		the\AT---6
+477	TOK	production		production\N5S
+478	TOK	of		of\P
+479	TOK	a		a\AI---S
+480	TOK	particular		particular\JA
+481	TOK	brain		brain\N5S
+482	TOK	protein		protein\N5S
+483	TOK	when		when\CS
+484	TOK	the		the\AT---6
+485	TOK	naturally		naturally\DGA7
+486	TOK	occurring		occur\VMG----
+487	TOK	version		version\N5S
+488	TOK	is		be\V6FDRS3
+489	TOK	dysfunctional		dysfunctional\JA
+490	TOK	or		or\CC
+491	TOK	made		make\VMC----
+492	TOK	in		in\P
+493	TOK	inadequate		inadequate\JA
+494	TOK	amounts		amount\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+495	TOK	Or	BOS	or\CC
+---	DLD	,		=\DELIM
+496	TOK	in		in\P
+497	TOK	theory		theory\N5S
+---	DLD	,		=\DELIM
+498	TOK	one		one\RIS3N-
+499	TOK	might		may\VOFDR66
+500	TOK	want		want\VMI----
+501	TOK	to		to\P
+502	TOK	add		add\VMI----
+503	TOK	a		a\AI---S
+504	TOK	novel		novel\JA
+505	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+506	TOK	found		find\VMC----
+507	TOK	in		in\P
+508	TOK	a		a\AI---S
+509	TOK	different		different\JA
+510	TOK	type		type\N5S
+511	TOK	of		of\P
+512	TOK	tissue		tissue\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+513	TOK	or		or\CC
+514	TOK	even		even\DGA7
+515	TOK	in		in\P
+516	TOK	a		a\AI---S
+517	TOK	different		different\JA
+518	TOK	organism		organism\N5S
+519	TOK	entirely		entirely\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+520	TOK	Another	BOS	another\JA
+521	TOK	strategy		strategy\N5S
+---	DLD	,		=\DELIM
+522	TOK	called		call\VMF6A66
+523	TOK	the		the\AT---6
+524	TOK	antisense		antisense\JA
+525	TOK	approach		approach\VMF6R66
+---	DLD	,		=\DELIM
+526	TOK	also		also\DGA7
+527	TOK	constitutes		constitute\VMFDRS3
+528	TOK	a		a\AI---S
+529	TOK	form		form\N5S
+530	TOK	of		of\P
+531	TOK	gene		gene\N5S
+532	TOK	therapy		therapy\N5S
+---	DLE	[		=\DELIM
+533	TOK	see		see\VMF6R66
+---	DLE	"		=\DELIM
+##	TAG	<name>
+534	TOK	The New Genetic Medicines		The_New_Genetic_Medicines\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+---	DLD	"		=\DELIM
+535	TOK	by		by\P
+##	TAG	<name>
+536	TOK	Jack S		Jack_S\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+537	TOK	Cohen	BOS	cohen\N5S
+538	TOK	and		and\CC
+##	TAG	<name>
+539	TOK	Michael E		Michael_E\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+540	TOK	Hogan	BOS	hogan\N5S
+---	DLD	;		=\DELIM
+##	TAG	<name>
+541	TOK	SCIENTIFIC AMERICAN		SCIENTIFIC_AMERICAN\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<date pos="T" ISO8601="1994-12-">
+542	TOK	December 1994		December_1994\T
+##	TAG	</date>
+---	DLD	]		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+543	TOK	Antisense	BOS	antisense\JA
+544	TOK	tactics		tactic\N5P
+545	TOK	aim		aim\VMF6R66
+546	TOK	to		to\P
+547	TOK	limit		limit\VMI----
+548	TOK	the		the\AT---6
+549	TOK	manufacture		manufacture\N5S
+550	TOK	of		of\P
+551	TOK	proteins		protein\N5P
+552	TOK	that		that\RW63N6
+553	TOK	are		be\V6FDR66
+554	TOK	doing		do\VMG----
+555	TOK	damage		damage\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+556	TOK	Some	BOS	some\AG---6
+557	TOK	types		type\N5P
+558	TOK	of		of\P
+559	TOK	amyotrophic		amyotrophic\JA
+560	TOK	lateral		lateral\JA
+561	TOK	sclerosis		sclerosis\N5S
+562	TOK	and		and\CC
+563	TOK	certain		certain\JA
+564	TOK	other		other\JA
+565	TOK	neurological		neurological\JA
+566	TOK	diseases		disease\N5P
+567	TOK	result		result\VMF6R66
+568	TOK	from		from\P
+569	TOK	the		the\AT---6
+570	TOK	destructively		destructively\DGA7
+571	TOK	intense		intense\JA
+572	TOK	activity		activity\N5S
+573	TOK	of		of\P
+574	TOK	a		a\AI---S
+575	TOK	normal		normal\JA
+576	TOK	protein		protein\N5S
+577	TOK	or		or\CC
+578	TOK	from		from\P
+579	TOK	the		the\AT---6
+580	TOK	action		action\N5S
+581	TOK	of		of\P
+582	TOK	an		an\AI---S
+583	TOK	abnormal		abnormal\JA
+584	TOK	protein		protein\N5S
+585	TOK	that		that\RW63N6
+586	TOK	works		work\VMFDRS3
+587	TOK	in		in\P
+588	TOK	an		an\AI---S
+589	TOK	injurious		injurious\JA
+590	TOK	manner		manner\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+591	TOK	Antisense	BOS	antisense\JA
+592	TOK	therapies		therapy\N5P
+593	TOK	might		may\VOFDR66
+594	TOK	also		also\DGA7
+595	TOK	help		help\VMI----
+596	TOK	when		when\CS
+597	TOK	neurons		neuron\N5P
+598	TOK	synthesize		synthesize\VMF6R66
+599	TOK	proteins		protein\N5P
+600	TOK	that		that\RW63N6
+---	DLE	(		=\DELIM
+601	TOK	for		for\P
+602	TOK	reasons		reason\N5P
+603	TOK	that		that\RW63N6
+604	TOK	are		be\V6FDR66
+605	TOK	still		still\DGA7
+606	TOK	inexplicable		inexplicable\JA
+---	DLD	)		=\DELIM
+607	TOK	exacerbate		exacerbate\VMF6R66
+608	TOK	a		a\AI---S
+609	TOK	neurological		neurological\JA
+610	TOK	crisis		crisis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+611	TOK	To	BOS	to\P
+612	TOK	that		that\AD---S
+613	TOK	end		end\N5S
+---	DLD	,		=\DELIM
+614	TOK	many		many\AI---P
+615	TOK	researchers		researcher\N5P
+616	TOK	are		be\V6FDR66
+617	TOK	now		now\DGA7
+618	TOK	trying		try\VMG----
+619	TOK	to		to\P
+620	TOK	find		find\VMI----
+621	TOK	ways		way\N5P
+622	TOK	to		to\P
+623	TOK	block		block\VMI----
+624	TOK	the		the\AT---6
+625	TOK	production		production\N5S
+626	TOK	of		of\P
+627	TOK	so		so\DGA7
+---	DLI	-		=\DELIM
+628	TOK	called		call\VMC----
+629	TOK	death		death\N5S
+630	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+631	TOK	which		which\RW63N-
+632	TOK	induce		induce\VMF6R66
+633	TOK	endangered		endanger\VMC----
+634	TOK	neurons		neuron\N5P
+635	TOK	to		to\P
+636	TOK	commit		commit\VMI----
+637	TOK	cellular		cellular\JA
+638	TOK	suicide		suicide\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+639	TOK	Once	BOS	once\DGA7
+640	TOK	the		the\AT---6
+641	TOK	basic		basic\JA
+642	TOK	understanding		understanding\N5S
+643	TOK	of		of\P
+644	TOK	a		a\AI---S
+645	TOK	particular		particular\JA
+646	TOK	neurological		neurological\JA
+647	TOK	disease		disease\N5S
+648	TOK	is		be\V6FDRS3
+649	TOK	in		in\P
+650	TOK	place		place\VMI----
+---	DLD	,		=\DELIM
+651	TOK	it		it\RPS3N6
+652	TOK	does		do\V6FDRS3
+653	TOK	not		not\DGA7
+654	TOK	take		take\VMI----
+655	TOK	great		great\JA
+656	TOK	imagination		imagination\N5S
+657	TOK	to		to\P
+658	TOK	come		come\VMI----
+659	TOK	up		up\P
+660	TOK	with		with\P
+661	TOK	a		a\AI---S
+662	TOK	list		list\N5S
+663	TOK	of		of\P
+664	TOK	genes		gene\N5P
+665	TOK	that		that\RW63N6
+666	TOK	might		may\VOFDR66
+667	TOK	save		save\VMI----
+668	TOK	neurons		neuron\N5P
+669	TOK	from		from\P
+670	TOK	destruction		destruction\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+671	TOK	The	BOS	the\AT---6
+672	TOK	challenge		challenge\N5S
+673	TOK	is		be\V6FDRS3
+674	TOK	in		in\P
+675	TOK	figuring		figure\VMG----
+676	TOK	out		out\DGA7
+677	TOK	how		how\DGAW
+678	TOK	to		to\P
+679	TOK	deliver		deliver\VMI----
+680	TOK	those		that\AD---P
+681	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+682	TOK	In	BOS	in\P
+683	TOK	principle		principle\N5S
+---	DLD	,		=\DELIM
+684	TOK	one		one\RIS3N-
+685	TOK	can		can\VOFDR66
+686	TOK	insert		insert\VMI----
+687	TOK	a		a\AI---S
+688	TOK	gene		gene\N5S
+689	TOK	into		into\P
+690	TOK	brain		brain\N5S
+691	TOK	tissue		tissue\N5S
+692	TOK	by		by\P
+693	TOK	directly		directly\DGA7
+694	TOK	injecting		inject\VMG----
+695	TOK	appropriately		appropriately\DGA7
+696	TOK	coded		code\VMC----
+697	TOK	segments		segment\N5P
+698	TOK	of		of\P
+699	TOK	pure		pure\JA
+##	TAG	<name>
+700	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+701	TOK	Unfortunately	BOS	unfortunately\DGA7
+---	DLD	,		=\DELIM
+702	TOK	this		this\AD---S
+703	TOK	brute		brute\JA
+---	DLI	-		=\DELIM
+704	TOK	force		force\N5S
+705	TOK	method		method\N5S
+706	TOK	is		be\V6FDRS3
+707	TOK	rarely		rarely\DGA7
+708	TOK	successful		successful\JA
+---	DLD	,		=\DELIM
+709	TOK	because		because\CS
+710	TOK	neurons		neuron\N5P
+711	TOK	are		be\V6FDR66
+712	TOK	not		not\DGA7
+713	TOK	particularly		particularly\DGA7
+714	TOK	efficient		efficient\JA
+715	TOK	at		at\P
+716	TOK	picking		pick\VMG----
+717	TOK	up		up\P
+718	TOK	such		such\RIS3N-
+---	DLE	"		=\DELIM
+719	TOK	naked		naked\JA
+---	DLD	"		=\DELIM
+##	TAG	<name>
+720	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+721	TOK	A	BOS	a\AI---S
+722	TOK	better		good\JC
+723	TOK	technique		technique\N5S
+724	TOK	is		be\V6FDRS3
+725	TOK	to		to\P
+726	TOK	encase		encase\VMI----
+727	TOK	the		the\AT---6
+728	TOK	gene		gene\N5S
+729	TOK	in		in\P
+730	TOK	a		a\AI---S
+731	TOK	fatty		fatty\JA
+732	TOK	bubble		bubble\N5S
+733	TOK	called		call\VMF6A66
+734	TOK	a		a\AI---S
+735	TOK	liposome		liposome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+736	TOK	Because of	BOS	Because_of\P
+##	TAG	</loc>
+737	TOK	the		the\AT---6
+738	TOK	chemical		chemical\JA
+739	TOK	nature		nature\N5S
+740	TOK	of		of\P
+741	TOK	these		this\AD---P
+742	TOK	tiny		tiny\JA
+743	TOK	containers		container\N5P
+---	DLD	,		=\DELIM
+744	TOK	liposomes		liposome\N5P
+745	TOK	easily		easily\DGA7
+746	TOK	transport		transport\VMF6R66
+##	TAG	<name>
+747	TOK	DNA		DNA\N46
+##	TAG	</name>
+748	TOK	into		into\P
+749	TOK	target		target\N5S
+750	TOK	neurons		neuron\N5P
+751	TOK	by		by\P
+752	TOK	fusing		fuse\VMG----
+753	TOK	with		with\P
+754	TOK	the		the\AT---6
+755	TOK	cell		cell\N5S
+756	TOK	membrane		membrane\N5S
+757	TOK	and		and\CC
+758	TOK	releasing		release\VMG----
+759	TOK	their		their\APP3N6
+760	TOK	contents		content\N5P
+761	TOK	into		into\P
+762	TOK	the		the\AT---6
+763	TOK	interior		interior\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+764	TOK	The	BOS	the\AT---6
+765	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+766	TOK	for		for\P
+767	TOK	reasons		reason\N5P
+768	TOK	not		not\DGA7
+769	TOK	entirely		entirely\DGA7
+770	TOK	understood		understand\VMF6A66
+---	DLD	,		=\DELIM
+771	TOK	will		will\VOFDR66
+772	TOK	then		then\DGA7
+773	TOK	incorporate		incorporate\VMI----
+774	TOK	some		some\AG---6
+775	TOK	of		of\P
+776	TOK	this		this\AD---S
+777	TOK	material		material\N5S
+778	TOK	into		into\P
+779	TOK	its		its\APS3N6
+780	TOK	nucleus		nucleus\N5S
+---	DLD	,		=\DELIM
+781	TOK	where		where\CS
+782	TOK	its		its\APS3N6
+783	TOK	own		own\JA
+##	TAG	<name>
+784	TOK	DNA		DNA\N46
+##	TAG	</name>
+785	TOK	resides		reside\VMFDRS3
+---	DLD	,		=\DELIM
+786	TOK	and		and\CC
+787	TOK	will		will\VOFDR66
+788	TOK	use		use\VMI----
+789	TOK	the		the\AT---6
+790	TOK	gene		gene\N5S
+791	TOK	as		as\P
+792	TOK	a		a\AI---S
+793	TOK	blueprint		blueprint\N5S
+794	TOK	for		for\P
+795	TOK	making		make\VMG----
+796	TOK	the		the\AT---6
+797	TOK	therapeutic		therapeutic\JA
+798	TOK	protein		protein\N5S
+---	DLE	[		=\DELIM
+799	TOK	see		see\VMF6R66
+---	DLE	"		=\DELIM
+##	TAG	<name>
+800	TOK	Nonviral Strategies for Gene Therapy		Nonviral_Strategies_for_Gene_Therapy\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+---	DLD	"		=\DELIM
+801	TOK	by		by\P
+##	TAG	<name>
+802	TOK	Philip L. Felgner		Philip_L._Felgner\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+803	TOK	on		on\P
+804	TOK	page		page\N5S
+##	TAG	<num>
+805	TOK	102		102\X
+##	TAG	</num>
+---	DLD	]		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+806	TOK	An	BOS	an\AI---S
+807	TOK	even		even\DGA7
+808	TOK	better		good\JC
+809	TOK	tool		tool\N5S
+810	TOK	for		for\P
+811	TOK	putting		put\VMG----
+812	TOK	genes		gene\N5P
+813	TOK	into		into\P
+814	TOK	cells		cell\N5P
+815	TOK	is		be\V6FDRS3
+816	TOK	a		a\AI---S
+817	TOK	virus		virus\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+818	TOK	In	BOS	in\P
+819	TOK	the		the\AT---6
+820	TOK	course		course\N5S
+821	TOK	of		of\P
+822	TOK	a		a\AI---S
+823	TOK	typical		typical\JA
+824	TOK	infection		infection\N5S
+---	DLD	,		=\DELIM
+825	TOK	viruses		virus\N5P
+826	TOK	insert		insert\VMF6R66
+827	TOK	their		their\APP3N6
+828	TOK	genetic		genetic\JA
+829	TOK	material		material\N5S
+830	TOK	into		into\P
+831	TOK	cells		cell\N5P
+832	TOK	of		of\P
+833	TOK	the		the\AT---6
+834	TOK	victim		victim\N5S
+---	DLD	,		=\DELIM
+835	TOK	where		where\CS
+836	TOK	this		this\RDS3N-
+837	TOK	added		add\VMF6A66
+838	TOK	genetic		genetic\JA
+839	TOK	code		code\N5S
+840	TOK	directs		direct\VMFDRS3
+841	TOK	the		the\AT---6
+842	TOK	synthesis		synthesis\N5S
+843	TOK	of		of\P
+844	TOK	various		various\JA
+845	TOK	molecules		molecule\N5P
+846	TOK	needed		need\VMC----
+847	TOK	to		to\P
+848	TOK	make		make\VMI----
+849	TOK	new		new\JA
+850	TOK	viral		viral\JA
+851	TOK	particles		particle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+852	TOK	Although	BOS	although\CS
+853	TOK	natural		natural\JA
+854	TOK	viruses		virus\N5P
+855	TOK	can		can\VOFDR66
+856	TOK	be		be\VMI----
+857	TOK	immensely		immensely\DGA7
+858	TOK	destructive		destructive\JA
+---	DLD	,		=\DELIM
+859	TOK	scientists		scientist\N5P
+860	TOK	can		can\VOFDR66
+861	TOK	tame		tame\VMI----
+862	TOK	and		and\CC
+863	TOK	convert		convert\VMI----
+864	TOK	some		some\AG---6
+865	TOK	of		of\P
+866	TOK	them		them\RPP3NA
+867	TOK	into		into\P
+868	TOK	microscopic		microscopic\JA
+##	TAG	<name>
+869	TOK	Trojan		Trojan\N46
+##	TAG	</name>
+870	TOK	horses		horse\N5P
+---	DLD	,		=\DELIM
+871	TOK	which		which\RW63N-
+872	TOK	then		then\DGA7
+873	TOK	can		can\VOFDR66
+874	TOK	carry		carry\VMI----
+875	TOK	a		a\AI---S
+876	TOK	therapeutic		therapeutic\JA
+877	TOK	gene		gene\N5S
+878	TOK	and		and\CC
+879	TOK	quietly		quietly\DGA7
+880	TOK	deposit		deposit\VMF6R66
+881	TOK	it		it\RPS3N6
+882	TOK	inside		inside\P
+883	TOK	a		a\AI---S
+884	TOK	cell		cell\N5S
+885	TOK	without		without\P
+886	TOK	causing		cause\VMG----
+887	TOK	damage		damage\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+888	TOK	For	BOS	for\P
+889	TOK	gene		gene\N5S
+890	TOK	therapy		therapy\N5S
+891	TOK	in		in\P
+892	TOK	the		the\AT---6
+893	TOK	central		central\JA
+894	TOK	nervous		nervous\JA
+895	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+896	TOK	investigators		investigator\N5P
+897	TOK	are		be\V6FDR66
+898	TOK	focusing		focus\VMG----
+899	TOK	much		much\DGA7
+900	TOK	of		of\P
+901	TOK	their		their\APP3N6
+902	TOK	effort		effort\N5S
+903	TOK	on		on\P
+904	TOK	just		just\DGA7
+##	TAG	<loc pos="RP63N-">
+905	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+906	TOK	viral		viral\JA
+907	TOK	types		type\N5P
+---	DLD	,		=\DELIM
+908	TOK	including		including\P
+909	TOK	adenoviruses		adenovirus\N5P
+910	TOK	and		and\CC
+911	TOK	herpesviruses		herpesvirus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+912	TOK	Combating	BOS	combat\VMG----
+##	TAG	<name>
+913	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+914	PGR	's	EOS	genmark\GENMARK
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+916	TOK	Experiments	BOS	experiment\N5P
+917	TOK	with		with\P
+918	TOK	these		this\AD---P
+919	TOK	viral		viral\JA
+920	TOK	vectors		vector\N5P
+---	DLD	,		=\DELIM
+921	TOK	as		as\P
+922	TOK	such		such\JA
+923	TOK	delivery		delivery\N5S
+924	TOK	vehicles		vehicle\N5P
+925	TOK	are		be\V6FDR66
+926	TOK	called		call\VMC----
+---	DLD	,		=\DELIM
+927	TOK	have		have\V6F6R66
+928	TOK	provided		provide\VMC----
+929	TOK	the		the\AT---6
+930	TOK	first		first\MOS
+931	TOK	hints		hint\N5P
+932	TOK	that		that\CS
+933	TOK	gene		gene\N5S
+934	TOK	therapy		therapy\N5S
+935	TOK	in		in\P
+936	TOK	the		the\AT---6
+937	TOK	nervous		nervous\JA
+938	TOK	system		system\N5S
+939	TOK	can		can\VOFDR66
+940	TOK	work		work\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+941	TOK	One	BOS	one\RIS3N-
+942	TOK	promising		promising\JA
+943	TOK	area		area\N5S
+944	TOK	of		of\P
+945	TOK	research		research\N5S
+946	TOK	is		be\V6FDRS3
+947	TOK	directed		direct\VMC----
+948	TOK	against		against\P
+##	TAG	<name>
+949	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+950	PGR	's		genmark\GENMARK
+951	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+952	TOK	This	BOS	this\AD---S
+953	TOK	devastating		devastating\JA
+954	TOK	disorder		disorder\N5S
+955	TOK	arises		arise\VMFDRS3
+956	TOK	because		because\CS
+957	TOK	a		a\AI---S
+958	TOK	part		part\N5S
+959	TOK	of		of\P
+960	TOK	the		the\AT---6
+961	TOK	brain		brain\N5S
+---	DLD	,		=\DELIM
+962	TOK	known		know\VMC----
+963	TOK	as		as\P
+964	TOK	the		the\AT---6
+965	TOK	substantia		substantia\N5S
+966	TOK	nigra		nigra\N5P
+---	DLE	,		=\DELIM
+967	TOK	degenerates		degenerate\N5P
+968	TOK	over		over\P
+969	TOK	time		time\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+970	TOK	This	BOS	this\AD---S
+971	TOK	region		region\N5S
+972	TOK	helps		help\VMFDRS3
+973	TOK	to		to\P
+974	TOK	regulate		regulate\VMI----
+975	TOK	motor		motor\N5S
+976	TOK	control		control\VMF6R66
+---	DLD	,		=\DELIM
+977	TOK	and		and\CC
+978	TOK	its		its\APS3N6
+979	TOK	destruction		destruction\N5S
+980	TOK	makes		make\VMFDRS3
+981	TOK	it		it\RPS3N6
+982	TOK	hard		hard\JA
+983	TOK	for		for\P
+984	TOK	a		a\AI---S
+985	TOK	person		person\N5S
+986	TOK	to		to\P
+987	TOK	initiate		initiate\VMI----
+988	TOK	movements		movement\N5P
+989	TOK	or		or\CC
+990	TOK	execute		execute\VMI----
+991	TOK	complex		complex\JA
+992	TOK	coordinated		coordinate\VMC----
+993	TOK	motion		motion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+994	TOK	The	BOS	the\AT---6
+995	TOK	loss		loss\N5S
+996	TOK	also		also\DGA7
+997	TOK	brings		bring\VMFDRS3
+998	TOK	on		on\P
+999	TOK	the		the\AT---6
+1000	TOK	classic		classic\JA
+1001	TOK	parkinsonian		parkinsonian\JA
+1002	TOK	tremor		tremor\N5S
+---	DLE	[		=\DELIM
+1003	TOK	see		see\VMF6R66
+---	DLE	"		=\DELIM
+##	TAG	<name pos="N46" type="other">
+1004	TOK	Understanding Parkinson's Disease		Understanding_Parkinson's_Disease\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+---	DLD	"		=\DELIM
+1005	TOK	by		by\P
+##	TAG	<name>
+1006	TOK	Moussa B. H. Youdim		Moussa_B._H._Youdim\N46
+##	TAG	</name>
+1007	TOK	and		and\CC
+##	TAG	<name>
+1008	TOK	Peter Riederer		Peter_Riederer\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+##	TAG	<name>
+1009	TOK	SCIENTIFIC AMERICAN		SCIENTIFIC_AMERICAN\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<loc pos="N5S">
+1010	TOK	January		january\N5S
+##	TAG	</loc>
+---	DLD	]		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1011	TOK	Parkinson	BOS	Parkinson\N46
+##	TAG	</name>
+1012	PGR	's		genmark\GENMARK
+1013	TOK	disease		disease\N5S
+1014	TOK	ensues		ensue\VMFDRS3
+1015	TOK	after		after\P
+1016	TOK	the		the\AT---6
+1017	TOK	death		death\N5S
+1018	TOK	of		of\P
+1019	TOK	nigral		nigral\JA
+1020	TOK	neurons		neuron\N5P
+1021	TOK	that		that\RW63N6
+1022	TOK	secrete		secrete\VMF6R66
+1023	TOK	the		the\AT---6
+1024	TOK	neurotransmitter		neurotransmitter\N5S
+1025	TOK	dopamine		dopamine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1026	TOK	For	BOS	for\P
+1027	TOK	complex		complex\JA
+1028	TOK	reasons		reason\N5P
+---	DLD	,		=\DELIM
+1029	TOK	these		this\AD---P
+1030	TOK	neurons		neuron\N5P
+1031	TOK	also		also\DGA7
+1032	TOK	generate		generate\VMF6R66
+1033	TOK	oxygen		oxygen\N5S
+1034	TOK	radicals		radical\N5P
+---	DLD	,		=\DELIM
+1035	TOK	rogue		rogue\JA
+1036	TOK	chemical		chemical\JA
+1037	TOK	groups		group\N5P
+1038	TOK	that		that\RW63N6
+1039	TOK	cause		cause\VMF6R66
+1040	TOK	damaging		damaging\JA
+1041	TOK	reactions		reaction\N5P
+1042	TOK	within		within\P
+1043	TOK	the		the\AT---6
+1044	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1045	TOK	Hence	BOS	hence\DGA7
+---	DLD	,		=\DELIM
+1046	TOK	there		there\DGA7
+1047	TOK	is		be\V6FDRS3
+1048	TOK	a		a\AI---S
+1049	TOK	fair		fair\JA
+1050	TOK	amount		amount\N5S
+1051	TOK	of		of\P
+1052	TOK	ongoing		ongoing\JA
+1053	TOK	destruction		destruction\N5S
+1054	TOK	in		in\P
+1055	TOK	the		the\AT---6
+1056	TOK	substantia		substantia\N5S
+1057	TOK	nigra		nigra\N5S
+1058	TOK	as		as\P
+1059	TOK	a		a\AI---S
+1060	TOK	normal		normal\JA
+1061	TOK	part		part\N5S
+1062	TOK	of		of\P
+##	TAG	<abbr>
+1063	TOK	aging.		aging.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+1064	TOK	This		This\N5P
+1065	TOK	process		process\N5S
+1066	TOK	contributes		contribute\VMFDRS3
+1067	TOK	to		to\P
+1068	TOK	the		the\AT---6
+1069	TOK	mild		mild\JA
+1070	TOK	tremor		tremor\N5S
+1071	TOK	typical		typical\JA
+1072	TOK	of		of\P
+##	TAG	<abbr>
+1073	TOK	senescence.		senescence.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+##	TAG	<name>
+1074	TOK	Sometimes Parkinson		Sometimes_Parkinson\N46
+##	TAG	</name>
+1075	PGR	's		genmark\GENMARK
+1076	TOK	disease		disease\N5S
+1077	TOK	appears		appear\VMFDRS3
+1078	TOK	to		to\P
+1079	TOK	strike		strike\VMI----
+1080	TOK	people		people\N56
+1081	TOK	who		who\RW63N-
+1082	TOK	are		be\V6FDR66
+1083	TOK	predisposed		predispose\VMC----
+1084	TOK	to		to\P
+1085	TOK	having		have\VMG----
+1086	TOK	an		an\AI---S
+1087	TOK	excess		excess\N5S
+1088	TOK	of		of\P
+1089	TOK	oxygen		oxygen\N5S
+1090	TOK	radicals		radical\N5P
+1091	TOK	in		in\P
+1092	TOK	their		their\APP3N6
+1093	TOK	brain		brain\N5S
+1094	TOK	tissue		tissue\N5S
+1095	TOK	or		or\CC
+1096	TOK	who		who\RW63N-
+1097	TOK	have		have\V6F6R66
+1098	TOK	been		be\VMC----
+1099	TOK	exposed		expose\VMC----
+1100	TOK	to		to\P
+1101	TOK	environmental		environmental\JA
+1102	TOK	toxins		toxin\N5P
+1103	TOK	that		that\RW63N6
+1104	TOK	cause		cause\VMF6R66
+1105	TOK	these		this\AD---P
+1106	TOK	oxygen		oxygen\N5S
+1107	TOK	radicals		radical\N5P
+1108	TOK	to		to\P
+1109	TOK	form		form\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1110	TOK	Other	BOS	other\JA
+1111	TOK	cases		case\N5P
+1112	TOK	seem		seem\VMF6R66
+1113	TOK	to		to\P
+1114	TOK	involve		involve\VMI----
+1115	TOK	people		people\N56
+1116	TOK	who		who\RW63N-
+1117	TOK	have		have\V6F6R66
+1118	TOK	normal		normal\JA
+1119	TOK	amounts		amount\N5P
+1120	TOK	of		of\P
+1121	TOK	these		this\AD---P
+1122	TOK	chemicals		chemical\N5P
+1123	TOK	but		but\CC
+1124	TOK	who		who\RW63N-
+1125	TOK	have		have\V6F6R66
+1126	TOK	impaired		impair\VMC----
+1127	TOK	antioxidant		antioxidant\JA
+1128	TOK	defenses		defense\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1129	TOK	Whatever	BOS	whatever\RW63N-
+1130	TOK	the		the\AT---6
+1131	TOK	underlying		underlying\JA
+1132	TOK	cause		cause\VMF6R66
+---	DLD	,		=\DELIM
+1133	TOK	it		it\RPS3N6
+1134	TOK	is		be\V6FDRS3
+1135	TOK	clear		clear\JA
+1136	TOK	that		that\CS
+1137	TOK	the		the\AT---6
+1138	TOK	symptoms		symptom\N5P
+1139	TOK	of		of\P
+##	TAG	<name>
+1140	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+1141	PGR	's		genmark\GENMARK
+1142	TOK	disease		disease\N5S
+1143	TOK	result		result\N5S
+1144	TOK	primarily		primarily\DGA7
+1145	TOK	from		from\P
+1146	TOK	the		the\AT---6
+1147	TOK	absence		absence\N5S
+1148	TOK	of		of\P
+1149	TOK	dopamine		dopamine\N5S
+1150	TOK	after		after\P
+1151	TOK	too		too\DGA7
+1152	TOK	many		many\AI---P
+1153	TOK	neurons		neuron\N5P
+1154	TOK	in		in\P
+1155	TOK	the		the\AT---6
+1156	TOK	substantia		substantia\N5S
+1157	TOK	nigra		nigra\N5S
+1158	TOK	die		die\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1159	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+1160	TOK	a		a\AI---S
+1161	TOK	straightforward		straightforward\JA
+1162	TOK	way		way\N5S
+1163	TOK	to		to\P
+1164	TOK	correct		correct\VMI----
+1165	TOK	this		this\AD---S
+1166	TOK	deficit		deficit\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1167	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+1168	TOK	temporarily		temporarily\DGA7
+---	DLD	,		=\DELIM
+1169	TOK	would		will\VOFDA66
+1170	TOK	be		be\VMI----
+1171	TOK	to		to\P
+1172	TOK	boost		boost\VMI----
+1173	TOK	the		the\AT---6
+1174	TOK	amount		amount\N5S
+1175	TOK	of		of\P
+1176	TOK	dopamine		dopamine\N5S
+1177	TOK	where		where\CS
+1178	TOK	it		it\RPS3N6
+1179	TOK	is		be\V6FDRS3
+1180	TOK	in		in\P
+1181	TOK	short		short\JA
+1182	TOK	supply		supply\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1183	TOK	Dopamine	BOS	dopamine\N5S
+1184	TOK	is		be\V6FDRS3
+1185	TOK	not		not\DGA7
+1186	TOK	itself		itself\RXS3N-
+1187	TOK	a		a\AI---S
+1188	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+1189	TOK	but		but\CC
+1190	TOK	the		the\AT---6
+1191	TOK	enzymes		enzyme\N5P
+1192	TOK	that		that\RW63N6
+1193	TOK	synthesize		synthesize\VMF6R66
+1194	TOK	this		this\AD---S
+1195	TOK	neurotransmitter		neurotransmitter\N5S
+1196	TOK	are		be\V6FDR66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1197	TOK	So	BOS	so\DGA7
+1198	TOK	increasing		increase\VMG----
+1199	TOK	the		the\AT---6
+1200	TOK	manufacture		manufacture\N5S
+1201	TOK	of		of\P
+1202	TOK	one		one\MCS
+1203	TOK	enzyme		enzyme\N5S
+1204	TOK	critical		critical\JA
+1205	TOK	to		to\P
+1206	TOK	that		that\AD---S
+1207	TOK	process		process\N5S
+---	DLE	(		=\DELIM
+1208	TOK	tyrosine		tyrosine\N5S
+1209	TOK	hydroxylase		hydroxylase\N5S
+---	DLE	)		=\DELIM
+1210	TOK	should		shall\VOFDA66
+1211	TOK	enhance		enhance\VMI----
+1212	TOK	the		the\AT---6
+1213	TOK	synthesis		synthesis\N5S
+1214	TOK	of		of\P
+1215	TOK	this		this\AD---S
+1216	TOK	much		much\DGA7
+1217	TOK	needed		need\VMF6A66
+1218	TOK	brain		brain\N5S
+1219	TOK	chemical		chemical\JA
+1220	TOK	for		for\P
+1221	TOK	as		as\DGA7
+1222	TOK	long		long\JA
+1223	TOK	as		as\P
+1224	TOK	the		the\AT---6
+1225	TOK	dopamine		dopamine\N5S
+---	DLI	-		=\DELIM
+1226	TOK	producing		produce\VMG----
+1227	TOK	cells		cell\N5P
+1228	TOK	of		of\P
+1229	TOK	the		the\AT---6
+1230	TOK	substantia		substantia\N5S
+1231	TOK	nigra		nigra\N5S
+1232	TOK	survive		survive\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1233	TOK	Although	BOS	although\CS
+1234	TOK	administering		administer\VMG----
+1235	TOK	a		a\AI---S
+1236	TOK	chemical		chemical\JA
+1237	TOK	precursor		precursor\N5S
+1238	TOK	to		to\P
+1239	TOK	dopamine		dopamine\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1240	TOK	a		a\AI---S
+1241	TOK	substance		substance\N5S
+1242	TOK	called		call\VMF6A66
+##	TAG	<name>
+1243	TOK	L-dopa--also		L-dopa--also\N46
+##	TAG	</name>
+1244	TOK	works		work\VMFDRS3
+1245	TOK	to		to\P
+1246	TOK	augment		augment\VMI----
+1247	TOK	levels		level\N5P
+1248	TOK	of		of\P
+1249	TOK	this		this\AD---S
+1250	TOK	neurotransmitter		neurotransmitter\N5S
+---	DLD	,		=\DELIM
+1251	TOK	the		the\AT---6
+1252	TOK	drug		drug\N5S
+1253	TOK	reacts		react\VMFDRS3
+1254	TOK	throughout		throughout\P
+1255	TOK	the		the\AT---6
+1256	TOK	brain		brain\N5S
+---	DLD	,		=\DELIM
+1257	TOK	causing		cause\VMG----
+1258	TOK	serious		serious\JA
+1259	TOK	side		side\N5S
+1260	TOK	effects		effect\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1261	TOK	The	BOS	the\AT---6
+1262	TOK	lure		lure\N5S
+1263	TOK	of		of\P
+1264	TOK	gene		gene\N5S
+1265	TOK	therapy		therapy\N5S
+1266	TOK	in		in\P
+1267	TOK	this		this\AD---S
+1268	TOK	context		context\N5S
+1269	TOK	is		be\V6FDRS3
+1270	TOK	that		that\CS
+1271	TOK	corrective		corrective\N5S
+1272	TOK	changes		change\N5P
+1273	TOK	would		will\VOFDA66
+1274	TOK	take		take\VMI----
+1275	TOK	effect		effect\N5S
+1276	TOK	just		just\DGA7
+1277	TOK	within		within\P
+1278	TOK	the		the\AT---6
+1279	TOK	substantia		substantia\N5S
+1280	TOK	nigra		nigra\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1282	TOK	Several	BOS	several\JA
+1283	TOK	scientists		scientist\N5P
+1284	TOK	have		have\V6F6R66
+1285	TOK	been		be\VMC----
+1286	TOK	working		working\JA
+1287	TOK	hard		hard\JA
+1288	TOK	to		to\P
+1289	TOK	exploit		exploit\VMI----
+1290	TOK	this		this\AD---S
+1291	TOK	possibility		possibility\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1292	TOK	In	BOS	in\P
+1293	TOK	a		a\AI---S
+1294	TOK	pair		pair\N56
+1295	TOK	of		of\P
+1296	TOK	recent		recent\JA
+1297	TOK	collaborative		collaborative\JA
+1298	TOK	studies		study\N5P
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1299	TOK	five		five\X
+##	TAG	</num>
+1300	TOK	research		research\N5S
+1301	TOK	teams		team\N5P
+1302	TOK	reported		report\VMF6A66
+1303	TOK	success		success\N5S
+1304	TOK	using		use\VMG----
+1305	TOK	herpesviruses		herpesvirus\N5P
+1306	TOK	as		as\P
+1307	TOK	gene		gene\N5S
+1308	TOK	vectors		vector\N5P
+1309	TOK	to		to\P
+1310	TOK	correct		correct\JA
+1311	TOK	symptoms		symptom\N5P
+1312	TOK	in		in\P
+1313	TOK	rats		rat\N5P
+1314	TOK	that		that\RW63N6
+1315	TOK	were		be\V6F-A66
+1316	TOK	surgically		surgically\DGA7
+1317	TOK	treated		treat\VMC----
+1318	TOK	in		in\P
+1319	TOK	a		a\AI---S
+1320	TOK	way		way\N5S
+1321	TOK	that		that\RW63N6
+1322	TOK	caused		cause\VMF6A66
+1323	TOK	them		them\RPP3NA
+1324	TOK	to		to\P
+1325	TOK	exhibit		exhibit\VMI----
+1326	TOK	some		some\AG---6
+1327	TOK	of		of\P
+1328	TOK	the		the\AT---6
+1329	TOK	manifestations		manifestation\N5P
+1330	TOK	of		of\P
+##	TAG	<name>
+1331	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+1332	PGR	's		genmark\GENMARK
+1333	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1334	TOK	Application	BOS	application\N5S
+1335	TOK	of		of\P
+1336	TOK	gene		gene\N5S
+1337	TOK	therapy		therapy\N5S
+1338	TOK	increased		increase\VMF6A66
+1339	TOK	the		the\AT---6
+1340	TOK	production		production\N5S
+1341	TOK	of		of\P
+1342	TOK	the		the\AT---6
+1343	TOK	corrective		corrective\N5S
+1344	TOK	enzyme		enzyme\N5S
+---	DLD	,		=\DELIM
+1345	TOK	raised		raise\VMC----
+1346	TOK	the		the\AT---6
+1347	TOK	level		level\N5S
+1348	TOK	of		of\P
+1349	TOK	dopamine		dopamine\N5S
+1350	TOK	near		near\P
+1351	TOK	the		the\AT---6
+1352	TOK	cells		cell\N5P
+1353	TOK	that		that\RW63N6
+1354	TOK	had		have\V6F6A66
+1355	TOK	been		be\VMC----
+1356	TOK	deprived		deprive\VMC----
+1357	TOK	of		of\P
+1358	TOK	this		this\AD---S
+1359	TOK	neurotransmitter		neurotransmitter\N5S
+1360	TOK	and		and\CC
+1361	TOK	partially		partially\DGA7
+1362	TOK	eliminated		eliminate\VMF6A66
+1363	TOK	the		the\AT---6
+1364	TOK	movement		movement\N5S
+1365	TOK	disorders		disorder\N5P
+1366	TOK	in		in\P
+1367	TOK	these		this\AD---P
+1368	TOK	animals		animal\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1369	TOK	Dale	BOS	dale\N5S
+##	TAG	<name>
+1370	TOK	E. Bredesen		E._Bredesen\N46
+##	TAG	</name>
+1371	TOK	and		and\CC
+1372	TOK	his		his\APS3M6
+1373	TOK	colleagues		colleague\N5P
+1374	TOK	at		at\P
+1375	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+1376	TOK	Burnham Institute		Burnham_Institute\N46
+##	TAG	</name>
+1377	TOK	in		in\P
+##	TAG	<name>
+1378	TOK	La Jolla		La_Jolla\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+1379	TOK	Calif.		Calif.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+1380	TOK	recently		recently\DGA7
+1381	TOK	explored		explore\VMC----
+1382	TOK	an		an\AI---S
+1383	TOK	even		even\DGA7
+1384	TOK	more		more\DDC7
+1385	TOK	sophisticated		sophisticated\JA
+1386	TOK	scheme		scheme\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1387	TOK	Investigators	BOS	investigator\N5P
+1388	TOK	had		have\V6F6A66
+1389	TOK	shown		show\VMC----
+1390	TOK	previously		previously\DGA7
+1391	TOK	that		that\CS
+1392	TOK	transplanting		transplant\VMG----
+1393	TOK	neurons		neuron\N5P
+1394	TOK	from		from\P
+1395	TOK	the		the\AT---6
+1396	TOK	substantia		substantia\N5S
+1397	TOK	nigra		nigra\N5S
+1398	TOK	of		of\P
+1399	TOK	fetal		fetal\JA
+1400	TOK	rats		rat\N5P
+1401	TOK	corrected		correct\VMC----
+1402	TOK	some		some\DGA7
+1403	TOK	of		of\P
+1404	TOK	the		the\AT---6
+1405	TOK	parkinsonian		parkinsonian\JA
+1406	TOK	defects		defect\N5P
+1407	TOK	that		that\RW63N6
+1408	TOK	were		be\V6F-A66
+1409	TOK	surgically		surgically\DGA7
+1410	TOK	induced		induce\VMC----
+1411	TOK	in		in\P
+1412	TOK	adult		adult\N5S
+1413	TOK	rats		rat\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1414	TOK	This	BOS	this\AD---S
+1415	TOK	strategy		strategy\N5S
+1416	TOK	worked		work\VMF6A66
+1417	TOK	because		because\CS
+1418	TOK	the		the\AT---6
+1419	TOK	robust		robust\JA
+1420	TOK	young		young\JA
+1421	TOK	neurons		neuron\N5P
+1422	TOK	were		be\V6F-A66
+1423	TOK	able		able\JA
+1424	TOK	to		to\P
+1425	TOK	grow		grow\VMI----
+1426	TOK	and		and\CC
+1427	TOK	produce		produce\VMI----
+1428	TOK	dopamine		dopamine\N5S
+1429	TOK	for		for\P
+1430	TOK	the		the\AT---6
+1431	TOK	nearby		nearby\JA
+1432	TOK	cells		cell\N5P
+1433	TOK	in		in\DGA7
+1434	TOK	need		need\V6F6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1435	TOK	A	BOS	a\AI---S
+1436	TOK	problem		problem\N5S
+1437	TOK	emerged		emerge\VMF6A66
+---	DLD	,		=\DELIM
+1438	TOK	however		however\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1439	TOK	For	BOS	for\P
+1440	TOK	some		some\AG---6
+1441	TOK	reason		reason\N5S
+---	DLD	,		=\DELIM
+1442	TOK	the		the\AT---6
+1443	TOK	grafted		graft\VMC----
+1444	TOK	neurons		neuron\N5P
+1445	TOK	tended		tend\VMF6A66
+1446	TOK	to		to\P
+1447	TOK	activate		activate\VMI----
+1448	TOK	an		an\AI---S
+1449	TOK	internal		internal\JA
+1450	TOK	suicide		suicide\N5S
+1451	TOK	program		program\VMF6R66
+---	DLE	(		=\DELIM
+1452	TOK	a		a\AI---S
+1453	TOK	process		process\N5S
+1454	TOK	termed		term\VMC----
+1455	TOK	apoptosis		apoptosis\N5S
+---	DLD	)		=\DELIM
+1456	TOK	and		and\CC
+1457	TOK	died		die\VMF6A66
+1458	TOK	after		after\P
+1459	TOK	a		a\AI---S
+1460	TOK	while		while\CS
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1461	TOK	So	BOS	so\CC
+##	TAG	<name>
+1462	TOK	Bredesen		Bredesen\N46
+##	TAG	</name>
+1463	TOK	and		and\CC
+1464	TOK	his		his\APS3M6
+1465	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+1466	TOK	workers		worker\N5P
+1467	TOK	carried		carry\VMC----
+1468	TOK	out		out\DGA7
+1469	TOK	gene		gene\N5S
+1470	TOK	therapy		therapy\N5S
+1471	TOK	on		on\P
+1472	TOK	the		the\AT---6
+1473	TOK	fetal		fetal\JA
+1474	TOK	neurons		neuron\N5P
+1475	TOK	before		before\P
+1476	TOK	transplanting		transplant\VMG----
+1477	TOK	them		them\RPP3NA
+---	DLD	;		=\DELIM
+1478	TOK	the		the\AT---6
+1479	TOK	researchers		researcher\N5P
+1480	TOK	hoped		hope\VMC----
+1481	TOK	to		to\P
+1482	TOK	coax		coax\VMI----
+1483	TOK	these		this\AD---P
+1484	TOK	cells		cell\N5P
+1485	TOK	to		to\P
+1486	TOK	produce		produce\VMI----
+1487	TOK	large		large\JA
+1488	TOK	quantities		quantity\N5P
+1489	TOK	of		of\P
+1490	TOK	a		a\AI---S
+1491	TOK	protein		protein\N5S
+1492	TOK	called		call\VMF6A66
+1493	TOK	xxx		noanat\W
+1494	TOK	which		which\RW63N-
+1495	TOK	suppresses		suppress\VMFDRS3
+1496	TOK	cell		cell\N5S
+1497	TOK	suicide		suicide\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1498	TOK	The	BOS	the\AT---6
+1499	TOK	result		result\N5S
+1500	TOK	was		be\V6F-A66
+1501	TOK	dramatic		dramatic\JA
+---	DLD	:		=\DELIM
+##	TAG	<num>
+1502	TOK	four		four\X
+##	TAG	</num>
+1503	TOK	weeks		week\N5P
+1504	TOK	later		later\DGC7
+1505	TOK	the		the\AT---6
+1506	TOK	rats		rat\N5P
+1507	TOK	that		that\RW63N6
+1508	TOK	had		have\V6F6A66
+1509	TOK	received		receive\VMC----
+1510	TOK	standard		standard\JA
+1511	TOK	grafts		graft\N5P
+1512	TOK	were		be\V6F-A66
+1513	TOK	only		only\DGA7
+1514	TOK	marginally		marginally\DGA7
+1515	TOK	better		good\JC
+---	DLD	,		=\DELIM
+1516	TOK	whereas		whereas\CS
+1517	TOK	the		the\AT---6
+1518	TOK	creatures		creature\N5P
+1519	TOK	that		that\RW63N6
+1520	TOK	obtained		obtain\VMF6A66
+1521	TOK	the		the\AT---6
+1522	TOK	added		add\VMC----
+1523	TOK	gene		gene\N5S
+1524	TOK	in		in\P
+1525	TOK	heir		heir\N5S
+1526	TOK	grafts		graft\N5P
+1527	TOK	were		be\V6F-A66
+1528	TOK	substantially		substantially\DGA7
+1529	TOK	improved		improve\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1530	TOK	Treatment	BOS	treatment\N5S
+1531	TOK	for		for\P
+##	TAG	<name>
+1532	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+1533	PGR	's		genmark\GENMARK
+1534	TOK	disease		disease\N5S
+1535	TOK	would		will\VOFDA66
+1536	TOK	require		require\VMI----
+1537	TOK	a		a\AI---S
+1538	TOK	longer		long\JC
+1539	TOK	period		period\N5S
+1540	TOK	of		of\P
+1541	TOK	effectiveness		effectiveness\N5S
+1542	TOK	still		still\DGA7
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1543	TOK	one		one\RIS3N-
+1544	TOK	would		will\VOFDA66
+1545	TOK	want		want\VMI----
+1546	TOK	the		the\AT---6
+1547	TOK	grafts		graft\N5P
+1548	TOK	to		to\P
+1549	TOK	survive		survive\VMI----
+1550	TOK	for		for\P
+1551	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1552	TOK	Physicians	BOS	physician\N5P
+1553	TOK	have		have\V6F6R66
+1554	TOK	already		already\DGA7
+1555	TOK	carried		carry\VMC----
+1556	TOK	out		out\DGA7
+1557	TOK	human		human\JA
+1558	TOK	fetal		fetal\JA
+1559	TOK	cell		cell\N5S
+1560	TOK	transplants		transplant\N5P
+1561	TOK	to		to\P
+1562	TOK	help		help\VMI----
+1563	TOK	patients		patient\N5P
+1564	TOK	with		with\P
+1565	TOK	severe		severe\JA
+##	TAG	<name>
+1566	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+1567	PGR	's		genmark\GENMARK
+1568	TOK	disease		disease\N5S
+---	DLD	,		=\DELIM
+1569	TOK	but		but\CC
+1570	TOK	these		this\AD---P
+1571	TOK	attempts		attempt\N5P
+1572	TOK	have		have\V6F6R66
+1573	TOK	met		meet\VMC----
+1574	TOK	with		with\P
+1575	TOK	mixed		mix\VMC----
+1576	TOK	results		result\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1577	TOK	Perhaps	BOS	perhaps\DGA7
+1578	TOK	one		one\MCS
+1579	TOK	or		or\CC
+##	TAG	<num>
+1580	TOK	two		two\X
+##	TAG	</num>
+1581	TOK	clever		clever\JA
+1582	TOK	gene		gene\N5S
+1583	TOK	modifications		modification\N5P
+1584	TOK	to		to\P
+1585	TOK	the		the\AT---6
+1586	TOK	human		human\JA
+1587	TOK	fetal		fetal\JA
+1588	TOK	cells		cell\N5P
+1589	TOK	before		before\CS
+1590	TOK	they		they\RPP3NN
+1591	TOK	are		be\V6FDR66
+1592	TOK	transplanted		transplant\VMC----
+1593	TOK	would		will\VOFDA66
+1594	TOK	make		make\VMI----
+1595	TOK	that		that\AD---S
+1596	TOK	procedure		procedure\N5S
+1597	TOK	work		work\VMF6R66
+1598	TOK	much		much\DGA7
+1599	TOK	better		good\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1600	TOK	Battling	BOS	battle\VMG----
+##	TAG	<name>
+1601	TOK	Stroke	EOS	Stroke\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1603	TOK	The	BOS	the\AT---6
+1604	TOK	success		success\N5S
+1605	TOK	of		of\P
+1606	TOK	current		current\JA
+1607	TOK	research		research\N5S
+1608	TOK	with		with\P
+1609	TOK	animals		animal\N5P
+1610	TOK	indeed		indeed\DGA7
+1611	TOK	sparks		spark\N5P
+1612	TOK	hope		hope\VMF6R66
+1613	TOK	that		that\CS
+1614	TOK	new		new\JA
+1615	TOK	treatments		treatment\N5P
+1616	TOK	will		will\VOFDR66
+1617	TOK	eventually		eventually\DGA7
+1618	TOK	emerge		emerge\VMI----
+1619	TOK	for		for\P
+##	TAG	<name>
+1620	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+1621	PGR	's		genmark\GENMARK
+1622	TOK	and		and\CC
+1623	TOK	other		other\JA
+1624	TOK	progressive		progressive\JA
+1625	TOK	degenerative		degenerative\JA
+1626	TOK	diseases		disease\N5P
+1627	TOK	of		of\P
+1628	TOK	the		the\AT---6
+1629	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1630	TOK	Gene	BOS	gene\N5S
+1631	TOK	therapy		therapy\N5S
+1632	TOK	also		also\DGA7
+1633	TOK	offers		offer\VMFDRS3
+1634	TOK	the		the\AT---6
+1635	TOK	prospect		prospect\N5S
+1636	TOK	of		of\P
+1637	TOK	stemming		stem\VMG----
+1638	TOK	tissue		tissue\N5S
+1639	TOK	damage		damage\N5S
+1640	TOK	during		during\P
+1641	TOK	such		such\JA
+1642	TOK	acute		acute\JA
+1643	TOK	neurological		neurological\JA
+1644	TOK	crises		crisis\N5P
+1645	TOK	as		as\P
+1646	TOK	the		the\AT---6
+1647	TOK	overstimulation		overstimulation\N5S
+1648	TOK	of		of\P
+1649	TOK	a		a\AI---S
+1650	TOK	seizure		seizure\N5S
+1651	TOK	or		or\CC
+1652	TOK	the		the\AT---6
+1653	TOK	loss		loss\N5S
+1654	TOK	of		of\P
+1655	TOK	oxygen		oxygen\N5S
+1656	TOK	and		and\CC
+1657	TOK	nutrients		nutrient\N5P
+1658	TOK	that		that\RW63N6
+1659	TOK	occurs		occur\VMFDRS3
+1660	TOK	during		during\P
+1661	TOK	a		a\AI---S
+1662	TOK	stroke		stroke\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1663	TOK	Under	BOS	under\P
+1664	TOK	these		this\AD---P
+1665	TOK	conditions		condition\N5P
+---	DLD	,		=\DELIM
+1666	TOK	the		the\AT---6
+1667	TOK	most		most\DDS7
+1668	TOK	vulnerable		vulnerable\JA
+1669	TOK	cells		cell\N5P
+1670	TOK	in		in\P
+1671	TOK	the		the\AT---6
+1672	TOK	brain		brain\N5S
+1673	TOK	are		be\V6FDR66
+1674	TOK	the		the\AT---6
+1675	TOK	many		many\AI---P
+1676	TOK	neurons		neuron\N5P
+1677	TOK	that		that\RW63N6
+1678	TOK	respond		respond\VMF6R66
+1679	TOK	to		to\P
+1680	TOK	an		an\AI---S
+1681	TOK	extremely		extremely\DGA7
+1682	TOK	powerful		powerful\JA
+1683	TOK	neurotransmitter		neurotransmitter\N5S
+1684	TOK	called		call\VMF6A66
+1685	TOK	glutamate		glutamate\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1686	TOK	Glutamate	BOS	glutamate\N5S
+1687	TOK	normally		normally\DGA7
+1688	TOK	induces		induce\VMFDRS3
+1689	TOK	recipient		recipient\N5S
+1690	TOK	neurons		neuron\N5P
+1691	TOK	to		to\P
+1692	TOK	take		take\VMI----
+1693	TOK	up		up\P
+1694	TOK	calcium		calcium\N5S
+---	DLD	,		=\DELIM
+1695	TOK	which		which\RW63N-
+1696	TOK	causes		cause\VMFDRS3
+1697	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+1698	TOK	lasting		lasting\JA
+1699	TOK	changes		change\N5P
+1700	TOK	in		in\P
+1701	TOK	the		the\AT---6
+1702	TOK	excitability		excitability\N5S
+1703	TOK	of		of\P
+1704	TOK	synapses		synapse\N5P
+1705	TOK	stimulated		stimulate\VMC----
+1706	TOK	by		by\P
+1707	TOK	this		this\AD---S
+1708	TOK	neurotransmitter		neurotransmitter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1709	TOK	This	BOS	this\AD---S
+1710	TOK	process		process\N5S
+1711	TOK	may		may\VOFDR66
+---	DLD	,		=\DELIM
+1712	TOK	in		in\P
+1713	TOK	fact		fact\N5S
+---	DLD	,		=\DELIM
+1714	TOK	be		be\VMI----
+1715	TOK	the		the\AT---6
+1716	TOK	cellular		cellular\JA
+1717	TOK	basis		basis\N5S
+1718	TOK	of		of\P
+1719	TOK	memory		memory\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1720	TOK	But	BOS	but\CC
+1721	TOK	during		during\P
+1722	TOK	seizure		seizure\N5S
+1723	TOK	or		or\CC
+1724	TOK	stroke		stroke\VMF6R66
+---	DLD	,		=\DELIM
+1725	TOK	neurons		neuron\N5P
+1726	TOK	are		be\V6FDR66
+1727	TOK	unable		unable\JA
+1728	TOK	to		to\P
+1729	TOK	mop		mop\N5S
+1730	TOK	up		up\P
+1731	TOK	glutamate		glutamate\N5S
+1732	TOK	from		from\P
+1733	TOK	synapses		synapse\N5P
+1734	TOK	or		or\CC
+1735	TOK	clear		clear\VMI----
+1736	TOK	the		the\AT---6
+1737	TOK	tidal		tidal\JA
+1738	TOK	wave		wave\N5S
+1739	TOK	of		of\P
+1740	TOK	calcium		calcium\N5S
+1741	TOK	that		that\CS
+1742	TOK	floods		flood\N5P
+1743	TOK	into		into\P
+1744	TOK	many		many\AI---P
+1745	TOK	brain		brain\N5S
+1746	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+1747	TOK	Instead of	BOS	Instead_of\CS
+##	TAG	</loc>
+1748	TOK	fostering		foster\VMG----
+1749	TOK	mild		mild\JA
+1750	TOK	changes		change\N5P
+1751	TOK	in		in\P
+1752	TOK	the		the\AT---6
+1753	TOK	synapses		synapse\N5P
+---	DLD	,		=\DELIM
+1754	TOK	the		the\AT---6
+1755	TOK	glutamate		glutamate\N5S
+1756	TOK	and		and\CC
+1757	TOK	calcium		calcium\N5S
+1758	TOK	do		do\V6FDR66
+1759	TOK	serious		serious\JA
+1760	TOK	damage		damage\N5S
+---	DLD	:		=\DELIM
+1761	TOK	the		the\AT---6
+1762	TOK	cellular		cellular\JA
+1763	TOK	architecture		architecture\N5S
+1764	TOK	of		of\P
+1765	TOK	the		the\AT---6
+1766	TOK	affected		affect\VMC----
+1767	TOK	neurons		neuron\N5P
+1768	TOK	crumbles		crumble\VMFDRS3
+---	DLD	,		=\DELIM
+1769	TOK	and		and\CC
+1770	TOK	newly		newly\DGA7
+1771	TOK	generated		generate\VMF6A66
+1772	TOK	oxygen		oxygen\N5S
+1773	TOK	radicals		radical\N5P
+1774	TOK	create		create\VMF6R66
+1775	TOK	further		further\DGA7
+1776	TOK	havoc		havoc\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1777	TOK	This	BOS	this\AD---S
+1778	TOK	destruction		destruction\N5S
+1779	TOK	then		then\DGA7
+1780	TOK	kills		kill\VMFDRS3
+1781	TOK	cells		cell\N5P
+1782	TOK	directly		directly\DGA7
+1783	TOK	or		or\CC
+1784	TOK	signals		signal\VMFDRS3
+1785	TOK	the		the\AT---6
+1786	TOK	initiation		initiation\N5S
+1787	TOK	of		of\P
+1788	TOK	internal		internal\JA
+1789	TOK	suicide		suicide\N5S
+1790	TOK	programs		program\N5P
+1791	TOK	that		that\RW63N6
+1792	TOK	will		will\VOFDR66
+1793	TOK	cause		cause\VMI----
+1794	TOK	the		the\AT---6
+1795	TOK	swift		swift\JA
+1796	TOK	demise		demise\N5S
+1797	TOK	of		of\P
+1798	TOK	the		the\AT---6
+1799	TOK	flagging		flagging\JA
+1800	TOK	neurons		neuron\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1801	TOK	Our	BOS	our\APP1N6
+1802	TOK	group		group\N5S
+1803	TOK	has		have\V6FDRS3
+1804	TOK	examined		examine\VMC----
+1805	TOK	the		the\AT---6
+1806	TOK	possibility		possibility\N5S
+1807	TOK	that		that\CS
+1808	TOK	gene		gene\N5S
+1809	TOK	therapy		therapy\N5S
+1810	TOK	could		can\VOFDA66
+1811	TOK	interrupt		interrupt\VMI----
+1812	TOK	this		this\AD---S
+1813	TOK	calamitous		calamitous\JA
+1814	TOK	sequence		sequence\N5S
+1815	TOK	of		of\P
+1816	TOK	events		event\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1817	TOK	For	BOS	for\P
+1818	TOK	our		our\APP1N6
+1819	TOK	first		first\MOS
+1820	TOK	experiments		experiment\N5P
+---	DLD	,		=\DELIM
+1821	TOK	we		we\RPP1NN
+1822	TOK	extracted		extract\VMF6A66
+1823	TOK	some		some\AG---6
+1824	TOK	brain		brain\N5S
+1825	TOK	cells		cell\N5P
+1826	TOK	from		from\P
+1827	TOK	a		a\AI---S
+1828	TOK	rat		rat\N5S
+1829	TOK	and		and\CC
+1830	TOK	cultured		culture\VMC----
+1831	TOK	them		them\RPP3NA
+1832	TOK	in		in\P
+1833	TOK	a		a\AI---S
+1834	TOK	petri		petri\JA
+1835	TOK	dish		dish\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1836	TOK	We	BOS	we\RPP1NN
+1837	TOK	then		then\DGA7
+1838	TOK	subjected		subject\VMC----
+1839	TOK	these		this\AD---P
+1840	TOK	neurons		neuron\N5P
+1841	TOK	to		to\P
+1842	TOK	a		a\AI---S
+1843	TOK	modified		modify\VMC----
+1844	TOK	herpesvirus		herpesvirus\N5S
+1845	TOK	engineered		engineer\VMC----
+1846	TOK	to		to\P
+1847	TOK	carry		carry\VMI----
+1848	TOK	a		a\AI---S
+1849	TOK	gene		gene\N5S
+1850	TOK	for		for\P
+1851	TOK	a		a\AI---S
+1852	TOK	protein		protein\N5S
+1853	TOK	that		that\RW63N6
+1854	TOK	transports		transport\VMFDRS3
+1855	TOK	energy		energy\N5S
+---	DLI	-		=\DELIM
+1856	TOK	rich		rich\JA
+1857	TOK	glucose		glucose\N5S
+1858	TOK	molecules		molecule\N5P
+1859	TOK	across		across\P
+1860	TOK	the		the\AT---6
+1861	TOK	cell		cell\N5S
+1862	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1863	TOK	In	BOS	in\P
+1864	TOK	a		a\AI---S
+1865	TOK	patient		patient\N5S
+1866	TOK	suffering		suffer\VMG----
+1867	TOK	a		a\AI---S
+1868	TOK	neurological		neurological\JA
+1869	TOK	crisis		crisis\N5S
+---	DLD	,		=\DELIM
+1870	TOK	a		a\AI---S
+1871	TOK	similar		similar\JA
+1872	TOK	type		type\N5S
+1873	TOK	of		of\P
+1874	TOK	therapy		therapy\N5S
+1875	TOK	might		may\VOFDR66
+1876	TOK	increase		increase\VMI----
+1877	TOK	the		the\AT---6
+1878	TOK	influx		influx\N5S
+1879	TOK	of		of\P
+1880	TOK	glucose		glucose\N5S
+1881	TOK	just		just\DGA7
+1882	TOK	when		when\CS
+1883	TOK	the		the\AT---6
+1884	TOK	beleaguered		beleaguer\VMC----
+1885	TOK	neurons		neuron\N5P
+1886	TOK	would		will\VOFDA66
+1887	TOK	benefit		benefit\VMI----
+1888	TOK	most		most\AG---6
+1889	TOK	from		from\P
+1890	TOK	extra		extra\JA
+1891	TOK	energy		energy\N5S
+---	DLE	(		=\DELIM
+1892	TOK	which		which\RW63N-
+1893	TOK	is		be\V6FDRS3
+1894	TOK	needed		need\VMF6A66
+---	DLD	,		=\DELIM
+1895	TOK	among		among\P
+1896	TOK	other		other\JA
+1897	TOK	tasks		task\N5P
+---	DLD	,		=\DELIM
+1898	TOK	to		to\P
+1899	TOK	pump		pump\N5S
+1900	TOK	the		the\AT---6
+1901	TOK	excess		excess\N5S
+1902	TOK	calcium		calcium\N5S
+##	TAG	<loc pos="P">
+1903	TOK	out of		out_of\P
+##	TAG	</loc>
+1904	TOK	these		this\AD---P
+1905	TOK	cells		cell\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1906	TOK	Early	BOS	early\JA
+1907	TOK	experiments		experiment\N5P
+1908	TOK	showed		show\VMF6A66
+1909	TOK	that		that\CS
+1910	TOK	our		our\APP1N6
+1911	TOK	treatment		treatment\N5S
+1912	TOK	enhanced		enhance\VMF6A66
+1913	TOK	the		the\AT---6
+1914	TOK	uptake		uptake\N5S
+1915	TOK	of		of\P
+1916	TOK	glucose		glucose\N5S
+1917	TOK	and		and\CC
+1918	TOK	helped		help\VMF6A66
+1919	TOK	to		to\P
+1920	TOK	maintain		maintain\VMI----
+1921	TOK	proper		proper\JA
+1922	TOK	metabolism		metabolism\N5S
+1923	TOK	in		in\P
+1924	TOK	neurons		neuron\N5P
+1925	TOK	subjected		subject\VMC----
+1926	TOK	to		to\P
+1927	TOK	the		the\AT---6
+1928	TOK	test		test\N5S
+---	DLI	-		=\DELIM
+1929	TOK	tube		tube\N5S
+1930	TOK	equivalent		equivalent\JA
+1931	TOK	of		of\P
+1932	TOK	seizure		seizure\N5S
+1933	TOK	or		or\CC
+1934	TOK	stroke		stroke\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1935	TOK	We	BOS	we\RPP1NN
+1936	TOK	later		later\DGC7
+1937	TOK	found		find\VMF6A66
+1938	TOK	that		that\CS
+1939	TOK	we		we\RPP1NN
+1940	TOK	could		can\VOFDA66
+1941	TOK	lessen		lessen\VMI----
+1942	TOK	the		the\AT---6
+1943	TOK	damage		damage\N5S
+1944	TOK	from		from\P
+1945	TOK	stroke		stroke\N5S
+1946	TOK	in		in\P
+1947	TOK	rats		rat\N5P
+1948	TOK	by		by\P
+1949	TOK	injecting		inject\VMG----
+1950	TOK	the		the\AT---6
+1951	TOK	viral		viral\JA
+1952	TOK	vector		vector\N5S
+1953	TOK	into		into\P
+1954	TOK	the		the\AT---6
+1955	TOK	vulnerable		vulnerable\JA
+1956	TOK	region		region\N5S
+1957	TOK	of		of\P
+1958	TOK	the		the\AT---6
+1959	TOK	brain		brain\N5S
+1960	TOK	before		before\P
+1961	TOK	an		an\AI---S
+1962	TOK	injurious		injurious\JA
+1963	TOK	event		event\N5S
+1964	TOK	occurred		occur\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1965	TOK	It	BOS	it\RPS3N6
+1966	TOK	is		be\V6FDRS3
+1967	TOK	obviously		obviously\DGA7
+1968	TOK	not		not\DGA7
+1969	TOK	possible		possible\JA
+1970	TOK	for		for\P
+1971	TOK	a		a\AI---S
+1972	TOK	person		person\N5S
+1973	TOK	to		to\P
+1974	TOK	forecast		forecast\VMI----
+1975	TOK	when		when\CS
+1976	TOK	a		a\AI---S
+1977	TOK	seizure		seizure\N5S
+1978	TOK	or		or\CC
+1979	TOK	a		a\AI---S
+1980	TOK	stroke		stroke\N5S
+1981	TOK	will		will\VOFDR66
+1982	TOK	happen		happen\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1983	TOK	But	BOS	but\CC
+---	DLD	,		=\DELIM
+1984	TOK	as		as\P
+##	TAG	<name>
+1985	TOK	Matthew S. Lawrence		Matthew_S._Lawrence\N46
+##	TAG	</name>
+1986	TOK	and		and\CC
+##	TAG	<name>
+1987	TOK	Rajesh Dash		Rajesh_Dash\N46
+##	TAG	</name>
+1988	TOK	discovered		discover\VMF6A66
+1989	TOK	when		when\CS
+1990	TOK	they		they\RPP3NN
+1991	TOK	worked		work\VMF6A66
+1992	TOK	in		in\P
+1993	TOK	our		our\APP1N6
+1994	TOK	laboratory		laboratory\N5S
+---	DLD	,		=\DELIM
+1995	TOK	there		there\DGA7
+1996	TOK	is		be\V6FDRS3
+1997	TOK	a		a\AI---S
+1998	TOK	window		window\N5S
+1999	TOK	of		of\P
+##	TAG	<loc pos="RP63N-">
+2000	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+2001	TOK	hours		hour\N5P
+2002	TOK	after		after\P
+2003	TOK	a		a\AI---S
+2004	TOK	seizure		seizure\N5S
+2005	TOK	when		when\CS
+2006	TOK	the		the\AT---6
+2007	TOK	gene		gene\N5S
+2008	TOK	treatment		treatment\N5S
+2009	TOK	to		to\P
+2010	TOK	these		this\AD---P
+2011	TOK	rats		rat\N5P
+2012	TOK	still		still\DGA7
+2013	TOK	helps		help\VMFDRS3
+2014	TOK	to		to\P
+2015	TOK	protect		protect\VMI----
+2016	TOK	neurons		neuron\N5P
+2017	TOK	from		from\P
+2018	TOK	additional		additional\JA
+2019	TOK	damage		damage\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2020	TOK	which		which\RW63N-
+2021	TOK	suggests		suggest\VMFDRS3
+2022	TOK	that		that\CS
+2023	TOK	humans		human\N5P
+---	DLD	,		=\DELIM
+2024	TOK	too		too\DGA7
+---	DLD	,		=\DELIM
+2025	TOK	might		may\VOFDR66
+2026	TOK	one		one\MCS
+2027	TOK	day		day\N5S
+2028	TOK	benefit		benefit\N5S
+2029	TOK	from		from\P
+2030	TOK	a		a\AI---S
+2031	TOK	similar		similar\JA
+2032	TOK	kind		kind\N5S
+2033	TOK	of		of\P
+2034	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2035	TOK	Another	BOS	another\JA
+2036	TOK	form		form\N5S
+2037	TOK	of		of\P
+2038	TOK	potential		potential\JA
+2039	TOK	gene		gene\N5S
+2040	TOK	therapy		therapy\N5S
+2041	TOK	for		for\P
+2042	TOK	stroke		stroke\N5S
+2043	TOK	and		and\CC
+2044	TOK	trauma		trauma\N5S
+2045	TOK	targets		target\VMFDRS3
+2046	TOK	the		the\AT---6
+2047	TOK	activation		activation\N5S
+2048	TOK	of		of\P
+2049	TOK	suicide		suicide\N5S
+2050	TOK	programs		program\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2051	TOK	Howard J. Federoff	BOS	Howard_J._Federoff\N46
+##	TAG	</name>
+2052	TOK	and		and\CC
+2053	TOK	his		his\APS3M6
+2054	TOK	colleagues		colleague\N5P
+2055	TOK	at		at\P
+2056	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2057	TOK	University of Rochester		University_of_Rochester\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2058	TOK	and		and\CC
+##	TAG	<name>
+2059	TOK	Lawrence		Lawrence\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2060	TOK	working		working\JA
+2061	TOK	with		with\P
+2062	TOK	our		our\APP1N6
+2063	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+2064	TOK	independently		independently\DGA7
+2065	TOK	constructed		construct\VMF6A66
+2066	TOK	herpesvirus		herpesvirus\N5S
+2067	TOK	vectors		vector\N5P
+2068	TOK	that		that\RW63N6
+2069	TOK	included		include\VMF6A66
+2070	TOK	the		the\AT---6
+2071	TOK	suicide		suicide\N5S
+---	DLI	-		=\DELIM
+2072	TOK	suppressing		suppress\VMG----
+2073	TOK	xxx		noanat\W
+2074	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2075	TOK	Application	BOS	application\N5S
+2076	TOK	of		of\P
+2077	TOK	this		this\AD---S
+2078	TOK	vector		vector\N5S
+2079	TOK	tends		tend\VMFDRS3
+2080	TOK	to		to\P
+2081	TOK	shield		shield\VMI----
+2082	TOK	the		the\AT---6
+2083	TOK	brain		brain\N5S
+2084	TOK	cells		cell\N5P
+2085	TOK	of		of\P
+2086	TOK	rats		rat\N5P
+2087	TOK	from		from\P
+2088	TOK	damage		damage\N5S
+2089	TOK	when		when\CS
+2090	TOK	crisis		crisis\N5S
+2091	TOK	conditions		condition\N5P
+2092	TOK	occur		occur\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="CS">
+2093	TOK	even if		even_if\CS
+##	TAG	</loc>
+2094	TOK	the		the\AT---6
+2095	TOK	treatment		treatment\N5S
+2096	TOK	begins		begin\VMFDRS3
+2097	TOK	only		only\DGA7
+2098	TOK	after		after\P
+2099	TOK	the		the\AT---6
+2100	TOK	insult		insult\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2101	TOK	Investigators	BOS	investigator\N5P
+2102	TOK	also		also\DGA7
+2103	TOK	report		report\VMF6R66
+2104	TOK	advances		advance\N5P
+2105	TOK	that		that\RW63N6
+2106	TOK	might		may\VOFDR66
+2107	TOK	one		one\MCS
+2108	TOK	day		day\N5S
+2109	TOK	prevent		prevent\VMF6R66
+2110	TOK	the		the\AT---6
+2111	TOK	so		so\DGA7
+---	DLI	-		=\DELIM
+2112	TOK	called		call\VMC----
+2113	TOK	lipid		lipid\N5S
+2114	TOK	storage		storage\N5S
+2115	TOK	diseases		disease\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2116	TOK	genetic		genetic\JA
+2117	TOK	disorders		disorder\N5P
+2118	TOK	that		that\RW63N6
+2119	TOK	cause		cause\VMF6R66
+2120	TOK	defects		defect\N5P
+2121	TOK	in		in\P
+2122	TOK	certain		certain\JA
+2123	TOK	enzymes		enzyme\N5P
+2124	TOK	and		and\CC
+2125	TOK	lead		lead\VMF6R66
+2126	TOK	to		to\P
+2127	TOK	a		a\AI---S
+2128	TOK	fatal		fatal\JA
+2129	TOK	accumulation		accumulation\N5S
+2130	TOK	of		of\P
+2131	TOK	fatty		fatty\JA
+2132	TOK	molecules		molecule\N5P
+2133	TOK	in		in\P
+2134	TOK	the		the\AT---6
+2135	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2136	TOK	To	BOS	to\P
+2137	TOK	explore		explore\VMI----
+2138	TOK	such		such\JA
+2139	TOK	therapies		therapy\N5P
+---	DLD	,		=\DELIM
+2140	TOK	researchers		researcher\N5P
+2141	TOK	have		have\V6F6R66
+2142	TOK	produced		produce\VMC----
+2143	TOK	mice		mouse\N5P
+2144	TOK	that		that\RW63N6
+2145	TOK	carry		carry\VMF6R66
+2146	TOK	a		a\AI---S
+2147	TOK	mutation		mutation\N5S
+2148	TOK	in		in\P
+2149	TOK	the		the\AT---6
+2150	TOK	gene		gene\N5S
+2151	TOK	encoding		encode\VMG----
+2152	TOK	the		the\AT---6
+2153	TOK	enzyme		enzyme\N5S
+2154	TOK	beta		beta\N5S
+---	DLI	-		=\DELIM
+2155	TOK	gluco		gluco\N5S
+##	TAG	<abbr>
+2156	TOK	ronidase.		ronidase.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2157	TOK	People		People\N46
+##	TAG	</name>
+2158	TOK	suffering		suffering\N5S
+2159	TOK	from		from\P
+2160	TOK	a		a\AI---S
+2161	TOK	rare		rare\JA
+2162	TOK	malady		malady\N5S
+2163	TOK	called		call\VMF6A66
+##	TAG	<name>
+2164	TOK	Sly		Sly\N46
+##	TAG	</name>
+2165	TOK	syndrome		syndrome\N5S
+2166	TOK	have		have\V6F6R66
+2167	TOK	the		the\AT---6
+2168	TOK	same		same\JA
+2169	TOK	gene		gene\N5S
+2170	TOK	mutation		mutation\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2171	TOK	John	BOS	john\N5S
+##	TAG	<name>
+2172	TOK	H. Wolfe		H._Wolfe\N46
+##	TAG	</name>
+2173	TOK	and		and\CC
+2174	TOK	his		his\APS3M6
+2175	TOK	colleagues		colleague\N5P
+2176	TOK	at		at\P
+2177	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2178	TOK	University of Pennsylvania		University_of_Pennsylvania\N46
+##	TAG	</name>
+2179	TOK	transplanted		transplant\VMC----
+2180	TOK	into		into\P
+2181	TOK	an		an\AI---S
+2182	TOK	afflicted		afflict\VMC----
+2183	TOK	mouse		mouse\N5S
+2184	TOK	fetal		fetal\JA
+2185	TOK	neurons		neuron\N5P
+2186	TOK	engineered		engineer\VMC----
+2187	TOK	to		to\P
+2188	TOK	produce		produce\VMI----
+2189	TOK	beta		beta\N5S
+---	DLI	-		=\DELIM
+2190	TOK	glucoronidase		glucoronidase\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2191	TOK	These	BOS	this\AD---P
+2192	TOK	researchers		researcher\N5P
+2193	TOK	found		find\VMF6A66
+2194	TOK	that		that\CS
+2195	TOK	the		the\AT---6
+2196	TOK	implants		implant\N5P
+2197	TOK	were		be\V6F-A66
+2198	TOK	able		able\JA
+2199	TOK	to		to\P
+2200	TOK	dispose		dispose\VMI----
+2201	TOK	of		of\P
+2202	TOK	damaging		damaging\JA
+2203	TOK	lipids		lipid\N5P
+2204	TOK	throughout		throughout\P
+2205	TOK	the		the\AT---6
+2206	TOK	animal		animal\N5S
+2207	PGR	's		genmark\GENMARK
+2208	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2209	TOK	Despite	BOS	despite\P
+2210	TOK	the		the\AT---6
+2211	TOK	many		many\AI---P
+2212	TOK	encouraging		encouraging\JA
+2213	TOK	first		first\MOS
+2214	TOK	steps		step\N5P
+2215	TOK	in		in\P
+2216	TOK	applying		apply\VMG----
+2217	TOK	gene		gene\N5S
+2218	TOK	therapy		therapy\N5S
+2219	TOK	to		to\P
+2220	TOK	the		the\AT---6
+2221	TOK	nervous		nervous\JA
+2222	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+2223	TOK	sundry		sundry\JA
+2224	TOK	hurdles		hurdle\N5P
+2225	TOK	remain		remain\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2226	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2227	TOK	significant		significant\JA
+2228	TOK	problems		problem\N5P
+2229	TOK	persist		persist\VMF6R66
+2230	TOK	in		in\P
+2231	TOK	engineering		engineering\N5S
+2232	TOK	viral		viral\JA
+2233	TOK	vectors		vector\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2234	TOK	Cripple	BOS	cripple\VMI----
+2235	TOK	the		the\AT---6
+2236	TOK	virus		virus\N5S
+2237	TOK	too		too\DGA7
+2238	TOK	much		much\DGA7
+---	DLD	,		=\DELIM
+2239	TOK	and		and\CC
+2240	TOK	it		it\RPS3N6
+2241	TOK	becomes		become\VMFDRS3
+2242	TOK	difficult		difficult\JA
+2243	TOK	to		to\P
+2244	TOK	maintain		maintain\VMI----
+2245	TOK	sufficient		sufficient\JA
+2246	TOK	potency		potency\N5S
+2247	TOK	to		to\P
+2248	TOK	infect		infect\VMI----
+2249	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2250	TOK	Strip	BOS	strip\N5S
+2251	TOK	away		away\DGA7
+2252	TOK	too		too\DGA7
+2253	TOK	little		little\JA
+---	DLD	,		=\DELIM
+2254	TOK	and		and\CC
+2255	TOK	the		the\AT---6
+2256	TOK	virus		virus\N5S
+2257	TOK	will		will\VOFDR66
+2258	TOK	damage		damage\VMI----
+2259	TOK	the		the\AT---6
+2260	TOK	host		host\N5S
+2261	TOK	neurons		neuron\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2262	TOK	Because	BOS	because\CS
+2263	TOK	the		the\AT---6
+2264	TOK	viral		viral\JA
+2265	TOK	vectors		vector\N5P
+2266	TOK	now		now\DGA7
+2267	TOK	available		available\JA
+2268	TOK	each		each\RIS3N-
+2269	TOK	suffer		suffer\VMF6R66
+2270	TOK	from		from\P
+2271	TOK	one		one\MCS
+2272	TOK	or		or\CC
+2273	TOK	the		the\AT---6
+2274	TOK	other		other\JA
+2275	TOK	of		of\P
+2276	TOK	these		this\AD---P
+2277	TOK	shortfalls		shortfall\N5P
+---	DLD	,		=\DELIM
+2278	TOK	a		a\AI---S
+2279	TOK	great		great\JA
+2280	TOK	deal		deal\N5S
+2281	TOK	of		of\P
+2282	TOK	refinement		refinement\N5S
+2283	TOK	will		will\VOFDR66
+2284	TOK	be		be\VMI----
+2285	TOK	needed		need\VMC----
+2286	TOK	before		before\P
+2287	TOK	scientists		scientist\N5P
+2288	TOK	can		can\VOFDR66
+2289	TOK	safely		safely\DGA7
+2290	TOK	begin		begin\VMI----
+2291	TOK	testing		testing\N5S
+2292	TOK	gene		gene\N5S
+2293	TOK	therapies		therapy\N5P
+2294	TOK	in		in\P
+2295	TOK	people		people\N56
+2296	TOK	with		with\P
+2297	TOK	neurological		neurological\JA
+2298	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2299	TOK	Another	BOS	another\JA
+2300	TOK	difficulty		difficulty\N5S
+2301	TOK	emerges		emerge\VMFDRS3
+2302	TOK	simply		simply\DGA7
+2303	TOK	because		because\CS
+2304	TOK	the		the\AT---6
+2305	TOK	brain		brain\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2306	TOK	a		a\AI---S
+2307	TOK	vital		vital\JA
+2308	TOK	but		but\CC
+2309	TOK	delicate		delicate\JA
+2310	TOK	organ		organ\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2311	TOK	is		be\V6FDRS3
+2312	TOK	encased		encase\VMC----
+2313	TOK	in		in\P
+2314	TOK	a		a\AI---S
+2315	TOK	relatively		relatively\DGA7
+2316	TOK	impregnable		impregnable\JA
+2317	TOK	skull		skull\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2318	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+2319	TOK	injecting		inject\VMG----
+2320	TOK	a		a\AI---S
+2321	TOK	therapeutic		therapeutic\JA
+2322	TOK	drug		drug\N5S
+2323	TOK	directly		directly\DGA7
+2324	TOK	into		into\P
+2325	TOK	the		the\AT---6
+2326	TOK	affected		affect\VMC----
+2327	TOK	tissue		tissue\N5S
+2328	TOK	is		be\V6FDRS3
+2329	TOK	rather		rather\DGA7
+2330	TOK	difficult		difficult\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2331	TOK	Most	BOS	most\AG---6
+2332	TOK	researchers		researcher\N5P
+2333	TOK	conducting		conduct\VMG----
+2334	TOK	animal		animal\N5S
+2335	TOK	studies		study\N5P
+2336	TOK	resort		resort\VMF6R66
+2337	TOK	to		to\P
+2338	TOK	neurosurgery		neurosurgery\N5S
+---	DLD	:		=\DELIM
+2339	TOK	drilling		drilling\N5S
+2340	TOK	a		a\AI---S
+2341	TOK	hole		hole\N5S
+2342	TOK	in		in\P
+2343	TOK	the		the\AT---6
+2344	TOK	skull		skull\N5S
+2345	TOK	and		and\CC
+2346	TOK	injecting		inject\VMG----
+2347	TOK	the		the\AT---6
+2348	TOK	vector		vector\N5S
+2349	TOK	directly		directly\DGA7
+2350	TOK	into		into\P
+2351	TOK	the		the\AT---6
+2352	TOK	endangered		endanger\VMC----
+2353	TOK	part		part\N5S
+2354	TOK	of		of\P
+2355	TOK	the		the\AT---6
+2356	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2357	TOK	But	BOS	but\CC
+---	DLD	,		=\DELIM
+2358	TOK	clearly		clearly\DGA7
+---	DLD	,		=\DELIM
+2359	TOK	human		human\JA
+2360	TOK	patients		patient\N5P
+2361	TOK	would		will\VOFDA66
+2362	TOK	require		require\VMI----
+2363	TOK	something		something\RIS3N-
+2364	TOK	less		less\DDC7
+2365	TOK	invasive		invasive\JA
+2366	TOK	for		for\P
+2367	TOK	routine		routine\N5S
+2368	TOK	treatment		treatment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2369	TOK	Although	BOS	although\CS
+2370	TOK	one		one\RIS3N-
+2371	TOK	could		can\VOFDA66
+2372	TOK	give		give\VMI----
+2373	TOK	a		a\AI---S
+2374	TOK	vector		vector\N5S
+2375	TOK	intravenously		intravenously\DGA7
+---	DLE	(		=\DELIM
+2376	TOK	if		if\CS
+2377	TOK	it		it\RPS3N6
+2378	TOK	could		can\VOFDA66
+2379	TOK	be		be\VMI----
+2380	TOK	designed		design\VMC----
+2381	TOK	to		to\P
+2382	TOK	enter		enter\VMI----
+2383	TOK	only		only\DGA7
+2384	TOK	nerve		nerve\N5S
+2385	TOK	tissue		tissue\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2386	TOK	the		the\AT---6
+2387	TOK	virus		virus\N5S
+2388	TOK	would		will\VOFDA66
+2389	TOK	be		be\VMI----
+2390	TOK	unlikely		unlikely\JA
+2391	TOK	to		to\P
+2392	TOK	get		get\VMI----
+2393	TOK	past		past\P
+2394	TOK	the		the\AT---6
+2395	TOK	blood		blood\N5S
+---	DLI	-		=\DELIM
+2396	TOK	brain		brain\N5S
+2397	TOK	barrier		barrier\N5S
+---	DLD	,		=\DELIM
+2398	TOK	a		a\AI---S
+2399	TOK	specialized		specialize\VMC----
+2400	TOK	network		network\N5S
+2401	TOK	of		of\P
+2402	TOK	capillaries		capillary\N5P
+2403	TOK	that		that\RW63N6
+2404	TOK	lets		let\VMFDRS3
+2405	TOK	only		only\DGA7
+2406	TOK	small		small\JA
+2407	TOK	molecules		molecule\N5P
+2408	TOK	pass		pass\VMF6R66
+2409	TOK	into		into\P
+2410	TOK	brain		brain\N5S
+2411	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2412	TOK	So	BOS	so\CC
+---	DLD	,		=\DELIM
+2413	TOK	without		without\P
+2414	TOK	further		further\JA
+2415	TOK	special		special\JA
+2416	TOK	measures		measure\N5P
+---	DLD	,		=\DELIM
+2417	TOK	virtually		virtually\DGA7
+2418	TOK	all		all\AG---6
+2419	TOK	of		of\P
+2420	TOK	the		the\AT---6
+2421	TOK	viral		viral\JA
+2422	TOK	vector		vector\N5S
+2423	TOK	would		will\VOFDA66
+2424	TOK	wastefully		wastefully\DGA7
+2425	TOK	end		end\VMI----
+2426	TOK	up		up\P
+2427	TOK	in		in\P
+2428	TOK	places		place\N5P
+2429	TOK	other		other\JA
+2430	TOK	than		than\CS
+2431	TOK	the		the\AT---6
+2432	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+2433	TOK	Even if	BOS	Even_if\CS
+##	TAG	</loc>
+2434	TOK	these		this\AD---P
+2435	TOK	obstacles		obstacle\N5P
+2436	TOK	could		can\VOFDA66
+2437	TOK	be		be\VMI----
+2438	TOK	overcome		overcome\VMC----
+---	DLD	,		=\DELIM
+2439	TOK	some		some\AG---6
+2440	TOK	final		final\JA
+2441	TOK	stumbling		stumble\VMG----
+2442	TOK	blocks		block\N5P
+2443	TOK	would		will\VOFDA66
+2444	TOK	still		still\DGA7
+2445	TOK	stand		stand\VMI----
+2446	TOK	in		in\P
+2447	TOK	the		the\AT---6
+2448	TOK	way		way\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2449	TOK	After	BOS	after\P
+2450	TOK	a		a\AI---S
+2451	TOK	viral		viral\JA
+2452	TOK	vector		vector\N5S
+2453	TOK	reaches		reach\VMFDRS3
+2454	TOK	a		a\AI---S
+2455	TOK	patch		patch\N5S
+2456	TOK	of		of\P
+2457	TOK	neurons		neuron\N5P
+---	DLD	,		=\DELIM
+2458	TOK	it		it\RPS3N6
+2459	TOK	does		do\V6FDRS3
+2460	TOK	not		not\DGA7
+2461	TOK	go		go\VMI----
+##	TAG	<abbr>
+2462	TOK	far.		far.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2463	TOK	Viruses		Viruses\N46
+##	TAG	</name>
+2464	TOK	that		that\RW63N6
+2465	TOK	are		be\V6FDR66
+2466	TOK	able		able\JA
+2467	TOK	to		to\P
+2468	TOK	replicate		replicate\VMI----
+2469	TOK	can		can\VOFDR66
+2470	TOK	spread		spread\VMI----
+2471	TOK	readily		readily\DGA7
+2472	TOK	in		in\P
+2473	TOK	brain		brain\N5S
+2474	TOK	tissue		tissue\N5S
+---	DLD	,		=\DELIM
+2475	TOK	but		but\CC
+2476	TOK	these		this\AD---P
+2477	TOK	agents		agent\N5P
+2478	TOK	can		can\V6FDR66
+2479	PGR	not		not\DGA7
+2480	TOK	be		be\VMI----
+2481	TOK	used		use\VMC----
+2482	TOK	for		for\P
+2483	TOK	gene		gene\N5S
+2484	TOK	therapy		therapy\N5S
+---	DLD	,		=\DELIM
+2485	TOK	because		because\CS
+2486	TOK	they		they\RPP3NN
+2487	TOK	invariably		invariably\DGA7
+2488	TOK	provoke		provoke\VMF6R66
+2489	TOK	a		a\AI---S
+2490	TOK	damaging		damaging\JA
+2491	TOK	immune		immune\JA
+##	TAG	<abbr>
+2492	TOK	response.		response.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+2493	TOK	A		A\N5P
+2494	TOK	safe		safe\JA
+2495	TOK	viral		viral\JA
+2496	TOK	vector		vector\N5S
+2497	TOK	traverses		traverse\VMFDRS3
+2498	TOK	a		a\AI---S
+2499	TOK	limited		limit\VMC----
+2500	TOK	area		area\N5S
+---	DLD	,		=\DELIM
+2501	TOK	where		where\CS
+2502	TOK	it		it\RPS3N6
+2503	TOK	infects		infect\VMFDRS3
+2504	TOK	only		only\DGA7
+2505	TOK	a		a\AI---S
+2506	TOK	small		small\JA
+2507	TOK	percentage		percentage\N5S
+2508	TOK	of		of\P
+2509	TOK	neurons		neuron\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2510	TOK	Hence	BOS	hence\DGA7
+---	DLD	,		=\DELIM
+2511	TOK	these		this\AD---P
+2512	TOK	viruses		virus\N5P
+2513	TOK	are		be\V6FDR66
+2514	TOK	not		not\DGA7
+2515	TOK	particularly		particularly\DGA7
+2516	TOK	effective		effective\JA
+2517	TOK	in		in\P
+2518	TOK	reaching		reach\VMG----
+2519	TOK	diseased		diseased\JA
+2520	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2521	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+2522	TOK	for		for\P
+2523	TOK	most		most\AG---6
+2524	TOK	of		of\P
+2525	TOK	the		the\AT---6
+2526	TOK	vectors		vector\N5P
+2527	TOK	tried		try\VMC----
+##	TAG	<loc pos="DGA7">
+2528	TOK	so far		so_far\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2529	TOK	activity		activity\N5S
+2530	TOK	persists		persist\VMFDRS3
+2531	TOK	for		for\P
+##	TAG	<loc pos="RP63N-">
+2532	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+2533	TOK	weeks		week\N5P
+2534	TOK	at		at\P
+2535	TOK	most		most\AG---6
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2536	TOK	too		too\DGA7
+2537	TOK	brief		brief\JA
+2538	TOK	a		a\AI---S
+2539	TOK	period		period\N5S
+2540	TOK	to		to\P
+2541	TOK	combat		combat\VMI----
+2542	TOK	slow		slow\JA
+2543	TOK	but		but\CC
+2544	TOK	relentless		relentless\JA
+2545	TOK	degenerative		degenerative\JA
+2546	TOK	illnesses		illness\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2547	TOK	So	BOS	so\JA
+2548	TOK	researchers		researcher\N5P
+2549	TOK	will		will\VOFDR66
+2550	TOK	need		need\VMI----
+2551	TOK	to		to\P
+2552	TOK	find		find\VMI----
+2553	TOK	ways		way\N5P
+2554	TOK	to		to\P
+2555	TOK	improve		improve\VMI----
+2556	TOK	the		the\AT---6
+2557	TOK	spread		spread\VMF6A66
+---	DLD	,		=\DELIM
+2558	TOK	efficiency		efficiency\N5S
+2559	TOK	and		and\CC
+2560	TOK	duration		duration\N5S
+2561	TOK	of		of\P
+2562	TOK	these		this\RDP3N-
+2563	TOK	engineered		engineer\VMC----
+2564	TOK	infections		infection\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2565	TOK	Future	BOS	future\N5S
+##	TAG	<name>
+2566	TOK	Shocks		Shocks\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2568	TOK	Despite	BOS	despite\P
+2569	TOK	the		the\AT---6
+2570	TOK	many		many\AI---P
+2571	TOK	challenges		challenge\N5P
+---	DLD	,		=\DELIM
+2572	TOK	studies		study\N5P
+2573	TOK	of		of\P
+2574	TOK	gene		gene\N5S
+2575	TOK	therapy		therapy\N5S
+2576	TOK	for		for\P
+2577	TOK	diseases		disease\N5P
+2578	TOK	of		of\P
+2579	TOK	the		the\AT---6
+2580	TOK	nervous		nervous\JA
+2581	TOK	system		system\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2582	TOK	like		like\P
+2583	TOK	most		most\AG---6
+2584	TOK	ambitious		ambitious\JA
+2585	TOK	efforts		effort\N5P
+2586	TOK	that		that\RW63N6
+2587	TOK	have		have\V6F6R66
+2588	TOK	shown		show\VMC----
+2589	TOK	some		some\AG---6
+2590	TOK	initial		initial\JA
+2591	TOK	successes		success\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2592	TOK	have		have\V6F6R66
+2593	TOK	generated		generate\VMC----
+2594	TOK	an		an\AI---S
+2595	TOK	aura		aura\N5S
+2596	TOK	of		of\P
+2597	TOK	optimism		optimism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2598	TOK	Perhaps	BOS	perhaps\DGA7
+2599	TOK	with		with\P
+2600	TOK	adequate		adequate\JA
+2601	TOK	effort		effort\N5S
+---	DLD	,		=\DELIM
+2602	TOK	gene		gene\N5S
+2603	TOK	therapy		therapy\N5S
+2604	TOK	for		for\P
+2605	TOK	the		the\AT---6
+2606	TOK	brain		brain\N5S
+2607	TOK	will		will\VOFDR66
+2608	TOK	eventually		eventually\DGA7
+2609	TOK	be		be\VMI----
+2610	TOK	commonplace		commonplace\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2611	TOK	A	BOS	a\AI---S
+2612	TOK	glimpse		glimpse\N5S
+2613	TOK	of		of\P
+2614	TOK	the		the\AT---6
+2615	TOK	possibilities		possibility\N5P
+2616	TOK	ahead		ahead\DGA7
+2617	TOK	comes		come\VMFDRS3
+2618	TOK	from		from\P
+2619	TOK	the		the\AT---6
+2620	TOK	work		work\N5S
+2621	TOK	of		of\P
+##	TAG	<name>
+2622	TOK	Anders Bjorklund		Anders_Bjorklund\N46
+##	TAG	</name>
+2623	TOK	and		and\CC
+2624	TOK	his		his\APS3M6
+2625	TOK	colleagues		colleague\N5P
+2626	TOK	at		at\P
+2627	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2628	TOK	University of Lund		University_of_Lund\N46
+##	TAG	</name>
+2629	TOK	in		in\P
+##	TAG	<name>
+2630	TOK	Sweden		Sweden\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2631	TOK	These	BOS	this\AD---P
+2632	TOK	researchers		researcher\N5P
+---	DLD	,		=\DELIM
+2633	TOK	who		who\RW63N-
+2634	TOK	pioneered		pioneer\VMF6A66
+2635	TOK	methods		method\N5P
+2636	TOK	to		to\P
+2637	TOK	transplant		transplant\N5S
+2638	TOK	fetal		fetal\JA
+2639	TOK	neurons		neuron\N5P
+---	DLD	,		=\DELIM
+2640	TOK	have		have\V6F6R66
+2641	TOK	engineered		engineer\VMC----
+2642	TOK	grafts		graft\N5P
+2643	TOK	to		to\P
+2644	TOK	produce		produce\VMI----
+2645	TOK	large		large\JA
+2646	TOK	quantities		quantity\N5P
+2647	TOK	of		of\P
+2648	TOK	a		a\AI---S
+2649	TOK	nerve		nerve\N5S
+2650	TOK	growth		growth\N5S
+2651	TOK	factor		factor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2652	TOK	They	BOS	they\RPP3NN
+2653	TOK	implanted		implant\VMF6A66
+2654	TOK	some		some\AG---6
+2655	TOK	of		of\P
+2656	TOK	these		this\RDP3N-
+2657	TOK	engineered		engineer\VMC----
+2658	TOK	cells		cell\N5P
+2659	TOK	into		into\P
+2660	TOK	mature		mature\JA
+2661	TOK	rats		rat\N5P
+---	DLD	,		=\DELIM
+2662	TOK	targeting		target\VMG----
+2663	TOK	a		a\AI---S
+2664	TOK	region		region\N5S
+2665	TOK	of		of\P
+2666	TOK	the		the\AT---6
+2667	TOK	brain		brain\N5S
+2668	TOK	that		that\RW63N6
+2669	TOK	is		be\V6FDRS3
+2670	TOK	critical		critical\JA
+2671	TOK	for		for\P
+2672	TOK	learning		learning\N5S
+2673	TOK	and		and\CC
+2674	TOK	memory		memory\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2675	TOK	an		an\AI---S
+2676	TOK	area		area\N5S
+2677	TOK	that		that\RW63N6
+---	DLD	,		=\DELIM
+2678	TOK	not		not\DGA7
+2679	TOK	surprisingly		surprisingly\DGA7
+---	DLD	,		=\DELIM
+2680	TOK	slowly		slowly\DGA7
+2681	TOK	degenerates		degenerate\VMFDRS3
+2682	TOK	during		during\P
+2683	TOK	normal		normal\JA
+2684	TOK	aging		age\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2685	TOK	Remarkably	BOS	remarkably\DGA7
+---	DLD	,		=\DELIM
+2686	TOK	this		this\AD---S
+2687	TOK	maneuver		maneuver\N5S
+2688	TOK	reversed		reverse\VMC----
+2689	TOK	cognitive		cognitive\JA
+2690	TOK	decline		decline\N5S
+2691	TOK	in		in\P
+2692	TOK	aged		age\VMC----
+2693	TOK	rats		rat\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2694	TOK	That	BOS	that\CS
+2695	TOK	success		success\N5S
+2696	TOK	suggests		suggest\VMFDRS3
+2697	TOK	that		that\CS
+2698	TOK	gene		gene\N5S
+2699	TOK	therapy		therapy\N5S
+2700	TOK	might		may\VOFDR66
+2701	TOK	serve		serve\VMI----
+2702	TOK	not		not\DGA7
+2703	TOK	just		just\DGA7
+2704	TOK	to		to\P
+2705	TOK	blunt		blunt\VMI----
+2706	TOK	the		the\AT---6
+2707	TOK	edges		edge\N5P
+2708	TOK	of		of\P
+2709	TOK	disease		disease\N5S
+2710	TOK	but		but\CC
+2711	TOK	to		to\P
+2712	TOK	improve		improve\VMI----
+2713	TOK	memory		memory\N5S
+---	DLD	,		=\DELIM
+2714	TOK	sensation		sensation\N5S
+2715	TOK	and		and\CC
+2716	TOK	coordination		coordination\N5S
+2717	TOK	in		in\P
+2718	TOK	older		old\JC
+2719	TOK	people		people\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2720	TOK	At	BOS	at\P
+2721	TOK	present		present\VMI----
+---	DLD	,		=\DELIM
+2722	TOK	scientists		scientist\N5P
+2723	TOK	have		have\V6F6R66
+2724	TOK	enormous		enormous\JA
+2725	TOK	strides		stride\N5P
+2726	TOK	to		to\P
+2727	TOK	make		make\VMI----
+2728	TOK	before		before\CS
+2729	TOK	they		they\RPP3NN
+2730	TOK	can		can\VOFDR66
+2731	TOK	hope		hope\VMI----
+2732	TOK	to		to\P
+2733	TOK	aid		aid\VMI----
+2734	TOK	geriatric		geriatric\JA
+2735	TOK	patients		patient\N5P
+2736	TOK	in		in\P
+2737	TOK	this		this\AD---S
+2738	TOK	way		way\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2739	TOK	But	BOS	but\CC
+2740	TOK	ultimately		ultimately\DGA7
+---	DLD	,		=\DELIM
+2741	TOK	gene		gene\N5S
+2742	TOK	therapists		therapist\N5P
+2743	TOK	may		may\VOFDR66
+2744	TOK	be		be\VMI----
+2745	TOK	able		able\JA
+2746	TOK	to		to\P
+2747	TOK	offer		offer\VMI----
+2748	TOK	powerful		powerful\JA
+2749	TOK	medicines		medicine\N5P
+2750	TOK	for		for\P
+2751	TOK	rejuvenating		rejuvenate\VMG----
+2752	TOK	aging		aging\N5S
+2753	TOK	brains		brain\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2754	TOK	Such	BOS	such\JA
+2755	TOK	treatments		treatment\N5P
+2756	TOK	might		may\VOFDR66
+2757	TOK	also		also\DGA7
+2758	TOK	be		be\VMI----
+2759	TOK	able		able\JA
+2760	TOK	to		to\P
+2761	TOK	make		make\VMI----
+2762	TOK	younger		young\JC
+2763	TOK	people		people\N56
+2764	PGR	's		genmark\GENMARK
+2765	TOK	minds		mind\N5P
+2766	TOK	work		work\VMF6R66
+---	DLE	"		=\DELIM
+2767	TOK	better		good\JC
+2768	TOK	than		than\CS
+2769	TOK	well		well\DGA7
+---	DLD	,		=\DELIM
+---	DLD	"		=\DELIM
+2770	TOK	to		to\P
+2771	TOK	borrow		borrow\VMI----
+2772	TOK	a		a\AI---S
+2773	TOK	now		now\DGA7
+2774	TOK	popular		popular\JA
+2775	TOK	phrase		phrase\N5S
+2776	TOK	describing		describe\VMG----
+2777	TOK	the		the\AT---6
+2778	TOK	effects		effect\N5P
+2779	TOK	of		of\P
+##	TAG	<name>
+2780	TOK	Prozac		Prozac\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2781	TOK	Few	BOS	few\JA
+2782	TOK	areas		area\N5P
+2783	TOK	of		of\P
+2784	TOK	medical		medical\JA
+2785	TOK	research		research\N5S
+2786	TOK	pry		pry\N5S
+2787	TOK	at		at\P
+2788	TOK	such		such\JA
+2789	TOK	a		a\AI---S
+##	TAG	<name>
+2790	TOK	Pandora		Pandora\N46
+##	TAG	</name>
+2791	PGR	's		genmark\GENMARK
+2792	TOK	box		box\N56
+2793	TOK	as		as\DGA7
+2794	TOK	does		do\V6FDRS3
+2795	TOK	work		work\N5S
+2796	TOK	on		on\P
+2797	TOK	improving		improve\VMG----
+2798	TOK	normal		normal\JA
+2799	TOK	brain		brain\N5S
+2800	TOK	function		function\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2801	TOK	But	BOS	but\CC
+2802	TOK	this		this\AD---S
+2803	TOK	prospect		prospect\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2804	TOK	and		and\CC
+2805	TOK	its		its\APS3N6
+2806	TOK	possible		possible\JA
+2807	TOK	abuses		abuse\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2808	TOK	will		will\VOFDR66
+2809	TOK	be		be\VMI----
+2810	TOK	difficult		difficult\JA
+2811	TOK	to		to\P
+2812	TOK	sidestep		sidestep\VMI----
+2813	TOK	if		if\CS
+2814	TOK	scientists		scientist\N5P
+2815	TOK	are		be\V6FDR66
+2816	TOK	to		to\P
+2817	TOK	continue		continue\VMI----
+2818	TOK	to		to\P
+2819	TOK	pursue		pursue\VMI----
+2820	TOK	genetic		genetic\JA
+2821	TOK	treatments		treatment\N5P
+2822	TOK	directed		direct\VMC----
+2823	TOK	at		at\P
+2824	TOK	specific		specific\JA
+2825	TOK	neurological		neurological\JA
+2826	TOK	diseases		disease\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2827	TOK	So	BOS	so\CC
+2828	TOK	further		further\JA
+2829	TOK	research		research\N5S
+2830	TOK	on		on\P
+2831	TOK	applying		apply\VMG----
+2832	TOK	gene		gene\N5S
+2833	TOK	therapy		therapy\N5S
+2834	TOK	to		to\P
+2835	TOK	the		the\AT---6
+2836	TOK	nervous		nervous\JA
+2837	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+2838	TOK	like		like\P
+2839	TOK	some		some\AG---6
+2840	TOK	other		other\JA
+2841	TOK	swiftly		swiftly\DGA7
+2842	TOK	moving		move\VMG----
+2843	TOK	currents		current\N5P
+2844	TOK	in		in\P
+2845	TOK	the		the\AT---6
+2846	TOK	flow		flow\N5S
+2847	TOK	of		of\P
+2848	TOK	biomedical		biomedical\JA
+2849	TOK	inquiry		inquiry\N5S
+---	DLD	,		=\DELIM
+2850	TOK	will		will\VOFDR66
+2851	TOK	surely		surely\DGA7
+2852	TOK	force		force\VMI----
+2853	TOK	vexing		vexing\JA
+2854	TOK	ethical		ethical\JA
+2855	TOK	questions		question\N5P
+2856	TOK	to		to\P
+2857	TOK	float		float\N5S
+2858	TOK	to		to\P
+2859	TOK	the		the\AT---6
+2860	TOK	surface		surface\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2861	TOK	NEURONS	BOS	neuron\N5P
+---	DLE	(		=\DELIM
+2862	TOK	bright		bright\JA
+2863	TOK	blue		blue\JA
+2864	TOK	in		in\P
+2865	TOK	photomicrograph		photomicrograph\N5S
+---	DLD	)		=\DELIM
+2866	TOK	from		from\P
+2867	TOK	the		the\AT---6
+2868	TOK	hippocampal		hippocampal\JA
+2869	TOK	region		region\N5S
+2870	TOK	of		of\P
+2871	TOK	a		a\AI---S
+2872	TOK	rat		rat\N5S
+2873	TOK	brain		brain\N5S
+2874	TOK	have		have\V6F6R66
+2875	TOK	taken		take\VMC----
+2876	TOK	up		up\P
+2877	TOK	a		a\AI---S
+2878	TOK	herpesvirus		herpesvirus\N5S
+2879	TOK	that		that\RW63N6
+2880	TOK	was		be\V6F-A66
+2881	TOK	engineered		engineer\VMC----
+2882	TOK	to		to\P
+2883	TOK	carry		carry\VMI----
+2884	TOK	a		a\AI---S
+2885	TOK	gene		gene\N5S
+2886	TOK	specifying		specify\VMG----
+2887	TOK	a		a\AI---S
+2888	TOK	protein		protein\N5S
+2889	TOK	that		that\RW63N6
+2890	TOK	can		can\VOFDR66
+2891	TOK	turn		turn\VMI----
+2892	TOK	cells		cell\N5P
+2893	TOK	blue		blue\JA
+2894	TOK	when		when\CS
+2895	TOK	suitably		suitably\DGA7
+2896	TOK	prepared		prepare\VMC----
+2897	TOK	for		for\P
+2898	TOK	microscopic		microscopic\JA
+2899	TOK	analysis		analysis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2900	TOK	This	BOS	this\AD---S
+2901	TOK	ability		ability\N5S
+2902	TOK	to		to\P
+2903	TOK	carry		carry\VMI----
+2904	TOK	foreign		foreign\JA
+2905	TOK	genes		gene\N5P
+2906	TOK	into		into\P
+2907	TOK	neurons		neuron\N5P
+2908	TOK	raises		raise\VMFDRS3
+2909	TOK	hope		hope\N5S
+2910	TOK	that		that\CS
+2911	TOK	modified		modify\VMC----
+2912	TOK	viruses		virus\N5P
+2913	TOK	can		can\VOFDR66
+2914	TOK	be		be\VMI----
+2915	TOK	engineered		engineer\VMC----
+2916	TOK	to		to\P
+2917	TOK	provide		provide\VMI----
+2918	TOK	therapeutic		therapeutic\JA
+2919	TOK	genes		gene\N5P
+2920	TOK	to		to\P
+2921	TOK	the		the\AT---6
+2922	TOK	human		human\JA
+2923	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2924	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+2925	TOK	Toolbox of Gene Delivery Agents for Nerve Cells	EOS	Toolbox_of_Gene_Delivery_Agents_for_Nerve_Cells\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+2927	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2928	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2930	TOK	ADENOVIRUS	BOS	adenovirus\N5S
+---	DLD	,		=\DELIM
+2931	TOK	a		a\AI---S
+2932	TOK	pathogen		pathogen\N5S
+2933	TOK	that		that\RW63N6
+2934	TOK	commonly		commonly\DGA7
+2935	TOK	causes		cause\VMFDRS3
+2936	TOK	respiratory		respiratory\JA
+2937	TOK	aliments		aliment\N5P
+---	DLD	,		=\DELIM
+2938	TOK	is		be\V6FDRS3
+2939	TOK	capable		capable\JA
+2940	TOK	of		of\P
+2941	TOK	infecting		infect\VMG----
+2942	TOK	neurons	EOS	neuron\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2943	TOK	But	BOS	but\CC
+2944	TOK	in		in\P
+2945	TOK	its		its\APS3N6
+2946	TOK	naturally		naturally\DGA7
+2947	TOK	occurring		occur\VMG----
+2948	TOK	form		form\VMF6R66
+---	DLD	,		=\DELIM
+2949	TOK	it		it\RPS3N6
+2950	TOK	can		can\VOFDR66
+2951	TOK	damage		damage\VMI----
+2952	TOK	cells		cell\N5P
+2953	TOK	and		and\CC
+2954	TOK	evoke		evoke\VMI----
+2955	TOK	a		a\AI---S
+2956	TOK	strong		strong\JA
+2957	TOK	immune		immune\JA
+2958	TOK	response		response\N5S
+---	DLD	,		=\DELIM
+2959	TOK	so		so\CC
+2960	TOK	care		care\N5S
+2961	TOK	must		must\VOFDR66
+2962	TOK	be		be\VMI----
+2963	TOK	taken		take\VMC----
+2964	TOK	to		to\P
+2965	TOK	inactive		inactive\JA
+2966	TOK	it		it\RPS3N6
+2967	TOK	and		and\CC
+2968	TOK	minimize		minimize\VMI----
+2969	TOK	its		its\APS3N6
+2970	TOK	immunogenicity		immunogenicity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2971	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2972	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2974	TOK	RETROVIRUS	BOS	retrovirus\N5S
+2975	TOK	incorporates		incorporate\VMFDRS3
+2976	TOK	its		its\APS3N6
+2977	TOK	genes		gene\N5P
+2978	TOK	into		into\P
+2979	TOK	the		the\AT---6
+##	TAG	<name>
+2980	TOK	DNA		DNA\N46
+##	TAG	</name>
+2981	TOK	of		of\P
+2982	TOK	the		the\AT---6
+2983	TOK	host		host\N5S
+2984	TOK	cell	EOS	cell\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2986	TOK	Many	BOS	many\AI---P
+2987	TOK	retroviruses		retrovirus\N5P
+2988	TOK	infect		infect\VMF6R66
+2989	TOK	only		only\DGA7
+2990	TOK	cells		cell\N5P
+2991	TOK	that		that\RW63N6
+2992	TOK	divide		divide\VMF6R66
+2993	TOK	regularly		regularly\DGA7
+2994	TOK	and		and\CC
+2995	TOK	thus		thus\DGA7
+2996	TOK	can		can\V6FDR66
+2997	PGR	not		not\DGA7
+2998	TOK	be		be\VMI----
+2999	TOK	used		use\VMC----
+3000	TOK	to		to\P
+3001	TOK	treat		treat\VMI----
+3002	TOK	neurons		neuron\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3003	TOK	Others	BOS	other\RIP3N-
+---	DLE	(		=\DELIM
+3004	TOK	in		in\P
+3005	TOK	the		the\AT---6
+3006	TOK	so		so\DGA7
+---	DLI	-		=\DELIM
+3007	TOK	called		call\VMC----
+3008	TOK	lentivirus		lentivirus\N5S
+3009	TOK	family		family\N5S
+---	DLD	,		=\DELIM
+3010	TOK	which		which\RW63N-
+3011	TOK	includes		include\VMFDRS3
+##	TAG	<name>
+3012	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3013	TOK	the		the\AT---6
+##	TAG	<name>
+3014	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+3015	TOK	virus		virus\N5S
+---	DLD	)		=\DELIM
+3016	TOK	can		can\VOFDR66
+3017	TOK	infect		infect\VMI----
+3018	TOK	cells		cell\N5P
+3019	TOK	that		that\RW63N6
+3020	TOK	do		do\V6FDR66
+3021	TOK	not		not\DGA7
+3022	TOK	divide		divide\VMI----
+---	DLD	,		=\DELIM
+3023	TOK	and		and\CC
+3024	TOK	so		so\DGA7
+3025	TOK	these		this\AD---P
+3026	TOK	retroviruses		retrovirus\N5P
+3027	TOK	may		may\VOFDR66
+3028	TOK	someday		someday\DGA7
+3029	TOK	serve		serve\VMI----
+3030	TOK	in		in\P
+3031	TOK	gene		gene\N5S
+3032	TOK	therapy		therapy\N5S
+3033	TOK	for		for\P
+3034	TOK	the		the\AT---6
+3035	TOK	nervous		nervous\JA
+3036	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3037	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3038	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3040	TOK	HERPES	BOS	herpes\N5S
+##	TAG	<name>
+3041	TOK	SIMPLEX VIRUS		SIMPLEX_VIRUS\N46
+##	TAG	</name>
+3042	TOK	type		type\VMF6R66
+##	TAG	<num>
+3043	TOK	1		1\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+3044	TOK	the		the\AT---6
+3045	TOK	agent		agent\N5S
+3046	TOK	that		that\RW63N6
+3047	TOK	causes		cause\VMFDRS3
+3048	TOK	common		common\JA
+3049	TOK	cold		cold\JA
+3050	TOK	sores		sore\N5P
+---	DLD	,		=\DELIM
+3051	TOK	is		be\V6FDRS3
+3052	TOK	especially		especially\DGA7
+3053	TOK	able		able\JA
+3054	TOK	to		to\P
+3055	TOK	carry		carry\VMI----
+3056	TOK	genes		gene\N5P
+3057	TOK	into		into\P
+3058	TOK	nerve		nerve\N5S
+3059	TOK	cells	EOS	cell\N5P
+##	TAG	</head>
+##	TAG	<head>
+---	DLE	(	BOS	=\DELIM
+3060	TOK	Between		Between\N5S
+3061	TOK	outbreaks		outbreak\N5P
+---	DLD	,		=\DELIM
+3062	TOK	the		the\AT---6
+3063	TOK	cold		cold\JA
+3064	TOK	sore		sore\JA
+3065	TOK	virus		virus\N5S
+3066	TOK	often		often\DGA7
+3067	TOK	remains		remain\VMFDRS3
+3068	TOK	dormant		dormant\JA
+3069	TOK	within		within\P
+3070	TOK	sensory		sensory\JA
+##	TAG	<abbr>
+3071	TOK	neurons.		neurons.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+##	TAG	<name>
+3072	TOK	Unfortunately		Unfortunately\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3073	TOK	like		like\JA
+3074	TOK	adenoviruses		adenovirus\N5P
+---	DLD	,		=\DELIM
+3075	TOK	unmodified		unmodified\JA
+3076	TOK	herpesviruses		herpesvirus\N5P
+3077	TOK	damage		damage\N5S
+3078	TOK	cells		cell\N5P
+3079	TOK	and		and\CC
+3080	TOK	cause		cause\VMI----
+3081	TOK	an		an\AI---S
+3082	TOK	immune		immune\JA
+3083	TOK	response	EOS	response\N5S
+##	TAG	</head>
+##	TAG	<head>
+3084	TOK	Figure	BOS	Figure\N5P
+##	TAG	<num>
+3085	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+3087	TOK	ADENO-ASSOCIATED VIRUS	BOS	ADENO-ASSOCIATED_VIRUS\N46
+##	TAG	</name>
+3088	TOK	does		do\V6FDRS3
+3089	TOK	not		not\DGA7
+3090	TOK	damage		damage\VMI----
+3091	TOK	infected		infect\VMC----
+3092	TOK	nerve		nerve\N5S
+3093	TOK	cells		cell\N5P
+3094	TOK	or		or\CC
+3095	TOK	induce		induce\VMF6R66
+3096	TOK	an		an\AI---S
+3097	TOK	immune		immune\JA
+3098	TOK	response	EOS	response\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3100	TOK	It	BOS	it\RPS3N6
+3101	TOK	is		be\V6FDRS3
+3102	TOK	also		also\DGA7
+3103	TOK	much		much\DGA7
+3104	TOK	more		more\DDC7
+3105	TOK	compact		compact\JA
+3106	TOK	than		than\CS
+3107	TOK	other		other\JA
+3108	TOK	viruses		virus\N5P
+3109	TOK	under		under\P
+3110	TOK	study		study\N5S
+3111	TOK	for		for\P
+3112	TOK	gene		gene\N5S
+3113	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3114	TOK	Consequently	BOS	consequently\DGA7
+---	DLD	,		=\DELIM
+3115	TOK	it		it\RPS3N6
+3116	TOK	may		may\VOFDR66
+3117	TOK	be		be\VMI----
+3118	TOK	more		more\DDC7
+3119	TOK	successful		successful\JA
+3120	TOK	at		at\P
+3121	TOK	traversing		traverse\VMG----
+3122	TOK	the		the\AT---6
+3123	TOK	small		small\JA
+3124	TOK	pores		pore\N5P
+3125	TOK	that		that\RW63N6
+3126	TOK	allow		allow\VMF6R66
+3127	TOK	few		few\JA
+3128	TOK	substances		substance\N5P
+3129	TOK	to		to\P
+3130	TOK	cross		cross\VMI----
+3131	TOK	the		the\AT---6
+3132	TOK	blood		blood\N5S
+---	DLI	-		=\DELIM
+3133	TOK	brain		brain\N5S
+3134	TOK	barrier		barrier\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3135	TOK	But	BOS	but\CC
+3136	TOK	the		the\AT---6
+3137	TOK	small		small\JA
+3138	TOK	size		size\N5S
+3139	TOK	may		may\VOFDR66
+3140	TOK	limit		limit\VMI----
+3141	TOK	the		the\AT---6
+3142	TOK	amount		amount\N5S
+3143	TOK	of		of\P
+3144	TOK	therapeutic		therapeutic\JA
+3145	TOK	genetic		genetic\JA
+3146	TOK	information		information\N5S
+3147	TOK	that		that\RW63N6
+3148	TOK	can		can\VOFDR66
+3149	TOK	be		be\VMI----
+3150	TOK	loaded		load\VMC----
+3151	TOK	into		into\P
+3152	TOK	the		the\AT---6
+3153	TOK	virus		virus\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3154	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3155	TOK	5	EOS	5\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+3157	TOK	BLOOD-BRAIN BARRIER	BOS	BLOOD-BRAIN_BARRIER\N46
+##	TAG	</name>
+3158	TOK	consists		consist\VMFDRS3
+3159	TOK	of		of\P
+3160	TOK	tightly		tightly\DGA7
+3161	TOK	packed		pack\VMC----
+3162	TOK	cells		cell\N5P
+3163	TOK	that		that\RW63N6
+3164	TOK	line		line\VMF6R66
+3165	TOK	the		the\AT---6
+3166	TOK	capillaries		capillary\N5P
+3167	TOK	within		within\P
+3168	TOK	the		the\AT---6
+3169	TOK	brain		brain\N5S
+---	DLE	(		=\DELIM
+3170	TOK	left		leave\VMF6A66
+---	DLD	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3171	TOK	The	BOS	the\AT---6
+3172	TOK	tiny		tiny\JA
+3173	TOK	spaces		space\N5P
+3174	TOK	between		between\P
+3175	TOK	these		this\AD---P
+3176	TOK	cells		cell\N5P
+3177	TOK	allow		allow\VMF6R66
+3178	TOK	only		only\DGA7
+3179	TOK	small		small\JA
+3180	TOK	molecules		molecule\N5P
+3181	TOK	to		to\P
+3182	TOK	reach		reach\VMI----
+3183	TOK	this		this\AD---S
+3184	TOK	organ		organ\N5S
+3185	PGR	's		genmark\GENMARK
+3186	TOK	many		many\AI---P
+3187	TOK	neurons		neuron\N5P
+---	DLE	(		=\DELIM
+3188	TOK	tan		tan\JA
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3189	TOK	It	BOS	it\RPS3N6
+3190	TOK	is		be\V6FDRS3
+3191	TOK	possible		possible\JA
+3192	TOK	that		that\CS
+3193	TOK	certain		certain\JA
+3194	TOK	treatments		treatment\N5P
+3195	TOK	could		can\VOFDA66
+3196	TOK	be		be\VMI----
+3197	TOK	devised		devise\VMC----
+3198	TOK	that		that\CS
+3199	TOK	would		will\VOFDA66
+3200	TOK	widen		widen\VMI----
+3201	TOK	these		this\AD---P
+3202	TOK	gaps		gap\N5P
+3203	TOK	temporarily		temporarily\DGA7
+---	DLE	(		=\DELIM
+3204	TOK	right		right\JA
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3205	TOK	permitting		permit\VMG----
+3206	TOK	larger		large\JC
+3207	TOK	substances		substance\N5P
+---	DLE	(		=\DELIM
+3208	TOK	such		such\JA
+3209	TOK	as		as\P
+3210	TOK	therapeutic		therapeutic\JA
+3211	TOK	viral		viral\JA
+3212	TOK	vectors		vector\N5P
+---	DLD	)		=\DELIM
+3213	TOK	to		to\P
+3214	TOK	pass		pass\VMI----
+3215	TOK	into		into\P
+3216	TOK	brain		brain\N5S
+3217	TOK	neurons		neuron\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3218	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3219	TOK	6	EOS	6\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3221	TOK	CRISIS	BOS	crisis\N5S
+##	TAG	<name>
+3222	TOK	CONDITIONS		CONDITIONS\N46
+##	TAG	</name>
+3223	TOK	ensue		ensue\VMF6R66
+3224	TOK	during		during\P
+3225	TOK	a		a\AI---S
+3226	TOK	seizure		seizure\N5S
+3227	TOK	or		or\CC
+3228	TOK	stroke		stroke\VMF6R66
+3229	TOK	when		when\CS
+3230	TOK	too		too\DGA7
+3231	TOK	much		much\DGA7
+3232	TOK	of		of\P
+3233	TOK	the		the\AT---6
+3234	TOK	neurotransmitter		neurotransmitter\N5S
+3235	TOK	glutamate		glutamate\N5S
+---	DLE	(		=\DELIM
+3236	TOK	blue		blue\JA
+---	DLD	)		=\DELIM
+3237	TOK	accumulates		accumulate\VMFDRS3
+3238	TOK	in		in\P
+3239	TOK	the		the\AT---6
+3240	TOK	synaptic		synaptic\JA
+3241	TOK	gap		gap\N5S
+3242	TOK	between		between\P
+3243	TOK	neurons	EOS	neuron\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3244	TOK	Specialized	BOS	specialize\VMC----
+3245	TOK	molecules		molecule\N5P
+---	DLD	,		=\DELIM
+3246	TOK	called		call\VMC----
+3247	TOK	glutamate		glutamate\N5S
+3248	TOK	receptors		receptor\N5P
+---	DLD	,		=\DELIM
+3249	TOK	on		on\P
+3250	TOK	the		the\AT---6
+3251	TOK	receiving		receive\VMG----
+3252	TOK	cell		cell\N5S
+---	DLE	(		=\DELIM
+3253	TOK	tan		tan\JA
+---	DLD	)		=\DELIM
+3254	TOK	then		then\DGA7
+3255	TOK	allow		allow\VMF6R66
+3256	TOK	calcium		calcium\N5S
+3257	TOK	ions		ion\N5P
+---	DLE	(		=\DELIM
+3258	TOK	purple		purple\JA
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3259	TOK	which		which\RW63N-
+3260	TOK	are		be\V6FDR66
+3261	TOK	normally		normally\DGA7
+3262	TOK	present		present\JA
+3263	TOK	in		in\P
+3264	TOK	high		high\JA
+3265	TOK	concentration		concentration\N5S
+3266	TOK	only		only\DGA7
+3267	TOK	on		on\P
+3268	TOK	the		the\AT---6
+3269	TOK	outside		outside\DGA7
+---	DLD	,		=\DELIM
+3270	TOK	to		to\P
+3271	TOK	flood		flood\N5S
+3272	TOK	into		into\P
+3273	TOK	the		the\AT---6
+3274	TOK	cell		cell\N5S
+3275	PGR	's		genmark\GENMARK
+3276	TOK	interior		interior\N5S
+3277	TOK	and		and\CC
+3278	TOK	cause		cause\VMF6R66
+3279	TOK	permanent		permanent\JA
+3280	TOK	damage		damage\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3281	TOK	Future	BOS	future\N5S
+3282	TOK	genetic		genetic\JA
+3283	TOK	therapies		therapy\N5P
+3284	TOK	could		can\VOFDA66
+3285	TOK	augment		augment\VMI----
+3286	TOK	the		the\AT---6
+3287	TOK	amount		amount\N5S
+3288	TOK	of		of\P
+3289	TOK	calcium		calcium\N5S
+3290	TOK	binding		binding\N5S
+3291	TOK	protein		protein\N5S
+---	DLE	(		=\DELIM
+3292	TOK	which		which\RW63N-
+3293	TOK	safely		safely\DGA7
+3294	TOK	sequesters		sequester\VMFDRS3
+3295	TOK	these		this\AD---P
+3296	TOK	ions		ion\N5P
+---	DLD	)		=\DELIM
+3297	TOK	or		or\CC
+3298	TOK	increase		increase\VMI----
+3299	TOK	the		the\AT---6
+3300	TOK	number		number\N5S
+3301	TOK	of		of\P
+3302	TOK	glucose		glucose\N5S
+3303	TOK	transporters		transporter\N5P
+---	DLE	(		=\DELIM
+3304	TOK	which		which\RW63N-
+3305	TOK	would		will\VOFDA66
+3306	TOK	bring		bring\VMI----
+3307	TOK	more		many\JC
+3308	TOK	energy		energy\N5S
+---	DLI	-		=\DELIM
+3309	TOK	rich		rich\JA
+3310	TOK	molecules		molecule\N5P
+3311	TOK	to		to\P
+3312	TOK	fuel		fuel\VMI----
+3313	TOK	the		the\AT---6
+3314	TOK	endangered		endanger\VMC----
+3315	TOK	neuron		neuron\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3316	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3317	TOK	7	EOS	7\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+3319	TOK	WILLEM DE KOONING	BOS	WILLEM_DE_KOONING\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+3320	TOK	1904-1997		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+3321	TOK	the		the\AT---6
+3322	TOK	noted		note\VMC----
+3323	TOK	abstract		abstract\JA
+3324	TOK	painter		painter\N5S
+---	DLD	,		=\DELIM
+3325	TOK	suffered		suffer\VMC----
+3326	TOK	late		late\DGA7
+3327	TOK	in		in\P
+3328	TOK	his		his\APS3M6
+3329	TOK	life		life\N5S
+3330	TOK	from		from\P
+##	TAG	<name>
+3331	TOK	Alzheimer		Alzheimer\N46
+##	TAG	</name>
+3332	PGR	's		genmark\GENMARK
+3333	TOK	disease		disease\N5S
+---	DLD	,		=\DELIM
+3334	TOK	a		a\AI---S
+3335	TOK	crippling		cripple\VMG----
+3336	TOK	affliction		affliction\N5S
+3337	TOK	that		that\RW63N6
+3338	TOK	strikes		strike\VMFDRS3
+##	TAG	<loc pos="DGA7">
+3339	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+3340	TOK	one		one\MCS
+3341	TOK	in		in\P
+##	TAG	<num>
+3342	TOK	five		five\X
+##	TAG	</num>
+##	TAG	<loc pos="N5P">
+3343	TOK	Americans		american\N5P
+##	TAG	</loc>
+3344	TOK	older		old\JC
+3345	TOK	than		than\CS
+##	TAG	<num>
+3346	TOK	85		85\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3347	TOK	Investigators	BOS	investigator\N5P
+3348	TOK	are		be\V6FDR66
+3349	TOK	optimistic		optimistic\JA
+3350	TOK	that		that\CS
+##	TAG	<name>
+3351	TOK	Alzheimer		Alzheimer\N46
+##	TAG	</name>
+3352	PGR	's		genmark\GENMARK
+3353	TOK	disease		disease\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3354	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+3355	PGR	's		genmark\GENMARK
+3356	TOK	disease		disease\N5S
+3357	TOK	and		and\CC
+3358	TOK	other		other\JA
+3359	TOK	common		common\JA
+3360	TOK	neurodegenerative		neurodegenerative\JA
+3361	TOK	disorders		disorder\N5P
+3362	TOK	will		will\VOFDR66
+3363	TOK	eventually		eventually\DGA7
+3364	TOK	be		be\VMI----
+3365	TOK	ameliorated		ameliorate\VMC----
+3366	TOK	by		by\P
+3367	TOK	genetic		genetic\JA
+3368	TOK	therapies		therapy\N5P
+3369	TOK	of		of\P
+3370	TOK	the		the\AT---6
+3371	TOK	kind		kind\N5S
+3372	TOK	being		be\VMG----
+3373	TOK	pioneered		pioneer\VMC----
+3374	TOK	by		by\P
+3375	TOK	the		the\AT---6
+3376	TOK	authors		author\N5P
+3377	TOK	and		and\CC
+3378	TOK	others		other\RIP3N-
+3379	TOK	today		today\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

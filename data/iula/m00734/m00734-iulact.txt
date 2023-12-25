@@ -1,0 +1,5685 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<name>
+1	TOK	Randomised	BOS	Randomised\N46
+##	TAG	</name>
+2	TOK	placebo		placebo\N5S
+---	DLI	-		=\DELIM
+3	TOK	controlled		control\VMC----
+4	TOK	trial		trial\N5S
+5	TOK	of		of\P
+6	TOK	ritonavir		ritonavir\N5S
+7	TOK	in		in\P
+8	TOK	advanced		advance\VMC----
+##	TAG	<name>
+9	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+10	TOK	1		1\X
+##	TAG	</num>
+11	TOK	disease	EOS	disease\N5S
+##	TAG	</head>
+##	TAG	<head>
+13	TOK	Introduction	BOS	introduction\N5S
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+15	TOK	Zidovudine	BOS	zidovudine\N5S
+16	TOK	was		be\V6F-A66
+17	TOK	the		the\AT---6
+18	TOK	first		first\MOS
+19	TOK	antiretroviral		antiretroviral\JA
+20	TOK	treatment		treatment\N5S
+21	TOK	shown		show\VMC----
+22	TOK	to		to\P
+23	TOK	lower		lower\VMI----
+24	TOK	the		the\AT---6
+25	TOK	rate		rate\N5S
+26	TOK	of		of\P
+##	TAG	<name>
+27	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+28	TOK	related		relate\VMC----
+29	TOK	death		death\N5S
+30	TOK	significantly		significantly\DGA7
+31	TOK	in		in\P
+32	TOK	a		a\AI---S
+33	TOK	placebo		placebo\N5S
+---	DLI	-		=\DELIM
+34	TOK	controlled		control\VMC----
+35	TOK	trial		trial\N5S
+36	TOK	of		of\P
+37	TOK	patients		patient\N5P
+38	TOK	with		with\P
+39	TOK	advanced		advance\VMC----
+##	TAG	<name>
+40	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+41	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+42	TOK	Subsequent	BOS	subsequent\JA
+43	TOK	placebo		placebo\N5S
+---	DLI	-		=\DELIM
+44	TOK	controlled		control\VMC----
+45	TOK	clinical		clinical\JA
+46	TOK	trials		trial\N5P
+47	TOK	have		have\V6F6R66
+48	TOK	shown		show\VMC----
+49	TOK	its		its\APS3N6
+50	TOK	clinical		clinical\JA
+51	TOK	effectiveness		effectiveness\N5S
+52	TOK	in		in\P
+53	TOK	the		the\AT---6
+54	TOK	prevention		prevention\N5S
+55	TOK	of		of\P
+56	TOK	minor		minor\JA
+57	TOK	opportunistic		opportunistic\JA
+58	TOK	infections		infection\N5P
+59	TOK	in		in\P
+60	TOK	patients		patient\N5P
+61	TOK	with		with\P
+62	TOK	moderate		moderate\JA
+63	TOK	immunodeficiency		immunodeficiency\N5S
+64	TOK	and		and\CC
+65	TOK	in		in\P
+66	TOK	those		that\RDP3N-
+67	TOK	with		with\P
+68	TOK	primary		primary\JA
+##	TAG	<name>
+69	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+70	TOK	1		1\X
+##	TAG	</num>
+71	TOK	infection		infection\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+72	TOK	Compared	BOS	compare\VMC----
+73	TOK	with		with\P
+74	TOK	zidovudine		zidovudine\N5S
+75	TOK	monotherapy		monotherapy\N5P
+---	DLD	,		=\DELIM
+76	TOK	other		other\JA
+77	TOK	nucleoside		nucleoside\N5S
+78	TOK	analogues		analogue\N5P
+---	DLE	(		=\DELIM
+79	TOK	alone		alone\JA
+80	TOK	or		or\CC
+81	TOK	in		in\P
+82	TOK	combination		combination\N5S
+83	TOK	with		with\P
+84	TOK	zidovudine		zidovudine\N5S
+---	DLD	)		=\DELIM
+85	TOK	have		have\V6F6R66
+86	TOK	delayed		delay\VMC----
+87	TOK	the		the\AT---6
+88	TOK	onset		onset\N5S
+89	TOK	of		of\P
+##	TAG	<name>
+90	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+91	TOK	1		1\X
+##	TAG	</num>
+92	TOK	disease		disease\N5S
+93	TOK	progression		progression\N5S
+94	TOK	or		or\CC
+95	TOK	death		death\N5S
+96	TOK	in		in\P
+97	TOK	patients		patient\N5P
+98	TOK	with		with\P
+99	TOK	moderate		moderate\JA
+100	TOK	immunodeficiency		immunodeficiency\N5S
+101	TOK	in		in\P
+102	TOK	relatively		relatively\DGA7
+103	TOK	long		long\JA
+104	TOK	clinical		clinical\JA
+105	TOK	trials		trial\N5P
+---	DLD	,		=\DELIM
+106	TOK	particularly		particularly\DGA7
+107	TOK	as		as\P
+108	TOK	initial		initial\JA
+109	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+110	TOK	Ritonavir	BOS	ritonavir\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+111	TOK	Norvir		Norvir\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+112	TOK	Abbott Laboratories		Abbott_Laboratories\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+113	TOK	IL		IL\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+114	TOK	USA		USA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+115	TOK	is		be\V6FDRS3
+116	TOK	a		a\AI---S
+117	TOK	specific		specific\JA
+118	TOK	and		and\CC
+119	TOK	potent		potent\JA
+120	TOK	inhibitor		inhibitor\N5S
+121	TOK	of		of\P
+##	TAG	<name>
+122	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+123	TOK	1		1\X
+##	TAG	</num>
+124	TOK	aspartyl		aspartyl\N5S
+125	TOK	protease		protease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+126	TOK	The	BOS	the\AT---6
+127	TOK	drug		drug\N5S
+128	TOK	has		have\V6FDRS3
+129	TOK	high		high\JA
+130	TOK	oral		oral\JA
+131	TOK	bioavailability		bioavailability\N5S
+132	TOK	and		and\CC
+133	TOK	a		a\AI---S
+134	TOK	long		long\JA
+135	TOK	plasma		plasma\N5S
+136	TOK	half		half\N5S
+---	DLI	-		=\DELIM
+137	TOK	life		life\N5S
+---	DLD	,		=\DELIM
+138	TOK	which		which\RW63N-
+139	TOK	allows		allow\VMFDRS3
+140	TOK	twice		twice\DGA7
+---	DLI	-		=\DELIM
+141	TOK	daily		daily\JA
+142	TOK	dosing		dose\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+143	TOK	Compared	BOS	compare\VMC----
+144	TOK	with		with\P
+145	TOK	nucleoside		nucleoside\N5S
+146	TOK	analogues		analogue\N5P
+---	DLD	,		=\DELIM
+147	TOK	ritonavir		ritonavir\N5S
+148	TOK	has		have\V6FDRS3
+149	TOK	a		a\AI---S
+150	TOK	more		more\DDC7
+151	TOK	potent		potent\JA
+152	TOK	and		and\CC
+153	TOK	sustained		sustain\VMC----
+154	TOK	effect		effect\N5S
+155	TOK	on		on\P
+156	TOK	plasma		plasma\N5S
+157	TOK	viraemia		viraemia\N5S
+---	DLD	,		=\DELIM
+158	TOK	cellular		cellular\JA
+##	TAG	<name>
+159	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+160	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+161	TOK	infection		infection\N5S
+162	TOK	loads		load\N5P
+---	DLD	,		=\DELIM
+163	TOK	and		and\CC
+164	TOK	lymphocyte		lymphocyte\N5S
+165	TOK	immunophenotype		immunophenotype\N5S
+166	TOK	subsets		subset\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+167	TOK	In	BOS	in\P
+168	TOK	clinical		clinical\JA
+169	TOK	trials		trial\N5P
+170	TOK	on		on\P
+##	TAG	<name>
+171	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+172	TOK	1		1\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+173	TOK	some		some\DGA7
+174	TOK	surrogate		surrogate\VMF6R66
+---	DLI	-		=\DELIM
+175	TOK	marker		marker\N5S
+176	TOK	responses		response\N5P
+177	TOK	predict		predict\VMF6R66
+178	TOK	clinical		clinical\JA
+179	TOK	efficacy		efficacy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+180	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+181	TOK	their		their\APP3N6
+182	TOK	usefulness		usefulness\N5S
+183	TOK	in		in\P
+184	TOK	assessment		assessment\N5S
+185	TOK	of		of\P
+186	TOK	protease		protease\N5S
+---	DLI	-		=\DELIM
+187	TOK	inhibitor		inhibitor\N5S
+188	TOK	therapy		therapy\N5S
+189	TOK	is		be\V6FDRS3
+190	TOK	not		not\DGA7
+191	TOK	clear		clear\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+192	TOK	Therefore	BOS	therefore\DGA7
+---	DLD	,		=\DELIM
+193	TOK	this		this\AD---S
+194	TOK	study		study\N5S
+195	TOK	was		be\V6F-A66
+196	TOK	designed		design\VMC----
+197	TOK	as		as\P
+198	TOK	a		a\AI---S
+199	TOK	simple		simple\JA
+200	TOK	large		large\JA
+---	DLI	-		=\DELIM
+201	TOK	scale		scale\N5S
+202	TOK	clinical		clinical\JA
+203	TOK	trial		trial\N5S
+204	TOK	to		to\P
+205	TOK	investigate		investigate\VMI----
+206	TOK	rapidly		rapidly\DGA7
+---	DLD	,		=\DELIM
+207	TOK	in		in\P
+208	TOK	a		a\AI---S
+209	TOK	specific		specific\JA
+210	TOK	subpopulation		subpopulation\N5S
+211	TOK	of		of\P
+212	TOK	patients		patient\N5P
+213	TOK	with		with\P
+##	TAG	<name>
+214	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+215	TOK	1		1\X
+##	TAG	</num>
+216	TOK	disease		disease\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+217	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+218	TOK	lymphocyte		lymphocyte\N5S
+219	TOK	counts		count\N5P
+220	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+221	TOK	the		the\AT---6
+222	TOK	safety		safety\N5S
+223	TOK	and		and\CC
+224	TOK	clinical		clinical\JA
+225	TOK	efficacy		efficacy\N5S
+226	TOK	of		of\P
+227	TOK	ritonavir		ritonavir\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+228	TOK	These	BOS	this\AD---P
+229	TOK	results		result\N5P
+230	TOK	might		may\VOFDR66
+231	TOK	be		be\VMI----
+232	TOK	generalisable		generalisable\JA
+233	TOK	to		to\P
+234	TOK	a		a\AI---S
+235	TOK	larger		large\JC
+236	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+237	TOK	Methods	BOS	method\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+239	TOK	The	BOS	the\AT---6
+240	TOK	primary		primary\JA
+241	TOK	objective		objective\N5S
+242	TOK	of		of\P
+243	TOK	this		this\AD---S
+244	TOK	randomised		randomised\JA
+---	DLD	,		=\DELIM
+245	TOK	double		double\AG---6
+---	DLI	-		=\DELIM
+246	TOK	blind		blind\JA
+---	DLD	,		=\DELIM
+247	TOK	placebo		placebo\N5S
+---	DLI	-		=\DELIM
+248	TOK	controlled		control\VMC----
+---	DLD	,		=\DELIM
+249	TOK	multicentre		multicentre\N5S
+250	TOK	trial		trial\N5S
+251	TOK	was		be\V6F-A66
+252	TOK	to		to\P
+253	TOK	test		test\VMI----
+254	TOK	the		the\AT---6
+255	TOK	effectiveness		effectiveness\N5S
+256	TOK	of		of\P
+257	TOK	ritonavir		ritonavir\N5S
+258	TOK	oral		oral\JA
+259	TOK	solution		solution\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+260	TOK	600		600\X
+##	TAG	</num>
+261	TOK	mg		mg\N5S
+262	TOK	twice		twice\DGA7
+263	TOK	daily		daily\JA
+---	DLD	)		=\DELIM
+264	TOK	in		in\P
+265	TOK	reducing		reduce\VMG----
+266	TOK	the		the\AT---6
+267	TOK	rate		rate\N5S
+268	TOK	of		of\P
+269	TOK	death		death\N5S
+270	TOK	or		or\CC
+271	TOK	any		any\AG---6
+272	TOK	new		new\JA
+---	DLD	,		=\DELIM
+273	TOK	or		or\CC
+274	TOK	specified		specify\VMC----
+275	TOK	recurrent		recurrent\JA
+---	DLD	,		=\DELIM
+##	TAG	<name>
+276	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+277	TOK	defining		define\VMG----
+278	TOK	illness		illness\N5S
+279	TOK	in		in\P
+280	TOK	a		a\AI---S
+281	TOK	population		population\N5S
+282	TOK	of		of\P
+##	TAG	<name>
+283	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+284	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+285	TOK	infected		infect\VMC----
+286	TOK	adults		adult\N5P
+287	TOK	with		with\P
+##	TAG	<name>
+288	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+289	TOK	lymphocyte		lymphocyte\N5S
+290	TOK	counts		count\N5P
+291	TOK	of		of\P
+##	TAG	<na type="function">
+292	TOK	100/mL		noanat\W
+##	TAG	</na>
+293	TOK	or		or\CC
+294	TOK	less		less\DDC7
+---	DLD	,		=\DELIM
+295	TOK	while		while\CS
+296	TOK	permitting		permit\VMG----
+297	TOK	concurrent		concurrent\JA
+298	TOK	use		use\N5S
+299	TOK	of		of\P
+300	TOK	licensed		license\VMC----
+301	TOK	anti		anti\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+302	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+303	TOK	1		1\X
+##	TAG	</num>
+304	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+305	TOK	Secondary	BOS	secondary\JA
+306	TOK	objectives		objective\N5P
+307	TOK	were		be\V6F-A66
+308	TOK	to		to\P
+309	TOK	assess		assess\VMI----
+310	TOK	the		the\AT---6
+311	TOK	effect		effect\N5S
+312	TOK	of		of\P
+313	TOK	ritonavir		ritonavir\N5S
+314	TOK	on		on\P
+315	TOK	counts		count\N5P
+316	TOK	of		of\P
+##	TAG	<name>
+317	TOK	CD4		CD4\N46
+##	TAG	</name>
+318	TOK	and		and\CC
+##	TAG	<name>
+319	TOK	CD8		CD8\N46
+##	TAG	</name>
+320	TOK	lymphocytes		lymphocyte\N5P
+321	TOK	and		and\CC
+322	TOK	plasma		plasma\N5S
+323	TOK	concentrations		concentration\N5P
+324	TOK	of		of\P
+##	TAG	<name>
+325	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+326	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+327	TOK	RNA		RNA\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+328	TOK	Roche Amplicor		Roche_Amplicor\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+329	TOK	lower		low\JC
+330	TOK	limit		limit\N5S
+331	TOK	of		of\P
+332	TOK	detection		detection\N5S
+##	TAG	<num>
+333	TOK	200		200\X
+##	TAG	</num>
+334	TOK	copies		copy\N5P
+---	DLE	/		=\DELIM
+335	TOK	mL		mL\N5P
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+337	TOK	Plasma	BOS	plasma\N5S
+338	TOK	viraemia		viraemia\N5S
+339	TOK	response		response\N5S
+340	TOK	was		be\V6F-A66
+341	TOK	studied		study\VMC----
+342	TOK	in		in\P
+343	TOK	a		a\AI---S
+344	TOK	subset		subset\N5S
+345	TOK	of		of\P
+346	TOK	patients		patient\N5P
+---	DLI	-		=\DELIM
+347	TOK	the		the\AT---6
+348	TOK	first		first\MOS
+##	TAG	<num>
+349	TOK	159		159\X
+##	TAG	</num>
+350	TOK	randomised		randomised\JA
+351	TOK	patients		patient\N5P
+352	TOK	with		with\P
+353	TOK	baseline		baseline\N5S
+354	TOK	plasma		plasma\N5S
+##	TAG	<name>
+355	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+356	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+357	TOK	RNA		RNA\N46
+##	TAG	</name>
+358	TOK	concentrations		concentration\N5P
+359	TOK	higher		high\JC
+360	TOK	than		than\CS
+##	TAG	<num>
+361	TOK	15		15\X
+##	TAG	</num>
+##	TAG	<num>
+362	TOK	000		000\X
+##	TAG	</num>
+363	TOK	copies/mL		copies/mL\N5P
+---	DLE	(		=\DELIM
+364	TOK	antiviral		antiviral\JA
+365	TOK	activity		activity\N5S
+366	TOK	subset		subset\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+367	TOK	The	BOS	the\AT---6
+368	TOK	study		study\N5S
+369	TOK	protocol		protocol\N5S
+370	TOK	was		be\V6F-A66
+371	TOK	approved		approve\VMC----
+372	TOK	by		by\P
+373	TOK	the		the\AT---6
+374	TOK	appropriate		appropriate\JA
+375	TOK	regulatory		regulatory\JA
+376	TOK	agencies		agency\N5P
+377	TOK	and		and\CC
+378	TOK	institutional		institutional\JA
+379	TOK	review		review\N5S
+380	TOK	boards		board\N5P
+381	TOK	of		of\P
+382	TOK	the		the\AT---6
+383	TOK	participating		participate\VMG----
+384	TOK	centres		centre\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+385	TOK	Patients	BOS	patient\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+387	TOK	Participants	BOS	participant\N5P
+388	TOK	provided		provide\VMC----
+389	TOK	written		write\VMC----
+390	TOK	informed		inform\VMC----
+391	TOK	consent		consent\N5S
+392	TOK	before		before\CS
+393	TOK	they		they\RPP3NN
+394	TOK	underwent		undergo\VMF6A66
+395	TOK	any		any\AG---6
+396	TOK	screening		screening\N5S
+397	TOK	procedures		procedure\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+398	TOK	Eligible	BOS	eligible\JA
+399	TOK	participants		participant\N5P
+400	TOK	were		be\V6F-A66
+##	TAG	<loc pos="DGA7">
+401	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+##	TAG	<num>
+402	TOK	12		12\X
+##	TAG	</num>
+##	TAG	<loc pos="N5P">
+403	TOK	years old		years_old\N5P
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+404	TOK	had		have\V6F6A66
+405	TOK	a		a\AI---S
+406	TOK	confirmed		confirm\VMC----
+407	TOK	serum		serum\N5S
+408	TOK	antibody		antibody\N5S
+409	TOK	test		test\N5S
+410	TOK	for		for\P
+##	TAG	<name>
+411	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+412	TOK	1		1\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+413	TOK	a		a\AI---S
+##	TAG	<name>
+414	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+415	TOK	lymphocyte		lymphocyte\N5S
+416	TOK	count		count\N5S
+417	TOK	of		of\P
+##	TAG	<na type="function">
+418	TOK	100/mL		noanat\W
+##	TAG	</na>
+419	TOK	or		or\CC
+420	TOK	less		less\DDC7
+---	DLD	,		=\DELIM
+421	TOK	and		and\CC
+422	TOK	had		have\V6F6A66
+423	TOK	received		receive\VMC----
+##	TAG	<loc pos="DGA7">
+424	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+##	TAG	<num>
+425	TOK	9		9\X
+##	TAG	</num>
+426	TOK	months		month\N5P
+427	TOK	of		of\P
+428	TOK	therapy		therapy\N5S
+429	TOK	with		with\P
+##	TAG	<loc pos="DGA7">
+430	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+431	TOK	one		one\MCS
+432	TOK	approved		approve\VMF6A66
+433	TOK	nucleoside		nucleoside\N5S
+---	DLE	(		=\DELIM
+434	TOK	zidovudine		zidovudine\N5S
+---	DLD	,		=\DELIM
+435	TOK	zalcitabine		zalcitabine\N5S
+---	DLD	,		=\DELIM
+436	TOK	didanosine		didanosine\N5S
+---	DLD	,		=\DELIM
+437	TOK	or		or\CC
+438	TOK	stavudine		stavudine\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+439	TOK	In	BOS	in\P
+440	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+441	TOK	participants		participant\N5P
+442	TOK	had		have\V6F6A66
+##	TAG	<loc pos="DGA7">
+443	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+##	TAG	<num>
+444	TOK	6		6\X
+##	TAG	</num>
+445	TOK	weeks		week\N5P
+446	TOK	of		of\P
+447	TOK	stable		stable\JA
+448	TOK	therapy		therapy\N5S
+449	TOK	up		up\P
+450	TOK	to		to\P
+451	TOK	baseline		baseline\N5S
+452	TOK	with		with\P
+453	TOK	a		a\AI---S
+##	TAG	<name>
+454	TOK	Karnofsky		Karnofsky\N46
+##	TAG	</name>
+455	TOK	score		score\N56
+456	TOK	of		of\P
+457	TOK	more		more\DDC7
+458	TOK	than		than\CS
+##	TAG	<num>
+459	TOK	70		70\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+460	TOK	Exclusion	BOS	exclusion\N5S
+461	TOK	criteria		criterion\N5P
+462	TOK	included		include\VMF6A66
+463	TOK	previous		previous\JA
+464	TOK	enrolment		enrolment\N5S
+465	TOK	in		in\P
+466	TOK	this		this\AD---S
+467	TOK	study		study\N5S
+468	TOK	or		or\CC
+469	TOK	another		another\JA
+470	TOK	study		study\N5S
+471	TOK	of		of\P
+472	TOK	an		an\AI---S
+##	TAG	<name>
+473	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+474	TOK	1		1\X
+##	TAG	</num>
+475	TOK	protease		protease\N5S
+476	TOK	inhibitor		inhibitor\N5S
+---	DLD	,		=\DELIM
+477	TOK	acute		acute\JA
+478	TOK	illness		illness\N5S
+---	DLD	,		=\DELIM
+479	TOK	predefined		predefined\JA
+480	TOK	haematological		haematological\JA
+481	TOK	or		or\CC
+482	TOK	biochemical		biochemical\JA
+483	TOK	abnormality		abnormality\N5S
+---	DLD	,		=\DELIM
+484	TOK	current		current\JA
+485	TOK	treatment		treatment\N5S
+486	TOK	with		with\P
+487	TOK	more		more\DDC7
+488	TOK	than		than\CS
+##	TAG	<num>
+489	TOK	two		two\X
+##	TAG	</num>
+490	TOK	nucleoside		nucleoside\N5S
+491	TOK	reverse		reverse\JA
+---	DLI	-		=\DELIM
+492	TOK	transcriptase		transcriptase\N5S
+493	TOK	inhibitors		inhibitor\N5P
+---	DLD	,		=\DELIM
+494	TOK	experimental		experimental\JA
+495	TOK	or		or\CC
+496	TOK	illicit		illicit\JA
+497	TOK	recreational		recreational\JA
+498	TOK	drug		drug\N5S
+499	TOK	use		use\VMF6R66
+---	DLD	,		=\DELIM
+500	TOK	treatment		treatment\N5S
+501	TOK	with		with\P
+502	TOK	specific		specific\JA
+503	TOK	contraindicated		contraindicate\VMC----
+504	TOK	drugs		drug\N5P
+---	DLD	,		=\DELIM
+505	TOK	pregnancy		pregnancy\N5S
+---	DLD	,		=\DELIM
+506	TOK	and		and\CC
+507	TOK	breastfeeding		breastfeeding\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+508	TOK	Endpoints	BOS	endpoint\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+510	TOK	The	BOS	the\AT---6
+511	TOK	primary		primary\JA
+512	TOK	outcome		outcome\N5S
+513	TOK	measure		measure\N5S
+514	TOK	was		be\V6F-A66
+515	TOK	the		the\AT---6
+516	TOK	time		time\N5S
+517	TOK	to		to\P
+518	TOK	any		any\AG---6
+519	TOK	new		new\JA
+##	TAG	<name>
+520	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+521	TOK	defining		define\VMG----
+522	TOK	illness		illness\N5S
+523	TOK	or		or\CC
+524	TOK	death		death\N5S
+525	TOK	not		not\DGA7
+526	TOK	preceded		precede\VMF6A66
+527	TOK	by		by\P
+528	TOK	an		an\AI---S
+##	TAG	<name>
+529	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+530	TOK	defining		define\VMG----
+531	TOK	event		event\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+532	TOK	A	BOS	a\AI---S
+533	TOK	new		new\JA
+##	TAG	<name>
+534	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+535	TOK	defining		define\VMG----
+536	TOK	event		event\N5S
+537	TOK	was		be\V6F-A66
+538	TOK	any		any\AG---6
+539	TOK	clinical		clinical\JA
+540	TOK	illness		illness\N5S
+541	TOK	specified		specify\VMC----
+542	TOK	by		by\P
+543	TOK	the		the\AT---6
+##	TAG	<name>
+544	TOK	US Centers for Disease Control		US_Centers_for_Disease_Control\N46
+##	TAG	</name>
+545	TOK	and		and\CC
+##	TAG	<name>
+546	TOK	Prevention		Prevention\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+547	TOK	The	BOS	the\AT---6
+548	TOK	recurrence		recurrence\N5S
+549	TOK	of		of\P
+550	TOK	pneumocystosis		pneumocystosis\N5S
+---	DLD	,		=\DELIM
+551	TOK	oesophageal		oesophageal\JA
+552	TOK	candidosis		candidosis\N5P
+---	DLD	,		=\DELIM
+553	TOK	or		or\CC
+554	TOK	chronic		chronic\JA
+555	TOK	herpetic		herpetic\JA
+556	TOK	ulcer		ulcer\N5S
+557	TOK	was		be\V6F-A66
+558	TOK	also		also\DGA7
+559	TOK	included		include\VMC----
+560	TOK	as		as\P
+561	TOK	a		a\AI---S
+562	TOK	primary		primary\JA
+563	TOK	outcome		outcome\N5S
+---	DLD	,		=\DELIM
+564	TOK	but		but\CC
+565	TOK	recurrence		recurrence\N5S
+566	TOK	or		or\CC
+567	TOK	progression		progression\N5S
+568	TOK	of		of\P
+569	TOK	other		other\JA
+570	TOK	events		event\N5P
+571	TOK	was		be\V6F-A66
+572	TOK	not		not\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+573	TOK	A	BOS	a\AI---S
+574	TOK	secondary		secondary\JA
+575	TOK	primary		primary\JA
+576	TOK	outcome		outcome\N5S
+577	TOK	measure		measure\VMI----
+---	DLD	,		=\DELIM
+578	TOK	analysed		analyse\VMC----
+579	TOK	separately		separately\DGA7
+---	DLD	,		=\DELIM
+580	TOK	was		be\V6F-A66
+581	TOK	death		death\N5S
+582	TOK	from		from\P
+583	TOK	any		any\AG---6
+584	TOK	cause		cause\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+585	TOK	Each	BOS	each\AG---S
+586	TOK	event		event\N5S
+587	TOK	reported		report\VMC----
+588	TOK	as		as\P
+589	TOK	a		a\AI---S
+590	TOK	disease		disease\N5S
+591	TOK	outcome		outcome\N5S
+592	TOK	was		be\V6F-A66
+593	TOK	assessed		assess\VMC----
+594	TOK	by		by\P
+##	TAG	<num>
+595	TOK	two		two\X
+##	TAG	</num>
+596	TOK	independent		independent\JA
+597	TOK	reviewers		reviewer\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+598	TOK	DWC		DWC\N46
+##	TAG	</name>
+599	TOK	and		and\CC
+##	TAG	<name>
+600	TOK	SK		SK\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+601	TOK	without		without\P
+602	TOK	knowledge		knowledge\N5S
+603	TOK	of		of\P
+604	TOK	treatment		treatment\N5S
+605	TOK	allocation		allocation\N5S
+606	TOK	and		and\CC
+##	TAG	<loc pos="P">
+607	TOK	according to		according_to\P
+##	TAG	</loc>
+608	TOK	predefined		predefined\JA
+609	TOK	diagnostic		diagnostic\JA
+610	TOK	criteria		criterion\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+611	TOK	Source	BOS	source\N5S
+612	TOK	documentation		documentation\N5S
+613	TOK	to		to\P
+614	TOK	support		support\VMI----
+615	TOK	a		a\AI---S
+616	TOK	high		high\JA
+617	TOK	degree		degree\N5S
+618	TOK	of		of\P
+619	TOK	clinical		clinical\JA
+620	TOK	confidence		confidence\N5S
+621	TOK	was		be\V6F-A66
+622	TOK	required		require\VMC----
+623	TOK	to		to\P
+624	TOK	confirm		confirm\VMI----
+625	TOK	each		each\AG---S
+626	TOK	event		event\N5S
+627	TOK	as		as\P
+628	TOK	a		a\AI---S
+629	TOK	clinical		clinical\JA
+630	TOK	endpoint		endpoint\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+631	TOK	Randomisation	BOS	Randomisation\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+633	TOK	Eligible	BOS	eligible\JA
+634	TOK	patients		patient\N5P
+635	TOK	were		be\V6F-A66
+636	TOK	randomly		randomly\DGA7
+637	TOK	assigned		assign\VMC----
+638	TOK	ritonavir		ritonavir\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+639	TOK	600		600\X
+##	TAG	</num>
+640	TOK	mg		mg\N5S
+641	TOK	in		in\P
+642	TOK	a		a\AI---S
+643	TOK	liquid		liquid\N5S
+644	TOK	oral		oral\JA
+645	TOK	solution		solution\N5S
+646	TOK	twice		twice\DGA7
+647	TOK	daily		daily\JA
+---	DLD	)		=\DELIM
+648	TOK	or		or\CC
+649	TOK	a		a\AI---S
+650	TOK	matching		match\VMG----
+##	TAG	<foreign lang="LA" pos="N5S">
+651	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+---	DLE	(		=\DELIM
+652	TOK	liquid		liquid\N5S
+653	TOK	oral		oral\JA
+654	TOK	solution		solution\N5S
+655	TOK	twice		twice\DGA7
+656	TOK	daily		daily\JA
+---	DLD	)		=\DELIM
+657	TOK	by		by\P
+658	TOK	means		mean\N56
+659	TOK	of		of\P
+660	TOK	a		a\AI---S
+661	TOK	computer		computer\N5S
+---	DLI	-		=\DELIM
+662	TOK	generated		generate\VMC----
+663	TOK	schedule		schedule\VMF6R66
+---	DLE	(		=\DELIM
+664	TOK	prepared		prepare\VMC----
+665	TOK	by		by\P
+##	TAG	<name>
+666	TOK	Abbott Laboratories		Abbott_Laboratories\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+667	TOK	The	BOS	the\AT---6
+668	TOK	assignment		assignment\N5S
+669	TOK	of		of\P
+670	TOK	patients		patient\N5P
+671	TOK	was		be\V6F-A66
+672	TOK	done		do\VMC----
+673	TOK	in		in\P
+674	TOK	blocks		block\N5P
+675	TOK	of		of\P
+##	TAG	<num>
+676	TOK	four		four\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+677	TOK	stratified		stratify\VMC----
+678	TOK	by		by\P
+679	TOK	geographical		geographical\JA
+680	TOK	region		region\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+681	TOK	North America		North_America\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+682	TOK	Europe		Europe\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+683	TOK	and		and\CC
+##	TAG	<name>
+684	TOK	Australia		Australia\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+686	TOK	Allocation	BOS	allocation\N5S
+687	TOK	concealment		concealment\N5S
+688	TOK	was		be\V6F-A66
+689	TOK	ensured		ensure\VMC----
+690	TOK	by		by\P
+691	TOK	the		the\AT---6
+692	TOK	use		use\N5S
+693	TOK	of		of\P
+694	TOK	an		an\AI---S
+695	TOK	automated		automate\VMC----
+696	TOK	voice		voice\N5S
+---	DLI	-		=\DELIM
+697	TOK	response		response\N5S
+698	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+699	TOK	Procedures	BOS	procedure\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+701	TOK	Patients	BOS	patient\N5P
+702	TOK	who		who\RW63N-
+703	TOK	gave		give\VMF6A66
+704	TOK	informed		inform\VMC----
+705	TOK	consent		consent\N5S
+706	TOK	were		be\V6F-A66
+707	TOK	screened		screen\VMC----
+708	TOK	by		by\P
+709	TOK	a		a\AI---S
+710	TOK	complete		complete\JA
+711	TOK	medical		medical\JA
+712	TOK	history		history\N5S
+713	TOK	and		and\CC
+714	TOK	a		a\AI---S
+715	TOK	review		review\N5S
+716	TOK	of		of\P
+717	TOK	concurrent		concurrent\JA
+718	TOK	medications		medication\N5P
+---	DLD	,		=\DELIM
+719	TOK	a		a\AI---S
+720	TOK	complete		complete\JA
+721	TOK	physical		physical\JA
+722	TOK	examination		examination\N5S
+---	DLD	,		=\DELIM
+723	TOK	electrocardiography		electrocardiography\N5S
+---	DLD	,		=\DELIM
+724	TOK	chest		chest\N5S
+725	TOK	radiography		radiography\N5S
+---	DLD	,		=\DELIM
+726	TOK	counts		count\N5P
+727	TOK	of		of\P
+##	TAG	<name>
+728	TOK	CD4		CD4\N46
+##	TAG	</name>
+729	TOK	and		and\CC
+##	TAG	<name>
+730	TOK	CD8		CD8\N46
+##	TAG	</name>
+731	TOK	lymphocytes		lymphocyte\N5P
+---	DLD	,		=\DELIM
+732	TOK	and		and\CC
+733	TOK	routine		routine\JA
+734	TOK	haematological		haematological\JA
+735	TOK	and		and\CC
+736	TOK	biochemical		biochemical\JA
+737	TOK	laboratory		laboratory\N5S
+738	TOK	studies		study\N5P
+739	TOK	during		during\P
+740	TOK	a		a\AI---S
+##	TAG	<num>
+741	TOK	28		28\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+742	TOK	day		day\N5S
+743	TOK	period		period\N5S
+744	TOK	before		before\P
+745	TOK	randomisation		randomisation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+746	TOK	Baseline	BOS	baseline\N5S
+747	TOK	counts		count\N5P
+748	TOK	of		of\P
+##	TAG	<name>
+749	TOK	CD4		CD4\N46
+##	TAG	</name>
+750	TOK	and		and\CC
+##	TAG	<name>
+751	TOK	CD8		CD8\N46
+##	TAG	</name>
+752	TOK	lymphocytes		lymphocyte\N5P
+753	TOK	and		and\CC
+754	TOK	plasma		plasma\N5S
+755	TOK	concentrations		concentration\N5P
+756	TOK	of		of\P
+##	TAG	<name>
+757	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+758	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+759	TOK	RNA		RNA\N46
+##	TAG	</name>
+760	TOK	were		be\V6F-A66
+761	TOK	defined		define\VMC----
+762	TOK	as		as\P
+763	TOK	the		the\AT---6
+764	TOK	mean		mean\JA
+765	TOK	of		of\P
+##	TAG	<num>
+766	TOK	two		two\X
+##	TAG	</num>
+767	TOK	such		such\JA
+768	TOK	measures		measure\N5P
+769	TOK	obtained		obtain\VMC----
+770	TOK	during		during\P
+771	TOK	the		the\AT---6
+##	TAG	<num>
+772	TOK	10		10\X
+##	TAG	</num>
+773	TOK	days		day\N5P
+774	TOK	before		before\P
+775	TOK	randomisation		randomisation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+776	TOK	After	BOS	after\P
+777	TOK	randomisation		randomisation\N5P
+---	DLD	,		=\DELIM
+778	TOK	medical		medical\JA
+779	TOK	history		history\N5S
+---	DLD	,		=\DELIM
+780	TOK	physical		physical\JA
+781	TOK	examination		examination\N5S
+---	DLD	,		=\DELIM
+782	TOK	laboratory		laboratory\N5S
+783	TOK	testing		testing\N5S
+784	TOK	for		for\P
+785	TOK	toxic		toxic\JA
+786	TOK	effects		effect\N5P
+787	TOK	and		and\CC
+788	TOK	surrogate		surrogate\N5S
+789	TOK	markers		marker\N5P
+---	DLD	,		=\DELIM
+790	TOK	and		and\CC
+791	TOK	compliance		compliance\N5S
+792	TOK	checks		check\VMFDRS3
+---	DLE	(		=\DELIM
+793	TOK	by		by\P
+794	TOK	measurement		measurement\N5S
+795	TOK	of		of\P
+796	TOK	residual		residual\JA
+797	TOK	amounts		amount\N5P
+798	TOK	of		of\P
+799	TOK	study		study\N5S
+800	TOK	medication		medication\N5S
+---	DLD	)		=\DELIM
+801	TOK	were		be\V6F-A66
+802	TOK	repeated		repeat\VMC----
+803	TOK	weekly		weekly\JA
+804	TOK	for		for\P
+805	TOK	the		the\AT---6
+806	TOK	first		first\MOS
+807	TOK	month		month\N5S
+---	DLD	,		=\DELIM
+808	TOK	every		every\AG---S
+##	TAG	<num>
+809	TOK	2		2\X
+##	TAG	</num>
+810	TOK	weeks		week\N5P
+811	TOK	for		for\P
+812	TOK	the		the\AT---6
+813	TOK	next		next\JA
+##	TAG	<num>
+814	TOK	2		2\X
+##	TAG	</num>
+815	TOK	months		month\N5P
+---	DLD	,		=\DELIM
+816	TOK	and		and\CC
+817	TOK	monthly		monthly\JA
+818	TOK	thereafter		thereafter\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+819	TOK	The	BOS	the\AT---6
+820	TOK	assessment		assessment\N5S
+821	TOK	was		be\V6F-A66
+822	TOK	repeated		repeat\VMC----
+823	TOK	on		on\P
+824	TOK	discontinuation		discontinuation\N5S
+825	TOK	of		of\P
+826	TOK	study		study\N5S
+827	TOK	medication		medication\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+828	TOK	All	BOS	all\AG---6
+829	TOK	haematological		haematological\JA
+830	TOK	and		and\CC
+831	TOK	biochemical		biochemical\JA
+832	TOK	tests		test\N5P
+833	TOK	were		be\V6F-A66
+834	TOK	done		do\VMC----
+835	TOK	in		in\P
+836	TOK	central		central\JA
+837	TOK	laboratories		laboratory\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+838	TOK	Treatment	BOS	treatment\N5S
+839	TOK	and		and\CC
+840	TOK	follow		follow\VMF6R66
+---	DLI	-		=\DELIM
+841	TOK	up	EOS	up\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+843	TOK	There	BOS	there\DGA7
+844	TOK	were		be\V6F-A66
+##	TAG	<num>
+845	TOK	three		three\X
+##	TAG	</num>
+846	TOK	study		study\N5S
+847	TOK	periods		period\N5P
+848	TOK	of		of\P
+849	TOK	drug		drug\N5S
+850	TOK	management		management\N5S
+851	TOK	with		with\P
+852	TOK	study		study\N5S
+853	TOK	medication		medication\N5S
+854	TOK	and		and\CC
+855	TOK	concurrent		concurrent\JA
+856	TOK	anti		anti\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+857	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+858	TOK	1		1\X
+##	TAG	</num>
+859	TOK	treatment		treatment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+860	TOK	During	BOS	during\P
+861	TOK	the		the\AT---6
+862	TOK	first		first\MOS
+##	TAG	<num>
+863	TOK	16		16\X
+##	TAG	</num>
+864	TOK	weeks		week\N5P
+---	DLD	,		=\DELIM
+865	TOK	patients		patient\N5P
+866	TOK	received		receive\VMC----
+867	TOK	masked		mask\VMC----
+868	TOK	study		study\N5S
+869	TOK	medication		medication\N5S
+870	TOK	and		and\CC
+871	TOK	baseline		baseline\N5S
+872	TOK	concurrent		concurrent\JA
+873	TOK	anti		anti\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+874	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+875	TOK	1		1\X
+##	TAG	</num>
+876	TOK	treatment		treatment\N5S
+877	TOK	that		that\RW63N6
+878	TOK	could		can\VOFDA66
+879	TOK	not		not\DGA7
+880	TOK	be		be\VMI----
+881	TOK	changed		change\VMC----
+882	TOK	under		under\P
+883	TOK	the		the\AT---6
+884	TOK	protocol		protocol\N5S
+---	DLE	(		=\DELIM
+885	TOK	unless		unless\CS
+886	TOK	it		it\RPS3N6
+887	TOK	had		have\V6F6A66
+888	TOK	to		to\P
+889	TOK	be		be\VMI----
+890	TOK	stopped		stop\VMC----
+891	TOK	for		for\P
+892	TOK	intolerance		intolerance\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+893	TOK	During	BOS	during\P
+894	TOK	the		the\AT---6
+895	TOK	second		second\MOS
+896	TOK	period		period\N5S
+---	DLD	,		=\DELIM
+897	TOK	from		from\P
+##	TAG	<num>
+898	TOK	16		16\X
+##	TAG	</num>
+899	TOK	weeks		week\N5P
+900	TOK	after		after\P
+901	TOK	randomisation		randomisation\N5S
+902	TOK	until		until\P
+903	TOK	provision		provision\N5S
+904	TOK	of		of\P
+905	TOK	open		open\VMI----
+---	DLI	-		=\DELIM
+906	TOK	label		label\N5S
+907	TOK	ritonavir		ritonavir\N5S
+908	TOK	to		to\P
+909	TOK	all		all\AG---6
+910	TOK	patients		patient\N5P
+911	TOK	after		after\P
+912	TOK	the		the\AT---6
+913	TOK	primary		primary\JA
+914	TOK	study		study\N5S
+915	TOK	objective		objective\N5S
+916	TOK	was		be\V6F-A66
+917	TOK	met		meet\VMC----
+---	DLD	,		=\DELIM
+918	TOK	patients		patient\N5P
+919	TOK	who		who\RW63N-
+920	TOK	developed		develop\VMF6A66
+921	TOK	a		a\AI---S
+922	TOK	confirmed		confirm\VMC----
+##	TAG	<name>
+923	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+924	TOK	defining		define\VMG----
+925	TOK	outcome		outcome\N5S
+926	TOK	during		during\P
+927	TOK	the		the\AT---6
+928	TOK	first		first\MOS
+929	TOK	or		or\CC
+930	TOK	the		the\AT---6
+931	TOK	second		second\MOS
+932	TOK	period		period\N5S
+933	TOK	were		be\V6F-A66
+934	TOK	given		give\VMC----
+935	TOK	ritonavir		ritonavir\N5S
+936	TOK	openly		openly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+937	TOK	Patients	BOS	patient\N5P
+938	TOK	who		who\RW63N-
+939	TOK	did		do\V6FDA66
+940	TOK	not		not\DGA7
+941	TOK	experience		experience\VMI----
+942	TOK	an		an\AI---S
+##	TAG	<name>
+943	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+944	TOK	defining		define\VMG----
+945	TOK	outcome		outcome\N5S
+946	TOK	during		during\P
+947	TOK	either		either\AG---6
+948	TOK	period		period\N5S
+949	TOK	remained		remain\VMC----
+950	TOK	on		on\P
+951	TOK	masked		mask\VMC----
+952	TOK	study		study\N5S
+953	TOK	medication		medication\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+954	TOK	In	BOS	in\P
+955	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+956	TOK	during		during\P
+957	TOK	the		the\AT---6
+958	TOK	second		second\MOS
+959	TOK	period		period\N5S
+960	TOK	physicians		physician\N5P
+961	TOK	could		can\VOFDA66
+962	TOK	alter		alter\VMI----
+963	TOK	the		the\AT---6
+964	TOK	concurrent		concurrent\JA
+965	TOK	regimen		regimen\N5S
+966	TOK	of		of\P
+967	TOK	up		up\VMI----
+968	TOK	to		to\P
+##	TAG	<num>
+969	TOK	two		two\X
+##	TAG	</num>
+970	TOK	licensed		license\VMC----
+971	TOK	nucleosides		nucleoside\N5P
+972	TOK	including		including\P
+973	TOK	lamivudine		lamivudine\N5P
+---	DLD	,		=\DELIM
+974	TOK	which		which\RW63N-
+975	TOK	became		become\VMF6A66
+976	TOK	commercially		commercially\DGA7
+977	TOK	available		available\JA
+978	TOK	during		during\P
+979	TOK	the		the\AT---6
+980	TOK	study		study\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+981	TOK	During	BOS	during\P
+982	TOK	the		the\AT---6
+983	TOK	third		third\MOS
+984	TOK	period		period\N5S
+---	DLD	,		=\DELIM
+985	TOK	after		after\P
+986	TOK	the		the\AT---6
+987	TOK	primary		primary\JA
+988	TOK	objective		objective\N5S
+989	TOK	was		be\V6F-A66
+990	TOK	met		meet\VMC----
+---	DLD	,		=\DELIM
+991	TOK	all		all\AG---6
+992	TOK	patients		patient\N5P
+993	TOK	were		be\V6F-A66
+994	TOK	offered		offer\VMC----
+995	TOK	open		open\DGA7
+---	DLI	-		=\DELIM
+996	TOK	label		label\N5S
+997	TOK	ritonavir		ritonavir\N5S
+998	TOK	irrespective		irrespective\JA
+999	TOK	of		of\P
+1000	TOK	disease		disease\N5S
+1001	TOK	status		status\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1002	TOK	Patients	BOS	patient\N5P
+1003	TOK	who		who\RW63N-
+1004	TOK	stopped		stop\VMF6A66
+1005	TOK	masked		mask\VMC----
+1006	TOK	study		study\N5S
+1007	TOK	medication		medication\N5S
+1008	TOK	continued		continue\VMC----
+1009	TOK	scheduled		schedule\VMC----
+1010	TOK	visits		visit\N5P
+1011	TOK	throughout		throughout\P
+1012	TOK	the		the\AT---6
+1013	TOK	trial		trial\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1014	TOK	Adverse	BOS	adverse\JA
+1015	TOK	events	EOS	event\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1017	TOK	Adverse	BOS	adverse\JA
+1018	TOK	events		event\N5P
+1019	TOK	were		be\V6F-A66
+1020	TOK	defined		define\VMC----
+1021	TOK	as		as\P
+1022	TOK	any		any\AG---6
+1023	TOK	change		change\N5S
+1024	TOK	in		in\P
+1025	TOK	a		a\AI---S
+1026	TOK	clinical		clinical\JA
+1027	TOK	sign		sign\N5S
+1028	TOK	or		or\CC
+1029	TOK	symptom		symptom\N5S
+---	DLD	,		=\DELIM
+1030	TOK	or		or\CC
+1031	TOK	meaningful		meaningful\JA
+1032	TOK	laboratory		laboratory\N5S
+---	DLI	-		=\DELIM
+1033	TOK	test		test\N5S
+1034	TOK	abnormality		abnormality\N5S
+---	DLD	,		=\DELIM
+1035	TOK	excluding		exclude\VMG----
+1036	TOK	disorders		disorder\N5P
+1037	TOK	associated		associate\VMC----
+1038	TOK	with		with\P
+##	TAG	<name>
+1039	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+1040	TOK	1		1\X
+##	TAG	</num>
+1041	TOK	infection		infection\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1042	TOK	All	BOS	all\AG---6
+1043	TOK	adverse		adverse\JA
+1044	TOK	events		event\N5P
+1045	TOK	were		be\V6F-A66
+1046	TOK	rated		rate\VMC----
+##	TAG	<loc pos="P">
+1047	TOK	according to		according_to\P
+##	TAG	</loc>
+1048	TOK	severity		severity\N5S
+1049	TOK	and		and\CC
+1050	TOK	relation		relation\N5S
+1051	TOK	to		to\P
+1052	TOK	study		study\N5S
+1053	TOK	drug		drug\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1054	TOK	Statistical	BOS	statistical\JA
+1055	TOK	analysis	EOS	analysis\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1057	TOK	Sample	BOS	sample\JA
+---	DLI	-		=\DELIM
+1058	TOK	size		size\N5S
+1059	TOK	calculations		calculation\N5P
+1060	TOK	were		be\V6F-A66
+1061	TOK	based		base\VMC----
+1062	TOK	on		on\P
+1063	TOK	an		an\AI---S
+1064	TOK	estimate		estimate\N5S
+1065	TOK	that		that\CS
+1066	TOK	the		the\AT---6
+1067	TOK	annual		annual\JA
+1068	TOK	rate		rate\N5S
+1069	TOK	of		of\P
+1070	TOK	disease		disease\N5S
+1071	TOK	progression		progression\N5S
+1072	TOK	or		or\CC
+1073	TOK	death		death\N5S
+1074	TOK	would		will\VOFDA66
+1075	TOK	be		be\VMI----
+##	TAG	<num>
+1076	TOK	40		40\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1077	TOK	We	BOS	we\RPP1NN
+1078	TOK	assumed		assume\VMF6A66
+1079	TOK	that		that\CS
+1080	TOK	up		up\P
+1081	TOK	to		to\P
+##	TAG	<na type="function">
+1082	TOK	10% of		noanat\W
+##	TAG	</na>
+1083	TOK	the		the\AT---6
+1084	TOK	patients		patient\N5P
+1085	TOK	would		will\VOFDA66
+1086	TOK	be		be\VMI----
+1087	TOK	lost		lose\VMC----
+1088	TOK	to		to\P
+1089	TOK	followup		followup\N5S
+1090	TOK	before		before\P
+1091	TOK	experiencing		experience\VMG----
+1092	TOK	an		an\AI---S
+##	TAG	<name>
+1093	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1094	TOK	defining		define\VMG----
+1095	TOK	outcome		outcome\N5S
+1096	TOK	event		event\N5S
+---	DLD	,		=\DELIM
+1097	TOK	and		and\CC
+1098	TOK	sought		seek\VMF6A66
+##	TAG	<num>
+1099	TOK	80		80\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+1100	TOK	power		power\N5S
+1101	TOK	to		to\P
+1102	TOK	detect		detect\VMI----
+1103	TOK	a		a\AI---S
+1104	TOK	reduction		reduction\N5S
+1105	TOK	of		of\P
+##	TAG	<na type="function">
+1106	TOK	33% in		noanat\W
+##	TAG	</na>
+1107	TOK	the		the\AT---6
+1108	TOK	hazard		hazard\N5S
+1109	TOK	ratio		ratio\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1110	TOK	With	BOS	with\P
+1111	TOK	rapid		rapid\JA
+1112	TOK	accrual		accrual\N5S
+1113	TOK	of		of\P
+1114	TOK	the		the\AT---6
+1115	TOK	estimated		estimate\VMF6A66
+##	TAG	<num>
+1116	TOK	350		350\X
+##	TAG	</num>
+1117	TOK	patients		patient\N5P
+1118	TOK	per		per\P
+1119	TOK	treatment		treatment\N5S
+1120	TOK	group		group\VMF6R66
+---	DLD	,		=\DELIM
+1121	TOK	the		the\AT---6
+1122	TOK	final		final\JA
+1123	TOK	analysis		analysis\N5S
+1124	TOK	of		of\P
+1125	TOK	disease		disease\N5S
+1126	TOK	progression		progression\N5S
+1127	TOK	or		or\CC
+1128	TOK	death		death\N5S
+1129	TOK	was		be\V6F-A66
+1130	TOK	originally		originally\DGA7
+1131	TOK	scheduled		schedule\VMC----
+1132	TOK	to		to\P
+1133	TOK	occur		occur\VMI----
+1134	TOK	after		after\P
+##	TAG	<num>
+1135	TOK	191		191\X
+##	TAG	</num>
+1136	TOK	patients		patient\N5P
+1137	TOK	experienced		experience\VMF6A66
+1138	TOK	such		such\JA
+1139	TOK	an		an\AI---S
+1140	TOK	event		event\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1141	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1142	TOK	because		because\CS
+1143	TOK	accrual		accrual\N5S
+1144	TOK	was		be\V6F-A66
+1145	TOK	more		more\DDC7
+1146	TOK	rapid		rapid\JA
+1147	TOK	than		than\CS
+1148	TOK	expected		expect\VMF6A66
+---	DLD	,		=\DELIM
+1149	TOK	the		the\AT---6
+1150	TOK	sample		sample\JA
+1151	TOK	size		size\N5S
+1152	TOK	was		be\V6F-A66
+1153	TOK	increased		increase\VMC----
+1154	TOK	to		to\P
+1155	TOK	about		about\DGA7
+##	TAG	<num>
+1156	TOK	500		500\X
+##	TAG	</num>
+1157	TOK	patients		patient\N5P
+1158	TOK	per		per\P
+1159	TOK	treatment		treatment\N5S
+1160	TOK	group		group\N5S
+1161	TOK	with		with\P
+1162	TOK	the		the\AT---6
+1163	TOK	final		final\JA
+1164	TOK	analysis		analysis\N5S
+1165	TOK	of		of\P
+1166	TOK	disease		disease\N5S
+1167	TOK	progression		progression\N5S
+1168	TOK	or		or\CC
+1169	TOK	death		death\N5S
+1170	TOK	occurring		occur\VMG----
+1171	TOK	after		after\P
+1172	TOK	the		the\AT---6
+1173	TOK	same		same\JA
+1174	TOK	threshold		threshold\N5S
+1175	TOK	of		of\P
+1176	TOK	events		event\N5P
+1177	TOK	was		be\V6F-A66
+1178	TOK	achieved		achieve\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1179	TOK	All	BOS	all\AG---6
+1180	TOK	analyses		analysis\N5P
+1181	TOK	were		be\V6F-A66
+1182	TOK	by		by\P
+1183	TOK	intention		intention\N5S
+1184	TOK	to		to\P
+1185	TOK	treat		treat\VMI----
+---	DLD	,		=\DELIM
+1186	TOK	with		with\P
+1187	TOK	two		two\MCP
+---	DLI	-		=\DELIM
+1188	TOK	sided		side\VMC----
+1189	TOK	hypothesis		hypothesis\N5S
+1190	TOK	tests		test\N5P
+1191	TOK	at		at\P
+1192	TOK	the		the\AT---6
+1193	TOK	xxx		noanat\W
+1194	TOK	level		level\N5S
+1195	TOK	of		of\P
+1196	TOK	significance		significance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1197	TOK	Calculations	BOS	calculation\N5P
+1198	TOK	were		be\V6F-A66
+1199	TOK	done		do\VMC----
+1200	TOK	with		with\P
+##	TAG	<name>
+1201	TOK	SAS		SAS\N46
+##	TAG	</name>
+1202	TOK	software		software\N5S
+---	DLE	(		=\DELIM
+1203	TOK	version		version\N5S
+##	TAG	<num>
+1204	TOK	6		6\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1205	TOK	4th		4th\X
+##	TAG	</num>
+1206	TOK	edition		edition\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1207	TOK	Time	BOS	time\N5S
+1208	TOK	to		to\P
+1209	TOK	disease		disease\N5S
+1210	TOK	progression		progression\N5S
+1211	TOK	or		or\CC
+1212	TOK	death		death\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1213	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+1214	TOK	the		the\AT---6
+1215	TOK	time		time\N5S
+1216	TOK	to		to\P
+1217	TOK	death		death\N5S
+1218	TOK	from		from\P
+1219	TOK	any		any\AG---6
+1220	TOK	cause		cause\VMF6R66
+---	DLD	,		=\DELIM
+1221	TOK	were		be\V6F-A66
+1222	TOK	analysed		analyse\VMC----
+1223	TOK	with		with\P
+1224	TOK	a		a\AI---S
+##	TAG	<name>
+1225	TOK	Cox		Cox\N46
+##	TAG	</name>
+1226	TOK	proportional		proportional\JA
+---	DLI	-		=\DELIM
+1227	TOK	hazards		hazard\N5P
+1228	TOK	model		model\N5S
+1229	TOK	stratified		stratify\VMC----
+1230	TOK	by		by\P
+1231	TOK	geographical		geographical\JA
+1232	TOK	region		region\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1233	TOK	Comparisons	BOS	comparison\N5P
+1234	TOK	between		between\P
+1235	TOK	randomisation		randomisation\N5S
+1236	TOK	groups		group\N5P
+1237	TOK	used		use\VMF6A66
+1238	TOK	the		the\AT---6
+1239	TOK	log		log\N5S
+---	DLI	-		=\DELIM
+1240	TOK	rank		rank\JA
+1241	TOK	test		test\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1242	TOK	In	BOS	in\P
+1243	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+1244	TOK	unstratified		unstratified\JA
+##	TAG	<name>
+1245	TOK	Kaplan-Meier		Kaplan-Meier\N46
+##	TAG	</name>
+1246	TOK	curves		curve\N5P
+1247	TOK	were		be\V6F-A66
+1248	TOK	used		use\VMC----
+1249	TOK	to		to\P
+1250	TOK	display		display\VMI----
+1251	TOK	these		this\AD---P
+1252	TOK	data		data\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1253	TOK	The	BOS	the\AT---6
+1254	TOK	assumption		assumption\N5S
+1255	TOK	of		of\P
+1256	TOK	a		a\AI---S
+1257	TOK	constant		constant\JA
+1258	TOK	hazard		hazard\N5S
+1259	TOK	ratio		ratio\N5S
+1260	TOK	over		over\P
+1261	TOK	time		time\N5S
+1262	TOK	was		be\V6F-A66
+1263	TOK	tested		test\VMC----
+1264	TOK	by		by\P
+1265	TOK	calculating		calculate\VMG----
+1266	TOK	the		the\AT---6
+1267	TOK	logarithm		logarithm\N5S
+1268	TOK	of		of\P
+1269	TOK	the		the\AT---6
+1270	TOK	negative		negative\JA
+1271	TOK	logarithm		logarithm\N5S
+1272	TOK	of		of\P
+1273	TOK	the		the\AT---6
+##	TAG	<name>
+1274	TOK	Kaplan-Meier		Kaplan-Meier\N46
+##	TAG	</name>
+1275	TOK	estimates		estimate\N5P
+1276	TOK	for		for\P
+1277	TOK	intergroup		intergroup\N5S
+1278	TOK	parallelism		parallelism\N5S
+1279	TOK	within		within\P
+1280	TOK	geographic		geographic\JA
+1281	TOK	region		region\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1282	TOK	Patients	BOS	patient\N5P
+1283	TOK	were		be\V6F-A66
+1284	TOK	further		further\DGA7
+1285	TOK	classified		classify\VMC----
+##	TAG	<loc pos="P">
+1286	TOK	according to		according_to\P
+##	TAG	</loc>
+1287	TOK	baseline		baseline\N5S
+1288	TOK	demographic		demographic\JA
+1289	TOK	data		data\N56
+---	DLE	(		=\DELIM
+1290	TOK	mean		mean\JA
+1291	TOK	of		of\P
+1292	TOK	all		all\AG---6
+1293	TOK	values		value\N5P
+1294	TOK	for		for\P
+##	TAG	<name>
+1295	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1296	TOK	lymphocyte		lymphocyte\N5S
+1297	TOK	count		count\N5S
+1298	TOK	obtained		obtain\VMC----
+1299	TOK	within		within\P
+##	TAG	<num>
+1300	TOK	10		10\X
+##	TAG	</num>
+1301	TOK	days		day\N5P
+1302	TOK	before		before\P
+1303	TOK	randomisation		randomisation\N5S
+1304	TOK	and		and\CC
+1305	TOK	number		number\N5S
+1306	TOK	of		of\P
+1307	TOK	nucleoside		nucleoside\N5S
+1308	TOK	analogues		analogue\N5P
+1309	TOK	taken		take\VMC----
+1310	TOK	at		at\P
+1311	TOK	baseline		baseline\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1312	TOK	We	BOS	we\RPP1NN
+1313	TOK	then		then\DGA7
+1314	TOK	tested		test\VMF6A66
+1315	TOK	for		for\P
+1316	TOK	interaction		interaction\N5S
+1317	TOK	between		between\P
+1318	TOK	randomisation		randomisation\N5S
+1319	TOK	group		group\N5S
+1320	TOK	and		and\CC
+1321	TOK	baseline		baseline\N5S
+1322	TOK	status		status\N5S
+1323	TOK	by		by\P
+1324	TOK	a		a\AI---S
+1325	TOK	likelihood		likelihood\N5S
+1326	TOK	ratio		ratio\N5S
+1327	TOK	test		test\N5S
+1328	TOK	comparing		compare\VMG----
+1329	TOK	proportional		proportional\JA
+---	DLI	-		=\DELIM
+1330	TOK	hazards		hazard\N5P
+1331	TOK	models		model\N5P
+1332	TOK	with		with\P
+1333	TOK	and		and\CC
+1334	TOK	without		without\P
+1335	TOK	the		the\AT---6
+1336	TOK	interaction		interaction\N5S
+1337	TOK	term		term\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1338	TOK	Reports	BOS	report\N5P
+1339	TOK	of		of\P
+1340	TOK	deaths		death\N5P
+1341	TOK	were		be\V6F-A66
+1342	TOK	sent		send\VMC----
+1343	TOK	to		to\P
+1344	TOK	an		an\AI---S
+1345	TOK	independent		independent\JA
+1346	TOK	safety		safety\N5S
+1347	TOK	monitoring		monitor\VMG----
+1348	TOK	board		board\VMF6R66
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1349	TOK	RW		RW\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1350	TOK	RP		RP\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1351	TOK	DD		DD\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1353	TOK	The	BOS	the\AT---6
+1354	TOK	protocol		protocol\N5S
+1355	TOK	specified		specify\VMC----
+1356	TOK	that		that\CS
+1357	TOK	the		the\AT---6
+##	TAG	<name>
+1358	TOK	O'Brien-Fleming		O'Brien-Fleming\N46
+##	TAG	</name>
+1359	TOK	stopping		stop\VMG----
+1360	TOK	rule		rule\N5S
+1361	TOK	should		shall\VOFDA66
+1362	TOK	be		be\VMI----
+1363	TOK	applied		apply\VMC----
+1364	TOK	for		for\P
+1365	TOK	the		the\AT---6
+1366	TOK	premature		premature\JA
+1367	TOK	discontinuation		discontinuation\N5S
+1368	TOK	of		of\P
+1369	TOK	the		the\AT---6
+1370	TOK	study		study\N5S
+1371	TOK	as		as\P
+1372	TOK	a		a\AI---S
+1373	TOK	result		result\N5S
+1374	TOK	of		of\P
+1375	TOK	deaths		death\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1376	TOK	Two	BOS	Two\X
+##	TAG	</num>
+1377	TOK	interim		interim\N5S
+1378	TOK	analyses		analysis\N5P
+1379	TOK	were		be\V6F-A66
+1380	TOK	done		do\VMC----
+1381	TOK	before		before\P
+1382	TOK	the		the\AT---6
+1383	TOK	end		end\N5S
+1384	TOK	of		of\P
+1385	TOK	the		the\AT---6
+1386	TOK	double		double\JA
+1387	TOK	blind		blind\JA
+1388	TOK	part		part\N5S
+1389	TOK	of		of\P
+1390	TOK	this		this\AD---S
+1391	TOK	study		study\N5S
+---	DLE	(		=\DELIM
+1392	TOK	based		base\VMC----
+1393	TOK	on		on\P
+1394	TOK	results		result\N5P
+1395	TOK	from		from\P
+1396	TOK	the		the\AT---6
+1397	TOK	analysis		analysis\N5S
+1398	TOK	of		of\P
+1399	TOK	time		time\N5S
+1400	TOK	to		to\P
+1401	TOK	disease		disease\N5S
+1402	TOK	progression		progression\N5S
+1403	TOK	or		or\CC
+1404	TOK	death		death\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1405	TOK	Results	BOS	result\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1407	TOK	Patients	BOS	patient\N5P
+1408	TOK	were		be\V6F-A66
+1409	TOK	recruited		recruit\VMC----
+1410	TOK	to		to\P
+1411	TOK	the		the\AT---6
+1412	TOK	study		study\N5S
+1413	TOK	between		between\P
+##	TAG	<date pos="T" ISO8601="1995-04-">
+1414	TOK	April, 1995		April,_1995\T
+##	TAG	</date>
+---	DLE	,		=\DELIM
+1415	TOK	and		and\CC
+##	TAG	<date pos="T" ISO8601="1995-07-">
+1416	TOK	July, 1995		July,_1995\T
+##	TAG	</date>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1417	TOK	1716	BOS	1716\X
+##	TAG	</num>
+1418	TOK	patients		patient\N5P
+1419	TOK	were		be\V6F-A66
+1420	TOK	screened		screen\VMC----
+---	DLD	,		=\DELIM
+1421	TOK	and		and\CC
+##	TAG	<num>
+1422	TOK	626		626\X
+##	TAG	</num>
+1423	TOK	were		be\V6F-A66
+1424	TOK	excluded		exclude\VMC----
+---	DLE	(		=\DELIM
+1425	TOK	figure		figure\N5S
+##	TAG	<num>
+1426	TOK	1		1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1427	TOK	Of	BOS	of\P
+1428	TOK	the		the\AT---6
+##	TAG	<num>
+1429	TOK	1090		1090\X
+##	TAG	</num>
+1430	TOK	patients		patient\N5P
+1431	TOK	randomised		randomised\JA
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1432	TOK	543		543\X
+##	TAG	</num>
+1433	TOK	to		to\P
+1434	TOK	ritonavir		ritonavir\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1435	TOK	547		547\X
+##	TAG	</num>
+1436	TOK	to		to\P
+1437	TOK	placebo		placebo\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1438	TOK	two		two\X
+##	TAG	</num>
+1439	TOK	in		in\P
+1440	TOK	each		each\AG---S
+1441	TOK	treatment		treatment\N5S
+1442	TOK	group		group\N5S
+1443	TOK	did		do\V6FDA66
+1444	TOK	not		not\DGA7
+1445	TOK	receive		receive\VMI----
+1446	TOK	any		any\AG---6
+1447	TOK	trial		trial\N5S
+1448	TOK	medication		medication\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1449	TOK	These	BOS	this\AD---P
+1450	TOK	patients		patient\N5P
+1451	TOK	were		be\V6F-A66
+1452	TOK	included		include\VMC----
+1453	TOK	in		in\P
+1454	TOK	the		the\AT---6
+1455	TOK	primary		primary\JA
+---	DLD	,		=\DELIM
+1456	TOK	intention		intention\N5S
+---	DLI	-		=\DELIM
+1457	TOK	to		to\P
+---	DLI	-		=\DELIM
+1458	TOK	treat		treat\N5S
+1459	TOK	analysis		analysis\N5S
+---	DLD	,		=\DELIM
+1460	TOK	but		but\CC
+1461	TOK	they		they\RPP3NN
+1462	TOK	were		be\V6F-A66
+1463	TOK	excluded		exclude\VMC----
+1464	TOK	from		from\P
+1465	TOK	the		the\AT---6
+1466	TOK	analysis		analysis\N5S
+1467	TOK	of		of\P
+1468	TOK	adverse		adverse\JA
+1469	TOK	events		event\N5P
+1470	TOK	attributable		attributable\JA
+1471	TOK	to		to\P
+1472	TOK	study		study\N5S
+1473	TOK	drugs		drug\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1474	TOK	Patients	BOS	patient\N5P
+---	DLE	(		=\DELIM
+1475	TOK	table		table\VMF6R66
+##	TAG	<num>
+1476	TOK	1		1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+1477	TOK	were		be\V6F-A66
+1478	TOK	enrolled		enroll\VMC----
+1479	TOK	at		at\P
+##	TAG	<num>
+1480	TOK	67		67\X
+##	TAG	</num>
+1481	TOK	centres		centre\N5P
+1482	TOK	in		in\P
+##	TAG	<name>
+1483	TOK	Australia		Australia\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1484	TOK	42		42\X
+##	TAG	</num>
+1485	TOK	patients		patient\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1486	TOK	Europe		Europe\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1487	TOK	238		238\X
+##	TAG	</num>
+1488	TOK	patients		patient\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1489	TOK	and		and\CC
+##	TAG	<name>
+1490	TOK	North America		North_America\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1491	TOK	810		810\X
+##	TAG	</num>
+1492	TOK	patients		patient\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1493	TOK	97	BOS	97\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+1494	TOK	of		of\P
+1495	TOK	patients		patient\N5P
+1496	TOK	in		in\P
+1497	TOK	the		the\AT---6
+1498	TOK	ritonavir		ritonavir\N5S
+1499	TOK	group		group\N5S
+1500	TOK	and		and\CC
+##	TAG	<na type="function">
+1501	TOK	95% of		noanat\W
+##	TAG	</na>
+1502	TOK	those		that\RDP3N-
+1503	TOK	in		in\P
+1504	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+1505	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+1506	TOK	group		group\N5S
+1507	TOK	had		have\V6F6A66
+1508	TOK	had		have\VMC----
+##	TAG	<loc pos="DGA7">
+1509	TOK	one or more		one_or_more\DGA7
+##	TAG	</loc>
+##	TAG	<name>
+1510	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+1511	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1512	TOK	associated		associate\VMC----
+1513	TOK	disorders		disorder\N5P
+1514	TOK	before		before\P
+1515	TOK	the		the\AT---6
+1516	TOK	study		study\N5S
+1517	TOK	began		begin\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1518	TOK	The	BOS	the\AT---6
+1519	TOK	most		most\DDS7
+1520	TOK	frequent		frequent\JA
+##	TAG	<name>
+1521	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+1522	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1523	TOK	related		relate\VMC----
+1524	TOK	events		event\N5P
+1525	TOK	reported		report\VMC----
+1526	TOK	before		before\P
+1527	TOK	the		the\AT---6
+1528	TOK	study		study\N5S
+1529	TOK	were		be\V6F-A66
+1530	TOK	oral		oral\JA
+1531	TOK	candidosis		candidosis\N5P
+##	TAG	<num>
+1532	TOK	64		64\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1533	TOK	herpes		herpes\N5S
+1534	TOK	simplex		simplex\JA
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1535	TOK	28		28\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1536	TOK	or		or\CC
+1537	TOK	zoster		zoster\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1538	TOK	28		28\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1539	TOK	infection		infection\N5S
+---	DLD	,		=\DELIM
+1540	TOK	hairy		hairy\JA
+1541	TOK	leucoplakia		leucoplakia\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1542	TOK	27		27\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1543	TOK	peripheral		peripheral\JA
+1544	TOK	neuropathy		neuropathy\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1545	TOK	26		26\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1546	TOK	persistent		persistent\JA
+1547	TOK	generalised		generalised\JA
+1548	TOK	lymphadenopathy		lymphadenopathy\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1549	TOK	25		25\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1550	TOK	diarrhoea		diarrhoea\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1551	TOK	20		20\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1552	TOK	and		and\CC
+##	TAG	<name>
+1553	TOK	Pneumocystis		Pneumocystis\N46
+##	TAG	</name>
+1554	TOK	carinii		carinii\N5P
+1555	TOK	pneumonia		pneumonia\N5S
+##	TAG	<num>
+1556	TOK	25		25\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1557	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1558	TOK	there		there\DGA7
+1559	TOK	was		be\V6F-A66
+1560	TOK	no		no\AI---6
+1561	TOK	apparent		apparent\JA
+1562	TOK	difference		difference\N5S
+1563	TOK	between		between\P
+1564	TOK	the		the\AT---6
+1565	TOK	randomised		randomised\JA
+1566	TOK	groups		group\N5P
+1567	TOK	in		in\P
+1568	TOK	persistent		persistent\JA
+##	TAG	<name>
+1569	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+1570	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1571	TOK	related		relate\VMC----
+1572	TOK	disorders		disorder\N5P
+1573	TOK	present		present\VMF6R66
+1574	TOK	at		at\P
+1575	TOK	entry		entry\N5S
+1576	TOK	to		to\P
+1577	TOK	the		the\AT---6
+1578	TOK	study		study\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1579	TOK	Concurrent	BOS	concurrent\JA
+1580	TOK	drug		drug\N5S
+1581	TOK	use		use\N5S
+1582	TOK	in		in\P
+1583	TOK	the		the\AT---6
+1584	TOK	ritonavir		ritonavir\N5S
+1585	TOK	and		and\CC
+##	TAG	<foreign lang="LA" pos="N5S">
+1586	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+1587	TOK	groups		group\N5P
+1588	TOK	was		be\V6F-A66
+1589	TOK	similar		similar\JA
+1590	TOK	before		before\P
+1591	TOK	entry		entry\N5S
+1592	TOK	to		to\P
+1593	TOK	the		the\AT---6
+1594	TOK	study		study\N5S
+---	DLD	,		=\DELIM
+1595	TOK	with		with\P
+1596	TOK	a		a\AI---S
+1597	TOK	median		median\N5S
+1598	TOK	number		number\N5S
+1599	TOK	of		of\P
+##	TAG	<num>
+1600	TOK	14		14\X
+##	TAG	</num>
+1601	TOK	medications		medication\N5P
+1602	TOK	in		in\P
+1603	TOK	each		each\AG---S
+1604	TOK	group		group\N5S
+---	DLE	(		=\DELIM
+1605	TOK	table		table\VMF6R66
+##	TAG	<num>
+1606	TOK	1		1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1607	TOK	The	BOS	the\AT---6
+1608	TOK	most		most\DDS7
+1609	TOK	commonly		commonly\DGA7
+1610	TOK	used		use\VMC----
+1611	TOK	nucleoside		nucleoside\N5S
+1612	TOK	analogues		analogue\N5P
+1613	TOK	at		at\P
+1614	TOK	the		the\AT---6
+1615	TOK	start		start\N5S
+1616	TOK	of		of\P
+1617	TOK	randomised		randomised\JA
+1618	TOK	treatment		treatment\N5S
+1619	TOK	were		be\V6F-A66
+1620	TOK	zidovudine		zidovudine\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1621	TOK	45		45\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1622	TOK	stavudine		stavudine\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1623	TOK	26		26\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1624	TOK	zalcitabine		zalcitabine\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1625	TOK	19		19\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1626	TOK	and		and\CC
+1627	TOK	didanosine		didanosine\N5S
+##	TAG	<num>
+1628	TOK	16		16\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1629	TOK	The	BOS	the\AT---6
+1630	TOK	median		median\N5S
+1631	TOK	duration		duration\N5S
+1632	TOK	of		of\P
+1633	TOK	masked		mask\VMC----
+1634	TOK	study		study\N5S
+1635	TOK	medication		medication\N5S
+1636	TOK	was		be\V6F-A66
+1637	TOK	xxx		noanat\W
+1638	TOK	weeks		week\N5P
+1639	TOK	in		in\P
+1640	TOK	patients		patient\N5P
+1641	TOK	assigned		assign\VMC----
+1642	TOK	ritonavir		ritonavir\N5S
+1643	TOK	and		and\CC
+1644	TOK	xxx		noanat\W
+1645	TOK	weeks		week\N5P
+1646	TOK	in		in\P
+1647	TOK	patients		patient\N5P
+1648	TOK	assigned		assign\VMC----
+##	TAG	<foreign lang="LA" pos="N5S">
+1649	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1650	TOK	15	BOS	15\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1651	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+1652	TOK	patients		patient\N5P
+1653	TOK	were		be\V6F-A66
+1654	TOK	lost		lose\VMC----
+1655	TOK	to		to\P
+1656	TOK	follow		follow\VMI----
+---	DLI	-		=\DELIM
+1657	TOK	up		up\N5S
+1658	TOK	before		before\P
+1659	TOK	period		period\N5S
+##	TAG	<num>
+1660	TOK	3		3\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1661	TOK	figure		figure\N5S
+##	TAG	<num>
+1662	TOK	1		1\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1663	TOK	including		including\P
+1664	TOK	those		that\RDP3N-
+1665	TOK	who		who\RW63N-
+1666	TOK	received		receive\VMF6A66
+1667	TOK	no		no\AI---6
+1668	TOK	study		study\N5S
+1669	TOK	medication		medication\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1670	TOK	resulting		result\VMG----
+1671	TOK	in		in\P
+1672	TOK	a		a\AI---S
+1673	TOK	median		median\N5S
+1674	TOK	follow		follow\VMF6R66
+---	DLI	-		=\DELIM
+1675	TOK	up		up\N5S
+1676	TOK	of		of\P
+1677	TOK	xxx		noanat\W
+1678	TOK	weeks		week\N5P
+---	DLE	(		=\DELIM
+1679	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+1680	TOK	up		up\N5S
+1681	TOK	to		to\P
+1682	TOK	the		the\AT---6
+1683	TOK	end		end\N5S
+1684	TOK	of		of\P
+1685	TOK	period		period\N5S
+##	TAG	<num>
+1686	TOK	2		2\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1687	TOK	During	BOS	during\P
+1688	TOK	period		period\N5S
+##	TAG	<num>
+1689	TOK	3		3\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1690	TOK	patients		patient\N5P
+1691	TOK	were		be\V6F-A66
+1692	TOK	offered		offer\VMC----
+1693	TOK	open		open\DGA7
+---	DLI	-		=\DELIM
+1694	TOK	label		label\N5S
+1695	TOK	ritonavir		ritonavir\N5S
+1696	TOK	and		and\CC
+1697	TOK	followed		follow\VMC----
+1698	TOK	up		up\P
+1699	TOK	for		for\P
+1700	TOK	a		a\AI---S
+1701	TOK	median		median\N5S
+1702	TOK	total		total\JA
+1703	TOK	of		of\P
+1704	TOK	xxx		noanat\W
+1705	TOK	weeks		week\N5P
+---	DLE	(		=\DELIM
+1706	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1708	TOK	76	BOS	76\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1709	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+1710	TOK	patients		patient\N5P
+1711	TOK	had		have\V6F6A66
+1712	TOK	been		be\VMC----
+1713	TOK	lost		lose\VMC----
+1714	TOK	to		to\P
+1715	TOK	follow		follow\VMI----
+---	DLI	-		=\DELIM
+1716	TOK	up		up\N5S
+1717	TOK	by		by\P
+1718	TOK	the		the\AT---6
+1719	TOK	end		end\N5S
+1720	TOK	of		of\P
+1721	TOK	period		period\N5S
+##	TAG	<num>
+1722	TOK	3		3\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+1723	TOK	119	BOS	119\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1724	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+1725	TOK	ritonavir		ritonavir\N5S
+---	DLI	-		=\DELIM
+1726	TOK	group		group\N5S
+1727	TOK	patients		patient\N5P
+1728	TOK	and		and\CC
+##	TAG	<num>
+1729	TOK	205		205\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1730	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+1731	TOK	placebo		placebo\N5S
+---	DLI	-		=\DELIM
+1732	TOK	group		group\N5S
+1733	TOK	patients		patient\N5P
+1734	TOK	experienced		experience\VMF6A66
+1735	TOK	an		an\AI---S
+##	TAG	<name>
+1736	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+1737	TOK	defining		define\VMG----
+1738	TOK	event		event\N5S
+1739	TOK	or		or\CC
+1740	TOK	death		death\N5S
+1741	TOK	during		during\P
+1742	TOK	periods		period\N5P
+##	TAG	<num>
+1743	TOK	1		1\X
+##	TAG	</num>
+1744	TOK	and		and\CC
+##	TAG	<num>
+1745	TOK	2		2\X
+##	TAG	</num>
+1746	TOK	of		of\P
+1747	TOK	this		this\AD---S
+1748	TOK	study		study\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1749	TOK	The	BOS	the\AT---6
+1750	TOK	hazard		hazard\N5S
+1751	TOK	ratio		ratio\N5S
+1752	TOK	was		be\V6F-A66
+1753	TOK	xxx		noanat\W
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+1754	TOK	95% CI		noanat\W
+##	TAG	</na>
+1755	TOK	xxx		noanat\W
+##	TAG	<na type="function">
+1756	TOK	42-66		noanat\W
+##	TAG	</na>
+---	DLD	;		=\DELIM
+1757	TOK	log		log\VMF6R66
+---	DLI	-		=\DELIM
+1758	TOK	rank		rank\N5S
+1759	TOK	xxx		noanat\W
+1760	TOK	figure		figure\N5S
+##	TAG	<num>
+1761	TOK	2		2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1763	TOK	The	BOS	the\AT---6
+1764	TOK	most		most\DDS7
+1765	TOK	common		common\JA
+1766	TOK	primary		primary\JA
+1767	TOK	outcome		outcome\N5S
+1768	TOK	event		event\N5S
+1769	TOK	was		be\V6F-A66
+1770	TOK	death		death\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1771	TOK	The	BOS	the\AT---6
+1772	TOK	most		most\DDS7
+1773	TOK	common		common\JA
+1774	TOK	first		first\MOS
+1775	TOK	disease		disease\N5S
+1776	TOK	event		event\N5S
+1777	TOK	was		be\V6F-A66
+1778	TOK	new		new\JA
+1779	TOK	or		or\CC
+1780	TOK	recurrent		recurrent\JA
+1781	TOK	oesophageal		oesophageal\JA
+1782	TOK	candidosis		candidosis\N5P
+---	DLE	(		=\DELIM
+1783	TOK	table		table\VMF6R66
+##	TAG	<num>
+1784	TOK	2		2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1786	TOK	The	BOS	the\AT---6
+1787	TOK	rates		rate\N5P
+1788	TOK	of		of\P
+1789	TOK	first		first\MOS
+1790	TOK	events		event\N5P
+1791	TOK	were		be\V6F-A66
+1792	TOK	generally		generally\DGA7
+1793	TOK	lower		low\JC
+1794	TOK	in		in\P
+1795	TOK	the		the\AT---6
+1796	TOK	ritonavir		ritonavir\N5S
+1797	TOK	group		group\N5S
+1798	TOK	than		than\CS
+1799	TOK	in		in\P
+1800	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+1801	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+1802	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1803	TOK	A	BOS	a\AI---S
+1804	TOK	secondary		secondary\JA
+1805	TOK	analysis		analysis\N5S
+1806	TOK	of		of\P
+1807	TOK	deaths		death\N5P
+1808	TOK	during		during\P
+1809	TOK	periods		period\N5P
+##	TAG	<num>
+1810	TOK	1		1\X
+##	TAG	</num>
+1811	TOK	and		and\CC
+##	TAG	<num>
+1812	TOK	2		2\X
+##	TAG	</num>
+1813	TOK	gave		give\VMF6A66
+1814	TOK	an		an\AI---S
+1815	TOK	estimated		estimate\VMC----
+1816	TOK	hazard		hazard\N5S
+1817	TOK	ratio		ratio\N5S
+1818	TOK	of		of\P
+1819	TOK	xxx		noanat\W
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+1820	TOK	95% CI		noanat\W
+##	TAG	</na>
+1821	TOK	xxx		noanat\W
+1822	TOK	log		log\VMF6R66
+---	DLI	-		=\DELIM
+1823	TOK	rank		rank\N5S
+1824	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1826	TOK	Disease	BOS	disease\N5S
+1827	TOK	progression		progression\N5S
+1828	TOK	or		or\CC
+1829	TOK	death		death\N5S
+1830	TOK	was		be\V6F-A66
+1831	TOK	also		also\DGA7
+1832	TOK	analysed		analyse\VMC----
+1833	TOK	with		with\P
+1834	TOK	either		either\AG---6
+1835	TOK	baseline		baseline\N5S
+##	TAG	<name>
+1836	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1837	TOK	lymphocyte		lymphocyte\N5S
+1838	TOK	count		count\N5S
+1839	TOK	or		or\CC
+1840	TOK	the		the\AT---6
+1841	TOK	number		number\N5S
+1842	TOK	of		of\P
+1843	TOK	baseline		baseline\N5S
+1844	TOK	nucleoside		nucleoside\N5S
+1845	TOK	analogues		analogue\N5P
+1846	TOK	used		use\VMC----
+1847	TOK	as		as\P
+1848	TOK	stratification		stratification\N5S
+1849	TOK	factors		factor\N5P
+---	DLE	(		=\DELIM
+1850	TOK	table		table\VMF6R66
+##	TAG	<num>
+1851	TOK	3		3\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1853	TOK	No	BOS	no\AI---6
+1854	TOK	significant		significant\JA
+1855	TOK	interaction		interaction\N5S
+1856	TOK	between		between\P
+1857	TOK	randomisation		randomisation\N5S
+1858	TOK	group		group\N5S
+1859	TOK	and		and\CC
+1860	TOK	baseline		baseline\N5S
+1861	TOK	factor		factor\N5S
+1862	TOK	status		status\N5S
+1863	TOK	was		be\V6F-A66
+1864	TOK	detected		detect\VMC----
+1865	TOK	in		in\P
+1866	TOK	either		either\AG---6
+1867	TOK	analysis		analysis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1868	TOK	Ritonavir	BOS	ritonavir\N5S
+1869	TOK	significantly		significantly\DGA7
+1870	TOK	reduced		reduce\VMF6A66
+1871	TOK	the		the\AT---6
+1872	TOK	risk		risk\N5S
+1873	TOK	of		of\P
+1874	TOK	disease		disease\N5S
+1875	TOK	progression		progression\N5S
+1876	TOK	or		or\CC
+1877	TOK	death		death\N5S
+1878	TOK	in		in\P
+1879	TOK	all		all\AG---6
+1880	TOK	categories		category\N5P
+1881	TOK	of		of\P
+1882	TOK	baseline		baseline\N5S
+##	TAG	<name>
+1883	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1884	TOK	lymphocyte		lymphocyte\N5S
+1885	TOK	count		count\N5S
+1886	TOK	used		use\VMC----
+1887	TOK	in		in\P
+1888	TOK	this		this\AD---S
+1889	TOK	analysis		analysis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1890	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+1891	TOK	the		the\AT---6
+1892	TOK	results		result\N5P
+1893	TOK	suggest		suggest\VMF6R66
+1894	TOK	that		that\CS
+1895	TOK	the		the\AT---6
+1896	TOK	risk		risk\N5S
+1897	TOK	of		of\P
+1898	TOK	disease		disease\N5S
+1899	TOK	progression		progression\N5S
+1900	TOK	or		or\CC
+1901	TOK	death		death\N5S
+1902	TOK	increased		increase\VMC----
+1903	TOK	with		with\P
+1904	TOK	decreasing		decrease\VMG----
+1905	TOK	baseline		baseline\N5S
+##	TAG	<name>
+1906	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1907	TOK	lymphocyte		lymphocyte\N5S
+1908	TOK	count		count\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1909	TOK	Ritonavir	BOS	ritonavir\N5S
+1910	TOK	alone		alone\DGA7
+1911	TOK	did		do\V6FDA66
+1912	TOK	not		not\DGA7
+1913	TOK	significantly		significantly\DGA7
+1914	TOK	reduce		reduce\VMI----
+1915	TOK	the		the\AT---6
+1916	TOK	risk		risk\N5S
+1917	TOK	of		of\P
+1918	TOK	disease		disease\N5S
+1919	TOK	progression		progression\N5S
+1920	TOK	or		or\CC
+1921	TOK	death		death\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1922	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1923	TOK	a		a\AI---S
+1924	TOK	significant		significant\JA
+1925	TOK	reduction		reduction\N5S
+1926	TOK	in		in\P
+1927	TOK	the		the\AT---6
+1928	TOK	risk		risk\N5S
+1929	TOK	of		of\P
+1930	TOK	disease		disease\N5S
+1931	TOK	progression		progression\N5S
+1932	TOK	or		or\CC
+1933	TOK	death		death\N5S
+1934	TOK	was		be\V6F-A66
+1935	TOK	found		find\VMC----
+1936	TOK	for		for\P
+1937	TOK	ritonavir		ritonavir\N5S
+1938	TOK	used		use\VMC----
+1939	TOK	in		in\P
+1940	TOK	combination		combination\N5S
+1941	TOK	with		with\P
+##	TAG	<loc pos="DGA7">
+1942	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+1943	TOK	one		one\MCS
+1944	TOK	baseline		baseline\N5S
+1945	TOK	nucleoside		nucleoside\N5S
+1946	TOK	analogue		analogue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1947	TOK	After	BOS	after\P
+1948	TOK	the		the\AT---6
+1949	TOK	clinical		clinical\JA
+1950	TOK	benefit		benefit\N5S
+1951	TOK	of		of\P
+1952	TOK	ritonavir		ritonavir\N5S
+1953	TOK	had		have\V6F6A66
+1954	TOK	been		be\VMC----
+1955	TOK	demonstrated		demonstrate\VMF6A66
+---	DLD	,		=\DELIM
+1956	TOK	events		event\N5P
+1957	TOK	were		be\V6F-A66
+##	TAG	<loc pos="DGA7">
+1958	TOK	no longer		no_longer\DGA7
+##	TAG	</loc>
+1959	TOK	assessed		assess\VMC----
+1960	TOK	by		by\P
+1961	TOK	independent		independent\JA
+1962	TOK	reviewers		reviewer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1963	TOK	Therefore	BOS	therefore\DGA7
+---	DLD	,		=\DELIM
+1964	TOK	we		we\RPP1NN
+1965	TOK	could		can\VOFDA66
+1966	TOK	not		not\DGA7
+1967	TOK	include		include\VMI----
+1968	TOK	disease		disease\N5S
+1969	TOK	progression		progression\N5S
+1970	TOK	in		in\P
+1971	TOK	an		an\AI---S
+1972	TOK	analysis		analysis\N5S
+1973	TOK	to		to\P
+1974	TOK	the		the\AT---6
+1975	TOK	end		end\N5S
+1976	TOK	of		of\P
+1977	TOK	period		period\N5S
+##	TAG	<num>
+1978	TOK	3		3\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1979	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1980	TOK	analysis		analysis\N5S
+1981	TOK	of		of\P
+1982	TOK	the		the\AT---6
+1983	TOK	survival		survival\N5S
+1984	TOK	status		status\N5S
+1985	TOK	of		of\P
+1986	TOK	patients		patient\N5P
+1987	TOK	at		at\P
+1988	TOK	the		the\AT---6
+1989	TOK	end		end\N5S
+1990	TOK	of		of\P
+1991	TOK	period		period\N5S
+##	TAG	<num>
+1992	TOK	3		3\X
+##	TAG	</num>
+1993	TOK	was		be\V6F-A66
+1994	TOK	possible		possible\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1995	TOK	87	BOS	87\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1996	TOK	16		16\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1997	TOK	patients		patient\N5P
+1998	TOK	assigned		assign\VMC----
+1999	TOK	ritonavir		ritonavir\N5S
+2000	TOK	and		and\CC
+##	TAG	<num>
+2001	TOK	126		126\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2002	TOK	23		23\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+2003	TOK	patients		patient\N5P
+2004	TOK	assigned		assign\VMC----
+##	TAG	<foreign lang="LA" pos="N5S">
+2005	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+2006	TOK	died		die\VMF6A66
+2007	TOK	from		from\P
+2008	TOK	any		any\AG---6
+2009	TOK	cause		cause\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2010	TOK	The	BOS	the\AT---6
+2011	TOK	hazard		hazard\N5S
+2012	TOK	ratio		ratio\N5S
+2013	TOK	was		be\V6F-A66
+2014	TOK	xxx		noanat\W
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+2015	TOK	95% CI		noanat\W
+##	TAG	</na>
+2016	TOK	xxx		noanat\W
+---	DLD	;		=\DELIM
+2017	TOK	log		log\VMF6R66
+---	DLI	-		=\DELIM
+2018	TOK	rank		rank\N5S
+2019	TOK	xxx		noanat\W
+---	DLD	;		=\DELIM
+2020	TOK	figure		figure\N5S
+##	TAG	<num>
+2021	TOK	3		3\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2023	TOK	In	BOS	in\P
+2024	TOK	the		the\AT---6
+2025	TOK	ritonavir		ritonavir\N5S
+2026	TOK	group		group\VMF6R66
+---	DLE	(		=\DELIM
+2027	TOK	for		for\P
+2028	TOK	patients		patient\N5P
+2029	TOK	who		who\RW63N-
+2030	TOK	had		have\V6F6A66
+2031	TOK	data		data\N56
+2032	TOK	available		available\JA
+2033	TOK	for		for\P
+2034	TOK	all		all\AG---6
+2035	TOK	time		time\N5S
+2036	TOK	points		point\VMFDRS3
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2037	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2038	TOK	lymphocyte		lymphocyte\N5S
+2039	TOK	counts		count\N5P
+2040	TOK	increased		increase\VMC----
+2041	TOK	from		from\P
+2042	TOK	a		a\AI---S
+2043	TOK	baseline		baseline\N5S
+2044	TOK	mean		mean\VMF6R66
+2045	TOK	of		of\P
+##	TAG	<num>
+2046	TOK	31		31\X
+##	TAG	</num>
+---	DLE	/		=\DELIM
+2047	TOK	xxx		noanat\W
+---	DLE	(		=\DELIM
+2048	TOK	peak		peak\N5S
+2049	TOK	increase		increase\VMF6R66
+##	TAG	<num>
+2050	TOK	57		57\X
+##	TAG	</num>
+---	DLE	/		=\DELIM
+2051	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2052	TOK	and		and\CC
+##	TAG	<name>
+2053	TOK	CD8		CD8\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2054	TOK	lymphocyte		lymphocyte\N5S
+2055	TOK	counts		count\N5P
+2056	TOK	increased		increase\VMC----
+2057	TOK	from		from\P
+2058	TOK	a		a\AI---S
+2059	TOK	baseline		baseline\N5S
+2060	TOK	mean		mean\VMF6R66
+2061	TOK	of		of\P
+##	TAG	<num>
+2062	TOK	495		495\X
+##	TAG	</num>
+---	DLE	/		=\DELIM
+2063	TOK	xxx		noanat\W
+---	DLE	(		=\DELIM
+2064	TOK	peak		peak\N5S
+2065	TOK	increase		increase\VMF6R66
+##	TAG	<num>
+2066	TOK	425		425\X
+##	TAG	</num>
+---	DLE	/		=\DELIM
+2067	TOK	xxx		noanat\W
+---	DLD	;		=\DELIM
+2068	TOK	figure		figure\N5S
+##	TAG	<num>
+2069	TOK	4		4\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2070	TOK	The	BOS	the\AT---6
+2071	TOK	higher		high\JC
+##	TAG	<name>
+2072	TOK	CD4		CD4\N46
+##	TAG	</name>
+2073	TOK	counts		count\N5P
+2074	TOK	were		be\V6F-A66
+2075	TOK	sustained		sustain\VMC----
+2076	TOK	for		for\P
+2077	TOK	ritonavir		ritonavir\N5S
+2078	TOK	treated		treat\VMC----
+2079	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2080	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+2081	TOK	CD8		CD8\N46
+##	TAG	</name>
+2082	TOK	counts		count\N5P
+2083	TOK	fell		fall\VMF6A66
+2084	TOK	from		from\P
+2085	TOK	the		the\AT---6
+2086	TOK	peak		peak\N5S
+2087	TOK	in		in\P
+2088	TOK	period		period\N5S
+##	TAG	<num>
+2089	TOK	1		1\X
+##	TAG	</num>
+2090	TOK	but		but\CC
+2091	TOK	stabilised		stabilise\VMC----
+2092	TOK	in		in\P
+2093	TOK	periods		period\N5P
+##	TAG	<num>
+2094	TOK	2		2\X
+##	TAG	</num>
+2095	TOK	and		and\CC
+##	TAG	<num>
+2096	TOK	3		3\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+2097	TOK	during		during\P
+2098	TOK	which		which\RW63N-
+2099	TOK	the		the\AT---6
+2100	TOK	mean		mean\JA
+2101	TOK	effects		effect\N5P
+2102	TOK	for		for\P
+2103	TOK	both		both\RIP3N-
+##	TAG	<name>
+2104	TOK	CD4		CD4\N46
+##	TAG	</name>
+2105	TOK	and		and\CC
+##	TAG	<name>
+2106	TOK	CD8		CD8\N46
+##	TAG	</name>
+2107	TOK	lymphocytes		lymphocyte\N5P
+2108	TOK	were		be\V6F-A66
+2109	TOK	matched		match\VMC----
+2110	TOK	in		in\P
+2111	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+2112	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+2113	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2114	TOK	In	BOS	in\P
+2115	TOK	the		the\AT---6
+2116	TOK	antiviral		antiviral\JA
+2117	TOK	activity		activity\N5S
+2118	TOK	subset		subset\N5S
+---	DLD	,		=\DELIM
+2119	TOK	plasma		plasma\N5S
+2120	TOK	viral		viral\JA
+2121	TOK	load		load\N5S
+2122	TOK	fell		fall\VMF6A66
+2123	TOK	rapidly		rapidly\DGA7
+2124	TOK	in		in\P
+2125	TOK	patients		patient\N5P
+2126	TOK	assigned		assign\VMC----
+2127	TOK	ritonavir		ritonavir\N5S
+---	DLD	,		=\DELIM
+2128	TOK	with		with\P
+2129	TOK	a		a\AI---S
+2130	TOK	maximum		maximum\N5S
+2131	TOK	mean		mean\JA
+2132	TOK	reduction		reduction\N5S
+2133	TOK	from		from\P
+2134	TOK	baseline		baseline\N5S
+2135	TOK	of		of\P
+2136	TOK	xxx		noanat\W
+2137	TOK	copies/mL		copies/mL\N5S
+2138	TOK	at		at\P
+##	TAG	<num>
+2139	TOK	2		2\X
+##	TAG	</num>
+2140	TOK	weeks		week\N5P
+---	DLD	,		=\DELIM
+2141	TOK	followed		follow\VMC----
+2142	TOK	by		by\P
+2143	TOK	a		a\AI---S
+2144	TOK	subsequent		subsequent\JA
+2145	TOK	return		return\N5S
+2146	TOK	toward		toward\P
+2147	TOK	baseline		baseline\N5S
+---	DLE	(		=\DELIM
+2148	TOK	figure		figure\N5S
+##	TAG	<num>
+2149	TOK	4		4\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2150	TOK	HIV	BOS	HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2151	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+2152	TOK	RNA		RNA\N46
+##	TAG	</name>
+2153	TOK	concentrations		concentration\N5P
+2154	TOK	then		then\DGA7
+2155	TOK	stabilised		stabilise\VMC----
+2156	TOK	during		during\P
+2157	TOK	period		period\N5S
+##	TAG	<num>
+2158	TOK	two		two\X
+##	TAG	</num>
+2159	TOK	at		at\P
+2160	TOK	a		a\AI---S
+2161	TOK	value		value\N5S
+2162	TOK	of		of\P
+2163	TOK	about		about\DGA7
+2164	TOK	xxx		noanat\W
+2165	TOK	copies/mL		copies/mL\N5S
+2166	TOK	lower		low\JC
+2167	TOK	than		than\CS
+2168	TOK	baseline		baseline\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2169	TOK	During	BOS	during\P
+2170	TOK	periods		period\N5P
+##	TAG	<num>
+2171	TOK	2		2\X
+##	TAG	</num>
+2172	TOK	and		and\CC
+##	TAG	<num>
+2173	TOK	3		3\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+2174	TOK	when		when\CS
+2175	TOK	patients		patient\N5P
+2176	TOK	switched		switch\VMC----
+2177	TOK	to		to\P
+2178	TOK	open		open\VMI----
+---	DLI	-		=\DELIM
+2179	TOK	label		label\N5S
+2180	TOK	ritonavir		ritonavir\N5S
+---	DLD	,		=\DELIM
+2181	TOK	plasma		plasma\N5S
+2182	TOK	viraemia		viraemia\N5S
+2183	TOK	in		in\P
+2184	TOK	the		the\AT---6
+2185	TOK	remaining		remain\VMG----
+2186	TOK	placebo		placebo\N5S
+---	DLI	-		=\DELIM
+2187	TOK	group		group\N5S
+2188	TOK	patients		patient\N5P
+2189	TOK	fell		fall\VMF6A66
+2190	TOK	to		to\P
+2191	TOK	values		value\N5P
+2192	TOK	below		below\P
+2193	TOK	those		that\RDP3N-
+2194	TOK	observed		observe\VMC----
+2195	TOK	in		in\P
+2196	TOK	the		the\AT---6
+2197	TOK	remaining		remain\VMG----
+2198	TOK	ritonavir		ritonavir\N5S
+2199	TOK	group		group\N5S
+2200	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2201	TOK	Adverse	BOS	adverse\JA
+2202	TOK	effects	EOS	effect\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2204	TOK	Overall	BOS	overall\JA
+##	TAG	<num>
+2205	TOK	114		114\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+2206	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+2207	TOK	of		of\P
+2208	TOK	patients		patient\N5P
+2209	TOK	in		in\P
+2210	TOK	the		the\AT---6
+2211	TOK	ritonavir		ritonavir\N5S
+2212	TOK	group		group\N5S
+2213	TOK	and		and\CC
+##	TAG	<num>
+2214	TOK	45		45\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+2215	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+2216	TOK	of		of\P
+2217	TOK	patients		patient\N5P
+2218	TOK	in		in\P
+2219	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+2220	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+2221	TOK	group		group\N5S
+2222	TOK	withdrew		withdraw\VMF6A66
+2223	TOK	from		from\P
+2224	TOK	treatment		treatment\N5S
+2225	TOK	with		with\P
+2226	TOK	masked		mask\VMC----
+2227	TOK	study		study\N5S
+2228	TOK	medication		medication\N5S
+---	DLE	(		=\DELIM
+2229	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2231	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+2232	TOK	many		many\AI---P
+2233	TOK	of		of\P
+2234	TOK	those		that\RDP3N-
+2235	TOK	in		in\P
+2236	TOK	the		the\AT---6
+2237	TOK	ritonavir		ritonavir\N5S
+2238	TOK	group		group\N5S
+2239	TOK	withdrew		withdraw\VMF6A66
+2240	TOK	from		from\P
+2241	TOK	treatment		treatment\N5S
+2242	TOK	during		during\P
+2243	TOK	the		the\AT---6
+2244	TOK	first		first\MOS
+##	TAG	<num>
+2245	TOK	4		4\X
+##	TAG	</num>
+2246	TOK	weeks		week\N5P
+2247	TOK	of		of\P
+2248	TOK	treatment		treatment\N5S
+---	DLD	;		=\DELIM
+##	TAG	<na type="function">
+2249	TOK	9% of		noanat\W
+##	TAG	</na>
+2250	TOK	the		the\AT---6
+2251	TOK	ritonavir		ritonavir\N5S
+2252	TOK	group		group\N5S
+2253	TOK	and		and\CC
+##	TAG	<na type="function">
+2254	TOK	1% of		noanat\W
+##	TAG	</na>
+2255	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+2256	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+2257	TOK	group		group\N5S
+2258	TOK	withdrew		withdraw\VMF6A66
+2259	TOK	from		from\P
+2260	TOK	masked		mask\VMC----
+2261	TOK	study		study\N5S
+2262	TOK	medication		medication\N5S
+2263	TOK	during		during\P
+2264	TOK	period		period\N5S
+##	TAG	<num>
+2265	TOK	1		1\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2266	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+2267	TOK	4		4\X
+##	TAG	</num>
+2268	TOK	lists		list\VMFDRS3
+2269	TOK	the		the\AT---6
+2270	TOK	most		most\DDS7
+2271	TOK	frequently		frequently\DGA7
+2272	TOK	reported		report\VMF6A66
+2273	TOK	adverse		adverse\JA
+2274	TOK	events		event\N5P
+2275	TOK	and		and\CC
+2276	TOK	reasons		reason\N5P
+2277	TOK	for		for\P
+2278	TOK	withdrawal		withdrawal\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2279	TOK	These	BOS	this\AD---P
+2280	TOK	events		event\N5P
+2281	TOK	were		be\V6F-A66
+2282	TOK	most		most\DDS7
+2283	TOK	commonly		commonly\DGA7
+2284	TOK	classified		classify\VMC----
+2285	TOK	as		as\P
+2286	TOK	gastrointestinal		gastrointestinal\JA
+2287	TOK	symptoms		symptom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2288	TOK	Abnormal	BOS	abnormal\JA
+2289	TOK	results		result\N5P
+2290	TOK	of		of\P
+2291	TOK	biochemical		biochemical\JA
+2292	TOK	laboratory		laboratory\N5S
+2293	TOK	tests		test\N5P
+2294	TOK	were		be\V6F-A66
+2295	TOK	more		more\DDC7
+2296	TOK	common		common\JA
+2297	TOK	with		with\P
+2298	TOK	ritonavir		ritonavir\N5S
+2299	TOK	than		than\CS
+2300	TOK	with		with\P
+2301	TOK	placebo		placebo\N5S
+---	DLD	:		=\DELIM
+2302	TOK	high		high\JA
+2303	TOK	concentrations		concentration\N5P
+2304	TOK	of		of\P
+2305	TOK	alanine		alanine\N5S
+2306	TOK	aminotransferase		aminotransferase\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2307	TOK	>215		>215\X
+##	TAG	</num>
+##	TAG	<na type="function">
+2308	TOK	IU/L		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+2309	TOK	occurred		occur\VMC----
+2310	TOK	in		in\P
+2311	TOK	xxx		noanat\W
+##	TAG	<foreign lang="LA" pos="P">
+2312	TOK	versus		versus\P
+##	TAG	</foreign>
+2313	TOK	xxx		noanat\W
+2314	TOK	g-glutamyl		g-glutamyl\N5S
+2315	TOK	transpeptidase		transpeptidase\N5S
+2316	TOK	above		above\P
+##	TAG	<num>
+2317	TOK	300		300\X
+##	TAG	</num>
+2318	TOK	xxx		noanat\W
+2319	TOK	in		in\P
+2320	TOK	xxx		noanat\W
+##	TAG	<foreign lang="LA" pos="P">
+2321	TOK	versus		versus\P
+##	TAG	</foreign>
+2322	TOK	xxx		noanat\W
+2323	TOK	creatine		creatine\N5S
+2324	TOK	phosphokinase		phosphokinase\N5S
+2325	TOK	above		above\P
+##	TAG	<num>
+2326	TOK	800		800\X
+##	TAG	</num>
+##	TAG	<na type="function">
+2327	TOK	IU/L		noanat\W
+##	TAG	</na>
+2328	TOK	in		in\P
+2329	TOK	xxx		noanat\W
+##	TAG	<foreign lang="LA" pos="P">
+2330	TOK	versus		versus\P
+##	TAG	</foreign>
+2331	TOK	xxx		noanat\W
+---	DLD	;		=\DELIM
+2332	TOK	and		and\CC
+2333	TOK	fasting		fast\VMG----
+2334	TOK	serum		serum\N5S
+2335	TOK	triglycerides		triglyceride\N5P
+2336	TOK	above		above\P
+2337	TOK	xxx		noanat\W
+2338	TOK	mmol/L		mmol/L\N5S
+2339	TOK	in		in\P
+2340	TOK	xxx		noanat\W
+##	TAG	<foreign lang="LA" pos="P">
+2341	TOK	versus		versus\P
+##	TAG	</foreign>
+2342	TOK	xxx		noanat\W
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2343	TOK	By	BOS	by\P
+2344	TOK	contrast		contrast\VMI----
+---	DLD	,		=\DELIM
+2345	TOK	haematological		haematological\JA
+2346	TOK	abnormalities		abnormality\N5P
+2347	TOK	were		be\V6F-A66
+2348	TOK	less		less\DDC7
+2349	TOK	frequent		frequent\JA
+2350	TOK	in		in\P
+2351	TOK	the		the\AT---6
+2352	TOK	ritonavir		ritonavir\N5S
+2353	TOK	group		group\N5S
+2354	TOK	than		than\CS
+2355	TOK	in		in\P
+2356	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+2357	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+2358	TOK	group		group\VMF6R66
+---	DLD	:		=\DELIM
+2359	TOK	anaemia		anaemia\N5S
+---	DLE	(		=\DELIM
+2360	TOK	packed		pack\VMF6A66
+---	DLI	-		=\DELIM
+2361	TOK	cell		cell\N5S
+2362	TOK	volume		volume\N5S
+2363	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+2364	TOK	occurred		occur\VMC----
+2365	TOK	in		in\P
+2366	TOK	xxx		noanat\W
+##	TAG	<foreign lang="LA" pos="P">
+2367	TOK	versus		versus\P
+##	TAG	</foreign>
+2368	TOK	xxx		noanat\W
+---	DLE	,		=\DELIM
+2369	TOK	and		and\CC
+2370	TOK	neutropenia		neutropenia\N5S
+---	DLE	(		=\DELIM
+2371	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+2372	TOK	in		in\P
+2373	TOK	xxx		noanat\W
+##	TAG	<foreign lang="LA" pos="P">
+2374	TOK	versus		versus\P
+##	TAG	</foreign>
+2375	TOK	xxx		noanat\W
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2376	TOK	Discussion	BOS	discussion\N5S
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2378	TOK	In	BOS	in\P
+2379	TOK	this		this\AD---S
+2380	TOK	study		study\N5S
+2381	TOK	ritonavir		ritonavir\N5S
+2382	TOK	reduced		reduce\VMF6A66
+2383	TOK	the		the\AT---6
+2384	TOK	risk		risk\N5S
+2385	TOK	of		of\P
+##	TAG	<name>
+2386	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+2387	TOK	complications		complication\N5P
+2388	TOK	and		and\CC
+2389	TOK	prolonged		prolong\VMF6A66
+2390	TOK	survival		survival\N5S
+2391	TOK	in		in\P
+2392	TOK	patients		patient\N5P
+2393	TOK	with		with\P
+2394	TOK	advanced		advance\VMC----
+##	TAG	<name>
+2395	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2396	TOK	1		1\X
+##	TAG	</num>
+2397	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2398	TOK	The	BOS	the\AT---6
+2399	TOK	participants		participant\N5P
+2400	TOK	in		in\P
+2401	TOK	this		this\AD---S
+2402	TOK	large		large\JA
+---	DLI	-		=\DELIM
+2403	TOK	scale		scale\N5S
+2404	TOK	clinical		clinical\JA
+2405	TOK	trial		trial\N5S
+2406	TOK	were		be\V6F-A66
+2407	TOK	representative		representative\JA
+2408	TOK	of		of\P
+2409	TOK	many		many\AI---P
+2410	TOK	patients		patient\N5P
+2411	TOK	with		with\P
+2412	TOK	advanced		advance\VMC----
+##	TAG	<name>
+2413	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2414	TOK	1		1\X
+##	TAG	</num>
+2415	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2416	TOK	The	BOS	the\AT---6
+2417	TOK	effectiveness		effectiveness\N5S
+2418	TOK	of		of\P
+2419	TOK	ritonavir		ritonavir\N5S
+2420	TOK	treatment		treatment\N5S
+2421	TOK	against		against\P
+2422	TOK	disease		disease\N5S
+2423	TOK	was		be\V6F-A66
+2424	TOK	conservatively		conservatively\DGA7
+2425	TOK	estimated		estimate\VMC----
+2426	TOK	in		in\P
+2427	TOK	terms		term\N5P
+2428	TOK	of		of\P
+2429	TOK	rigorously		rigorously\DGA7
+2430	TOK	confirmed		confirm\VMC----
+2431	TOK	clinical		clinical\JA
+2432	TOK	outcomes		outcome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2433	TOK	Common	BOS	common\JA
+##	TAG	<name>
+2434	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2435	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+2436	TOK	related		relate\VMC----
+2437	TOK	disorders		disorder\N5P
+2438	TOK	were		be\V6F-A66
+2439	TOK	consistently		consistently\DGA7
+2440	TOK	less		less\DDC7
+2441	TOK	common		common\JA
+2442	TOK	as		as\P
+2443	TOK	first		first\MOS
+2444	TOK	outcomes		outcome\N5P
+2445	TOK	in		in\P
+2446	TOK	the		the\AT---6
+2447	TOK	ritonavir		ritonavir\N5S
+2448	TOK	group		group\N5S
+2449	TOK	than		than\CS
+2450	TOK	in		in\P
+2451	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+2452	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+2453	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+2454	TOK	Two	BOS	Two\X
+##	TAG	</num>
+2455	TOK	main		main\JA
+2456	TOK	factors		factor\N5P
+2457	TOK	may		may\VOFDR66
+2458	TOK	have		have\VMI----
+2459	TOK	exerted		exert\VMC----
+2460	TOK	potential		potential\JA
+2461	TOK	bias		bias\N5S
+2462	TOK	on		on\P
+2463	TOK	the		the\AT---6
+2464	TOK	overall		overall\JA
+2465	TOK	outcome		outcome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2466	TOK	First	BOS	first\MOS
+---	DLD	,		=\DELIM
+2467	TOK	significantly		significantly\DGA7
+2468	TOK	more		many\JC
+2469	TOK	patients		patient\N5P
+2470	TOK	in		in\P
+2471	TOK	the		the\AT---6
+2472	TOK	ritonavir		ritonavir\N5S
+2473	TOK	group		group\N5S
+2474	TOK	than		than\CS
+2475	TOK	in		in\P
+2476	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+2477	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+2478	TOK	group		group\N5S
+2479	TOK	discontinued		discontinue\VMC----
+2480	TOK	study		study\N5S
+2481	TOK	medication		medication\N5S
+2482	TOK	early		early\JA
+2483	TOK	in		in\P
+2484	TOK	the		the\AT---6
+2485	TOK	trial		trial\N5S
+##	TAG	<loc pos="P">
+2486	TOK	owing to		owing_to\P
+##	TAG	</loc>
+2487	TOK	drug		drug\N5S
+---	DLI	-		=\DELIM
+2488	TOK	related		relate\VMC----
+2489	TOK	adverse		adverse\JA
+2490	TOK	symptoms		symptom\N5P
+---	DLD	;		=\DELIM
+2491	TOK	this		this\AD---S
+2492	TOK	factor		factor\N5S
+2493	TOK	could		can\VOFDA66
+2494	TOK	have		have\VMI----
+2495	TOK	led		lead\VMC----
+2496	TOK	to		to\P
+2497	TOK	an		an\AI---S
+2498	TOK	underestimate		underestimate\N5S
+2499	TOK	of		of\P
+2500	TOK	treatment		treatment\N5S
+2501	TOK	efficacy		efficacy\N5S
+2502	TOK	by		by\P
+2503	TOK	the		the\AT---6
+2504	TOK	intention		intention\N5S
+---	DLI	-		=\DELIM
+2505	TOK	to		to\P
+---	DLI	-		=\DELIM
+2506	TOK	treat		treat\N5S
+2507	TOK	analysis		analysis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2508	TOK	Second	BOS	second\MOS
+---	DLD	,		=\DELIM
+2509	TOK	since		since\P
+##	TAG	<name>
+2510	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2511	TOK	lymphocyte		lymphocyte\N5S
+2512	TOK	responses		response\N5P
+2513	TOK	were		be\V6F-A66
+2514	TOK	not		not\DGA7
+2515	TOK	concealed		conceal\VMC----
+2516	TOK	from		from\P
+2517	TOK	investigators		investigator\N5P
+---	DLD	,		=\DELIM
+2518	TOK	the		the\AT---6
+2519	TOK	provision		provision\N5S
+2520	TOK	of		of\P
+2521	TOK	open		open\VMI----
+---	DLI	-		=\DELIM
+2522	TOK	label		label\N5S
+2523	TOK	ritonavir		ritonavir\N5S
+2524	TOK	treatment		treatment\N5S
+2525	TOK	after		after\P
+2526	TOK	period		period\N5S
+##	TAG	<num>
+2527	TOK	1		1\X
+##	TAG	</num>
+2528	TOK	for		for\P
+2529	TOK	patients		patient\N5P
+2530	TOK	who		who\RW63N-
+2531	TOK	had		have\V6F6A66
+##	TAG	<name>
+2532	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+2533	TOK	defining		define\VMG----
+2534	TOK	events		event\N5P
+2535	TOK	may		may\VOFDR66
+2536	TOK	have		have\VMI----
+2537	TOK	led		lead\VMC----
+2538	TOK	to		to\P
+2539	TOK	over		over\P
+---	DLI	-		=\DELIM
+2540	TOK	reporting		report\VMG----
+2541	TOK	of		of\P
+2542	TOK	such		such\JA
+2543	TOK	events		event\N5P
+2544	TOK	in		in\P
+2545	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+2546	TOK	placebo		placebo\N5S
+##	TAG	</foreign>
+2547	TOK	group		group\VMF6R66
+---	DLD	,		=\DELIM
+2548	TOK	resulting		result\VMG----
+2549	TOK	in		in\P
+2550	TOK	a		a\AI---S
+2551	TOK	higher		high\JC
+2552	TOK	apparent		apparent\JA
+2553	TOK	disease		disease\N5S
+2554	TOK	rate		rate\N5S
+2555	TOK	in		in\P
+2556	TOK	that		that\AD---S
+2557	TOK	group		group\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2558	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+2559	TOK	the		the\AT---6
+2560	TOK	most		most\DDS7
+2561	TOK	frequent		frequent\JA
+2562	TOK	outcome		outcome\N5S
+2563	TOK	event		event\N5S
+2564	TOK	was		be\V6F-A66
+2565	TOK	death		death\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2566	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+2567	TOK	the		the\AT---6
+2568	TOK	risk		risk\N5S
+2569	TOK	of		of\P
+2570	TOK	developing		develop\VMG----
+2571	TOK	an		an\AI---S
+##	TAG	<name>
+2572	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2573	TOK	defining		define\VMG----
+2574	TOK	illness		illness\N5S
+2575	TOK	was		be\V6F-A66
+2576	TOK	consistently		consistently\DGA7
+2577	TOK	reduced		reduce\VMC----
+2578	TOK	among		among\P
+2579	TOK	expected		expect\VMC----
+2580	TOK	disease		disease\N5S
+2581	TOK	outcomes		outcome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2582	TOK	If	BOS	if\CS
+2583	TOK	such		such\JA
+2584	TOK	a		a\AI---S
+2585	TOK	reporting		report\VMG----
+2586	TOK	bias		bias\N5S
+2587	TOK	of		of\P
+2588	TOK	primary		primary\JA
+2589	TOK	disease		disease\N5S
+2590	TOK	endpoints		endpoint\N5P
+2591	TOK	had		have\V6F6A66
+2592	TOK	occurred		occur\VMC----
+---	DLD	,		=\DELIM
+2593	TOK	provision		provision\N5S
+2594	TOK	of		of\P
+2595	TOK	ritonavir		ritonavir\N5S
+2596	TOK	during		during\P
+2597	TOK	period		period\N5S
+##	TAG	<num>
+2598	TOK	2		2\X
+##	TAG	</num>
+2599	TOK	for		for\P
+2600	TOK	disease		disease\N5S
+2601	TOK	outcomes		outcome\N5P
+2602	TOK	and		and\CC
+2603	TOK	during		during\P
+2604	TOK	period		period\N5S
+##	TAG	<num>
+2605	TOK	3		3\X
+##	TAG	</num>
+2606	TOK	for		for\P
+2607	TOK	all		all\AG---6
+2608	TOK	patients		patient\N5P
+2609	TOK	irrespective		irrespective\JA
+2610	TOK	of		of\P
+2611	TOK	disease		disease\N5S
+2612	TOK	status		status\N5S
+2613	TOK	would		will\VOFDA66
+2614	TOK	have		have\VMI----
+2615	TOK	decreased		decrease\VMC----
+2616	TOK	the		the\AT---6
+2617	TOK	overall		overall\JA
+2618	TOK	survival		survival\N5S
+2619	TOK	benefit		benefit\N5S
+2620	TOK	observed		observe\VMC----
+2621	TOK	for		for\P
+2622	TOK	ritonavir		ritonavir\N5S
+2623	TOK	in		in\P
+2624	TOK	the		the\AT---6
+2625	TOK	analysis		analysis\N5S
+2626	TOK	of		of\P
+2627	TOK	all		all\AG---6
+2628	TOK	deaths		death\N5P
+2629	TOK	from		from\P
+2630	TOK	any		any\AG---6
+2631	TOK	cause		cause\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2632	TOK	Our	BOS	our\APP1N6
+2633	TOK	data		data\N56
+2634	TOK	may		may\VOFDR66
+2635	TOK	represent		represent\VMI----
+2636	TOK	the		the\AT---6
+2637	TOK	effect		effect\N5S
+2638	TOK	of		of\P
+2639	TOK	early		early\JA
+##	TAG	<foreign lang="LA" pos="P">
+2640	TOK	versus		versus\P
+##	TAG	</foreign>
+2641	TOK	deferred		defer\VMC----
+2642	TOK	ritonavir		ritonavir\N5S
+2643	TOK	treatment		treatment\N5S
+2644	TOK	in		in\P
+2645	TOK	this		this\AD---S
+2646	TOK	population		population\N5S
+2647	TOK	of		of\P
+2648	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2649	TOK	Despite	BOS	despite\P
+2650	TOK	the		the\AT---6
+2651	TOK	early		early\JA
+2652	TOK	intolerance		intolerance\N5S
+2653	TOK	shown		show\VMC----
+2654	TOK	by		by\P
+2655	TOK	some		some\AG---6
+2656	TOK	patients		patient\N5P
+2657	TOK	for		for\P
+2658	TOK	ritonavir		ritonavir\N5S
+2659	TOK	liquid		liquid\N5S
+2660	TOK	solution		solution\N5S
+---	DLD	,		=\DELIM
+2661	TOK	severe		severe\JA
+2662	TOK	adverse		adverse\JA
+2663	TOK	events		event\N5P
+2664	TOK	were		be\V6F-A66
+2665	TOK	infrequent		infrequent\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2666	TOK	Significant	BOS	significant\JA
+2667	TOK	rises		rise\N5P
+2668	TOK	in		in\P
+2669	TOK	serum		serum\N5S
+2670	TOK	concentrations		concentration\N5P
+2671	TOK	of		of\P
+2672	TOK	hepatocellular		hepatocellular\JA
+2673	TOK	enzymes		enzyme\N5P
+2674	TOK	and		and\CC
+2675	TOK	triglycerides		triglyceride\N5P
+2676	TOK	during		during\P
+2677	TOK	ritonavir		ritonavir\N5S
+2678	TOK	therapy		therapy\N5S
+2679	TOK	were		be\V6F-A66
+2680	TOK	generally		generally\DGA7
+2681	TOK	reversible		reversible\JA
+2682	TOK	and		and\CC
+2683	TOK	not		not\DGA7
+2684	TOK	associated		associate\VMC----
+2685	TOK	with		with\P
+2686	TOK	clinical		clinical\JA
+2687	TOK	symptoms		symptom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2688	TOK	The	BOS	the\AT---6
+2689	TOK	benefit		benefit\N5S
+2690	TOK	of		of\P
+2691	TOK	ritonavir		ritonavir\N5S
+2692	TOK	treatment		treatment\N5S
+---	DLD	,		=\DELIM
+2693	TOK	with		with\P
+2694	TOK	a		a\AI---S
+2695	TOK	median		median\N5S
+2696	TOK	of		of\P
+##	TAG	<num>
+2697	TOK	14		14\X
+##	TAG	</num>
+2698	TOK	concurrent		concurrent\JA
+2699	TOK	medications		medication\N5P
+2700	TOK	on		on\P
+2701	TOK	entry		entry\N5S
+2702	TOK	to		to\P
+2703	TOK	the		the\AT---6
+2704	TOK	study		study\N5S
+---	DLD	,		=\DELIM
+2705	TOK	supports		support\VMFDRS3
+2706	TOK	overall		overall\JA
+2707	TOK	safety		safety\N5S
+2708	TOK	in		in\P
+2709	TOK	this		this\AD---S
+2710	TOK	setting		set\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2711	TOK	Potentially	BOS	potentially\DGA7
+2712	TOK	serious		serious\JA
+2713	TOK	drug		drug\N5S
+2714	TOK	interactions		interaction\N5P
+2715	TOK	are		be\V6FDR66
+2716	TOK	suggested		suggest\VMC----
+2717	TOK	by		by\P
+2718	TOK	expected		expect\VMC----
+2719	TOK	or		or\CC
+2720	TOK	observed		observe\VMC----
+2721	TOK	pharmacokinetic		pharmacokinetic\JA
+2722	TOK	interaction		interaction\N5S
+2723	TOK	of		of\P
+2724	TOK	ritonavir		ritonavir\N5S
+2725	TOK	on		on\P
+2726	TOK	the		the\AT---6
+2727	TOK	metabolism		metabolism\N5S
+2728	TOK	of		of\P
+2729	TOK	other		other\JA
+2730	TOK	drugs		drug\N5P
+2731	TOK	through		through\P
+2732	TOK	the		the\AT---6
+2733	TOK	enteric		enteric\JA
+2734	TOK	and		and\CC
+2735	TOK	hepatic		hepatic\JA
+2736	TOK	microsomal		microsomal\JA
+2737	TOK	cytochrome		cytochrome\N5S
+##	TAG	<name>
+2738	TOK	P450		P450\N46
+##	TAG	</name>
+2739	TOK	3A4		3A4\N5P
+2740	TOK	metabolic		metabolic\JA
+2741	TOK	pathway		pathway\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2742	TOK	This	BOS	this\AD---S
+2743	TOK	trial		trial\N5S
+2744	TOK	excluded		exclude\VMC----
+2745	TOK	medications		medication\N5P
+2746	TOK	based		base\VMC----
+2747	TOK	on		on\P
+2748	TOK	theoretical		theoretical\JA
+2749	TOK	risks		risk\N5P
+2750	TOK	of		of\P
+2751	TOK	potential		potential\JA
+2752	TOK	drug		drug\N5S
+2753	TOK	interactions		interaction\N5P
+---	DLD	;		=\DELIM
+2754	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+2755	TOK	rifabutin		rifabutin\N5S
+2756	TOK	therapy		therapy\N5S
+2757	TOK	was		be\V6F-A66
+2758	TOK	allowed		allow\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2759	TOK	Rifabutin	BOS	Rifabutin\N46
+##	TAG	</name>
+2760	TOK	was		be\V6F-A66
+2761	TOK	the		the\AT---6
+2762	TOK	only		only\JA
+2763	TOK	agent		agent\N5S
+2764	TOK	associated		associate\VMC----
+2765	TOK	with		with\P
+2766	TOK	increased		increase\VMC----
+2767	TOK	adverse		adverse\JA
+2768	TOK	events		event\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2769	TOK	The	BOS	the\AT---6
+2770	TOK	effectiveness		effectiveness\N5S
+2771	TOK	of		of\P
+2772	TOK	anti		anti\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+2773	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2774	TOK	1		1\X
+##	TAG	</num>
+2775	TOK	therapy		therapy\N5S
+2776	TOK	is		be\V6FDRS3
+2777	TOK	reflected		reflect\VMC----
+2778	TOK	in		in\P
+2779	TOK	treatment		treatment\N5S
+2780	TOK	responses		response\N5P
+2781	TOK	of		of\P
+##	TAG	<name>
+2782	TOK	CD4		CD4\N46
+##	TAG	</name>
+2783	TOK	lymphocytes		lymphocyte\N5P
+2784	TOK	and		and\CC
+2785	TOK	plasma		plasma\N5S
+2786	TOK	viraemia		viraemia\N5S
+---	DLD	;		=\DELIM
+2787	TOK	the		the\AT---6
+2788	TOK	previously		previously\DGA7
+2789	TOK	reported		report\VMC----
+2790	TOK	responses		response\N5P
+2791	TOK	to		to\P
+2792	TOK	ritonavir		ritonavir\N5S
+2793	TOK	treatment		treatment\N5S
+2794	TOK	were		be\V6F-A66
+2795	TOK	confirmed		confirm\VMC----
+2796	TOK	in		in\P
+2797	TOK	this		this\AD---S
+2798	TOK	trial		trial\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2799	TOK	The	BOS	the\AT---6
+2800	TOK	reported		report\VMC----
+2801	TOK	response		response\N5S
+2802	TOK	of		of\P
+##	TAG	<name>
+2803	TOK	CD8		CD8\N46
+##	TAG	</name>
+2804	TOK	lymphocytes		lymphocyte\N5P
+2805	TOK	was		be\V6F-A66
+2806	TOK	also		also\DGA7
+2807	TOK	confirmed		confirm\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2808	TOK	CD8	BOS	CD8\N46
+##	TAG	</name>
+2809	TOK	lymphocytes		lymphocyte\N5P
+2810	TOK	and		and\CC
+##	TAG	<name>
+2811	TOK	CD8		CD8\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2812	TOK	secreted		secrete\VMC----
+2813	TOK	factors		factor\N5P
+2814	TOK	may		may\VOFDR66
+2815	TOK	be		be\VMI----
+2816	TOK	involved		involve\VMC----
+2817	TOK	in		in\P
+2818	TOK	the		the\AT---6
+2819	TOK	host		host\N5S
+2820	TOK	response		response\N5S
+2821	TOK	to		to\P
+##	TAG	<name>
+2822	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2823	TOK	1		1\X
+##	TAG	</num>
+2824	TOK	infection		infection\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2825	TOK	The	BOS	the\AT---6
+2826	TOK	changes		change\N5P
+2827	TOK	in		in\P
+##	TAG	<name>
+2828	TOK	CD8		CD8\N46
+##	TAG	</name>
+2829	TOK	lymphocyte		lymphocyte\N5S
+2830	TOK	counts		count\N5P
+2831	TOK	during		during\P
+2832	TOK	ritonavir		ritonavir\N5S
+2833	TOK	treatment		treatment\N5S
+2834	TOK	may		may\VOFDR66
+2835	TOK	also		also\DGA7
+2836	TOK	represent		represent\VMI----
+2837	TOK	either		either\CC
+2838	TOK	a		a\AI---S
+2839	TOK	direct		direct\JA
+2840	TOK	effect		effect\N5S
+2841	TOK	or		or\CC
+2842	TOK	a		a\AI---S
+2843	TOK	therapeutic		therapeutic\JA
+2844	TOK	effect		effect\N5S
+2845	TOK	in		in\P
+2846	TOK	which		which\RW63N-
+2847	TOK	the		the\AT---6
+2848	TOK	initial		initial\JA
+2849	TOK	rise		rise\N5S
+2850	TOK	and		and\CC
+2851	TOK	subsequent		subsequent\JA
+2852	TOK	decline		decline\N5S
+2853	TOK	from		from\P
+2854	TOK	peak		peak\N5S
+2855	TOK	response		response\N5S
+2856	TOK	on		on\P
+2857	TOK	potent		potent\JA
+2858	TOK	therapy		therapy\N5S
+2859	TOK	may		may\VOFDR66
+2860	TOK	reflect		reflect\VMI----
+2861	TOK	lower		low\JC
+##	TAG	<name>
+2862	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2863	TOK	1		1\X
+##	TAG	</num>
+2864	TOK	replication		replication\N5S
+2865	TOK	and		and\CC
+2866	TOK	subsequent		subsequent\JA
+2867	TOK	decreased		decrease\VMF6A66
+2868	TOK	immune		immune\JA
+2869	TOK	activation		activation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2870	TOK	Since	BOS	since\CS
+2871	TOK	initial		initial\JA
+2872	TOK	reporting		report\VMG----
+2873	TOK	of		of\P
+2874	TOK	this		this\AD---S
+2875	TOK	study		study\N5S
+2876	PGR	's		genmark\GENMARK
+2877	TOK	results		result\N5P
+2878	TOK	and		and\CC
+##	TAG	<name>
+2879	TOK	US		US\N46
+##	TAG	</name>
+2880	TOK	licensing		licensing\N5S
+2881	TOK	of		of\P
+2882	TOK	ritonavir		ritonavir\N5S
+---	DLD	,		=\DELIM
+2883	TOK	controlled		control\VMC----
+2884	TOK	trials		trial\N5P
+2885	TOK	have		have\V6F6R66
+2886	TOK	been		be\VMC----
+2887	TOK	continued		continue\VMC----
+2888	TOK	or		or\CC
+2889	TOK	started		start\VMC----
+2890	TOK	to		to\P
+2891	TOK	confirm		confirm\VMI----
+2892	TOK	the		the\AT---6
+2893	TOK	clinical		clinical\JA
+2894	TOK	benefit		benefit\N5S
+2895	TOK	of		of\P
+2896	TOK	a		a\AI---S
+2897	TOK	protease		protease\N5S
+2898	TOK	inhibitor		inhibitor\N5S
+2899	TOK	on		on\P
+2900	TOK	health		health\N5S
+2901	TOK	and		and\CC
+2902	TOK	life		life\N5S
+2903	TOK	in		in\P
+##	TAG	<name>
+2904	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2905	TOK	1		1\X
+##	TAG	</num>
+2906	TOK	disease		disease\N5S
+2907	TOK	and		and\CC
+##	TAG	<name>
+2908	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2909	TOK	The	BOS	the\AT---6
+2910	TOK	need		need\N5S
+2911	TOK	to		to\P
+2912	TOK	prove		prove\VMI----
+2913	TOK	successively		successively\DGA7
+2914	TOK	the		the\AT---6
+2915	TOK	effectiveness		effectiveness\N5S
+2916	TOK	of		of\P
+2917	TOK	individual		individual\JA
+2918	TOK	drugs		drug\N5P
+2919	TOK	of		of\P
+2920	TOK	a		a\AI---S
+2921	TOK	class		class\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="JA">
+2922	TOK	as opposed to		as_opposed_to\JA
+##	TAG	</loc>
+2923	TOK	their		their\APP3N6
+2924	TOK	comparative		comparative\JA
+2925	TOK	safety		safety\N5S
+---	DLD	,		=\DELIM
+2926	TOK	activity		activity\N5S
+---	DLD	,		=\DELIM
+2927	TOK	and		and\CC
+2928	TOK	efficacy		efficacy\N5S
+---	DLD	,		=\DELIM
+2929	TOK	must		must\VOFDR66
+2930	TOK	be		be\VMI----
+2931	TOK	balanced		balance\VMC----
+2932	TOK	against		against\P
+2933	TOK	the		the\AT---6
+2934	TOK	rights		right\N5P
+2935	TOK	of		of\P
+2936	TOK	human		human\JA
+2937	TOK	trial		trial\N5S
+2938	TOK	volunteers		volunteer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2939	TOK	This	BOS	this\AD---S
+2940	TOK	ethical		ethical\JA
+2941	TOK	issue		issue\N5S
+2942	TOK	becomes		become\VMFDRS3
+2943	TOK	increasingly		increasingly\DGA7
+2944	TOK	important		important\JA
+2945	TOK	as		as\P
+2946	TOK	guidelines		guideline\N5P
+2947	TOK	on		on\P
+2948	TOK	treatment		treatment\N5S
+2949	TOK	standards		standard\N5P
+2950	TOK	become		become\VMF6R66
+2951	TOK	established		establish\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2952	TOK	Although	BOS	although\CS
+2953	TOK	ritonavir		ritonavir\N5S
+2954	TOK	was		be\V6F-A66
+2955	TOK	the		the\AT---6
+2956	TOK	first		first\MOS
+2957	TOK	protease		protease\N5S
+2958	TOK	inhibitor		inhibitor\N5S
+2959	TOK	for		for\P
+2960	TOK	which		which\RW63N-
+2961	TOK	clinical		clinical\JA
+2962	TOK	benefit		benefit\N5S
+2963	TOK	was		be\V6F-A66
+2964	TOK	demonstrated		demonstrate\VMC----
+---	DLD	,		=\DELIM
+2965	TOK	understanding		understanding\N5S
+2966	TOK	of		of\P
+2967	TOK	the		the\AT---6
+2968	TOK	clinical		clinical\JA
+2969	TOK	correlation		correlation\N5S
+2970	TOK	of		of\P
+2971	TOK	changes		change\N5P
+2972	TOK	in		in\P
+##	TAG	<name>
+2973	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2974	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+2975	TOK	RNA		RNA\N46
+##	TAG	</name>
+2976	TOK	concentrations		concentration\N5P
+2977	TOK	and		and\CC
+2978	TOK	counts		count\N5P
+2979	TOK	of		of\P
+##	TAG	<name>
+2980	TOK	CD4		CD4\N46
+##	TAG	</name>
+2981	TOK	and		and\CC
+##	TAG	<name>
+2982	TOK	CD8		CD8\N46
+##	TAG	</name>
+2983	TOK	lymphocytes		lymphocyte\N5P
+2984	TOK	requires		require\VMFDRS3
+2985	TOK	further		further\JA
+2986	TOK	analysis		analysis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2987	TOK	A	BOS	a\AI---S
+2988	TOK	greater		great\JC
+2989	TOK	and		and\CC
+2990	TOK	more		more\DDC7
+2991	TOK	sustained		sustain\VMC----
+2992	TOK	suppression		suppression\N5S
+2993	TOK	of		of\P
+##	TAG	<name>
+2994	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2995	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+2996	TOK	RNA		RNA\N46
+##	TAG	</name>
+2997	TOK	than		than\CS
+2998	TOK	seen		see\VMC----
+2999	TOK	in		in\P
+3000	TOK	this		this\AD---S
+3001	TOK	study		study\N5S
+3002	TOK	was		be\V6F-A66
+3003	TOK	reported		report\VMC----
+3004	TOK	in		in\P
+3005	TOK	patients		patient\N5P
+3006	TOK	with		with\P
+3007	TOK	less		less\DDC7
+3008	TOK	advanced		advance\VMC----
+##	TAG	<name>
+3009	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3010	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+3011	TOK	related		relate\VMC----
+3012	TOK	immunodeficency		immunodeficency\N5S
+3013	TOK	and		and\CC
+3014	TOK	when		when\CS
+3015	TOK	zalcitabine		zalcitabine\N5S
+3016	TOK	and		and\CC
+3017	TOK	zidovudine		zidovudine\N5S
+3018	TOK	were		be\V6F-A66
+3019	TOK	given		give\VMC----
+3020	TOK	together		together\DGA7
+3021	TOK	with		with\P
+3022	TOK	ritonavir		ritonavir\N5S
+3023	TOK	as		as\P
+3024	TOK	initial		initial\JA
+3025	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3026	TOK	Preliminary	BOS	preliminary\JA
+3027	TOK	results		result\N5P
+3028	TOK	from		from\P
+3029	TOK	continuing		continuing\JA
+3030	TOK	studies		study\N5P
+3031	TOK	have		have\V6F6R66
+3032	TOK	shown		show\VMC----
+3033	TOK	suppression		suppression\N5S
+3034	TOK	of		of\P
+##	TAG	<name>
+3035	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3036	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+3037	TOK	RNA		RNA\N46
+##	TAG	</name>
+3038	TOK	below		below\P
+3039	TOK	standard		standard\JA
+3040	TOK	quantification		quantification\N5S
+3041	TOK	values		value\N5P
+3042	TOK	with		with\P
+3043	TOK	ritonavir		ritonavir\N5S
+3044	TOK	plus		plus\CS
+3045	TOK	saquinavir		saquinavir\N5S
+3046	TOK	or		or\CC
+3047	TOK	plus		plus\CS
+3048	TOK	zidovudine		zidovudine\N5S
+3049	TOK	and		and\CC
+3050	TOK	lamivudine		lamivudine\N5S
+3051	TOK	in		in\P
+3052	TOK	the		the\AT---6
+3053	TOK	majority		majority\N5S
+3054	TOK	of		of\P
+3055	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3056	TOK	This	BOS	this\AD---S
+3057	TOK	study		study\N5S
+3058	TOK	used		use\VMF6A66
+3059	TOK	the		the\AT---6
+3060	TOK	design		design\N5S
+3061	TOK	of		of\P
+3062	TOK	adding		add\VMG----
+3063	TOK	ritonavir		ritonavir\N5S
+3064	TOK	to		to\P
+3065	TOK	at		at\P
+3066	TOK	most		most\AG---6
+##	TAG	<num>
+3067	TOK	two		two\X
+##	TAG	</num>
+3068	TOK	licensed		license\VMC----
+3069	TOK	nucleoside		nucleoside\N5S
+3070	TOK	antiretroviral		antiretroviral\JA
+3071	TOK	agents		agent\N5P
+3072	TOK	as		as\CS
+3073	TOK	tolerated		tolerate\VMC----
+3074	TOK	by		by\P
+3075	TOK	individual		individual\JA
+3076	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3077	TOK	This	BOS	this\AD---S
+3078	TOK	strategy		strategy\N5S
+3079	TOK	was		be\V6F-A66
+3080	TOK	then		then\DGA7
+3081	TOK	consistent		consistent\JA
+3082	TOK	with		with\P
+3083	TOK	common		common\JA
+3084	TOK	clinical		clinical\JA
+3085	TOK	practice		practice\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3086	TOK	In	BOS	in\P
+3087	TOK	patients		patient\N5P
+3088	TOK	with		with\P
+3089	TOK	extensive		extensive\JA
+3090	TOK	previous		previous\JA
+3091	TOK	therapy		therapy\N5S
+3092	TOK	and		and\CC
+3093	TOK	advanced		advance\VMC----
+3094	TOK	immunodeficiency		immunodeficiency\N5S
+---	DLD	,		=\DELIM
+3095	TOK	the		the\AT---6
+3096	TOK	approach		approach\N5S
+3097	TOK	of		of\P
+3098	TOK	adding		add\VMG----
+3099	TOK	a		a\AI---S
+3100	TOK	single		single\JA
+3101	TOK	new		new\JA
+3102	TOK	agent		agent\N5S
+3103	TOK	simulates		simulate\VMFDRS3
+3104	TOK	monotherapy		monotherapy\N5S
+3105	TOK	with		with\P
+3106	TOK	that		that\AD---S
+3107	TOK	agent		agent\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3108	TOK	The	BOS	the\AT---6
+3109	TOK	pattern		pattern\N5S
+3110	TOK	of		of\P
+3111	TOK	incomplete		incomplete\JA
+3112	TOK	and		and\CC
+3113	TOK	transient		transient\JA
+3114	TOK	suppression		suppression\N5S
+3115	TOK	of		of\P
+##	TAG	<name>
+3116	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3117	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+3118	TOK	RNA		RNA\N46
+##	TAG	</name>
+3119	TOK	observed		observe\VMC----
+3120	TOK	in		in\P
+3121	TOK	this		this\AD---S
+3122	TOK	study		study\N5S
+3123	TOK	is		be\V6FDRS3
+3124	TOK	similar		similar\JA
+3125	TOK	to		to\P
+3126	TOK	that		that\RDS3N-
+3127	TOK	in		in\P
+3128	TOK	other		other\JA
+3129	TOK	studies		study\N5P
+3130	TOK	of		of\P
+3131	TOK	ritonavir		ritonavir\N5S
+3132	TOK	monotherapy		monotherapy\N5P
+---	DLD	,		=\DELIM
+3133	TOK	in		in\P
+3134	TOK	which		which\RW63N-
+3135	TOK	stepwise		stepwise\JA
+##	TAG	<name>
+3136	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3137	TOK	1		1\X
+##	TAG	</num>
+3138	TOK	drug		drug\N5S
+3139	TOK	resistance		resistance\N5S
+3140	TOK	emerged		emerge\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3141	TOK	The	BOS	the\AT---6
+3142	TOK	apparently		apparently\DGA7
+3143	TOK	greater		great\JC
+3144	TOK	efficacy		efficacy\N5S
+3145	TOK	of		of\P
+3146	TOK	ritonavir		ritonavir\N5S
+3147	TOK	in		in\P
+3148	TOK	patients		patient\N5P
+3149	TOK	with		with\P
+3150	TOK	higher		high\JC
+3151	TOK	baseline		baseline\N5S
+##	TAG	<name>
+3152	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3153	TOK	lymphocyte		lymphocyte\N5S
+3154	TOK	counts		count\N5P
+3155	TOK	and		and\CC
+3156	TOK	in		in\P
+3157	TOK	patients		patient\N5P
+3158	TOK	taking		take\VMG----
+##	TAG	<loc pos="DGA7">
+3159	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+3160	TOK	one		one\MCS
+3161	TOK	other		other\JA
+3162	TOK	anti		anti\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+3163	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3164	TOK	1		1\X
+##	TAG	</num>
+3165	TOK	medication		medication\N5S
+3166	TOK	at		at\P
+3167	TOK	baseline		baseline\N5S
+3168	TOK	may		may\VOFDR66
+3169	TOK	reflect		reflect\VMI----
+3170	TOK	the		the\AT---6
+3171	TOK	better		better\DDC7
+3172	TOK	general		general\JA
+3173	TOK	health		health\N5S
+3174	TOK	or		or\CC
+3175	TOK	tolerance		tolerance\N5S
+3176	TOK	of		of\P
+3177	TOK	ritonavir		ritonavir\N5S
+3178	TOK	in		in\P
+3179	TOK	these		this\AD---P
+3180	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3181	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+3182	TOK	it		it\RPS3N6
+3183	TOK	may		may\VOFDR66
+3184	TOK	also		also\DGA7
+3185	TOK	represent		represent\VMI----
+3186	TOK	increased		increase\VMC----
+3187	TOK	and		and\CC
+3188	TOK	more		more\DDC7
+3189	TOK	durable		durable\JA
+3190	TOK	anti		anti\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+3191	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3192	TOK	1		1\X
+##	TAG	</num>
+3193	TOK	activity		activity\N5S
+3194	TOK	or		or\CC
+3195	TOK	greater		great\JC
+3196	TOK	efficacy		efficacy\N5S
+3197	TOK	of		of\P
+3198	TOK	ritonavir		ritonavir\N5S
+3199	TOK	therapy		therapy\N5S
+3200	TOK	in		in\P
+3201	TOK	earlier		early\JC
+3202	TOK	combination		combination\N5S
+3203	TOK	as		as\P
+3204	TOK	a		a\AI---S
+3205	TOK	result		result\N5S
+3206	TOK	of		of\P
+3207	TOK	decreased		decrease\VMC----
+3208	TOK	or		or\CC
+3209	TOK	delayed		delay\VMC----
+3210	TOK	drug		drug\N5S
+3211	TOK	resistance		resistance\N5S
+3212	TOK	afforded		afford\VMC----
+3213	TOK	by		by\P
+3214	TOK	combination		combination\N5S
+3215	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3216	TOK	This	BOS	this\AD---S
+3217	TOK	trial		trial\N5S
+3218	TOK	showed		show\VMF6A66
+3219	TOK	the		the\AT---6
+3220	TOK	efficacy		efficacy\N5S
+3221	TOK	of		of\P
+3222	TOK	ritonavir		ritonavir\N5S
+3223	TOK	in		in\P
+3224	TOK	treatment		treatment\N5S
+3225	TOK	of		of\P
+3226	TOK	heavily		heavily\DGA7
+3227	TOK	pretreated		pretreat\VMC----
+3228	TOK	patients		patient\N5P
+3229	TOK	with		with\P
+3230	TOK	advanced		advance\VMC----
+##	TAG	<name>
+3231	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3232	TOK	1		1\X
+##	TAG	</num>
+3233	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3234	TOK	The	BOS	the\AT---6
+3235	TOK	tactic		tactic\N5S
+3236	TOK	of		of\P
+3237	TOK	adding		add\VMG----
+3238	TOK	a		a\AI---S
+3239	TOK	single		single\JA
+3240	TOK	potent		potent\JA
+3241	TOK	anti		anti\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+3242	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3243	TOK	1		1\X
+##	TAG	</num>
+3244	TOK	drug		drug\N5S
+3245	TOK	to		to\P
+3246	TOK	a		a\AI---S
+3247	TOK	stable		stable\JA
+3248	TOK	or		or\CC
+3249	TOK	failing		fail\VMG----
+3250	TOK	underlying		underlying\JA
+3251	TOK	treatment		treatment\N5S
+3252	TOK	in		in\P
+3253	TOK	a		a\AI---S
+3254	TOK	clinical		clinical\JA
+3255	TOK	trial		trial\N5S
+3256	TOK	may		may\VOFDR66
+3257	TOK	be		be\VMI----
+3258	TOK	improved		improve\VMC----
+3259	TOK	upon		upon\P
+3260	TOK	in		in\P
+3261	TOK	clinical		clinical\JA
+3262	TOK	practice		practice\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3263	TOK	Further	BOS	further\JA
+3264	TOK	studies		study\N5P
+3265	TOK	should		shall\VOFDA66
+3266	TOK	assess		assess\VMI----
+3267	TOK	whether		whether\CS
+3268	TOK	initial		initial\JA
+3269	TOK	combination		combination\N5S
+3270	TOK	treatment		treatment\N5S
+3271	TOK	with		with\P
+3272	TOK	ritonavir		ritonavir\N5S
+3273	TOK	and		and\CC
+3274	TOK	other		other\JA
+3275	TOK	antiretroviral		antiretroviral\JA
+3276	TOK	agents		agent\N5P
+3277	TOK	or		or\CC
+3278	TOK	the		the\AT---6
+3279	TOK	simultaneous		simultaneous\JA
+3280	TOK	change		change\N5S
+3281	TOK	of		of\P
+##	TAG	<num>
+3282	TOK	two		two\X
+##	TAG	</num>
+3283	TOK	or		or\CC
+3284	TOK	more		more\DDC7
+3285	TOK	anti		anti\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+3286	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3287	TOK	1		1\X
+##	TAG	</num>
+3288	TOK	drugs		drug\N5P
+3289	TOK	will		will\VOFDR66
+##	TAG	<foreign lang="LA" pos="VMF6R66">
+3290	TOK	confer		confer\VMF6R66
+##	TAG	</foreign>
+3291	TOK	greater		great\JC
+3292	TOK	and		and\CC
+3293	TOK	more		more\DDC7
+3294	TOK	durable		durable\JA
+3295	TOK	clinical		clinical\JA
+3296	TOK	benefit		benefit\N5S
+3297	TOK	than		than\CS
+3298	TOK	measured		measure\VMC----
+3299	TOK	here		here\DGA7
+---	DLD	,		=\DELIM
+3300	TOK	as		as\DGA7
+3301	TOK	promised		promise\VMC----
+3302	TOK	by		by\P
+3303	TOK	surrogate		surrogate\N5S
+3304	TOK	marker		marker\N5S
+3305	TOK	studies		study\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3306	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+3307	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3309	TOK	Baseline	BOS	baseline\N5S
+3310	TOK	demographic		demographic\JA
+3311	TOK	and		and\CC
+3312	TOK	clinical		clinical\JA
+3313	TOK	characteristics	EOS	characteristic\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3315	TOK	Demography	BOS	demography\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3316	TOK	M/F	BOS	M/F\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3317	TOK	Median	BOS	median\N5S
+---	DLE	(		=\DELIM
+3318	TOK	range		range\VMF6R66
+---	DLD	)		=\DELIM
+3319	TOK	age		age\N5S
+3320	TOK	in		in\P
+3321	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3322	TOK	White/non	BOS	White/non\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3323	TOK	white		white\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3324	TOK	HIV	BOS	HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3325	TOK	1		1\X
+##	TAG	</num>
+3326	TOK	risk		risk\N5S
+3327	TOK	factor		factor\N5S
+---	DLE	(		=\DELIM
+3328	TOK	number		number\N5S
+3329	TOK	of		of\P
+3330	TOK	patients		patient\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3331	TOK	Male	BOS	male\N5S
+3332	TOK	homosexual		homosexual\JA
+3333	TOK	or		or\CC
+3334	TOK	bisexual		bisexual\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3335	TOK	Heterosexual	BOS	heterosexual\JA
+---	DLD	,		=\DELIM
+3336	TOK	sex		sex\N5S
+3337	TOK	partner		partner\N5S
+##	TAG	<name>
+3338	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3339	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+3340	TOK	positive		positive\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3341	TOK	Injection	BOS	injection\N5S
+---	DLI	-		=\DELIM
+3342	TOK	drug		drug\N5S
+3343	TOK	user		user\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3344	TOK	Sex	BOS	sex\N5S
+3345	TOK	partner		partner\N5S
+3346	TOK	injection		injection\N5S
+---	DLI	-		=\DELIM
+3347	TOK	drug		drug\N5S
+3348	TOK	user		user\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3349	TOK	Transfusion	BOS	transfusion\N5S
+3350	TOK	recipient		recipient\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3351	TOK	Haemophiliac	BOS	Haemophiliac\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3352	TOK	Other	BOS	other\JA
+3353	TOK	or		or\CC
+3354	TOK	unknown		unknown\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3355	TOK	Karnofsky	BOS	Karnofsky\N46
+##	TAG	</name>
+3356	TOK	performance		performance\N5S
+3357	TOK	score		score\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3358	TOK	HIV	BOS	HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3359	TOK	1		1\X
+##	TAG	</num>
+3360	TOK	history		history\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3361	TOK	Time	BOS	time\N5S
+3362	TOK	since		since\P
+##	TAG	<name>
+3363	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3364	TOK	1		1\X
+##	TAG	</num>
+3365	TOK	diagnosis		diagnosis\N5S
+---	DLE	(		=\DELIM
+3366	TOK	years		year\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3367	TOK	Duration	BOS	duration\N5S
+3368	TOK	of		of\P
+3369	TOK	antiretroviral		antiretroviral\JA
+3370	TOK	treatment		treatment\N5S
+---	DLE	(		=\DELIM
+3371	TOK	years		year\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3372	TOK	Duration	BOS	duration\N5S
+3373	TOK	of		of\P
+3374	TOK	zidovudine		zidovudine\N5S
+3375	TOK	treatment		treatment\N5S
+---	DLE	(		=\DELIM
+3376	TOK	years		year\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3377	TOK	Mean	BOS	mean\JA
+3378	TOK	number		number\N5S
+3379	TOK	of		of\P
+3380	TOK	antiretroviral		antiretroviral\JA
+3381	TOK	drugs		drug\N5P
+3382	TOK	used		use\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3383	TOK	CD4	BOS	CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3384	TOK	lymphocyte		lymphocyte\N5S
+3385	TOK	count		count\VMF6R66
+---	DLE	(		=\DELIM
+3386	TOK	number		number\N5S
+3387	TOK	of		of\P
+3388	TOK	patients		patient\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3389	TOK	Missing	BOS	miss\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3390	TOK	Lymphocyte	BOS	lymphocyte\N5S
+3391	TOK	count		count\VMF6R66
+---	DLE	(		=\DELIM
+3392	TOK	per		per\P
+3393	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3395	TOK	CD4	BOS	CD4\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3396	TOK	CD8	BOS	CD8\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3397	TOK	Plasma	BOS	plasma\N5S
+##	TAG	<name>
+3398	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3399	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+3400	TOK	RNA		RNA\N46
+##	TAG	</name>
+3401	TOK	load		load\VMF6R66
+---	DLE	(		=\DELIM
+3402	TOK	log10		log10\JA
+3403	TOK	copies/mL		copies/mL\N5P
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3405	TOK	Antiviral	BOS	antiviral\JA
+3406	TOK	activity		activity\N5S
+3407	TOK	subset		subset\N5S
+3408	TOK	n		n\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3409	TOK	Median	BOS	median\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3410	TOK	IQR		IQR\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3412	TOK	All	BOS	all\AG---6
+3413	TOK	patients		patient\N5P
+3414	TOK	tested		test\VMF6A66
+3415	TOK	n		n\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3416	TOK	Median	BOS	median\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3417	TOK	IQR		IQR\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3419	TOK	Baseline	BOS	baseline\N5S
+3420	TOK	concurrent		concurrent\JA
+3421	TOK	treatment		treatment\N5S
+3422	TOK	taken		take\VMC----
+3423	TOK	by		by\P
+##	TAG	<loc pos="DGA7">
+3424	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+##	TAG	<na type="function">
+3425	TOK	15% of		noanat\W
+##	TAG	</na>
+3426	TOK	patients		patient\N5P
+3427	TOK	in		in\P
+3428	TOK	either		either\CC
+3429	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3430	TOK	Zidovudine	BOS	zidovudine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3431	TOK	Stavudine	BOS	stavudine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3432	TOK	Zalcitabine	BOS	zalcitabine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3433	TOK	Didanosine	BOS	didanosine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3434	TOK	Trimethoprim	BOS	trimethoprim\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3435	TOK	Sulphamethoxazole	BOS	Sulphamethoxazole\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3436	TOK	Clarithromycin	BOS	Clarithromycin\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3437	TOK	Rifabutin	BOS	Rifabutin\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3438	TOK	Pentamidine	BOS	pentamidine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3439	TOK	Ciprofloxacin	BOS	ciprofloxacin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3440	TOK	Fluconazole	BOS	fluconazole\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3441	TOK	Acyclovir	BOS	acyclovir\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3442	TOK	Paracetamol	BOS	paracetamol\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3443	TOK	Ascorbic	BOS	ascorbic\N5S
+3444	TOK	acid		acid\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3445	TOK	Testosterone	BOS	testosterone\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3446	TOK	Loperamide	BOS	loperamide\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3447	TOK	Filgrastim	BOS	Filgrastim\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3448	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3449	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3451	TOK	Trial	BOS	trial\N5S
+3452	TOK	profile	EOS	profile\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3454	TOK	In	BOS	in\P
+3455	TOK	period		period\N5S
+##	TAG	<num>
+3456	TOK	2		2\X
+##	TAG	</num>
+3457	TOK	there		there\DGA7
+3458	TOK	is		be\V6FDRS3
+3459	TOK	some		some\DGA7
+3460	TOK	overlap		overlap\VMI----
+3461	TOK	between		between\P
+3462	TOK	patients		patient\N5P
+3463	TOK	with		with\P
+3464	TOK	confirmed		confirm\VMC----
+3465	TOK	endpoints		endpoint\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3466	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3467	TOK	defining		define\VMG----
+3468	TOK	illness		illness\N5S
+3469	TOK	or		or\CC
+3470	TOK	death		death\N5S
+---	DLD	)		=\DELIM
+3471	TOK	and		and\CC
+3472	TOK	numbers		number\N5P
+3473	TOK	of		of\P
+3474	TOK	deaths		death\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3475	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3476	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3478	TOK	Disease	BOS	disease\N5S
+3479	TOK	progression		progression\N5S
+3480	TOK	or		or\CC
+3481	TOK	death		death\N5S
+---	DLE	(		=\DELIM
+3482	TOK	to		to\P
+3483	TOK	end		end\N5S
+3484	TOK	of		of\P
+3485	TOK	period		period\N5S
+##	TAG	<num>
+3486	TOK	2		2\X
+##	TAG	</num>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<head>
+3488	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+3489	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3491	TOK	Individual	BOS	individual\JA
+3492	TOK	first		first\MOS
+3493	TOK	outcome		outcome\N5S
+3494	TOK	events		event\N5P
+3495	TOK	at		at\P
+3496	TOK	end		end\N5S
+3497	TOK	of		of\P
+3498	TOK	period		period\N5S
+##	TAG	<num>
+3499	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3501	TOK	Number	BOS	number\N5S
+3502	TOK	of		of\P
+3503	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3504	TOK	Ritonavir	BOS	ritonavir\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3506	TOK	Placebo	BOS	placebo\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3507	TOK	Deaths	BOS	death\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3508	TOK	AIDS	BOS	aid\VMFDRS3
+---	DLI	-		=\DELIM
+3509	TOK	defining		define\VMG----
+3510	TOK	events		event\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3511	TOK	Total	BOS	total\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3512	TOK	Oesophageal	BOS	Oesophageal\N46
+##	TAG	</name>
+3513	TOK	candidosis		candidosis\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3514	TOK	Kaposi	BOS	Kaposi\N46
+##	TAG	</name>
+3515	PGR	's		genmark\GENMARK
+3516	TOK	sarcoma		sarcoma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3517	TOK	Cytomegalovirus	BOS	cytomegalovirus\N5S
+3518	TOK	retinitis		retinitis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3519	TOK	Pneumocystosis	BOS	Pneumocystosis\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3520	TOK	Cytomegalovirus	BOS	cytomegalovirus\N5S
+---	DLD	,		=\DELIM
+3521	TOK	non		non\N5P
+---	DLI	-		=\DELIM
+3522	TOK	retinal		retinal\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3523	TOK	Mycobacterium	BOS	mycobacterium\N5S
+3524	TOK	avium		avium\N5S
+3525	TOK	complex		complex\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3527	TOK	Wasting	BOS	wasting\JA
+3528	TOK	syndrome		syndrome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3529	TOK	Lymphoma	BOS	lymphoma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3530	TOK	Other	BOS	other\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3531	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+3532	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3534	TOK	Primary	BOS	primary\JA
+3535	TOK	outcomes		outcome\N5P
+3536	TOK	stratified		stratify\VMC----
+3537	TOK	by		by\P
+3538	TOK	baseline		baseline\N5S
+3539	TOK	characteristics	EOS	characteristic\N5P
+##	TAG	</head>
+##	TAG	<head>
+3541	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3542	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3544	TOK	Overall	BOS	overall\JA
+3545	TOK	survival		survival\N5S
+---	DLE	(		=\DELIM
+3546	TOK	to		to\P
+3547	TOK	end		end\N5S
+3548	TOK	of		of\P
+3549	TOK	period		period\N5S
+##	TAG	<num>
+3550	TOK	3		3\X
+##	TAG	</num>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<head>
+3552	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3553	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3555	TOK	Mean	BOS	mean\VMF6R66
+---	DLE	(		=\DELIM
+3556	TOK	with		with\P
+##	TAG	<name>
+3557	TOK	SE		SE\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+3558	TOK	changes		change\N5P
+3559	TOK	in		in\P
+##	TAG	<name>
+3560	TOK	CD4		CD4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3561	TOK	cell		cell\N5S
+3562	TOK	count		count\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3563	TOK	CD8		CD8\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3564	TOK	cell		cell\N5S
+3565	TOK	count		count\VMF6R66
+---	DLD	,		=\DELIM
+3566	TOK	and		and\CC
+3567	TOK	plasma		plasma\N5S
+##	TAG	<name>
+3568	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3569	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+3570	TOK	RNA		RNA\N46
+##	TAG	</name>
+3571	TOK	concentration	EOS	concentration\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3572	TOK	Number	BOS	number\N5S
+3573	TOK	of		of\P
+3574	TOK	placebo		placebo\N5S
+---	DLI	-		=\DELIM
+3575	TOK	group		group\N5S
+3576	TOK	patients		patient\N5P
+3577	TOK	receiving		receive\VMG----
+3578	TOK	open		open\JA
+---	DLI	-		=\DELIM
+3579	TOK	label		label\N5S
+3580	TOK	ritonavir		ritonavir\N5S
+3581	TOK	after		after\P
+3582	TOK	period		period\N5S
+##	TAG	<num>
+3583	TOK	1		1\X
+##	TAG	</num>
+3584	TOK	given		give\VMC----
+3585	TOK	in		in\P
+3586	TOK	parentheses		parenthesis\N5P
+3587	TOK	for		for\P
+3588	TOK	visits		visit\N5P
+3589	TOK	every		every\AG---S
+##	TAG	<num>
+3590	TOK	2		2\X
+##	TAG	</num>
+3591	TOK	months		month\N5P
+3592	TOK	from		from\P
+3593	TOK	month		month\N5S
+##	TAG	<num>
+3594	TOK	4		4\X
+##	TAG	</num>
+3595	TOK	onwards		onwards\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3596	TOK	Plasma	BOS	plasma\N5S
+##	TAG	<name>
+3597	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3598	TOK	1		1\X
+##	TAG	</num>
+##	TAG	<name>
+3599	TOK	RNA		RNA\N46
+##	TAG	</name>
+3600	TOK	for		for\P
+3601	TOK	antiviral		antiviral\JA
+3602	TOK	activity		activity\N5S
+3603	TOK	subset		subset\N5S
+3604	TOK	only		only\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3605	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+3606	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3608	TOK	Treatment	BOS	treatment\N5S
+---	DLI	-		=\DELIM
+3609	TOK	related		relate\VMC----
+3610	TOK	adverse		adverse\JA
+3611	TOK	events		event\N5P
+---	DLE	(		=\DELIM
+3612	TOK	in		in\P
+3613	TOK	xxx		noanat\W
+3614	TOK	of		of\P
+3615	TOK	participants		participant\N5P
+---	DLD	)		=\DELIM
+3616	TOK	and		and\CC
+3617	TOK	rates		rate\N5P
+3618	TOK	of		of\P
+3619	TOK	withdrawal		withdrawal\N5S
+3620	TOK	from		from\P
+3621	TOK	study		study\N5S
+3622	TOK	medication	EOS	medication\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3623	TOK	Symptom	BOS	symptom\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3624	TOK	Nausea	BOS	nausea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3625	TOK	Vomiting	BOS	vomit\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3626	TOK	Diarrhoea	BOS	diarrhoea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3627	TOK	Weakness	BOS	weakness\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3628	TOK	Altered	BOS	alter\VMC----
+3629	TOK	taste		taste\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3630	TOK	Circumoral	BOS	Circumoral\N46
+##	TAG	</name>
+3631	TOK	paraesthesia		paraesthesia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3632	TOK	Total	BOS	total\JA
+3633	TOK	withdrawn		withdraw\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

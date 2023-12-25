@@ -1,0 +1,5577 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<name>
+1	TOK	Randomised	BOS	Randomised\N46
+##	TAG	</name>
+2	TOK	trial		trial\N5S
+3	TOK	of		of\P
+4	TOK	irinotecan		irinotecan\N5S
+5	TOK	plus		plus\CS
+6	TOK	supportive		supportive\JA
+7	TOK	care		care\N5S
+##	TAG	<foreign lang="LA" pos="P">
+8	TOK	versus		versus\P
+##	TAG	</foreign>
+9	TOK	supportive		supportive\JA
+10	TOK	care		care\N5S
+11	TOK	alone		alone\DGA7
+12	TOK	after		after\P
+13	TOK	fluorouracil		fluorouracil\N5S
+14	TOK	failure		failure\N5S
+15	TOK	for		for\P
+16	TOK	patients		patient\N5P
+17	TOK	with		with\P
+18	TOK	metastatic		metastatic\JA
+19	TOK	colorectal		colorectal\JA
+20	TOK	cancer	EOS	cancer\N5S
+##	TAG	</head>
+##	TAG	<head>
+22	TOK	Introduction	BOS	introduction\N5S
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+24	TOK	Colorectal	BOS	colorectal\JA
+25	TOK	cancer		cancer\N5S
+26	TOK	is		be\V6FDRS3
+27	TOK	one		one\MCS
+28	TOK	of		of\P
+29	TOK	the		the\AT---6
+30	TOK	most		most\DDS7
+31	TOK	common		common\JA
+32	TOK	adult		adult\N5S
+33	TOK	malignant		malignant\JA
+34	TOK	tumours		tumour\N5P
+---	DLD	,		=\DELIM
+35	TOK	affecting		affect\VMG----
+36	TOK	one		one\MCS
+37	TOK	person		person\N5S
+38	TOK	in		in\P
+##	TAG	<num>
+39	TOK	twenty		twenty\X
+##	TAG	</num>
+40	TOK	in		in\P
+41	TOK	the		the\AT---6
+##	TAG	<name>
+42	TOK	USA		USA\N46
+##	TAG	</name>
+43	TOK	and		and\CC
+44	TOK	in		in\P
+45	TOK	most		most\AG---6
+46	TOK	developed		develop\VMC----
+47	TOK	countries		country\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+48	TOK	Although	BOS	although\CS
+##	TAG	<num>
+49	TOK	40-50		40-50\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+50	TOK	patients		patient\N5P
+51	TOK	may		may\VOFDR66
+52	TOK	be		be\VMI----
+53	TOK	cured		cure\VMC----
+54	TOK	with		with\P
+55	TOK	surgery		surgery\N5S
+---	DLD	,		=\DELIM
+56	TOK	many		many\RIP3N-
+57	TOK	will		will\VOFDR66
+58	TOK	develop		develop\VMI----
+59	TOK	metastatic		metastatic\JA
+60	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+61	TOK	For	BOS	for\P
+62	TOK	these		this\AD---P
+63	TOK	patients		patient\N5P
+---	DLD	,		=\DELIM
+64	TOK	treatment		treatment\N5S
+65	TOK	with		with\P
+66	TOK	fluorouracil		fluorouracil\N5S
+---	DLD	,		=\DELIM
+67	TOK	usually		usually\DGA7
+68	TOK	modulated		modulate\VMC----
+69	TOK	by		by\P
+70	TOK	folinic		folinic\JA
+71	TOK	acid		acid\N5S
+---	DLD	,		=\DELIM
+72	TOK	is		be\V6FDRS3
+73	TOK	the		the\AT---6
+74	TOK	only		only\JA
+75	TOK	option		option\N5S
+76	TOK	and		and\CC
+77	TOK	the		the\AT---6
+78	TOK	median		median\N5S
+79	TOK	survival		survival\N5S
+80	TOK	is		be\V6FDRS3
+##	TAG	<na type="function">
+81	TOK	10-12		noanat\W
+##	TAG	</na>
+82	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+83	TOK	When	BOS	when\CS
+84	TOK	the		the\AT---6
+85	TOK	tumour		tumour\N5S
+86	TOK	progresses		progress\VMFDRS3
+87	TOK	after		after\P
+88	TOK	first		first\MOS
+89	TOK	line		line\N5S
+90	TOK	treatment		treatment\N5S
+91	TOK	with		with\P
+92	TOK	fluorouracil		fluorouracil\N5S
+---	DLD	,		=\DELIM
+93	TOK	there		there\DGA7
+94	TOK	is		be\V6FDRS3
+95	TOK	no		no\AI---6
+96	TOK	standard		standard\JA
+97	TOK	treatment		treatment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+98	TOK	Survival	BOS	survival\N5S
+99	TOK	is		be\V6FDRS3
+100	TOK	short		short\JA
+101	TOK	and		and\CC
+102	TOK	associated		associate\VMC----
+103	TOK	with		with\P
+104	TOK	weight		weight\N5S
+105	TOK	loss		loss\N5S
+---	DLD	,		=\DELIM
+106	TOK	onset		onset\N5S
+107	TOK	or		or\CC
+108	TOK	worsening		worsen\VMG----
+109	TOK	of		of\P
+110	TOK	tumour		tumour\N5S
+---	DLI	-		=\DELIM
+111	TOK	related		relate\VMC----
+112	TOK	symptoms		symptom\N5P
+---	DLD	,		=\DELIM
+113	TOK	and		and\CC
+114	TOK	poor		poor\JA
+115	TOK	quality		quality\N5S
+116	TOK	of		of\P
+117	TOK	life		life\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+118	TOK	Because	BOS	because\CS
+119	TOK	cytotoxic		cytotoxic\JA
+120	TOK	agents		agent\N5P
+121	TOK	have		have\V6F6R66
+122	TOK	low		low\JA
+123	TOK	response		response\N5S
+124	TOK	rates		rate\N5P
+125	TOK	and		and\CC
+126	TOK	can		can\VOFDR66
+127	TOK	be		be\VMI----
+128	TOK	associated		associate\VMC----
+129	TOK	with		with\P
+130	TOK	severe		severe\JA
+131	TOK	side		side\N5S
+---	DLI	-		=\DELIM
+132	TOK	effects		effect\N5P
+---	DLD	,		=\DELIM
+133	TOK	many		many\AI---P
+134	TOK	patients		patient\N5P
+135	TOK	receive		receive\VMF6R66
+136	TOK	supportive		supportive\JA
+137	TOK	care		care\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+138	TOK	In	BOS	in\P
+139	TOK	first		first\MOS
+---	DLI	-		=\DELIM
+140	TOK	line		line\N5S
+141	TOK	chemotherapy		chemotherapy\N5S
+---	DLD	,		=\DELIM
+142	TOK	fluorouracil		fluorouracil\N5S
+143	TOK	with		with\P
+144	TOK	folinic		folinic\JA
+---	DLI	-		=\DELIM
+145	TOK	acid		acid\N5S
+146	TOK	is		be\V6FDRS3
+147	TOK	better		good\JC
+148	TOK	than		than\CS
+149	TOK	supportive		supportive\JA
+150	TOK	care		care\N5S
+---	DLE	(		=\DELIM
+151	TOK	or		or\CC
+152	TOK	delayed		delay\VMF6A66
+153	TOK	chemotherapy		chemotherapy\N5S
+---	DLD	)		=\DELIM
+154	TOK	for		for\P
+155	TOK	survival		survival\N5S
+156	TOK	and		and\CC
+157	TOK	quality		quality\N5S
+158	TOK	of		of\P
+159	TOK	life		life\N5S
+---	DLD	,		=\DELIM
+160	TOK	but		but\CC
+161	TOK	the		the\AT---6
+162	TOK	value		value\N5S
+163	TOK	of		of\P
+164	TOK	second		second\MOS
+165	TOK	line		line\N5S
+166	TOK	chemotherapy		chemotherapy\N5S
+167	TOK	in		in\P
+168	TOK	metastatic		metastatic\JA
+169	TOK	colorectal		colorectal\JA
+170	TOK	cancer		cancer\N5S
+171	TOK	has		have\V6FDRS3
+172	TOK	not		not\DGA7
+173	TOK	yet		yet\DGA7
+174	TOK	been		be\VMC----
+175	TOK	proven		prove\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+176	TOK	Irinotecan	BOS	Irinotecan\N46
+##	TAG	</name>
+177	TOK	is		be\V6FDRS3
+178	TOK	a		a\AI---S
+179	TOK	topoisomerase		topoisomerase\N5S
+180	TOK	I		i\N5S
+181	TOK	inhibitor		inhibitor\N5S
+182	TOK	that		that\RW63N6
+183	TOK	blocks		block\VMFDRS3
+184	TOK	the		the\AT---6
+##	TAG	<name>
+185	TOK	DNA		DNA\N46
+##	TAG	</name>
+186	TOK	replication		replication\N5S
+187	TOK	step		step\N5S
+188	TOK	of		of\P
+189	TOK	the		the\AT---6
+190	TOK	enzyme		enzyme\N5S
+---	DLD	,		=\DELIM
+191	TOK	leading		leading\JA
+192	TOK	to		to\P
+193	TOK	multiple		multiple\JA
+194	TOK	single		single\JA
+---	DLI	-		=\DELIM
+195	TOK	strand		strand\N5S
+##	TAG	<name>
+196	TOK	DNA		DNA\N46
+##	TAG	</name>
+197	TOK	breaks		break\VMFDRS3
+---	DLD	,		=\DELIM
+198	TOK	which		which\RW63N-
+199	TOK	eventually		eventually\DGA7
+200	TOK	blocks		block\VMFDRS3
+201	TOK	cell		cell\N5S
+202	TOK	division		division\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+203	TOK	In	BOS	in\P
+204	TOK	phase		phase\N5S
+##	TAG	<num>
+205	TOK	II		II\X
+##	TAG	</num>
+206	TOK	studies		study\N5P
+---	DLD	,		=\DELIM
+207	TOK	irinotecan		irinotecan\N5S
+208	TOK	has		have\V6FDRS3
+209	TOK	objective		objective\JA
+210	TOK	antitumour		antitumour\JA
+211	TOK	activity		activity\N5S
+212	TOK	in		in\P
+213	TOK	patients		patient\N5P
+214	TOK	with		with\P
+215	TOK	metastatic		metastatic\JA
+216	TOK	colorectal		colorectal\JA
+217	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+218	TOK	even		even\DGA7
+219	TOK	in		in\P
+220	TOK	those		that\RDP3N-
+221	TOK	with		with\P
+222	TOK	documented		document\VMC----
+223	TOK	fluorouracil		fluorouracil\N5S
+---	DLI	-		=\DELIM
+224	TOK	resistant		resistant\JA
+225	TOK	tumours		tumour\N5P
+---	DLD	,		=\DELIM
+226	TOK	with		with\P
+227	TOK	response		response\N5S
+228	TOK	rates		rate\N5P
+229	TOK	of		of\P
+##	TAG	<num>
+230	TOK	11-23		11-23\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+231	TOK	An	BOS	an\AI---S
+232	TOK	additional		additional\JA
+##	TAG	<na type="function">
+233	TOK	40% of		noanat\W
+##	TAG	</na>
+234	TOK	patients		patient\N5P
+235	TOK	experienced		experience\VMF6A66
+236	TOK	tumour		tumour\N5S
+237	TOK	stabilisation		stabilisation\N5S
+238	TOK	for		for\P
+239	TOK	a		a\AI---S
+240	TOK	median		median\N5S
+241	TOK	of		of\P
+##	TAG	<num>
+242	TOK	5		5\X
+##	TAG	</num>
+243	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+244	TOK	Common	BOS	common\JA
+245	TOK	side		side\N5S
+246	TOK	effects		effect\N5P
+247	TOK	included		include\VMC----
+248	TOK	delayed		delay\VMC----
+249	TOK	diarrhoea		diarrhoea\N5S
+---	DLD	,		=\DELIM
+250	TOK	neutropenia		neutropenia\N5S
+---	DLD	,		=\DELIM
+251	TOK	early		early\JA
+252	TOK	cholinergic		cholinergic\JA
+253	TOK	syndrome		syndrome\N5S
+---	DLD	,		=\DELIM
+254	TOK	nausea		nausea\N5S
+255	TOK	and		and\CC
+256	TOK	vomiting		vomit\VMG----
+---	DLD	,		=\DELIM
+257	TOK	alopecia		alopecia\N5S
+---	DLD	,		=\DELIM
+258	TOK	and		and\CC
+259	TOK	asthenia		asthenia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+260	TOK	The	BOS	the\AT---6
+261	TOK	dose		dose\N5S
+262	TOK	limiting		limit\VMG----
+263	TOK	toxic		toxic\JA
+264	TOK	effects		effect\N5P
+265	TOK	were		be\V6F-A66
+266	TOK	severe		severe\JA
+267	TOK	diarrhoea		diarrhoea\N5S
+268	TOK	and		and\CC
+269	TOK	neutropenia		neutropenia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+270	TOK	The	BOS	the\AT---6
+271	TOK	trial		trial\N5S
+272	TOK	we		we\RPP1NN
+273	TOK	report		report\N5S
+274	TOK	was		be\V6F-A66
+275	TOK	started		start\VMC----
+276	TOK	in		in\P
+##	TAG	<num>
+277	TOK	1995		1995\X
+##	TAG	</num>
+278	TOK	to		to\P
+279	TOK	compare		compare\VMI----
+280	TOK	irinotecan		irinotecan\N5S
+281	TOK	with		with\P
+282	TOK	supportive		supportive\JA
+283	TOK	care		care\N5S
+284	TOK	alone		alone\DGA7
+285	TOK	for		for\P
+286	TOK	survival		survival\N5S
+---	DLD	,		=\DELIM
+287	TOK	quality		quality\N5S
+288	TOK	of		of\P
+289	TOK	life		life\N5S
+---	DLD	,		=\DELIM
+290	TOK	and		and\CC
+291	TOK	other		other\JA
+292	TOK	clinical		clinical\JA
+293	TOK	variables		variable\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+294	TOK	The	BOS	the\AT---6
+295	TOK	participants		participant\N5P
+296	TOK	were		be\V6F-A66
+297	TOK	patients		patient\N5P
+298	TOK	with		with\P
+299	TOK	metastatic		metastatic\JA
+300	TOK	colorectal		colorectal\JA
+301	TOK	cancer		cancer\N5S
+302	TOK	in		in\P
+303	TOK	whom		whom\RW63NA
+304	TOK	fluorouracil		fluorouracil\N5S
+305	TOK	chemotherapy		chemotherapy\N5S
+306	TOK	had		have\V6F6A66
+307	TOK	failed		fail\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+308	TOK	Methods	BOS	method\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<head>
+310	TOK	Endpoints	BOS	endpoint\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+312	TOK	Overall	BOS	overall\JA
+313	TOK	survival		survival\N5S
+314	TOK	was		be\V6F-A66
+315	TOK	the		the\AT---6
+316	TOK	primary		primary\JA
+317	TOK	endpoint		endpoint\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+318	TOK	The	BOS	the\AT---6
+319	TOK	secondary		secondary\JA
+320	TOK	objectives		objective\N5P
+321	TOK	were		be\V6F-A66
+322	TOK	the		the\AT---6
+323	TOK	impact		impact\N5S
+324	TOK	of		of\P
+325	TOK	treatment		treatment\N5S
+326	TOK	on		on\P
+327	TOK	performance		performance\N5S
+328	TOK	status		status\N5S
+---	DLD	,		=\DELIM
+329	TOK	bodyweight		bodyweight\N5P
+---	DLD	,		=\DELIM
+330	TOK	tumour		tumour\N5S
+---	DLI	-		=\DELIM
+331	TOK	related		relate\VMC----
+332	TOK	symptoms		symptom\N5P
+---	DLD	,		=\DELIM
+333	TOK	and		and\CC
+334	TOK	quality		quality\N5S
+335	TOK	of		of\P
+336	TOK	life		life\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+337	TOK	Patients	BOS	patient\N5P
+---	DLD	'		=\DELIM
+338	TOK	selection	EOS	selection\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+339	TOK	To	BOS	to\P
+340	TOK	be		be\VMI----
+341	TOK	eligible		eligible\JA
+342	TOK	for		for\P
+343	TOK	randomisation		randomisation\N5P
+---	DLD	,		=\DELIM
+344	TOK	patients		patient\N5P
+345	TOK	had		have\V6F6A66
+346	TOK	to		to\P
+347	TOK	meet		meet\VMI----
+348	TOK	the		the\AT---6
+349	TOK	following		following\JA
+350	TOK	criteria		criterion\N5P
+---	DLD	:		=\DELIM
+351	TOK	histologically		histologically\DGA7
+352	TOK	proven		prove\VMC----
+353	TOK	metastatic		metastatic\JA
+354	TOK	colorectal		colorectal\JA
+355	TOK	cancer		cancer\N5S
+---	DLD	;		=\DELIM
+356	TOK	progressive		progressive\JA
+357	TOK	metastatic		metastatic\JA
+358	TOK	disease		disease\N5S
+359	TOK	documented		document\VMC----
+360	TOK	on		on\P
+361	TOK	the		the\AT---6
+362	TOK	basis		basis\N5S
+363	TOK	of		of\P
+364	TOK	either		either\RIP3N-
+365	TOK	a		a\AI---S
+##	TAG	<num>
+366	TOK	25		25\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+367	TOK	increase		increase\N5S
+368	TOK	in		in\P
+369	TOK	the		the\AT---6
+370	TOK	size		size\N5S
+371	TOK	of		of\P
+372	TOK	target		target\N5S
+373	TOK	lesions		lesion\N5P
+374	TOK	or		or\CC
+375	TOK	an		an\AI---S
+376	TOK	increase		increase\N5S
+377	TOK	in		in\P
+378	TOK	carcinoembryonic		carcinoembryonic\JA
+379	TOK	antigen		antigen\N5S
+380	TOK	by		by\P
+##	TAG	<na type="function">
+381	TOK	1·25		noanat\W
+##	TAG	</na>
+382	TOK	times		time\N5P
+383	TOK	an		an\AI---S
+384	TOK	initial		initial\JA
+385	TOK	reference		reference\N5S
+386	TOK	value		value\N5S
+387	TOK	and		and\CC
+388	TOK	a		a\AI---S
+389	TOK	baseline		baseline\N5S
+390	TOK	value		value\N5S
+391	TOK	of		of\P
+392	TOK	more		more\DDC7
+393	TOK	than		than\CS
+394	TOK	10ugl/L		10ugl/L\N5P
+---	DLE	,		=\DELIM
+395	TOK	which		which\RW63N-
+396	TOK	allowed		allow\VMF6A66
+397	TOK	inclusion		inclusion\N5S
+398	TOK	of		of\P
+399	TOK	patients		patient\N5P
+400	TOK	with		with\P
+401	TOK	non		non\N5P
+---	DLI	-		=\DELIM
+402	TOK	measurable		measurable\JA
+403	TOK	disease		disease\N5S
+---	DLE	(		=\DELIM
+404	TOK	peritoneal		peritoneal\JA
+405	TOK	carcinomatosis		carcinomatosis\N5S
+406	TOK	and		and\CC
+407	TOK	pelvic		pelvic\JA
+408	TOK	recurrences		recurrence\N5P
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+409	TOK	progression		progression\N5S
+410	TOK	documented		document\VMC----
+411	TOK	by		by\P
+##	TAG	<num>
+412	TOK	two		two\X
+##	TAG	</num>
+413	TOK	measurements		measurement\N5P
+414	TOK	not		not\DGA7
+415	TOK	separated		separate\VMC----
+416	TOK	by		by\P
+417	TOK	more		more\DDC7
+418	TOK	than		than\CS
+##	TAG	<num>
+419	TOK	6		6\X
+##	TAG	</num>
+420	TOK	months		month\N5P
+421	TOK	and		and\CC
+422	TOK	tumour		tumour\N5S
+423	TOK	progression		progression\N5S
+424	TOK	while		while\CS
+425	TOK	on		on\P
+426	TOK	fluorouracil		fluorouracil\N5S
+427	TOK	or		or\CC
+428	TOK	within		within\P
+##	TAG	<num>
+429	TOK	6		6\X
+##	TAG	</num>
+430	TOK	months		month\N5P
+431	TOK	of		of\P
+432	TOK	the		the\AT---6
+433	TOK	last		last\JA
+434	TOK	fluorouracil		fluorouracil\N5S
+435	TOK	infusion		infusion\N5S
+---	DLD	;		=\DELIM
+436	TOK	having		have\VMG----
+437	TOK	had		have\VMC----
+438	TOK	one		one\MCS
+439	TOK	adjuvant		adjuvant\N5S
+440	TOK	and/or		and/or\N5S
+##	TAG	<loc pos="DGA7">
+441	TOK	no more		no_more\DGA7
+##	TAG	</loc>
+442	TOK	than		than\CS
+##	TAG	<num>
+443	TOK	two		two\X
+##	TAG	</num>
+444	TOK	palliative		palliative\JA
+445	TOK	fluorouracil		fluorouracil\N5S
+---	DLI	-		=\DELIM
+446	TOK	based		base\VMC----
+447	TOK	regimens		regimen\N5P
+---	DLD	;		=\DELIM
+448	TOK	age		age\N5S
+##	TAG	<na type="function">
+449	TOK	18-75		noanat\W
+##	TAG	</na>
+450	TOK	years		year\N5P
+---	DLD	;		=\DELIM
+##	TAG	<name>
+451	TOK	WHO		WHO\N46
+##	TAG	</name>
+452	TOK	performance		performance\N5S
+453	TOK	status		status\N5S
+##	TAG	<na type="function">
+454	TOK	0-2		noanat\W
+##	TAG	</na>
+---	DLD	;		=\DELIM
+455	TOK	neutrophils		neutrophil\N5P
+456	TOK	2x10		2x10\N5P
+##	TAG	<na type="function">
+457	TOK	9/L		noanat\W
+##	TAG	</na>
+458	TOK	or		or\CC
+459	TOK	more		more\DDC7
+---	DLD	;		=\DELIM
+460	TOK	platelets		platelet\N5P
+461	TOK	100x10		100x10\N5P
+##	TAG	<na type="function">
+462	TOK	9/L		noanat\W
+##	TAG	</na>
+463	TOK	or		or\CC
+464	TOK	more		more\DDC7
+---	DLD	;		=\DELIM
+465	TOK	total		total\JA
+466	TOK	bilirubin		bilirubin\N5S
+##	TAG	<na type="function">
+467	TOK	1·25X		noanat\W
+##	TAG	</na>
+468	TOK	the		the\AT---6
+469	TOK	institutional		institutional\JA
+470	TOK	upper		upper\JA
+471	TOK	normal		normal\JA
+472	TOK	limit		limit\VMF6R66
+---	DLE	(		=\DELIM
+##	TAG	<name>
+473	TOK	IUNL		IUNL\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+474	TOK	or		or\CC
+475	TOK	less		less\DDC7
+---	DLD	;		=\DELIM
+476	TOK	liver		liver\N5S
+477	TOK	transaminases		transaminase\N5P
+478	TOK	3xIUNL		3xIUNL\N5P
+---	DLE	(		=\DELIM
+479	TOK	in		in\P
+480	TOK	case		case\N5S
+481	TOK	of		of\P
+482	TOK	liver		liver\N5S
+483	TOK	metastases		metastasis\N5P
+---	DLD	:		=\DELIM
+484	TOK	bilirubin		bilirubin\N5S
+485	TOK	xxx		noanat\W
+486	TOK	and		and\CC
+487	TOK	transaminases		transaminase\N5P
+488	TOK	5xIUNL		5xIUNL\N5P
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+489	TOK	or		or\CC
+490	TOK	more		more\DDC7
+---	DLD	;		=\DELIM
+491	TOK	serum		serum\N5S
+492	TOK	creatinine		creatinine\N5S
+##	TAG	<num>
+493	TOK	135		135\X
+##	TAG	</num>
+494	TOK	&		&\CC
+495	TOK	mgr;mol/L		mgr;mol/L\N5S
+496	TOK	or		or\CC
+497	TOK	less		less\N56
+---	DLD	;		=\DELIM
+498	TOK	wash		wash\N5S
+---	DLI	-		=\DELIM
+499	TOK	out		out\DGA7
+500	TOK	of		of\P
+##	TAG	<num>
+501	TOK	4		4\X
+##	TAG	</num>
+502	TOK	weeks		week\N5P
+503	TOK	for		for\P
+504	TOK	radiotherapy		radiotherapy\N5S
+505	TOK	or		or\CC
+506	TOK	chemotherapy		chemotherapy\N5S
+---	DLD	;		=\DELIM
+507	TOK	and		and\CC
+508	TOK	written		write\VMC----
+509	TOK	informed		inform\VMC----
+510	TOK	consent		consent\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+511	TOK	Patients	BOS	patient\N5P
+512	TOK	with		with\P
+513	TOK	the		the\AT---6
+514	TOK	following		following\JA
+515	TOK	criteria		criterion\N5P
+516	TOK	were		be\V6F-A66
+517	TOK	not		not\DGA7
+518	TOK	eligible		eligible\JA
+---	DLD	:		=\DELIM
+519	TOK	previous		previous\JA
+520	TOK	treatment		treatment\N5S
+521	TOK	with		with\P
+522	TOK	topoisomerase		topoisomerase\N5S
+523	TOK	I		i\N5S
+524	TOK	inhibitors		inhibitor\N5P
+---	DLD	,		=\DELIM
+525	TOK	bulky		bulky\JA
+526	TOK	disease		disease\N5S
+---	DLE	(		=\DELIM
+527	TOK	involving		involve\VMG----
+528	TOK	more		more\DDC7
+529	TOK	than		than\CS
+##	TAG	<na type="function">
+530	TOK	50% of		noanat\W
+##	TAG	</na>
+531	TOK	the		the\AT---6
+532	TOK	liver		liver\N5S
+533	TOK	volume		volume\N5S
+534	TOK	or		or\CC
+##	TAG	<na type="function">
+535	TOK	25% of		noanat\W
+##	TAG	</na>
+536	TOK	the		the\AT---6
+537	TOK	lung		lung\N5S
+538	TOK	volume		volume\N5S
+---	DLD	,		=\DELIM
+539	TOK	or		or\CC
+540	TOK	abdominal		abdominal\JA
+541	TOK	mass		mass\N5S
+##	TAG	<num>
+542	TOK	>10		>10\X
+##	TAG	</num>
+543	TOK	cm		cm\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+544	TOK	metastases		metastasis\N5P
+545	TOK	in		in\P
+546	TOK	the		the\AT---6
+547	TOK	central		central\JA
+548	TOK	nervous		nervous\JA
+549	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+550	TOK	or		or\CC
+551	TOK	unresolved		unresolved\JA
+552	TOK	bowel		bowel\N5S
+553	TOK	obstruction		obstruction\N5S
+554	TOK	or		or\CC
+555	TOK	diarrhoea		diarrhoea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+556	TOK	Randomisation	BOS	Randomisation\N46
+##	TAG	</name>
+557	TOK	and		and\CC
+558	TOK	study		study\N5S
+559	TOK	treatments	EOS	treatment\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+561	TOK	Registration	BOS	registration\N5S
+562	TOK	forms		form\N5P
+563	TOK	were		be\V6F-A66
+564	TOK	sent		send\VMC----
+565	TOK	to		to\P
+##	TAG	<name>
+566	TOK	Rhône-Poulenc Rorer Research		Rhône-Poulenc_Rorer_Research\N46
+##	TAG	</name>
+567	TOK	and		and\CC
+##	TAG	<name>
+568	TOK	Development		Development\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+569	TOK	Antony		Antony\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+570	TOK	France		France\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+571	TOK	where		where\CS
+572	TOK	eligibility		eligibility\N5S
+573	TOK	criteria		criterion\N5P
+574	TOK	were		be\V6F-A66
+575	TOK	electronically		electronically\DGA7
+576	TOK	checked		check\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+577	TOK	If	BOS	if\CS
+578	TOK	all		all\AG---6
+579	TOK	criteria		criterion\N5P
+580	TOK	were		be\V6F-A66
+581	TOK	fulfilled		fulfill\VMC----
+---	DLD	,		=\DELIM
+582	TOK	the		the\AT---6
+583	TOK	randomisation		randomisation\N5S
+584	TOK	was		be\V6F-A66
+585	TOK	done		do\VMC----
+586	TOK	electronically		electronically\DGA7
+587	TOK	in		in\P
+588	TOK	the		the\AT---6
+589	TOK	ratio		ratio\N5S
+590	TOK	of		of\P
+591	TOK	irinotecan		irinotecan\N5S
+592	TOK	to		to\P
+593	TOK	supportive		supportive\JA
+594	TOK	care		care\N5S
+##	TAG	<num>
+595	TOK	2:1		2:1\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+596	TOK	with		with\P
+597	TOK	stratification		stratification\N5S
+598	TOK	by		by\P
+599	TOK	centre		centre\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+600	TOK	In	BOS	in\P
+601	TOK	the		the\AT---6
+602	TOK	irinotecan		irinotecan\JA
+603	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+604	TOK	patients		patient\N5P
+605	TOK	were		be\V6F-A66
+606	TOK	given		give\VMC----
+607	TOK	best		good\DDS7
+608	TOK	supportive		supportive\JA
+609	TOK	care		care\N5S
+610	TOK	and		and\CC
+611	TOK	irinotecan		irinotecan\JA
+##	TAG	<num>
+612	TOK	350		350\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+613	TOK	mg/m2		mg/m2\N56
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+614	TOK	diluted		dilute\VMC----
+615	TOK	in		in\P
+##	TAG	<num>
+616	TOK	250		250\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+617	TOK	mL		mL\N56
+##	TAG	</loc>
+618	TOK	normal		normal\JA
+619	TOK	saline		saline\N5S
+620	TOK	or		or\CC
+621	TOK	dextrose		dextrose\N5S
+---	DLD	,		=\DELIM
+622	TOK	over		over\P
+623	TOK	a		a\AI---S
+##	TAG	<num>
+624	TOK	90		90\X
+##	TAG	</num>
+625	TOK	min		min\N5S
+626	TOK	intravenous		intravenous\JA
+627	TOK	infusion		infusion\N5S
+628	TOK	every		every\AG---S
+##	TAG	<num>
+629	TOK	3		3\X
+##	TAG	</num>
+630	TOK	weeks		week\N5P
+---	DLE	(		=\DELIM
+631	TOK	or		or\CC
+##	TAG	<num>
+632	TOK	300		300\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+633	TOK	mg/m2		mg/m2\N56
+##	TAG	</loc>
+634	TOK	if		if\CS
+635	TOK	aged		age\VMF6A66
+##	TAG	<num>
+636	TOK	>70		>70\X
+##	TAG	</num>
+637	TOK	years		year\N5P
+638	TOK	or		or\CC
+##	TAG	<name>
+639	TOK	WHO		WHO\N46
+##	TAG	</name>
+640	TOK	performance		performance\N5S
+641	TOK	status		status\N5S
+##	TAG	<num>
+642	TOK	2		2\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<loc pos="P">
+643	TOK	according to		according_to\P
+##	TAG	</loc>
+644	TOK	previously		previously\DGA7
+645	TOK	recognised		recognise\VMC----
+646	TOK	risk		risk\N5S
+647	TOK	factors		factor\N5P
+648	TOK	for		for\P
+649	TOK	developing		developing\JA
+650	TOK	toxicity		toxicity\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+651	TOK	Guidelines	BOS	guideline\N5P
+652	TOK	were		be\V6F-A66
+653	TOK	provided		provide\VMC----
+654	TOK	for		for\P
+655	TOK	the		the\AT---6
+656	TOK	management		management\N5S
+657	TOK	of		of\P
+658	TOK	side		side\N5S
+659	TOK	effects		effect\N5P
+---	DLE	(		=\DELIM
+660	TOK	panel		panel\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+661	TOK	Treatment	BOS	treatment\N5S
+662	TOK	was		be\V6F-A66
+663	TOK	to		to\P
+664	TOK	be		be\VMI----
+665	TOK	started		start\VMC----
+##	TAG	<loc pos="DGA7">
+666	TOK	no longer		no_longer\DGA7
+##	TAG	</loc>
+667	TOK	than		than\CS
+##	TAG	<num>
+668	TOK	8		8\X
+##	TAG	</num>
+669	TOK	days		day\N5P
+670	TOK	after		after\P
+671	TOK	randomisation		randomisation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+672	TOK	In	BOS	in\P
+673	TOK	the		the\AT---6
+674	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+675	TOK	care		care\N5S
+676	TOK	alone		alone\DGA7
+677	TOK	group		group\VMF6R66
+---	DLD	,		=\DELIM
+678	TOK	patients		patient\N5P
+679	TOK	were		be\V6F-A66
+680	TOK	given		give\VMC----
+681	TOK	best		good\DDS7
+682	TOK	supportive		supportive\JA
+683	TOK	care		care\N5S
+684	TOK	and		and\CC
+685	TOK	were		be\V6F-A66
+686	TOK	seen		see\VMC----
+687	TOK	every		every\AG---S
+##	TAG	<num>
+688	TOK	3		3\X
+##	TAG	</num>
+689	TOK	weeks		week\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+690	TOK	Supportive	BOS	supportive\JA
+691	TOK	care		care\N5S
+692	TOK	was		be\V6F-A66
+693	TOK	defined		define\VMC----
+694	TOK	as		as\P
+695	TOK	the		the\AT---6
+696	TOK	best		good\JS
+697	TOK	care		care\N5S
+698	TOK	available		available\JA
+699	TOK	as		as\CS
+700	TOK	judged		judge\VMC----
+701	TOK	by		by\P
+702	TOK	the		the\AT---6
+703	TOK	attending		attend\VMG----
+704	TOK	physician		physician\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="P">
+705	TOK	according to		according_to\P
+##	TAG	</loc>
+706	TOK	institutional		institutional\JA
+707	TOK	standards		standard\N5P
+708	TOK	for		for\P
+709	TOK	each		each\AG---S
+710	TOK	centre		centre\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+711	TOK	Supportive	BOS	supportive\JA
+712	TOK	care		care\N5S
+713	TOK	included		include\VMF6A66
+714	TOK	antibiotics		antibiotic\N5P
+---	DLD	,		=\DELIM
+715	TOK	analgesics		analgesic\N5P
+---	DLD	,		=\DELIM
+716	TOK	transfusions		transfusion\N5P
+---	DLD	,		=\DELIM
+717	TOK	corticosteroids		corticosteroid\N5P
+---	DLD	,		=\DELIM
+718	TOK	or		or\CC
+719	TOK	any		any\AG---6
+720	TOK	other		other\JA
+721	TOK	symptomatic		symptomatic\JA
+722	TOK	therapy		therapy\N5S
+---	DLE	(		=\DELIM
+723	TOK	except		except\P
+724	TOK	irinotecan		irinotecan\JA
+725	TOK	or		or\CC
+726	TOK	other		other\JA
+727	TOK	topoisomerase		topoisomerase\N5S
+728	TOK	I		i\N5S
+729	TOK	inhibitor		inhibitor\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+730	TOK	and/or		and/or\N5S
+731	TOK	assistance		assistance\N5S
+732	TOK	of		of\P
+733	TOK	a		a\AI---S
+734	TOK	psychotherapist		psychotherapist\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+735	TOK	Localised	BOS	localise\VMC----
+736	TOK	radiation		radiation\N5S
+737	TOK	therapy		therapy\N5S
+738	TOK	to		to\P
+739	TOK	alleviate		alleviate\VMI----
+740	TOK	symptoms		symptom\N5P
+741	TOK	such		such\RIS3N-
+742	TOK	as		as\P
+743	TOK	pain		pain\N5S
+744	TOK	was		be\V6F-A66
+745	TOK	allowed		allow\VMC----
+746	TOK	provided		provide\VMC----
+747	TOK	that		that\CS
+748	TOK	the		the\AT---6
+749	TOK	total		total\JA
+750	TOK	dose		dose\N5S
+751	TOK	delivered		deliver\VMC----
+752	TOK	was		be\V6F-A66
+753	TOK	in		in\P
+754	TOK	the		the\AT---6
+755	TOK	palliative		palliative\JA
+756	TOK	range		range\N5S
+##	TAG	<loc pos="P">
+757	TOK	according to		according_to\P
+##	TAG	</loc>
+758	TOK	institutional		institutional\JA
+759	TOK	standards		standard\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+760	TOK	Analysis	BOS	analysis\N5S
+761	TOK	of		of\P
+762	TOK	best		good\JS
+763	TOK	supportive		supportive\JA
+764	TOK	care	EOS	care\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+766	TOK	Supportive	BOS	supportive\JA
+767	TOK	care		care\N5S
+768	TOK	and		and\CC
+769	TOK	concomitant		concomitant\JA
+770	TOK	medications		medication\N5P
+771	TOK	were		be\V6F-A66
+772	TOK	reported		report\VMC----
+773	TOK	at		at\P
+774	TOK	each		each\AG---S
+775	TOK	visit		visit\VMF6R66
+---	DLE	(		=\DELIM
+776	TOK	every		every\AG---S
+##	TAG	<num>
+777	TOK	3		3\X
+##	TAG	</num>
+778	TOK	weeks		week\N5P
+779	TOK	in		in\P
+780	TOK	both		both\RIP3N-
+781	TOK	groups		group\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+782	TOK	They	BOS	they\RPP3NN
+783	TOK	were		be\V6F-A66
+784	TOK	classified		classify\VMC----
+785	TOK	with		with\P
+786	TOK	the		the\AT---6
+##	TAG	<name>
+787	TOK	WHO		WHO\N46
+##	TAG	</name>
+788	TOK	dictionary		dictionary\N5S
+---	DLD	;		=\DELIM
+789	TOK	further		further\JA
+790	TOK	subclassification		subclassification\N5S
+791	TOK	was		be\V6F-A66
+792	TOK	done		do\VMC----
+793	TOK	with		with\P
+794	TOK	the		the\AT---6
+##	TAG	<name>
+795	TOK	WHO		WHO\N46
+##	TAG	</name>
+796	TOK	code		code\N5S
+797	TOK	for		for\P
+798	TOK	anatomical		anatomical\JA
+799	TOK	therapeutic		therapeutic\JA
+800	TOK	class		class\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+801	TOK	ATC		ATC\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+802	TOK	With	BOS	with\P
+803	TOK	these		this\AD---P
+804	TOK	classifications		classification\N5P
+---	DLD	,		=\DELIM
+805	TOK	analgesics		analgesic\N5P
+806	TOK	were		be\V6F-A66
+807	TOK	divided		divide\VMC----
+808	TOK	into		into\P
+809	TOK	opioids		opioid\N5P
+810	TOK	or		or\CC
+811	TOK	non		non\N5P
+---	DLD	-		=\DELIM
+812	TOK	opioids		opioid\N5P
+813	TOK	and		and\CC
+814	TOK	analysed		analyse\VMC----
+815	TOK	in		in\P
+##	TAG	<num>
+816	TOK	3		3\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+817	TOK	week		week\N5S
+818	TOK	blocks		block\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+819	TOK	Follow	BOS	follow\VMF6R66
+---	DLI	-		=\DELIM
+820	TOK	up	EOS	up\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+822	TOK	Patients	BOS	patient\N5P
+823	TOK	visited		visit\VMF6A66
+824	TOK	the		the\AT---6
+825	TOK	investigator		investigator\N5S
+826	TOK	for		for\P
+827	TOK	assessment		assessment\N5S
+828	TOK	and		and\CC
+829	TOK	treatment		treatment\N5S
+830	TOK	every		every\AG---S
+##	TAG	<num>
+831	TOK	3		3\X
+##	TAG	</num>
+832	TOK	weeks		week\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+833	TOK	All	BOS	all\AG---6
+834	TOK	adverse		adverse\JA
+835	TOK	events		event\N5P
+836	TOK	were		be\V6F-A66
+837	TOK	reported		report\VMC----
+##	TAG	<loc pos="P">
+838	TOK	according to		according_to\P
+##	TAG	</loc>
+839	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+840	TOK	National Cancer Institute		National_Cancer_Institute\N46
+##	TAG	</name>
+841	PGR	's		genmark\GENMARK
+842	TOK	common		common\JA
+843	TOK	toxicity		toxicity\N5S
+844	TOK	criteria		criterion\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+845	TOK	After	BOS	after\P
+846	TOK	discontinuation		discontinuation\N5S
+847	TOK	of		of\P
+848	TOK	treatment		treatment\N5S
+849	TOK	in		in\P
+850	TOK	the		the\AT---6
+851	TOK	irinotecan		irinotecan\JA
+852	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+853	TOK	patients		patient\N5P
+854	TOK	were		be\V6F-A66
+855	TOK	regularly		regularly\DGA7
+856	TOK	assessed		assess\VMC----
+857	TOK	as		as\DGA7
+858	TOK	in		in\P
+859	TOK	the		the\AT---6
+860	TOK	supportive		supportive\JA
+861	TOK	care		care\N5S
+862	TOK	group		group\VMF6R66
+---	DLE	(		=\DELIM
+863	TOK	tumour		tumour\N5S
+864	TOK	status		status\N5S
+---	DLD	,		=\DELIM
+865	TOK	symptoms		symptom\N5P
+---	DLD	,		=\DELIM
+866	TOK	or		or\CC
+867	TOK	side		side\N5S
+---	DLI	-		=\DELIM
+868	TOK	effects		effect\N5P
+---	DLD	,		=\DELIM
+869	TOK	every		every\AG---S
+##	TAG	<num>
+870	TOK	3		3\X
+##	TAG	</num>
+871	TOK	weeks		week\N5P
+---	DLD	)		=\DELIM
+872	TOK	until		until\P
+873	TOK	death		death\N5S
+874	TOK	or		or\CC
+875	TOK	for		for\P
+##	TAG	<loc pos="DGA7">
+876	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+877	TOK	a		a\AI---S
+878	TOK	year		year\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+879	TOK	Beyond	BOS	beyond\P
+##	TAG	<num>
+880	TOK	1		1\X
+##	TAG	</num>
+881	TOK	year		year\N5S
+---	DLD	,		=\DELIM
+882	TOK	only		only\JA
+883	TOK	date		date\N5S
+884	TOK	of		of\P
+885	TOK	death		death\N5S
+886	TOK	was		be\V6F-A66
+887	TOK	traced		trace\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+888	TOK	Quality	BOS	quality\N5S
+889	TOK	of		of\P
+890	TOK	life	EOS	life\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+892	TOK	Quality	BOS	quality\N5S
+893	TOK	of		of\P
+894	TOK	life		life\N5S
+895	TOK	was		be\V6F-A66
+896	TOK	assessed		assess\VMC----
+897	TOK	with		with\P
+898	TOK	the		the\AT---6
+##	TAG	<name>
+899	TOK	European Organization for Research		European_Organization_for_Research\N46
+##	TAG	</name>
+900	TOK	and		and\CC
+##	TAG	<name>
+901	TOK	Treatment of Cancer		Treatment_of_Cancer\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+902	TOK	EORTC		EORTC\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+##	TAG	<name>
+903	TOK	QLQ-C30		QLQ-C30\N46
+##	TAG	</name>
+904	TOK	questionnaire		questionnaire\N5S
+---	DLE	(		=\DELIM
+905	TOK	including		including\P
+##	TAG	<num>
+906	TOK	five		five\X
+##	TAG	</num>
+907	TOK	function		function\N5S
+908	TOK	scales		scale\N5P
+---	DLD	,		=\DELIM
+909	TOK	one		one\RIS3N-
+910	TOK	global		global\JA
+911	TOK	health		health\N5S
+912	TOK	status		status\N5S
+913	TOK	scale		scale\N5S
+---	DLD	,		=\DELIM
+914	TOK	and		and\CC
+##	TAG	<num>
+915	TOK	nine		nine\X
+##	TAG	</num>
+916	TOK	symptom		symptom\N5S
+917	TOK	scales		scale\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+918	TOK	which		which\RW63N-
+919	TOK	was		be\V6F-A66
+920	TOK	filled		fill\VMC----
+921	TOK	in		in\P
+922	TOK	at		at\P
+923	TOK	baseline		baseline\N5S
+---	DLD	,		=\DELIM
+924	TOK	at		at\P
+##	TAG	<num>
+925	TOK	3		3\X
+##	TAG	</num>
+926	TOK	weeks		week\N5P
+---	DLD	,		=\DELIM
+##	TAG	<num>
+927	TOK	6		6\X
+##	TAG	</num>
+928	TOK	weeks		week\N5P
+---	DLD	,		=\DELIM
+929	TOK	and		and\CC
+930	TOK	then		then\DGA7
+931	TOK	every		every\AG---S
+##	TAG	<num>
+932	TOK	6		6\X
+##	TAG	</num>
+933	TOK	weeks		week\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+934	TOK	After	BOS	after\P
+935	TOK	discontinuation		discontinuation\N5S
+936	TOK	of		of\P
+937	TOK	treatment		treatment\N5S
+938	TOK	in		in\P
+939	TOK	the		the\AT---6
+940	TOK	irinotecan		irinotecan\JA
+941	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+942	TOK	patients		patient\N5P
+943	TOK	continued		continue\VMC----
+944	TOK	to		to\P
+945	TOK	fill		fill\VMI----
+946	TOK	in		in\P
+##	TAG	<name>
+947	TOK	QLQ-C30		QLQ-C30\N46
+##	TAG	</name>
+948	TOK	questionnaires		questionnaire\N5P
+949	TOK	every		every\AG---S
+##	TAG	<num>
+950	TOK	6		6\X
+##	TAG	</num>
+951	TOK	weeks		week\N5P
+952	TOK	as		as\CS
+953	TOK	in		in\P
+954	TOK	the		the\AT---6
+955	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+956	TOK	care		care\N5S
+957	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+958	TOK	Statistical	BOS	statistical\JA
+959	TOK	analysis	EOS	analysis\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+961	TOK	Survival	BOS	survival\N5S
+962	TOK	curves		curve\N5P
+963	TOK	were		be\V6F-A66
+964	TOK	estimated		estimate\VMC----
+965	TOK	with		with\P
+966	TOK	the		the\AT---6
+##	TAG	<name>
+967	TOK	Kaplan-Meier		Kaplan-Meier\N46
+##	TAG	</name>
+968	TOK	method		method\N5S
+969	TOK	on		on\P
+970	TOK	the		the\AT---6
+971	TOK	randomised		randomised\JA
+972	TOK	population		population\N5S
+973	TOK	and		and\CC
+974	TOK	compared		compare\VMC----
+975	TOK	by		by\P
+976	TOK	a		a\AI---S
+977	TOK	two		two\MCP
+---	DLI	-		=\DELIM
+978	TOK	tailed		tail\VMC----
+979	TOK	logrank		logrank\N5S
+980	TOK	test		test\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+981	TOK	With	BOS	with\P
+##	TAG	<na type="equation">
+982	TOK	p=0·05		noanat\W
+##	TAG	</na>
+983	TOK	and		and\CC
+984	TOK	power		power\N5S
+985	TOK	of		of\P
+##	TAG	<na type="function">
+986	TOK	0·80		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+987	TOK	264		264\X
+##	TAG	</num>
+988	TOK	patients		patient\N5P
+989	TOK	were		be\V6F-A66
+990	TOK	required		require\VMC----
+---	DLE	(		=\DELIM
+##	TAG	<num>
+991	TOK	176		176\X
+##	TAG	</num>
+992	TOK	in		in\P
+993	TOK	the		the\AT---6
+994	TOK	irinotecan		irinotecan\JA
+995	TOK	group		group\N5S
+996	TOK	and		and\CC
+##	TAG	<num>
+997	TOK	88		88\X
+##	TAG	</num>
+998	TOK	in		in\P
+999	TOK	the		the\AT---6
+1000	TOK	supportive		supportive\JA
+1001	TOK	care		care\N5S
+1002	TOK	group		group\VMF6R66
+---	DLD	)		=\DELIM
+1003	TOK	to		to\P
+1004	TOK	show		show\VMI----
+1005	TOK	a		a\AI---S
+1006	TOK	significant		significant\JA
+1007	TOK	difference		difference\N5S
+1008	TOK	in		in\P
+##	TAG	<num>
+1009	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1010	TOK	year		year\N5S
+1011	TOK	survival		survival\N5S
+1012	TOK	from		from\P
+##	TAG	<num>
+1013	TOK	20		20\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLE	(		=\DELIM
+1014	TOK	supportive		supportive\JA
+1015	TOK	care		care\N5S
+---	DLD	)		=\DELIM
+1016	TOK	to		to\P
+##	TAG	<num>
+1017	TOK	35		35\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLE	(		=\DELIM
+1018	TOK	irinotecan		irinotecan\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1019	TOK	The	BOS	the\AT---6
+1020	TOK	randomisation		randomisation\N5S
+1021	TOK	was		be\V6F-A66
+1022	TOK	stratified		stratify\VMC----
+1023	TOK	by		by\P
+1024	TOK	centre		centre\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1025	TOK	A	BOS	a\AI---S
+1026	TOK	retrospective		retrospective\JA
+1027	TOK	stratification		stratification\N5S
+1028	TOK	was		be\V6F-A66
+1029	TOK	planned		plan\VMC----
+1030	TOK	to		to\P
+1031	TOK	take		take\VMI----
+1032	TOK	into		into\P
+1033	TOK	account		account\VMI----
+1034	TOK	the		the\AT---6
+1035	TOK	baseline		baseline\N5S
+1036	TOK	prognostic		prognostic\JA
+1037	TOK	factors		factor\N5P
+---	DLE	(		=\DELIM
+1038	TOK	sex		sex\N5S
+---	DLD	,		=\DELIM
+1039	TOK	age		age\N5S
+---	DLD	,		=\DELIM
+1040	TOK	performance		performance\N5S
+1041	TOK	status		status\N5S
+---	DLD	,		=\DELIM
+1042	TOK	weight		weight\N5S
+1043	TOK	loss		loss\N5S
+---	DLD	,		=\DELIM
+1044	TOK	presence		presence\N5S
+1045	TOK	of		of\P
+1046	TOK	liver		liver\N5S
+1047	TOK	metastases		metastasis\N5P
+---	DLD	,		=\DELIM
+1048	TOK	site		site\N5S
+1049	TOK	of		of\P
+1050	TOK	primary		primary\JA
+1051	TOK	tumour		tumour\N5S
+---	DLD	,		=\DELIM
+1052	TOK	number		number\N5S
+1053	TOK	of		of\P
+1054	TOK	metastatic		metastatic\JA
+1055	TOK	sites		site\N5P
+---	DLD	,		=\DELIM
+1056	TOK	response		response\N5S
+1057	TOK	to		to\P
+1058	TOK	and		and\CC
+1059	TOK	duration		duration\N5S
+1060	TOK	of		of\P
+1061	TOK	fluorouracil		fluorouracil\N5S
+1062	TOK	treatment		treatment\N5S
+##	TAG	<loc pos="DGA7">
+1063	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+1064	TOK	its		its\APS3N6
+1065	TOK	intent		intent\N5S
+---	DLE	[		=\DELIM
+1066	TOK	adjuvant		adjuvant\JA
+1067	TOK	or		or\CC
+1068	TOK	palliative		palliative\JA
+---	DLD	]		=\DELIM
+---	DLD	,		=\DELIM
+1069	TOK	haemoglobin		haemoglobin\N5S
+---	DLD	,		=\DELIM
+1070	TOK	white		white\JA
+1071	TOK	blood		blood\N5S
+1072	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+1073	TOK	platelets		platelet\N5P
+---	DLD	,		=\DELIM
+1074	TOK	lactate		lactate\N5S
+1075	TOK	dehydrogenase		dehydrogenase\N5S
+---	DLD	,		=\DELIM
+1076	TOK	transaminases		transaminase\N5P
+---	DLD	,		=\DELIM
+1077	TOK	alkaline		alkaline\JA
+1078	TOK	phosphatase		phosphatase\N5S
+---	DLD	,		=\DELIM
+1079	TOK	bilirubin		bilirubin\N5S
+---	DLD	,		=\DELIM
+1080	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+1081	TOK	and		and\CC
+1082	TOK	carcinoembryonic		carcinoembryonic\JA
+1083	TOK	antigen		antigen\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1084	TOK	The	BOS	the\AT---6
+1085	TOK	analysis		analysis\N5S
+1086	TOK	was		be\V6F-A66
+1087	TOK	by		by\P
+1088	TOK	intention		intention\N5S
+1089	TOK	to		to\P
+1090	TOK	treat		treat\VMI----
+1091	TOK	and		and\CC
+1092	TOK	patients		patient\N5P
+1093	TOK	were		be\V6F-A66
+1094	TOK	analysed		analyse\VMC----
+##	TAG	<loc pos="P">
+1095	TOK	according to		according_to\P
+##	TAG	</loc>
+1096	TOK	the		the\AT---6
+1097	TOK	arm		arm\N5S
+1098	TOK	to		to\P
+1099	TOK	which		which\RW63N-
+1100	TOK	they		they\RPP3NN
+1101	TOK	were		be\V6F-A66
+1102	TOK	assigned		assign\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1103	TOK	The	BOS	the\AT---6
+1104	TOK	association		association\N5S
+1105	TOK	of		of\P
+1106	TOK	prognostic		prognostic\JA
+1107	TOK	factors		factor\N5P
+1108	TOK	with		with\P
+1109	TOK	survival		survival\N5S
+1110	TOK	was		be\V6F-A66
+1111	TOK	estimated		estimate\VMC----
+1112	TOK	with		with\P
+##	TAG	<name>
+1113	TOK	Cox		Cox\N46
+##	TAG	</name>
+1114	PGR	's		genmark\GENMARK
+1115	TOK	proportional		proportional\JA
+1116	TOK	hazards		hazard\N5P
+1117	TOK	model		model\N5S
+1118	TOK	for		for\P
+1119	TOK	censored		censor\VMC----
+1120	TOK	survival		survival\N5S
+1121	TOK	data		data\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1122	TOK	Model	BOS	model\N5S
+1123	TOK	selection		selection\N5S
+1124	TOK	for		for\P
+1125	TOK	identifying		identify\VMG----
+1126	TOK	the		the\AT---6
+1127	TOK	variables		variable\N5P
+1128	TOK	having		have\VMG----
+1129	TOK	an		an\AI---S
+1130	TOK	effect		effect\N5S
+1131	TOK	on		on\P
+1132	TOK	survival		survival\N5S
+1133	TOK	was		be\V6F-A66
+1134	TOK	based		base\VMC----
+1135	TOK	on		on\P
+1136	TOK	a		a\AI---S
+1137	TOK	forward		forward\DGA7
+1138	TOK	stepwise		stepwise\JA
+1139	TOK	procedure		procedure\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1140	TOK	P	BOS	p\N5S
+1141	TOK	values		value\N5P
+1142	TOK	to		to\P
+1143	TOK	enter		enter\VMI----
+1144	TOK	and		and\CC
+1145	TOK	to		to\P
+1146	TOK	remove		remove\N5S
+1147	TOK	were		be\V6F-A66
+##	TAG	<na type="function">
+1148	TOK	0·05		noanat\W
+##	TAG	</na>
+1149	TOK	and		and\CC
+##	TAG	<na type="function">
+1150	TOK	0·06		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+1151	TOK	respectively		respectively\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1152	TOK	After	BOS	after\P
+1153	TOK	the		the\AT---6
+1154	TOK	prognostic		prognostic\JA
+1155	TOK	model		model\N5S
+1156	TOK	had		have\V6F6A66
+1157	TOK	been		be\VMC----
+1158	TOK	determined		determine\VMF6A66
+---	DLD	,		=\DELIM
+1159	TOK	the		the\AT---6
+1160	TOK	effect		effect\N5S
+1161	TOK	of		of\P
+1162	TOK	treatment		treatment\N5S
+1163	TOK	after		after\P
+1164	TOK	adjusting		adjust\VMG----
+1165	TOK	for		for\P
+1166	TOK	other		other\JA
+1167	TOK	prognostic		prognostic\JA
+1168	TOK	factors		factor\N5P
+1169	TOK	was		be\V6F-A66
+1170	TOK	estimated		estimate\VMC----
+1171	TOK	by		by\P
+1172	TOK	including		include\VMG----
+1173	TOK	it		it\RPS3N6
+1174	TOK	in		in\P
+1175	TOK	the		the\AT---6
+1176	TOK	model		model\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1177	TOK	Survival	BOS	survival\N5S
+1178	TOK	without		without\P
+1179	TOK	weight		weight\N5S
+1180	TOK	loss		loss\N5S
+1181	TOK	of		of\P
+1182	TOK	more		more\DDC7
+1183	TOK	than		than\CS
+##	TAG	<num>
+1184	TOK	5		5\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+1185	TOK	survival		survival\N5S
+1186	TOK	without		without\P
+1187	TOK	performance		performance\N5S
+---	DLI	-		=\DELIM
+1188	TOK	status		status\N5S
+1189	TOK	deterioration		deterioration\N5S
+---	DLD	,		=\DELIM
+1190	TOK	and		and\CC
+1191	TOK	pain		pain\N5S
+---	DLI	-		=\DELIM
+1192	TOK	free		free\JA
+1193	TOK	survival		survival\N5S
+1194	TOK	were		be\V6F-A66
+1195	TOK	estimated		estimate\VMC----
+1196	TOK	by		by\P
+1197	TOK	the		the\AT---6
+##	TAG	<name>
+1198	TOK	Kaplan-Meier		Kaplan-Meier\N46
+##	TAG	</name>
+1199	TOK	method		method\N5S
+1200	TOK	and		and\CC
+1201	TOK	compared		compare\VMC----
+1202	TOK	with		with\P
+1203	TOK	a		a\AI---S
+1204	TOK	two		two\MCP
+---	DLD	-		=\DELIM
+1205	TOK	tailed		tail\VMC----
+1206	TOK	logrank		logrank\N5S
+1207	TOK	test		test\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1208	TOK	Quality	BOS	quality\N5S
+---	DLI	-		=\DELIM
+1209	TOK	of		of\P
+---	DLI	-		=\DELIM
+1210	TOK	life		life\N5S
+1211	TOK	variables		variable\N5P
+1212	TOK	were		be\V6F-A66
+1213	TOK	compared		compare\VMC----
+1214	TOK	with		with\P
+1215	TOK	multivariate		multivariate\JA
+1216	TOK	and		and\CC
+1217	TOK	univariate		univariate\JA
+1218	TOK	analyses		analysis\N5P
+1219	TOK	of		of\P
+1220	TOK	variance		variance\N5S
+1221	TOK	on		on\P
+1222	TOK	values		value\N5P
+1223	TOK	at		at\P
+1224	TOK	baseline		baseline\N5S
+---	DLD	,		=\DELIM
+1225	TOK	during		during\P
+1226	TOK	study		study\VMI----
+---	DLD	,		=\DELIM
+1227	TOK	on		on\P
+1228	TOK	patients		patient\N5P
+---	DLD	'		=\DELIM
+1229	TOK	worst		bad\JS
+1230	TOK	score		score\N56
+1231	TOK	over		over\P
+1232	TOK	the		the\AT---6
+1233	TOK	trial		trial\N5S
+1234	TOK	period		period\N5S
+---	DLD	,		=\DELIM
+1235	TOK	and		and\CC
+1236	TOK	changes		change\N5P
+1237	TOK	from		from\P
+1238	TOK	baseline		baseline\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1239	TOK	Kaplan-Meier	BOS	Kaplan-Meier\N46
+##	TAG	</name>
+1240	TOK	estimates		estimate\N5P
+1241	TOK	and		and\CC
+1242	TOK	logrank		logrank\N5S
+1243	TOK	tests		test\N5P
+1244	TOK	were		be\V6F-A66
+1245	TOK	done		do\VMC----
+1246	TOK	on		on\P
+1247	TOK	time		time\N5S
+1248	TOK	to		to\P
+1249	TOK	definitive		definitive\JA
+1250	TOK	quality		quality\N5S
+---	DLI	-		=\DELIM
+1251	TOK	of		of\P
+---	DLI	-		=\DELIM
+1252	TOK	life		life\N5S
+1253	TOK	deterioration		deterioration\N5S
+---	DLD	,		=\DELIM
+1254	TOK	with		with\P
+##	TAG	<num>
+1255	TOK	eight		eight\X
+##	TAG	</num>
+1256	TOK	different		different\JA
+1257	TOK	thresholds		threshold\N5P
+1258	TOK	for		for\P
+1259	TOK	deterioration		deterioration\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1260	TOK	Results	BOS	result\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<head>
+1262	TOK	Patients	BOS	patient\N5P
+---	DLD	'		=\DELIM
+1263	TOK	data	EOS	data\N56
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+1264	TOK	189	BOS	189\X
+##	TAG	</num>
+1265	TOK	patients		patient\N5P
+1266	TOK	were		be\V6F-A66
+1267	TOK	randomly		randomly\DGA7
+1268	TOK	allocated		allocate\VMC----
+1269	TOK	irinotecan		irinotecan\JA
+1270	TOK	and		and\CC
+1271	TOK	supportive		supportive\JA
+1272	TOK	care		care\N5S
+1273	TOK	and		and\CC
+##	TAG	<num>
+1274	TOK	90		90\X
+##	TAG	</num>
+1275	TOK	patients		patient\N5P
+1276	TOK	were		be\V6F-A66
+1277	TOK	allocated		allocate\VMC----
+1278	TOK	supportive		supportive\JA
+1279	TOK	care		care\N5S
+1280	TOK	alone		alone\DGA7
+---	DLE	(		=\DELIM
+1281	TOK	figure		figure\N5S
+##	TAG	<num>
+1282	TOK	1		1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1284	TOK	The	BOS	the\AT---6
+1285	TOK	patients		patient\N5P
+---	DLD	'		=\DELIM
+1286	TOK	characteristics		characteristic\N5P
+1287	TOK	are		be\V6FDR66
+1288	TOK	shown		show\VMC----
+1289	TOK	in		in\P
+1290	TOK	table		table\VMI----
+##	TAG	<num>
+1291	TOK	1		1\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1292	TOK	These	BOS	this\AD---P
+1293	TOK	characteristics		characteristic\N5P
+1294	TOK	were		be\V6F-A66
+1295	TOK	similar		similar\JA
+1296	TOK	for		for\P
+1297	TOK	both		both\RIP3N-
+1298	TOK	groups		group\N5P
+##	TAG	<loc pos="P">
+1299	TOK	except for		except_for\P
+##	TAG	</loc>
+1300	TOK	performance		performance\N5S
+1301	TOK	status		status\N5S
+---	DLE	(		=\DELIM
+1302	TOK	more		many\JC
+1303	TOK	patients		patient\N5P
+1304	TOK	having		have\VMG----
+1305	TOK	poor		poor\JA
+1306	TOK	performance		performance\N5S
+1307	TOK	status		status\N5S
+1308	TOK	in		in\P
+1309	TOK	the		the\AT---6
+1310	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+1311	TOK	care		care\N5S
+1312	TOK	group		group\VMF6R66
+---	DLD	)		=\DELIM
+1313	TOK	and		and\CC
+1314	TOK	anaemia		anaemia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1315	TOK	Only	BOS	only\DGA7
+##	TAG	<num>
+1316	TOK	27		27\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1317	TOK	14		14\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1318	TOK	of		of\P
+1319	TOK	patients		patient\N5P
+1320	TOK	in		in\P
+1321	TOK	the		the\AT---6
+1322	TOK	irinotecan		irinotecan\JA
+1323	TOK	group		group\N5S
+1324	TOK	and		and\CC
+##	TAG	<num>
+1325	TOK	nine		nine\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1326	TOK	10		10\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1327	TOK	in		in\P
+1328	TOK	the		the\AT---6
+1329	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+1330	TOK	care		care\N5S
+1331	TOK	group		group\N5S
+1332	TOK	were		be\V6F-A66
+1333	TOK	assessed		assess\VMC----
+1334	TOK	by		by\P
+1335	TOK	carcinoembryonic		carcinoembryonic\JA
+1336	TOK	antigen		antigen\N5S
+1337	TOK	only		only\DGA7
+---	DLD	,		=\DELIM
+1338	TOK	with		with\P
+1339	TOK	mean		mean\JA
+1340	TOK	antigen		antigen\N5S
+1341	TOK	ratios		ratio\N5P
+##	TAG	<foreign lang="LA" pos="P">
+1342	TOK	versus		versus\P
+##	TAG	</foreign>
+1343	TOK	reference		reference\N5S
+1344	TOK	values		value\N5P
+1345	TOK	of		of\P
+##	TAG	<na type="function">
+1346	TOK	2·24		noanat\W
+##	TAG	</na>
+1347	TOK	and		and\CC
+##	TAG	<na type="function">
+1348	TOK	2·83		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+1349	TOK	respectively		respectively\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+1350	TOK	Six	BOS	Six\X
+##	TAG	</num>
+1351	TOK	patients		patient\N5P
+1352	TOK	in		in\P
+1353	TOK	the		the\AT---6
+1354	TOK	irinotecan		irinotecan\JA
+1355	TOK	group		group\N5S
+1356	TOK	did		do\V6FDA66
+1357	TOK	not		not\DGA7
+1358	TOK	receive		receive\VMI----
+1359	TOK	irinotecan		irinotecan\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1360	TOK	Irinotecan	BOS	Irinotecan\N46
+##	TAG	</name>
+1361	TOK	was		be\V6F-A66
+1362	TOK	given		give\VMC----
+1363	TOK	for		for\P
+1364	TOK	a		a\AI---S
+1365	TOK	median		median\N5S
+1366	TOK	of		of\P
+##	TAG	<na type="function">
+1367	TOK	4·1		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+1368	TOK	0·7-12·6		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1369	TOK	months		month\N5P
+1370	TOK	and		and\CC
+##	TAG	<num>
+1371	TOK	172		172\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1372	TOK	91		91\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1373	TOK	patients		patient\N5P
+1374	TOK	received		receive\VMF6A66
+1375	TOK	their		their\APP3N6
+1376	TOK	first		first\MOS
+1377	TOK	infusion		infusion\N5S
+1378	TOK	within		within\P
+##	TAG	<num>
+1379	TOK	8		8\X
+##	TAG	</num>
+1380	TOK	days		day\N5P
+1381	TOK	of		of\P
+1382	TOK	randomisation		randomisation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1383	TOK	40	BOS	40\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1384	TOK	21		21\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1385	TOK	patients		patient\N5P
+1386	TOK	in		in\P
+1387	TOK	the		the\AT---6
+1388	TOK	irinotecan		irinotecan\JA
+1389	TOK	group		group\N5S
+1390	TOK	received		receive\VMF6A66
+1391	TOK	subsequent		subsequent\JA
+1392	TOK	anticancer		anticancer\JA
+1393	TOK	chemotherapies		chemotherapy\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1394	TOK	31		31\X
+##	TAG	</num>
+1395	TOK	a		a\AI---S
+1396	TOK	fluorouracil		fluorouracil\N5S
+1397	TOK	regimen		regimen\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1398	TOK	nine		nine\X
+##	TAG	</num>
+1399	TOK	a		a\AI---S
+1400	TOK	drug		drug\N5S
+1401	TOK	other		other\JA
+1402	TOK	than		than\CS
+1403	TOK	irinotecan		irinotecan\JA
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1404	TOK	In	BOS	in\P
+1405	TOK	the		the\AT---6
+1406	TOK	supportive		supportive\JA
+1407	TOK	care		care\N5S
+1408	TOK	group		group\VMF6R66
+##	TAG	<num>
+1409	TOK	28		28\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1410	TOK	31		31\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1411	TOK	of		of\P
+1412	TOK	patients		patient\N5P
+1413	TOK	received		receive\VMC----
+1414	TOK	chemotherapy		chemotherapy\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1415	TOK	21		21\X
+##	TAG	</num>
+1416	TOK	a		a\AI---S
+1417	TOK	fluorouracil		fluorouracil\N5S
+1418	TOK	regimen		regimen\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1419	TOK	nine		nine\X
+##	TAG	</num>
+1420	TOK	other		other\JA
+1421	TOK	drugs		drug\N5P
+---	DLD	,		=\DELIM
+1422	TOK	and		and\CC
+1423	TOK	one		one\RIS3N-
+1424	TOK	irinotecan		irinotecan\JA
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1425	TOK	17	BOS	17\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1426	TOK	19		19\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1427	TOK	patients		patient\N5P
+1428	TOK	in		in\P
+1429	TOK	the		the\AT---6
+1430	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+1431	TOK	care		care\N5S
+1432	TOK	group		group\N5S
+1433	TOK	received		receive\VMF6A66
+1434	TOK	chemotherapy		chemotherapy\N5S
+1435	TOK	within		within\P
+##	TAG	<num>
+1436	TOK	1		1\X
+##	TAG	</num>
+1437	TOK	month		month\N5S
+1438	TOK	of		of\P
+1439	TOK	randomisation		randomisation\N5S
+1440	TOK	compared		compare\VMC----
+1441	TOK	with		with\P
+##	TAG	<num>
+1442	TOK	two		two\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1443	TOK	1		1\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1444	TOK	in		in\P
+1445	TOK	the		the\AT---6
+1446	TOK	irinotecan		irinotecan\JA
+1447	TOK	group		group\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1448	TOK	Concomitant	BOS	concomitant\JA
+1449	TOK	medications		medication\N5P
+1450	TOK	at		at\P
+1451	TOK	baseline		baseline\N5S
+1452	TOK	were		be\V6F-A66
+1453	TOK	similar		similar\JA
+1454	TOK	in		in\P
+1455	TOK	both		both\RIP3N-
+1456	TOK	groups		group\N5P
+1457	TOK	and		and\CC
+1458	TOK	consisted		consist\VMF6A66
+1459	TOK	mainly		mainly\DGA7
+1460	TOK	of		of\P
+1461	TOK	analgesics		analgesic\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1462	TOK	Overall	BOS	overall\JA
+1463	TOK	survival	EOS	survival\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1465	TOK	Kaplan-Meier	BOS	Kaplan-Meier\N46
+##	TAG	</name>
+1466	TOK	estimates		estimate\N5P
+1467	TOK	of		of\P
+1468	TOK	survival		survival\N5S
+1469	TOK	are		be\V6FDR66
+1470	TOK	presented		present\VMC----
+1471	TOK	in		in\P
+1472	TOK	figure		figure\VMI----
+##	TAG	<num>
+1473	TOK	2		2\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1474	TOK	There	BOS	there\DGA7
+1475	TOK	were		be\V6F-A66
+##	TAG	<num>
+1476	TOK	123		123\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1477	TOK	65		65\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1478	TOK	events		event\N5P
+1479	TOK	in		in\P
+1480	TOK	the		the\AT---6
+1481	TOK	irinotecan		irinotecan\JA
+1482	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+1483	TOK	median		median\N5S
+1484	TOK	duration		duration\N5S
+1485	TOK	of		of\P
+1486	TOK	which		which\RW63N-
+1487	TOK	was		be\V6F-A66
+##	TAG	<na type="function">
+1488	TOK	9·2		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+1489	TOK	range		range\N5S
+##	TAG	<na type="function">
+1490	TOK	0- 18·9		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1491	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1492	TOK	The	BOS	the\AT---6
+1493	TOK	survival		survival\N5S
+1494	TOK	probability		probability\N5S
+1495	TOK	for		for\P
+1496	TOK	this		this\AD---S
+1497	TOK	group		group\N5S
+1498	TOK	at		at\P
+##	TAG	<num>
+1499	TOK	6		6\X
+##	TAG	</num>
+1500	TOK	months		month\N5P
+1501	TOK	was		be\V6F-A66
+##	TAG	<num>
+1502	TOK	72		72\X
+##	TAG	</num>
+1503	TOK	·		·\N5P
+##	TAG	<num>
+1504	TOK	2		2\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1505	TOK	at		at\P
+##	TAG	<num>
+1506	TOK	9		9\X
+##	TAG	</num>
+1507	TOK	months		month\N5P
+##	TAG	<num>
+1508	TOK	52		52\X
+##	TAG	</num>
+1509	TOK	·		·\N5P
+##	TAG	<num>
+1510	TOK	6		6\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1511	TOK	and		and\CC
+1512	TOK	at		at\P
+##	TAG	<num>
+1513	TOK	12		12\X
+##	TAG	</num>
+1514	TOK	months		month\N5P
+##	TAG	<num>
+1515	TOK	36		36\X
+##	TAG	</num>
+1516	TOK	·		·\N5P
+##	TAG	<num>
+1517	TOK	2		2\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1518	TOK	In	BOS	in\P
+1519	TOK	the		the\AT---6
+1520	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+1521	TOK	care		care\N5S
+1522	TOK	group		group\N5S
+1523	TOK	there		there\DGA7
+1524	TOK	were		be\V6F-A66
+##	TAG	<num>
+1525	TOK	71		71\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1526	TOK	79		79\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1527	TOK	events		event\N5P
+---	DLD	,		=\DELIM
+1528	TOK	the		the\AT---6
+1529	TOK	median		median\N5S
+1530	TOK	duration		duration\N5S
+1531	TOK	of		of\P
+1532	TOK	which		which\RW63N-
+1533	TOK	was		be\V6F-A66
+##	TAG	<na type="function">
+1534	TOK	6·5		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+1535	TOK	range		range\N5S
+##	TAG	<na type="function">
+1536	TOK	0·7-19·3		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1537	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1538	TOK	In	BOS	in\P
+1539	TOK	this		this\AD---S
+1540	TOK	group		group\N5S
+1541	TOK	the		the\AT---6
+1542	TOK	survival		survival\N5S
+1543	TOK	probability		probability\N5S
+1544	TOK	at		at\P
+##	TAG	<num>
+1545	TOK	6		6\X
+##	TAG	</num>
+1546	TOK	months		month\N5P
+1547	TOK	was		be\V6F-A66
+##	TAG	<num>
+1548	TOK	54		54\X
+##	TAG	</num>
+1549	TOK	·		·\N5P
+##	TAG	<num>
+1550	TOK	1		1\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1551	TOK	at		at\P
+##	TAG	<num>
+1552	TOK	9		9\X
+##	TAG	</num>
+1553	TOK	months		month\N5P
+##	TAG	<num>
+1554	TOK	29		29\X
+##	TAG	</num>
+1555	TOK	·		·\N5P
+##	TAG	<num>
+1556	TOK	1		1\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1557	TOK	and		and\CC
+1558	TOK	at		at\P
+##	TAG	<num>
+1559	TOK	12		12\X
+##	TAG	</num>
+1560	TOK	months		month\N5P
+##	TAG	<num>
+1561	TOK	13		13\X
+##	TAG	</num>
+1562	TOK	·		·\N5P
+##	TAG	<num>
+1563	TOK	8		8\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1564	TOK	Median	BOS	median\N5S
+1565	TOK	follow		follow\VMF6R66
+---	DLI	-		=\DELIM
+1566	TOK	up		up\N5S
+1567	TOK	was		be\V6F-A66
+##	TAG	<na type="function">
+1568	TOK	12·9		noanat\W
+##	TAG	</na>
+1569	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1570	TOK	Patients	BOS	patient\N5P
+1571	TOK	in		in\P
+1572	TOK	the		the\AT---6
+1573	TOK	irinotecan		irinotecan\JA
+1574	TOK	group		group\N5S
+1575	TOK	lived		live\VMF6A66
+1576	TOK	significantly		significantly\DGA7
+1577	TOK	longer		long\JC
+1578	TOK	than		than\CS
+1579	TOK	those		that\RDP3N-
+1580	TOK	in		in\P
+1581	TOK	the		the\AT---6
+1582	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+1583	TOK	care		care\N5S
+1584	TOK	group		group\VMF6R66
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+1585	TOK	p=0·0001		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1587	TOK	This	BOS	this\AD---S
+1588	TOK	benefit		benefit\N5S
+1589	TOK	appeared		appear\VMF6A66
+1590	TOK	after		after\P
+##	TAG	<num>
+1591	TOK	2		2\X
+##	TAG	</num>
+1592	TOK	months		month\N5P
+1593	TOK	and		and\CC
+1594	TOK	became		become\VMF6A66
+1595	TOK	more		more\DDC7
+1596	TOK	apparent		apparent\JA
+1597	TOK	throughout		throughout\P
+1598	TOK	the		the\AT---6
+1599	TOK	study		study\N5S
+1600	TOK	period		period\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1601	TOK	1	BOS	1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1602	TOK	year		year\N5S
+1603	TOK	survival		survival\N5S
+1604	TOK	was		be\V6F-A66
+##	TAG	<num>
+1605	TOK	36		36\X
+##	TAG	</num>
+1606	TOK	·		·\N5P
+##	TAG	<num>
+1607	TOK	2		2\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+1608	TOK	and		and\CC
+##	TAG	<na type="function">
+1609	TOK	13·8% in		noanat\W
+##	TAG	</na>
+1610	TOK	the		the\AT---6
+1611	TOK	irinotecan		irinotecan\JA
+1612	TOK	and		and\CC
+1613	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+1614	TOK	care		care\N5S
+1615	TOK	groups		group\N5P
+---	DLD	,		=\DELIM
+1616	TOK	respectively		respectively\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1617	TOK	Median	BOS	median\N5S
+1618	TOK	survival		survival\N5S
+1619	TOK	was		be\V6F-A66
+##	TAG	<na type="function">
+1620	TOK	9·2		noanat\W
+##	TAG	</na>
+1621	TOK	and		and\CC
+##	TAG	<na type="function">
+1622	TOK	6·5		noanat\W
+##	TAG	</na>
+1623	TOK	months		month\N5P
+---	DLD	,		=\DELIM
+1624	TOK	respectively		respectively\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1625	TOK	A	BOS	a\AI---S
+1626	TOK	univariate		univariate\JA
+##	TAG	<name>
+1627	TOK	Cox		Cox\N46
+##	TAG	</name>
+1628	PGR	's		genmark\GENMARK
+1629	TOK	model		model\N5S
+1630	TOK	showed		show\VMF6A66
+1631	TOK	that		that\CS
+1632	TOK	patients		patient\N5P
+1633	TOK	with		with\P
+1634	TOK	performance		performance\N5S
+1635	TOK	status		status\N5S
+##	TAG	<num>
+1636	TOK	0		0\X
+##	TAG	</num>
+1637	TOK	or		or\CC
+##	TAG	<num>
+1638	TOK	1		1\X
+##	TAG	</num>
+1639	TOK	shared		share\VMF6A66
+1640	TOK	the		the\AT---6
+1641	TOK	same		same\JA
+1642	TOK	prognosis		prognosis\N5S
+---	DLD	,		=\DELIM
+1643	TOK	which		which\RW63N-
+1644	TOK	was		be\V6F-A66
+1645	TOK	notably		notably\DGA7
+1646	TOK	better		good\JC
+1647	TOK	than		than\CS
+1648	TOK	that		that\RDS3N-
+1649	TOK	for		for\P
+1650	TOK	patients		patient\N5P
+1651	TOK	with		with\P
+1652	TOK	performance		performance\N5S
+1653	TOK	status		status\N5S
+##	TAG	<num>
+1654	TOK	2		2\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1655	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+1656	TOK	3		3\X
+##	TAG	</num>
+1657	TOK	shows		show\VMFDRS3
+1658	TOK	that		that\CS
+1659	TOK	the		the\AT---6
+1660	TOK	benefit		benefit\N5S
+1661	TOK	of		of\P
+1662	TOK	treatment		treatment\N5S
+1663	TOK	occurred		occur\VMF6A66
+1664	TOK	in		in\P
+1665	TOK	all		all\AG---6
+1666	TOK	performance		performance\N5S
+---	DLI	-		=\DELIM
+1667	TOK	status		status\N5S
+1668	TOK	groups		group\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1669	TOK	With	BOS	with\P
+1670	TOK	a		a\AI---S
+1671	TOK	performance		performance\N5S
+1672	TOK	status		status\N5S
+1673	TOK	of		of\P
+1674	TOK	less		less\DDC7
+1675	TOK	than		than\CS
+##	TAG	<num>
+1676	TOK	two		two\X
+##	TAG	</num>
+1677	TOK	there		there\DGA7
+1678	TOK	were		be\V6F-A66
+##	TAG	<num>
+1679	TOK	98		98\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1680	TOK	60		60\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1681	TOK	events		event\N5P
+1682	TOK	in		in\P
+1683	TOK	the		the\AT---6
+1684	TOK	irinotecan		irinotecan\JA
+1685	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+1686	TOK	median		median\N5S
+1687	TOK	duration		duration\N5S
+1688	TOK	of		of\P
+1689	TOK	which		which\RW63N-
+1690	TOK	was		be\V6F-A66
+##	TAG	<na type="function">
+1691	TOK	10·5		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+1692	TOK	range		range\N5S
+##	TAG	<na type="function">
+1693	TOK	0-18·9		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1694	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1695	TOK	The	BOS	the\AT---6
+1696	TOK	survival		survival\N5S
+1697	TOK	probability		probability\N5S
+1698	TOK	for		for\P
+1699	TOK	this		this\AD---S
+1700	TOK	group		group\N5S
+1701	TOK	at		at\P
+##	TAG	<num>
+1702	TOK	6		6\X
+##	TAG	</num>
+1703	TOK	months		month\N5P
+1704	TOK	was		be\V6F-A66
+##	TAG	<num>
+1705	TOK	76		76\X
+##	TAG	</num>
+1706	TOK	·		·\N5P
+##	TAG	<num>
+1707	TOK	3		3\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1708	TOK	at		at\P
+##	TAG	<num>
+1709	TOK	9		9\X
+##	TAG	</num>
+1710	TOK	months		month\N5P
+##	TAG	<num>
+1711	TOK	57		57\X
+##	TAG	</num>
+1712	TOK	·		·\N5P
+##	TAG	<num>
+1713	TOK	2		2\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1714	TOK	and		and\CC
+1715	TOK	at		at\P
+##	TAG	<num>
+1716	TOK	12		12\X
+##	TAG	</num>
+1717	TOK	months		month\N5P
+##	TAG	<num>
+1718	TOK	40		40\X
+##	TAG	</num>
+1719	TOK	·		·\N5P
+##	TAG	<num>
+1720	TOK	1		1\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1721	TOK	In	BOS	in\P
+1722	TOK	the		the\AT---6
+1723	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+1724	TOK	care		care\N5S
+---	DLI	-		=\DELIM
+1725	TOK	alone		alone\JA
+1726	TOK	group		group\N5S
+1727	TOK	there		there\DGA7
+1728	TOK	were		be\V6F-A66
+##	TAG	<num>
+1729	TOK	53		53\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1730	TOK	77		77\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1731	TOK	events		event\N5P
+---	DLD	,		=\DELIM
+1732	TOK	median		median\N5S
+1733	TOK	duration		duration\N5S
+##	TAG	<na type="function">
+1734	TOK	7·4		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+1735	TOK	0·7-19·3		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1736	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1737	TOK	In	BOS	in\P
+1738	TOK	this		this\AD---S
+1739	TOK	group		group\N5S
+1740	TOK	the		the\AT---6
+1741	TOK	survival		survival\N5S
+1742	TOK	probability		probability\N5S
+1743	TOK	at		at\P
+##	TAG	<num>
+1744	TOK	6		6\X
+##	TAG	</num>
+1745	TOK	months		month\N5P
+1746	TOK	was		be\V6F-A66
+##	TAG	<num>
+1747	TOK	62		62\X
+##	TAG	</num>
+1748	TOK	·		·\N5P
+##	TAG	<num>
+1749	TOK	5		5\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1750	TOK	at		at\P
+##	TAG	<num>
+1751	TOK	9		9\X
+##	TAG	</num>
+1752	TOK	months		month\N5P
+##	TAG	<num>
+1753	TOK	33		33\X
+##	TAG	</num>
+1754	TOK	·		·\N5P
+##	TAG	<num>
+1755	TOK	2		2\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1756	TOK	and		and\CC
+1757	TOK	at		at\P
+##	TAG	<num>
+1758	TOK	12		12\X
+##	TAG	</num>
+1759	TOK	months		month\N5P
+##	TAG	<num>
+1760	TOK	16		16\X
+##	TAG	</num>
+1761	TOK	·		·\N5P
+##	TAG	<num>
+1762	TOK	2		2\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1763	TOK	With	BOS	with\P
+1764	TOK	a		a\AI---S
+1765	TOK	performance		performance\N5S
+1766	TOK	status		status\N5S
+1767	TOK	of		of\P
+##	TAG	<num>
+1768	TOK	two		two\X
+##	TAG	</num>
+1769	TOK	there		there\DGA7
+1770	TOK	were		be\V6F-A66
+##	TAG	<num>
+1771	TOK	24		24\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1772	TOK	92		92\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1773	TOK	events		event\N5P
+1774	TOK	in		in\P
+1775	TOK	the		the\AT---6
+1776	TOK	irinotecan		irinotecan\JA
+1777	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+1778	TOK	median		median\N5S
+1779	TOK	duration		duration\N5S
+1780	TOK	of		of\P
+1781	TOK	which		which\RW63N-
+1782	TOK	was		be\V6F-A66
+##	TAG	<na type="function">
+1783	TOK	5·1		noanat\W
+##	TAG	</na>
+1784	TOK	range		range\N5S
+##	TAG	<na type="function">
+1785	TOK	0·3-18·5		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1786	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1787	TOK	The	BOS	the\AT---6
+1788	TOK	survival		survival\N5S
+1789	TOK	probability		probability\N5S
+1790	TOK	for		for\P
+1791	TOK	this		this\AD---S
+1792	TOK	group		group\N5S
+1793	TOK	at		at\P
+##	TAG	<num>
+1794	TOK	6		6\X
+##	TAG	</num>
+1795	TOK	months		month\N5P
+1796	TOK	was		be\V6F-A66
+##	TAG	<num>
+1797	TOK	46		46\X
+##	TAG	</num>
+1798	TOK	·		·\N5P
+##	TAG	<num>
+1799	TOK	2		2\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1800	TOK	at		at\P
+##	TAG	<num>
+1801	TOK	9		9\X
+##	TAG	</num>
+1802	TOK	months		month\N5P
+##	TAG	<num>
+1803	TOK	26		26\X
+##	TAG	</num>
+1804	TOK	·		·\N5P
+##	TAG	<num>
+1805	TOK	9		9\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1806	TOK	and		and\CC
+1807	TOK	at		at\P
+##	TAG	<num>
+1808	TOK	12		12\X
+##	TAG	</num>
+1809	TOK	months		month\N5P
+##	TAG	<num>
+1810	TOK	15		15\X
+##	TAG	</num>
+1811	TOK	·		·\N5P
+##	TAG	<num>
+1812	TOK	4		4\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1813	TOK	In	BOS	in\P
+1814	TOK	the		the\AT---6
+1815	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+1816	TOK	care		care\N5S
+1817	TOK	group		group\N5S
+1818	TOK	there		there\DGA7
+1819	TOK	were		be\V6F-A66
+##	TAG	<num>
+1820	TOK	18		18\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1821	TOK	86		86\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1822	TOK	events		event\N5P
+---	DLD	,		=\DELIM
+1823	TOK	the		the\AT---6
+1824	TOK	median		median\N5S
+1825	TOK	duration		duration\N5S
+1826	TOK	of		of\P
+1827	TOK	which		which\RW63N-
+1828	TOK	was		be\V6F-A66
+##	TAG	<na type="function">
+1829	TOK	3·5		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+1830	TOK	range		range\N5S
+##	TAG	<na type="function">
+1831	TOK	1·1-11·0		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1832	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1833	TOK	In	BOS	in\P
+1834	TOK	this		this\AD---S
+1835	TOK	group		group\N5S
+1836	TOK	the		the\AT---6
+1837	TOK	survival		survival\N5S
+1838	TOK	probability		probability\N5S
+1839	TOK	at		at\P
+##	TAG	<num>
+1840	TOK	6		6\X
+##	TAG	</num>
+1841	TOK	months		month\N5P
+1842	TOK	was		be\V6F-A66
+##	TAG	<num>
+1843	TOK	26		26\X
+##	TAG	</num>
+1844	TOK	·		·\N5P
+##	TAG	<num>
+1845	TOK	5		5\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1846	TOK	at		at\P
+##	TAG	<num>
+1847	TOK	9		9\X
+##	TAG	</num>
+1848	TOK	months		month\N5P
+##	TAG	<num>
+1849	TOK	15		15\X
+##	TAG	</num>
+1850	TOK	·		·\N5P
+##	TAG	<num>
+1851	TOK	9		9\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+1852	TOK	and		and\CC
+1853	TOK	at		at\P
+##	TAG	<num>
+1854	TOK	12		12\X
+##	TAG	</num>
+1855	TOK	months		month\N5P
+##	TAG	<num>
+1856	TOK	7		7\X
+##	TAG	</num>
+1857	TOK	·		·\N5P
+##	TAG	<num>
+1858	TOK	9		9\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1859	TOK	Multivariate	BOS	multivariate\JA
+##	TAG	<name>
+1860	TOK	Cox		Cox\N46
+##	TAG	</name>
+1861	PGR	's		genmark\GENMARK
+1862	TOK	regression		regression\N5S
+1863	TOK	confirmed		confirm\VMF6A66
+1864	TOK	the		the\AT---6
+1865	TOK	importance		importance\N5S
+1866	TOK	of		of\P
+1867	TOK	other		other\JA
+1868	TOK	known		know\VMC----
+1869	TOK	prognostic		prognostic\JA
+1870	TOK	factors		factor\N5P
+---	DLE	(		=\DELIM
+1871	TOK	table		table\VMF6R66
+##	TAG	<num>
+1872	TOK	2		2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1874	TOK	When	BOS	when\CS
+1875	TOK	the		the\AT---6
+1876	TOK	treatment		treatment\N5S
+1877	TOK	group		group\N5S
+1878	TOK	was		be\V6F-A66
+1879	TOK	included		include\VMC----
+1880	TOK	in		in\P
+1881	TOK	the		the\AT---6
+1882	TOK	model		model\N5S
+---	DLD	,		=\DELIM
+1883	TOK	the		the\AT---6
+1884	TOK	survival		survival\N5S
+1885	TOK	benefit		benefit\N5S
+1886	TOK	for		for\P
+1887	TOK	the		the\AT---6
+1888	TOK	irinotecan		irinotecan\JA
+1889	TOK	group		group\N5S
+1890	TOK	remained		remain\VMF6A66
+1891	TOK	significant		significant\JA
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+1892	TOK	p=0·001		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1893	TOK	Secondary	BOS	secondary\JA
+1894	TOK	endpoints	EOS	endpoint\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1896	TOK	Survival	BOS	survival\N5S
+1897	TOK	without		without\P
+1898	TOK	weight		weight\N5S
+1899	TOK	loss		loss\N5S
+1900	TOK	of		of\P
+1901	TOK	more		more\DDC7
+1902	TOK	than		than\CS
+##	TAG	<num>
+1903	TOK	5		5\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+1904	TOK	p=0·018		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1905	TOK	and		and\CC
+1906	TOK	survival		survival\N5S
+1907	TOK	without		without\P
+1908	TOK	performance		performance\N5S
+---	DLI	-		=\DELIM
+1909	TOK	status		status\N5S
+1910	TOK	deterioration		deterioration\N5S
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+1911	TOK	p=0·0001		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1912	TOK	were		be\V6F-A66
+1913	TOK	significantly		significantly\DGA7
+1914	TOK	longer		long\JC
+1915	TOK	in		in\P
+1916	TOK	the		the\AT---6
+1917	TOK	irinotecan		irinotecan\JA
+1918	TOK	group		group\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1919	TOK	More	BOS	many\JC
+1920	TOK	patients		patient\N5P
+1921	TOK	with		with\P
+1922	TOK	a		a\AI---S
+1923	TOK	performance		performance\N5S
+---	DLI	-		=\DELIM
+1924	TOK	status		status\N5S
+1925	TOK	of		of\P
+1926	TOK	worse		bad\JC
+1927	TOK	than		than\CS
+##	TAG	<num>
+1928	TOK	0		0\X
+##	TAG	</num>
+1929	TOK	at		at\P
+1930	TOK	baseline		baseline\N5S
+1931	TOK	improved		improve\VMF6A66
+1932	TOK	their		their\APP3N6
+1933	TOK	performance		performance\N5S
+1934	TOK	status		status\N5S
+---	DLD	:		=\DELIM
+##	TAG	<num>
+1935	TOK	35		35\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+##	TAG	<foreign lang="LA" pos="P">
+1936	TOK	versus		versus\P
+##	TAG	</foreign>
+##	TAG	<num>
+1937	TOK	11		11\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+1938	TOK	p=0·002		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1939	TOK	Pain	BOS	pain\N5S
+---	DLI	-		=\DELIM
+1940	TOK	free		free\JA
+1941	TOK	survival		survival\N5S
+1942	TOK	in		in\P
+1943	TOK	patients		patient\N5P
+1944	TOK	without		without\P
+1945	TOK	pain		pain\N5S
+1946	TOK	at		at\P
+1947	TOK	baseline		baseline\N5S
+---	DLE	(		=\DELIM
+1948	TOK	figure		figure\N5S
+##	TAG	<num>
+1949	TOK	4		4\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+1950	TOK	was		be\V6F-A66
+1951	TOK	significantly		significantly\DGA7
+1952	TOK	longer		long\JC
+1953	TOK	in		in\P
+1954	TOK	the		the\AT---6
+1955	TOK	irinotecan		irinotecan\JA
+1956	TOK	group		group\N5S
+1957	TOK	than		than\CS
+1958	TOK	in		in\P
+1959	TOK	the		the\AT---6
+1960	TOK	supportive		supportive\JA
+1961	TOK	care		care\N5S
+1962	TOK	group		group\VMF6R66
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+1963	TOK	p=0·003		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+1964	TOK	despite		despite\P
+1965	TOK	a		a\AI---S
+1966	TOK	higher		high\JC
+1967	TOK	proportion		proportion\N5S
+1968	TOK	of		of\P
+1969	TOK	patients		patient\N5P
+1970	TOK	on		on\P
+1971	TOK	opioids		opioid\N5P
+1972	TOK	in		in\P
+1973	TOK	the		the\AT---6
+1974	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+1975	TOK	care		care\N5S
+1976	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1977	TOK	There	BOS	there\DGA7
+1978	TOK	were		be\V6F-A66
+##	TAG	<num>
+1979	TOK	61		61\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1980	TOK	73		73\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+1981	TOK	events		event\N5P
+1982	TOK	in		in\P
+1983	TOK	the		the\AT---6
+1984	TOK	irinotecan		irinotecan\JA
+1985	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+1986	TOK	median		median\N5S
+1987	TOK	duration		duration\N5S
+1988	TOK	of		of\P
+1989	TOK	which		which\RW63N-
+1990	TOK	was		be\V6F-A66
+##	TAG	<na type="function">
+1991	TOK	6·9		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+1992	TOK	range		range\N5S
+##	TAG	<na type="function">
+1993	TOK	0·3-17·2		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+1994	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1995	TOK	The	BOS	the\AT---6
+1996	TOK	survival		survival\N5S
+1997	TOK	probability		probability\N5S
+1998	TOK	for		for\P
+1999	TOK	this		this\AD---S
+2000	TOK	group		group\N5S
+2001	TOK	at		at\P
+##	TAG	<num>
+2002	TOK	6		6\X
+##	TAG	</num>
+2003	TOK	months		month\N5P
+2004	TOK	was		be\V6F-A66
+##	TAG	<num>
+2005	TOK	56		56\X
+##	TAG	</num>
+2006	TOK	·		·\N5P
+##	TAG	<num>
+2007	TOK	8		8\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+2008	TOK	at		at\P
+##	TAG	<num>
+2009	TOK	9		9\X
+##	TAG	</num>
+2010	TOK	months		month\N5P
+##	TAG	<num>
+2011	TOK	36		36\X
+##	TAG	</num>
+2012	TOK	·		·\N5P
+##	TAG	<num>
+2013	TOK	6		6\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+2014	TOK	and		and\CC
+2015	TOK	at		at\P
+##	TAG	<num>
+2016	TOK	12		12\X
+##	TAG	</num>
+2017	TOK	months		month\N5P
+##	TAG	<num>
+2018	TOK	18		18\X
+##	TAG	</num>
+2019	TOK	·		·\N5P
+##	TAG	<num>
+2020	TOK	8		8\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2021	TOK	In	BOS	in\P
+2022	TOK	the		the\AT---6
+2023	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+2024	TOK	care		care\N5S
+2025	TOK	group		group\N5S
+2026	TOK	there		there\DGA7
+2027	TOK	were		be\V6F-A66
+##	TAG	<num>
+2028	TOK	26		26\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2029	TOK	79		79\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+2030	TOK	events		event\N5P
+---	DLD	,		=\DELIM
+2031	TOK	median		median\N5S
+2032	TOK	duration		duration\N5S
+##	TAG	<na type="function">
+2033	TOK	2·0		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+2034	TOK	0-13·0		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+2035	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2036	TOK	In	BOS	in\P
+2037	TOK	this		this\AD---S
+2038	TOK	group		group\N5S
+2039	TOK	the		the\AT---6
+2040	TOK	survival		survival\N5S
+2041	TOK	probability		probability\N5S
+2042	TOK	at		at\P
+##	TAG	<num>
+2043	TOK	6		6\X
+##	TAG	</num>
+2044	TOK	months		month\N5P
+2045	TOK	was		be\V6F-A66
+##	TAG	<num>
+2046	TOK	31		31\X
+##	TAG	</num>
+2047	TOK	·		·\N5P
+##	TAG	<num>
+2048	TOK	5		5\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+2049	TOK	at		at\P
+##	TAG	<num>
+2050	TOK	9		9\X
+##	TAG	</num>
+2051	TOK	months		month\N5P
+##	TAG	<num>
+2052	TOK	14		14\X
+##	TAG	</num>
+2053	TOK	·		·\N5P
+##	TAG	<num>
+2054	TOK	7		7\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	,		=\DELIM
+2055	TOK	and		and\CC
+2056	TOK	at		at\P
+##	TAG	<num>
+2057	TOK	12		12\X
+##	TAG	</num>
+2058	TOK	months		month\N5P
+##	TAG	<num>
+2059	TOK	4		4\X
+##	TAG	</num>
+2060	TOK	·		·\N5P
+##	TAG	<num>
+2061	TOK	9		9\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2062	TOK	Within	BOS	within\P
+##	TAG	<num>
+2063	TOK	23		23\X
+##	TAG	</num>
+2064	TOK	weeks		week\N5P
+2065	TOK	of		of\P
+2066	TOK	randomisation		randomisation\N5P
+---	DLD	,		=\DELIM
+2067	TOK	the		the\AT---6
+2068	TOK	rate		rate\N5S
+2069	TOK	of		of\P
+2070	TOK	patients		patient\N5P
+2071	TOK	with		with\P
+2072	TOK	opioid		opioid\N5S
+2073	TOK	consumption		consumption\N5S
+2074	TOK	by		by\P
+##	TAG	<num>
+2075	TOK	3		3\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+2076	TOK	week		week\N5S
+2077	TOK	blocks		block\N5P
+2078	TOK	ranged		range\VMF6A66
+2079	TOK	from		from\P
+##	TAG	<na type="function">
+2080	TOK	25% to		noanat\W
+##	TAG	</na>
+##	TAG	<na type="function">
+2081	TOK	34% in		noanat\W
+##	TAG	</na>
+2082	TOK	the		the\AT---6
+2083	TOK	irinotecan		irinotecan\JA
+2084	TOK	group		group\N5S
+2085	TOK	and		and\CC
+2086	TOK	from		from\P
+##	TAG	<na type="function">
+2087	TOK	40% to		noanat\W
+##	TAG	</na>
+##	TAG	<na type="function">
+2088	TOK	56% in		noanat\W
+##	TAG	</na>
+2089	TOK	the		the\AT---6
+2090	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+2091	TOK	care		care\N5S
+2092	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2093	TOK	In	BOS	in\P
+2094	TOK	the		the\AT---6
+2095	TOK	quality		quality\N5S
+---	DLI	-		=\DELIM
+2096	TOK	of		of\P
+---	DLI	-		=\DELIM
+2097	TOK	life		life\N5S
+2098	TOK	analysis		analysis\N5S
+---	DLD	,		=\DELIM
+2099	TOK	compliance		compliance\N5S
+2100	TOK	of		of\P
+2101	TOK	patients		patient\N5P
+2102	TOK	was		be\V6F-A66
+2103	TOK	about		about\P
+##	TAG	<na type="function">
+2104	TOK	80% in		noanat\W
+##	TAG	</na>
+2105	TOK	both		both\RIP3N-
+2106	TOK	groups		group\N5P
+2107	TOK	at		at\P
+2108	TOK	the		the\AT---6
+2109	TOK	beginning		beginning\N5S
+2110	TOK	of		of\P
+2111	TOK	study		study\N5S
+2112	TOK	and		and\CC
+2113	TOK	decreased		decrease\VMC----
+2114	TOK	during		during\P
+2115	TOK	the		the\AT---6
+2116	TOK	study		study\N5S
+2117	TOK	to		to\P
+2118	TOK	about		about\DGA7
+##	TAG	<num>
+2119	TOK	50		50\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2120	TOK	Compliance	BOS	compliance\N5S
+2121	TOK	decreased		decrease\VMF6A66
+2122	TOK	more		more\DDC7
+2123	TOK	rapidly		rapidly\DGA7
+2124	TOK	in		in\P
+2125	TOK	the		the\AT---6
+2126	TOK	supportive		supportive\JA
+2127	TOK	care		care\N5S
+2128	TOK	group		group\VMF6R66
+---	DLD	,		=\DELIM
+2129	TOK	probably		probably\DGA7
+2130	TOK	due		due\JA
+2131	TOK	to		to\P
+2132	TOK	earlier		early\JC
+2133	TOK	deterioration		deterioration\N5S
+2134	TOK	in		in\P
+2135	TOK	the		the\AT---6
+2136	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2137	TOK	On	BOS	on\P
+2138	TOK	difference		difference\N5S
+2139	TOK	from		from\P
+2140	TOK	baseline		baseline\N5S
+2141	TOK	multivariate		multivariate\JA
+2142	TOK	analysis		analysis\N5S
+2143	TOK	of		of\P
+2144	TOK	variance		variance\N5S
+2145	TOK	was		be\V6F-A66
+2146	TOK	significant		significant\JA
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+2147	TOK	p=0·0001		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2149	TOK	The	BOS	the\AT---6
+2150	TOK	univariate		univariate\JA
+2151	TOK	analyses		analysis\N5P
+2152	TOK	of		of\P
+2153	TOK	variance		variance\N5S
+2154	TOK	were		be\V6F-A66
+2155	TOK	significantly		significantly\DGA7
+2156	TOK	in		in\P
+2157	TOK	favour		favour\N5S
+2158	TOK	of		of\P
+2159	TOK	the		the\AT---6
+2160	TOK	irinotecan		irinotecan\JA
+2161	TOK	group		group\N5S
+2162	TOK	for		for\P
+2163	TOK	the		the\AT---6
+2164	TOK	cognitive		cognitive\JA
+2165	TOK	functioning		function\VMG----
+2166	TOK	score		score\N56
+---	DLE	(		=\DELIM
+2167	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2168	TOK	the		the\AT---6
+2169	TOK	global		global\JA
+2170	TOK	quality		quality\N5S
+---	DLI	-		=\DELIM
+2171	TOK	of		of\P
+---	DLI	-		=\DELIM
+2172	TOK	life		life\N5S
+2173	TOK	score		score\N56
+---	DLE	(		=\DELIM
+2174	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2175	TOK	the		the\AT---6
+2176	TOK	pain		pain\N5S
+2177	TOK	score		score\N56
+---	DLE	(		=\DELIM
+2178	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2179	TOK	dyspnoea		dyspnoea\N5S
+---	DLE	(		=\DELIM
+2180	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2181	TOK	appetite		appetite\N5S
+2182	TOK	loss		loss\N5S
+---	DLE	(		=\DELIM
+2183	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2184	TOK	and		and\CC
+2185	TOK	financial		financial\JA
+---	DLI	-		=\DELIM
+2186	TOK	impact		impact\N5S
+2187	TOK	scores		score\N5P
+---	DLE	(		=\DELIM
+2188	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2190	TOK	The	BOS	the\AT---6
+2191	TOK	diarrhoea		diarrhoea\N5S
+2192	TOK	score		score\N56
+2193	TOK	was		be\V6F-A66
+2194	TOK	significantly		significantly\DGA7
+2195	TOK	better		good\JC
+2196	TOK	in		in\P
+2197	TOK	the		the\AT---6
+2198	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+2199	TOK	care		care\N5S
+2200	TOK	group		group\VMF6R66
+---	DLE	(		=\DELIM
+2201	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2203	TOK	Analyses	BOS	analysis\N5P
+2204	TOK	on		on\P
+2205	TOK	worst		bad\JS
+2206	TOK	patient		patient\N5S
+2207	TOK	score		score\N56
+2208	TOK	during		during\P
+2209	TOK	the		the\AT---6
+2210	TOK	study		study\N5S
+2211	TOK	are		be\V6FDR66
+2212	TOK	shown		show\VMC----
+2213	TOK	in		in\P
+2214	TOK	table		table\VMI----
+##	TAG	<num>
+2215	TOK	3		3\X
+##	TAG	</num>
+---	DLD	:		=\DELIM
+2216	TOK	all		all\AG---6
+2217	TOK	results		result\N5P
+2218	TOK	were		be\V6F-A66
+2219	TOK	significantly		significantly\DGA7
+2220	TOK	in		in\P
+2221	TOK	favour		favour\N5S
+2222	TOK	of		of\P
+2223	TOK	irinotecan		irinotecan\N5S
+##	TAG	<loc pos="P">
+2224	TOK	except for		except_for\P
+##	TAG	</loc>
+2225	TOK	emotional		emotional\JA
+---	DLD	,		=\DELIM
+2226	TOK	nausea		nausea\N5S
+---	DLD	,		=\DELIM
+2227	TOK	sleep		sleep\N5S
+2228	TOK	disturbance		disturbance\N5S
+---	DLD	,		=\DELIM
+2229	TOK	and		and\CC
+2230	TOK	financial		financial\JA
+2231	TOK	scores		score\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2232	TOK	Diarrhoea	BOS	diarrhoea\N5S
+2233	TOK	score		score\N56
+2234	TOK	was		be\V6F-A66
+2235	TOK	significantly		significantly\DGA7
+2236	TOK	lower		low\JC
+2237	TOK	in		in\P
+2238	TOK	the		the\AT---6
+2239	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+2240	TOK	care		care\N5S
+2241	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2242	TOK	Time	BOS	time\N5S
+2243	TOK	to		to\P
+2244	TOK	definitive		definitive\JA
+2245	TOK	quality		quality\N5S
+---	DLI	-		=\DELIM
+2246	TOK	of		of\P
+---	DLI	-		=\DELIM
+2247	TOK	life		life\N5S
+2248	TOK	deterioration		deterioration\N5S
+2249	TOK	was		be\V6F-A66
+2250	TOK	significantly		significantly\DGA7
+2251	TOK	longer		long\JC
+2252	TOK	in		in\P
+2253	TOK	the		the\AT---6
+2254	TOK	irinotecan		irinotecan\JA
+2255	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+2256	TOK	whichever		whichever\JA
+2257	TOK	the		the\AT---6
+2258	TOK	chosen		choose\VMC----
+2259	TOK	threshold		threshold\N5S
+2260	TOK	for		for\P
+2261	TOK	deterioration		deterioration\N5S
+---	DLE	(		=\DELIM
+2262	TOK	all		all\AG---6
+2263	TOK	p		p\N5S
+2264	TOK	values		value\N5P
+2265	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2266	TOK	Safety	BOS	safety\N5S
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2268	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+2269	TOK	4		4\X
+##	TAG	</num>
+2270	TOK	shows		show\VMFDRS3
+2271	TOK	the		the\AT---6
+2272	TOK	incidence		incidence\N5S
+2273	TOK	of		of\P
+2274	TOK	grade		grade\VMI----
+##	TAG	<num>
+2275	TOK	3		3\X
+##	TAG	</num>
+2276	TOK	or		or\CC
+##	TAG	<num>
+2277	TOK	4		4\X
+##	TAG	</num>
+2278	TOK	adverse		adverse\JA
+2279	TOK	events		event\N5P
+---	DLE	(		=\DELIM
+2280	TOK	drug		drug\N5S
+2281	TOK	related		relate\VMC----
+2282	TOK	or		or\CC
+2283	TOK	not		not\DGA7
+---	DLD	)		=\DELIM
+2284	TOK	by		by\P
+2285	TOK	patient		patient\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2286	TOK	Patients	BOS	patient\N5P
+2287	TOK	on		on\P
+2288	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+2289	TOK	care		care\N5S
+2290	TOK	alone		alone\DGA7
+2291	TOK	experienced		experience\VMF6A66
+2292	TOK	a		a\AI---S
+2293	TOK	high		high\JA
+2294	TOK	incidence		incidence\N5S
+2295	TOK	of		of\P
+2296	TOK	severe		severe\JA
+2297	TOK	adverse		adverse\JA
+2298	TOK	events		event\N5P
+---	DLD	,		=\DELIM
+2299	TOK	especially		especially\DGA7
+2300	TOK	pain		pain\N5S
+2301	TOK	and		and\CC
+2302	TOK	asthenia		asthenia\N5S
+---	DLD	,		=\DELIM
+2303	TOK	although		although\CS
+2304	TOK	significantly		significantly\DGA7
+2305	TOK	more		many\JC
+2306	TOK	patients		patient\N5P
+2307	TOK	in		in\P
+2308	TOK	the		the\AT---6
+2309	TOK	irinotecan		irinotecan\JA
+2310	TOK	group		group\N5S
+2311	TOK	experienced		experience\VMF6A66
+2312	TOK	severe		severe\JA
+2313	TOK	events		event\N5P
+---	DLD	,		=\DELIM
+2314	TOK	especially		especially\DGA7
+2315	TOK	neutropenia		neutropenia\N5S
+---	DLD	,		=\DELIM
+2316	TOK	nausea		nausea\N5S
+---	DLD	,		=\DELIM
+2317	TOK	vomiting		vomit\VMG----
+---	DLD	,		=\DELIM
+2318	TOK	and		and\CC
+2319	TOK	diarrhoea		diarrhoea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2320	TOK	Two	BOS	Two\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2321	TOK	1		1\X
+##	TAG	</num>
+2322	TOK	·		·\N5P
+##	TAG	<num>
+2323	TOK	1		1\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+2324	TOK	of		of\P
+##	TAG	<num>
+2325	TOK	183		183\X
+##	TAG	</num>
+2326	TOK	patients		patient\N5P
+2327	TOK	treated		treat\VMC----
+2328	TOK	with		with\P
+2329	TOK	irinotecan		irinotecan\N5S
+2330	TOK	died		die\VMF6A66
+2331	TOK	of		of\P
+2332	TOK	drug		drug\N5S
+---	DLI	-		=\DELIM
+2333	TOK	related		relate\VMC----
+2334	TOK	causes		cause\N5P
+2335	TOK	although		although\CS
+---	DLD	,		=\DELIM
+2336	TOK	in		in\P
+2337	TOK	one		one\MCS
+---	DLD	,		=\DELIM
+2338	TOK	the		the\AT---6
+2339	TOK	association		association\N5S
+2340	TOK	with		with\P
+2341	TOK	adverse		adverse\JA
+2342	TOK	events		event\N5P
+---	DLE	(		=\DELIM
+2343	TOK	diarrhoea		diarrhoea\N5S
+2344	TOK	and/or		and/or\N5S
+2345	TOK	febrile		febrile\JA
+2346	TOK	neutropenia		neutropenia\N5S
+---	DLD	)		=\DELIM
+2347	TOK	has		have\V6FDRS3
+2348	TOK	not		not\DGA7
+2349	TOK	been		be\VMC----
+2350	TOK	clearly		clearly\DGA7
+2351	TOK	established		establish\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2352	TOK	Admission	BOS	admission\N5S
+2353	TOK	for		for\P
+2354	TOK	adverse		adverse\JA
+2355	TOK	events		event\N5P
+2356	TOK	occurred		occur\VMF6A66
+2357	TOK	in		in\P
+##	TAG	<num>
+2358	TOK	136		136\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2359	TOK	72		72\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+2360	TOK	of		of\P
+2361	TOK	patients		patient\N5P
+2362	TOK	in		in\P
+2363	TOK	the		the\AT---6
+2364	TOK	irinotecan		irinotecan\JA
+2365	TOK	group		group\N5S
+2366	TOK	and		and\CC
+##	TAG	<num>
+2367	TOK	57		57\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2368	TOK	63		63\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+2369	TOK	of		of\P
+2370	TOK	patients		patient\N5P
+2371	TOK	in		in\P
+2372	TOK	the		the\AT---6
+2373	TOK	supportive		supportive\JA
+---	DLI	-		=\DELIM
+2374	TOK	care		care\N5S
+---	DLI	-		=\DELIM
+2375	TOK	alone		alone\JA
+2376	TOK	group		group\N5S
+2377	TOK	for		for\P
+2378	TOK	a		a\AI---S
+2379	TOK	cumulative		cumulative\JA
+2380	TOK	median		median\N5S
+2381	TOK	of		of\P
+##	TAG	<num>
+2382	TOK	15		15\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+2383	TOK	range		range\N5S
+##	TAG	<na type="function">
+2384	TOK	1-168		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+2385	TOK	days		day\N5P
+2386	TOK	and		and\CC
+##	TAG	<num>
+2387	TOK	11		11\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+2388	TOK	2-87		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+2389	TOK	days		day\N5P
+---	DLD	,		=\DELIM
+2390	TOK	respectively		respectively\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2391	TOK	Discussion	BOS	discussion\N5S
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2393	TOK	This	BOS	this\AD---S
+2394	TOK	study		study\N5S
+2395	TOK	showed		show\VMF6A66
+2396	TOK	that		that\CS
+2397	TOK	treatment		treatment\N5S
+2398	TOK	with		with\P
+2399	TOK	irinotecan		irinotecan\JA
+2400	TOK	and		and\CC
+2401	TOK	supportive		supportive\JA
+2402	TOK	care		care\N5S
+2403	TOK	alone		alone\DGA7
+---	DLD	,		=\DELIM
+2404	TOK	compared		compare\VMC----
+2405	TOK	with		with\P
+2406	TOK	supportive		supportive\JA
+2407	TOK	care		care\N5S
+---	DLD	,		=\DELIM
+2408	TOK	prolonged		prolong\VMF6A66
+2409	TOK	the		the\AT---6
+2410	TOK	life		life\N5S
+2411	TOK	of		of\P
+2412	TOK	patients		patient\N5P
+2413	TOK	with		with\P
+2414	TOK	metastatic		metastatic\JA
+2415	TOK	colorectal		colorectal\JA
+2416	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2417	TOK	This	BOS	this\AD---S
+2418	TOK	benefit		benefit\N5S
+2419	TOK	was		be\V6F-A66
+2420	TOK	clinically		clinically\DGA7
+2421	TOK	meaningful		meaningful\JA
+2422	TOK	because		because\CS
+2423	TOK	the		the\AT---6
+2424	TOK	probability		probability\N5S
+2425	TOK	of		of\P
+2426	TOK	surviving		survive\VMG----
+##	TAG	<num>
+2427	TOK	1		1\X
+##	TAG	</num>
+2428	TOK	year		year\N5S
+2429	TOK	was		be\V6F-A66
+##	TAG	<na type="function">
+2430	TOK	2·6		noanat\W
+##	TAG	</na>
+2431	TOK	times		time\N5P
+2432	TOK	greater		great\JC
+2433	TOK	in		in\P
+2434	TOK	patients		patient\N5P
+2435	TOK	given		give\VMC----
+2436	TOK	irinotecan		irinotecan\N5S
+2437	TOK	compared		compare\VMC----
+2438	TOK	with		with\P
+2439	TOK	that		that\RDS3N-
+2440	TOK	of		of\P
+2441	TOK	patients		patient\N5P
+2442	TOK	given		give\VMC----
+2443	TOK	supportive		supportive\JA
+2444	TOK	care		care\N5S
+2445	TOK	alone		alone\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2446	TOK	Other	BOS	other\JA
+2447	TOK	efficacy		efficacy\N5S
+2448	TOK	endpoints		endpoint\N5P
+---	DLD	,		=\DELIM
+2449	TOK	such		such\JA
+2450	TOK	as		as\P
+2451	TOK	survival		survival\N5S
+2452	TOK	without		without\P
+2453	TOK	weight		weight\N5S
+2454	TOK	loss		loss\N5S
+---	DLD	,		=\DELIM
+2455	TOK	survival		survival\N5S
+2456	TOK	without		without\P
+2457	TOK	performance		performance\N5S
+2458	TOK	status		status\N5S
+2459	TOK	deterioration		deterioration\N5S
+---	DLD	,		=\DELIM
+2460	TOK	pain		pain\N5S
+---	DLI	-		=\DELIM
+2461	TOK	free		free\JA
+2462	TOK	survival		survival\N5S
+---	DLD	,		=\DELIM
+2463	TOK	and		and\CC
+2464	TOK	quality		quality\N5S
+---	DLI	-		=\DELIM
+2465	TOK	of		of\P
+---	DLI	-		=\DELIM
+2466	TOK	life		life\N5S
+---	DLD	,		=\DELIM
+2467	TOK	were		be\V6F-A66
+2468	TOK	all		all\DGA7
+2469	TOK	significantly		significantly\DGA7
+2470	TOK	in		in\P
+2471	TOK	favour		favour\N5S
+2472	TOK	of		of\P
+2473	TOK	irinotecan		irinotecan\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2474	TOK	The	BOS	the\AT---6
+2475	TOK	survival		survival\N5S
+2476	TOK	advantage		advantage\N5S
+2477	TOK	for		for\P
+2478	TOK	the		the\AT---6
+2479	TOK	irinotecan		irinotecan\JA
+2480	TOK	group		group\N5S
+2481	TOK	remained		remain\VMF6A66
+2482	TOK	highly		highly\DGA7
+2483	TOK	significant		significant\JA
+2484	TOK	after		after\P
+2485	TOK	adjustment		adjustment\N5S
+2486	TOK	of		of\P
+2487	TOK	performance		performance\N5S
+2488	TOK	status		status\N5S
+---	DLD	,		=\DELIM
+2489	TOK	a		a\AI---S
+2490	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+2491	TOK	recognised		recognise\VMC----
+2492	TOK	prognostic		prognostic\JA
+2493	TOK	factor		factor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2494	TOK	More	BOS	more\DDC7
+2495	TOK	generally		generally\DGA7
+---	DLD	,		=\DELIM
+2496	TOK	the		the\AT---6
+2497	TOK	multivariate		multivariate\JA
+2498	TOK	regression		regression\N5S
+2499	TOK	showed		show\VMF6A66
+2500	TOK	that		that\CS
+2501	TOK	the		the\AT---6
+2502	TOK	difference		difference\N5S
+2503	TOK	in		in\P
+2504	TOK	survival		survival\N5S
+2505	TOK	between		between\P
+2506	TOK	the		the\AT---6
+##	TAG	<num>
+2507	TOK	two		two\X
+##	TAG	</num>
+2508	TOK	groups		group\N5P
+2509	TOK	remained		remain\VMF6A66
+2510	TOK	significant		significant\JA
+2511	TOK	even		even\DGA7
+2512	TOK	after		after\P
+2513	TOK	adjusting		adjust\VMG----
+2514	TOK	for		for\P
+2515	TOK	the		the\AT---6
+2516	TOK	effect		effect\N5S
+2517	TOK	of		of\P
+2518	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+2519	TOK	known		know\VMC----
+2520	TOK	prognostic		prognostic\JA
+2521	TOK	factors		factor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2522	TOK	The	BOS	the\AT---6
+2523	TOK	survival		survival\N5S
+2524	TOK	data		data\N56
+2525	TOK	were		be\V6F-A66
+2526	TOK	also		also\DGA7
+2527	TOK	consistent		consistent\JA
+2528	TOK	with		with\P
+2529	TOK	those		that\RDP3N-
+2530	TOK	observed		observe\VMC----
+2531	TOK	in		in\P
+2532	TOK	the		the\AT---6
+2533	TOK	phase		phase\N5S
+##	TAG	<num>
+2534	TOK	II		II\X
+##	TAG	</num>
+2535	TOK	studies		study\N5P
+2536	TOK	of		of\P
+2537	TOK	irinotecan		irinotecan\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2538	TOK	The	BOS	the\AT---6
+2539	TOK	study		study\N5S
+2540	TOK	also		also\DGA7
+2541	TOK	showed		show\VMF6A66
+2542	TOK	an		an\AI---S
+2543	TOK	advantage		advantage\N5S
+2544	TOK	for		for\P
+2545	TOK	irinotecan		irinotecan\N5S
+2546	TOK	for		for\P
+2547	TOK	quality		quality\N5S
+2548	TOK	of		of\P
+2549	TOK	life		life\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2550	TOK	The	BOS	the\AT---6
+2551	TOK	results		result\N5P
+2552	TOK	were		be\V6F-A66
+2553	TOK	consistent		consistent\JA
+2554	TOK	with		with\P
+2555	TOK	other		other\JA
+2556	TOK	clinical		clinical\JA
+2557	TOK	variables		variable\N5P
+---	DLE	(		=\DELIM
+2558	TOK	performance		performance\N5S
+2559	TOK	status		status\N5S
+2560	TOK	deterioration		deterioration\N5S
+---	DLD	,		=\DELIM
+2561	TOK	weight		weight\N5S
+2562	TOK	loss		loss\N5S
+---	DLD	,		=\DELIM
+2563	TOK	and		and\CC
+2564	TOK	pain		pain\N5S
+2565	TOK	control		control\VMF6R66
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2566	TOK	The	BOS	the\AT---6
+2567	TOK	analysis		analysis\N5S
+2568	TOK	of		of\P
+2569	TOK	the		the\AT---6
+##	TAG	<name>
+2570	TOK	EORTC QLQ-C30		EORTC_QLQ-C30\N46
+##	TAG	</name>
+2571	TOK	symptoms		symptom\N5P
+2572	TOK	scale		scale\N5S
+2573	TOK	was		be\V6F-A66
+2574	TOK	consistent		consistent\JA
+2575	TOK	with		with\P
+2576	TOK	the		the\AT---6
+2577	TOK	safety		safety\N5S
+2578	TOK	data		data\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2579	TOK	This	BOS	this\RDS3N-
+2580	TOK	suggests		suggest\VMFDRS3
+2581	TOK	that		that\CS
+2582	TOK	the		the\AT---6
+##	TAG	<name>
+2583	TOK	EORTC QLQC30		EORTC_QLQC30\N46
+##	TAG	</name>
+2584	TOK	questionnaire		questionnaire\N5S
+2585	TOK	is		be\V6FDRS3
+2586	TOK	sensitive		sensitive\JA
+---	DLD	,		=\DELIM
+2587	TOK	contrary		contrary\N5S
+2588	TOK	to		to\P
+2589	TOK	a		a\AI---S
+2590	TOK	previous		previous\JA
+2591	TOK	report		report\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2592	TOK	The	BOS	the\AT---6
+2593	TOK	safety		safety\N5S
+2594	TOK	profile		profile\N5S
+2595	TOK	of		of\P
+2596	TOK	irinotecan		irinotecan\N5S
+2597	TOK	was		be\V6F-A66
+2598	TOK	acceptable		acceptable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2599	TOK	The	BOS	the\AT---6
+2600	TOK	incidence		incidence\N5S
+2601	TOK	of		of\P
+2602	TOK	treatment		treatment\N5S
+---	DLD	-		=\DELIM
+2603	TOK	related		relate\VMC----
+2604	TOK	grade		grade\VMF6R66
+##	TAG	<num>
+2605	TOK	3		3\X
+##	TAG	</num>
+2606	TOK	or		or\CC
+##	TAG	<num>
+2607	TOK	4		4\X
+##	TAG	</num>
+2608	TOK	diarrhoea		diarrhoea\N5S
+2609	TOK	with		with\P
+2610	TOK	irinotecan		irinotecan\JA
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2611	TOK	21		21\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+2612	TOK	was		be\V6F-A66
+2613	TOK	lower		low\JC
+2614	TOK	than		than\CS
+2615	TOK	that		that\RDS3N-
+2616	TOK	reported		report\VMC----
+2617	TOK	in		in\P
+2618	TOK	previous		previous\JA
+2619	TOK	studies		study\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2620	TOK	39		39\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2621	TOK	This	BOS	this\AD---S
+2622	TOK	result		result\VMF6R66
+---	DLD	,		=\DELIM
+2623	TOK	observed		observe\VMC----
+2624	TOK	in		in\P
+2625	TOK	a		a\AI---S
+2626	TOK	multicentre		multicentre\N5S
+2627	TOK	trial		trial\N5S
+---	DLD	,		=\DELIM
+2628	TOK	is		be\V6FDRS3
+2629	TOK	probably		probably\DGA7
+2630	TOK	accounted		account\VMC----
+2631	TOK	for		for\P
+2632	TOK	by		by\P
+2633	TOK	the		the\AT---6
+2634	TOK	more		more\DDC7
+2635	TOK	rigorous		rigorous\JA
+2636	TOK	implementation		implementation\N5S
+2637	TOK	of		of\P
+2638	TOK	guidelines		guideline\N5P
+2639	TOK	for		for\P
+2640	TOK	the		the\AT---6
+2641	TOK	management		management\N5S
+2642	TOK	of		of\P
+2643	TOK	diarrhoea		diarrhoea\N5S
+2644	TOK	than		than\CS
+2645	TOK	in		in\P
+2646	TOK	earlier		early\JC
+2647	TOK	studies		study\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2648	TOK	Grade	BOS	grade\N5S
+##	TAG	<na type="function">
+2649	TOK	3-4		noanat\W
+##	TAG	</na>
+2650	TOK	neutropenia		neutropenia\N5S
+2651	TOK	was		be\V6F-A66
+2652	TOK	reported		report\VMC----
+2653	TOK	in		in\P
+##	TAG	<num>
+2654	TOK	22		22\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+2655	TOK	and		and\CC
+2656	TOK	grade		grade\VMF6R66
+##	TAG	<na type="function">
+2657	TOK	3-4		noanat\W
+##	TAG	</na>
+2658	TOK	vomiting		vomit\VMG----
+2659	TOK	in		in\P
+##	TAG	<na type="function">
+2660	TOK	14% of		noanat\W
+##	TAG	</na>
+2661	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2662	TOK	Asthenia	BOS	asthenia\N5S
+---	DLD	,		=\DELIM
+2663	TOK	pain		pain\N5S
+---	DLD	,		=\DELIM
+2664	TOK	and		and\CC
+2665	TOK	neurological		neurological\JA
+2666	TOK	symptoms		symptom\N5P
+2667	TOK	were		be\V6F-A66
+2668	TOK	more		more\DDC7
+2669	TOK	frequent		frequent\JA
+2670	TOK	in		in\P
+2671	TOK	the		the\AT---6
+2672	TOK	supportive		supportive\JA
+---	DLD	-		=\DELIM
+2673	TOK	care		care\N5S
+2674	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2675	TOK	Some	BOS	some\DGA7
+2676	TOK	say		say\VMF6R66
+2677	TOK	that		that\CS
+2678	TOK	patients		patient\N5P
+2679	TOK	with		with\P
+2680	TOK	advanced		advance\VMC----
+2681	TOK	cancer		cancer\N5S
+2682	TOK	who		who\RW63N-
+2683	TOK	are		be\V6FDR66
+2684	TOK	treated		treat\VMC----
+2685	TOK	with		with\P
+2686	TOK	supportive		supportive\JA
+2687	TOK	care		care\N5S
+2688	TOK	alone		alone\DGA7
+2689	TOK	will		will\VOFDR66
+2690	TOK	have		have\VMI----
+2691	TOK	a		a\AI---S
+2692	TOK	short		short\JA
+2693	TOK	but		but\CC
+2694	TOK	peaceful		peaceful\JA
+2695	TOK	end		end\N5S
+2696	TOK	to		to\P
+2697	TOK	their		their\APP3N6
+2698	TOK	life		life\N5S
+---	DLD	,		=\DELIM
+2699	TOK	protected		protect\VMC----
+2700	TOK	from		from\P
+2701	TOK	the		the\AT---6
+2702	TOK	side		side\N5S
+2703	TOK	effects		effect\N5P
+2704	TOK	of		of\P
+2705	TOK	chemotherapy		chemotherapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2706	TOK	Our	BOS	our\APP1N6
+2707	TOK	study		study\N5S
+2708	TOK	showed		show\VMF6A66
+2709	TOK	that		that\CS
+2710	TOK	as		as\DGA7
+2711	TOK	many		many\AI---P
+2712	TOK	as		as\P
+##	TAG	<na type="function">
+2713	TOK	67% of		noanat\W
+##	TAG	</na>
+2714	TOK	patients		patient\N5P
+2715	TOK	receiving		receive\VMG----
+2716	TOK	supportive		supportive\JA
+2717	TOK	care		care\N5S
+2718	TOK	experienced		experience\VMF6A66
+2719	TOK	severe		severe\JA
+2720	TOK	symptoms		symptom\N5P
+2721	TOK	and		and\CC
+2722	TOK	as		as\P
+2723	TOK	a		a\AI---S
+2724	TOK	result		result\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+2725	TOK	63		63\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+2726	TOK	were		be\V6F-A66
+2727	TOK	admitted		admit\VMC----
+2728	TOK	for		for\P
+2729	TOK	a		a\AI---S
+2730	TOK	median		median\N5S
+2731	TOK	of		of\P
+##	TAG	<num>
+2732	TOK	11		11\X
+##	TAG	</num>
+2733	TOK	days		day\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2734	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+2735	TOK	irinotecan		irinotecan\N5S
+2736	TOK	improved		improve\VMF6A66
+2737	TOK	the		the\AT---6
+2738	TOK	symptoms		symptom\N5P
+2739	TOK	of		of\P
+2740	TOK	patients		patient\N5P
+2741	TOK	and		and\CC
+2742	TOK	delayed		delay\VMF6A66
+2743	TOK	the		the\AT---6
+2744	TOK	onset		onset\N5S
+2745	TOK	of		of\P
+2746	TOK	tumour		tumour\N5S
+---	DLI	-		=\DELIM
+2747	TOK	related		relate\VMC----
+2748	TOK	symptoms		symptom\N5P
+2749	TOK	such		such\RIS3N-
+2750	TOK	as		as\P
+2751	TOK	performance		performance\N5S
+---	DLI	-		=\DELIM
+2752	TOK	status		status\N5S
+2753	TOK	deterioration		deterioration\N5S
+---	DLD	,		=\DELIM
+2754	TOK	weight		weight\N5S
+2755	TOK	loss		loss\N5S
+---	DLD	,		=\DELIM
+2756	TOK	and		and\CC
+2757	TOK	pain		pain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2758	TOK	These	BOS	this\AD---P
+2759	TOK	data		data\N56
+2760	TOK	were		be\V6F-A66
+2761	TOK	supported		support\VMC----
+2762	TOK	by		by\P
+2763	TOK	the		the\AT---6
+2764	TOK	quality		quality\N5S
+---	DLI	-		=\DELIM
+2765	TOK	of		of\P
+---	DLI	-		=\DELIM
+2766	TOK	life		life\N5S
+2767	TOK	analysis		analysis\N5S
+2768	TOK	which		which\RW63N-
+2769	TOK	suggested		suggest\VMF6A66
+2770	TOK	that		that\CS
+2771	TOK	the		the\AT---6
+2772	TOK	side		side\N5S
+---	DLI	-		=\DELIM
+2773	TOK	effects		effect\N5P
+2774	TOK	of		of\P
+2775	TOK	irinotecan		irinotecan\N5S
+2776	TOK	were		be\V6F-A66
+2777	TOK	favourably		favourably\JA
+2778	TOK	balanced		balance\VMC----
+2779	TOK	by		by\P
+2780	TOK	reduced		reduce\VMC----
+2781	TOK	tumour		tumour\N5S
+---	DLI	-		=\DELIM
+2782	TOK	related		relate\VMC----
+2783	TOK	events		event\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2784	TOK	We	BOS	we\RPP1NN
+2785	TOK	have		have\V6F6R66
+2786	TOK	shown		show\VMC----
+2787	TOK	a		a\AI---S
+2788	TOK	survival		survival\N5S
+2789	TOK	advantage		advantage\N5S
+2790	TOK	and		and\CC
+2791	TOK	a		a\AI---S
+2792	TOK	clinical		clinical\JA
+2793	TOK	benefit		benefit\N5S
+2794	TOK	from		from\P
+2795	TOK	second		second\MOS
+---	DLI	-		=\DELIM
+2796	TOK	line		line\N5S
+2797	TOK	chemotherapy		chemotherapy\N5S
+2798	TOK	in		in\P
+2799	TOK	patients		patient\N5P
+2800	TOK	with		with\P
+2801	TOK	metastatic		metastatic\JA
+2802	TOK	colorectal		colorectal\JA
+2803	TOK	cancer		cancer\N5S
+##	TAG	<loc pos="DGA7">
+2804	TOK	no longer		no_longer\DGA7
+##	TAG	</loc>
+2805	TOK	responding		respond\VMG----
+2806	TOK	to		to\P
+2807	TOK	fluorouracil		fluorouracil\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2808	TOK	Many	BOS	many\AI---P
+2809	TOK	patients		patient\N5P
+2810	TOK	had		have\V6F6A66
+2811	TOK	poor		poor\JA
+2812	TOK	prognostic		prognostic\JA
+2813	TOK	factors		factor\N5P
+---	DLD	,		=\DELIM
+2814	TOK	which		which\RW63N-
+2815	TOK	implies		imply\VMFDRS3
+2816	TOK	that		that\CS
+2817	TOK	the		the\AT---6
+2818	TOK	results		result\N5P
+2819	TOK	will		will\VOFDR66
+2820	TOK	be		be\VMI----
+2821	TOK	applicable		applicable\JA
+2822	TOK	in		in\P
+2823	TOK	the		the\AT---6
+2824	TOK	daily		daily\JA
+2825	TOK	practice		practice\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2826	TOK	The	BOS	the\AT---6
+2827	TOK	value		value\N5S
+2828	TOK	of		of\P
+2829	TOK	irinotecan		irinotecan\N5S
+2830	TOK	was		be\V6F-A66
+2831	TOK	confirmed		confirm\VMC----
+2832	TOK	in		in\P
+2833	TOK	terms		term\N5P
+2834	TOK	of		of\P
+2835	TOK	survival		survival\N5S
+---	DLD	,		=\DELIM
+2836	TOK	quality		quality\N5S
+2837	TOK	of		of\P
+2838	TOK	life		life\N5S
+---	DLD	,		=\DELIM
+2839	TOK	and		and\CC
+2840	TOK	other		other\JA
+2841	TOK	clinical		clinical\JA
+2842	TOK	variables		variable\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2843	TOK	Irinotecan	BOS	Irinotecan\N46
+##	TAG	</name>
+2844	TOK	can		can\VOFDR66
+2845	TOK	therefore		therefore\DGA7
+2846	TOK	be		be\VMI----
+2847	TOK	recommended		recommend\VMC----
+2848	TOK	as		as\P
+2849	TOK	the		the\AT---6
+2850	TOK	standard		standard\JA
+2851	TOK	second		second\MOS
+---	DLI	-		=\DELIM
+2852	TOK	line		line\N5S
+2853	TOK	therapy		therapy\N5S
+2854	TOK	in		in\P
+2855	TOK	colorectal		colorectal\JA
+2856	TOK	cancer		cancer\N5S
+2857	TOK	and		and\CC
+2858	TOK	as		as\P
+2859	TOK	a		a\AI---S
+2860	TOK	new		new\JA
+2861	TOK	reference		reference\N5S
+2862	TOK	for		for\P
+2863	TOK	forthcoming		forthcoming\JA
+2864	TOK	clinical		clinical\JA
+2865	TOK	trials		trial\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2866	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+2867	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2869	TOK	Safety	BOS	safety\N5S
+2870	TOK	guidelines		guideline\N5P
+2871	TOK	for		for\P
+2872	TOK	treatment		treatment\N5S
+2873	TOK	with		with\P
+2874	TOK	irinotecan	EOS	irinotecan\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2876	TOK	Side	BOS	side\N5S
+2877	TOK	effect		effect\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2878	TOK	Treatment	BOS	treatment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2879	TOK	Cholinergic	BOS	cholinergic\JA
+2880	TOK	syndrome		syndrome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2881	TOK	Atropine	BOS	atropine\N5S
+2882	TOK	sulphate		sulphate\N5S
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+2883	TOK	0·25		noanat\W
+##	TAG	</na>
+2884	TOK	mg		mg\N5S
+2885	TOK	subcutaneously		subcutaneously\DGA7
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2886	TOK	if		if\CS
+2887	TOK	severe		severe\JA
+---	DLD	,		=\DELIM
+2888	TOK	prophylactic		prophylactic\JA
+2889	TOK	treatment		treatment\N5S
+2890	TOK	at		at\P
+2891	TOK	further		further\JA
+2892	TOK	cycles		cycle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2893	TOK	Nausea/vomiting	BOS	Nausea/vomiting\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2894	TOK	Systemic	BOS	systemic\JA
+2895	TOK	prophylactic		prophylactic\JA
+2896	TOK	antiemetics		antiemetic\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2897	TOK	First	BOS	first\MOS
+2898	TOK	loose		loose\JA
+2899	TOK	stool		stool\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2901	TOK	Early	BOS	early\JA
+2902	TOK	high		high\JA
+---	DLI	-		=\DELIM
+2903	TOK	dose		dose\N5S
+2904	TOK	loperamide		loperamide\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2905	TOK	4		4\X
+##	TAG	</num>
+2906	TOK	mg		mg\N5S
+2907	TOK	at		at\P
+2908	TOK	the		the\AT---6
+2909	TOK	first		first\MOS
+2910	TOK	loose		loose\JA
+2911	TOK	stool		stool\N5S
+---	DLD	,		=\DELIM
+2912	TOK	then		then\DGA7
+##	TAG	<num>
+2913	TOK	2		2\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+2914	TOK	mg		mg\N56
+##	TAG	</loc>
+2915	TOK	every		every\AG---S
+##	TAG	<num>
+2916	TOK	2		2\X
+##	TAG	</num>
+2917	TOK	h		h\N5S
+2918	TOK	for		for\P
+##	TAG	<num>
+2919	TOK	12		12\X
+##	TAG	</num>
+2920	TOK	h		h\N5S
+2921	TOK	after		after\P
+2922	TOK	the		the\AT---6
+2923	TOK	last		last\JA
+2924	TOK	loose		loose\JA
+2925	TOK	stool		stool\N5S
+2926	TOK	for		for\P
+2927	TOK	a		a\AI---S
+2928	TOK	maximum		maximum\N5S
+2929	TOK	of		of\P
+##	TAG	<num>
+2930	TOK	48		48\X
+##	TAG	</num>
+2931	TOK	h		h\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2932	TOK	Diarrhoea	BOS	diarrhoea\N5S
+2933	TOK	for		for\P
+2934	TOK	>		noanat\W
+2935	TOK	24h.	EOS	noanat\W
+##	TAG	</s>
+##	TAG	<s>
+2937	TOK	Oral	BOS	oral\JA
+2938	TOK	prophylactic		prophylactic\JA
+2939	TOK	broad		broad\JA
+---	DLI	-		=\DELIM
+2940	TOK	spectrum		spectrum\N5S
+2941	TOK	antibiotherapyeg		antibiotherapyeg\N5P
+---	DLD	,		=\DELIM
+2942	TOK	fluoroquinolone		fluoroquinolone\N5S
+---	DLE	(		=\DELIM
+2943	TOK	to		to\P
+2944	TOK	prevent		prevent\VMI----
+2945	TOK	the		the\AT---6
+2946	TOK	risk		risk\N5S
+2947	TOK	of		of\P
+2948	TOK	severe		severe\JA
+2949	TOK	infection		infection\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2950	TOK	Diarrhoea	BOS	diarrhoea\N5S
+2951	TOK	for		for\P
+2952	TOK	>		noanat\W
+2953	TOK	48h.	EOS	noanat\W
+##	TAG	</s>
+##	TAG	<s>
+2955	TOK	Admission	BOS	admission\N5S
+2956	TOK	to		to\P
+2957	TOK	hospital		hospital\N5S
+2958	TOK	for		for\P
+2959	TOK	parenteral		parenteral\JA
+2960	TOK	support		support\N5S
+2961	TOK	and		and\CC
+2962	TOK	replacement		replacement\N5S
+2963	TOK	of		of\P
+2964	TOK	antidiarrhoeal		antidiarrhoeal\JA
+2965	TOK	treatmenteg		treatmenteg\N5P
+---	DLD	,		=\DELIM
+2966	TOK	octreotide		octreotide\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2967	TOK	Grade	BOS	grade\VMF6R66
+##	TAG	<num>
+2968	TOK	4		4\X
+##	TAG	</num>
+2969	TOK	neutropenia		neutropenia\N5S
+2970	TOK	or		or\CC
+2971	TOK	grade		grade\VMF6R66
+##	TAG	<num>
+2972	TOK	3		3\X
+##	TAG	</num>
+2973	TOK	or		or\CC
+##	TAG	<num>
+2974	TOK	4		4\X
+##	TAG	</num>
+2975	TOK	diarrhoea		diarrhoea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2976	TOK	Dose	BOS	dose\N5S
+2977	TOK	reduction		reduction\N5S
+2978	TOK	at		at\P
+2979	TOK	further		further\JA
+2980	TOK	cycles		cycle\N5P
+---	DLD	:		=\DELIM
+##	TAG	<num>
+2981	TOK	300		300\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+2982	TOK	mg/m2		mg/m2\N56
+##	TAG	</loc>
+2983	TOK	then		then\DGA7
+##	TAG	<num>
+2984	TOK	250		250\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+2985	TOK	mg/m2		mg/m2\N56
+##	TAG	</loc>
+---	DLE	(		=\DELIM
+2986	TOK	or		or\CC
+##	TAG	<num>
+2987	TOK	250		250\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+2988	TOK	mg/m2		mg/m2\N56
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2989	TOK	then		then\DGA7
+##	TAG	<num>
+2990	TOK	200		200\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+2991	TOK	mg/m2		mg/m2\N56
+##	TAG	</loc>
+2992	TOK	if		if\CS
+2993	TOK	start		start\N5S
+2994	TOK	dose		dose\N5S
+##	TAG	<num>
+2995	TOK	300		300\X
+##	TAG	</num>
+##	TAG	<loc pos="N56">
+2996	TOK	mg/m2		mg/m2\N56
+##	TAG	</loc>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2997	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+2998	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3000	TOK	Baseline	BOS	baseline\N5S
+3001	TOK	characteristics	EOS	characteristic\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3003	TOK	Irinotecan	BOS	Irinotecan\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+3004	TOK	n=189		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3006	TOK	Supportive	BOS	supportive\JA
+3007	TOK	care		care\N5S
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+3008	TOK	n=90		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3010	TOK	Sex	BOS	sex\N5S
+---	DLE	(		=\DELIM
+3011	TOK	men/women		men/women\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3012	TOK	Median	BOS	median\N5S
+3013	TOK	age		age\N5S
+---	DLE	(		=\DELIM
+3014	TOK	range		range\VMF6R66
+---	DLD	,		=\DELIM
+3015	TOK	years		year\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3016	TOK	WHO	BOS	who\RW63N-
+3017	TOK	performance		performance\N5S
+3018	TOK	status		status\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3019	TOK	Weight	BOS	weight\N5S
+3020	TOK	loss		loss\N5S
+##	TAG	<num>
+3021	TOK	>5		>5\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3022	TOK	With	BOS	with\P
+3023	TOK	symptoms		symptom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3024	TOK	Primary	BOS	primary\JA
+3025	TOK	tumour		tumour\N5S
+3026	TOK	site		site\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3027	TOK	Colon	BOS	colon\N5S
+3028	TOK	right		right\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3029	TOK	Colon	BOS	colon\N5S
+3030	TOK	left		leave\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3031	TOK	Rectum	BOS	rectum\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3032	TOK	Number	BOS	number\N5S
+3033	TOK	of		of\P
+3034	TOK	organs		organ\N5P
+3035	TOK	involved		involve\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3036	TOK	Sites	BOS	site\N5P
+3037	TOK	of		of\P
+3038	TOK	metastases		metastasis\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3039	TOK	Liver	BOS	liver\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3040	TOK	Lung	BOS	lung\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3041	TOK	Peritoneum	BOS	peritoneum\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3042	TOK	CEA	BOS	CEA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3043	TOK	Median	BOS	median\N5S
+##	TAG	<name>
+3044	TOK	CEA		CEA\N46
+##	TAG	</name>
+3045	TOK	concentration		concentration\N5S
+---	DLE	(		=\DELIM
+3046	TOK	range		range\VMF6R66
+---	DLD	;		=\DELIM
+##	TAG	<na type="function">
+3047	TOK	mg/L		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3048	TOK	Documentation	BOS	documentation\N5S
+3049	TOK	of		of\P
+3050	TOK	tumour		tumour\N5S
+3051	TOK	progression		progression\N5S
+3052	TOK	by		by\P
+##	TAG	<name>
+3053	TOK	CEA		CEA\N46
+##	TAG	</name>
+3054	TOK	increase		increase\N5S
+3055	TOK	only		only\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3056	TOK	Mean	BOS	mean\JA
+3057	TOK	increase		increase\VMF6R66
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3058	TOK	CEArand/CEAref		CEArand/CEAref\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+3059	TOK	for		for\P
+3060	TOK	those		that\RDP3N-
+3061	TOK	assessed		assess\VMC----
+3062	TOK	by		by\P
+##	TAG	<name>
+3063	TOK	CEA		CEA\N46
+##	TAG	</name>
+3064	TOK	only		only\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3065	TOK	Documented	BOS	document\VMC----
+3066	TOK	tumour		tumour\N5S
+3067	TOK	progression		progression\N5S
+3068	TOK	while		while\CS
+3069	TOK	on		on\P
+3070	TOK	previous		previous\JA
+3071	TOK	fluorouracil		fluorouracil\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3072	TOK	Previous	BOS	previous\JA
+3073	TOK	treatment		treatment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3074	TOK	Surgery	BOS	surgery\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3075	TOK	Radiotherapy	BOS	radiotherapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3076	TOK	Chemotherapy	BOS	chemotherapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3077	TOK	Adjuvant	BOS	adjuvant\N5S
+3078	TOK	only		only\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3079	TOK	One	BOS	one\MCS
+3080	TOK	regimen		regimen\N5S
+3081	TOK	for		for\P
+3082	TOK	metastatic		metastatic\JA
+3083	TOK	disease		disease\N5S
+3084	TOK	with		with\P
+3085	TOK	or		or\CC
+3086	TOK	without		without\P
+3087	TOK	adjuvant		adjuvant\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+3088	TOK	>2	BOS	>2\X
+##	TAG	</num>
+3089	TOK	regimens		regimen\N5P
+3090	TOK	for		for\P
+3091	TOK	metastatic		metastatic\JA
+3092	TOK	disease		disease\N5S
+3093	TOK	with		with\P
+3094	TOK	or		or\CC
+3095	TOK	without		without\P
+3096	TOK	adjuvant		adjuvant\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3097	TOK	Best	BOS	good\JS
+3098	TOK	response		response\N5S
+3099	TOK	to		to\P
+3100	TOK	previous		previous\JA
+3101	TOK	fluorouracil		fluorouracil\N5S
+3102	TOK	for		for\P
+3103	TOK	metastatic		metastatic\JA
+3104	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3106	TOK	Complete/partial	BOS	Complete/partial\N46
+##	TAG	</name>
+3107	TOK	regression		regression\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3108	TOK	Stabilisation	BOS	Stabilisation\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3109	TOK	Progression	BOS	progression\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3110	TOK	Abnormal	BOS	abnormal\JA
+3111	TOK	biological		biological\JA
+3112	TOK	value		value\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3113	TOK	Haemoglobin	BOS	haemoglobin\N5S
+3114	TOK	xxx		noanat\W
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3116	TOK	White	BOS	white\JA
+3117	TOK	blood		blood\N5S
+3118	TOK	cells		cell\N5P
+##	TAG	<num>
+3119	TOK	>83109		>83109\X
+##	TAG	</num>
+---	DLE	/		=\DELIM
+3120	TOK	L		L\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3121	TOK	LDH/IUNL	BOS	LDH/IUNL\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3122	TOK	Alkaline	BOS	alkaline\JA
+3123	TOK	phosphatases		phosphatase\N5P
+3124	TOK	>		noanat\W
+##	TAG	<name pos="N46" expansion="institutional upper normal limit">
+3125	TOK	IUNL		IUNL\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3126	TOK	CEA	BOS	CEA\N5S
+3127	TOK	>		noanat\W
+##	TAG	<num>
+3128	TOK	10		10\X
+##	TAG	</num>
+3129	TOK	mg/L		mg/L\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3130	TOK	Median	BOS	median\N5S
+3131	TOK	haemoglobin		haemoglobin\N5S
+3132	TOK	concentration		concentration\N5S
+---	DLE	(		=\DELIM
+3133	TOK	range		range\VMF6R66
+---	DLD	;		=\DELIM
+##	TAG	<na type="function">
+3134	TOK	g/L		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3135	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+3136	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3138	TOK	Multivariate	BOS	multivariate\JA
+##	TAG	<name>
+3139	TOK	Cox		Cox\N46
+##	TAG	</name>
+3140	PGR	's		genmark\GENMARK
+3141	TOK	analysis	EOS	analysis\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3143	TOK	Risk.	BOS	Risk.\N46
+##	TAG	</name>
+3144	TOK	ratio		ratio\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="p.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+3145	TOK	Treatment	BOS	treatment\N5S
+3146	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3147	TOK	Irinotecan	BOS	Irinotecan\N46
+##	TAG	</name>
+3148	TOK	and		and\CC
+3149	TOK	supportive		supportive\JA
+3150	TOK	care		care\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3151	TOK	Supportive	BOS	supportive\JA
+3152	TOK	care		care\N5S
+3153	TOK	alone		alone\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3154	TOK	Weight	BOS	weight\N5S
+3155	TOK	loss		loss\N5S
+3156	TOK	during		during\P
+3157	TOK	previous		previous\JA
+##	TAG	<num>
+3158	TOK	3		3\X
+##	TAG	</num>
+3159	TOK	months		month\N5P
+---	DLE	(		=\DELIM
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3160	TOK	WHO	BOS	who\RW63N-
+3161	TOK	performance		performance\N5S
+3162	TOK	status		status\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3163	TOK	Haemoglobin	BOS	haemoglobin\N5S
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+3164	TOK	g/L		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3165	TOK	Liver	BOS	liver\N5S
+3166	TOK	metastases		metastasis\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3167	TOK	Alkaline	BOS	alkaline\JA
+3168	TOK	phosphatases		phosphatase\N5P
+---	DLE	(		=\DELIM
+3169	TOK	3UINL		3UINL\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3170	TOK	Number	BOS	number\N5S
+3171	TOK	of		of\P
+3172	TOK	organs		organ\N5P
+3173	TOK	involved		involve\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3174	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+3175	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3177	TOK	Worst	BOS	bad\JS
+3178	TOK	score		score\N56
+3179	TOK	during		during\P
+3180	TOK	study		study\N5S
+3181	TOK	for		for\P
+3182	TOK	each		each\AG---S
+##	TAG	<name>
+3183	TOK	EORTC QLQ-C30		EORTC_QLQ-C30\N46
+##	TAG	</name>
+3184	TOK	scale	EOS	scale\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3186	TOK	Irinotecan	BOS	Irinotecan\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+3187	TOK	n=158		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+3188	TOK	mean		mean\JA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3189	TOK	SE		SE\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3191	TOK	Supportive	BOS	supportive\JA
+3192	TOK	care		care\N5S
+3193	TOK	alone		alone\DGA7
+---	DLE	(		=\DELIM
+##	TAG	<na type="equation">
+3194	TOK	n=73		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+3195	TOK	mean		mean\JA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3196	TOK	SE		SE\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="p.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+3198	TOK	Functioning	BOS	function\VMG----
+3199	TOK	scale		scale\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3200	TOK	Physical	BOS	physical\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3201	TOK	Role	BOS	role\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3202	TOK	Cognitive	BOS	cognitive\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3203	TOK	Emotional	BOS	emotional\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3204	TOK	Social	BOS	social\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3205	TOK	Global	BOS	global\JA
+3206	TOK	quality		quality\N5S
+3207	TOK	of		of\P
+3208	TOK	life		life\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3209	TOK	Symptoms	BOS	symptom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3210	TOK	Fatigue	BOS	fatigue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3211	TOK	Nausea/vomiting	BOS	Nausea/vomiting\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3212	TOK	Pain	BOS	pain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3213	TOK	Dyspnoea	BOS	dyspnoea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3214	TOK	Sleep	BOS	sleep\N5S
+3215	TOK	disturbance		disturbance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3216	TOK	Appetite	BOS	appetite\N5S
+3217	TOK	loss		loss\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3218	TOK	Constipation	BOS	constipation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3219	TOK	Diarrhoea	BOS	diarrhoea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3220	TOK	Financial	BOS	financial\JA
+3221	TOK	impact		impact\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3222	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+3223	TOK	5	EOS	5\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3225	TOK	Patients	BOS	patient\N5P
+3226	TOK	with		with\P
+##	TAG	<name pos="N46" type="organization">
+3227	TOK	National Cancer Institute		National_Cancer_Institute\N46
+##	TAG	</name>
+3228	TOK	common		common\JA
+3229	TOK	toxicity		toxicity\N5S
+3230	TOK	criteria		criterion\N5P
+3231	TOK	grade		grade\VMF6R66
+##	TAG	<num>
+3232	TOK	3		3\X
+##	TAG	</num>
+3233	TOK	or		or\CC
+##	TAG	<num>
+3234	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3236	TOK	Adverse	BOS	adverse\JA
+3237	TOK	event		event\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+3238	TOK	Irinotecan	BOS	Irinotecan\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3239	TOK	Supportive	BOS	supportive\JA
+3240	TOK	care		care\N5S
+3241	TOK	alone		alone\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3242	TOK	Anaemia	BOS	anaemia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3243	TOK	Leukopenia/neutropenia	BOS	Leukopenia/neutropenia\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3244	TOK	Thrombocytopenia	BOS	thrombocytopenia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3246	TOK	Fever	BOS	fever\N5S
+3247	TOK	or		or\CC
+3248	TOK	infection		infection\N5S
+3249	TOK	with		with\P
+3250	TOK	grade		grade\VMI----
+##	TAG	<num>
+3251	TOK	3		3\X
+##	TAG	</num>
+3252	TOK	or		or\CC
+3253	TOK	neutropenia		neutropenia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3254	TOK	Nausea	BOS	nausea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3255	TOK	Vomiting	BOS	vomit\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3257	TOK	Diarrhoea	BOS	diarrhoea\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3258	TOK	Constipation	BOS	constipation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3260	TOK	Cholinergic	BOS	cholinergic\JA
+3261	TOK	syndrome		syndrome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3262	TOK	Asthenia	BOS	asthenia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3263	TOK	Mucositis	BOS	Mucositis\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3264	TOK	Anorexia	BOS	anorexia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3265	TOK	Cutaneous	BOS	cutaneous\JA
+3266	TOK	signs		sign\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3267	TOK	Neurological	BOS	neurological\JA
+3268	TOK	symptoms		symptom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3269	TOK	Cardiovascular	BOS	cardiovascular\JA
+3270	TOK	symptoms		symptom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3271	TOK	Pain	BOS	pain\N5S
+---	DLE	(		=\DELIM
+3272	TOK	abdominal		abdominal\JA
+3273	TOK	excluded		exclude\VMF6A66
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3274	TOK	Abdominal	BOS	abdominal\JA
+3275	TOK	pain		pain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3276	TOK	Infection	BOS	infection\N5S
+---	DLE	(		=\DELIM
+3277	TOK	without		without\P
+3278	TOK	grade		grade\VMI----
+##	TAG	<num>
+3279	TOK	3		3\X
+##	TAG	</num>
+3280	TOK	or		or\CC
+##	TAG	<num>
+3281	TOK	4		4\X
+##	TAG	</num>
+3282	TOK	neutropenia		neutropenia\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3283	TOK	Any	BOS	any\AG---6
+3284	TOK	grade		grade\VMF6R66
+##	TAG	<num>
+3285	TOK	3		3\X
+##	TAG	</num>
+3286	TOK	or		or\CC
+##	TAG	<num>
+3287	TOK	4		4\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3288	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3289	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3291	TOK	Trial	BOS	trial\N5S
+3292	TOK	profile	EOS	profile\N5S
+##	TAG	</head>
+##	TAG	<head>
+3294	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3295	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3297	TOK	Probability	BOS	probability\N5S
+3298	TOK	of		of\P
+3299	TOK	survival		survival\N5S
+3300	TOK	of		of\P
+3301	TOK	the		the\AT---6
+##	TAG	<num>
+3302	TOK	279		279\X
+##	TAG	</num>
+3303	TOK	patients	EOS	patient\N5P
+##	TAG	</head>
+##	TAG	<head>
+3305	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3306	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3308	TOK	Probability	BOS	probability\N5S
+3309	TOK	of		of\P
+3310	TOK	survival		survival\N5S
+##	TAG	<loc pos="P">
+3311	TOK	according to		according_to\P
+##	TAG	</loc>
+3312	TOK	performance		performance\N5S
+3313	TOK	status	EOS	status\N5S
+##	TAG	</head>
+##	TAG	<head>
+3315	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3316	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3318	TOK	Probability	BOS	probability\N5S
+3319	TOK	of		of\P
+3320	TOK	pain		pain\N5S
+---	DLI	-		=\DELIM
+3321	TOK	free		free\JA
+3322	TOK	survival		survival\N5S
+3323	TOK	in		in\P
+##	TAG	<num>
+3324	TOK	116		116\X
+##	TAG	</num>
+3325	TOK	patients		patient\N5P
+3326	TOK	without		without\P
+3327	TOK	pain		pain\N5S
+3328	TOK	at		at\P
+3329	TOK	baseline	EOS	baseline\N5S
+##	TAG	</head>
+##	TAG	</div1>

@@ -1,0 +1,4495 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	Recombinant	BOS	recombinant\N5S
+##	TAG	<name>
+2	TOK	DNA Technology	EOS	DNA_Technology\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+4	TOK	CHAPTER	BOS	chapter\N5S
+5	TOK	CONCEPTS	EOS	concept\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+7	TOK	Recombinant	BOS	recombinant\N5S
+##	TAG	<name>
+8	TOK	DNA		DNA\N46
+##	TAG	</name>
+9	TOK	technology		technology\N5S
+10	TOK	depends		depend\VMFDRS3
+11	TOK	in		in\P
+12	TOK	part		part\N5S
+13	TOK	on		on\P
+14	TOK	the		the\AT---6
+15	TOK	ability		ability\N5S
+16	TOK	to		to\P
+17	TOK	cleave		cleave\VMI----
+18	TOK	and		and\CC
+19	TOK	rejoin		rejoin\VMI----
+##	TAG	<name>
+20	TOK	DNA		DNA\N46
+##	TAG	</name>
+21	TOK	segments		segment\N5P
+22	TOK	at		at\P
+23	TOK	specific		specific\JA
+24	TOK	base		base\N5S
+25	TOK	sequences		sequence\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+26	TOK	Using	BOS	use\VMG----
+27	TOK	this		this\AD---S
+28	TOK	methodology		methodology\N5S
+---	DLD	,		=\DELIM
+29	TOK	individual		individual\JA
+##	TAG	<abbr>
+30	TOK	D.		D.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+31	TOK	7VA		7VA\N5S
+32	TOK	segments		segment\N5P
+33	TOK	can		can\VOFDR66
+34	TOK	be		be\VMI----
+35	TOK	transferred		transfer\VMC----
+36	TOK	to		to\P
+37	TOK	viruses		virus\N5P
+38	TOK	or		or\CC
+39	TOK	bacteria		bacteria\N5P
+40	TOK	and		and\CC
+41	TOK	amplified		amplify\VMF6A66
+---	DLD	,		=\DELIM
+42	TOK	isolated		isolate\VMF6A66
+---	DLD	,		=\DELIM
+43	TOK	and		and\CC
+44	TOK	identified		identify\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+45	TOK	The	BOS	the\AT---6
+46	TOK	use		use\N5S
+47	TOK	of		of\P
+48	TOK	this		this\AD---S
+49	TOK	technology		technology\N5S
+50	TOK	has		have\V6FDRS3
+51	TOK	brought		bring\VMC----
+52	TOK	about		about\P
+53	TOK	significant		significant\JA
+54	TOK	advances		advance\N5P
+55	TOK	in		in\P
+56	TOK	gene		gene\N5S
+57	TOK	mapping		map\VMG----
+---	DLD	,		=\DELIM
+58	TOK	disease		disease\N5S
+59	TOK	diagnosis		diagnosis\N5S
+---	DLD	,		=\DELIM
+60	TOK	the		the\AT---6
+61	TOK	commercial		commercial\JA
+62	TOK	production		production\N5S
+63	TOK	of		of\P
+64	TOK	human		human\JA
+65	TOK	gene		gene\N5S
+66	TOK	products		product\N5P
+---	DLD	,		=\DELIM
+67	TOK	and		and\CC
+68	TOK	the		the\AT---6
+69	TOK	transfer		transfer\N5S
+70	TOK	of		of\P
+71	TOK	genes		gene\N5P
+72	TOK	between		between\P
+73	TOK	species		species\N56
+74	TOK	in		in\P
+75	TOK	plants		plant\N5P
+76	TOK	and		and\CC
+77	TOK	animals		animal\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+78	TOK	The	BOS	the\AT---6
+79	TOK	independent		independent\JA
+80	TOK	rediscovery		rediscovery\N5S
+81	TOK	of		of\P
+##	TAG	<name>
+82	TOK	Mendel		Mendel\N46
+##	TAG	</name>
+83	PGR	's		genmark\GENMARK
+84	TOK	work		work\N5S
+85	TOK	by		by\P
+86	TOK	de		de\JA
+##	TAG	<name>
+87	TOK	Vries		Vries\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+88	TOK	Correns		Correns\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+89	TOK	and		and\CC
+90	TOK	von		von\N5S
+##	TAG	<name>
+91	TOK	Tschermak		Tschermak\N46
+##	TAG	</name>
+92	TOK	in		in\P
+##	TAG	<num>
+93	TOK	1900		1900\X
+##	TAG	</num>
+94	TOK	marked		mark\VMC----
+95	TOK	the		the\AT---6
+96	TOK	beginning		beginning\N5S
+97	TOK	of		of\P
+98	TOK	genetics		genetics\N56
+99	TOK	as		as\P
+100	TOK	an		an\AI---S
+101	TOK	organized		organize\VMC----
+102	TOK	discipline		discipline\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+103	TOK	During	BOS	during\P
+104	TOK	the		the\AT---6
+105	TOK	course		course\N5S
+106	TOK	of		of\P
+107	TOK	the		the\AT---6
+108	TOK	growth		growth\N5S
+109	TOK	and		and\CC
+110	TOK	development		development\N5S
+111	TOK	of		of\P
+112	TOK	this		this\AD---S
+113	TOK	science		science\N5S
+---	DLD	,		=\DELIM
+114	TOK	several		several\JA
+115	TOK	key		key\N5S
+116	TOK	discoveries		discovery\N5P
+117	TOK	have		have\V6F6R66
+118	TOK	served		serve\VMC----
+119	TOK	as		as\CS
+120	TOK	turning		turn\VMG----
+121	TOK	points		point\N5P
+---	DLD	,		=\DELIM
+122	TOK	each		each\RIS3N-
+123	TOK	accelerating		accelerate\VMG----
+124	TOK	the		the\AT---6
+125	TOK	rate		rate\N5S
+126	TOK	at		at\P
+127	TOK	which		which\RW63N-
+128	TOK	our		our\APP1N6
+129	TOK	knowledge		knowledge\N5S
+130	TOK	of		of\P
+131	TOK	genetics		genetics\N56
+132	TOK	has		have\V6FDRS3
+133	TOK	grown		grow\VMC----
+---	DLD	,		=\DELIM
+134	TOK	and		and\CC
+---	DLD	,		=\DELIM
+135	TOK	in		in\P
+136	TOK	turn		turn\VMI----
+---	DLD	,		=\DELIM
+137	TOK	opening		opening\N5S
+138	TOK	new		new\JA
+139	TOK	fields		field\N5P
+140	TOK	of		of\P
+141	TOK	investigation		investigation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+142	TOK	One	BOS	one\RIS3N-
+143	TOK	of		of\P
+144	TOK	the		the\AT---6
+145	TOK	first		first\MOS
+146	TOK	of		of\P
+147	TOK	these		this\AD---P
+148	TOK	landmarks		landmark\N5P
+149	TOK	was		be\V6F-A66
+150	TOK	the		the\AT---6
+151	TOK	chromosome		chromosome\N5S
+152	TOK	theory		theory\N5S
+153	TOK	of		of\P
+154	TOK	inheritance		inheritance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+155	TOK	This	BOS	this\AD---S
+156	TOK	concept		concept\N5S
+---	DLD	,		=\DELIM
+157	TOK	proposed		propose\VMC----
+158	TOK	by		by\P
+##	TAG	<name>
+159	TOK	Sutton		Sutton\N46
+##	TAG	</name>
+160	TOK	and		and\CC
+##	TAG	<name>
+161	TOK	Boveri		Boveri\N46
+##	TAG	</name>
+162	TOK	in		in\P
+##	TAG	<num>
+163	TOK	1902		1902\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+164	TOK	was		be\V6F-A66
+165	TOK	developed		develop\VMC----
+166	TOK	by		by\P
+##	TAG	<name>
+167	TOK	Morgan		Morgan\N46
+##	TAG	</name>
+168	TOK	and		and\CC
+169	TOK	his		his\APS3M6
+170	TOK	colleagues		colleague\N5P
+171	TOK	using		use\VMG----
+172	TOK	the		the\AT---6
+173	TOK	fruit		fruit\N5S
+174	TOK	fly		fly\VMI----
+---	DLD	,		=\DELIM
+##	TAG	<name>
+175	TOK	Drosophila		Drosophila\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+176	TOK	From	BOS	from\P
+177	TOK	these		this\AD---P
+178	TOK	studies		study\N5P
+179	TOK	came		come\VMF6A66
+180	TOK	our		our\APP1N6
+181	TOK	understanding		understanding\N5S
+182	TOK	of		of\P
+183	TOK	transmission		transmission\N5S
+184	TOK	genetics		genetics\N56
+---	DLD	,		=\DELIM
+185	TOK	sex		sex\N5S
+186	TOK	determination		determination\N5S
+---	DLD	,		=\DELIM
+187	TOK	linkage		linkage\N5S
+---	DLD	,		=\DELIM
+188	TOK	and		and\CC
+189	TOK	the		the\AT---6
+190	TOK	use		use\N5S
+191	TOK	of		of\P
+192	TOK	polytene		polytene\JA
+193	TOK	chromosomes		chromosome\N5P
+194	TOK	to		to\P
+195	TOK	map		map\N5S
+196	TOK	genes		gene\N5P
+197	TOK	to		to\P
+198	TOK	specific		specific\JA
+199	TOK	cytological		cytological\JA
+200	TOK	loci		locus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+201	TOK	A	BOS	a\AI---S
+202	TOK	second		second\MOS
+203	TOK	landmark		landmark\N5S
+204	TOK	was		be\V6F-A66
+205	TOK	the		the\AT---6
+206	TOK	discovery		discovery\N5S
+207	TOK	by		by\P
+##	TAG	<name>
+208	TOK	Avery		Avery\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+209	TOK	MacLeod		MacLeod\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+210	TOK	and		and\CC
+##	TAG	<name>
+211	TOK	McCarty		McCarty\N46
+##	TAG	</name>
+212	TOK	that		that\CS
+##	TAG	<name>
+213	TOK	DNA		DNA\N46
+##	TAG	</name>
+214	TOK	is		be\V6FDRS3
+215	TOK	the		the\AT---6
+216	TOK	macromolecular		macromolecular\JA
+217	TOK	carrier		carrier\N5S
+218	TOK	of		of\P
+219	TOK	genetic		genetic\JA
+220	TOK	information		information\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+221	TOK	This	BOS	this\AD---S
+222	TOK	work		work\N5S
+223	TOK	stimulated		stimulate\VMF6A66
+224	TOK	the		the\AT---6
+225	TOK	use		use\N5S
+226	TOK	of		of\P
+227	TOK	viruses		virus\N5P
+228	TOK	and		and\CC
+229	TOK	bacteria		bacteria\N5P
+230	TOK	as		as\P
+231	TOK	organisms		organism\N5P
+232	TOK	for		for\P
+233	TOK	genetic		genetic\JA
+234	TOK	research		research\N5S
+235	TOK	and		and\CC
+236	TOK	led		lead\VMF6A66
+237	TOK	to		to\P
+238	TOK	the		the\AT---6
+##	TAG	<name>
+239	TOK	Watson-Crick		Watson-Crick\N46
+##	TAG	</name>
+240	TOK	model		model\N5S
+241	TOK	for		for\P
+242	TOK	the		the\AT---6
+243	TOK	structure		structure\N5S
+244	TOK	of		of\P
+##	TAG	<name>
+245	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+246	TOK	From	BOS	from\P
+247	TOK	this		this\AD---S
+248	TOK	model		model\N5S
+249	TOK	has		have\V6FDRS3
+250	TOK	come		come\VMC----
+251	TOK	knowledge		knowledge\N5S
+252	TOK	of		of\P
+253	TOK	the		the\AT---6
+254	TOK	molecular		molecular\JA
+255	TOK	basis		basis\N5S
+256	TOK	for		for\P
+257	TOK	genetic		genetic\JA
+258	TOK	coding		code\VMG----
+---	DLD	,		=\DELIM
+259	TOK	transcription		transcription\N5S
+---	DLD	,		=\DELIM
+260	TOK	translation		translation\N5S
+---	DLD	,		=\DELIM
+261	TOK	and		and\CC
+262	TOK	gene		gene\N5S
+263	TOK	regulation		regulation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+264	TOK	We	BOS	we\RPP1NN
+265	TOK	are		be\V6FDR66
+266	TOK	now		now\DGA7
+267	TOK	undergoing		undergo\VMG----
+268	TOK	another		another\JA
+269	TOK	and		and\CC
+270	TOK	Perhaps		Perhaps\N5P
+271	TOK	the		the\AT---6
+272	TOK	most		most\DDS7
+273	TOK	profound		profound\JA
+274	TOK	transition		transition\N5S
+275	TOK	in		in\P
+276	TOK	the		the\AT---6
+277	TOK	history		history\N5S
+278	TOK	of		of\P
+279	TOK	genetics		genetics\N56
+---	DLE	-		=\DELIM
+280	TOK	the		the\AT---6
+281	TOK	development		development\N5S
+282	TOK	and		and\CC
+283	TOK	application		application\N5S
+284	TOK	of		of\P
+285	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+286	TOK	DNA		DNA\N46
+##	TAG	</name>
+287	TOK	technology		technology\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+288	TOK	This	BOS	this\AD---S
+289	TOK	technology		technology\N5S
+290	TOK	is		be\V6FDRS3
+291	TOK	used		use\VMC----
+292	TOK	in		in\P
+293	TOK	basic		basic\JA
+294	TOK	research		research\N5S
+295	TOK	and		and\CC
+296	TOK	in		in\P
+297	TOK	the		the\AT---6
+298	TOK	development		development\N5S
+299	TOK	and		and\CC
+300	TOK	production		production\N5S
+301	TOK	of		of\P
+302	TOK	vaccines		vaccine\N5P
+---	DLD	,		=\DELIM
+303	TOK	therapeutic		therapeutic\JA
+304	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+305	TOK	and		and\CC
+306	TOK	genetically		genetically\DGA7
+307	TOK	modified		modify\VMC----
+308	TOK	plants		plant\N5P
+309	TOK	and		and\CC
+310	TOK	animals		animal\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+311	TOK	It	BOS	it\RPS3N6
+312	TOK	has		have\V6FDRS3
+313	TOK	also		also\DGA7
+314	TOK	raised		raise\VMC----
+315	TOK	fears		fear\N5P
+316	TOK	about		about\P
+317	TOK	epidemics		epidemic\N5P
+318	TOK	or		or\CC
+319	TOK	widespread		widespread\JA
+320	TOK	ecological		ecological\JA
+321	TOK	changes		change\N5P
+322	TOK	that		that\RW63N6
+323	TOK	might		may\VOFDR66
+324	TOK	result		result\VMI----
+325	TOK	from		from\P
+326	TOK	the		the\AT---6
+327	TOK	release		release\N5S
+328	TOK	of		of\P
+329	TOK	genetically		genetically\DGA7
+330	TOK	engineered		engineer\VMC----
+331	TOK	organisms		organism\N5P
+332	TOK	into		into\P
+333	TOK	the		the\AT---6
+334	TOK	environment		environment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+335	TOK	This	BOS	this\AD---S
+336	TOK	chapter		chapter\N5S
+337	TOK	reviews		review\VMFDRS3
+338	TOK	the		the\AT---6
+339	TOK	basic		basic\JA
+340	TOK	methods		method\N5P
+341	TOK	of		of\P
+342	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+343	TOK	DNA		DNA\N46
+##	TAG	</name>
+344	TOK	technology		technology\N5S
+345	TOK	that		that\RW63N6
+346	TOK	are		be\V6FDR66
+347	TOK	used		use\VMC----
+348	TOK	to		to\P
+349	TOK	isolate		isolate\VMI----
+---	DLD	,		=\DELIM
+350	TOK	replicate		replicate\VMF6R66
+---	DLD	,		=\DELIM
+351	TOK	and		and\CC
+352	TOK	analyze		analyze\VMI----
+353	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+354	TOK	In	BOS	in\P
+355	TOK	the		the\AT---6
+356	TOK	chapter		chapter\N5S
+357	TOK	that		that\RW63N6
+358	TOK	follows		follow\VMFDRS3
+359	TOK	'e		'e\N5S
+360	TOK	will		will\VOFDR66
+361	TOK	discuss		discuss\VMI----
+362	TOK	some		some\AG---6
+363	TOK	of		of\P
+364	TOK	the		the\AT---6
+365	TOK	applications		application\N5P
+366	TOK	of		of\P
+367	TOK	this		this\AD---S
+368	TOK	technology		technology\N5S
+369	TOK	to		to\P
+370	TOK	agriculture		agriculture\N5S
+---	DLD	,		=\DELIM
+371	TOK	medicine		medicine\N5S
+---	DLD	,		=\DELIM
+372	TOK	and		and\CC
+373	TOK	industry		industry\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+374	TOK	Recombinant	BOS	recombinant\N5S
+##	TAG	<name>
+375	TOK	DNA Technology		DNA_Technology\N46
+##	TAG	</name>
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+377	TOK	An	BOS	an\AI---S
+##	TAG	<name>
+378	TOK	Overview	EOS	Overview\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+380	TOK	The	BOS	the\AT---6
+381	TOK	term		term\N5S
+382	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+383	TOK	DNA		DNA\N46
+##	TAG	</name>
+384	TOK	refers		refer\VMFDRS3
+385	TOK	to		to\P
+386	TOK	the		the\AT---6
+387	TOK	creation		creation\N5S
+388	TOK	of		of\P
+389	TOK	a		a\AI---S
+390	TOK	new		new\JA
+391	TOK	combination		combination\N5S
+392	TOK	of		of\P
+##	TAG	<name>
+393	TOK	DNA		DNA\N46
+##	TAG	</name>
+394	TOK	segments		segment\N5P
+395	TOK	or		or\CC
+##	TAG	<name>
+396	TOK	DNA		DNA\N46
+##	TAG	</name>
+397	TOK	molecules		molecule\N5P
+398	TOK	that		that\RW63N6
+399	TOK	are		be\V6FDR66
+400	TOK	not		not\DGA7
+401	TOK	found		find\VMC----
+402	TOK	together		together\DGA7
+403	TOK	naturally		naturally\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+404	TOK	Although	BOS	although\CS
+405	TOK	genetic		genetic\JA
+406	TOK	processes		process\N5P
+407	TOK	such		such\RIS3N-
+408	TOK	as		as\P
+409	TOK	crossing		crossing\N5S
+410	TOK	over		over\P
+411	TOK	technically		technically\DGA7
+412	TOK	pro		pro\JA
+413	TOK	duce		duce\N5S
+414	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+415	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+416	TOK	the		the\AT---6
+417	TOK	term		term\N5S
+418	TOK	is		be\V6FDRS3
+419	TOK	generally		generally\DGA7
+420	TOK	reserved		reserve\VMC----
+421	TOK	for		for\P
+##	TAG	<name>
+422	TOK	DNA		DNA\N46
+##	TAG	</name>
+423	TOK	molecules		molecule\N5P
+424	TOK	produced		produce\VMC----
+425	TOK	by		by\P
+426	TOK	joining		join\VMG----
+427	TOK	segments		segment\N5P
+428	TOK	derived		derive\VMC----
+429	TOK	from		from\P
+430	TOK	different		different\JA
+431	TOK	biological		biological\JA
+432	TOK	sources		source\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+433	TOK	Recombinant	BOS	recombinant\N5S
+##	TAG	<name>
+434	TOK	DNA		DNA\N46
+##	TAG	</name>
+435	TOK	technology		technology\N5S
+436	TOK	uses		use\VMFDRS3
+437	TOK	techniques		technique\N5P
+438	TOK	derived		derive\VMC----
+439	TOK	from		from\P
+440	TOK	the		the\AT---6
+441	TOK	biochemistry		biochemistry\N5S
+442	TOK	of		of\P
+443	TOK	nucleic		nucleic\JA
+444	TOK	acids		acid\N5P
+445	TOK	coupled		couple\VMC----
+446	TOK	with		with\P
+447	TOK	genetic		genetic\JA
+448	TOK	methodology		methodology\N5S
+449	TOK	originally		originally\DGA7
+450	TOK	developed		develop\VMF6A66
+451	TOK	for		for\P
+452	TOK	the		the\AT---6
+453	TOK	study		study\N5S
+454	TOK	of		of\P
+455	TOK	bacteria		bacteria\N5P
+456	TOK	and		and\CC
+457	TOK	viruses		virus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+458	TOK	As	BOS	as\DGA7
+459	TOK	described		describe\VMC----
+460	TOK	below		below\P
+---	DLD	,		=\DELIM
+461	TOK	the		the\AT---6
+462	TOK	use		use\N5S
+463	TOK	of		of\P
+464	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+465	TOK	DNA		DNA\N46
+##	TAG	</name>
+466	TOK	is		be\V6FDRS3
+467	TOK	a		a\AI---S
+468	TOK	powerful		powerful\JA
+469	TOK	tool		tool\N5S
+470	TOK	for		for\P
+471	TOK	the		the\AT---6
+472	TOK	isolation		isolation\N5S
+473	TOK	of		of\P
+474	TOK	pure		pure\JA
+475	TOK	populations		population\N5P
+476	TOK	of		of\P
+477	TOK	specific		specific\JA
+##	TAG	<name>
+478	TOK	DNA		DNA\N46
+##	TAG	</name>
+479	TOK	sequences		sequence\N5P
+480	TOK	from		from\P
+481	TOK	a		a\AI---S
+482	TOK	mixed		mix\VMC----
+483	TOK	population		population\N5S
+484	TOK	of		of\P
+485	TOK	sequences		sequence\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+486	TOK	The	BOS	the\AT---6
+487	TOK	basic		basic\JA
+488	TOK	procedures		procedure\N5P
+489	TOK	involve		involve\VMF6R66
+490	TOK	a		a\AI---S
+491	TOK	series		series\N56
+492	TOK	of		of\P
+493	TOK	steps		step\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="1.">
+##	TAG	<s>
+##	TAG	<name>
+494	TOK	DNA	BOS	DNA\N46
+##	TAG	</name>
+495	TOK	fragments		fragment\N5P
+496	TOK	are		be\V6FDR66
+497	TOK	generated		generate\VMC----
+498	TOK	by		by\P
+499	TOK	using		use\VMG----
+500	TOK	enzymes		enzyme\N5P
+501	TOK	called		call\VMC----
+502	TOK	restriction		restriction\N5S
+503	TOK	endonucleases		endonuclease\N5P
+---	DLE	,		=\DELIM
+504	TOK	enzymes		enzyme\N5P
+505	TOK	that		that\RW63N6
+506	TOK	recognize		recognize\VMF6R66
+507	TOK	and		and\CC
+508	TOK	cut		cut\VMF6R66
+##	TAG	<name>
+509	TOK	DNA		DNA\N46
+##	TAG	</name>
+510	TOK	molecules		molecule\N5P
+511	TOK	at		at\P
+512	TOK	specific		specific\JA
+513	TOK	nucleotide		nucleotide\N5S
+514	TOK	sequences		sequence\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="2.">
+##	TAG	<s>
+515	TOK	The	BOS	the\AT---6
+516	TOK	fragments		fragment\N5P
+517	TOK	produced		produce\VMC----
+518	TOK	by		by\P
+519	TOK	digestion		digestion\N5S
+520	TOK	with		with\P
+521	TOK	restriction		restriction\N5S
+522	TOK	enzymes		enzyme\N5P
+523	TOK	are		be\V6FDR66
+524	TOK	joined		join\VMC----
+525	TOK	to		to\P
+526	TOK	other		other\JA
+##	TAG	<name>
+527	TOK	DNA		DNA\N46
+##	TAG	</name>
+528	TOK	molecules		molecule\N5P
+529	TOK	that		that\RW63N6
+530	TOK	serve		serve\VMF6R66
+531	TOK	as		as\P
+532	TOK	vectors		vector\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+533	TOK	Vectors	BOS	vector\N5P
+534	TOK	can		can\VOFDR66
+535	TOK	replicate		replicate\VMI----
+536	TOK	autonomously		autonomously\DGA7
+537	TOK	in		in\P
+538	TOK	host		host\N5S
+539	TOK	cells		cell\N5P
+540	TOK	and		and\CC
+541	TOK	facilitate		facilitate\VMI----
+542	TOK	the		the\AT---6
+543	TOK	manipulation		manipulation\N5S
+544	TOK	of		of\P
+545	TOK	the		the\AT---6
+546	TOK	newly		newly\DGA7
+547	TOK	created		create\VMC----
+548	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+549	TOK	DNA		DNA\N46
+##	TAG	</name>
+550	TOK	molecule		molecule\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<label pos="B">
+551	TOK	3.	BOS	=\B
+##	TAG	</label>
+552	TOK	The		The\N5S
+553	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+554	TOK	DNA		DNA\N46
+##	TAG	</name>
+555	TOK	molecule		molecule\N5S
+---	DLD	,		=\DELIM
+556	TOK	consisting		consist\VMG----
+557	TOK	of		of\P
+558	TOK	a		a\AI---S
+559	TOK	vector		vector\N5S
+560	TOK	carrying		carry\VMG----
+561	TOK	an		an\AI---S
+562	TOK	inserted		insert\VMC----
+##	TAG	<name>
+563	TOK	DNA		DNA\N46
+##	TAG	</name>
+564	TOK	segment		segment\VMF6R66
+---	DLD	,		=\DELIM
+565	TOK	is		be\V6FDRS3
+566	TOK	transferred		transfer\VMC----
+567	TOK	to		to\P
+568	TOK	a		a\AI---S
+569	TOK	host		host\N5S
+570	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+571	TOK	Within	BOS	within\P
+572	TOK	this		this\AD---S
+573	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+574	TOK	the		the\AT---6
+575	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+576	TOK	DNA		DNA\N46
+##	TAG	</name>
+577	TOK	molecule		molecule\N5S
+578	TOK	replicates		replicate\VMFDRS3
+---	DLD	,		=\DELIM
+579	TOK	producing		produce\VMG----
+580	TOK	dozens		dozen\N5P
+581	TOK	of		of\P
+582	TOK	identical		identical\JA
+583	TOK	copies		copy\N5P
+584	TOK	known		know\VMC----
+585	TOK	as		as\P
+586	TOK	clones		clone\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="4.">
+##	TAG	<s>
+587	TOK	As	BOS	as\P
+588	TOK	host		host\N5S
+589	TOK	cells		cell\N5P
+590	TOK	replicate		replicate\VMF6R66
+---	DLD	,		=\DELIM
+591	TOK	the		the\AT---6
+592	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+593	TOK	DNA		DNA\N46
+##	TAG	</name>
+594	TOK	is		be\V6FDRS3
+595	TOK	passed		pass\VMC----
+596	TOK	on		on\P
+597	TOK	to		to\P
+598	TOK	all		all\AG---6
+599	TOK	progeny		progeny\N5S
+600	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+601	TOK	creating		create\VMG----
+602	TOK	a		a\AI---S
+603	TOK	population		population\N5S
+604	TOK	of		of\P
+605	TOK	identical		identical\JA
+606	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+607	TOK	all		all\N56
+608	TOK	carrying		carry\VMG----
+609	TOK	the		the\AT---6
+610	TOK	cloned		clone\VMC----
+611	TOK	sequence		sequence\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="5.">
+##	TAG	<s>
+612	TOK	The	BOS	the\AT---6
+613	TOK	cloned		clone\VMC----
+##	TAG	<name>
+614	TOK	DNA		DNA\N46
+##	TAG	</name>
+615	TOK	segments		segment\N5P
+616	TOK	can		can\VOFDR66
+617	TOK	be		be\VMI----
+618	TOK	recovered		recover\VMC----
+619	TOK	from		from\P
+620	TOK	the		the\AT---6
+621	TOK	host		host\N5S
+622	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+623	TOK	purified		purify\VMF6A66
+---	DLD	,		=\DELIM
+624	TOK	and		and\CC
+625	TOK	analyzed		analyze\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="6.">
+##	TAG	<s>
+626	TOK	Potentially	BOS	potentially\DGA7
+---	DLD	,		=\DELIM
+627	TOK	the		the\AT---6
+628	TOK	cloned		clone\VMC----
+##	TAG	<name>
+629	TOK	DNA		DNA\N46
+##	TAG	</name>
+630	TOK	can		can\VOFDR66
+631	TOK	be		be\VMI----
+632	TOK	transcribed		transcribe\VMC----
+---	DLD	,		=\DELIM
+633	TOK	its		its\APS3N6
+634	TOK	mRNA		mrna\N5S
+635	TOK	translated		translate\VMF6A66
+---	DLD	,		=\DELIM
+636	TOK	and		and\CC
+637	TOK	the		the\AT---6
+638	TOK	gene		gene\N5S
+639	TOK	product		product\N5S
+640	TOK	isolated		isolate\VMF6A66
+641	TOK	and		and\CC
+642	TOK	studied		study\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<head>
+643	TOK	Making	BOS	make\VMG----
+##	TAG	<name>
+644	TOK	Recombinant DNA	EOS	Recombinant_DNA\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+646	TOK	The	BOS	the\AT---6
+647	TOK	development		development\N5S
+648	TOK	of		of\P
+649	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+650	TOK	DNA		DNA\N46
+##	TAG	</name>
+651	TOK	techniques		technique\N5P
+652	TOK	affords		afford\VMFDRS3
+653	TOK	new		new\JA
+654	TOK	opportunities		opportunity\N5P
+655	TOK	for		for\P
+656	TOK	research		research\N5S
+---	DLD	,		=\DELIM
+657	TOK	making		make\VMG----
+658	TOK	it		it\RPS3N6
+659	TOK	easier		easy\JC
+660	TOK	to		to\P
+661	TOK	obtain		obtain\VMI----
+662	TOK	large		large\JA
+663	TOK	amounts		amount\N5P
+664	TOK	of		of\P
+##	TAG	<name>
+665	TOK	DNA		DNA\N46
+##	TAG	</name>
+666	TOK	encoding		encode\VMG----
+667	TOK	specific		specific\JA
+668	TOK	genes		gene\N5P
+669	TOK	and		and\CC
+670	TOK	facilitating		facilitate\VMG----
+671	TOK	studies		study\N5P
+672	TOK	of		of\P
+673	TOK	gene		gene\N5S
+674	TOK	organization		organization\N5S
+---	DLD	,		=\DELIM
+675	TOK	structure		structure\N5S
+---	DLD	,		=\DELIM
+676	TOK	and		and\CC
+677	TOK	expression		expression\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+678	TOK	This	BOS	this\AD---S
+679	TOK	methodology		methodology\N5S
+680	TOK	has		have\V6FDRS3
+681	TOK	also		also\DGA7
+682	TOK	given		give\VMC----
+683	TOK	impetus		impetus\N5S
+684	TOK	to		to\P
+685	TOK	the		the\AT---6
+686	TOK	development		development\N5S
+687	TOK	of		of\P
+688	TOK	a		a\AI---S
+689	TOK	burgeoning		burgeon\VMG----
+690	TOK	biotechnology		biotechnology\N5S
+691	TOK	industry		industry\N5S
+692	TOK	that		that\RW63N6
+693	TOK	is		be\V6FDRS3
+694	TOK	delivering		deliver\VMG----
+695	TOK	a		a\AI---S
+696	TOK	growing		growing\JA
+697	TOK	number		number\N5S
+698	TOK	of		of\P
+699	TOK	products		product\N5P
+700	TOK	to		to\P
+701	TOK	the		the\AT---6
+702	TOK	market		market\N5S
+---	DLI	-		=\DELIM
+703	TOK	place		place\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+704	TOK	Recombinant	BOS	recombinant\N5S
+##	TAG	<name>
+705	TOK	DNA		DNA\N46
+##	TAG	</name>
+706	TOK	works		work\VMFDRS3
+707	TOK	by		by\P
+708	TOK	making		make\VMG----
+709	TOK	large		large\JA
+710	TOK	numbers		number\N5P
+711	TOK	of		of\P
+712	TOK	copies		copy\N5P
+713	TOK	of		of\P
+714	TOK	specific		specific\JA
+##	TAG	<name>
+715	TOK	DNA		DNA\N46
+##	TAG	</name>
+716	TOK	segments		segment\VMFDRS3
+---	DLD	,		=\DELIM
+717	TOK	including		including\P
+718	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+719	TOK	The	BOS	the\AT---6
+720	TOK	process		process\N5S
+721	TOK	is		be\V6FDRS3
+722	TOK	outlined		outline\VMC----
+723	TOK	in		in\P
+724	TOK	the		the\AT---6
+725	TOK	following		following\JA
+726	TOK	sections		section\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+727	TOK	Restriction	BOS	restriction\N5S
+##	TAG	<name>
+728	TOK	Enzymes	EOS	Enzymes\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+730	TOK	The	BOS	the\AT---6
+731	TOK	cornerstone		cornerstone\N5S
+732	TOK	of		of\P
+733	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+734	TOK	DNA		DNA\N46
+##	TAG	</name>
+735	TOK	technology		technology\N5S
+736	TOK	is		be\V6FDRS3
+737	TOK	a		a\AI---S
+738	TOK	class		class\N5S
+739	TOK	of		of\P
+740	TOK	enzymes		enzyme\N5P
+741	TOK	called		call\VMC----
+742	TOK	restriction		restriction\N5S
+743	TOK	endonucleases		endonuclease\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+744	TOK	These	BOS	this\AD---P
+745	TOK	enzymes		enzyme\N5P
+---	DLD	,		=\DELIM
+746	TOK	isolated		isolate\VMC----
+747	TOK	from		from\P
+748	TOK	bacteria		bacteria\N5P
+---	DLD	,		=\DELIM
+749	TOK	received		receive\VMF6A66
+750	TOK	their		their\APP3N6
+751	TOK	name		name\N5S
+752	TOK	because		because\CS
+753	TOK	they		they\RPP3NN
+754	TOK	restrict		restrict\VMI----
+755	TOK	or		or\CC
+756	TOK	prevent		prevent\VMI----
+757	TOK	viral		viral\JA
+758	TOK	infection		infection\N5S
+759	TOK	by		by\P
+760	TOK	degrading		degrade\VMG----
+761	TOK	the		the\AT---6
+762	TOK	invading		invade\VMG----
+763	TOK	nucleic		nucleic\JA
+764	TOK	acid		acid\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+765	TOK	Restriction	BOS	restriction\N5S
+766	TOK	enzymes		enzyme\N5P
+767	TOK	recognize		recognize\VMF6R66
+768	TOK	a		a\AI---S
+769	TOK	specific		specific\JA
+770	TOK	nucleotide		nucleotide\N5S
+771	TOK	sequence		sequence\N5S
+---	DLE	(		=\DELIM
+772	TOK	called		call\VMC----
+773	TOK	a		a\AI---S
+774	TOK	restriction		restriction\N5S
+775	TOK	site		site\N5S
+---	DLD	)		=\DELIM
+776	TOK	on		on\P
+777	TOK	a		a\AI---S
+778	TOK	double		double\JA
+---	DLI	-		=\DELIM
+779	TOK	stranded		strand\VMC----
+##	TAG	<name>
+780	TOK	DNA		DNA\N46
+##	TAG	</name>
+781	TOK	molecule		molecule\N5S
+---	DLD	,		=\DELIM
+782	TOK	and		and\CC
+783	TOK	cut		cut\VMF6R66
+784	TOK	the		the\AT---6
+##	TAG	<name>
+785	TOK	DNA		DNA\N46
+##	TAG	</name>
+786	TOK	at		at\P
+787	TOK	that		that\AD---S
+788	TOK	sequence		sequence\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+789	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+790	TOK	1978		1978\X
+##	TAG	</num>
+##	TAG	<name>
+791	TOK	Nobel Prize		Nobel_Prize\N46
+##	TAG	</name>
+792	TOK	was		be\V6F-A66
+793	TOK	given		give\VMC----
+794	TOK	to		to\P
+##	TAG	<name>
+795	TOK	Werner Arber		Werner_Arber\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+796	TOK	Hamilton Smith		Hamilton_Smith\N46
+##	TAG	</name>
+797	TOK	and		and\CC
+##	TAG	<name>
+798	TOK	Daniel Nathans		Daniel_Nathans\N46
+##	TAG	</name>
+799	TOK	for		for\P
+800	TOK	their		their\APP3N6
+801	TOK	work		work\N5S
+802	TOK	on		on\P
+803	TOK	restriction		restriction\N5S
+804	TOK	enzymes		enzyme\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+805	TOK	To	BOS	to\P
+806	TOK	date		date\VMI----
+---	DLD	,		=\DELIM
+807	TOK	almost		almost\DGA7
+##	TAG	<num>
+808	TOK	200		200\X
+##	TAG	</num>
+809	TOK	different		different\JA
+810	TOK	types		type\N5P
+811	TOK	of		of\P
+812	TOK	restriction		restriction\N5S
+813	TOK	enzymes		enzyme\N5P
+814	TOK	have		have\V6F6R66
+815	TOK	been		be\VMC----
+816	TOK	isolated		isolate\VMC----
+817	TOK	and		and\CC
+818	TOK	characterized		characterize\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+819	TOK	Restriction	BOS	restriction\N5S
+820	TOK	enzymes		enzyme\N5P
+821	TOK	are		be\V6FDR66
+822	TOK	named		name\VMC----
+823	TOK	for		for\P
+824	TOK	the		the\AT---6
+825	TOK	organism		organism\N5S
+826	TOK	in		in\P
+827	TOK	which		which\RW63N-
+828	TOK	they		they\RPP3NN
+829	TOK	were		be\V6F-A66
+830	TOK	discovered		discover\VMC----
+---	DLD	,		=\DELIM
+831	TOK	using		use\VMG----
+832	TOK	a		a\AI---S
+833	TOK	system		system\N5S
+834	TOK	of		of\P
+835	TOK	letters		letter\N5P
+836	TOK	and		and\CC
+837	TOK	numbers		number\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+838	TOK	The	BOS	the\AT---6
+839	TOK	enzyme		enzyme\N5S
+##	TAG	<name>
+840	TOK	EcoRI		EcoRI\N46
+##	TAG	</name>
+841	TOK	is		be\V6FDRS3
+842	TOK	from		from\P
+##	TAG	<name>
+843	TOK	Escherichia		Escherichia\N46
+##	TAG	</name>
+844	TOK	coli		coli\N5P
+---	DLE	,		=\DELIM
+845	TOK	and		and\CC
+846	TOK	is		be\V6FDRS3
+847	TOK	pronounced		pronounce\VMF6A66
+---	DLE	"		=\DELIM
+848	TOK	echo		echo\N5S
+---	DLI	-		=\DELIM
+849	TOK	r		r\N5S
+---	DLI	-		=\DELIM
+850	TOK	one		one\MCS
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+##	TAG	<name>
+851	TOK	HindIII		HindIII\N46
+##	TAG	</name>
+852	TOK	was		be\V6F-A66
+853	TOK	discovered		discover\VMC----
+854	TOK	in		in\P
+##	TAG	<name>
+855	TOK	Hemophilus		Hemophilus\N46
+##	TAG	</name>
+856	TOK	influenzae		influenzae\N5P
+857	TOK	and		and\CC
+858	TOK	is		be\V6FDRS3
+859	TOK	pronounced		pronounce\VMF6A66
+---	DLE	"		=\DELIM
+860	TOK	hindee		hindee\N5P
+---	DLI	-		=\DELIM
+861	TOK	three		three\MCP
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+862	TOK	There		there\DGA7
+863	TOK	are		be\V6FDR66
+##	TAG	<num>
+864	TOK	two		two\X
+##	TAG	</num>
+865	TOK	classes		class\N5P
+866	TOK	of		of\P
+867	TOK	restriction		restriction\N5S
+868	TOK	enzymes		enzyme\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+869	TOK	Type	BOS	type\N5S
+870	TOK	I		i\N5S
+871	TOK	enzymes		enzyme\N5P
+##	TAG	<name>
+872	TOK	Cut		Cut\N46
+##	TAG	</name>
+873	TOK	both		both\RIP3N-
+874	TOK	strands		strand\N5P
+875	TOK	of		of\P
+876	TOK	the		the\AT---6
+##	TAG	<name>
+877	TOK	DNA		DNA\N46
+##	TAG	</name>
+878	TOK	at		at\P
+879	TOK	a		a\AI---S
+880	TOK	random		random\JA
+881	TOK	location		location\N5S
+882	TOK	at		at\P
+883	TOK	some		some\AG---6
+884	TOK	distance		distance\N5S
+885	TOK	from		from\P
+886	TOK	the		the\AT---6
+887	TOK	recognition		recognition\N5S
+888	TOK	site		site\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+889	TOK	Because	BOS	because\CS
+890	TOK	the		the\AT---6
+891	TOK	cutting		cutting\N5S
+892	TOK	site		site\N5S
+893	TOK	in		in\P
+894	TOK	type		type\N5S
+895	TOK	I		i\N5S
+896	TOK	enzymes		enzyme\N5P
+897	TOK	is		be\V6FDRS3
+898	TOK	not		not\DGA7
+899	TOK	precise		precise\JA
+---	DLD	,		=\DELIM
+900	TOK	they		they\RPP3NN
+901	TOK	are		be\V6FDR66
+902	TOK	not		not\DGA7
+903	TOK	widely		widely\DGA7
+904	TOK	used		use\VMC----
+905	TOK	in		in\P
+906	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+907	TOK	DNA		DNA\N46
+##	TAG	</name>
+908	TOK	research		research\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+909	TOK	Type	BOS	type\N5S
+##	TAG	<num>
+910	TOK	II		II\X
+##	TAG	</num>
+911	TOK	enzymes		enzyme\N5P
+912	TOK	recognize		recognize\VMF6R66
+913	TOK	a		a\AI---S
+914	TOK	specific		specific\JA
+915	TOK	sequence		sequence\N5S
+916	TOK	and		and\CC
+917	TOK	precisely		precisely\DGA7
+918	TOK	cut		cut\VMF6A66
+919	TOK	both		both\RIP3N-
+920	TOK	strands		strand\N5P
+921	TOK	of		of\P
+922	TOK	a		a\AI---S
+##	TAG	<name>
+923	TOK	DNA		DNA\N46
+##	TAG	</name>
+924	TOK	molecule		molecule\N5S
+925	TOK	within		within\P
+926	TOK	the		the\AT---6
+927	TOK	recognition		recognition\N5S
+928	TOK	sequence		sequence\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+929	TOK	Because	BOS	because\CS
+930	TOK	they		they\RPP3NN
+931	TOK	cut		cut\VMF6R66
+932	TOK	at		at\P
+933	TOK	specific		specific\JA
+934	TOK	sites		site\N5P
+---	DLD	,		=\DELIM
+935	TOK	type		type\N5S
+##	TAG	<num>
+936	TOK	II		II\X
+##	TAG	</num>
+937	TOK	enzymes		enzyme\N5P
+938	TOK	are		be\V6FDR66
+939	TOK	widely		widely\DGA7
+940	TOK	used		use\VMC----
+941	TOK	in		in\P
+942	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+943	TOK	DNA		DNA\N46
+##	TAG	</name>
+944	TOK	research		research\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+945	TOK	The	BOS	the\AT---6
+946	TOK	recognition		recognition\N5S
+947	TOK	sequence		sequence\N5S
+948	TOK	for		for\P
+949	TOK	type		type\N5S
+##	TAG	<num>
+950	TOK	II		II\X
+##	TAG	</num>
+951	TOK	enzymes		enzyme\N5P
+952	TOK	are		be\V6FDR66
+953	TOK	symmetrical		symmetrical\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+954	TOK	The	BOS	the\AT---6
+955	TOK	sequence		sequence\N5S
+956	TOK	read		read\N5S
+957	TOK	in		in\P
+958	TOK	the		the\AT---6
+##	TAG	<num>
+959	TOK	5		5\X
+##	TAG	</num>
+---	DLD	'		=\DELIM
+---	DLD	-		=\DELIM
+960	TOK	to		to\P
+---	DLD	-		=\DELIM
+##	TAG	<num>
+961	TOK	3		3\X
+##	TAG	</num>
+---	DLD	'		=\DELIM
+962	TOK	direction		direction\N5S
+963	TOK	on		on\P
+964	TOK	one		one\MCS
+965	TOK	strand		strand\N5S
+966	TOK	is		be\V6FDRS3
+967	TOK	the		the\AT---6
+968	TOK	same		same\JA
+969	TOK	as		as\P
+970	TOK	the		the\AT---6
+971	TOK	sequence		sequence\N5S
+972	TOK	read		read\N5S
+973	TOK	in		in\P
+974	TOK	the		the\AT---6
+##	TAG	<num>
+975	TOK	5		5\X
+##	TAG	</num>
+---	DLD	'		=\DELIM
+---	DLD	-		=\DELIM
+976	TOK	to		to\P
+---	DLD	-		=\DELIM
+##	TAG	<num>
+977	TOK	3		3\X
+##	TAG	</num>
+---	DLD	'		=\DELIM
+978	TOK	direction		direction\N5S
+979	TOK	on		on\P
+980	TOK	the		the\AT---6
+981	TOK	complementary		complementary\JA
+982	TOK	strand		strand\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+983	TOK	Sequences	BOS	sequence\N5P
+984	TOK	that		that\RW63N6
+985	TOK	read		read\VMF6R66
+986	TOK	the		the\AT---6
+987	TOK	same		same\JA
+988	TOK	in		in\P
+989	TOK	both		both\RIP3N-
+990	TOK	directions		direction\N5P
+991	TOK	are		be\V6FDR66
+992	TOK	known		know\VMC----
+993	TOK	as		as\P
+994	TOK	palindromes		palindrome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+996	TOK	The	BOS	the\AT---6
+997	TOK	palindromic		palindromic\JA
+998	TOK	recognition		recognition\N5S
+999	TOK	site		site\N5S
+1000	TOK	and		and\CC
+1001	TOK	points		point\VMFDRS3
+1002	TOK	of		of\P
+1003	TOK	cleavage		cleavage\N5S
+1004	TOK	for		for\P
+##	TAG	<name>
+1005	TOK	EcoRI		EcoRI\N46
+##	TAG	</name>
+1006	TOK	are		be\V6FDR66
+1007	TOK	show		show\VMI----
+1008	TOK	in		in\P
+##	TAG	<name>
+1009	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1010	TOK	15.1		15.1\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1011	TOK	The	BOS	the\AT---6
+1012	TOK	enzyme		enzyme\N5S
+##	TAG	<name>
+1013	TOK	EcoRI		EcoRI\N46
+##	TAG	</name>
+1014	TOK	cuts		cut\VMFDRS3
+1015	TOK	in		in\P
+1016	TOK	a		a\AI---S
+1017	TOK	staggered		stagger\VMC----
+1018	TOK	fashion		fashion\N5S
+1019	TOK	wit7nin		wit7nin\N5S
+1020	TOK	the		the\AT---6
+1021	TOK	recognition		recognition\N5S
+1022	TOK	site		site\N5S
+---	DLD	,		=\DELIM
+1023	TOK	leaving		leave\VMG----
+1024	TOK	single		single\JA
+---	DLI	-		=\DELIM
+1025	TOK	stranded		strand\VMC----
+1026	TOK	ends		end\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1027	TOK	These	BOS	this\AD---P
+1028	TOK	tails		tail\N5P
+---	DLD	,		=\DELIM
+1029	TOK	with		with\P
+1030	TOK	identical		identical\JA
+1031	TOK	nucleotide		nucleotide\N5S
+1032	TOK	sequences		sequence\N5P
+---	DLD	,		=\DELIM
+1033	TOK	are		be\V6FDR66
+---	DLE	"		=\DELIM
+1034	TOK	sticky		sticky\JA
+---	DLD	"		=\DELIM
+1035	TOK	because		because\CS
+1036	TOK	they		they\RPP3NN
+1037	TOK	can		can\VOFDR66
+1038	TOK	hydrogen		hydrogen\N5S
+---	DLI	-		=\DELIM
+1039	TOK	bond		bond\N5S
+1040	TOK	to		to\P
+1041	TOK	complementary		complementary\JA
+1042	TOK	tails		tail\N5P
+1043	TOK	of		of\P
+1044	TOK	other		other\JA
+##	TAG	<name>
+1045	TOK	DNA		DNA\N46
+##	TAG	</name>
+1046	TOK	fragments		fragment\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1047	TOK	If	BOS	if\CS
+##	TAG	<name>
+1048	TOK	DNAs		DNAs\N46
+##	TAG	</name>
+1049	TOK	from		from\P
+1050	TOK	different		different\JA
+1051	TOK	sources		source\N5P
+1052	TOK	share		share\VMF6R66
+1053	TOK	the		the\AT---6
+1054	TOK	same		same\JA
+1055	TOK	palindromic		palindromic\JA
+1056	TOK	recognition		recognition\N5S
+1057	TOK	sites		site\N5P
+---	DLD	,		=\DELIM
+1058	TOK	both		both\RIP3N-
+1059	TOK	will		will\VOFDR66
+1060	TOK	contain		contain\VMI----
+1061	TOK	complementary		complementary\JA
+1062	TOK	single		single\JA
+---	DLI	-		=\DELIM
+1063	TOK	stranded		strand\VMC----
+1064	TOK	tails		tail\N5P
+1065	TOK	when		when\CS
+1066	TOK	treated		treat\VMC----
+1067	TOK	with		with\P
+1068	TOK	a		a\AI---S
+1069	TOK	restriction		restriction\N5S
+1070	TOK	endonuclease		endonuclease\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1071	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1072	TOK	15.2		15.2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1073	TOK	If	BOS	if\CS
+1074	TOK	the		the\AT---6
+1075	TOK	cut		cut\VMC----
+1076	TOK	fragments		fragment\N5P
+1077	TOK	are		be\V6FDR66
+1078	TOK	placed		place\VMC----
+1079	TOK	together		together\DGA7
+1080	TOK	under		under\P
+1081	TOK	proper		proper\JA
+1082	TOK	eondition5		eondition5\N5P
+---	DLD	,		=\DELIM
+1083	TOK	the		the\AT---6
+##	TAG	<name>
+1084	TOK	DNA		DNA\N46
+##	TAG	</name>
+1085	TOK	fragments		fragment\N5P
+1086	TOK	from		from\P
+1087	TOK	these		this\AD---P
+##	TAG	<num>
+1088	TOK	two		two\X
+##	TAG	</num>
+1089	TOK	sources		source\N5P
+1090	TOK	can		can\VOFDR66
+1091	TOK	form		form\VMI----
+1092	TOK	recombinant		recombinant\N5S
+1093	TOK	molecules		molecule\N5P
+1094	TOK	by		by\P
+1095	TOK	hydrogen		hydrogen\N5S
+1096	TOK	bonding		bond\VMG----
+1097	TOK	of		of\P
+1098	TOK	the		the\AT---6
+##	TAG	<name>
+1099	TOK	StiC4		StiC4\N46
+##	TAG	</name>
+---	DLD	'		=\DELIM
+1100	TOK	ends		end\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1101	TOK	The	BOS	the\AT---6
+1102	TOK	enzyme		enzyme\N5S
+##	TAG	<name>
+1103	TOK	DNA		DNA\N46
+##	TAG	</name>
+1104	TOK	ligase		ligase\N5S
+1105	TOK	can		can\VOFDR66
+1106	TOK	be		be\VMI----
+1107	TOK	used		use\VMC----
+1108	TOK	to		to\P
+1109	TOK	covalently		covalently\DGA7
+1110	TOK	link		link\VMI----
+1111	TOK	the		the\AT---6
+1112	TOK	phosphate		phosphate\N5S
+---	DLI	-		=\DELIM
+1113	TOK	sugar		sugar\N5S
+1114	TOK	backbones		backbone\N5P
+1115	TOK	of		of\P
+1116	TOK	the		the\AT---6
+##	TAG	<num>
+1117	TOK	two		two\X
+##	TAG	</num>
+1118	TOK	fragments		fragment\N5P
+---	DLD	,		=\DELIM
+1119	TOK	producing		produce\VMG----
+1120	TOK	a		a\AI---S
+1121	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+1122	TOK	DNA		DNA\N46
+##	TAG	</name>
+1123	TOK	molecule		molecule\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1124	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1125	TOK	15.2		15.2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1126	TOK	Other	BOS	other\JA
+##	TAG	<name>
+1127	TOK	Type		Type\N46
+##	TAG	</name>
+##	TAG	<num>
+1128	TOK	II		II\X
+##	TAG	</num>
+1129	TOK	restriction		restriction\N5S
+1130	TOK	enzymes		enzyme\N5P
+1131	TOK	such		such\RIS3N-
+1132	TOK	as		as\P
+##	TAG	<name>
+1133	TOK	SmaI		SmaI\N46
+##	TAG	</name>
+1134	TOK	cleave		cleave\VMF6R66
+##	TAG	<name>
+1135	TOK	DNA		DNA\N46
+##	TAG	</name>
+1136	TOK	to		to\P
+1137	TOK	produce		produce\VMI----
+1138	TOK	blunt		blunt\JA
+---	DLI	-		=\DELIM
+1139	TOK	end		end\N5S
+1140	TOK	fragments		fragment\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1141	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1142	TOK	15.3		15.3\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<name>
+1143	TOK	DNA		DNA\N46
+##	TAG	</name>
+1144	TOK	fragments		fragment\N5P
+1145	TOK	with		with\P
+1146	TOK	blunt		blunt\JA
+1147	TOK	ends		end\N5P
+1148	TOK	can		can\VOFDR66
+1149	TOK	also		also\DGA7
+1150	TOK	be		be\VMI----
+1151	TOK	joined		join\VMC----
+1152	TOK	together		together\DGA7
+1153	TOK	to		to\P
+1154	TOK	create		create\VMI----
+1155	TOK	recombinant		recombinant\N5S
+1156	TOK	molecules		molecule\N5P
+---	DLD	,		=\DELIM
+1157	TOK	after		after\P
+1158	TOK	the		the\AT---6
+##	TAG	<name>
+1159	TOK	DNA		DNA\N46
+##	TAG	</name>
+1160	TOK	has		have\V6FDRS3
+1161	TOK	been		be\VMC----
+1162	TOK	modified		modify\VMC----
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1163	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1164	TOK	15.3		15.3\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1165	TOK	The	BOS	the\AT---6
+1166	TOK	enzyme		enzyme\N5S
+1167	TOK	terminal		terminal\JA
+1168	TOK	deoxynocleotidyl		deoxynocleotidyl\N5S
+1169	TOK	transferase		transferase\N5S
+1170	TOK	is		be\V6FDRS3
+1171	TOK	used		use\VMC----
+1172	TOK	to		to\P
+1173	TOK	created		create\VMC----
+1174	TOK	single		single\JA
+---	DLI	-		=\DELIM
+1175	TOK	strancled		strancled\JA
+1176	TOK	ends		end\N5P
+1177	TOK	by		by\P
+1178	TOK	the		the\AT---6
+1179	TOK	addition		addition\N5S
+1180	TOK	of		of\P
+1181	TOK	nucleotide		nucleotide\N5S
+---	DLE	"		=\DELIM
+1182	TOK	tails		tail\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1183	TOK	If	BOS	if\CS
+1184	TOK	a		a\AI---S
+1185	TOK	poly		poly\N5S
+1186	TOK	dA		dA\N5S
+1187	TOK	tail		tail\N5S
+1188	TOK	is		be\V6FDRS3
+1189	TOK	added		add\VMC----
+1190	TOK	to		to\P
+##	TAG	<name>
+1191	TOK	DNA		DNA\N46
+##	TAG	</name>
+1192	TOK	fragments		fragment\N5P
+1193	TOK	from		from\P
+1194	TOK	one		one\MCS
+1195	TOK	source		source\N5S
+---	DLD	,		=\DELIM
+1196	TOK	and		and\CC
+1197	TOK	a		a\AI---S
+1198	TOK	poly		poly\N5S
+1199	TOK	dT		dT\N5S
+1200	TOK	tail		tail\N5S
+1201	TOK	is		be\V6FDRS3
+1202	TOK	added		add\VMC----
+1203	TOK	to		to\P
+##	TAG	<name>
+1204	TOK	DNA		DNA\N46
+##	TAG	</name>
+1205	TOK	from		from\P
+1206	TOK	another		another\JA
+1207	TOK	source		source\N5S
+---	DLD	,		=\DELIM
+1208	TOK	complementary		complementary\JA
+1209	TOK	tails		tail\N5P
+1210	TOK	are		be\V6FDR66
+1211	TOK	created		create\VMC----
+---	DLD	,		=\DELIM
+1212	TOK	and		and\CC
+1213	TOK	the		the\AT---6
+1214	TOK	fragments		fragment\N5P
+1215	TOK	can		can\VOFDR66
+1216	TOK	hydrogen		hydrogen\N5S
+---	DLI	-		=\DELIM
+1217	TOK	bond		bond\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1218	TOK	Recombinant	BOS	recombinant\N5S
+1219	TOK	molecules		molecule\N5P
+1220	TOK	can		can\VOFDR66
+1221	TOK	then		then\DGA7
+1222	TOK	be		be\VMI----
+1223	TOK	created		create\VMC----
+1224	TOK	by		by\P
+1225	TOK	ligation		ligation\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1226	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1227	TOK	15.3		15.3\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1229	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+1230	TOK	15.4		15.4\X
+##	TAG	</num>
+1231	TOK	depicts		depict\VMFDRS3
+1232	TOK	some		some\AG---6
+1233	TOK	common		common\JA
+1234	TOK	restriction		restriction\N5S
+1235	TOK	enzymes		enzyme\N5P
+1236	TOK	and		and\CC
+1237	TOK	their		their\APP3N6
+1238	TOK	recognition		recognition\N5S
+1239	TOK	sequences		sequence\N5P
+---	DLD	,		=\DELIM
+1240	TOK	many		many\AI---P
+1241	TOK	of		of\P
+1242	TOK	which		which\RW63N-
+1243	TOK	yield		yield\VMF6R66
+1244	TOK	cohesive		cohesive\JA
+1245	TOK	or		or\CC
+---	DLE	"		=\DELIM
+1246	TOK	sticky		sticky\JA
+---	DLD	"		=\DELIM
+1247	TOK	ends		end\N5P
+1248	TOK	while		while\CS
+1249	TOK	others		other\RIP3N-
+1250	TOK	generate		generate\VMF6R66
+1251	TOK	blunt		blunt\N5S
+1252	TOK	ends		end\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1253	TOK	Vectors	BOS	vector\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1255	TOK	After	BOS	after\P
+1256	TOK	being		be\VMG----
+1257	TOK	joined		join\VMC----
+1258	TOK	with		with\P
+1259	TOK	a		a\AI---S
+1260	TOK	vector		vector\N5S
+1261	TOK	or		or\CC
+1262	TOK	cloning		clone\VMG----
+1263	TOK	vehicle		vehicle\N5S
+---	DLD	,		=\DELIM
+1264	TOK	a		a\AI---S
+##	TAG	<name>
+1265	TOK	DNA		DNA\N46
+##	TAG	</name>
+1266	TOK	segment		segment\N5S
+1267	TOK	can		can\VOFDR66
+1268	TOK	gain		gain\VMI----
+1269	TOK	entry		entry\N5S
+1270	TOK	into		into\P
+1271	TOK	a		a\AI---S
+1272	TOK	host		host\N5S
+1273	TOK	cell		cell\N5S
+1274	TOK	and		and\CC
+1275	TOK	be		be\VMI----
+1276	TOK	replicated		replicate\VMC----
+1277	TOK	or		or\CC
+1278	TOK	cloned		clone\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1279	TOK	Vectors	BOS	vector\N5P
+1280	TOK	are		be\V6FDR66
+---	DLD	,		=\DELIM
+1281	TOK	in		in\P
+1282	TOK	essence		essence\N5S
+---	DLD	,		=\DELIM
+1283	TOK	carrier		carrier\N5S
+##	TAG	<name>
+1284	TOK	DNA		DNA\N46
+##	TAG	</name>
+1285	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1286	TOK	To	BOS	to\P
+1287	TOK	serve		serve\VMI----
+1288	TOK	as		as\CS
+1289	TOK	a		a\AI---S
+1290	TOK	vector		vector\N5S
+---	DLD	,		=\DELIM
+1291	TOK	a		a\AI---S
+##	TAG	<name>
+1292	TOK	DNA		DNA\N46
+##	TAG	</name>
+1293	TOK	molecule		molecule\N5S
+1294	TOK	must		must\VOFDR66
+1295	TOK	have		have\VMI----
+1296	TOK	several		several\JA
+1297	TOK	properties		property\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="1.">
+##	TAG	<s>
+1298	TOK	It	BOS	it\RPS3N6
+1299	TOK	must		must\VOFDR66
+1300	TOK	be		be\VMI----
+1301	TOK	able		able\JA
+1302	TOK	to		to\P
+1303	TOK	independently		independently\DGA7
+1304	TOK	replicate		replicate\VMI----
+1305	TOK	itself		itself\RXS3N-
+1306	TOK	and		and\CC
+1307	TOK	the		the\AT---6
+##	TAG	<name>
+1308	TOK	DNA		DNA\N46
+##	TAG	</name>
+1309	TOK	segments		segment\VMFDRS3
+1310	TOK	it		it\RPS3N6
+1311	TOK	carries		carry\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="2.">
+##	TAG	<s>
+1312	TOK	It	BOS	it\RPS3N6
+1313	TOK	should		shall\VOFDA66
+1314	TOK	contain		contain\VMI----
+1315	TOK	a		a\AI---S
+1316	TOK	number		number\N5S
+1317	TOK	of		of\P
+1318	TOK	restriction		restriction\N5S
+1319	TOK	enzyme		enzyme\N5S
+1320	TOK	cleavage		cleavage\N5S
+1321	TOK	sites		site\N5P
+1322	TOK	that		that\RW63N6
+1323	TOK	are		be\V6FDR66
+1324	TOK	present		present\JA
+1325	TOK	only		only\DGA7
+1326	TOK	once		once\DGA7
+1327	TOK	in		in\P
+1328	TOK	the		the\AT---6
+1329	TOK	vector		vector\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+1330	TOK	This	BOS	this\AD---S
+1331	TOK	site		site\N5S
+1332	TOK	is		be\V6FDRS3
+1333	TOK	cleaved		cleave\VMC----
+1334	TOK	with		with\P
+1335	TOK	a		a\AI---S
+1336	TOK	restriction		restriction\N5S
+1337	TOK	enzyme		enzyme\N5S
+1338	TOK	and		and\CC
+1339	TOK	used		use\VMC----
+1340	TOK	to		to\P
+1341	TOK	insert		insert\VMI----
+##	TAG	<name>
+1342	TOK	DNA		DNA\N46
+##	TAG	</name>
+1343	TOK	segments		segment\N5P
+1344	TOK	cut		cut\VMF6R66
+1345	TOK	with		with\P
+1346	TOK	the		the\AT---6
+1347	TOK	same		same\JA
+1348	TOK	enzyme		enzyme\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="3.">
+##	TAG	<s>
+1349	TOK	It	BOS	it\RPS3N6
+1350	TOK	should		shall\VOFDA66
+1351	TOK	carry		carry\VMI----
+1352	TOK	a		a\AI---S
+1353	TOK	selectable		selectable\JA
+1354	TOK	marker		marker\N5S
+---	DLE	(		=\DELIM
+1355	TOK	usually		usually\DGA7
+1356	TOK	in		in\P
+1357	TOK	the		the\AT---6
+1358	TOK	form		form\N5S
+1359	TOK	of		of\P
+1360	TOK	antibiotic		antibiotic\N5S
+1361	TOK	resistance		resistance\N5S
+1362	TOK	genes		gene\N5P
+1363	TOK	or		or\CC
+1364	TOK	genes		gene\N5P
+1365	TOK	for		for\P
+1366	TOK	enzymes		enzyme\N5P
+1367	TOK	missing		miss\VMG----
+1368	TOK	in		in\P
+1369	TOK	the		the\AT---6
+1370	TOK	host		host\N5S
+1371	TOK	cell		cell\N5S
+---	DLD	)		=\DELIM
+1372	TOK	to		to\P
+1373	TOK	distinguish		distinguish\VMI----
+1374	TOK	host		host\N5S
+1375	TOK	cells		cell\N5P
+1376	TOK	that		that\RW63N6
+1377	TOK	carry		carry\VMF6R66
+1378	TOK	vectors		vector\N5P
+1379	TOK	from		from\P
+1380	TOK	host		host\N5S
+1381	TOK	cells		cell\N5P
+1382	TOK	that		that\RW63N6
+1383	TOK	do		do\V6FDR66
+1384	TOK	not		not\DGA7
+1385	TOK	contain		contain\VMI----
+1386	TOK	a		a\AI---S
+1387	TOK	vector		vector\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="4.">
+##	TAG	<s>
+1388	TOK	It	BOS	it\RPS3N6
+1389	TOK	should		shall\VOFDA66
+1390	TOK	be		be\VMI----
+1391	TOK	easy		easy\JA
+1392	TOK	to		to\P
+1393	TOK	recover		recover\VMI----
+1394	TOK	from		from\P
+1395	TOK	the		the\AT---6
+1396	TOK	host		host\N5S
+1397	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+1398	TOK	There	BOS	there\DGA7
+1399	TOK	are		be\V6FDR66
+##	TAG	<num>
+1400	TOK	three		three\X
+##	TAG	</num>
+1401	TOK	main		main\JA
+1402	TOK	types		type\N5P
+1403	TOK	of		of\P
+1404	TOK	vectors		vector\N5P
+1405	TOK	currently		currently\DGA7
+1406	TOK	in		in\P
+1407	TOK	use		use\VMI----
+---	DLD	:		=\DELIM
+1408	TOK	plasmids		plasmid\N5P
+---	DLD	,		=\DELIM
+1409	TOK	bacteriophages		bacteriophage\N5P
+---	DLD	,		=\DELIM
+1410	TOK	and		and\CC
+1411	TOK	cosmids		cosmid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1412	TOK	Plasmid	BOS	plasmid\N5S
+##	TAG	<name>
+1413	TOK	Vectors	EOS	Vectors\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1415	TOK	Plasmids	BOS	plasmid\N5P
+1416	TOK	are		be\V6FDR66
+1417	TOK	naturally		naturally\DGA7
+1418	TOK	occurring		occur\VMG----
+---	DLD	,		=\DELIM
+1419	TOK	extrachromosomal		extrachromosomal\JA
+1420	TOK	double		double\JA
+---	DLI	-		=\DELIM
+1421	TOK	stranded		strand\VMC----
+##	TAG	<name>
+1422	TOK	DNA		DNA\N46
+##	TAG	</name>
+1423	TOK	molecules		molecule\N5P
+1424	TOK	that		that\RW63N6
+1425	TOK	carry		carry\VMF6R66
+1426	TOK	an		an\AI---S
+1427	TOK	origin		origin\N5S
+1428	TOK	of		of\P
+1429	TOK	replication		replication\N5S
+1430	TOK	site		site\N5S
+---	DLE	(		=\DELIM
+1431	TOK	ori+		ori+\N5P
+---	DLD	)		=\DELIM
+1432	TOK	and		and\CC
+1433	TOK	replicate		replicate\VMF6R66
+1434	TOK	autonomously		autonomously\DGA7
+1435	TOK	within		within\P
+1436	TOK	bacterial		bacterial\JA
+1437	TOK	cells		cell\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1438	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1439	TOK	15.5		15.5\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1440	TOK	The	BOS	the\AT---6
+1441	TOK	genetics		genetics\N56
+1442	TOK	of		of\P
+1443	TOK	plasmids		plasmid\N5P
+1444	TOK	and		and\CC
+1445	TOK	their		their\APP3N6
+1446	TOK	host		host\N5S
+1447	TOK	bacterial		bacterial\JA
+1448	TOK	cells		cell\N5P
+1449	TOK	will		will\VOFDR66
+1450	TOK	be		be\VMI----
+1451	TOK	discussed		discuss\VMC----
+1452	TOK	in		in\P
+##	TAG	<name>
+1453	TOK	Chapter		Chapter\N46
+##	TAG	</name>
+##	TAG	<num>
+1454	TOK	18		18\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1455	TOK	In	BOS	in\P
+1456	TOK	this		this\AD---S
+1457	TOK	section		section\N5S
+---	DLD	,		=\DELIM
+1458	TOK	emphasis		emphasis\N5S
+1459	TOK	will		will\VOFDR66
+1460	TOK	be		be\VMI----
+1461	TOK	on		on\P
+1462	TOK	the		the\AT---6
+1463	TOK	role		role\N5S
+1464	TOK	of		of\P
+1465	TOK	plasmids		plasmid\N5P
+1466	TOK	as		as\P
+1467	TOK	vectors		vector\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1468	TOK	For	BOS	for\P
+1469	TOK	use		use\N5S
+1470	TOK	in		in\P
+1471	TOK	genetic		genetic\JA
+1472	TOK	engineering		engineer\VMG----
+---	DLD	,		=\DELIM
+1473	TOK	many		many\AI---P
+1474	TOK	plasmids		plasmid\N5P
+1475	TOK	have		have\V6F6R66
+1476	TOK	been		be\VMC----
+1477	TOK	modified		modify\VMC----
+1478	TOK	or		or\CC
+1479	TOK	engineered		engineer\VMC----
+1480	TOK	to		to\P
+1481	TOK	contain		contain\VMI----
+1482	TOK	a		a\AI---S
+1483	TOK	limited		limit\VMC----
+1484	TOK	number		number\N5S
+1485	TOK	of		of\P
+1486	TOK	restriction		restriction\N5S
+1487	TOK	sites		site\N5P
+1488	TOK	and		and\CC
+1489	TOK	specific		specific\JA
+1490	TOK	antibiotic		antibiotic\N5S
+1491	TOK	resistance		resistance\N5S
+1492	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1493	TOK	The	BOS	the\AT---6
+1494	TOK	vector		vector\N5S
+1495	TOK	pBR322		pBR322\N5S
+1496	TOK	was		be\V6F-A66
+1497	TOK	one		one\MCS
+1498	TOK	of		of\P
+1499	TOK	the		the\AT---6
+1500	TOK	first		first\MOS
+1501	TOK	genetically		genetically\DGA7
+1502	TOK	engineered		engineer\VMF6A66
+1503	TOK	plasmids		plasmid\N5P
+1504	TOK	to		to\P
+1505	TOK	be		be\VMI----
+1506	TOK	used		use\VMC----
+1507	TOK	in		in\P
+1508	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+1509	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1510	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1511	TOK	15.6		15.6\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1513	TOK	This	BOS	this\AD---S
+1514	TOK	plasmid		plasmid\N5S
+1515	TOK	carries		carry\VMFDRS3
+1516	TOK	an		an\AI---S
+1517	TOK	origin		origin\N5S
+1518	TOK	of		of\P
+1519	TOK	replication		replication\N5S
+---	DLE	(		=\DELIM
+1520	TOK	ori+		ori+\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1521	TOK	two		two\X
+##	TAG	</num>
+1522	TOK	selectable		selectable\JA
+1523	TOK	genes		gene\N5P
+---	DLE	(		=\DELIM
+1524	TOK	resistance		resistance\N5S
+1525	TOK	to		to\P
+1526	TOK	the		the\AT---6
+1527	TOK	antibiotics		antibiotic\N5P
+1528	TOK	ampicillin		ampicillin\N5S
+1529	TOK	and		and\CC
+1530	TOK	tetracycline		tetracycline\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1531	TOK	and		and\CC
+1532	TOK	a		a\AI---S
+1533	TOK	number		number\N5S
+1534	TOK	of		of\P
+1535	TOK	unique		unique\JA
+1536	TOK	sites		site\N5P
+1537	TOK	for		for\P
+1538	TOK	restriction		restriction\N5S
+1539	TOK	cleavage		cleavage\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1540	TOK	Sites	BOS	site\N5P
+1541	TOK	for		for\P
+1542	TOK	the		the\AT---6
+1543	TOK	enzymes		enzyme\N5P
+##	TAG	<name>
+1544	TOK	BamHI		BamHI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1545	TOK	SphI		SphI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1546	TOK	SalI		SalI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1547	TOK	XmaIII		XmaIII\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1548	TOK	and		and\CC
+##	TAG	<name>
+1549	TOK	NruI		NruI\N46
+##	TAG	</name>
+1550	TOK	are		be\V6FDR66
+1551	TOK	within		within\P
+1552	TOK	the		the\AT---6
+1553	TOK	tetracycline		tetracycline\N5S
+1554	TOK	gene		gene\N5S
+---	DLD	,		=\DELIM
+1555	TOK	and		and\CC
+1556	TOK	unique		unique\JA
+1557	TOK	sites		site\N5P
+1558	TOK	for		for\P
+##	TAG	<name>
+1559	TOK	RruI		RruI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1560	TOK	PvuI		PvuI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1561	TOK	and		and\CC
+##	TAG	<name>
+1562	TOK	PstI		PstI\N46
+##	TAG	</name>
+1563	TOK	are		be\V6FDR66
+1564	TOK	within		within\P
+1565	TOK	the		the\AT---6
+1566	TOK	ampicillin		ampicillin\N5S
+1567	TOK	resistance		resistance\N5S
+1568	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1569	TOK	If	BOS	if\CS
+1570	TOK	pBR322		pBR322\N5S
+1571	TOK	is		be\V6FDRS3
+1572	TOK	introduced		introduce\VMC----
+1573	TOK	into		into\P
+1574	TOK	a		a\AI---S
+1575	TOK	plasmid		plasmid\N5S
+---	DLI	-		=\DELIM
+1576	TOK	free		free\JA
+---	DLD	,		=\DELIM
+1577	TOK	antibiotic		antibiotic\N5S
+---	DLI	-		=\DELIM
+1578	TOK	sensitive		sensitive\JA
+1579	TOK	bacterial		bacterial\JA
+1580	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+1581	TOK	the		the\AT---6
+1582	TOK	cell		cell\N5S
+1583	TOK	will		will\VOFDR66
+1584	TOK	become		become\VMI----
+1585	TOK	resistant		resistant\JA
+1586	TOK	to		to\P
+1587	TOK	both		both\RIP3N-
+1588	TOK	tetracycline		tetracycline\N5S
+1589	TOK	and		and\CC
+1590	TOK	ampicillin		ampicillin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1591	TOK	If	BOS	if\CS
+1592	TOK	a		a\AI---S
+##	TAG	<name>
+1593	TOK	DNA		DNA\N46
+##	TAG	</name>
+1594	TOK	fragment		fragment\N5S
+1595	TOK	is		be\V6FDRS3
+1596	TOK	inserted		insert\VMC----
+1597	TOK	into		into\P
+1598	TOK	the		the\AT---6
+##	TAG	<name>
+1599	TOK	RruI		RruI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1600	TOK	PvuI		PvuI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1601	TOK	or		or\CC
+##	TAG	<name>
+1602	TOK	PstI		PstI\N46
+##	TAG	</name>
+1603	TOK	sites		site\N5P
+---	DLD	,		=\DELIM
+1604	TOK	the		the\AT---6
+1605	TOK	ampicillin		ampicillin\N5S
+1606	TOK	gene		gene\N5S
+1607	TOK	will		will\VOFDR66
+1608	TOK	become		become\VMI----
+1609	TOK	inactivated		inactivate\VMC----
+---	DLD	,		=\DELIM
+1610	TOK	but		but\CC
+1611	TOK	the		the\AT---6
+1612	TOK	gene		gene\N5S
+1613	TOK	for		for\P
+1614	TOK	tetracycline		tetracycline\N5S
+1615	TOK	resistance		resistance\N5S
+1616	TOK	will		will\VOFDR66
+1617	TOK	remain		remain\VMI----
+1618	TOK	active		active\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1619	TOK	If	BOS	if\CS
+1620	TOK	this		this\AD---S
+1621	TOK	recombinant		recombinant\N5S
+1622	TOK	plasmid		plasmid\N5S
+1623	TOK	is		be\V6FDRS3
+1624	TOK	transferred		transfer\VMC----
+1625	TOK	into		into\P
+1626	TOK	a		a\AI---S
+1627	TOK	plasmid		plasmid\N5S
+---	DLI	-		=\DELIM
+1628	TOK	free		free\JA
+1629	TOK	bacterial		bacterial\JA
+1630	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+1631	TOK	cells		cell\N5P
+1632	TOK	carrying		carry\VMG----
+1633	TOK	the		the\AT---6
+1634	TOK	recombinant		recombinant\N5S
+1635	TOK	plasmid		plasmid\N5S
+1636	TOK	can		can\VOFDR66
+1637	TOK	be		be\VMI----
+1638	TOK	identified		identify\VMC----
+1639	TOK	because		because\CS
+1640	TOK	they		they\RPP3NN
+1641	TOK	will		will\VOFDR66
+1642	TOK	be		be\VMI----
+1643	TOK	resistant		resistant\JA
+1644	TOK	to		to\P
+1645	TOK	tetracycline		tetracycline\N5S
+1646	TOK	and		and\CC
+1647	TOK	sensitive		sensitive\JA
+1648	TOK	to		to\P
+1649	TOK	ampicillin		ampicillin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1650	TOK	Over	BOS	over\P
+1651	TOK	the		the\AT---6
+1652	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+1653	TOK	more		more\DDC7
+1654	TOK	sophisticated		sophisticated\JA
+1655	TOK	plasmid		plasmid\N5S
+1656	TOK	vectors		vector\N5P
+1657	TOK	have		have\V6F6R66
+1658	TOK	been		be\VMC----
+1659	TOK	developed		develop\VMC----
+---	DLD	,		=\DELIM
+1660	TOK	offering		offer\VMG----
+1661	TOK	a		a\AI---S
+1662	TOK	number		number\N5S
+1663	TOK	of		of\P
+1664	TOK	useful		useful\JA
+1665	TOK	features		feature\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1666	TOK	One	BOS	one\RIS3N-
+1667	TOK	such		such\JA
+1668	TOK	plasmid		plasmid\N5S
+---	DLD	,		=\DELIM
+1669	TOK	derived		derive\VMC----
+1670	TOK	from		from\P
+1671	TOK	pBR322		pBR322\N5P
+---	DLD	,		=\DELIM
+1672	TOK	is		be\V6FDRS3
+1673	TOK	pUC18		pUC18\JS
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1674	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1675	TOK	15.7		15.7\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+1676	TOK	which		which\RW63N-
+1677	TOK	has		have\V6FDRS3
+1678	TOK	the		the\AT---6
+1679	TOK	following		following\JA
+1680	TOK	properties		property\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="1.">
+##	TAG	<s>
+1681	TOK	The	BOS	the\AT---6
+1682	TOK	plasmid		plasmid\N5S
+1683	TOK	is		be\V6FDRS3
+1684	TOK	about		about\DGA7
+1685	TOK	half		half\N5S
+1686	TOK	the		the\AT---6
+1687	TOK	size		size\N5S
+1688	TOK	of		of\P
+1689	TOK	pBR322		pBR322\N5P
+---	DLD	,		=\DELIM
+1690	TOK	allowing		allow\VMG----
+1691	TOK	larger		large\JC
+##	TAG	<name>
+1692	TOK	DNA		DNA\N46
+##	TAG	</name>
+1693	TOK	fragments		fragment\N5P
+1694	TOK	to		to\P
+1695	TOK	be		be\VMI----
+1696	TOK	inserted		insert\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="2.">
+##	TAG	<s>
+1697	TOK	The	BOS	the\AT---6
+1698	TOK	pUC18		pUC18\N5S
+1699	TOK	replicates		replicate\VMFDRS3
+1700	TOK	to		to\P
+1701	TOK	produce		produce\VMI----
+1702	TOK	about		about\P
+##	TAG	<num>
+1703	TOK	100		100\X
+##	TAG	</num>
+1704	TOK	copies		copy\N5P
+1705	TOK	per		per\P
+1706	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1707	TOK	5		5\X
+##	TAG	</num>
+1708	TOK	to		to\P
+##	TAG	<num>
+1709	TOK	10		10\X
+##	TAG	</num>
+1710	TOK	times		time\N5P
+1711	TOK	the		the\AT---6
+1712	TOK	number		number\N5S
+1713	TOK	of		of\P
+1714	TOK	copies		copy\N5P
+1715	TOK	produced		produce\VMC----
+1716	TOK	by		by\P
+1717	TOK	pBR322	EOS	pBR322\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="3.">
+##	TAG	<s>
+1718	TOK	A	BOS	a\AI---S
+1719	TOK	large		large\JA
+1720	TOK	number		number\N5S
+1721	TOK	of		of\P
+1722	TOK	unique		unique\JA
+1723	TOK	restriction		restriction\N5S
+1724	TOK	sites		site\N5P
+1725	TOK	are		be\V6FDR66
+1726	TOK	present		present\JA
+1727	TOK	in		in\P
+1728	TOK	pUC18		pUC18\N5P
+---	DLD	,		=\DELIM
+1729	TOK	and		and\CC
+1730	TOK	these		this\RDP3N-
+1731	TOK	are		be\V6FDR66
+1732	TOK	clustered		cluster\VMC----
+1733	TOK	in		in\P
+1734	TOK	one		one\MCS
+1735	TOK	region		region\N5S
+---	DLD	,		=\DELIM
+1736	TOK	known		know\VMC----
+1737	TOK	as		as\P
+1738	TOK	a		a\AI---S
+1739	TOK	polylinker		polylinker\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="4.">
+##	TAG	<s>
+1740	TOK	The	BOS	the\AT---6
+1741	TOK	plasmid		plasmid\N5S
+1742	TOK	carries		carry\VMFDRS3
+1743	TOK	a		a\AI---S
+1744	TOK	fragment		fragment\N5S
+1745	TOK	of		of\P
+1746	TOK	a		a\AI---S
+1747	TOK	bacterial		bacterial\JA
+1748	TOK	gene		gene\N5S
+1749	TOK	called		call\VMC----
+1750	TOK	lacZ		lacZ\N5P
+---	DLD	,		=\DELIM
+1751	TOK	and		and\CC
+1752	TOK	the		the\AT---6
+1753	TOK	polylinker		polylinker\N5S
+1754	TOK	is		be\V6FDRS3
+1755	TOK	inserted		insert\VMC----
+1756	TOK	into		into\P
+1757	TOK	this		this\AD---S
+1758	TOK	gene		gene\N5S
+1759	TOK	fragment		fragment\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+1760	TOK	The	BOS	the\AT---6
+1761	TOK	normal		normal\JA
+1762	TOK	lacZ		lacZ\N5S
+1763	TOK	gene		gene\N5S
+1764	TOK	encodes		encode\VMFDRS3
+1765	TOK	the		the\AT---6
+1766	TOK	enzyme		enzyme\N5S
+1767	TOK	beta		beta\N5S
+---	DLI	-		=\DELIM
+1768	TOK	galactosidase		galactosidase\N5S
+---	DLD	,		=\DELIM
+1769	TOK	which		which\RW63N-
+1770	TOK	cleaves		cleave\VMFDRS3
+1771	TOK	sugar		sugar\N5S
+1772	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1773	TOK	When	BOS	when\CS
+1774	TOK	pUC18		pUC18\N5S
+1775	TOK	is		be\V6FDRS3
+1776	TOK	inserted		insert\VMC----
+1777	TOK	into		into\P
+1778	TOK	a		a\AI---S
+1779	TOK	bacterial		bacterial\JA
+1780	TOK	host		host\N5S
+1781	TOK	cell		cell\N5S
+1782	TOK	that		that\RW63N6
+1783	TOK	carries		carry\VMFDRS3
+1784	TOK	a		a\AI---S
+1785	TOK	mutant		mutant\N5S
+1786	TOK	lacZ		lacZ\N5S
+1787	TOK	gene		gene\N5S
+---	DLD	,		=\DELIM
+1788	TOK	functional		functional\JA
+1789	TOK	beta		beta\N5S
+---	DLI	-		=\DELIM
+1790	TOK	galactosidase		galactosidase\N5S
+1791	TOK	is		be\V6FDRS3
+1792	TOK	produced		produce\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1793	TOK	The	BOS	the\AT---6
+1794	TOK	presence		presence\N5S
+1795	TOK	of		of\P
+1796	TOK	functional		functional\JA
+1797	TOK	beta		beta\N5S
+1798	TOK	galactosidase		galactosidase\N5S
+1799	TOK	in		in\P
+1800	TOK	a		a\AI---S
+1801	TOK	bacterial		bacterial\JA
+1802	TOK	colony		colony\N5S
+1803	TOK	can		can\VOFDR66
+1804	TOK	be		be\VMI----
+1805	TOK	detected		detect\VMC----
+1806	TOK	by		by\P
+1807	TOK	a		a\AI---S
+1808	TOK	color		color\N5S
+1809	TOK	test		test\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1810	TOK	Bacterial	BOS	bacterial\JA
+1811	TOK	cells		cell\N5P
+1812	TOK	carrying		carry\VMG----
+1813	TOK	pUC18		pUC18\N5P
+1814	TOK	form		form\VMF6R66
+1815	TOK	blue		blue\JA
+1816	TOK	colonies		colony\N5P
+1817	TOK	when		when\CS
+1818	TOK	grown		grow\VMC----
+1819	TOK	on		on\P
+1820	TOK	medium		medium\N5S
+1821	TOK	containing		contain\VMG----
+1822	TOK	a		a\AI---S
+1823	TOK	compound		compound\N5S
+1824	TOK	called		call\VMF6A66
+##	TAG	<name>
+1825	TOK	X-gal		X-gal\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1826	TOK	If	BOS	if\CS
+##	TAG	<name>
+1827	TOK	DNA		DNA\N46
+##	TAG	</name>
+1828	TOK	is		be\V6FDRS3
+1829	TOK	inserted		insert\VMC----
+1830	TOK	into		into\P
+1831	TOK	the		the\AT---6
+1832	TOK	polylinker		polylinker\JC
+---	DLD	,		=\DELIM
+1833	TOK	the		the\AT---6
+1834	TOK	lacZ		lacZ\JA
+1835	TOK	gene		gene\N5S
+1836	TOK	is		be\V6FDRS3
+1837	TOK	disrupted		disrupt\VMF6A66
+---	DLD	,		=\DELIM
+1838	TOK	and		and\CC
+1839	TOK	white		white\JA
+1840	TOK	colonies		colony\N5P
+1841	TOK	form		form\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1842	TOK	White	BOS	white\JA
+1843	TOK	colonies		colony\N5P
+1844	TOK	that		that\RW63N6
+1845	TOK	are		be\V6FDR66
+1846	TOK	resistant		resistant\JA
+1847	TOK	to		to\P
+1848	TOK	ampicillin		ampicillin\N5S
+1849	TOK	contain		contain\VMF6R66
+1850	TOK	plasmids		plasmid\N5P
+1851	TOK	carrying		carry\VMG----
+##	TAG	<name>
+1852	TOK	DNA		DNA\N46
+##	TAG	</name>
+1853	TOK	inserts		insert\VMFDRS3
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1854	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1855	TOK	15.8		15.8\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1857	TOK	Lambda	BOS	lambda\N5S
+1858	TOK	and		and\CC
+##	TAG	<name>
+1859	TOK	M13 Bacteriophage Vectors	EOS	M13_Bacteriophage_Vectors\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1861	TOK	Lambda	BOS	lambda\N5S
+1862	TOK	is		be\V6FDRS3
+1863	TOK	a		a\AI---S
+1864	TOK	bacteriophage		bacteriophage\N5S
+1865	TOK	widely		widely\DGA7
+1866	TOK	used		use\VMC----
+1867	TOK	in		in\P
+1868	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+1869	TOK	DNA		DNA\N46
+##	TAG	</name>
+1870	TOK	work		work\VMF6R66
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1871	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1872	TOK	15.9		15.9\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1874	TOK	The	BOS	the\AT---6
+1875	TOK	genes		gene\N5P
+1876	TOK	of		of\P
+1877	TOK	lambda		lambda\N5S
+1878	TOK	have		have\V6F6R66
+1879	TOK	all		all\DGA7
+1880	TOK	been		be\VMC----
+1881	TOK	identified		identify\VMC----
+1882	TOK	and		and\CC
+1883	TOK	mapped		map\VMF6A66
+---	DLD	,		=\DELIM
+1884	TOK	and		and\CC
+1885	TOK	the		the\AT---6
+1886	TOK	nucleotide		nucleotide\N5S
+1887	TOK	sequence		sequence\N5S
+1888	TOK	of		of\P
+1889	TOK	the		the\AT---6
+1890	TOK	entire		entire\JA
+1891	TOK	genome		genome\N5S
+1892	TOK	is		be\V6FDRS3
+1893	TOK	known		know\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1894	TOK	The	BOS	the\AT---6
+1895	TOK	central		central\JA
+1896	TOK	third		third\N5S
+1897	TOK	of		of\P
+1898	TOK	the		the\AT---6
+1899	TOK	lambda		lambda\N5S
+1900	TOK	chromosome		chromosome\N5S
+1901	TOK	is		be\V6FDRS3
+1902	TOK	dispensible		dispensible\JA
+---	DLD	,		=\DELIM
+1903	TOK	and		and\CC
+1904	TOK	this		this\AD---S
+1905	TOK	region		region\N5S
+1906	TOK	can		can\VOFDR66
+1907	TOK	be		be\VMI----
+1908	TOK	replaced		replace\VMC----
+1909	TOK	with		with\P
+1910	TOK	foreign		foreign\JA
+##	TAG	<name>
+1911	TOK	DNA		DNA\N46
+##	TAG	</name>
+1912	TOK	without		without\P
+1913	TOK	affecting		affect\VMG----
+1914	TOK	the		the\AT---6
+1915	TOK	ability		ability\N5S
+1916	TOK	of		of\P
+1917	TOK	the		the\AT---6
+1918	TOK	phage		phage\N5S
+1919	TOK	to		to\P
+1920	TOK	infect		infect\VMI----
+1921	TOK	cells		cell\N5P
+1922	TOK	and		and\CC
+1923	TOK	form		form\N5S
+1924	TOK	plaques		plaque\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1925	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1926	TOK	15.10		15.10\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1927	TOK	Over	BOS	over\P
+##	TAG	<num>
+1928	TOK	100		100\X
+##	TAG	</num>
+1929	TOK	vectors		vector\N5P
+1930	TOK	based		base\VMC----
+1931	TOK	on		on\P
+1932	TOK	lambda		lambda\N5S
+1933	TOK	phages		phage\N5P
+1934	TOK	have		have\V6F6R66
+1935	TOK	been		be\VMC----
+1936	TOK	developed		develop\VMC----
+1937	TOK	by		by\P
+1938	TOK	removing		remove\VMG----
+1939	TOK	various		various\JA
+1940	TOK	portions		portion\N5P
+1941	TOK	of		of\P
+1942	TOK	the		the\AT---6
+1943	TOK	central		central\JA
+1944	TOK	gene		gene\N5S
+1945	TOK	cluster		cluster\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1946	TOK	To	BOS	to\P
+1947	TOK	clone		clone\N5S
+1948	TOK	using		use\VMG----
+1949	TOK	the		the\AT---6
+1950	TOK	lambda		lambda\N5S
+1951	TOK	vector		vector\N5S
+---	DLD	,		=\DELIM
+1952	TOK	the		the\AT---6
+1953	TOK	phage		phage\N5S
+##	TAG	<name>
+1954	TOK	DNA		DNA\N46
+##	TAG	</name>
+1955	TOK	is		be\V6FDRS3
+1956	TOK	cut		cut\VMC----
+1957	TOK	with		with\P
+1958	TOK	a		a\AI---S
+1959	TOK	restriction		restriction\N5S
+1960	TOK	enzyme		enzyme\N5S
+---	DLE	-		=\DELIM
+1961	TOK	for		for\P
+1962	TOK	example		example\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1963	TOK	EcoRI		EcoRI\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1964	TOK	resulting		result\VMG----
+1965	TOK	in		in\P
+1966	TOK	a		a\AI---S
+1967	TOK	left		left\JA
+1968	TOK	arm		arm\N5S
+---	DLD	,		=\DELIM
+1969	TOK	a		a\AI---S
+1970	TOK	right		right\JA
+1971	TOK	arm		arm\N5S
+---	DLD	,		=\DELIM
+1972	TOK	and		and\CC
+1973	TOK	the		the\AT---6
+1974	TOK	central		central\JA
+1975	TOK	region		region\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1976	TOK	The	BOS	the\AT---6
+1977	TOK	arms		arms\N5S
+1978	TOK	are		be\V6FDR66
+1979	TOK	isolated		isolate\VMC----
+1980	TOK	and		and\CC
+1981	TOK	ligated		ligate\VMF6A66
+---	DLE	(		=\DELIM
+1982	TOK	using		use\VMG----
+##	TAG	<name>
+1983	TOK	DNA		DNA\N46
+##	TAG	</name>
+1984	TOK	ligase		ligase\N5S
+---	DLD	)		=\DELIM
+1985	TOK	to		to\P
+##	TAG	<name>
+1986	TOK	DNA		DNA\N46
+##	TAG	</name>
+1987	TOK	segments		segment\N5P
+1988	TOK	generated		generate\VMC----
+1989	TOK	by		by\P
+1990	TOK	cutting		cut\VMG----
+1991	TOK	genomic		genomic\JA
+##	TAG	<name>
+1992	TOK	DNA		DNA\N46
+##	TAG	</name>
+1993	TOK	with		with\P
+##	TAG	<name>
+1994	TOK	EcoRI		EcoRI\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1995	TOK	The	BOS	the\AT---6
+1996	TOK	resulting		result\VMG----
+1997	TOK	recombinant		recombinant\N5S
+1998	TOK	molecules		molecule\N5P
+1999	TOK	can		can\VOFDR66
+2000	TOK	be		be\VMI----
+2001	TOK	introduced		introduce\VMC----
+2002	TOK	into		into\P
+2003	TOK	bacterial		bacterial\JA
+2004	TOK	host		host\N5S
+2005	TOK	cells		cell\N5P
+2006	TOK	by		by\P
+2007	TOK	transfection		transfection\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2009	TOK	First	BOS	first\MOS
+---	DLD	,		=\DELIM
+2010	TOK	the		the\AT---6
+2011	TOK	host		host\N5S
+2012	TOK	cells		cell\N5P
+2013	TOK	are		be\V6FDR66
+2014	TOK	made		make\VMC----
+2015	TOK	permeable		permeable\JA
+2016	TOK	by		by\P
+2017	TOK	a		a\AI---S
+2018	TOK	chemical		chemical\JA
+2019	TOK	treatment		treatment\N5S
+---	DLD	,		=\DELIM
+2020	TOK	and		and\CC
+2021	TOK	then		then\DGA7
+2022	TOK	mixed		mix\VMC----
+2023	TOK	with		with\P
+2024	TOK	the		the\AT---6
+2025	TOK	ligated		ligate\VMC----
+2026	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2027	TOK	Vector	BOS	vector\N5S
+2028	TOK	molecules		molecule\N5P
+2029	TOK	carrying		carry\VMG----
+2030	TOK	inserts		insert\N5P
+2031	TOK	are		be\V6FDR66
+2032	TOK	taken		take\VMC----
+2033	TOK	into		into\P
+2034	TOK	the		the\AT---6
+2035	TOK	host		host\N5S
+2036	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+2037	TOK	where		where\CS
+2038	TOK	they		they\RPP3NN
+2039	TOK	direct		direct\VMF6R66
+2040	TOK	the		the\AT---6
+2041	TOK	synthesis		synthesis\N5S
+2042	TOK	of		of\P
+2043	TOK	infective		infective\JA
+2044	TOK	phage		phage\N5S
+---	DLD	,		=\DELIM
+2045	TOK	each		each\RIS3N-
+2046	TOK	of		of\P
+2047	TOK	which		which\RW63N-
+2048	TOK	carries		carry\VMFDRS3
+2049	TOK	a		a\AI---S
+##	TAG	<name>
+2050	TOK	DNA		DNA\N46
+##	TAG	</name>
+2051	TOK	insert		insert\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2052	TOK	Alternatively	BOS	alternatively\DGA7
+---	DLD	,		=\DELIM
+2053	TOK	the		the\AT---6
+2054	TOK	lambda		lambda\N5S
+##	TAG	<name>
+2055	TOK	DNA		DNA\N46
+##	TAG	</name>
+2056	TOK	carrying		carry\VMG----
+2057	TOK	inserts		insert\N5P
+2058	TOK	can		can\VOFDR66
+2059	TOK	be		be\VMI----
+2060	TOK	mixed		mix\VMC----
+2061	TOK	with		with\P
+2062	TOK	phage		phage\N5S
+2063	TOK	protein		protein\N5S
+2064	TOK	components		component\N5P
+---	DLD	;		=\DELIM
+2065	TOK	from		from\P
+2066	TOK	this		this\AD---S
+2067	TOK	mixture		mixture\N5S
+---	DLD	,		=\DELIM
+2068	TOK	infective		infective\JA
+2069	TOK	phage		phage\N5S
+2070	TOK	particles		particle\N5P
+2071	TOK	are		be\V6FDR66
+2072	TOK	formed		form\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2073	TOK	Each	BOS	each\AG---S
+2074	TOK	phage		phage\N5S
+2075	TOK	can		can\VOFDR66
+2076	TOK	be		be\VMI----
+2077	TOK	amplified		amplify\VMC----
+2078	TOK	by		by\P
+2079	TOK	growth		growth\N5S
+2080	TOK	on		on\P
+2081	TOK	plated		plate\VMC----
+2082	TOK	bacterial		bacterial\JA
+2083	TOK	cells		cell\N5P
+2084	TOK	to		to\P
+2085	TOK	form		form\N5S
+2086	TOK	plaques		plaque\N5P
+2087	TOK	or		or\CC
+2088	TOK	by		by\P
+2089	TOK	infecting		infect\VMG----
+2090	TOK	cells		cell\N5P
+2091	TOK	in		in\P
+2092	TOK	liquid		liquid\N5S
+2093	TOK	medium		medium\N5S
+2094	TOK	and		and\CC
+2095	TOK	harvesting		harvest\VMG----
+2096	TOK	the		the\AT---6
+2097	TOK	lysed		lyse\VMC----
+2098	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2099	TOK	Other	BOS	other\JA
+2100	TOK	bacteriophages		bacteriophage\N5P
+2101	TOK	are		be\V6FDR66
+2102	TOK	used		use\VMC----
+2103	TOK	as		as\P
+2104	TOK	vectors		vector\N5P
+---	DLD	,		=\DELIM
+2105	TOK	including		including\P
+2106	TOK	the		the\AT---6
+2107	TOK	single		single\JA
+---	DLI	-		=\DELIM
+2108	TOK	stranded		strand\VMC----
+2109	TOK	phage		phage\N5S
+2110	TOK	known		know\VMC----
+2111	TOK	as		as\P
+##	TAG	<name>
+2112	TOK	M13		M13\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2113	TOK	Figure		Figure\N46
+##	TAG	</name>
+2114	TOK	l5		l5\N5P
+##	TAG	<num>
+2115	TOK	.11		.11\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2116	TOK	When	BOS	when\CS
+##	TAG	<name>
+2117	TOK	M13		M13\N46
+##	TAG	</name>
+2118	TOK	infects		infect\VMFDRS3
+2119	TOK	a		a\AI---S
+2120	TOK	bacterial		bacterial\JA
+2121	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+2122	TOK	the		the\AT---6
+2123	TOK	single		single\JA
+2124	TOK	strand		strand\N5S
+---	DLE	(		=\DELIM
+2125	TOK	+		plus\N5S
+2126	TOK	strand		strand\N5S
+---	DLD	)		=\DELIM
+2127	TOK	replicates		replicate\N5P
+2128	TOK	to		to\P
+2129	TOK	produce		produce\VMI----
+2130	TOK	a		a\AI---S
+2131	TOK	double		double\JA
+---	DLI	-		=\DELIM
+2132	TOK	stranded		strand\VMC----
+2133	TOK	molecule		molecule\N5S
+2134	TOK	known		know\VMC----
+2135	TOK	as		as\P
+2136	TOK	the		the\AT---6
+2137	TOK	replicative		replicative\JA
+2138	TOK	form		form\VMF6R66
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2139	TOK	RF		RF\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name pos="N46" expansion="replicative form">
+2140	TOK	RF	BOS	RF\N46
+##	TAG	</name>
+2141	TOK	molecules		molecule\N5P
+2142	TOK	can		can\VOFDR66
+2143	TOK	be		be\VMI----
+2144	TOK	regarded		regard\VMC----
+2145	TOK	as		as\CS
+2146	TOK	similar		similar\JA
+2147	TOK	to		to\P
+2148	TOK	plasmids		plasmid\N5P
+---	DLD	,		=\DELIM
+2149	TOK	and		and\CC
+2150	TOK	foreign		foreign\JA
+##	TAG	<name>
+2151	TOK	DNA		DNA\N46
+##	TAG	</name>
+2152	TOK	can		can\VOFDR66
+2153	TOK	be		be\VMI----
+2154	TOK	inserted		insert\VMC----
+2155	TOK	into		into\P
+2156	TOK	single		single\JA
+2157	TOK	restriction		restriction\N5S
+2158	TOK	enzyme		enzyme\N5S
+2159	TOK	cleavage		cleavage\N5S
+2160	TOK	sites		site\N5P
+2161	TOK	present		present\VMF6R66
+2162	TOK	in		in\P
+2163	TOK	the		the\AT---6
+2164	TOK	phage		phage\N5S
+##	TAG	<name>
+2165	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2166	TOK	When	BOS	when\CS
+2167	TOK	reinserted		reinsert\VMC----
+2168	TOK	into		into\P
+2169	TOK	bacterial		bacterial\JA
+2170	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+2171	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="replicative form">
+2172	TOK	RF		RF\N46
+##	TAG	</name>
+2173	TOK	molecules		molecule\N5P
+2174	TOK	replicate		replicate\VMF6R66
+2175	TOK	to		to\P
+2176	TOK	produce		produce\VMI----
+2177	TOK	single		single\JA
+---	DLE	(		=\DELIM
+2178	TOK	+		plus\CS
+---	DLD	)		=\DELIM
+2179	TOK	strands		strand\N5P
+---	DLD	,		=\DELIM
+2180	TOK	including		including\P
+2181	TOK	one		one\MCS
+2182	TOK	strand		strand\N5S
+2183	TOK	of		of\P
+2184	TOK	the		the\AT---6
+2185	TOK	inserted		insert\VMC----
+##	TAG	<name>
+2186	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2187	TOK	The	BOS	the\AT---6
+2188	TOK	cloned		clone\VMC----
+2189	TOK	single		single\JA
+---	DLI	-		=\DELIM
+2190	TOK	tranded		tranded\JA
+##	TAG	<name>
+2191	TOK	DNA		DNA\N46
+##	TAG	</name>
+2192	TOK	produced		produce\VMC----
+2193	TOK	by		by\P
+##	TAG	<name>
+2194	TOK	M13		M13\N46
+##	TAG	</name>
+2195	TOK	are		be\V6FDR66
+2196	TOK	extruded		extrude\VMC----
+2197	TOK	from		from\P
+2198	TOK	the		the\AT---6
+2199	TOK	cell		cell\N5S
+2200	TOK	and		and\CC
+2201	TOK	can		can\VOFDR66
+2202	TOK	be		be\VMI----
+2203	TOK	recovered		recover\VMC----
+2204	TOK	and		and\CC
+2205	TOK	used		use\VMC----
+2206	TOK	directly		directly\DGA7
+2207	TOK	for		for\P
+##	TAG	<name>
+2208	TOK	DNA		DNA\N46
+##	TAG	</name>
+2209	TOK	sequencing		sequencing\N5S
+2210	TOK	or		or\CC
+2211	TOK	as		as\P
+2212	TOK	a		a\AI---S
+2213	TOK	template		template\N5S
+2214	TOK	for		for\P
+2215	TOK	mutational		mutational\JA
+2216	TOK	alteration		alteration\N5S
+2217	TOK	of		of\P
+2218	TOK	the		the\AT---6
+2219	TOK	cloned		clone\VMC----
+2220	TOK	sequence		sequence\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2221	TOK	Cosmid	BOS	cosmid\N5S
+##	TAG	<name>
+2222	TOK	Vectors		Vectors\N46
+##	TAG	</name>
+2223	TOK	and		and\CC
+##	TAG	<name>
+2224	TOK	Shuttle Vectors	EOS	Shuttle_Vectors\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2226	TOK	Cosmids	BOS	cosmid\N5P
+2227	TOK	are		be\V6FDR66
+2228	TOK	hybrid		hybrid\N5S
+2229	TOK	vectors		vector\N5P
+2230	TOK	constructed		construct\VMC----
+2231	TOK	using		use\VMG----
+2232	TOK	parts		part\N5P
+2233	TOK	of		of\P
+2234	TOK	the		the\AT---6
+2235	TOK	lambda		lambda\N5S
+2236	TOK	chromosome		chromosome\N5S
+2237	TOK	and		and\CC
+2238	TOK	plasmid		plasmid\N5S
+##	TAG	<name>
+2239	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2240	TOK	Cosmids	BOS	cosmid\N5P
+2241	TOK	contain		contain\VMF6R66
+2242	TOK	the		the\AT---6
+2243	TOK	cos		cos\N5S
+2244	TOK	sequence		sequence\N5S
+2245	TOK	of		of\P
+2246	TOK	phage		phage\N5S
+2247	TOK	lambda		lambda\N5S
+---	DLD	,		=\DELIM
+2248	TOK	necessary		necessary\JA
+2249	TOK	for		for\P
+2250	TOK	packing		packing\N5S
+2251	TOK	phage		phage\N5S
+##	TAG	<name>
+2252	TOK	DNA		DNA\N46
+##	TAG	</name>
+2253	TOK	into		into\P
+2254	TOK	the		the\AT---6
+2255	TOK	phage		phage\N5S
+2256	TOK	protein		protein\N5S
+2257	TOK	coats		coat\N5P
+---	DLD	,		=\DELIM
+2258	TOK	and		and\CC
+2259	TOK	plasmid		plasmid\N5S
+2260	TOK	sequences		sequence\N5P
+2261	TOK	for		for\P
+2262	TOK	replication		replication\N5S
+2263	TOK	and		and\CC
+2264	TOK	an		an\AI---S
+2265	TOK	antibiotic		antibiotic\N5S
+2266	TOK	resistance		resistance\N5S
+2267	TOK	gene		gene\N5S
+2268	TOK	to		to\P
+2269	TOK	identify		identify\VMI----
+2270	TOK	host		host\N5S
+2271	TOK	cells		cell\N5P
+2272	TOK	carrying		carry\VMG----
+2273	TOK	cosmids		cosmid\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2274	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+2275	TOK	15.12		15.12\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2276	TOK	Cosmid	BOS	cosmid\N5S
+##	TAG	<name>
+2277	TOK	DNA		DNA\N46
+##	TAG	</name>
+2278	TOK	containing		contain\VMG----
+##	TAG	<name>
+2279	TOK	DNA		DNA\N46
+##	TAG	</name>
+2280	TOK	inserts		insert\N5P
+2281	TOK	is		be\V6FDRS3
+2282	TOK	packaged		package\VMC----
+2283	TOK	into		into\P
+2284	TOK	lambda		lambda\N5S
+2285	TOK	protein		protein\N5S
+2286	TOK	heads		head\N5P
+2287	TOK	to		to\P
+2288	TOK	form		form\VMI----
+2289	TOK	infective		infective\JA
+2290	TOK	phage		phage\N5S
+2291	TOK	particles		particle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2292	TOK	After	BOS	after\P
+2293	TOK	the		the\AT---6
+2294	TOK	cosmid		cosmid\N5S
+2295	TOK	enters		enter\VMFDRS3
+2296	TOK	the		the\AT---6
+2297	TOK	bacterial		bacterial\JA
+2298	TOK	host		host\N5S
+2299	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+2300	TOK	it		it\RPS3N6
+2301	TOK	replicates		replicate\VMFDRS3
+2302	TOK	as		as\CS
+2303	TOK	a		a\AI---S
+2304	TOK	plasmid		plasmid\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2305	TOK	Because	BOS	because\CS
+2306	TOK	almost		almost\DGA7
+2307	TOK	the		the\AT---6
+2308	TOK	entire		entire\JA
+2309	TOK	lambda		lambda\N5S
+2310	TOK	genome		genome\N5S
+2311	TOK	has		have\V6FDRS3
+2312	TOK	been		be\VMC----
+2313	TOK	deleted		delete\VMC----
+---	DLD	,		=\DELIM
+2314	TOK	cosmids		cosmid\N5P
+2315	TOK	can		can\VOFDR66
+2316	TOK	carry		carry\VMI----
+##	TAG	<name>
+2317	TOK	DNA		DNA\N46
+##	TAG	</name>
+2318	TOK	inserts		insert\N5P
+2319	TOK	that		that\RW63N6
+2320	TOK	are		be\V6FDR66
+2321	TOK	much		much\DGA7
+2322	TOK	larger		large\JC
+2323	TOK	than		than\CS
+2324	TOK	those		that\RDP3N-
+2325	TOK	carried		carry\VMC----
+2326	TOK	by		by\P
+2327	TOK	lambda		lambda\N5S
+2328	TOK	vectors		vector\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2329	TOK	Cosmids	BOS	cosmid\N5P
+2330	TOK	can		can\VOFDR66
+2331	TOK	carry		carry\VMI----
+2332	TOK	almost		almost\DGA7
+##	TAG	<num>
+2333	TOK	50		50\X
+##	TAG	</num>
+2334	TOK	kb		kb\N5S
+2335	TOK	of		of\P
+2336	TOK	insert		insert\VMI----
+##	TAG	<name>
+2337	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+2338	TOK	phage		phage\N5S
+2339	TOK	vectors		vector\N5P
+2340	TOK	can		can\VOFDR66
+2341	TOK	accommodate		accommodate\VMI----
+##	TAG	<name>
+2342	TOK	DNA		DNA\N46
+##	TAG	</name>
+2343	TOK	inserts		insert\N5P
+2344	TOK	of		of\P
+2345	TOK	about		about\DGA7
+##	TAG	<num>
+2346	TOK	15		15\X
+##	TAG	</num>
+2347	TOK	kb		kb\N5P
+---	DLD	;		=\DELIM
+2348	TOK	plasmids		plasmid\N5P
+2349	TOK	are		be\V6FDR66
+2350	TOK	usually		usually\DGA7
+2351	TOK	limited		limit\VMC----
+2352	TOK	to		to\P
+2353	TOK	inserts		insert\N5P
+2354	TOK	of		of\P
+##	TAG	<num>
+2355	TOK	5		5\X
+##	TAG	</num>
+2356	TOK	to		to\P
+##	TAG	<num>
+2357	TOK	10		10\X
+##	TAG	</num>
+2358	TOK	kb		kb\N5S
+2359	TOK	in		in\P
+2360	TOK	length		length\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2361	TOK	Other	BOS	other\JA
+2362	TOK	hybrid		hybrid\N5S
+2363	TOK	vectors		vector\N5P
+2364	TOK	constructed		construct\VMC----
+2365	TOK	with		with\P
+2366	TOK	origins		origin\N5P
+2367	TOK	of		of\P
+2368	TOK	replication		replication\N5S
+2369	TOK	derived		derive\VMC----
+2370	TOK	from		from\P
+2371	TOK	different		different\JA
+2372	TOK	sources		source\N5P
+---	DLE	(		=\DELIM
+##	TAG	<abbr>
+2373	TOK	e.g.		e.g.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+2374	TOK	plasmids		plasmid\N5P
+2375	TOK	and		and\CC
+2376	TOK	animal		animal\N5S
+2377	TOK	viruses		virus\N5P
+2378	TOK	such		such\RIS3N-
+2379	TOK	as		as\P
+##	TAG	<name>
+2380	TOK	SV40		SV40\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2381	TOK	can		can\VOFDR66
+2382	TOK	replicate		replicate\VMI----
+2383	TOK	in		in\P
+2384	TOK	more		more\DDC7
+2385	TOK	than		than\CS
+2386	TOK	one		one\MCS
+2387	TOK	type		type\N5S
+2388	TOK	of		of\P
+2389	TOK	host		host\N5S
+2390	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2391	TOK	These	BOS	this\AD---P
+2392	TOK	shuttle		shuttle\N5S
+2393	TOK	vectors		vector\N5P
+2394	TOK	usually		usually\DGA7
+2395	TOK	contain		contain\VMF6R66
+2396	TOK	genetic		genetic\JA
+2397	TOK	markers		marker\N5P
+2398	TOK	that		that\RW63N6
+2399	TOK	are		be\V6FDR66
+2400	TOK	selectable		selectable\JA
+2401	TOK	in		in\P
+2402	TOK	both		both\RIP3N-
+2403	TOK	host		host\N5S
+2404	TOK	systems		system\N5P
+---	DLD	,		=\DELIM
+2405	TOK	and		and\CC
+2406	TOK	can		can\VOFDR66
+2407	TOK	be		be\VMI----
+2408	TOK	used		use\VMC----
+2409	TOK	to		to\P
+2410	TOK	shuttle		shuttle\N5S
+##	TAG	<name>
+2411	TOK	DNA		DNA\N46
+##	TAG	</name>
+2412	TOK	inserts		insert\VMFDRS3
+##	TAG	<loc pos="DGA7">
+2413	TOK	back and forth		back_and_forth\DGA7
+##	TAG	</loc>
+2414	TOK	between		between\P
+##	TAG	<abbr>
+2415	TOK	E.		E.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+2416	TOK	coli		coli\N5P
+2417	TOK	and		and\CC
+2418	TOK	another		another\JA
+2419	TOK	host		host\N5S
+2420	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+2421	TOK	such		such\JA
+2422	TOK	as		as\P
+2423	TOK	yeast		yeast\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2424	TOK	Often	BOS	often\DGA7
+---	DLD	,		=\DELIM
+2425	TOK	such		such\JA
+2426	TOK	vectors		vector\N5P
+2427	TOK	are		be\V6FDR66
+2428	TOK	employed		employ\VMC----
+2429	TOK	in		in\P
+2430	TOK	studying		study\VMG----
+2431	TOK	gene		gene\N5S
+2432	TOK	expression		expression\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2433	TOK	Other	BOS	other\JA
+2434	TOK	vectors		vector\N5P
+---	DLD	,		=\DELIM
+2435	TOK	those		that\RDP3N-
+2436	TOK	used		use\VMC----
+2437	TOK	in		in\P
+2438	TOK	specific		specific\JA
+2439	TOK	applications		application\N5P
+---	DLD	,		=\DELIM
+2440	TOK	will		will\VOFDR66
+2441	TOK	be		be\VMI----
+2442	TOK	described		describe\VMC----
+2443	TOK	in		in\P
+2444	TOK	following		following\JA
+2445	TOK	sections		section\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2446	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2447	TOK	0	EOS	0\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2449	TOK	A	BOS	a\AI---S
+2450	TOK	sample		sample\JA
+2451	TOK	tube		tube\N5S
+2452	TOK	containing		contain\VMG----
+2453	TOK	a		a\AI---S
+2454	TOK	pellet		pellet\N5S
+2455	TOK	of		of\P
+##	TAG	<name>
+2456	TOK	DNA	EOS	DNA\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+2458	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2459	TOK	15.1	EOS	15.1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2461	TOK	The	BOS	the\AT---6
+2462	TOK	restriction		restriction\N5S
+2463	TOK	enzyme		enzyme\N5S
+##	TAG	<name>
+2464	TOK	EcoRI		EcoRI\N46
+##	TAG	</name>
+2465	TOK	recognizes		recognize\VMFDRS3
+2466	TOK	and		and\CC
+2467	TOK	binds		bind\VMFDRS3
+2468	TOK	to		to\P
+2469	TOK	the		the\AT---6
+2470	TOK	palindromic		palindromic\JA
+2471	TOK	nucleotide		nucleotide\N5S
+2472	TOK	sequence		sequence\N5S
+##	TAG	<name>
+2473	TOK	GAATTC	EOS	GAATTC\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2475	TOK	Cleavage	BOS	cleavage\N5S
+2476	TOK	of		of\P
+2477	TOK	the		the\AT---6
+##	TAG	<name>
+2478	TOK	DNA		DNA\N46
+##	TAG	</name>
+2479	TOK	at		at\P
+2480	TOK	this		this\AD---S
+2481	TOK	site		site\N5S
+2482	TOK	produces		produce\VMFDRS3
+2483	TOK	complementary		complementary\JA
+2484	TOK	single		single\JA
+---	DLI	-		=\DELIM
+2485	TOK	stranded		strand\VMC----
+2486	TOK	tails		tail\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2487	TOK	The	BOS	the\AT---6
+2488	TOK	resulting		result\VMG----
+2489	TOK	single		single\JA
+---	DLI	-		=\DELIM
+2490	TOK	stranded		strand\VMC----
+2491	TOK	tails		tail\N5P
+2492	TOK	can		can\VOFDR66
+2493	TOK	anneal		anneal\VMI----
+2494	TOK	with		with\P
+2495	TOK	complementary		complementary\JA
+2496	TOK	tails		tail\N5P
+2497	TOK	from		from\P
+2498	TOK	other		other\JA
+##	TAG	<name>
+2499	TOK	DNA		DNA\N46
+##	TAG	</name>
+2500	TOK	fragments		fragment\N5P
+2501	TOK	to		to\P
+2502	TOK	form		form\N5S
+2503	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+2504	TOK	DNA		DNA\N46
+##	TAG	</name>
+2505	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2506	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2507	TOK	15.2	EOS	15.2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2509	TOK	In	BOS	in\P
+2510	TOK	forming		form\VMG----
+2511	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+2512	TOK	DNA		DNA\N46
+##	TAG	</name>
+2513	TOK	molecules		molecule\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2514	TOK	DNA		DNA\N46
+##	TAG	</name>
+2515	TOK	from		from\P
+2516	TOK	different		different\JA
+2517	TOK	sources		source\N5P
+2518	TOK	is		be\V6FDRS3
+2519	TOK	cleaved		cleave\VMC----
+2520	TOK	with		with\P
+##	TAG	<name>
+2521	TOK	EcoRI		EcoRI\N46
+##	TAG	</name>
+2522	TOK	and		and\CC
+2523	TOK	mixed		mix\VMC----
+2524	TOK	together		together\DGA7
+2525	TOK	to		to\P
+2526	TOK	allow		allow\VMI----
+2527	TOK	annealing		anneal\VMG----
+2528	TOK	into		into\P
+2529	TOK	recombinant		recombinant\N5S
+2530	TOK	molecules	EOS	molecule\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2531	TOK	The	BOS	the\AT---6
+2532	TOK	enzyme		enzyme\N5S
+##	TAG	<name>
+2533	TOK	DNA		DNA\N46
+##	TAG	</name>
+2534	TOK	ligase		ligase\N5S
+2535	TOK	in		in\P
+2536	TOK	then		then\DGA7
+2537	TOK	used		use\VMC----
+2538	TOK	to		to\P
+2539	TOK	covalently		covalently\DGA7
+2540	TOK	bond		bond\VMI----
+2541	TOK	these		this\AD---P
+2542	TOK	annealed		anneal\VMF6A66
+2543	TOK	fragments		fragment\N5P
+2544	TOK	into		into\P
+2545	TOK	an		an\AI---S
+2546	TOK	intact		intact\JA
+2547	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+2548	TOK	DNA		DNA\N46
+##	TAG	</name>
+2549	TOK	molecule		molecule\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2550	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2551	TOK	15.3	EOS	15.3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2553	TOK	Recombinant	BOS	recombinant\N5S
+##	TAG	<name>
+2554	TOK	DNA		DNA\N46
+##	TAG	</name>
+2555	TOK	molecules		molecule\N5P
+2556	TOK	can		can\VOFDR66
+2557	TOK	be		be\VMI----
+2558	TOK	formed		form\VMC----
+2559	TOK	from		from\P
+##	TAG	<name>
+2560	TOK	DNA		DNA\N46
+##	TAG	</name>
+2561	TOK	cut		cut\VMF6A66
+2562	TOK	with		with\P
+2563	TOK	enzymes		enzyme\N5P
+2564	TOK	that		that\RW63N6
+2565	TOK	leave		leave\VMF6R66
+2566	TOK	blunt		blunt\JA
+2567	TOK	ends	EOS	end\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2569	TOK	In	BOS	in\P
+2570	TOK	this		this\AD---S
+2571	TOK	method		method\N5S
+---	DLD	,		=\DELIM
+2572	TOK	the		the\AT---6
+2573	TOK	enzyme		enzyme\N5S
+2574	TOK	terminal		terminal\JA
+2575	TOK	deoxynucleotidyl		deoxynucleotidyl\N5S
+2576	TOK	transferase		transferase\N5S
+2577	TOK	is		be\V6FDRS3
+2578	TOK	used		use\VMC----
+2579	TOK	to		to\P
+2580	TOK	create		create\VMI----
+2581	TOK	complementary		complementary\JA
+2582	TOK	tails		tail\N5P
+2583	TOK	by		by\P
+2584	TOK	the		the\AT---6
+2585	TOK	addition		addition\N5S
+2586	TOK	of		of\P
+2587	TOK	poly		poly\N5S
+2588	TOK	dA		dA\N5P
+2589	TOK	and		and\CC
+2590	TOK	poly		poly\N5S
+2591	TOK	dT		dT\N5S
+2592	TOK	to		to\P
+2593	TOK	the		the\AT---6
+2594	TOK	cut		cut\VMC----
+2595	TOK	fragments		fragment\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2596	TOK	These	BOS	this\AD---P
+2597	TOK	tails		tail\N5P
+2598	TOK	serve		serve\VMF6R66
+2599	TOK	to		to\P
+2600	TOK	anneal		anneal\VMI----
+##	TAG	<name>
+2601	TOK	DNA		DNA\N46
+##	TAG	</name>
+2602	TOK	from		from\P
+2603	TOK	different		different\JA
+2604	TOK	sources		source\N5P
+2605	TOK	and		and\CC
+2606	TOK	to		to\P
+2607	TOK	create		create\VMI----
+2608	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+2609	TOK	DNA		DNA\N46
+##	TAG	</name>
+2610	TOK	molecules		molecule\N5P
+2611	TOK	that		that\RW63N6
+2612	TOK	are		be\V6FDR66
+2613	TOK	covalently		covalently\DGA7
+2614	TOK	linked		link\VMC----
+2615	TOK	by		by\P
+2616	TOK	treatment		treatment\N5S
+2617	TOK	with		with\P
+##	TAG	<name>
+2618	TOK	DNA		DNA\N46
+##	TAG	</name>
+2619	TOK	ligase		ligase\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2620	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2621	TOK	15.4	EOS	15.4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2623	TOK	Some	BOS	some\AG---6
+2624	TOK	common		common\JA
+2625	TOK	restriction		restriction\N5S
+2626	TOK	enzymes		enzyme\N5P
+---	DLD	,		=\DELIM
+2627	TOK	with		with\P
+2628	TOK	their		their\APP3N6
+2629	TOK	recognition		recognition\N5S
+2630	TOK	and		and\CC
+2631	TOK	cutting		cutting\N5S
+2632	TOK	sites		site\N5P
+---	DLD	,		=\DELIM
+2633	TOK	cleavage		cleavage\N5S
+2634	TOK	patterns		pattern\N5P
+---	DLD	,		=\DELIM
+2635	TOK	and		and\CC
+2636	TOK	sources	EOS	source\N5P
+##	TAG	</head>
+##	TAG	<head>
+2637	TOK	Figure	BOS	Figure\N5P
+##	TAG	<num>
+2638	TOK	15.5	EOS	15.5\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2640	TOK	A	BOS	a\AI---S
+2641	TOK	color		color\N5S
+---	DLI	-		=\DELIM
+2642	TOK	enhanced		enhance\VMC----
+2643	TOK	electron		electron\N5S
+2644	TOK	micrograph		micrograph\N5S
+2645	TOK	of		of\P
+2646	TOK	circular		circular\JA
+2647	TOK	plasmid		plasmid\N5S
+2648	TOK	molecules		molecule\N5P
+2649	TOK	isolated		isolate\VMC----
+2650	TOK	from		from\P
+2651	TOK	the		the\AT---6
+2652	TOK	bacterium		bacterium\N5S
+##	TAG	<abbr>
+2653	TOK	E.		E.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+2654	TOK	coli	EOS	coli\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2656	TOK	Genetically	BOS	genetically\DGA7
+2657	TOK	engineered		engineer\VMF6A66
+2658	TOK	plasmids		plasmid\N5P
+2659	TOK	are		be\V6FDR66
+2660	TOK	used		use\VMC----
+2661	TOK	as		as\P
+2662	TOK	vectors		vector\N5P
+2663	TOK	for		for\P
+2664	TOK	cloning		clone\VMG----
+##	TAG	<name>
+2665	TOK	DNA		DNA\N46
+##	TAG	</name>
+2666	TOK	segments		segment\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2667	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2668	TOK	15.6	EOS	15.6\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2670	TOK	Restriction	BOS	restriction\N5S
+2671	TOK	map		map\N5S
+2672	TOK	of		of\P
+2673	TOK	the		the\AT---6
+2674	TOK	plasmid		plasmid\N5S
+2675	TOK	pBR322		pBR322\N5S
+2676	TOK	showing		show\VMG----
+2677	TOK	the		the\AT---6
+2678	TOK	locations		location\N5P
+2679	TOK	of		of\P
+2680	TOK	the		the\AT---6
+2681	TOK	restriction		restriction\N5S
+2682	TOK	enzyme		enzyme\N5S
+2683	TOK	sites		site\N5P
+2684	TOK	that		that\RW63N6
+2685	TOK	cleave		cleave\VMF6R66
+2686	TOK	the		the\AT---6
+2687	TOK	plasmid		plasmid\N5S
+2688	TOK	only		only\DGA7
+2689	TOK	once	EOS	once\DGA7
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2691	TOK	These	BOS	this\AD---P
+2692	TOK	sites		site\N5P
+2693	TOK	can		can\VOFDR66
+2694	TOK	be		be\VMI----
+2695	TOK	used		use\VMC----
+2696	TOK	to		to\P
+2697	TOK	insert		insert\VMI----
+##	TAG	<name>
+2698	TOK	DNA		DNA\N46
+##	TAG	</name>
+2699	TOK	fragments		fragment\N5P
+2700	TOK	for		for\P
+2701	TOK	cloning		clone\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2702	TOK	Also	BOS	also\DGA7
+2703	TOK	shown		show\VMC----
+2704	TOK	are		be\V6FDR66
+2705	TOK	the		the\AT---6
+2706	TOK	locations		location\N5P
+2707	TOK	of		of\P
+2708	TOK	the		the\AT---6
+2709	TOK	genes		gene\N5P
+2710	TOK	for		for\P
+2711	TOK	antiblotic		antiblotic\JA
+2712	TOK	resistance		resistance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2713	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2714	TOK	15.7	EOS	15.7\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2716	TOK	The	BOS	the\AT---6
+2717	TOK	plasmid		plasmid\N5S
+2718	TOK	pUC18		pUC18\N5S
+2719	TOK	offers		offer\VMFDRS3
+2720	TOK	several		several\JA
+2721	TOK	advantages		advantage\N5P
+2722	TOK	as		as\P
+2723	TOK	a		a\AI---S
+2724	TOK	vector		vector\N5S
+2725	TOK	for		for\P
+2726	TOK	cloning	EOS	clone\VMG----
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+2728	TOK	Because of	BOS	Because_of\P
+##	TAG	</loc>
+2729	TOK	its		its\APS3N6
+2730	TOK	small		small\JA
+2731	TOK	size		size\N5S
+---	DLD	,		=\DELIM
+2732	TOK	it		it\RPS3N6
+2733	TOK	can		can\VOFDR66
+2734	TOK	accept		accept\VMI----
+2735	TOK	relatively		relatively\DGA7
+2736	TOK	large		large\JA
+##	TAG	<name>
+2737	TOK	DNA		DNA\N46
+##	TAG	</name>
+2738	TOK	fragments		fragment\N5P
+2739	TOK	for		for\P
+2740	TOK	cloning		clone\VMG----
+---	DLD	;		=\DELIM
+2741	TOK	it		it\RPS3N6
+2742	TOK	replicates		replicate\VMFDRS3
+2743	TOK	to		to\P
+2744	TOK	a		a\AI---S
+2745	TOK	high		high\JA
+2746	TOK	copy		copy\N5S
+2747	TOK	number		number\N5S
+---	DLD	,		=\DELIM
+2748	TOK	and		and\CC
+2749	TOK	it		it\RPS3N6
+2750	TOK	has		have\V6FDRS3
+2751	TOK	a		a\AI---S
+2752	TOK	large		large\JA
+2753	TOK	number		number\N5S
+2754	TOK	of		of\P
+2755	TOK	restriction		restriction\N5S
+2756	TOK	sites		site\N5P
+2757	TOK	within		within\P
+2758	TOK	the		the\AT---6
+2759	TOK	polylinker		polylinker\JC
+---	DLD	,		=\DELIM
+2760	TOK	located		locate\VMC----
+2761	TOK	within		within\P
+2762	TOK	a		a\AI---S
+2763	TOK	lacZ		lacZ\JA
+2764	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2765	TOK	Bacteria	BOS	bacteria\N5P
+2766	TOK	carrying		carry\VMG----
+2767	TOK	pUC18		pUC18\N5P
+2768	TOK	produce		produce\VMF6R66
+2769	TOK	blue		blue\JA
+2770	TOK	colonies		colony\N5P
+2771	TOK	when		when\CS
+2772	TOK	grown		grow\VMC----
+2773	TOK	on		on\P
+2774	TOK	a		a\AI---S
+2775	TOK	medium		medium\N5S
+2776	TOK	containing		contain\VMG----
+##	TAG	<name>
+2777	TOK	X-gal DNA		X-gal_DNA\N46
+##	TAG	</name>
+2778	TOK	inserted		insert\VMC----
+2779	TOK	into		into\P
+2780	TOK	the		the\AT---6
+2781	TOK	polylinker		polylinker\N5S
+2782	TOK	site		site\N5S
+2783	TOK	disrupts		disrupt\VMFDRS3
+2784	TOK	the		the\AT---6
+2785	TOK	lacZ		lacZ\JA
+2786	TOK	gene		gene\N5S
+---	DLD	,		=\DELIM
+2787	TOK	resulting		result\VMG----
+2788	TOK	in		in\P
+2789	TOK	white		white\JA
+2790	TOK	colonies		colony\N5P
+---	DLD	,		=\DELIM
+2791	TOK	allowing		allow\VMG----
+2792	TOK	direct		direct\JA
+2793	TOK	identification		identification\N5S
+2794	TOK	of		of\P
+2795	TOK	colonies		colony\N5P
+2796	TOK	carrying		carry\VMG----
+2797	TOK	cloned		clone\VMC----
+##	TAG	<name>
+2798	TOK	DNA		DNA\N46
+##	TAG	</name>
+2799	TOK	inserts		insert\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2800	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2801	TOK	15.8	EOS	15.8\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+2803	TOK	Petri	BOS	Petri\N46
+##	TAG	</name>
+2804	TOK	plate		plate\N5S
+2805	TOK	showing		show\VMG----
+2806	TOK	the		the\AT---6
+2807	TOK	growth		growth\N5S
+2808	TOK	of		of\P
+2809	TOK	host		host\N5S
+2810	TOK	cells		cell\N5P
+2811	TOK	after		after\P
+2812	TOK	uptake		uptake\N5S
+2813	TOK	of		of\P
+2814	TOK	recombinant		recombinant\N5S
+2815	TOK	plasmids	EOS	plasmid\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2817	TOK	The	BOS	the\AT---6
+2818	TOK	medium		medium\N5S
+2819	TOK	on		on\P
+2820	TOK	the		the\AT---6
+2821	TOK	plate		plate\N5S
+2822	TOK	contains		contain\VMFDRS3
+2823	TOK	a		a\AI---S
+2824	TOK	compound		compound\N5S
+2825	TOK	called		call\VMF6A66
+##	TAG	<name>
+2826	TOK	X-gol		X-gol\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2827	TOK	DNA	BOS	DNA\N46
+##	TAG	</name>
+2828	TOK	inserts		insert\N5P
+2829	TOK	in		in\P
+2830	TOK	the		the\AT---6
+2831	TOK	pUC		pUC\N5S
+2832	TOK	vector		vector\N5S
+2833	TOK	disrupt		disrupt\VMI----
+2834	TOK	the		the\AT---6
+2835	TOK	gene		gene\N5S
+2836	TOK	responsible		responsible\JA
+2837	TOK	for		for\P
+2838	TOK	the		the\AT---6
+2839	TOK	formation		formation\N5S
+2840	TOK	of		of\P
+2841	TOK	blue		blue\JA
+2842	TOK	colonies		colony\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2843	TOK	Cells	BOS	cell\N5P
+2844	TOK	in		in\P
+2845	TOK	blue		blue\JA
+2846	TOK	colonies		colony\N5P
+2847	TOK	do		do\V6FDR66
+2848	TOK	not		not\DGA7
+2849	TOK	carry		carry\VMI----
+2850	TOK	any		any\AG---6
+2851	TOK	cloned		clone\VMC----
+##	TAG	<name>
+2852	TOK	DNA		DNA\N46
+##	TAG	</name>
+2853	TOK	inserts		insert\VMFDRS3
+---	DLD	,		=\DELIM
+2854	TOK	whereas		whereas\CS
+2855	TOK	white		white\JA
+2856	TOK	colonies		colony\N5P
+2857	TOK	contain		contain\VMF6R66
+2858	TOK	vectors		vector\N5P
+2859	TOK	carrying		carry\VMG----
+##	TAG	<name>
+2860	TOK	DNA		DNA\N46
+##	TAG	</name>
+2861	TOK	inserts		insert\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2862	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2863	TOK	15.9	EOS	15.9\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2865	TOK	A	BOS	a\AI---S
+2866	TOK	colorized		colorize\VMC----
+2867	TOK	electron		electron\N5S
+2868	TOK	micrograph		micrograph\N5S
+2869	TOK	showing		show\VMG----
+2870	TOK	a		a\AI---S
+2871	TOK	cluster		cluster\N5S
+2872	TOK	of		of\P
+2873	TOK	the		the\AT---6
+2874	TOK	bacteriophage		bacteriophage\N5S
+2875	TOK	lambda		lambda\N5S
+2876	TOK	widely		widely\DGA7
+2877	TOK	used		use\VMC----
+2878	TOK	as		as\P
+2879	TOK	a		a\AI---S
+2880	TOK	vector		vector\N5S
+2881	TOK	in		in\P
+2882	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+2883	TOK	DNA		DNA\N46
+##	TAG	</name>
+2884	TOK	work	EOS	work\N5S
+##	TAG	</head>
+##	TAG	<head>
+2886	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2887	TOK	15.10	EOS	15.10\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2889	TOK	Steps	BOS	step\N5P
+2890	TOK	in		in\P
+2891	TOK	cloning		clone\VMG----
+2892	TOK	phage		phage\N5S
+2893	TOK	lambda		lambda\N5S
+2894	TOK	as		as\P
+2895	TOK	a		a\AI---S
+2896	TOK	vector		vector\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+2897	TOK	DNA	BOS	DNA\N46
+##	TAG	</name>
+2898	TOK	is		be\V6FDRS3
+2899	TOK	extracted		extract\VMC----
+2900	TOK	from		from\P
+2901	TOK	a		a\AI---S
+2902	TOK	preparation		preparation\N5S
+2903	TOK	of		of\P
+2904	TOK	lambda		lambda\N5S
+2905	TOK	phage		phage\N5S
+---	DLD	,		=\DELIM
+2906	TOK	and		and\CC
+2907	TOK	the		the\AT---6
+2908	TOK	central		central\JA
+2909	TOK	gene		gene\N5S
+2910	TOK	cluster		cluster\N5S
+2911	TOK	is		be\V6FDRS3
+2912	TOK	removed		remove\VMC----
+2913	TOK	by		by\P
+2914	TOK	treatment		treatment\N5S
+2915	TOK	with		with\P
+2916	TOK	a		a\AI---S
+2917	TOK	restriction		restriction\N5S
+2918	TOK	enzyme	EOS	enzyme\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2919	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+2920	TOK	DNA		DNA\N46
+##	TAG	</name>
+2921	TOK	to		to\P
+2922	TOK	be		be\VMI----
+2923	TOK	cloned		clone\VMC----
+2924	TOK	is		be\V6FDRS3
+2925	TOK	cut		cut\VMC----
+2926	TOK	with		with\P
+2927	TOK	the		the\AT---6
+2928	TOK	same		same\JA
+2929	TOK	enzyme		enzyme\N5S
+2930	TOK	and		and\CC
+2931	TOK	ligated		ligate\VMC----
+2932	TOK	into		into\P
+2933	TOK	the		the\AT---6
+2934	TOK	arms		arms\N5S
+2935	TOK	of		of\P
+2936	TOK	the		the\AT---6
+2937	TOK	lambda		lambda\N5S
+2938	TOK	chromosome		chromosome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2939	TOK	The	BOS	the\AT---6
+2940	TOK	recombinant		recombinant\N5S
+2941	TOK	chromosome		chromosome\N5S
+2942	TOK	is		be\V6FDRS3
+2943	TOK	then		then\DGA7
+2944	TOK	packaged		package\VMC----
+2945	TOK	into		into\P
+2946	TOK	phage		phage\N5S
+2947	TOK	proteins		protein\N5P
+2948	TOK	to		to\P
+2949	TOK	form		form\VMI----
+2950	TOK	a		a\AI---S
+2951	TOK	recombinant		recombinant\N5S
+2952	TOK	virus		virus\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2953	TOK	This	BOS	this\AD---S
+2954	TOK	virus		virus\N5S
+2955	TOK	is		be\V6FDRS3
+2956	TOK	able		able\JA
+2957	TOK	to		to\P
+2958	TOK	infect		infect\VMI----
+2959	TOK	bacterial		bacterial\JA
+2960	TOK	cells		cell\N5P
+2961	TOK	and		and\CC
+2962	TOK	replicate		replicate\VMI----
+2963	TOK	its		its\APS3N6
+2964	TOK	chromosome		chromosome\N5S
+---	DLD	,		=\DELIM
+2965	TOK	including		including\P
+2966	TOK	the		the\AT---6
+##	TAG	<name>
+2967	TOK	DNA		DNA\N46
+##	TAG	</name>
+2968	TOK	insert		insert\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2969	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2970	TOK	15.11	EOS	15.11\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+2972	TOK	M13	BOS	M13\N46
+##	TAG	</name>
+2973	TOK	bacteriophage		bacteriophage\N5S
+2974	TOK	are		be\V6FDR66
+2975	TOK	long		long\DGA7
+2976	TOK	thin		thin\JA
+2977	TOK	filaments		filament\N5P
+2978	TOK	containing		contain\VMG----
+2979	TOK	a		a\AI---S
+2980	TOK	single		single\JA
+2981	TOK	strand		strand\N5S
+2982	TOK	of		of\P
+##	TAG	<name>
+2983	TOK	DNA	EOS	DNA\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2985	TOK	They	BOS	they\RPP3NN
+2986	TOK	enter		enter\VMF6R66
+2987	TOK	the		the\AT---6
+##	TAG	<abbr>
+2988	TOK	E.		E.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+2989	TOK	coli		coli\N5S
+2990	TOK	cells		cell\N5P
+2991	TOK	that		that\RW63N6
+2992	TOK	carry		carry\VMF6R66
+2993	TOK	long		long\JA
+2994	TOK	thin		thin\JA
+2995	TOK	filaments		filament\N5P
+---	DLE	(		=\DELIM
+2996	TOK	thicker		thick\JC
+2997	TOK	than		than\CS
+2998	TOK	M		M\N5P
+##	TAG	<num>
+2999	TOK	13		13\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+3000	TOK	called		call\VMC----
+3001	TOK	F		f\N5S
+3002	TOK	pili		pili\N5S
+3003	TOK	and		and\CC
+3004	TOK	do		do\V6FDR66
+3005	TOK	so		so\DGA7
+3006	TOK	by		by\P
+3007	TOK	attaching		attach\VMG----
+3008	TOK	to		to\P
+3009	TOK	the		the\AT---6
+3010	TOK	end		end\N5S
+3011	TOK	of		of\P
+3012	TOK	the		the\AT---6
+3013	TOK	F		f\N5S
+3014	TOK	pilus		pilus\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3015	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3016	TOK	15.12	EOS	15.12\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3018	TOK	The	BOS	the\AT---6
+3019	TOK	cosmid		cosmid\N5S
+3020	TOK	pJB8		pJB8\N5S
+3021	TOK	contains		contain\VMFDRS3
+3022	TOK	a		a\AI---S
+3023	TOK	bacterial		bacterial\JA
+3024	TOK	origin		origin\N5S
+3025	TOK	of		of\P
+3026	TOK	replication		replication\N5S
+---	DLE	(		=\DELIM
+3027	TOK	ori		ori\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3028	TOK	a		a\AI---S
+3029	TOK	singie		singie\N5S
+3030	TOK	cos		cos\N5S
+3031	TOK	site		site\N5S
+---	DLE	(		=\DELIM
+3032	TOK	cos		cos\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3033	TOK	an		an\AI---S
+3034	TOK	ampicillin		ampicillin\N5S
+3035	TOK	resistance		resistance\N5S
+3036	TOK	gene		gene\N5S
+---	DLE	(		=\DELIM
+3037	TOK	amp		amp\VMF6R66
+---	DLD	,		=\DELIM
+3038	TOK	for		for\P
+3039	TOK	selection		selection\N5S
+3040	TOK	of		of\P
+3041	TOK	colonies		colony\N5P
+3042	TOK	that		that\RW63N6
+3043	TOK	have		have\V6F6R66
+3044	TOK	taken		take\VMC----
+3045	TOK	up		up\P
+3046	TOK	the		the\AT---6
+3047	TOK	cosmid		cosmid\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3048	TOK	and		and\CC
+3049	TOK	a		a\AI---S
+3050	TOK	region		region\N5S
+3051	TOK	containing		contain\VMG----
+##	TAG	<num>
+3052	TOK	four		four\X
+##	TAG	</num>
+3053	TOK	restriction		restriction\N5S
+3054	TOK	sites		site\N5P
+3055	TOK	for		for\P
+3056	TOK	cloning		clone\VMG----
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3057	TOK	BamHI		BamHI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3058	TOK	EcoRI		EcoRI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+3059	TOK	ClaI.		ClaI.\N5S
+##	TAG	</abbr>
+3060	TOK	and		and\CC
+##	TAG	<name>
+3061	TOK	HindIII		HindIII\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3062	TOK	Because	BOS	because\CS
+3063	TOK	the		the\AT---6
+3064	TOK	vector		vector\N5S
+3065	TOK	is		be\V6FDRS3
+3066	TOK	small		small\JA
+---	DLE	(		=\DELIM
+##	TAG	<num>
+3067	TOK	5.4		5.4\X
+##	TAG	</num>
+3068	TOK	kb		kb\N5S
+3069	TOK	long		long\DGA7
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3070	TOK	it		it\RPS3N6
+3071	TOK	can		can\VOFDR66
+3072	TOK	accept		accept\VMI----
+3073	TOK	foreign		foreign\JA
+##	TAG	<name>
+3074	TOK	DNA		DNA\N46
+##	TAG	</name>
+3075	TOK	segments		segment\N5P
+3076	TOK	between		between\P
+##	TAG	<num>
+3077	TOK	33		33\X
+##	TAG	</num>
+3078	TOK	and		and\CC
+##	TAG	<num>
+3079	TOK	46		46\X
+##	TAG	</num>
+3080	TOK	kb		kb\N5S
+3081	TOK	in		in\P
+3082	TOK	length		length\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3083	TOK	The	BOS	the\AT---6
+3084	TOK	cos		cos\N5S
+3085	TOK	site		site\N5S
+3086	TOK	allows		allow\VMFDRS3
+3087	TOK	cosmids		cosmid\N5P
+3088	TOK	carrying		carry\VMG----
+3089	TOK	large		large\JA
+3090	TOK	inserts		insert\N5P
+3091	TOK	to		to\P
+3092	TOK	be		be\VMI----
+3093	TOK	packaged		package\VMC----
+3094	TOK	into		into\P
+3095	TOK	lambda		lambda\N5S
+3096	TOK	viral		viral\JA
+3097	TOK	coat		coat\N5S
+3098	TOK	proteins		protein\N5P
+##	TAG	<loc pos="CS">
+3099	TOK	as though		as_though\CS
+##	TAG	</loc>
+3100	TOK	they		they\RPP3NN
+3101	TOK	were		be\V6F-A66
+3102	TOK	viral		viral\JA
+3103	TOK	chromosomes		chromosome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3104	TOK	The	BOS	the\AT---6
+3105	TOK	viral		viral\JA
+3106	TOK	coats		coat\N5P
+3107	TOK	carrying		carry\VMG----
+3108	TOK	the		the\AT---6
+3109	TOK	cosmid		cosmid\N5S
+3110	TOK	can		can\VOFDR66
+3111	TOK	be		be\VMI----
+3112	TOK	used		use\VMC----
+3113	TOK	to		to\P
+3114	TOK	infect		infect\VMI----
+3115	TOK	a		a\AI---S
+3116	TOK	suitable		suitable\JA
+3117	TOK	bacterial		bacterial\JA
+3118	TOK	host		host\N5S
+---	DLD	,		=\DELIM
+3119	TOK	and		and\CC
+3120	TOK	the		the\AT---6
+3121	TOK	vector		vector\N5S
+---	DLD	,		=\DELIM
+3122	TOK	carrying		carry\VMG----
+3123	TOK	a		a\AI---S
+##	TAG	<name>
+3124	TOK	DNA		DNA\N46
+##	TAG	</name>
+3125	TOK	insert		insert\VMF6R66
+---	DLD	,		=\DELIM
+3126	TOK	will		will\N5S
+3127	TOK	k		k\N5S
+3128	TOK	transferred		transfer\VMC----
+3129	TOK	into		into\P
+3130	TOK	the		the\AT---6
+3131	TOK	host		host\N5S
+3132	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3133	TOK	Once	BOS	once\DGA7
+3134	TOK	inside		inside\P
+---	DLD	,		=\DELIM
+3135	TOK	the		the\AT---6
+3136	TOK	ori		ori\JA
+3137	TOK	sequence		sequence\N5S
+3138	TOK	allows		allow\VMFDRS3
+3139	TOK	the		the\AT---6
+3140	TOK	cosmid		cosmid\N5S
+3141	TOK	to		to\P
+3142	TOK	replicate		replicate\VMI----
+3143	TOK	as		as\CS
+3144	TOK	a		a\AI---S
+3145	TOK	bacterial		bacterial\JA
+3146	TOK	plasmid		plasmid\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

@@ -1,0 +1,1057 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<name>
+1	TOK	R5000 Cuts	BOS	R5000_Cuts\N46
+##	TAG	</name>
+##	TAG	<na type="function">
+2	TOK	3-D		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+3	TOK	Cost	EOS	Cost\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+5	TOK	Programmers	BOS	programmer\N5P
+6	TOK	usually		usually\DGA7
+7	TOK	write		write\VMF6R66
+8	TOK	their		their\APP3N6
+9	TOK	software		software\N5S
+10	TOK	to		to\P
+11	TOK	the		the\AT---6
+12	TOK	metal		metal\N5S
+---	DLD	,		=\DELIM
+13	TOK	but		but\CC
+14	TOK	now		now\DGA7
+15	TOK	chip		chip\VMF6R66
+16	TOK	engineers		engineer\N5P
+17	TOK	are		be\V6FDR66
+18	TOK	bending		bend\VMG----
+19	TOK	the		the\AT---6
+20	TOK	metal		metal\N5S
+21	TOK	to		to\P
+22	TOK	fit		fit\VMI----
+23	TOK	the		the\AT---6
+24	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+25	TOK	The	BOS	the\AT---6
+26	TOK	new		new\JA
+##	TAG	<name>
+27	TOK	R5000		R5000\N46
+##	TAG	</name>
+28	TOK	microprocessor		microprocessor\N5S
+29	TOK	from		from\P
+##	TAG	<name>
+30	TOK	Mips Technologies		Mips_Technologies\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+31	TOK	Mountain View		Mountain_View\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+32	TOK	CA		CA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+33	TOK	is		be\V6FDRS3
+34	TOK	specially		specially\DGA7
+35	TOK	optimized		optimize\VMC----
+36	TOK	for		for\P
+37	TOK	the		the\AT---6
+38	TOK	single		single\JA
+---	DLI	-		=\DELIM
+39	TOK	precision		precision\N5S
+40	TOK	floating		float\VMG----
+---	DLI	-		=\DELIM
+41	TOK	point		point\N5S
+42	TOK	operations		operation\N5P
+43	TOK	that		that\RW63N6
+44	TOK	characterize		characterize\VMF6R66
+45	TOK	today		today\N5S
+46	PGR	's		genmark\GENMARK
+##	TAG	<na type="function">
+47	TOK	2-D		noanat\W
+##	TAG	</na>
+48	TOK	and		and\CC
+##	TAG	<na type="function">
+49	TOK	3-D		noanat\W
+##	TAG	</na>
+50	TOK	graphics		graphic\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+51	TOK	The	BOS	the\AT---6
+52	TOK	result		result\N5S
+53	TOK	is		be\V6FDRS3
+54	TOK	a		a\AI---S
+55	TOK	powerful		powerful\JA
+---	DLD	,		=\DELIM
+56	TOK	affordable		affordable\JA
+##	TAG	<name>
+57	TOK	CPU		CPU\N46
+##	TAG	</name>
+58	TOK	that		that\RW63N6
+59	TOK	executes		execute\VMFDRS3
+##	TAG	<num>
+60	TOK	400 million		400_million\X
+##	TAG	</num>
+61	TOK	floating		float\VMG----
+---	DLI	-		=\DELIM
+62	TOK	point		point\N5S
+63	TOK	operations		operation\N5P
+64	TOK	per		per\P
+65	TOK	second		second\MOS
+---	DLE	(		=\DELIM
+##	TAG	<name>
+66	TOK	MFLOPS		MFLOPS\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+67	TOK	and		and\CC
+68	TOK	is		be\V6FDRS3
+69	TOK	driving		drive\VMG----
+70	TOK	down		down\DGA7
+71	TOK	the		the\AT---6
+72	TOK	cost		cost\N5S
+73	TOK	of		of\P
+74	TOK	high		high\JA
+---	DLI	-		=\DELIM
+75	TOK	end		end\N5S
+76	TOK	graphics		graphic\N56
+77	TOK	performance		performance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+78	TOK	Silicon	BOS	silicon\N5S
+##	TAG	<name>
+79	TOK	Graphics		Graphics\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+80	TOK	Mountain View		Mountain_View\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+81	TOK	CA		CA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<name>
+82	TOK	Mips		Mips\N46
+##	TAG	</name>
+---	DLD	'		=\DELIM
+83	TOK	parent		parent\N5S
+84	TOK	company		company\N5S
+---	DLD	,		=\DELIM
+85	TOK	just		just\DGA7
+86	TOK	announced		announce\VMF6A66
+##	TAG	<num>
+87	TOK	three		three\X
+##	TAG	</num>
+88	TOK	new		new\JA
+89	TOK	models		model\N5P
+90	TOK	of		of\P
+91	TOK	its		its\APS3N6
+##	TAG	<name>
+92	TOK	Indy		Indy\N46
+##	TAG	</name>
+93	TOK	desktop		desktop\N5S
+94	TOK	workstation		workstation\N5S
+95	TOK	based		base\VMC----
+96	TOK	on		on\P
+97	TOK	early		early\JA
+98	TOK	versions		version\N5P
+99	TOK	of		of\P
+100	TOK	the		the\AT---6
+##	TAG	<name>
+101	TOK	R5000		R5000\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+102	TOK	Prices	BOS	price\N5P
+103	TOK	range		range\VMF6R66
+104	TOK	from		from\P
+105	TOK	$		$\N5P
+##	TAG	<num>
+106	TOK	8495		8495\X
+##	TAG	</num>
+107	TOK	to		to\P
+108	TOK	$		$\N5P
+##	TAG	<num>
+109	TOK	13,995		13,995\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+110	TOK	SGI	BOS	SGI\N46
+##	TAG	</name>
+111	TOK	says		say\VMFDRS3
+112	TOK	the		the\AT---6
+113	TOK	new		new\JA
+114	TOK	systems		system\N5P
+115	TOK	handle		handle\VMF6R66
+##	TAG	<na type="function">
+116	TOK	3-D		noanat\W
+##	TAG	</na>
+117	TOK	graphics		graphic\N56
+118	TOK	up		up\P
+119	TOK	to		to\P
+120	TOK	almost		almost\DGA7
+##	TAG	<num>
+121	TOK	100		100\X
+##	TAG	</num>
+122	TOK	percent		percent\N56
+123	TOK	faster		fast\JC
+124	TOK	than		than\CS
+##	TAG	<name>
+125	TOK	R4x00-based Indy		R4x00-based_Indy\N46
+##	TAG	</name>
+126	TOK	workstations		workstation\N5P
+127	TOK	at		at\P
+128	TOK	the		the\AT---6
+129	TOK	same		same\JA
+130	TOK	price		price\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+131	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+132	TOK	R5000		R5000\N46
+##	TAG	</name>
+133	TOK	inherits		inherit\VMFDRS3
+134	TOK	several		several\JA
+135	TOK	architectural		architectural\JA
+136	TOK	innovations		innovation\N5P
+137	TOK	from		from\P
+##	TAG	<name>
+138	TOK	Mips		Mips\N46
+##	TAG	</name>
+---	DLD	'		=\DELIM
+139	TOK	top		top\N5S
+---	DLI	-		=\DELIM
+140	TOK	of		of\P
+---	DLI	-		=\DELIM
+141	TOK	the		the\AT---6
+---	DLI	-		=\DELIM
+142	TOK	line		line\N5S
+##	TAG	<name>
+143	TOK	R8000		R8000\N46
+##	TAG	</name>
+144	TOK	and		and\CC
+##	TAG	<name>
+145	TOK	R10000		R10000\N46
+##	TAG	</name>
+146	TOK	processors		processor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+147	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+148	TOK	the		the\AT---6
+##	TAG	<name>
+149	TOK	R5000		R5000\N46
+##	TAG	</name>
+150	TOK	is		be\V6FDRS3
+151	TOK	a		a\AI---S
+##	TAG	<num>
+152	TOK	64		64\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+153	TOK	bit		bit\N5S
+##	TAG	<name>
+154	TOK	CPU		CPU\N46
+##	TAG	</name>
+155	TOK	that		that\RW63N6
+156	TOK	supports		support\VMFDRS3
+157	TOK	the		the\AT---6
+158	TOK	latest		late\JS
+##	TAG	<name>
+159	TOK	Mips		Mips\N46
+##	TAG	</name>
+##	TAG	<num>
+160	TOK	IV		IV\X
+##	TAG	</num>
+161	TOK	instruction		instruction\N5S
+162	TOK	set		set\VMF6-66
+---	DLD	,		=\DELIM
+163	TOK	and		and\CC
+164	TOK	its		its\APS3N6
+##	TAG	<name>
+165	TOK	FPU		FPU\N46
+##	TAG	</name>
+166	TOK	has		have\V6FDRS3
+167	TOK	two		two\JA
+---	DLI	-		=\DELIM
+168	TOK	way		way\N5S
+169	TOK	superscalar		superscalar\JA
+170	TOK	pipelines		pipeline\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+171	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+172	TOK	R5000		R5000\N46
+##	TAG	</name>
+173	TOK	has		have\V6FDRS3
+174	TOK	separate		separate\JA
+175	TOK	primary		primary\JA
+176	TOK	caches		cache\N5P
+177	TOK	for		for\P
+178	TOK	instructions		instruction\N5P
+179	TOK	and		and\CC
+180	TOK	data		data\N56
+---	DLD	,		=\DELIM
+181	TOK	and		and\CC
+182	TOK	each		each\AG---S
+183	TOK	cache		cache\N5S
+184	TOK	is		be\V6FDRS3
+##	TAG	<num>
+185	TOK	32		32\X
+##	TAG	</num>
+##	TAG	<name>
+186	TOK	KB		KB\N46
+##	TAG	</name>
+187	TOK	in		in\P
+188	TOK	size		size\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+189	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+190	TOK	two		two\JA
+---	DLI	-		=\DELIM
+191	TOK	way		way\N5S
+192	TOK	set		set\VMF6-66
+---	DLI	-		=\DELIM
+193	TOK	associative		associative\JA
+---	DLD	,		=\DELIM
+194	TOK	just		just\DGA7
+195	TOK	like		like\P
+196	TOK	the		the\AT---6
+##	TAG	<name>
+197	TOK	R10000		R10000\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+198	TOK	To	BOS	to\P
+199	TOK	cut		cut\VMI----
+200	TOK	corners		corner\N5P
+---	DLD	,		=\DELIM
+201	TOK	the		the\AT---6
+##	TAG	<name>
+202	TOK	R5000		R5000\N46
+##	TAG	</name>
+203	TOK	doesn		do\V6FDRS3
+204	PGR	't		not\DGA7
+205	TOK	have		have\VMI----
+206	TOK	superscalar		superscalar\JA
+207	TOK	integer		integer\N5S
+208	TOK	pipelines		pipeline\N5P
+209	TOK	and		and\CC
+210	TOK	can		can\V6FDR66
+211	PGR	't		not\DGA7
+212	TOK	execute		execute\VMI----
+213	TOK	instructions		instruction\N5P
+##	TAG	<loc pos="P">
+214	TOK	out of		out_of\P
+##	TAG	</loc>
+215	TOK	order		order\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+216	TOK	This	BOS	this\AD---S
+217	TOK	greatly		greatly\DGA7
+218	TOK	reduces		reduce\VMFDRS3
+219	TOK	the		the\AT---6
+220	TOK	chip		chip\N5S
+221	PGR	's		genmark\GENMARK
+222	TOK	complexity		complexity\N5S
+223	TOK	because		because\CS
+224	TOK	it		it\RPS3N6
+225	TOK	doesn		do\V6FDRS3
+226	PGR	't		not\DGA7
+227	TOK	have		have\VMI----
+228	TOK	to		to\P
+229	TOK	bother		bother\VMI----
+230	TOK	with		with\P
+231	TOK	scoreboarding		scoreboarding\N5S
+232	TOK	and		and\CC
+233	TOK	other		other\JA
+234	TOK	tricky		tricky\JA
+235	TOK	techniques		technique\N5P
+236	TOK	to		to\P
+237	TOK	put		put\VMI----
+238	TOK	instructions		instruction\N5P
+239	TOK	back		back\DGA7
+240	TOK	in		in\P
+241	TOK	order		order\VMI----
+242	TOK	again		again\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+243	TOK	In	BOS	in\P
+244	TOK	another		another\JA
+245	TOK	cost		cost\N5S
+---	DLI	-		=\DELIM
+246	TOK	cutting		cutting\N5S
+247	TOK	measure		measure\VMI----
+---	DLD	,		=\DELIM
+##	TAG	<name>
+248	TOK	Mips		Mips\N46
+##	TAG	</name>
+249	TOK	eliminated		eliminate\VMF6A66
+250	TOK	the		the\AT---6
+##	TAG	<num>
+251	TOK	128		128\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+252	TOK	bit		bit\N5S
+253	TOK	secondary		secondary\JA
+---	DLI	-		=\DELIM
+254	TOK	cache		cache\N5S
+255	TOK	bus		bus\N5S
+256	TOK	found		find\VMC----
+257	TOK	on		on\P
+258	TOK	the		the\AT---6
+##	TAG	<name>
+259	TOK	R4000		R4000\N46
+##	TAG	</name>
+260	TOK	and		and\CC
+##	TAG	<name>
+261	TOK	R10000		R10000\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+262	TOK	Instead	BOS	instead\DGA7
+---	DLD	,		=\DELIM
+263	TOK	the		the\AT---6
+##	TAG	<name>
+264	TOK	R5000		R5000\N46
+##	TAG	</name>
+265	TOK	accesses		access\VMFDRS3
+266	TOK	its		its\APS3N6
+267	TOK	secondary		secondary\JA
+268	TOK	cache		cache\N5S
+269	TOK	over		over\P
+270	TOK	the		the\AT---6
+271	TOK	general		general\JA
+##	TAG	<na type="function">
+272	TOK	I/O		noanat\W
+##	TAG	</na>
+273	TOK	bus		bus\N5S
+---	DLD	,		=\DELIM
+274	TOK	which		which\RW63N-
+275	TOK	is		be\V6FDRS3
+##	TAG	<num>
+276	TOK	64		64\X
+##	TAG	</num>
+277	TOK	bits		bit\N5P
+278	TOK	wide		wide\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+279	TOK	The	BOS	the\AT---6
+280	TOK	payoff		payoff\N5S
+281	TOK	for		for\P
+282	TOK	the		the\AT---6
+##	TAG	<name>
+283	TOK	R5000		R5000\N46
+##	TAG	</name>
+284	PGR	's		be\V6FDRS3
+285	TOK	reduced		reduce\VMC----
+286	TOK	complexity		complexity\N5S
+287	TOK	is		be\V6FDRS3
+288	TOK	a		a\AI---S
+289	TOK	die		die\N5S
+290	TOK	that		that\RW63N6
+291	PGR	's		be\V6FDRS3
+292	TOK	exceptionally		exceptionally\DGA7
+293	TOK	small		small\JA
+---	DLE	(		=\DELIM
+##	TAG	<num>
+294	TOK	84		84\X
+##	TAG	</num>
+295	TOK	square		square\JA
+296	TOK	millimetres		millimetre\N5P
+297	TOK	on		on\P
+298	TOK	a		a\AI---S
+##	TAG	<num>
+299	TOK	.32		.32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+300	TOK	micron		micron\N5S
+301	TOK	process		process\VMF6R66
+---	DLD	)		=\DELIM
+302	TOK	for		for\P
+303	TOK	a		a\AI---S
+##	TAG	<name>
+304	TOK	CPU		CPU\N46
+##	TAG	</name>
+305	TOK	of		of\P
+306	TOK	this		this\AD---S
+307	TOK	capability		capability\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+308	TOK	And	BOS	and\CC
+309	TOK	a		a\AI---S
+310	TOK	small		small\JA
+311	TOK	die		die\N5S
+312	TOK	means		mean\VMFDRS3
+313	TOK	less		little\JC
+314	TOK	power		power\N5S
+315	TOK	consumption		consumption\N5S
+---	DLD	,		=\DELIM
+316	TOK	lower		low\JC
+317	TOK	manufacturing		manufacturing\N5S
+318	TOK	costs		cost\N5P
+---	DLD	,		=\DELIM
+319	TOK	and		and\CC
+320	TOK	higher		high\JC
+321	TOK	clock		clock\N5S
+322	TOK	speeds		speed\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+323	TOK	In	BOS	in\P
+##	TAG	<loc pos="N5S">
+324	TOK	March		march\N5S
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+325	TOK	Mips		Mips\N46
+##	TAG	</name>
+326	TOK	licensees		licensee\N5P
+##	TAG	<name>
+327	TOK	NEC Electronics		NEC_Electronics\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+328	TOK	Mountain View		Mountain_View\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+329	TOK	CA		CA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+330	TOK	and		and\CC
+##	TAG	<name>
+331	TOK	Integrated Device Technology		Integrated_Device_Technology\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+332	TOK	Santa Clara		Santa_Clara\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+333	TOK	CA		CA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+334	TOK	were		be\V6F-A66
+335	TOK	expected		expect\VMC----
+336	TOK	to		to\P
+337	TOK	begin		begin\VMI----
+338	TOK	shipping		ship\VMG----
+339	TOK	early		early\JA
+340	TOK	versions		version\N5P
+341	TOK	of		of\P
+342	TOK	the		the\AT---6
+##	TAG	<name>
+343	TOK	R5000		R5000\N46
+##	TAG	</name>
+344	TOK	clocked		clock\VMC----
+345	TOK	at		at\P
+##	TAG	<num>
+346	TOK	180		180\X
+##	TAG	</num>
+347	TOK	and		and\CC
+##	TAG	<num>
+348	TOK	200		200\X
+##	TAG	</num>
+##	TAG	<name>
+349	TOK	MHz		MHz\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+350	TOK	Prices	BOS	price\N5P
+351	TOK	range		range\VMF6R66
+352	TOK	from		from\P
+353	TOK	$		$\N5P
+##	TAG	<num>
+354	TOK	225		225\X
+##	TAG	</num>
+355	TOK	to		to\P
+356	TOK	$		$\N5P
+##	TAG	<num>
+357	TOK	285		285\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+358	TOK	and		and\CC
+359	TOK	the		the\AT---6
+360	TOK	estimated		estimate\VMC----
+361	TOK	performance		performance\N5S
+362	TOK	at		at\P
+##	TAG	<num>
+363	TOK	200		200\X
+##	TAG	</num>
+##	TAG	<name>
+364	TOK	MHz		MHz\N46
+##	TAG	</name>
+365	TOK	is		be\V6FDRS3
+366	TOK	a		a\AI---S
+367	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+368	TOK	balanced		balance\VMF6A66
+##	TAG	<num>
+369	TOK	5.5		5.5\X
+##	TAG	</num>
+##	TAG	<name>
+370	TOK	SPECint95		SPECint95\N46
+##	TAG	</name>
+371	TOK	and		and\CC
+##	TAG	<num>
+372	TOK	5.5		5.5\X
+##	TAG	</num>
+##	TAG	<name>
+373	TOK	SPECfp95		SPECfp95\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+374	TOK	Later	BOS	later\DGC7
+375	TOK	this		this\AD---S
+376	TOK	year		year\N5S
+---	DLD	,		=\DELIM
+377	TOK	both		both\RIP3N-
+378	TOK	vendors		vendor\N5P
+379	TOK	plan		plan\VMF6R66
+380	TOK	to		to\P
+381	TOK	ship		ship\VMI----
+##	TAG	<num>
+382	TOK	250		250\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+383	TOK	MHz		MHz\N46
+##	TAG	</name>
+384	TOK	versions		version\N5P
+385	TOK	that		that\RW63N6
+386	TOK	will		will\VOFDR66
+387	TOK	deliver		deliver\VMI----
+##	TAG	<name>
+388	TOK	SPECmarks		SPECmarks\N46
+##	TAG	</name>
+389	TOK	of		of\P
+390	TOK	about		about\DGA7
+##	TAG	<num>
+391	TOK	6.8		6.8\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+392	TOK	for		for\P
+393	TOK	both		both\RIP3N-
+394	TOK	integer		integer\N5S
+395	TOK	and		and\CC
+396	TOK	floating		float\VMG----
+---	DLI	-		=\DELIM
+397	TOK	point		point\N5S
+398	TOK	performance		performance\N5S
+---	DLD	)		=\DELIM
+399	TOK	and		and\CC
+400	TOK	still		still\DGA7
+401	TOK	cost		cost\VMF6R66
+402	TOK	less		less\DDC7
+403	TOK	than		than\CS
+404	TOK	$		$\N5P
+##	TAG	<num>
+405	TOK	300		300\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+406	TOK	Floating	BOS	float\VMG----
+---	DLI	-		=\DELIM
+407	TOK	point		point\N5S
+408	TOK	performance		performance\N5S
+409	TOK	is		be\V6FDRS3
+410	TOK	the		the\AT---6
+##	TAG	<name>
+411	TOK	R5000		R5000\N46
+##	TAG	</name>
+412	PGR	's		genmark\GENMARK
+413	TOK	greatest		great\JS
+414	TOK	strength		strength\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+415	TOK	Mips	BOS	Mips\N46
+##	TAG	</name>
+416	TOK	says		say\VMFDRS3
+417	TOK	the		the\AT---6
+##	TAG	<name>
+418	TOK	R5000		R5000\N46
+##	TAG	</name>
+419	TOK	can		can\VOFDR66
+420	TOK	process		process\VMI----
+421	TOK	more		more\DDC7
+422	TOK	than		than\CS
+##	TAG	<num>
+423	TOK	1.1 million		1.1_million\X
+##	TAG	</num>
+##	TAG	<na type="function">
+424	TOK	3-D		noanat\W
+##	TAG	</na>
+425	TOK	graphics		graphic\N56
+426	TOK	primitives		primitive\N5P
+427	TOK	per		per\P
+428	TOK	second		second\MOS
+---	DLD	,		=\DELIM
+429	TOK	compared		compare\VMC----
+430	TOK	to		to\P
+431	TOK	about		about\DGA7
+##	TAG	<num>
+432	TOK	670,000		670,000\X
+##	TAG	</num>
+433	TOK	graphics		graphic\N56
+434	TOK	primitives		primitive\N5P
+435	TOK	for		for\P
+436	TOK	a		a\AI---S
+##	TAG	<num>
+437	TOK	133		133\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+438	TOK	MHz PowerPC		MHz_PowerPC\N46
+##	TAG	</name>
+##	TAG	<num>
+439	TOK	604		604\X
+##	TAG	</num>
+440	TOK	and		and\CC
+441	TOK	about		about\P
+##	TAG	<num>
+442	TOK	170,000		170,000\X
+##	TAG	</num>
+443	TOK	for		for\P
+444	TOK	a		a\AI---S
+##	TAG	<num>
+445	TOK	133		133\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+446	TOK	MHz Pentium		MHz_Pentium\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+447	TOK	Yet	BOS	yet\DGA7
+448	TOK	its		its\APS3N6
+449	TOK	overall		overall\JA
+450	TOK	performance		performance\N5S
+451	TOK	is		be\V6FDRS3
+452	TOK	so		so\DGA7
+453	TOK	well		well\DGA7
+454	TOK	balanced		balance\VMC----
+455	TOK	that		that\CS
+##	TAG	<name>
+456	TOK	NEC		NEC\N46
+##	TAG	</name>
+457	TOK	and		and\CC
+##	TAG	<name>
+458	TOK	IDT		IDT\N46
+##	TAG	</name>
+459	TOK	expect		expect\VMF6R66
+460	TOK	to		to\P
+461	TOK	sell		sell\VMI----
+462	TOK	the		the\AT---6
+##	TAG	<name>
+463	TOK	R5000		R5000\N46
+##	TAG	</name>
+464	TOK	to		to\P
+465	TOK	customers		customer\N5P
+466	TOK	who		who\RW63N-
+467	TOK	will		will\VOFDR66
+468	TOK	build		build\VMI----
+469	TOK	the		the\AT---6
+470	TOK	chip		chip\N5S
+471	TOK	into		into\P
+472	TOK	a		a\AI---S
+473	TOK	wide		wide\JA
+474	TOK	range		range\N5S
+475	TOK	of		of\P
+476	TOK	devices		device\N5P
+---	DLD	,		=\DELIM
+477	TOK	including		including\P
+478	TOK	network		network\N5S
+479	TOK	routers		router\N5P
+---	DLD	,		=\DELIM
+480	TOK	bridges		bridge\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+481	TOK	X Window		X_Window\N46
+##	TAG	</name>
+482	TOK	terminals		terminal\N5P
+---	DLD	,		=\DELIM
+483	TOK	laser		laser\N5S
+484	TOK	printers		printer\N5P
+---	DLD	,		=\DELIM
+485	TOK	copiers		copier\N5P
+---	DLD	,		=\DELIM
+486	TOK	videogame		videogame\N5S
+487	TOK	machines		machine\N5P
+---	DLD	,		=\DELIM
+488	TOK	high		high\JA
+---	DLI	-		=\DELIM
+489	TOK	end		end\N5S
+##	TAG	<name>
+490	TOK	PCs		PCs\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+491	TOK	and		and\CC
+492	TOK	entry		entry\N5S
+---	DLI	-		=\DELIM
+493	TOK	level		level\N5S
+494	TOK	servers		server\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+495	TOK	MIPS	BOS	MIPS\N46
+##	TAG	</name>
+496	TOK	R5000		R5000\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+497	TOK	What	BOS	What\N46
+##	TAG	</name>
+498	PGR	's		genmark\GENMARK
+##	TAG	<name>
+499	TOK	New	EOS	New\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+501	TOK	64	BOS	64\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+502	TOK	bit		bit\N5S
+##	TAG	<name>
+503	TOK	Rx000-compatible CPU	EOS	Rx000-compatible_CPU\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+505	TOK	Two	BOS	two\MCP
+---	DLI	-		=\DELIM
+506	TOK	way		way\N5S
+507	TOK	superscalar		superscalar\JA
+##	TAG	<name>
+508	TOK	FPU	EOS	FPU\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+510	TOK	Target	BOS	target\N5S
+511	TOK	clock		clock\N5S
+512	TOK	speed		speed\VMF6R66
+---	DLD	:		=\DELIM
+##	TAG	<num>
+513	TOK	250		250\X
+##	TAG	</num>
+##	TAG	<name>
+514	TOK	MHz		MHz\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+515	TOK	later		late\JC
+516	TOK	in		in\P
+##	TAG	<num>
+517	TOK	1996		1996\X
+##	TAG	</num>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+518	TOK	Performance	BOS	performance\N5S
+---	DLD	:		=\DELIM
+##	TAG	<num>
+519	TOK	6.8		6.8\X
+##	TAG	</num>
+##	TAG	<name>
+520	TOK	SPECint95		SPECint95\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+521	TOK	6.8		6.8\X
+##	TAG	</num>
+##	TAG	<name>
+522	TOK	SPECfp95		SPECfp95\N46
+##	TAG	</name>
+523	TOK	at		at\P
+##	TAG	<num>
+524	TOK	250		250\X
+##	TAG	</num>
+##	TAG	<name>
+525	TOK	MHz		MHz\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+526	TOK	480	BOS	480\X
+##	TAG	</num>
+##	TAG	<name>
+527	TOK	MFLOPS		MFLOPS\N46
+##	TAG	</name>
+528	TOK	for		for\P
+529	TOK	single		single\JA
+---	DLI	-		=\DELIM
+530	TOK	precision		precision\N5S
+531	TOK	geometry		geometry\N5S
+532	TOK	calculations	EOS	calculation\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+534	TOK	On	BOS	on\P
+---	DLI	-		=\DELIM
+535	TOK	board		board\N5S
+536	TOK	caches		cache\N5P
+---	DLD	:		=\DELIM
+##	TAG	<num>
+537	TOK	32		32\X
+##	TAG	</num>
+##	TAG	<name>
+538	TOK	KB		KB\N46
+##	TAG	</name>
+539	TOK	instruction		instruction\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+540	TOK	32		32\X
+##	TAG	</num>
+##	TAG	<name>
+541	TOK	KB		KB\N46
+##	TAG	</name>
+542	TOK	data	EOS	data\N56
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+543	TOK	3.7 million	BOS	3.7_million\X
+##	TAG	</num>
+544	TOK	transistors	EOS	transistor\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+546	TOK	Die	BOS	die\VMF6R66
+547	TOK	size		size\N5S
+---	DLD	:		=\DELIM
+##	TAG	<num>
+548	TOK	84		84\X
+##	TAG	</num>
+549	TOK	sq		sq\N5S
+550	TOK	mm		mm\N5S
+551	TOK	at		at\P
+##	TAG	<num>
+552	TOK	0.32		0.32\X
+##	TAG	</num>
+553	TOK	microns	EOS	micron\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+554	TOK	Volume	BOS	volume\N5S
+555	TOK	production		production\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<date pos="T" ISO8601="1996-03-">
+556	TOK	March 1996	BOS	March_1996\T
+##	TAG	</date>
+---	DLE	(		=\DELIM
+557	TOK	at		at\P
+##	TAG	<na type="function">
+558	TOK	180-200		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+559	TOK	MHz		MHz\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+561	TOK	Intel	BOS	Intel\N46
+##	TAG	</name>
+562	PGR	's		genmark\GENMARK
+563	TOK	fastest		fast\JS
+##	TAG	<name>
+564	TOK	Pentium Pro		Pentium_Pro\N46
+##	TAG	</name>
+565	TOK	outruns		outrun\VMFDRS3
+566	TOK	the		the\AT---6
+##	TAG	<name>
+567	TOK	Mips R5000		Mips_R5000\N46
+##	TAG	</name>
+568	TOK	chip		chip\VMF6R66
+---	DLD	,		=\DELIM
+569	TOK	but		but\CC
+570	TOK	the		the\AT---6
+##	TAG	<name>
+571	TOK	R5000		R5000\N46
+##	TAG	</name>
+572	TOK	isn		be\V6FDRS3
+573	PGR	't		not\DGA7
+574	TOK	far		far\DGA7
+575	TOK	behind		behind\P
+---	DLD	,		=\DELIM
+576	TOK	and		and\CC
+577	TOK	it		it\RPS3N6
+578	TOK	costs		cost\VMFDRS3
+579	TOK	only		only\DGA7
+580	TOK	about		about\DGA7
+581	TOK	one		one\MCS
+---	DLI	-		=\DELIM
+582	TOK	sixth		sixth\JA
+583	TOK	as		as\CS
+584	TOK	much		much\DGA7
+585	TOK	as		as\P
+586	TOK	the		the\AT---6
+##	TAG	<name>
+587	TOK	Pentium Pro		Pentium_Pro\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

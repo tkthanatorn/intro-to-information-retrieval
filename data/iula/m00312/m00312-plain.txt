@@ -1,0 +1,972 @@
+
+Autosomal Dominant and Recessive Inheritance 
+
+Many important and well-understood genetic diseases are the result of a mutation at a single gene.
+
+The 1994 edition of McKusick's Mendelian Inheritance in Man lists 6678 known single-gene or monogenic traits defined thus far in the human.
+Of these, 6188 are located on autosomes, and 412 are located on the X chromosome.
+Single-gene traits are the focus of much of the rapid progress now being made in medical genetics.
+In many cases these genes have been mapped to specific chromosome locations, cloned, and sequenced. 
+This leads to new and exciting insights not only in genetics but also in the basic pathophysiology of disease.
+
+In this chapter we focus on single-gene disorders caused by mutations on the autosomes.
+Single-gene disorders caused by mutations on the sex chromosomes are the subject of Chapter 5.
+We discuss the patterns of inheritance of these diseases in families, as well as factors that complicate these patterns. 
+
+When appropriate, the molecular basis for genetic disease processes is addressed.
+We also discuss the risks of transmitting single-gene diseases to one's offspring, since this is usually an important concern for at-risk couples.
+
+BASIC CONCEPTS OF FORMAL GENETICS
+
+Gregor Mendel's Contributions
+
+Monogenic traits are also known as mendelian traits, after Gregor Mendel, a nineteenth century Austrian monk who deduced several important genetic principles from his well-designed experiments with garden peas.
+Mendel studied seven traits in the pea, each of which is determined by a single gene.
+These traits included attributes such as height (tall plants vs. short plants) and seed shape (rounded vs. wrinkled). 
+The variation in each of these traits is caused by different alleles at individual loci.
+
+Two central principles emerged from Mendel's work.
+The first is the principle of segregation , which states that sexually reproducing organisms possess genes that occur in pairs and that only one member of this pair is transmitted to the offspring (i.e., it segregates).
+The prevalent thinking during Mendel's time was that hereditary factors from the two parents are «blended» in the offspring. 
+In contrast, the principle of segregation states that genes remain intact and distinct.
+An allele for «rounded» seed shape can be transmitted to an offspring who can, in turn, transmit the same allele to its own offspring.
+If, instead of remaining distinct, genes were somehow blended in offspring, it would be impossible to trace genetic inheritance from one generation to the next.
+Thus the principle of segregation was a key development in modern genetics.
+
+Mendel's principle of independent assortment is his second great contribution to genetics.
+
+This principle states that genes at different loci are transmitted independently.
+Consider the two loci mentioned above.
+One locus can have either the «rounded» or «wrinkled» allele, and the other can have either the «tall» or the «short» allele.
+In a reproductive event a parent will transmit one allele from each locus to its offspring.
+The principle of independent assortment dictates that the allele transmitted at one locus(«rounded» or «wrinkled») has no effect on which allele is transmitted at the other locus («tall» or «short»). 
+
+Mendel's experiments also showed that the effects of one allele may mask those of another He performed crosses (matings) between pea plants homozygous for the «tall» gene (i.e., they had two identical copies of an allele we label H ) and plants homozygous for the «short» gene (having two copies of an allele labeled h ).
+This cross, which can only produce heterozygous ( Hh ) offspring, is illustrated in the Punnett square shown in Figure 4-1.
+
+Mendel found that the offspring of these crosses, even though they were heterozygotes, were all tall.
+
+This reflects the fact that the H allele is dominant , whereas the h allele is recessive (it is conventional to label the dominant allele in upper case and the recessive allele in lower case).
+The term recessive comes from a Latin root meaning «to hide.» This describes the behavior of recessive alleles well: in heterozygotes the consequences of a recessive allele are hidden.
+Whereas a dominant allele exerts its effect both in the homozygote ( HH ) and heterozygote ( Hh ), the presence of the recessive allele is detected only when it occurs in homozygous form ( hh ).
+Thus short pea plants could be created only by crossing parent plants that each carry at least one h allele.
+An example would be a heterozygote x heterozygote cross, shown in Figure 4-2. 
+
+The principle of segregation describes the behavior of chromosomes in meiosis.
+The genes on chromosomes segregate during meiosis, and they are transmitted as distinct entities from one generation to the next.
+When Mendel performed his critical experiments, he had no knowledge of chromosomes, meiosis, or genes (indeed, the latter term was not coined until 1909, long after Mendel's death).
+
+Although his work was published in 1865 and cited occasionally, its fundamental significance was unrecognized for several decades. 
+Yet Mendel's research, which was eventually replicated by other researchers at the turn of the twentieth century, forms the foundation of much of modern genetics.
+
+Mendel's key contributions were the principles of segregation and independent assortment, and his definition of dominance and recessiveness.
+
+Figure 4-1
+
+Punnett square illustrating a cross between HH and hh homozygote parents
+
+Figure 4-2
+
+Punnett square illustrating a cross between two Hh heterozygotes
+
+Basic Concepts of Probability 
+
+Risk assessment is an important part of medical genetics. 
+For example, the physician or genetic counselor routinely informs couples of their risk of producing a child with a genetic disorder.
+To understand how such risks are estimated, some basic concepts of probability must be presented.
+
+A probability is defined as the proportion of times that a specific outcome occurs in a series of events. 
+Thus we may speak of the probability of obtaining a 4 when a die is tossed, or the probability that a couple will produce a son versus a daughter.
+Because probabilities are proportions, they lie between zero and one, inclusive.
+
+During meiosis, one member of a chromosome pair is transmitted to a given sperm or egg cell.
+The probability that one member of the pair is transmitted is 1 /2, and the probability that the other member of the pair is transmitted is also 1/2 (note that for any given experiment the probabilities of all possible events must add to 1).
+Because this is directly analogous to coin tossing, in which the probabilities of obtaining heads or tails are each 1/2, we use coin tossing as our illustrative example.
+
+When a coin is tossed repeatedly, the outcome of each toss has no effect on subsequent outcomes.
+
+The events are thus said to be independent .
+Even if we have obtained 10 heads in a row, the probability of obtaining heads or tails on the next toss remains 1/2.
+Similarly, the probability that a parent will transmit one of the two alleles at a locus is independent from one reproductive event to the next.
+
+The independence principle allows us to deduce two fundamental concepts of probability:
+the multiplication rule and the addition rule .
+The multiplication rule states that if two trials are independent, then the probability of obtaining a given outcome in both trials is the product of the probabilities of each outcome.
+For example, we may wish to know the probability that an individual will obtain heads on both tosses of a fair coin.
+Because the tosses are independent events, this probability is given by the product of the probabilities of obtaining heads in each individual toss:
+1/2 x 1/2 = 1/4.
+Similarly, the probability of obtaining two tails in a row is 1/2 x 1/2 = 1/4. 
+
+The multiplication rule can be extended for any number of trials.
+Suppose that a couple wants to know the probability that all three of their planned children will be girls.
+Because the probability of producing a girl is approximately 1/2 and because these are essentially independent events (although there may be rare exceptions), the probability of producing three girls is 1/2 x 1/2 x 1/2 = 1/8.
+
+However, if the couple has already produced two girls and then wants to know the probability of producing a third girl, it is simply 1/2.
+This is because the previous two events are no longer probabilities; they have actually occurred. 
+Because of independence, these events have no effect on the outcome of the third event.
+
+The addition rule states that if we want to know the probability of either one outcome or another, we can simply add the respective probabilities together.
+For example, the probability of getting two heads in a row (1/2 x 1/2, or 1/4) or the probability of getting two tails in a row (1/4) is given by adding the two probabilities together: 
+1/4 + 1/4 = 1/2.
+As another example, imagine that a couple plans to have three children, and they have a strong aversion to having three children all of the same sex.
+They can be reassured somewhat by knowing that the probability of producing three girls (1/8) or three boys (1/8) is only 1/4 (1/8 + 1/8) The probability that they will have some combination of boys and girls is thus 3/4 because the sum of the probabilities of all possible outcomes must add to 1.
+
+Basic probability enables us to understand and estimate genetic risks.
+The multiplication rule is used to estimate the probability that two events will occur together. 
+The addition rule is used to estimate the probability that one event or another occurs.
+
+Gene and Genotype Frequencies
+
+The prevalence of many genetic diseases can vary considerably from one population to another.
+For example, cystic fibrosis (CF), a severe respiratory disorder (see Clinical Commentary 4-1), is common among whites, affecting approximately 1 in 2500 births.
+It is rare in Asian populations, affecting only 1 in 90,000 births.
+As discussed in Chapter 3, sickle cell disease is common among African-Americans, affecting approximately 1 in 600 births.
+
+Yet it is almost never seen among individuals of northern European descent.
+The concepts of genotype frequency and gene frequency help us to measure and understand population variation in disease genes. 
+
+Imagine that we have typed 200 individuals in a population for the MN blood group.
+This blood group, which is encoded by a locus on chromosome two, has two major alleles, labeled M and N .
+
+This is a system in which the effects of both alleles can be observed in the heterozygote.
+M and N are thus said to be codominant ; the heterozygote can be distinguished from both homozygotes.
+Any individual in the population can have one of three possible genotypes (recall from Chapter 3 that the genotype is one's genetic makeup at a locus).
+The individual could be homozygous for M (genotype MM ), heterozygous ( MN ), or homozygous for N ( NN ).
+After typing each person in our sample, we find the following distribution of genotypes: 
+MM , 64; MN , 120; NN 16.
+Then the genotype frequency is obtained simply by dividing each genotype count by the total number of subjects.
+The frequency of MM is 64/200 (= 0.32), the frequency of MN is 120/200 (= 0.60), and the frequency of NN is 16/200 (= 0.08).
+The sum of these frequencies must, of course, equal one.
+
+The gene frequency for each allele, M and N , can be obtained here by the process of gene counting .
+
+Each MM homozygote has two M alleles, whereas each heterozygote has one M allele.
+Similarly, NN homozygotes have two N alleles, and heterozygotes have one N allele.
+In the sample measured here, there are: (64 xxx 2) xxx 120 xxx 248 M genes (16 x 2) xxx 120 xxx 152 N genes In total, there are 400 genes at the MN locus (i.e., twice the number of subjects, because each has two alleles).
+To obtain the frequency of M , we then take 248/400 xxx 0.62 .
+The frequency of N , 152/400,is 0.38.
+The sum of the two frequencies must equal one.
+
+Gene and genotype frequencies specify the proportions of each allele and each genotype, respectively, in a population. 
+Under simple conditions these frequencies can be estimated by direct counting.
+
+Clinical Commentary 4-1. Cystic Fibrosis 
+
+Cystic fibrosis (CF) is one of the most common single-gene disorders in North America, affecting approximately 1 in 2500 white newborns ( SOL 29,30).
+It is less common in other ethnic groups.
+The prevalence among African-Americans is about 1 in 17,000, and it is seen in only 1 in 90,000 Asians. 
+Approximately 30,000 Americans suffer from this disease. 
+
+CF was first identified as a distinct disease entity in 1938, and its earlier name was «cystic fibrosis of the pancreas.» This refers to the fibrotic lesions that develop in the pancreas, one of the principal organs affected by this disorder.
+Approximately 85% of CF patients have pancreatic insufficiency (i.e., the pancreas is unable to secrete digestive enzymes, resulting in chronic malnutrition).
+The gut is also affected, and approximately 10% of newborns with CF have meconium ileus (a thick plug of fecal material that blocks the colon).
+The sweat glands of CF patients are abnormal, resulting in high levels of chloride in the sweat. 
+This is the basis for the sweat chloride test , commonly used in the diagnosis of this disease.
+More than 95% of males with CF are sterile due to absence or obstruction of the vas deferens.
+The most serious problem facing CF patients is obstruction of the lungs by heavy, thick mucus.
+Because this mucus cannot be cleared effectively, the lungs are highly susceptible to infection by bacteria such as Staphylococcus aureus and (most seriously) Pseudomonas aeruginosa .
+
+Chronic infection leads to destruction of the lung tissue, resulting eventually in death from respiratory failure.
+
+As a result of improved antibiotics, aggressive chest physical therapy, and pancreatic enzyme replacement therapy, the survival rates of CF patients have improved substantially during the past three decades.
+
+Median survival is now 29 years of age.
+This disease has highly variable expression, with some patients experiencing relatively little respiratory difficulty and nearly normal survival. 
+Others may have much more severe respiratory problems and survive for only a few years.
+
+The CF gene was mapped to chromosome 7q in 1985 by investigators in London, Toronto, and Salt Lake City, and it was cloned 4 years later by investigators in Michigan and Toronto.
+It is a large gene, spanning 250 kb and including 27 exons.
+Much research has be en devoted to understanding this gene and its protein product.
+The protein product, labeled the «cystic fibrosis transmembrane regulator» (CFTR) is clearly involved in the transport of chloride ions across the membranes of specialized epithelial cells (such as those that line the gut and lung).
+There is good evidence that CFTR is the chloride ion channel itself.
+The similarity of CFTR to membrane transport proteins suggests that it may also be involved in the transport of ions across the cell membrane. 
+
+The fact that CFTR is involved in chloride transport helps us to understand the multiple effects of mutations at the CF locus.
+Defective chloride transport results in salt imbalances, producing the obstructive mucus seen in the lungs and pancreas. 
+It also explains the abnormally high concentrations of chloride in the sweat secretions of CF patients.
+
+DNA sequence analysis has revealed more than 300 different mutations at the CF locus.
+The most common of these is a 3-base deletion resulting in a loss of a phenylalanine at position 508 of the CFTR protein.
+
+This mutation is labeled «AF508» (i.e., deletion of phenylalanine at position 508).
+Although there are many different CF mutations, AF508 accounts for 70% of the mutations seen among those of northern European ancestry.
+This mutation, along with several other relatively common ones, is useful for genetic diagnosis of CF (see Chapter 11).
+
+Identification of the specific mutation(s) responsible for CF in a patient can be useful in predicting the course of the disease.
+For example, patients homozygous for the AF508 mutation nearly always have pancreatic insufficiency, and they usually have a relatively severe degree of respiratory involvement. 
+There are, however, exceptions, indicating that additional factors (possibly genes at other loci) must influence the expression of the disease.
+
+In addition to enhancing our understanding of the pathophysiology of CF, cloning the CF gene has opened the possibility of gene therapy (see Chapter I 1).
+Research in experimental systems has shown that insertion of normal CF genes into cells with defective chloride ion transport can correct the defect.
+This and other research have led to the initiation of clinical trials in which normal CF genes are inserted into adenoviruses, which then are introduced into the lungs of CF patients.
+It is hoped that the adenoviruses will insert the normal gene into airway epithelial cells, inducing normal chloride channel function in these cells.
+This could eventually lead to a cure for this usually fatal disease.
+
+The Hardy-Weinberg Principle
+
+The example given above for the MN locus presents an ideal situation for gene frequency estimation; because of codominance, the three genotypes can easily be distinguished and counted.
+
+What happens when one of the homozygotes is indistinguishable from the heterozygote (i.e., when there is dominance)? Here the basic concepts of probability can be used to specify a predictable relationship between gene frequencies and genotype frequencies. 
+
+Imagine a locus having two alleles, labeled A and a .
+Suppose that, in a population, we know the frequency of allele A , which we call p , and the frequency of allele a , which we call q .
+From this we wish to determine the expected population frequencies of each genotype, AA , Aa , and aa .
+We assume that individuals in the population mate at random with regard to their genotype at this locus ( random mating is also referred to as panmixia ).
+
+Thus the genotype has no effect on mate selection.
+
+If men and women mate at random, then the assumption of independence is fulfilled.
+This allows us to apply the addition and multiplication rules to estimate genotype frequencies. 
+
+Suppose that the frequency, p , of allele A in our population is 0.7 .
+Then 70% of the sperm cells in the population must have allele A , and 70% of the egg cells must have allele A .
+Since p and q must sum to 1, 30% of the egg and sperm cells must carry allele a (i.e., q = 0.30).
+Under panmixia, the probability that a sperm cell carrying A unites with an egg cell carrying A is given by the product of the gene frequencies:
+xxx (multiplication rule).
+This is the probability of producing an offspring with the AA genotype.
+Using the same reasoning, the probability of producing an offspring with the aa genotype is given by xxx .
+
+What about the frequency of heterozygotes in the population? There are two ways a heterozygote can be formed.
+Either a sperm cell carrying A can unite with an egg carrying a, or a sperm cell carrying a can unite with an egg carrying A The probability of each of these two outcomes is given by the product of the gene frequencies, pq .
+Because we want to know the overall probability of obtaining a heterozygote (i.e., the first event or the second), we can apply the addition role, adding the probabilities to obtain a heterozygote frequency of 2pq ; These operations are summarized in Figure 4-3.
+This relationship between gene frequencies and genotype frequencies was established independently by two men, Godfrey Hardy and Wilhelm Weinberg, and is termed the Hardy-Weinberg principle .
+
+As already mentioned, we can use this principle to estimate gene and genotype frequencies when dominant homozygotes and heterozygotes are indistinguishable.
+This is often the case for recessive diseases such as CF.
+Only the affected homozygotes, with genotype aa , are distinguishable.
+The Hardy-Weinberg principle tells us that the frequency of aa should be q2 For CF in the white population, xxx (i.e., the prevalence of the disorder among newborns). 
+To estimate q , we take the square root of both sides of this equation:
+xxx .
+Since p + q = 1, p =0.98.
+We can then estimate the genotype frequencies of AA and Aa .
+The latter genotype, which represents heterozygous carriers of the disease allele, is of particular interest.
+We find that 2pq = 1/25 (note that, since p is nearly 1.0, we can simplify this calculation by rounding p up to 1.0; then without a significant loss of accuracy, xxx .
+This tells us something rather remarkable about CF and about recessive diseases in general. 
+Whereas the incidence of affected homozygotes is only 1 in 2500, heterozygous carriers of the disease gene are much more common (one in 25 individuals).
+The vast majority of recessive disease alleles then are effectively «hidden» in the genomes of heterozygotes.
+
+Under panmixia, the Hardy-Weinberg principle specifies the relationship between gene frequencies and genotype frequencies.
+It is useful in estimating gene frequencies from disease prevalence data and in estimating the incidence of heterozygous carriers of recessive disease genes.
+
+Figure 4-3
+
+The Hardy-Weinberg principle 
+
+The population frequencies of genotypes AA, Aa, and aa are predicted on the basis of gene frequencies (p and q).
+It is usually assumed that the gene frequencies are the same in males and females.
+
+The Concept of Phenotype
+
+The term genotype has been defined as an individual's genetic constitution at a locus.
+The phenotype is what we actually observe physically or clinically.
+Genotypes do not uniquely correspond to phenotypes.
+Two different genotypes, a dominant homozygote and a heterozygote, may have the same phenotype.
+An example would be CF.
+Conversely, the same genotype may produce different phenotypes in different environments.
+An example of this is the recessive disease phenylketonuria (PKU), seen in approximately 1 in 10,000 white births.
+Mutations at the locus encoding the metabolic enzyme phenylalanine hydroxylase render the homozygote unable to metabolize the amino acid phenylalanine.
+Although PKU babies are normal at birth, their metabolic deficiency produces a buildup of phenylalanine and various toxic metabolites.
+This is highly destructive to the central nervous system, and it eventually produces severe mental retardation.
+It has been estimated that untreated PKU babies lose, on average. one to two IQ points per week during the first year of life.
+Thus the PKU genotype can produce a severe disease phenotype. 
+
+However, it is easy to screen for PKU at birth (see Chapter 11), and the disease can be avoided by initiating a low phenylalanine diet within 1 month after birth.
+The individual still has the PKU; genotype, but the phenotype of mental retardation has been profoundly altered by environmental modification.
+
+This example shows that the phenotype is the result of the interaction of genotype and environmental factors.
+It should be emphasized that «environment» can include the genetic environment (i.e., genes at other loci, the products of which may interact with a specific gene or its product).
+
+The phenotype, which is physically observable, results from the interaction of genotype and environment.
+
+Basic Pedigree Structure
+
+The pedigree is one of the most commonly used tools in medical genetics.
+It illustrates the relationships among family members, and it shows which family members are affected with a genetic disease and which members are unaffected.
+Typically an arrow denotes the proband , the first individual diagnosed in the pedigree.
+The proband is sometimes also referred to as the index case or propositus ( proposita for females).
+Figure 4-4 describes the features of pedigree notation.
+
+When discussing relatives in families, one often refers to degrees of relationship.
+First-degree relatives are those who are related at the parent-offspring or sibling (brother and sister) level.
+
+Second-degree relatives are those who removed by one extra «step» (e.g., grandparents and grandchildren, uncles/aunts, and nieces/nephews).
+Continuing this logic, third-degree relatives would include, for example, first cousins, great-grandchildren, and so on.
+
+Figure 4-4
+
+Basic pedigree notation
+
+Clinical Cytogenetics: The Chromosomal Basis of Human Disease
+
+The previous two chapters have dealt with single-gene diseases. 
+We turn now to diseases caused by chromosome alterations that are sufficiently large to be observable under a microscope. 
+Such alterations are termed chromosome abnormalities .
+The study of chromosomes and their abnormalities is termed cytogenetics .
+
+Chromosome abnormalities are responsible for a significant proportion of genetic diseases, occurring in approximately 1 in 150 live births.
+They are the leading known cause of both mental retardation and pregnancy loss.
+Chromosome abnormalities are seen in 50% and 20% of first- and second- trimester spontaneous abortions, respectively.
+
+Thus, they are an important cause of morbidity and mortality. 
+
+As in other areas of medical genetics, advances in molecular genetics have contributed many new insights in the field of cytogenetics. 
+For example, molecular techniques have permitted the identification of chromosome abnormalities, such as deletions, that affect very small regions.
+In some cases specific genes responsible for cytogenetic syndromes are boing pinpointed. 
+Thus, the distinction between «chromosome abnormalities» and «single gene diseases» is becoming somewhat blurred. 
+In addition, the ability to identify RFLPs and other polymorphisms in parents and offspring has enabled researchers to specify whether an abnormal chromosome is derived from the mother or futher.
+
+This has increased our understanding of the biologic basis of meiotic errors and chromosome abnormalities.
+
+In this chapter we discuss abnormalities of chromosome number and structure.
+The chromosomal and genetic basis of sex determination will be reviewed.
+The role of chromosome alterations in cancer will be examined, and several diseases caused by chromosomal instability will be discussed.
+Emphasis will be given to the new contributions of molecular genetics to cytogenetics.
+
+CYTOGENETIC TECHNOLOGY AND NOMENCLATURE 
+
+Although it was possible to visualize chromosomes under microscopes as early as the mid 1800s, it was difficult to observe individual chromosomes.
+Thus it was hard to count the number of chromosomes in a cell or to examine structural abnormalities. 
+Beginning in the 1950s, several techniques were developed that improved our ability to observe chromosomes.
+These included
+
+1' rend="il the use of spindle poisons, such as colchicine and colcemid, that arrest dividing somatic cells in metaphase, when chromosomes are maximally condensed and easiest to see,
+2' rend="il the use of a hypotonic (low salt) solution, which causes swelling of cells, rapture of the nucleus, and better separation of individual chromosomes, and
+3' rend="il the use of staining materials, which are absorbed differentially by different parts of chromosomes (producing the characteristic bands which help to identify individual chromosomes) 
+
+Our ability to study chromosomes has been improved by the visualization of chromosomes in metaphase, by hypotonic solutions that cause nuelear swelling, and by staining techniques that bring out chromosome bands.
+
+Chromosomes are analyzed by collecting a living tissue (usually blood), culturing the tissue for the appropriate amount of time (usually 48 to 72 hours for peripheral lymphocytes), adding colcemid to produce metaphase arrest, harvesting the cells, placing the cell sediment on a slide, rupturing the cell nacleus with a hypotonic solution, staining with a designated nuclear stain, and photographing the metaphase «spreads» of chromosomes on the slide.
+The chromosome images are then cut out from the photograph, and the 22 pairs of autosomes are arranged according to length, with the sex chromosomes in the right-hand corner.
+This ordered display of chromosomes is termed a karyotype (Fig. 6- l).
+More recently, computerized image analyzers are sometimes used to display chromosomes.
+
+After classification by size, chromosomes are further classified according to the position of the centromere.
+When the centromere occurs near the middle of the chromosome, the chromosome is said to be metacentric (Fig. 6-2).
+An acrocentric chromosome has its centromere near the tip, and submetacentric chromosomes have centromeres somewhere between the middle and the tip.
+The tip of each chromosome is termed the telomere .
+Note that the short arm of a chromosome is labeled p (from petite ), while the long arm is labeled q .
+In metacentric chromosomes, where the arms are of roughly equal length, the p and q arms are designated by convention.
+
+A karyotype is a display of chromosomes ordered according to length.
+Depending on the position of the centrornere, a chromosome may be acrocentric, submetacentric, or metacentric.
+
+A normal female karyotype is designated 46,XX;
+a normal male karyotype is designated 46,XY.
+The nomenclature for various chromosome abnormalities is summarized in Table 6-1 and will be indicated for each condition discussed later.
+
+Figure 6-1
+
+A banded karyotype of a normal female
+
+The banded metaphase chromosomes are arranged from largest to smallest in size.
+
+Figure 6-2
+
+Metacentric, submetacentric, and acrocentric chromosomes
+
+Note the stalks and satellites present on the short arms of the acrocentric chromosomes.
+
+Chromosome Banding
+
+Early karyotypes were useful in counting the number of chromosomes, but structural abnormalities, such as chromosomal deletions, were often undetectable.
+Staining techniques were developed in the 1970s that produced the chromosome bands characteristic of modern karyotypes.
+Chromosome banding helps greatly in the detection of deletions, duplications, and other structural abnormalities, and it facilitates the correct identification of individual chromosomes.
+The major bands on each chromosome are numbered (Fig. 6-3).
+Thus 14q32 refers to the second band in the third region of the long arm of chromosome 14.
+Sub-bands are designated by decimal points following the band (e.g., 14q32.3 is the third sub-band of band 2).
+
+Several chromosome-banding techniques are used in cytogenetics laboratories.
+Quinacrine banding (Q-banding) was the first staining method used to produce specific banding patterns.
+This method requires a Fluorescence microscope and is no longer as widely used as Giemsa-banding (G-banding) (a Giemsa stain is applied after the chromosomal proteins are partially digested by trypsin).
+Reverse banding (R-banding) requires heat treatment and reverses the usual white-and- black pattern that is seen in G-bands and Q-bands.
+
+This method is particularly helpful in staining the distal ends of chromosomes.
+Other staining techniques include C-banding and NOR (nucleolar organizing region) stains .
+These latter methods specifically stain certain portions of the chromosome. 
+
+C-banding stains the constitutive heterochromatin which lies at and near centromeres, and NOR staining highlights the satellites and stalks of acrocentric chromosomes (Fig. 6-2). 
+
+High-resolution banding involves the staining of chromosomes during prophase or early metaphase (prometaphase), before they reach maximal condensation.
+Because prophase and prometaphase chromosomes are more extended than metaphase chromosomes, the number of bands observable for all chromosomes increases from about 300 (as in Fig. 6-3) to as many as 800. 
+This allows the detection of less obvious abnormalities usually not seen with conventional banding.
+High-resolution banding is rather todious and time-consuming, so it is usually used when the clinician is looking for a specific, subtle chromosomal abnormality.
+An example would be the deletion of the 15qll-13 bands seen in the Prader-Willi syndrome.
+
+Chromosome bands help to identify individual chromosomes and structural abnormalities in chromosomes.
+Banding techniques include quinacrine, Giemsa, reverse, C, and NOR banding.
+High-resolution banding, using prophase or prometaphase chromosomes, increases the number of observable bands.
+
+Fluorescence In Situ Hybridization
+
+Fluorescence in situ hybridization (FISH) is a recently developed technique in which a labeled chromosome-specific DNA segment (probe) is hybridized with metaphase, prophase, or interphase chromosomes and then visualized under a fluorescence microscope. 
+A common use of FISH is to determine whether a portion of a chromosome is deleted in a patient.
+In a normal individual, a probe will hybridize in two places, reflecting the presence of two homologous chromosomes in a somatic cell nucleus.
+If a probe from the chromosome segment in question hybridizes to only one of the patient's chromosomes, then the patient is likely to have the deletion on one chromosome.
+Excess chromosome material can also be detected using FISH.
+In this case the probe will hybridize in three places instead of two.
+Figure 6-4, A , illustrates a FISH result for a normal male and for his infant daughter who is missing a small distal piece of the short arm of chromosome 4 (Fig. 6-4, B ).
+Only one fluorescent spot is seen in the daughter, indicating that the child has the deletion 4p syndrome or Wolf-Hirschhorn syndrome.
+
+Fluorescence in situ hybridization (FISH) is a technique in which a labellad probe is hybridized to metaphase, prophase, or interphase chromosomes. 
+FISH can be used to test for missing or additional chromosomal material.
+
+Table 6-1
+
+Standard nomenclature for chromosome karyotypes
+
+Karyotype.
+Descripción.
+
+
+Normal male chromosome constitution.
+
+
+Female with trisomy 21, Down syndrome.
+
+
+Male who is a mosaic of trisomy 21 cells and normal cells.
+
+
+Male with distal deletion of the short arm of chromosome 4 band designated 14.
+
+
+Female with duplication of the short arm of chromosome 5.
+
+
+A male with a balanced Robertsonian translocation of chromosomes 13 and 14.
+
+
+Karyotype shows that one normal 13 and one normal 14 are missing.
+
+
+A male with a balanced reciprocal translocation between chromosomes 11 and 22.
+
+
+Breakpoints are at i 11q23 and 22q22.
+
+
+An inversion on chromosome 3 that extends from p21 to q13.
+Because it includes the centromere, this is a pericentric inversion.
+
+
+A female with one normal X chromosome and one ring X chromosome.
+
+
+A female with one normal X chromosome and an isochromosome of the long arm of the X chromosome.
+
+
+Figure 6-3
+
+A schematic representation of the banding pattern of a G-banded karyotype
+
+In this ideogram 300 bands are represented.
+The short and long arms of the chromosomes are designated, and the segments are numbered according to the standard nomenclature adopted at the Paris conference, 1971.
+In this illustration, both sister chromatids are shown for each chromosome.
+
+ABNORMALITIES OF CHROMOSOME NUMBER 
+
+Polyploidy
+
+A cell that contains a multiple of 23 chromosomes in its nucleus is said to be euploid (Grcek, eu = «good,» ploid = «set»).
+Thus haploid gametes and diploid somatic cells are euploid.
+Polyploidy , the presence of a complete set of extra chromosomes in a cell, is seen commonly in plants and often improves their agricultural value.
+Polyploidy also occurs in humans, although much less frequently.
+The polyploid conditions observed in humans are triploidy (69 chromosomes in the nucleus of each cell) and tetraploidy (92 chromosomes in ench cell nucleus).
+The karyotypes for these two conditions would be designated 69,XXX and 92,XXXX, respectively (assuming that all of the sex chromosomes were X; 
+other combinations of the X and Y chromosomes may be seen).
+Because the number of chromosomes present in each of these conditions is a multiple of 23, the cells are euploid in each case.
+However, the additional chromosomes encode a large amount of surplus gene product, causing multiple anomalies, such as defects of the heart and central nervous system.
+
+Triploidy and tetraploidy are both lethal.
+
+Triploidy is seen among only 1 in 10,000 live births, but it accounts for an estimated 15% of the chromosome abnormalities occurring at conception.
+Thus the vast majority of triploid conceptions are spontaneously aborted.
+The most common cause of triploidy is the fertilizàtion of an egg by two sperm ( dispermy ).
+The resulting zygote then receives 23 chromosomes from the egg and 23 chromosomes from each of the two sperm cells.
+
+Triploidy can also be caused by the fusion of an ovum and a polar body, each containing 23 chromosomes, and subsequent fertilization by a sperm cell.
+Meiotic failure , in which a diploid sperm or egg cell is produced, can also produce a triploid zygote.
+
+Tetraploidy is much rarer than triploidy, both at conception and among live births.
+It has been recorded among only a few live births, and these have survived ouly for short periods. 
+Tetraploidy can be caused by a mitotic failure in the early embryo, in which all of the duplicated chromosomes migrate to one of the two daughter cells.
+It can also result from the fusion of two diploid zygotes.
+
+Cells that have a multiple of 23 chromosomes are said to be euploid.
+Triploidy (69 chromosomes) and tetraploidy (92 chromosomes) are polyploid conditions found in the human.
+Most polyploid conceptions are spontaneously aborted, and all are incompatible with long-term survival.
+
+Figure 6-4
+
+A luorescence in situ hybridization (FISH) result
+
+The larger arrows point to a centromere-hybridizing probe for chromosome 4, and the smaller arrows point to a probe that hybridlzes to 4p.
+A, In a normal male two fluorescent spots are seen for the probe that hybridizes to chromosome 4p.
+B, This probe reveals only one spot in his daughter, who has a deletion of chromosome 4p producing the Wolf-Hirschhorn syndrome. 
+
+Autosomal Aneuploidy
+
+Cells that do not contain a multiple of 23 chromosomes are termed aneuploid .
+These cells are missing or contain additional chromosomes.
+Usually ouly one chromosome is affected, but it is possible for more than one chromosome to be missing or duplicated.
+Aneuploidies (or aneusomies ) of the autosomes are among the most clinically important of the chromosome abnormalities. 
+They consist primarily of monosomy (the presence of only one copy of a chromosome in an otherwise diploid cell) and trisomy (three copies of a chromosome).
+Autosomal monosomies are nearly always incompatible with survival to term, so only a small number of them have been observed among liveborn individuals.
+In contrast, some trisomies are seen with appreciable frequencies among live births.
+The fact that trisomies produce less severe consequences than monosomies illustrates an important principle: the body can tolerate excess genetic material more readily than it can tolerate a deficit of genetic material .
+
+The most common cause of aneuploidy is nondisjunction , the failure of chromosomes to disjoin normally during meiosis (Fig. 6-5).
+Nondisjunction can occur during meiosis I or meiosis II.
+The resulting gamete either lacks a chromosome or has two copies of it, producing a monosomic or trisomic zygote, respectively.
+
+Aneuploid conditions consist primarily of monosomies and trisomies.
+They are usually caused by nondisjunction. 
+Autosomal monosomies are virtually always lethal, whereas some autosomal trisomies are compatible with survival.
+
+Figure 6-5
+
+In Meiotic nondisjunction two chromosome homologs migrate to the same daughter cell instead of disjoining normally and migrating to different daughter cells 
+
+This produces monosomic and trisomic offspring. 
+
+Trisomy 21
+
+Trisomy 21 (47,XY,+21 or 47,XX,+21) [1] is seen in approximately 1 in 800 live births, making it the most common aneuploid condition compatible with survival to term.
+This trisomy produces Down syndrome, a phenotype originally described by John Langdon Down in 1866 ( SOL 34-40).
+
+Nearly 100 yeurs elapsed between Down's description of this syndrome and the discovery (in 1959) that it is caused by the presence of an extra 21st chromosome.
+
+Although there is considerable variation in the appearance of individuals with Down syndrome, they present a constellation of features that help the clinician to make a diagnosis.
+The facial features include a low nasal root, upslanting palpebral fissures, measurably small and sometimes overfolded ears, and a flattened maxillary and malar region, giving the face a characteristic appearance (Fig. 6-6).
+Some of these features led to the use of the term «mongolism» in earlier literature, but this term is no longer appropriate.
+The cheeks are round, and the corners of the mouth are sometimes downturned. 
+The neck is short, and the skin is redundant at the nape of the neck, especially in newborns.
+The occiput is flat, and the hands and fect tend to be rather broad and short.
+Approximately 50% of individuals with Down syndrome have a deep, single flexion crease across their palms (termed a simian crease ).
+Decreased muscle tone (hypotonia) is also a highly consistent feature and helpful in diagnosis. 
+
+Several medically significant problems occur with increased frequency among infants and children with Down syndrome.
+About 3% of these infants will develop an obstruction of the duodenum or atresia (closure or absence) of the esophagus, duodenum, or anus.
+Respiratory infections are common, and the risk of developing leukemia is 15 to 20 times higher among Down syndrome patients than among the general population.
+The most significant medical problem is that approximately 40% are born with structural heart defects.
+The most common of these is an AV (atrioventricular) canal , a defect in which the interatrial and interventricular septa fail to fuse normally during fetal development.
+The result is blood flow from the left heart to the right heart and then to the pulmonary vasculature, producing pulmonary hypertension.
+Ventricular septal defects (VSD) are also common among babies with Down syndrome.
+Moderate to severe mental retardation (IQs ranging from 25 to 60) is seen in most individuals with Down syndrome.
+Down syndrome alone accounts for 10% of all cases of mental retardation in the United States.
+
+Several other medical problems occur in infants and young children with this syndrome.
+Conductive and sometimes neural hearing loss, hypothyroidism, and various eye abnormalities are the most important and frequent.
+Clinical Commentary 6-1 (page 110) outlines a plan for routine medical care in infants and children with Down syndrome.
+
+Because of the medical problems seen in children with Down syndrome, their survival rates are significantly decreased.
+Congenital heart defects are the most important single cause of decreased survival.
+In the early 1960s, only about half of children with this disorder survived until age 5.
+As a result of improvements in corrective surgery, antibiotic treatment, and management of leukemia, the survival rates have increased considerably in the past 30 years.
+Currently it is estimated that approximately 75% to 80% of children with Down syndrome survive to age 10.
+There is strong evidence that enriched environments can produce significant improvements in intellectual function.
+
+Males with Down syndrome are nearly always sterile; only one case has been reported in which a male with Down syndrome has reproduced.
+Some females with this condition can reproduce, although approximately 40% fail to ovulate.
+Because reproduction is so uncommon, nearly all cases of trisomy 21 can be regarded as new mutations.
+The risk for a female with Down syndrome to produce a gamete with two copies of chromosome 21 (which would then produce a trisomic zygote) is 50%.
+
+However, because approximately 75% of trisomy 21 conceptions are spontaneously aborted, the Down syndrome femalets risk of producing affected liveborn offspring is considerably lower than 50%.
+
+Approximately 95% of Down syndrome cases are caused by nondisjunction, with most of the remainder being caused by chromosome translocations (page 109).
+Based on comparisons of chromosome morphology in the affected offspring and their parents, it was long thought that about 80% of chromosome 21 nondisjunctions occur in the mother.
+A more accurate assessment is now made possible by comparing RFLPs and other chromosome 21 polymorphisms in parents and offspring.
+
+This approach shows that the extra chromosome is contributed by the mother in about 95% of trisomy 21 cases.
+
+[1] For brevity, the remainder of the karyotype designations for abnormalities not involving the sex chromosomes will indicate an affected male.
+
+Genetic Screening, Genetic Diagnosis, and Gene Therapy
+
+As we have seen in previous chapters, significant advances have occurred in DNA technology, gene mapping, cytogenetics, and many other areas of medical genetics.
+These developments have paved the way for more accurate and efficient diagnoses of genetic disorders.
+In particular, population screening and prenatal diagnosis of genetic disorders are becoming increasingly widespread.
+The principles and application of genetic diagnosis in these contexts are one focus of this chapter.
+
+Another focus is the treatment of genetic disease.
+
+Many aspects of disease management involve areas of medicine, such as surgery and drug treatment, that are beyond the scope of this book.
+However, gene therapy, in which normal genes are placed in the cells of patients to combat specific diseases, falls well within the purview of this text and will be discussed in some detail.
+
+POPULATION SCREENING FOR GENETIC DISEASE 
+
+Screening tests represent an important component of routine health care.
+These tests are usually designed to detect treatable human diseases in their presymptomatic stage.
+Pap tests for the recognition of cervical dysplasia and population screening for hypercholesterolemia are well-known examples of this public health strategy.
+Population screening has been defined as «the presumptive identification of an unrecognized disease or detect by the application of tests, examinations, or other procedures which can be applied rapidly to sort out apparently well persons who probably have a disease from those who probably do not » (Mausner and Bahn, 1974).
+Screening tests are not intended to provide definitive diagnoses but rather are aimed at identifying a subset of the population on whom further diagnostic tests should be carried out.
+
+1 are already associated with disease or predisposition to disease
+2 may lead to disease in their descendants.» (National Academy of Sciences, 1975)
+
+Newborn screening for inherited metabolic diseases is a good example of the first type of genetic screening, and heterozygote detection for Tay-Sachs disease (discussed below) exemplifies the second.
+While these two examples involve screening of populations, genetic screening can also be applied to members of families that have a positive history of a genetic condition.
+An example would be testing for a balaneed reciprocal translocation in families in which one or more members have had a chromosome disorder (see Chapter 6).
+Box 11-1 lists the various types of genetic screening, including several forms of prenatal diagnosis, that are discussed in this chapter. 
+
+The goal of screening is early recognition of a disorder so that intervention will prevent or reverse the disease process (as in newborn screening for inborn errors of metabolism) or so that informed reproductive decisions can be made (as in the prenatal diagnosis of congenital malformations).
+
+Principles of Screening
+
+The basic principles of screening were developed in the 1960s and are still widely applied.
+The following points should be considered when deciding whether population screening is appropriate:
+ 
+
+1 Disease characteristics .
+The condition should be serious and relatively common. 
+This ensures that sufficient benefits will be derived from the screening program to justify its costs.
+The natural history of the disease should be clearly understood.
+There should be an acceptable and effective treatment or, in the case of some genetic conditions, prenatal diagnosis should be available. 
+
+2 Test characteristics .
+The screening test should be acceptable to the population, easy to perform, and relatively inexpensive.
+The screening test should be valid and reliable.
+
+3 System characteristics .
+The resources for diagnosis and treatment of the disorder must be accessible.
+A strategy for communicating results efficiently and effectively must be in place.
+
+
+As summarized in Clinical Commentary 11-1, the phenylketonuria (PKU) screening program meets these criteria quite well.
+
+Screening programs typically use tests that are widely applicable and inexpensive in order to identify an at-risk population. 
+Members of this population are then targeted for subsequent tests that are more accurate but also more expensive and time-consuming. 
+In this context, the validity of a screening test deserves emphasis.
+Validity refers to the ability of a test to separate individuals who have the disease from those who do not.
+It involves two components: sensitivity and specificity.
+Sensitivity is defined as the ability to correctly identify those with the disease.
+It is measured as the proportion of affected individuals in whom the test is positive (i.e., true positives ).
+Specificity is the ability to correctly identify those without the disease.
+It is measured as the proportion of unaffected individuals in whom the test is negative (i.e., the true-negative rate).
+Sensitivity and specificity are determined by comparing the screening results with those of a definitive diagnostic test (Table 1 1-1).
+
+Screening tests are seldom, if ever, 100% sensitive and 100% specific.
+This is because the range of test values in the disease population overlaps that of the unaffected population (Fig. 11-1).
+Thus, a screening test (as opposed to the definitive follow-up diagnostic test) will diagnose some members of the population incorrectly.
+Usually a cutoff for separating the diseased and nondiseased portions of the population is designatod. 
+A balance exists between the impact of nondetection or low sensitivity (i.e., an increased false-negative rate) versus low specificity (an increased false-positive rate).
+If the penalty for missing affected individuals is high (as in untreated PKU), then the cutoff level is lowered so that nearly all disease cases will be detected (higher sensitivity), while increasing the number of nondisease cases (lower specificity) targeted for subsequent diagnosis.
+If confirmation of a positive test is expensive and hazardous, then false-positive rates are minimized (i.e., the cutoff level is increased, producing high specificity at the expense of sensitivity).
+
+The basic elements of validity include the Test's sensitivity (proportion of true positives detected) and specificity (proportion of true negatives detected).
+When sensitivity is increased, specificity decreases, and vice-versa.
+
+A primary concern in the clinical setting is the accuracy of a positive screening test.
+One needs to know the proportion of persons with a positive test who truly have the disease in question [i.e., a/(a + b) in Table 11 -1].
+This quantity is defined as the positive predictive value .
+
+The concepts of sensitivity, specificity, and positive predictive value can be illustrated by an example.
+Congenital adrenal hyperplasia (CAH) due to a deficiency of 21 hydroxylase is an inborn error of steroid biosynthesis that may produce ambignous genitalia in females and adrenal crises in males and females. 
+The screening test, a 17-hydroxyprogesterone assay, has a sensitivity of about 95% and a specificity of 99% (Table 11-2). 
+The prevalence of CAH is about 1 in 10,000 in most white populations but rises to about 1 in 400 in the Yupik Eskimo population. 
+
+Let us assume that a screening program for CAH has been developed in both of these populations.
+In a population of 500,000 whites, the false-positive rate (1 - specificity) is 1%.
+Thus, about 5000 normal individuals will have a positive test.
+With 95% sensitivity, 47 of the 50 individuals who have CAH will be detected through a positive test.
+Note that the great majority of people who have a positive test result would not have CAH: the positive predictive value is 47/(47 + 5000), or less than 1%.
+Suppose that 10,000 members of the Yupik population are screened for CAH.
+As Table 11-2 shows,24 of 25 individuals with CAH will test positive, and 100 without CAH will test positive.
+Here the positive predictive value is much higher than in whites: 24/(24 + 100) = 19%.
+This example illustrates an important principle: the positive predictive value of a test increases as the prevalence of the disease b increases .
+
+The positive predictive value of a screening test is defined as the proportion of positive tests that are true positives.
+It increases as the prevalence of the target disorder increases.
+
+Clinical Commentary II-1
+
+Neonatal screening for phenylketonuria (PKU)
+
+Disease Characteristics
+
+Population screening of newborns for PKU represents the best example of the application of the screening model to genetic disease.
+As discussed in Chapter 3, the prevalence of this autosomal recessive disorder of phenylalanine metabolism is about 1 in 10,000 to 15,000 white births.
+The natural history of PKU is well understood.
+More than 95% of untreated PKU patients become moderately to severely mentally retarded. 
+The condition is not identified clinically in the first year of life, as the physical signs are subtle and PKU usually manifests only as developmental delay.
+
+Dietary restriction of phenylalanine, when begun before 4 weeks of age. is highly effective in altering the course of the disease.
+Virtually all individuals with classical PKU will have normal intelligence when treated (an important exception is those who have a defect in biopterin metabolism and in whom a different therapy is used).
+The diet, although not particularly palatable, is effective in treating the disease. 
+
+Screening Characteristics
+
+PKU is detected by the measurement of blood phenylalanine using a bacterial inhibition assay' the Guthrie test.
+Blood is collected in the newborn period, usually by heel stick. and placed on filter paper.
+The dried blood is placed on an agar plate and incuhated with a bacterial strain ( Bacillus subilis ) that requires phenylalanine for growth.
+Measurement of bacterial growth permits quantification of the amount of phenylalanine in the blood sample.
+Positive test results are usually repeated and followed by a quantitative assay of plasma phenylalanine and tyrosine.
+
+If the test is performed after 2 days of age and after regular ferding on a protein diet, the detection rate (sensitivity) is about 98%.
+If performed at less than 24 hours of age, the sensitivity is about 84%.
+Thus, early discharge from the norsery requires a repest test a few weeks after birth.
+Specificity is close to 100%.
+
+System Characteristics
+
+Because of the requirement of normal protein in the diet, many states request rescreening at 2 to 4 weeks of age.
+Then sensitivity approaches 100%.
+Because of the impact of a misdiagnosis, a high sensitivity level is desirable.
+
+Phenylalanine levels in children with classical PKU typically excced 20 mg/dl.
+For every 20 positive PKU screens, only one infant will have classical PKU.
+The others will be either false-positives (usually due to a transient reversible tyrosinemia) or will have a form of hyperphenylalaninemia (elevated phenylalanine) not due to classical PKU.
+
+The cost of a Guthrie test is about 81.25.
+Several studies have shown that the cost of nationwide PKU screening is significantly less than the savings it achieves by avoiding institutionalization costs and lost productivity.
+
+Box II-1 Genetic screening and prenatal diagnosis
+
+a PKU, all 50 states in the United States
+b Galactosemia, all 50 states in the Unites States 
+c Hypothyroidism, 45 of 50 states in the Unites States 
+d Other hemaglobinopathies, cystic fibrosis
+
+2 Urine: aminoacidopathies
+
+1 Tay-Sachs disease, Ashkenazi Jewish population
+2 Sickle cell disease, African-American population 
+3 Thalassemias, at-risk ethnic groups
+4 Cystic fibrosis, pilot programs only
+
+1 Amniocentesis
+2 Chorionic villus sampling
+3 Percutaneous umbilical blood sampling (PUBS)
+
+1 Ultrasonography
+2 Radiography
+
+1 Maternal age higher than 35 years
+2 Family history of condition diagnosable by prenatal techniques
+3 Abnormal maternal serum a-fetoprotein
+4 Triple screen, maternal serum a-fetoprotein, estriol, human chorionic gonadotropin
+
+A Family history of chromosomal rearrangement (e.g., translocation) 
+B Screening female relatives in an X-linked pedigree (e.g., Duchenne muscular dystrophy,fragile X syndrome)
+C Heterozygote screening within at-risk families (e.g., cystic fibrosis)
+D Presymptomatic screening, (e.g., Huntington disease, breast cancer, colon cancer)
+
+
+
+
+Table 11-1
+
+Definitions of sensitivity and specificity
+
+Table 11-2
+
+Hypothetical results of screening for congenital adrenal hyperplasia (CAH) in a low-prevalence white population and a high-prevalence Yupik population
+
+Figure 11-1
+
+The distribution of creatine kinase (CK) in normal women and in women who are heterozygous carriers for a mutation in the Duchenne muscular dystrophy gene 
+
+Note the overlap in distribution between the two groups: about two thirds of carriers have CK levels that exceed the 95th percentile in normal women.
+If the 95th percentile is used as a cutoff to identify carriers, then the sensitivity of the test is 67% (i.e., two thirds of carriers will be detected), and the specificity is 95% (95% of normal women will be correctly identified).
+
+Newborn Screening
+
+Newborn screening programs represent an ideal opportunity for presymptomatic detection and prevention of genetic disease. 
+At present, all states in the United States screen newborns for PKU and hypothyroidism.
+Most states screen for galactosemia, an autosomal recessive disorder of carbohydrate metabolism.
+All of these conditions fulfill the above-stated criteria for population screening.
+Each is a disorder in which the individual is at significant risk for mental retardation; early detection enables effective intervention and prevention.
+
+In recent years, many parts of the United States and other nations have instituted screening programs to identify neonates with hemoglobin disorders (e.g., sickle cell disease).
+These programs are justified by the fact that up to 15% of children with sickle cell disease will die of infections before age 5 (see Chapter 3).
+Effective treatment, in the form of prophylactic antibiotics, is available.
+
+Some communities have begun screening for Duchenne muscular dystrophy (DMD) by measuring creatine kinase levels in newborns. 
+The object is not presymptomatic treatment; rather it is identification of families who should receive genetic counseling to make informed reproductive decisions.
+Conditions for which newborn screening is commonly performed are summarized in Table 11-3.
+
+Newborn screening is an effective public health strategy for treatable disorders such as PKU, hypothyroidism, galactosemia, and sickle cell disease.
+
+Table 11-3
+
+Characteristics of selected newborn screening programs
+
+Disease.
+Inheritance.
+Prevalence .
+Screening test.
+Cost.
+Treatment .
+
+
+Phenylketonuria.
+Autosomal recessive.
+Guthrie test.
+Dietary restriction of phenylalanine.
+
+
+Galactosemia.
+Autosomal recessive.
+Transferase assay.
+Dietary restriction of galactose.
+
+
+Congenital hypothyroidism.
+Usually sporadic.
+Meusurement of T4 or TSH.
+Hormone replacement.
+
+
+Sickle cell disease.
+Autosomal recessive.
+African-Americans.
+Isoelectric focusing or DNA diagnosis .
+Prophylactic penicillin.
+
+
+Heterozygote Screening
+
+The aforementioned principles of population screening can be applied to the detection of unaffected carriers of disease-causing genes.
+The target population is a group known to be at risk.
+The «intervention» consists of the presentation of risk figures and the option of prenatal diagnosis.
+Genetic diseases amenable to heterozygote screening are typically autosomal recessive disorders for which prenatal diagnosis and genetic counseling are available, feasible, and accurate.
+
+An example of a highly successful heterozygote screening effort is the Tay-Sachs screening program in North America.
+Infantile Tay-Sachs disease is an autosomal recessive disorder in which the lysosomal enzyme B-hexosaminidase A (HEX A) is deficient. 
+This causes a baildup of the substrate, GM2 ganglioside, in neuronal lysosomes(SOL 31). [2] 
+The accumulation of this substrate damages the neurons and leads to blindness, seizures, hypotonia, and death by about the age of 5.
+
+Tay-Sachs disease is especially common among Ashkenazi Jews, with a heterozygote frequency of about 1 in 30.
+Thus, this population is a reasonable candidate for heterozygote screening.
+Accurate carrier testing is available (assays for HEX A or, in some populations, direct testing for mutations). 
+
+Because the disease is uniformly fatal, options such as pregnancy termination or artificial insemination by noncarrier donors are acceptable to most couples.
+A well-planned effort was made to educate members of the target population about risks, testing, and available options.
+As a result of screening, the number of Tay-Sachs disease births in the United States and Canada has declined by 90%, from 40 to 50 per year before 1970 to 3 to 5 per year in the 1990s.
+
+Cystic fibrosis is another autosomal recessive disorder for which carrier screening is possible.
+
+However, the relative costs and benefits of such a screening program are less clear-cut than those of Tay-Sachs disease (Clinical Commentary 11-2).
+Table 11-4 presents a list of selected conditions in which heterozygote screening programs have been developed in industrial countries.
+
+In addition to the criteria for establishing a population screening program for genetic disorders, guidelines have been developed regarding the ethical and legal aspects of heterozygote screening programs.
+These are summarized in Box 11-2. 
+
+Heterozygote screening consists of testing (at the phenotype or genotype level) a target population to identify unaffected carriers of a disease gene.
+The carriers can then be given information about risks and reproductive options. 
+
+Clinical Commentary 11-2
+
+Population screening for cystic fibrosis
+
+There are now more than 400 known cystic fibrosis (CF)-causing mutations at the CFTR locus.
+Clearly, it would be technologically impractical to test for all of them in a population carrier screening program.
+
+However, among the mutations that can cause CF in whites, about 70% are the 3-base deletion termed AF508 (see Chapter 4). 
+Carrier screening using PCR-based detection of this mutation alone would detect approximately 90% of white couples in which one or both members of the couple are heterozygous carriers of this mutation (1 - 0.302, where 0.302 represents the frequency of carrier couples in which neither member of the couple carries the AF508 mutation).
+By testing for several additional relatively common mutations, each with a gene frequency of =1%, about 75% to 85% of all CF mutations may now be detectable through population screening.
+Then 94% to 98% of couples would be recognized in which one or both members carry a CF mutation (i.e., 1 - 0.252 to 1 -0.152).
+The sensitivity of the screening test would be high.
+
+These carriers would define a population in which prenatal diagnosis for CF might be offered.
+Given the CF heterozygote frequency of about 1 in 23 (Chapter 4), only about 1 in every 500 couples would consist of two heterozygotes (1 of 232).
+Only some of these couples would produce a child affected with CF.
+
+Considering the cost of screening tests for couples, it has been estimated that the cost of identifying one homozygous affectod fetus through carrier screening would be about $1,000,000. 
+
+Moreover, an enormous amount of counseling time would be required to explain the complexities of these results to the at-risk families identified by screening (in this context, it is important that one study of the parents of children with CF showed that only 64% could accurately state the recurrence risk for their future children).
+It is estimatod that half of all board-certified geneticists and genetic counselors in the United States would have to devote all of their time to CF screening to moct this need.
+Obviously this is impractical. 
+
+Although carrier screening for individuals with a positive family history of CF is appropriate, it is less certain that general population screening is warranted or feasible.
+Several centers have initiated pilot programs for CF population screening.
+The final decision regarding CF screening will await further data from these centers and further technological development.
+
+Box 11-2
+
+Public policy guidelines for heterozygote screening 
+
+Recommended guidelines
+1 Screening should be voluntary, and confidentiality must be assured
+2 Screening requires informed consent
+3 Providers of screening services have an obligation to assure that adequate education and counseling are included in the program
+4 Quality control of all aspects of the laboratory testing, including systematic proficiency testing, is required and should be implemented as soon as possible
+5 There should be equal access to testing
+
+Presymptomatic Diagnosis
+
+With the development of genetic diagnosis through linkage analysis and direct mutation detection, presymptomatic diagnosis has become frasible for some genetic diseases. 
+Individuals known to be at risk for a disorder can be tested to determine whether they have inherited a disease causing mutation before they develop clinical symptoms of the disorder.
+Presymptomatic diagnosis is available, for example, for Huntington disease, adult polycystic kidney disease, neurofibromatosis type 1, and autosomal dominant breast cancer.
+By informing individuals whether they carry a disease-causing gene, presymptomatic diagnosis can aid in making reproductive decisions.
+It can provide reassurance to those who learn that they do not carry a disease-causing gene. 
+In some cases early diagnosis may improve health supervision. 
+
+For example, persons who inherit an autosomal dominant breast cancer gene can undergo mammography at an earlier age to detect a tumor while it is still small.
+Those who inherit genes that cause some forms of familial colon cancer (APC and HNPCC, see Chapter 9) can also benefit from early diagnosis and treatment.
+
+Genetic testing can sometimes be performed to identify individuals who have inherited a disasse-causing gene before they develop symptoms.
+This is termed presymptomatic testing.
+
+Table 11-4
+
+Selected examples of heterezygote screening programs in specific ethnic groups
+
+Disease.
+Ethnic group.
+Carrier frequency.
+At-risk couple frequency.
+Disease incidence in newborns.
+
+
+Sickle cell disease .
+African-Americans.
+
+
+Tay-Sachs disease.
+Ashkenazi Jews.
+
+
+B-thalassemia .
+Greeks, Italians.
+
+
+A-thalassemia .
+Southeast Asians and Chinese.
+
+
+Cystic fibrosis.
+Northern Europeans.
+
+
+Psychosocial Implications of Genetic Screening
+
+Screening for genetic diseases has many social and psychological implications.
+The burden of anxiety, cost, and potential stigmatization surrounding a positive test must be weighed against the need for detection.
+Often, screening tests are misperceived as diagnostically definitive.
+The concept that a positive screening test does not necessarily indicate disease presence must be emphasized to those who undergo screening.
+
+The initial screening programs for sickle cell trait in the 1970s were plagued by misunderstandings about the implications of carrier status.
+Occasionally, carrier detection led to cancellation of health insurance.
+Such experiences underscore the need for effective genetic counseling and public education.
+Other issues include the right to choose not to be tested and the potential for invasion of privacy. 
+
+The social, psychological, and ethical aspects of genetic screening will become more complicated as newer techniques of DNA diagnosis become more accessible.
+For example, even though presymptomatic diagnosis of Huntington disease is available, only about 20% of at-risk individuals elect this option.
+Largely, this reflects the fact that no effective treatment is presently possible for this disorder.
+
+For other genetic diseases, such as some autosomal dominant cancer syndromes, early diagnosis leads to a much better prognosis. 
+However, as screening for such diseases becomes more common, the issues of privacy and confidentiality, and the need for accurate communication of risk information, must also be addressed.
+
+MOLECULAR TOOLS FOR SCREENING AND DIAGNOSIS 
+
+Until recently, genetic screening usually relied on assays of the disease phenotype, such as a B-hexosaminidase assay for Tay-Sachs disease or a creatine kinase assay for Duchenne muscular dystrophy (DMD).
+Advances in DNA technology have led to diagnosis at the level of the genotype.
+In some cases linkage analysis can determine whether an individual has inherited a disease gene, and in other cases direct assays of disease-causing mutations have been developed.
+Genetic diagnosis at the DNA level i s now supple me nting , and in some cases supplanting, screening tests based on phenotypic assays.
+
+Linkage analysis and/or direct mutation diagnosis have been used for diagnostic testing within families, prenatal diagnosis of genetic disorders, and more recently in population screening. 
+Improved technology and an increased demand for testing have led to the establishment of clinical molecular laboratories in many medical centers in North America and Europe.
+The molecular techniques utilized in these settings will be now be described.
+
+[2] Like Hurler syndrome (see Chapter 4), Tay-Sachs disease is an example of a lysosomal storage disorder

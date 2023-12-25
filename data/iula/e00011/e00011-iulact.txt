@@ -1,0 +1,1043 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<name pos="N46" type="organization">
+1	TOK	Catalunya Savings Bank	BOS	Catalunya_Savings_Bank\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<head>
+3	TOK	History	BOS	history\N5S
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<head>
+5	TOK	Economic	BOS	economic\JA
+##	TAG	<name>
+6	TOK	Evolution	EOS	Evolution\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+8	TOK	On	BOS	on\P
+##	TAG	<num>
+9	TOK	30		30\X
+##	TAG	</num>
+##	TAG	<date pos="T" ISO8601="1926-06-">
+10	TOK	June 1926		June_1926\T
+##	TAG	</date>
+---	DLE	,		=\DELIM
+11	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="place">
+12	TOK	County Council		County_Council\N46
+##	TAG	</name>
+13	TOK	included		include\VMF6A66
+14	TOK	the		the\AT---6
+15	TOK	sum		sum\N5S
+16	TOK	of		of\P
+##	TAG	<num>
+17	TOK	50,000		50,000\X
+##	TAG	</num>
+18	TOK	pesetas		peseta\N5P
+19	TOK	in		in\P
+20	TOK	its		its\APS3N6
+21	TOK	budget		budget\N5S
+---	DLD	,		=\DELIM
+22	TOK	which		which\RW63N-
+23	TOK	represented		represent\VMF6A66
+24	TOK	the		the\AT---6
+25	TOK	founding		found\VMG----
+26	TOK	capital		capital\JA
+---	DLE	(		=\DELIM
+27	TOK	endowment		endowment\N5S
+28	TOK	fund		fund\N5S
+---	DLD	)		=\DELIM
+29	TOK	to		to\P
+30	TOK	set		set\N5S
+31	TOK	up		up\P
+32	TOK	the		the\AT---6
+##	TAG	<name>
+33	TOK	Caixa		Caixa\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+34	TOK	whose		whose\AW---6
+35	TOK	finality		finality\N5S
+36	TOK	was		be\V6F-A66
+37	TOK	to		to\P
+38	TOK	attract		attract\VMI----
+39	TOK	resources		resource\N5P
+40	TOK	for		for\P
+41	TOK	investment		investment\N5S
+42	TOK	mainly		mainly\DGA7
+43	TOK	in		in\P
+44	TOK	loans		loan\N5P
+---	DLD	,		=\DELIM
+45	TOK	a		a\AI---S
+46	TOK	securities		security\N5P
+47	TOK	portfolio		portfolio\N5S
+48	TOK	and		and\CC
+49	TOK	real		real\JA
+50	TOK	estate		estate\N5S
+---	DLD	,		=\DELIM
+51	TOK	maintaining		maintain\VMG----
+52	TOK	available		available\JA
+53	TOK	liquid		liquid\N5S
+54	TOK	assets		asset\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+55	TOK	The	BOS	the\AT---6
+56	TOK	aim		aim\N5S
+57	TOK	was		be\V6F-A66
+58	TOK	to		to\P
+59	TOK	contribute		contribute\VMI----
+60	TOK	to		to\P
+61	TOK	the		the\AT---6
+62	TOK	development		development\N5S
+63	TOK	of		of\P
+64	TOK	the		the\AT---6
+65	TOK	province		province\N5S
+66	PGR	's		genmark\GENMARK
+67	TOK	agricultural		agricultural\JA
+---	DLD	,		=\DELIM
+68	TOK	industrial		industrial\JA
+69	TOK	and		and\CC
+70	TOK	commercial		commercial\JA
+71	TOK	interests		interest\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+72	TOK	As of	BOS	As_of\P
+##	TAG	</loc>
+##	TAG	<num>
+73	TOK	1953		1953\X
+##	TAG	</num>
+74	TOK	the		the\AT---6
+##	TAG	<name>
+75	TOK	Caixa		Caixa\N46
+##	TAG	</name>
+76	TOK	began		begin\VMF6A66
+77	TOK	to		to\P
+78	TOK	develop		develop\VMI----
+---	DLD	,		=\DELIM
+79	TOK	taking		take\VMG----
+80	TOK	full		full\JA
+81	TOK	advantage		advantage\N5S
+82	TOK	of		of\P
+83	TOK	a		a\AI---S
+84	TOK	legislation		legislation\N5S
+85	TOK	which		which\RW63N-
+86	TOK	slowly		slowly\DGA7
+87	TOK	but		but\CC
+88	TOK	surely		surely\DGA7
+89	TOK	was		be\V6F-A66
+90	TOK	beginning		begin\VMG----
+91	TOK	to		to\P
+92	TOK	downplay		downplay\VMI----
+93	TOK	its		its\APS3N6
+94	TOK	marked		mark\VMC----
+95	TOK	level		level\N5S
+96	TOK	of		of\P
+97	TOK	interventionism		interventionism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+98	TOK	In	BOS	in\P
+##	TAG	<num>
+99	TOK	1962		1962\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+100	TOK	the		the\AT---6
+##	TAG	<name>
+101	TOK	Law		Law\N46
+##	TAG	</name>
+102	TOK	for		for\P
+103	TOK	the		the\AT---6
+##	TAG	<name>
+104	TOK	Bases of Ordering of Credit		Bases_of_Ordering_of_Credit\N46
+##	TAG	</name>
+105	TOK	and		and\CC
+##	TAG	<name>
+106	TOK	Banking		Banking\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+107	TOK	which		which\RW63N-
+108	TOK	laid		lay\VMF6A66
+109	TOK	down		down\DGA7
+110	TOK	new		new\JA
+111	TOK	functions		function\N5P
+112	TOK	and		and\CC
+113	TOK	operations		operation\N5P
+114	TOK	for		for\P
+115	TOK	savings		saving\N5P
+116	TOK	banks		bank\N5P
+---	DLD	,		=\DELIM
+117	TOK	marked		mark\VMC----
+118	TOK	the		the\AT---6
+119	TOK	beginning		beginning\N5S
+120	TOK	of		of\P
+121	TOK	the		the\AT---6
+122	TOK	road		road\N5S
+123	TOK	towards		towards\P
+124	TOK	the		the\AT---6
+125	TOK	operational		operational\JA
+126	TOK	balancing		balance\VMG----
+127	TOK	between		between\P
+128	TOK	savings		saving\N5P
+129	TOK	banks		bank\N5P
+130	TOK	and		and\CC
+131	TOK	banks		bank\N5P
+---	DLD	,		=\DELIM
+132	TOK	a		a\AI---S
+133	TOK	process		process\N5S
+134	TOK	which		which\RW63N-
+135	TOK	culminated		culminate\VMF6A66
+136	TOK	at		at\P
+137	TOK	the		the\AT---6
+138	TOK	end		end\N5S
+139	TOK	of		of\P
+##	TAG	<num>
+140	TOK	1988		1988\X
+##	TAG	</num>
+141	TOK	in		in\P
+142	TOK	the		the\AT---6
+143	TOK	publication		publication\N5S
+144	TOK	of		of\P
+145	TOK	the		the\AT---6
+##	TAG	<name>
+146	TOK	Decree		Decree\N46
+##	TAG	</name>
+147	TOK	which		which\RW63N-
+148	TOK	derogated		derogate\VMF6A66
+149	TOK	the		the\AT---6
+150	TOK	regime		regime\N5S
+151	TOK	which		which\RW63N-
+152	TOK	limited		limit\VMF6A66
+153	TOK	the		the\AT---6
+154	TOK	expansion		expansion\N5S
+155	TOK	of		of\P
+156	TOK	savings		saving\N5P
+157	TOK	banks		bank\N5P
+158	TOK	outside		outside\P
+159	TOK	the		the\AT---6
+160	TOK	territory		territory\N5S
+161	TOK	of		of\P
+162	TOK	their		their\APP3N6
+163	TOK	autonomous		autonomous\JA
+164	TOK	community		community\N5S
+165	TOK	of		of\P
+166	TOK	origin		origin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+167	TOK	In	BOS	in\P
+168	TOK	the		the\AT---6
+169	TOK	second		second\MOS
+170	TOK	half		half\N5S
+171	TOK	of		of\P
+172	TOK	the		the\AT---6
+173	TOK	seventies		seventy\N5P
+---	DLD	,		=\DELIM
+174	TOK	the		the\AT---6
+##	TAG	<name>
+175	TOK	Caixa		Caixa\N46
+##	TAG	</name>
+176	TOK	gradually		gradually\DGA7
+177	TOK	became		become\VMF6A66
+178	TOK	a		a\AI---S
+179	TOK	modern		modern\JA
+180	TOK	financial		financial\JA
+181	TOK	organisation		organisation\N5S
+182	TOK	operating		operate\VMG----
+183	TOK	in		in\P
+184	TOK	a		a\AI---S
+185	TOK	competitive		competitive\JA
+186	TOK	market		market\N5S
+187	TOK	with		with\P
+188	TOK	a		a\AI---S
+189	TOK	broad		broad\JA
+190	TOK	range		range\N5S
+191	TOK	of		of\P
+192	TOK	financial		financial\JA
+193	TOK	instruments		instrument\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+194	TOK	This	BOS	this\AD---S
+195	TOK	positive		positive\JA
+196	TOK	dynamic		dynamic\JA
+197	TOK	was		be\V6F-A66
+198	TOK	fostered		foster\VMC----
+199	TOK	by		by\P
+200	TOK	the		the\AT---6
+201	TOK	parallel		parallel\JA
+202	TOK	process		process\N5S
+203	TOK	of		of\P
+204	TOK	the		the\AT---6
+205	TOK	liberalisation		liberalisation\N5S
+206	TOK	of		of\P
+207	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+208	TOK	Spanish		spanish\JA
+##	TAG	</loc>
+209	TOK	financial		financial\JA
+210	TOK	system		system\N5S
+211	TOK	and		and\CC
+212	TOK	by		by\P
+213	TOK	the		the\AT---6
+214	TOK	progressive		progressive\JA
+215	TOK	approximation		approximation\N5S
+---	DLD	,		=\DELIM
+216	TOK	from		from\P
+217	TOK	an		an\AI---S
+218	TOK	operative		operative\JA
+219	TOK	standpoint		standpoint\N5S
+---	DLD	,		=\DELIM
+220	TOK	of		of\P
+221	TOK	banks		bank\N5P
+222	TOK	and		and\CC
+223	TOK	savings		saving\N5P
+224	TOK	banks		bank\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+225	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+226	TOK	Caixa de Catalunya		Caixa_de_Catalunya\N46
+##	TAG	</name>
+227	TOK	has		have\V6FDRS3
+228	TOK	some		some\AG---6
+##	TAG	<num>
+229	TOK	2 billion		2_billion\X
+##	TAG	</num>
+230	TOK	pesetas		peseta\N5P
+231	TOK	in		in\P
+232	TOK	assets		asset\N5P
+233	TOK	and		and\CC
+234	TOK	an		an\AI---S
+235	TOK	extensive		extensive\JA
+236	TOK	network		network\N5S
+237	TOK	of		of\P
+238	TOK	sales		sale\N5P
+239	TOK	points		point\VMFDRS3
+---	DLD	,		=\DELIM
+240	TOK	comprising		comprise\VMG----
+241	TOK	nearly		nearly\DGA7
+##	TAG	<num>
+242	TOK	700		700\X
+##	TAG	</num>
+243	TOK	offices		office\N5P
+---	DLE	(		=\DELIM
+244	TOK	over		over\P
+##	TAG	<num>
+245	TOK	600		600\X
+##	TAG	</num>
+246	TOK	in		in\P
+##	TAG	<name>
+247	TOK	Catalonia		Catalonia\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+248	TOK	with		with\P
+249	TOK	the		the\AT---6
+250	TOK	others		other\RIP3N-
+251	TOK	located		locate\VMC----
+252	TOK	in		in\P
+253	TOK	the		the\AT---6
+##	TAG	<name>
+254	TOK	Community of Madrid		Community_of_Madrid\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+255	TOK	the		the\AT---6
+##	TAG	<name>
+256	TOK	Community of Valencia		Community_of_Valencia\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+257	TOK	the		the\AT---6
+##	TAG	<name>
+258	TOK	Balearic Community		Balearic_Community\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+259	TOK	Aragón		Aragón\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+260	TOK	Andalucía		Andalucía\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+261	TOK	la		la\N5S
+##	TAG	<name>
+262	TOK	Rioja		Rioja\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+263	TOK	Navarra		Navarra\N46
+##	TAG	</name>
+264	TOK	and		and\CC
+##	TAG	<name>
+265	TOK	Murcia		Murcia\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+266	TOK	plus		plus\CS
+##	TAG	<num>
+267	TOK	2		2\X
+##	TAG	</num>
+268	TOK	in		in\P
+##	TAG	<name>
+269	TOK	France		France\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+270	TOK	complemented		complement\VMC----
+271	TOK	by		by\P
+272	TOK	a		a\AI---S
+273	TOK	potent		potent\JA
+274	TOK	network		network\N5S
+275	TOK	of		of\P
+##	TAG	<num>
+276	TOK	800		800\X
+##	TAG	</num>
+277	TOK	automatic		automatic\JA
+278	TOK	tellers		teller\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+279	TOK	Similarly	BOS	similarly\DGA7
+---	DLD	,		=\DELIM
+280	TOK	at		at\P
+281	TOK	the		the\AT---6
+282	TOK	end		end\N5S
+283	TOK	of		of\P
+##	TAG	<num>
+284	TOK	1994		1994\X
+##	TAG	</num>
+285	TOK	it		it\RPS3N6
+286	TOK	had		have\V6F6A66
+287	TOK	a		a\AI---S
+288	TOK	workforce		workforce\N5S
+289	TOK	of		of\P
+290	TOK	over		over\P
+##	TAG	<num>
+291	TOK	3,500		3,500\X
+##	TAG	</num>
+292	TOK	employees		employee\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+293	TOK	Regarding	BOS	regarding\P
+294	TOK	the		the\AT---6
+295	TOK	financial		financial\JA
+296	TOK	group		group\N5S
+297	TOK	of		of\P
+298	TOK	the		the\AT---6
+##	TAG	<name>
+299	TOK	Caixa de Catalunya		Caixa_de_Catalunya\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+300	TOK	created		create\VMC----
+301	TOK	to		to\P
+302	TOK	offer		offer\VMI----
+303	TOK	its		its\APS3N6
+304	TOK	clients		client\N5P
+305	TOK	a		a\AI---S
+306	TOK	bigger		big\JC
+307	TOK	and		and\CC
+308	TOK	better		better\DDC7
+309	TOK	integrated		integrate\VMC----
+310	TOK	offer		offer\VMF6R66
+311	TOK	of		of\P
+312	TOK	financial		financial\JA
+313	TOK	and		and\CC
+314	TOK	parafinancial		parafinancial\JA
+315	TOK	products		product\N5P
+316	TOK	and		and\CC
+317	TOK	services		service\N5P
+---	DLD	,		=\DELIM
+318	TOK	it		it\RPS3N6
+319	TOK	is		be\V6FDRS3
+320	TOK	comprised		comprise\VMF6A66
+---	DLD	,		=\DELIM
+321	TOK	together		together\DGA7
+322	TOK	with		with\P
+323	TOK	the		the\AT---6
+##	TAG	<name>
+324	TOK	Caixa		Caixa\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+325	TOK	of		of\P
+##	TAG	<num>
+326	TOK	two		two\X
+##	TAG	</num>
+327	TOK	banks		bank\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name pos="N46" type="organization">
+328	TOK	Banco de la Exportación		Banco_de_la_Exportación\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+329	TOK	with		with\P
+330	TOK	head		head\N5S
+331	TOK	offices		office\N5P
+332	TOK	in		in\P
+##	TAG	<name>
+333	TOK	Valencia		Valencia\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+334	TOK	and		and\CC
+335	TOK	the		the\AT---6
+##	TAG	<name>
+336	TOK	Banca Privada de Andorra		Banca_Privada_de_Andorra\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+337	TOK	an		an\AI---S
+338	TOK	investment		investment\N5S
+339	TOK	funds		fund\N5P
+340	TOK	manager		manager\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+341	TOK	Caixa Catalunya Gestió		Caixa_Catalunya_Gestió\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+342	TOK	a		a\AI---S
+343	TOK	pension		pension\N5S
+344	TOK	schemes		scheme\N5P
+345	TOK	manager		manager\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+346	TOK	Gescat		Gescat\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+347	TOK	an		an\AI---S
+348	TOK	insurance		insurance\N5S
+349	TOK	holding		hold\VMG----
+350	TOK	made		make\VMC----
+351	TOK	up		up\P
+352	TOK	of		of\P
+##	TAG	<num>
+353	TOK	three		three\X
+##	TAG	</num>
+354	TOK	companies		company\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+355	TOK	Multinacional Aseguradora		Multinacional_Aseguradora\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+356	TOK	Ascat-Vida		Ascat-Vida\N46
+##	TAG	</name>
+357	TOK	and		and\CC
+##	TAG	<name>
+358	TOK	Ascat-Previsión		Ascat-Previsión\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+359	TOK	a		a\AI---S
+360	TOK	portfolio		portfolio\N5S
+361	TOK	company		company\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+362	TOK	Invercartera		Invercartera\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+363	TOK	a		a\AI---S
+364	TOK	leasing		leasing\N5S
+365	TOK	company		company\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+366	TOK	Liscat		Liscat\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+367	TOK	a		a\AI---S
+368	TOK	factoring		factor\VMG----
+369	TOK	company		company\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+370	TOK	Factorcat		Factorcat\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+371	TOK	a		a\AI---S
+372	TOK	securities		security\N5P
+373	TOK	agency		agency\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+374	TOK	Valorcat		Valorcat\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+375	TOK	a		a\AI---S
+376	TOK	general		general\JA
+377	TOK	services		service\N5P
+378	TOK	company		company\VMF6R66
+---	DLE	(		=\DELIM
+##	TAG	<name>
+379	TOK	Servicat		Servicat\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+380	TOK	a		a\AI---S
+381	TOK	security		security\N5S
+382	TOK	company		company\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+383	TOK	Segurcat		Segurcat\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<num>
+384	TOK	two		two\X
+##	TAG	</num>
+385	TOK	real		real\JA
+---	DLI	-		=\DELIM
+386	TOK	estate		estate\N5S
+387	TOK	development		development\N5S
+388	TOK	companies		company\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+389	TOK	Procat		Procat\N46
+##	TAG	</name>
+390	TOK	and		and\CC
+##	TAG	<name>
+391	TOK	Procam		Procam\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+392	TOK	and		and\CC
+393	TOK	a		a\AI---S
+394	TOK	commercial		commercial\JA
+395	TOK	distribution		distribution\N5S
+396	TOK	company		company\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+397	TOK	Barnasud		Barnasud\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+398	TOK	Finally	BOS	finally\DGA7
+---	DLD	,		=\DELIM
+399	TOK	regarding		regarding\P
+400	TOK	the		the\AT---6
+401	TOK	annual		annual\JA
+402	TOK	contribution		contribution\N5S
+403	TOK	it		it\RPS3N6
+404	TOK	makes		make\VMFDRS3
+405	TOK	to		to\P
+406	TOK	culture		culture\N5S
+---	DLD	,		=\DELIM
+407	TOK	teaching		teach\VMG----
+---	DLD	,		=\DELIM
+408	TOK	health		health\N5S
+---	DLD	,		=\DELIM
+409	TOK	assistance		assistance\N5S
+410	TOK	and		and\CC
+411	TOK	research		research\N5S
+412	TOK	in		in\P
+413	TOK	the		the\AT---6
+414	TOK	country		country\N5S
+415	TOK	through		through\P
+416	TOK	its		its\APS3N6
+##	TAG	<name>
+417	TOK	Social Work		Social_Work\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+418	TOK	in		in\P
+##	TAG	<num>
+419	TOK	1994		1994\X
+##	TAG	</num>
+420	TOK	the		the\AT---6
+##	TAG	<name>
+421	TOK	Caixa de Catalunya		Caixa_de_Catalunya\N46
+##	TAG	</name>
+422	TOK	allocated		allocate\VMF6A66
+423	TOK	more		more\DDC7
+424	TOK	than		than\CS
+##	TAG	<num>
+425	TOK	3,000 million		3,000_million\X
+##	TAG	</num>
+426	TOK	pesetas		peseta\N5P
+427	TOK	to		to\P
+428	TOK	maintaining		maintain\VMG----
+429	TOK	its		its\APS3N6
+430	TOK	important		important\JA
+431	TOK	network		network\N5S
+432	TOK	of		of\P
+433	TOK	over		over\P
+##	TAG	<num>
+434	TOK	120		120\X
+##	TAG	</num>
+435	TOK	social		social\JA
+436	TOK	utilities		utility\N5P
+---	DLE	(		=\DELIM
+437	TOK	including		including\P
+438	TOK	more		more\DDC7
+439	TOK	than		than\CS
+##	TAG	<num>
+440	TOK	50		50\X
+##	TAG	</num>
+441	TOK	clubs		club\N5P
+442	TOK	for		for\P
+443	TOK	retired		retire\VMC----
+444	TOK	people		people\N56
+---	DLD	,		=\DELIM
+##	TAG	<num>
+445	TOK	33		33\X
+##	TAG	</num>
+446	TOK	reading		reading\N5S
+447	TOK	rooms		room\N5P
+448	TOK	and		and\CC
+##	TAG	<num>
+449	TOK	13		13\X
+##	TAG	</num>
+450	TOK	cultural		cultural\JA
+451	TOK	centres		centre\N5P
+---	DLD	)		=\DELIM
+452	TOK	and		and\CC
+453	TOK	to		to\P
+454	TOK	granting		grant\VMG----
+455	TOK	aids		aids\N5S
+456	TOK	and		and\CC
+457	TOK	subsidies		subsidy\N5P
+458	TOK	to		to\P
+459	TOK	other		other\JA
+460	TOK	public		public\JA
+461	TOK	and		and\CC
+462	TOK	private		private\JA
+463	TOK	organisations		organisation\N5P
+464	TOK	and		and\CC
+465	TOK	institutions		institution\N5P
+466	TOK	for		for\P
+467	TOK	conducting		conduct\VMG----
+468	TOK	cultural		cultural\JA
+---	DLD	,		=\DELIM
+469	TOK	educational		educational\JA
+470	TOK	and		and\CC
+471	TOK	health		health\N5S
+472	TOK	activities		activity\N5P
+473	TOK	of		of\P
+474	TOK	a		a\AI---S
+475	TOK	markedly		markedly\DGA7
+476	TOK	social		social\JA
+477	TOK	character		character\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+478	TOK	Products	BOS	product\N5P
+---	DLE	-		=\DELIM
+##	TAG	<name>
+479	TOK	Savings		Savings\N46
+##	TAG	</name>
+480	TOK	and		and\CC
+##	TAG	<name>
+481	TOK	Investment		Investment\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+482	TOK	Investment		Investment\N46
+##	TAG	</name>
+483	TOK	products	EOS	product\N5P
+##	TAG	</head>
+##	TAG	<head>
+485	TOK	Investment	BOS	investment\N5S
+486	TOK	funds	EOS	fund\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+488	TOK	These	BOS	this\RDP3N-
+489	TOK	are		be\V6FDR66
+490	TOK	investment		investment\N5S
+491	TOK	products		product\N5P
+492	TOK	in		in\P
+493	TOK	variable		variable\JA
+494	TOK	or		or\CC
+495	TOK	mixed		mix\VMC----
+496	TOK	fixed		fix\VMF6A66
+---	DLI	-		=\DELIM
+497	TOK	income		income\N5S
+498	TOK	securities		security\N5P
+499	TOK	and		and\CC
+500	TOK	stocks		stock\N5P
+501	TOK	by		by\P
+502	TOK	means		mean\N56
+503	TOK	of		of\P
+504	TOK	the		the\AT---6
+505	TOK	subscription		subscription\N5S
+506	TOK	in		in\P
+507	TOK	shares		share\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+508	TOK	Liquidity	BOS	liquidity\N5S
+509	TOK	is		be\V6FDRS3
+510	TOK	immediate		immediate\JA
+511	TOK	and		and\CC
+512	TOK	profitability		profitability\N5S
+513	TOK	depends		depend\VMFDRS3
+514	TOK	on		on\P
+515	TOK	risk		risk\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+516	TOK	The	BOS	the\AT---6
+517	TOK	funds		fund\N5P
+518	TOK	commercialised		commercialise\VMC----
+519	TOK	by		by\P
+520	TOK	the		the\AT---6
+##	TAG	<name>
+521	TOK	Caixa de Catalunya		Caixa_de_Catalunya\N46
+##	TAG	</name>
+522	TOK	can		can\VOFDR66
+523	TOK	be		be\VMI----
+524	TOK	either		either\AG---6
+##	TAG	<loc pos="JA">
+525	TOK	Spanish		spanish\JA
+##	TAG	</loc>
+526	TOK	or		or\CC
+527	TOK	foreign		foreign\JA
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+528	TOK	Spanish Investment Funds	BOS	Spanish_Investment_Funds\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<head>
+530	TOK	Foreign	BOS	foreign\JA
+##	TAG	<name>
+531	TOK	Investment Funds	EOS	Investment_Funds\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+533	TOK	Investment	BOS	investment\N5S
+534	TOK	for		for\P
+##	TAG	<num>
+535	TOK	2		2\X
+##	TAG	</num>
+536	TOK	years		year\N5P
+##	TAG	<name>
+537	TOK	DINER FIAMM	EOS	DINER_FIAMM\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+539	TOK	Investment	BOS	investment\N5S
+540	TOK	for		for\P
+##	TAG	<num>
+541	TOK	2		2\X
+##	TAG	</num>
+542	TOK	years		year\N5P
+##	TAG	<name>
+543	TOK	FORECAST FIM GLOBAL FIM INTERNACIONAL FIM	EOS	FORECAST_FIM_GLOBAL_FIM_INTERNACIONAL_FIM\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+545	TOK	FONCLIQUET	BOS	FONCLIQUET\N46
+##	TAG	</name>
+546	TOK	GT		gt\N5S
+547	TOK	EUROPE		EUROPE\N5S
+548	TOK	FUNDGT		FUNDGT\N5S
+549	TOK	INVEST		INVEST\N5S
+550	TOK	FUNDGT		FUNDGT\N5S
+551	TOK	US		US\N5S
+552	TOK	SMALL		small\N5S
+553	TOK	C.F.GT		C.F.GT\N5S
+554	TOK	DEUSTSC.FUND	EOS	DEUSTSC.FUND\N5S
+##	TAG	</head>
+##	TAG	<head>
+556	TOK	Products	BOS	product\N5P
+---	DLE	-		=\DELIM
+##	TAG	<name>
+557	TOK	Savings		Savings\N46
+##	TAG	</name>
+558	TOK	and		and\CC
+##	TAG	<name>
+559	TOK	Investment		Investment\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+560	TOK	Products		Products\N46
+##	TAG	</name>
+561	TOK	in		in\P
+562	TOK	pesetas	EOS	peseta\N5P
+##	TAG	</head>
+##	TAG	<head>
+564	TOK	Total	BOS	total\JA
+565	TOK	book	EOS	book\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+567	TOK	Current	BOS	current\JA
+568	TOK	account		account\N5S
+569	TOK	with		with\P
+570	TOK	chequebook		chequebook\N5S
+571	TOK	with		with\P
+572	TOK	numerous		numerous\JA
+573	TOK	advantages		advantage\N5P
+574	TOK	for		for\P
+575	TOK	holders		holder\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+576	TOK	Besides	BOS	besides\P
+577	TOK	the		the\AT---6
+578	TOK	conduct		conduct\N5S
+579	TOK	of		of\P
+580	TOK	normal		normal\JA
+581	TOK	current		current\JA
+582	TOK	account		account\N5S
+583	TOK	operations		operation\N5P
+---	DLD	,		=\DELIM
+584	TOK	if		if\CS
+585	TOK	determined		determine\VMC----
+586	TOK	balances		balance\N5P
+587	TOK	are		be\V6FDR66
+588	TOK	maintained		maintain\VMC----
+---	DLE	(		=\DELIM
+##	TAG	<loc pos="P">
+589	TOK	as of		as_of\P
+##	TAG	</loc>
+##	TAG	<num>
+590	TOK	250,000		250,000\X
+##	TAG	</num>
+##	TAG	<abbr>
+591	TOK	Ptas.		Ptas.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+592	TOK	interests		interest\N5P
+593	TOK	similar		similar\JA
+594	TOK	to		to\P
+595	TOK	those		that\RDP3N-
+596	TOK	of		of\P
+597	TOK	savings		saving\N5P
+598	TOK	books		book\N5P
+599	TOK	are		be\V6FDR66
+600	TOK	received		receive\VMC----
+---	DLE	(		=\DELIM
+##	TAG	<name>
+601	TOK	Standard		Standard\N46
+##	TAG	</name>
+602	TOK	rate		rate\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+603	TOK	Immediate	BOS	immediate\JA
+604	TOK	availability		availability\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+605	TOK	Easy	BOS	easy\JA
+606	TOK	to		to\P
+607	TOK	make		make\VMI----
+608	TOK	payments		payment\N5P
+609	TOK	to		to\P
+610	TOK	third		third\MOS
+611	TOK	parties		party\N5P
+---	DLD	,		=\DELIM
+612	TOK	since		since\P
+613	TOK	a		a\AI---S
+614	TOK	cheque		cheque\N5S
+615	TOK	book		book\N5S
+616	TOK	is		be\V6FDRS3
+617	TOK	provided		provide\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+618	TOK	Operations	BOS	operation\N5P
+619	TOK	are		be\V6FDR66
+620	TOK	contained		contain\VMC----
+621	TOK	in		in\P
+622	TOK	one		one\MCS
+623	TOK	pass		pass\VMF6R66
+---	DLI	-		=\DELIM
+624	TOK	book		book\N5S
+625	TOK	which		which\RW63N-
+626	TOK	also		also\DGA7
+627	TOK	works		work\VMFDRS3
+628	TOK	on		on\P
+629	TOK	the		the\AT---6
+630	TOK	automatic		automatic\JA
+631	TOK	teller		teller\N5S
+632	TOK	network		network\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+633	TOK	Access	BOS	access\N5S
+634	TOK	to		to\P
+##	TAG	<name>
+635	TOK	Caixa de Catalunya		Caixa_de_Catalunya\N46
+##	TAG	</name>
+636	TOK	services		service\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+637	TOK	Discounts	BOS	discount\N5P
+638	TOK	on		on\P
+639	TOK	travel		travel\N5S
+640	TOK	and		and\CC
+641	TOK	shows		show\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+642	TOK	Insurance	BOS	insurance\N5S
+643	TOK	coverage		coverage\N5S
+---	DLE	(		=\DELIM
+644	TOK	emergency		emergency\N5S
+645	TOK	home		home\N5S
+646	TOK	service		service\N5S
+---	DLD	,		=\DELIM
+647	TOK	emergency		emergency\N5S
+648	TOK	travel		travel\N5S
+649	TOK	service		service\N5S
+---	DLD	)		=\DELIM
+650	TOK	for		for\P
+651	TOK	the		the\AT---6
+652	TOK	holders		holder\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+653	TOK	Immediate	BOS	immediate\JA
+654	TOK	credit		credit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	</div1>

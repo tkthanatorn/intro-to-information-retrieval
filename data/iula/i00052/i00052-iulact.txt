@@ -1,0 +1,4315 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<date pos="T" ISO8601="1996-03-">
+1	TOK	March 1996	BOS	March_1996\T
+##	TAG	</date>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+2	TOK	Reviews		Reviews\N46
+##	TAG	</name>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+3	TOK	Compiling Convenience		Compiling_Convenience\N46
+##	TAG	</name>
+4	TOK	+	EOS	plus\N5S
+##	TAG	</head>
+##	TAG	<head>
+6	TOK	Compiling	BOS	compile\VMG----
+##	TAG	<name>
+7	TOK	Convenience		Convenience\N46
+##	TAG	</name>
+8	TOK	+	EOS	plus\N5S
+##	TAG	</head>
+##	TAG	<head>
+10	TOK	We	BOS	we\RPP1NN
+11	TOK	rounded		round\VMF6A66
+12	TOK	up		up\P
+##	TAG	<name>
+13	TOK	DOS/Windows		DOS/Windows\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+14	TOK	based		base\VMC----
+15	TOK	C++		C++\N5S
+16	TOK	compilers		compiler\N5P
+17	TOK	and		and\CC
+18	TOK	found		find\VMF6A66
+##	TAG	<name>
+19	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+20	TOK	and		and\CC
+##	TAG	<name>
+21	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+22	TOK	are		be\V6FDR66
+23	TOK	tops		tops\JA
+---	DLD	,		=\DELIM
+24	TOK	but		but\CC
+25	TOK	where		where\DGAW
+26	PGR	's		be\V6FDRS3
+##	TAG	<name>
+27	TOK	Borland		Borland\N46
+##	TAG	</name>
+28	PGR	's		genmark\GENMARK
+29	TOK	upgrade		upgrade\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<head>
+30	TOK	Rick	BOS	rick\N5S
+##	TAG	<name>
+31	TOK	Grehan	EOS	Grehan\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+33	TOK	You	BOS	you\RP62N6
+34	TOK	don		do\V6FDR66
+35	PGR	't		not\DGA7
+36	TOK	just		just\DGA7
+37	TOK	buy		buy\VMF6R66
+38	TOK	a		a\AI---S
+39	TOK	C++		C++\N5S
+40	TOK	compiler		compiler\N5S
+41	TOK	anymore		anymore\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+42	TOK	Well	BOS	well\DGA7
+---	DLD	,		=\DELIM
+43	TOK	you		you\RP62N6
+44	TOK	can		can\VOFDR66
+---	DLD	,		=\DELIM
+45	TOK	but		but\CC
+46	TOK	in		in\P
+47	TOK	these		this\AD---P
+48	TOK	days		day\N5P
+49	TOK	of		of\P
+50	TOK	rampantly		rampantly\DGA7
+51	TOK	spreading		spread\VMG----
+52	TOK	windowing		windowing\N5S
+53	TOK	operating		operating\JA
+54	TOK	systems		system\N5P
+---	DLD	,		=\DELIM
+55	TOK	you		you\RP62N6
+56	TOK	wouldn		would\VOFDA66
+57	PGR	't		not\DGA7
+58	TOK	want		want\N5S
+59	TOK	to		to\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+60	TOK	The	BOS	the\AT---6
+61	TOK	actual		actual\JA
+62	TOK	compilation		compilation\N5S
+63	TOK	of		of\P
+64	TOK	C		c\N5S
+65	TOK	or		or\CC
+66	TOK	C++		C++\N5S
+67	TOK	source		source\N5S
+68	TOK	code		code\N5S
+69	TOK	into		into\P
+70	TOK	a		a\AI---S
+71	TOK	final		final\JA
+72	TOK	application		application\N5S
+73	TOK	is		be\V6FDRS3
+74	TOK	just		just\DGA7
+75	TOK	one		one\MCS
+76	TOK	in		in\P
+77	TOK	a		a\AI---S
+78	TOK	series		series\N56
+79	TOK	of		of\P
+80	TOK	operations		operation\N5P
+---	DLD	,		=\DELIM
+81	TOK	some		some\AG---6
+82	TOK	of		of\P
+83	TOK	which		which\RW63N-
+84	TOK	can		can\VOFDR66
+85	TOK	be		be\VMI----
+86	TOK	more		more\DDC7
+87	TOK	complicated		complicate\VMC----
+88	TOK	than		than\CS
+89	TOK	the		the\AT---6
+90	TOK	compilation		compilation\N5S
+91	TOK	itself		itself\RXS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+92	TOK	Hence	BOS	hence\DGA7
+---	DLD	,		=\DELIM
+93	TOK	the		the\AT---6
+94	TOK	C++		C++\N5S
+95	TOK	compiler		compiler\N5S
+96	TOK	becomes		become\VMFDRS3
+97	TOK	just		just\DGA7
+98	TOK	one		one\MCS
+99	TOK	piece		piece\N5S
+100	TOK	of		of\P
+101	TOK	an		an\AI---S
+102	TOK	environment		environment\N5S
+---	DLE	,		=\DELIM
+103	TOK	a		a\AI---S
+104	TOK	coordinated		coordinate\VMC----
+105	TOK	collection		collection\N5S
+106	TOK	of		of\P
+107	TOK	tools		tool\N5P
+108	TOK	that		that\RW63N6
+109	TOK	can		can\VOFDR66
+110	TOK	include		include\VMI----
+111	TOK	text		text\N5S
+112	TOK	editor		editor\N5S
+---	DLD	,		=\DELIM
+113	TOK	browser		browser\N5S
+---	DLD	,		=\DELIM
+114	TOK	debugger		debugger\N5S
+---	DLD	,		=\DELIM
+115	TOK	profiler		profiler\N5S
+---	DLD	,		=\DELIM
+116	TOK	resource		resource\N5S
+117	TOK	editor		editor\N5S
+---	DLD	,		=\DELIM
+118	TOK	and		and\CC
+119	TOK	so		so\DGA7
+120	TOK	many		many\AI---P
+121	TOK	others		other\RIP3N-
+122	TOK	that		that\RW63N6
+123	TOK	all		all\AG---6
+124	TOK	the		the\AT---6
+125	TOK	icons		icon\N5P
+126	TOK	barely		barely\DGA7
+127	TOK	fit		fit\VMF6R66
+128	TOK	on		on\P
+129	TOK	even		even\DGA7
+130	TOK	the		the\AT---6
+131	TOK	biggest		big\JS
+132	TOK	screen		screen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+133	TOK	In	BOS	in\P
+134	TOK	this		this\AD---S
+135	TOK	roundup		roundup\N5S
+---	DLD	,		=\DELIM
+136	TOK	we		we\RPP1NN
+137	TOK	examine		examine\VMF6R66
+##	TAG	<num>
+138	TOK	five		five\X
+##	TAG	</num>
+139	TOK	C++		C++\N5S
+140	TOK	environments		environment\N5P
+141	TOK	targeted		target\VMC----
+142	TOK	for		for\P
+143	TOK	the		the\AT---6
+##	TAG	<name>
+144	TOK	Windows		Windows\N46
+##	TAG	</name>
+145	TOK	platform		platform\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+146	TOK	Microsoft	BOS	Microsoft\N46
+##	TAG	</name>
+147	PGR	's		genmark\GENMARK
+##	TAG	<name>
+148	TOK	Visual		Visual\N46
+##	TAG	</name>
+149	TOK	C++		C++\N5P
+##	TAG	<num>
+150	TOK	4.0		4.0\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+151	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+152	PGR	's		genmark\GENMARK
+153	TOK	C/C++		C/C++\N5P
+##	TAG	<num>
+154	TOK	10.5		10.5\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+155	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+156	PGR	's		genmark\GENMARK
+157	TOK	C++		C++\N5P
+##	TAG	<num>
+158	TOK	7.2		7.2\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+159	TOK	and		and\CC
+##	TAG	<name>
+160	TOK	MetaWare		MetaWare\N46
+##	TAG	</name>
+161	PGR	's		genmark\GENMARK
+##	TAG	<name>
+162	TOK	High		High\N46
+##	TAG	</name>
+163	TOK	C/C++		C/C++\N5P
+##	TAG	<num>
+164	TOK	3.31		3.31\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+165	TOK	We	BOS	we\RPP1NN
+166	TOK	also		also\DGA7
+167	TOK	look		look\VMF6R66
+168	TOK	briefly		briefly\DGA7
+169	TOK	at		at\P
+##	TAG	<name>
+170	TOK	Borland		Borland\N46
+##	TAG	</name>
+171	PGR	's		genmark\GENMARK
+172	TOK	C++		C++\N5P
+##	TAG	<num>
+173	TOK	4.53		4.53\X
+##	TAG	</num>
+---	DLD	;		=\DELIM
+174	TOK	briefly		briefly\DGA7
+175	TOK	because		because\CS
+176	TOK	this		this\AD---S
+177	TOK	article		article\N5S
+178	TOK	went		go\VMF6A66
+179	TOK	to		to\P
+180	TOK	press		press\N5S
+181	TOK	at		at\P
+182	TOK	a		a\AI---S
+183	TOK	cusp		cusp\N5S
+184	TOK	in		in\P
+##	TAG	<name>
+185	TOK	Borland		Borland\N46
+##	TAG	</name>
+186	TOK	compiler		compiler\N5S
+187	TOK	development		development\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+188	TOK	Borland	BOS	Borland\N46
+##	TAG	</name>
+##	TAG	<num>
+189	TOK	5.0		5.0\X
+##	TAG	</num>
+190	TOK	was		be\V6F-A66
+191	TOK	just		just\DGA7
+192	TOK	around		around\P
+193	TOK	the		the\AT---6
+194	TOK	corner		corner\N5S
+195	TOK	but		but\CC
+196	TOK	not		not\DGA7
+197	TOK	shipping		ship\VMG----
+198	TOK	in		in\P
+199	TOK	time		time\N5S
+200	TOK	for		for\P
+201	TOK	us		us\RPP1NA
+202	TOK	to		to\P
+203	TOK	review		review\VMI----
+204	TOK	it		it\RPS3N6
+---	DLE	(		=\DELIM
+205	TOK	the		the\AT---6
+206	TOK	package		package\N5S
+207	TOK	will		will\VOFDR66
+208	TOK	likely		likely\DGA7
+209	TOK	be		be\VMI----
+210	TOK	available		available\JA
+211	TOK	by		by\P
+212	TOK	the		the\AT---6
+213	TOK	time		time\N5S
+214	TOK	you		you\RP62N6
+215	TOK	read		read\VMF6R66
+216	TOK	this		this\AD---S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+217	TOK	Common	BOS	common\JA
+##	TAG	<name>
+218	TOK	Ground	EOS	Ground\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+220	TOK	Hard	BOS	hard\JA
+221	TOK	as		as\P
+222	TOK	the		the\AT---6
+223	TOK	designers		designer\N5P
+224	TOK	try		try\VMF6R66
+225	TOK	to		to\P
+226	TOK	differentiate		differentiate\VMI----
+227	TOK	their		their\APP3N6
+228	TOK	products		product\N5P
+---	DLD	,		=\DELIM
+229	TOK	most		most\DDS7
+230	TOK	everyone		everyone\RIS3N-
+---	DLE	(		=\DELIM
+##	TAG	<loc pos="P">
+231	TOK	except for		except_for\P
+##	TAG	</loc>
+##	TAG	<name>
+232	TOK	MetaWare		MetaWare\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+233	TOK	provides		provide\VMFDRS3
+234	TOK	a		a\AI---S
+235	TOK	browser		browser\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+236	TOK	Visual	BOS	visual\JA
+237	TOK	C++		C++\N5S
+238	PGR	's		genmark\GENMARK
+239	TOK	browser		browser\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+240	TOK	ClassView		ClassView\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+241	TOK	employs		employ\VMFDRS3
+242	TOK	the		the\AT---6
+243	TOK	expandable		expandable\JA
+---	DLI	-		=\DELIM
+244	TOK	tree		tree\N5S
+245	TOK	format		format\N5S
+246	TOK	common		common\JA
+247	TOK	to		to\P
+##	TAG	<name>
+248	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+249	TOK	95		95\X
+##	TAG	</num>
+250	TOK	and		and\CC
+251	TOK	is		be\V6FDRS3
+252	TOK	only		only\DGA7
+253	TOK	one		one\MCS
+---	DLE	"		=\DELIM
+254	TOK	view		view\N5S
+---	DLD	"		=\DELIM
+255	TOK	into		into\P
+256	TOK	the		the\AT---6
+257	TOK	application		application\N5S
+258	TOK	under		under\P
+##	TAG	<abbr>
+259	TOK	construction.		construction.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+260	TOK	Another		Another\N5S
+261	TOK	view		view\N5S
+262	TOK	provides		provide\VMFDRS3
+263	TOK	a		a\AI---S
+264	TOK	similar		similar\JA
+265	TOK	tree		tree\N5S
+266	TOK	whose		whose\AW---6
+267	TOK	leaves		leaf\N5P
+268	TOK	are		be\V6FDR66
+269	TOK	the		the\AT---6
+270	TOK	source		source\N5S
+271	TOK	code		code\N5S
+##	TAG	<abbr>
+272	TOK	files.		files.\N5P
+##	TAG	</abbr>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+273	TOK	Symantec	BOS	Symantec\N46
+##	TAG	</name>
+274	PGR	's		genmark\GENMARK
+275	TOK	browser		browser\N5S
+276	TOK	arises		arise\VMFDRS3
+##	TAG	<loc pos="P">
+277	TOK	out of		out_of\P
+##	TAG	</loc>
+278	TOK	the		the\AT---6
+279	TOK	teamwork		teamwork\N5S
+280	TOK	of		of\P
+281	TOK	the		the\AT---6
+282	TOK	hierarchy		hierarchy\N5S
+283	TOK	editor		editor\N5S
+284	TOK	and		and\CC
+285	TOK	the		the\AT---6
+286	TOK	class		class\N5S
+287	TOK	editor		editor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+288	TOK	The	BOS	the\AT---6
+289	TOK	former		former\JA
+290	TOK	is		be\V6FDRS3
+291	TOK	a		a\AI---S
+292	TOK	tree		tree\N5S
+---	DLI	-		=\DELIM
+293	TOK	like		like\P
+294	TOK	view		view\N5S
+295	TOK	into		into\P
+296	TOK	class		class\N5S
+297	TOK	hierarchy		hierarchy\N5S
+---	DLD	,		=\DELIM
+298	TOK	the		the\AT---6
+299	TOK	latter		latter\JC
+300	TOK	is		be\V6FDRS3
+301	TOK	a		a\AI---S
+##	TAG	<name>
+302	TOK	Smalltalkish		Smalltalkish\N46
+##	TAG	</name>
+303	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+304	TOK	pane		pane\N5S
+305	TOK	editor		editor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+306	TOK	Both	BOS	both\RIP3N-
+##	TAG	<name>
+307	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+308	TOK	and		and\CC
+##	TAG	<name>
+309	TOK	Visual		Visual\N46
+##	TAG	</name>
+310	TOK	C++		C++\N5P
+311	TOK	do		do\V6FDR66
+312	TOK	parsing		parse\VMG----
+313	TOK	work		work\N5S
+314	TOK	in		in\P
+315	TOK	the		the\AT---6
+316	TOK	background		background\N5S
+317	TOK	even		even\DGA7
+318	TOK	before		before\P
+319	TOK	you		you\RP62N6
+320	PGR	've		have\V6FDR66
+321	TOK	done		do\VMC----
+322	TOK	any		any\AG---6
+323	TOK	compilation		compilation\N5S
+---	DLD	,		=\DELIM
+324	TOK	which		which\RW63N-
+325	TOK	means		mean\VMFDRS3
+326	TOK	that		that\CS
+327	TOK	once		once\DGA7
+328	TOK	source		source\N5S
+329	TOK	files		file\N5P
+330	TOK	are		be\V6FDR66
+331	TOK	in		in\P
+332	TOK	your		your\AP62N6
+##	TAG	<name>
+333	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+334	TOK	project		project\N5S
+---	DLD	,		=\DELIM
+335	TOK	you		you\RP62N6
+336	TOK	can		can\VOFDR66
+337	TOK	begin		begin\VMI----
+338	TOK	using		use\VMG----
+339	TOK	the		the\AT---6
+340	TOK	hierarchy		hierarchy\N5S
+341	TOK	editor		editor\N5S
+342	TOK	and		and\CC
+343	TOK	the		the\AT---6
+344	TOK	class		class\N5S
+345	TOK	editor		editor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+346	TOK	Watcom	BOS	Watcom\N46
+##	TAG	</name>
+347	PGR	's		genmark\GENMARK
+348	TOK	browser		browser\N5S
+349	TOK	is		be\V6FDRS3
+350	TOK	more		more\DDC7
+351	TOK	sedate		sedate\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+352	TOK	It	BOS	it\RPS3N6
+353	PGR	's		be\V6FDRS3
+354	TOK	a		a\AI---S
+355	TOK	separate		separate\JA
+356	TOK	application		application\N5S
+357	TOK	that		that\RW63N6
+358	TOK	you		you\RP62N6
+359	TOK	can		can\VOFDR66
+360	TOK	nonetheless		nonetheless\DGA7
+361	TOK	launch		launch\VMI----
+362	TOK	from		from\P
+363	TOK	within		within\P
+364	TOK	the		the\AT---6
+365	TOK	integrated		integrate\VMC----
+366	TOK	development		development\N5S
+367	TOK	environment		environment\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+368	TOK	IDE		IDE\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+370	TOK	It	BOS	it\RPS3N6
+371	TOK	reads		read\VMFDRS3
+372	TOK	a		a\AI---S
+373	TOK	browse		browse\N5S
+374	TOK	database		database\N5S
+375	TOK	created		create\VMC----
+376	TOK	during		during\P
+377	TOK	compilation		compilation\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+378	TOK	provided		provide\VMF6A66
+379	TOK	you		you\RP62N6
+380	PGR	've		have\V6FDR66
+381	TOK	set		set\N5S
+382	TOK	the		the\AT---6
+383	TOK	appropriate		appropriate\JA
+384	TOK	option		option\N5S
+385	TOK	in		in\P
+386	TOK	the		the\AT---6
+387	TOK	project		project\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+388	TOK	Watcom	BOS	Watcom\N46
+##	TAG	</name>
+389	PGR	's		genmark\GENMARK
+390	TOK	browser		browser\N5S
+391	TOK	is		be\V6FDRS3
+392	TOK	like		like\P
+##	TAG	<name>
+393	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+394	PGR	's		genmark\GENMARK
+395	TOK	hierarchy		hierarchy\N5S
+396	TOK	editor		editor\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+397	TOK	It	BOS	it\RPS3N6
+398	TOK	lets		let\VMFDRS3
+399	TOK	you		you\RP62N6
+400	TOK	go		go\VMI----
+401	TOK	from		from\P
+402	TOK	an		an\AI---S
+403	TOK	element		element\N5S
+404	TOK	in		in\P
+405	TOK	the		the\AT---6
+406	TOK	browser		browser\N5S
+407	TOK	window		window\N5S
+408	TOK	to		to\P
+409	TOK	the		the\AT---6
+410	TOK	location		location\N5S
+411	TOK	in		in\P
+412	TOK	the		the\AT---6
+413	TOK	source		source\N5S
+414	TOK	files		file\N5P
+415	TOK	where		where\CS
+416	TOK	that		that\AD---S
+417	TOK	element		element\N5S
+418	TOK	is		be\V6FDRS3
+419	TOK	defined		define\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+420	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+421	TOK	this		this\RDS3N-
+422	TOK	requires		require\VMFDRS3
+423	TOK	the		the\AT---6
+##	TAG	<name>
+424	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+425	TOK	system		system\N5S
+426	TOK	to		to\P
+427	TOK	call		call\VMI----
+428	TOK	the		the\AT---6
+429	TOK	editor		editor\N5S
+430	TOK	up		up\P
+---	DLD	;		=\DELIM
+##	TAG	<name>
+431	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+432	TOK	and		and\CC
+##	TAG	<name>
+433	TOK	Visual		Visual\N46
+##	TAG	</name>
+434	TOK	C++		C++\N5P
+435	TOK	are		be\V6FDR66
+436	TOK	better		better\DDC7
+437	TOK	integrated		integrate\VMC----
+438	TOK	in		in\P
+439	TOK	this		this\AD---S
+440	TOK	regard		regard\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+441	TOK	MetaWare High	BOS	MetaWare_High\N46
+##	TAG	</name>
+442	TOK	C/C++		C/C++\N5P
+##	TAG	<num>
+443	TOK	3.31	EOS	3.31\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+445	TOK	Advantages:xs	BOS	Advantages\N5P
+tf	TOK		EOS	=\DELS
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+447	TOK	Consumes	BOS	consume\VMFDRS3
+448	TOK	only		only\DGA7
+##	TAG	<num>
+449	TOK	15		15\X
+##	TAG	</num>
+##	TAG	<name>
+450	TOK	MB		MB\N46
+##	TAG	</name>
+451	TOK	of		of\P
+452	TOK	disk		disk\N5S
+453	TOK	space		space\N5S
+---	DLE	(		=\DELIM
+454	TOK	actually		actually\DGA7
+455	TOK	comes		come\VMFDRS3
+456	TOK	on		on\P
+457	TOK	floppies		floppy\N5P
+---	DLD	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+458	TOK	Compiler	BOS	compiler\N5S
+459	TOK	is		be\V6FDRS3
+460	TOK	synchronized		synchronize\VMC----
+461	TOK	with		with\P
+462	TOK	the		the\AT---6
+463	TOK	latest		late\JS
+##	TAG	<name>
+464	TOK	ANSI		ANSI\N46
+##	TAG	</name>
+465	TOK	specifications	EOS	specification\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+467	TOK	Free	BOS	free\JA
+468	TOK	technical		technical\JA
+469	TOK	support	EOS	support\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+471	TOK	Disadvantages	BOS	disadvantage\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+472	TOK	A	BOS	a\AI---S
+473	TOK	command		command\N5S
+---	DLI	-		=\DELIM
+474	TOK	line		line\N5S
+475	TOK	product		product\N5S
+---	DLD	,		=\DELIM
+476	TOK	it		it\RPS3N6
+477	TOK	lacks		lack\VMFDRS3
+478	TOK	an		an\AI---S
+479	TOK	integrated		integrate\VMC----
+480	TOK	development		development\N5S
+481	TOK	environment	EOS	environment\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+482	TOK	Limited	BOS	limit\VMC----
+483	TOK	platform		platform\N5S
+484	TOK	support		support\VMF6R66
+---	DLD	;		=\DELIM
+##	TAG	<abbr>
+485	TOK	e.g.		e.g.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+486	TOK	it		it\RPS3N6
+487	TOK	can		can\V6FDR66
+488	PGR	't		not\DGA7
+489	TOK	create		create\VMF6R66
+490	TOK	a		a\AI---S
+##	TAG	<name>
+491	TOK	Windows NT		Windows_NT\N46
+##	TAG	</name>
+492	TOK	target	EOS	target\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+493	TOK	Needs	BOS	need\VMFDRS3
+494	TOK	additional		additional\JA
+495	TOK	components		component\N5P
+496	TOK	to		to\P
+497	TOK	make		make\VMI----
+498	TOK	a		a\AI---S
+499	TOK	complete		complete\JA
+500	TOK	development		development\N5S
+501	TOK	system	EOS	system\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+503	TOK	When	BOS	when\CS
+504	TOK	it		it\RPS3N6
+505	TOK	comes		come\VMFDRS3
+506	TOK	to		to\P
+507	TOK	the		the\AT---6
+##	TAG	<name>
+508	TOK	High C		High_C\N46
+##	TAG	</name>
+509	TOK	compiler		compiler\N5S
+---	DLD	,		=\DELIM
+510	TOK	everything		everything\RIS3N-
+511	TOK	we		we\RPP1NN
+512	PGR	've		have\V6FDR66
+513	TOK	said		say\VMC----
+##	TAG	<loc pos="DGA7">
+514	TOK	so far		so_far\DGA7
+##	TAG	</loc>
+515	TOK	about		about\P
+##	TAG	<name>
+516	TOK	IDEs		IDEs\N46
+##	TAG	</name>
+517	TOK	goes		go\VMFDRS3
+##	TAG	<loc pos="JA">
+518	TOK	out the window		out_the_window\JA
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+519	TOK	High	BOS	high\JA
+520	TOK	C		c\N5S
+521	TOK	is		be\V6FDRS3
+522	TOK	purely		purely\DGA7
+523	TOK	a		a\AI---S
+524	TOK	set		set\N5S
+525	TOK	of		of\P
+526	TOK	command		command\N5S
+---	DLI	-		=\DELIM
+527	TOK	line		line\N5S
+528	TOK	tools		tool\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+529	TOK	Admittedly	BOS	admittedly\DGA7
+---	DLD	,		=\DELIM
+530	TOK	the		the\AT---6
+531	TOK	editor		editor\N5S
+532	TOK	is		be\V6FDRS3
+533	TOK	window		window\N5S
+---	DLI	-		=\DELIM
+534	TOK	based		base\VMF6A66
+---	DLD	,		=\DELIM
+535	TOK	as		as\DGA7
+536	TOK	is		be\V6FDRS3
+537	TOK	the		the\AT---6
+538	TOK	debugger		debugger\N5S
+---	DLD	,		=\DELIM
+539	TOK	but		but\CC
+540	TOK	it		it\RPS3N6
+541	PGR	's		be\V6FDRS3
+542	TOK	window		window\N5S
+543	TOK	with		with\P
+544	TOK	a		a\AI---S
+545	TOK	small		small\JA
+546	TOK	w		w\N5S
+---	DLE	-		=\DELIM
+---	DLD	-		=\DELIM
+547	TOK	character		character\N5S
+548	TOK	graphics		graphic\N56
+549	TOK	only		only\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+550	TOK	We	BOS	we\RPP1NN
+551	TOK	'd		'd\N5S
+552	TOK	like		like\P
+553	TOK	to		to\P
+554	TOK	call		call\VMI----
+555	TOK	it		it\RPS3N6
+556	TOK	charmingly		charmingly\DGA7
+557	TOK	primitive		primitive\JA
+---	DLD	,		=\DELIM
+558	TOK	but		but\CC
+559	TOK	it		it\RPS3N6
+560	TOK	doesn		do\V6FDRS3
+561	PGR	't		not\DGA7
+562	TOK	take		take\VMF6R66
+563	TOK	long		long\DGA7
+564	TOK	for		for\P
+565	TOK	the		the\AT---6
+566	TOK	charm		charm\N5S
+567	TOK	to		to\P
+568	TOK	evaporate		evaporate\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+569	TOK	High	BOS	high\JA
+570	TOK	C		C\N5P
+571	TOK	doesn		do\V6FDRS3
+572	PGR	't		not\DGA7
+573	TOK	even		even\DGA7
+574	TOK	come		come\VMF6R66
+575	TOK	with		with\P
+576	TOK	its		its\APS3N6
+577	TOK	own		own\JA
+578	TOK	linker		linker\N5S
+---	DLD	,		=\DELIM
+579	TOK	for		for\P
+580	TOK	crying		cry\VMG----
+581	TOK	out		out\DGA7
+582	TOK	loud		loud\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+583	TOK	MetaWare	BOS	MetaWare\N46
+##	TAG	</name>
+584	TOK	offers		offer\VMFDRS3
+585	TOK	an		an\AI---S
+586	TOK	optional		optional\JA
+587	TOK	one		one\RIS3N-
+588	TOK	for		for\P
+589	TOK	free		free\JA
+---	DLD	,		=\DELIM
+590	TOK	but		but\CC
+591	TOK	it		it\RPS3N6
+592	TOK	creates		create\VMFDRS3
+593	TOK	only		only\DGA7
+##	TAG	<name>
+594	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+595	TOK	3		3\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+596	TOK	x-compatible		x-compatible\JA
+597	TOK	executables		executable\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+598	TOK	Can	BOS	can\VOFDR66
+599	TOK	you		you\RP62N6
+600	TOK	build		build\VMF6R66
+601	TOK	a		a\AI---S
+##	TAG	<num>
+602	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+603	TOK	bit		bit\N5S
+##	TAG	<name>
+604	TOK	Windows		Windows\N46
+##	TAG	</name>
+605	TOK	application		application\N5S
+606	TOK	with		with\P
+##	TAG	<name>
+607	TOK	High C		High_C\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+609	TOK	Certainly	BOS	certainly\DGA7
+610	TOK	you		you\RP62N6
+611	TOK	can		can\VOFDR66
+---	DLD	,		=\DELIM
+612	TOK	but		but\CC
+613	TOK	you		you\RP62N6
+614	TOK	can		can\VOFDR66
+615	TOK	also		also\DGA7
+616	TOK	use		use\VMI----
+617	TOK	a		a\AI---S
+618	TOK	shovel		shovel\N5S
+##	TAG	<loc pos="CS">
+619	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+620	TOK	a		a\AI---S
+621	TOK	snow		snow\N5S
+622	TOK	blower		blower\N5S
+623	TOK	to		to\P
+624	TOK	clear		clear\VMI----
+625	TOK	your		your\AP62N6
+626	TOK	driveway		driveway\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+627	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+628	TOK	the		the\AT---6
+##	TAG	<num>
+629	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+630	TOK	bit		bit\N5S
+631	TOK	application		application\N5S
+632	TOK	you		you\RP62N6
+633	PGR	'll		will\VOFDR66
+634	TOK	build		build\N5S
+635	TOK	will		will\VOFDR66
+636	TOK	not		not\DGA7
+637	TOK	be		be\VMI----
+638	TOK	a		a\AI---S
+##	TAG	<name>
+639	TOK	Win32		Win32\N46
+##	TAG	</name>
+640	TOK	app		app\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+641	TOK	MetaWare	BOS	MetaWare\N46
+##	TAG	</name>
+642	TOK	supplies		supply\VMFDRS3
+643	TOK	its		its\APS3N6
+644	TOK	own		own\JA
+---	DLE	"		=\DELIM
+645	TOK	supervisor		supervisor\N5S
+---	DLD	,		=\DELIM
+---	DLD	"		=\DELIM
+646	TOK	a		a\AI---S
+647	TOK	program		program\N5S
+648	TOK	that		that\RW63N6
+649	TOK	acts		act\VMFDRS3
+650	TOK	as		as\CS
+651	TOK	an		an\AI---S
+652	TOK	intermediary		intermediary\N5S
+653	TOK	between		between\P
+654	TOK	the		the\AT---6
+##	TAG	<num>
+655	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+656	TOK	bit		bit\N5S
+657	TOK	code		code\N5S
+658	TOK	of		of\P
+659	TOK	your		your\AP62N6
+660	TOK	program		program\N5S
+661	TOK	and		and\CC
+##	TAG	<num>
+662	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+663	TOK	bit		bit\N5S
+##	TAG	<name>
+664	TOK	Windows		Windows\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+665	TOK	Therefore	BOS	therefore\DGA7
+---	DLD	,		=\DELIM
+666	TOK	the		the\AT---6
+667	TOK	target		target\N5S
+668	TOK	is		be\V6FDRS3
+669	TOK	really		really\DGA7
+##	TAG	<name>
+670	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+671	TOK	3		3\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+672	TOK	x		x\N5S
+---	DLD	,		=\DELIM
+673	TOK	not		not\DGA7
+##	TAG	<name>
+674	TOK	Windows NT		Windows_NT\N46
+##	TAG	</name>
+675	TOK	or		or\CC
+##	TAG	<num>
+676	TOK	95		95\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+677	TOK	High	BOS	high\JA
+678	TOK	C/C++		C/C++\N5S
+679	TOK	does		do\V6FDRS3
+680	TOK	have		have\VMI----
+681	TOK	some		some\AG---6
+682	TOK	positive		positive\JA
+683	TOK	attributes		attribute\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+684	TOK	MetaWare	BOS	MetaWare\N46
+##	TAG	</name>
+685	TOK	has		have\V6FDRS3
+686	TOK	worked		work\VMC----
+687	TOK	to		to\P
+688	TOK	keep		keep\VMI----
+689	TOK	the		the\AT---6
+690	TOK	compiler		compiler\N5S
+691	TOK	up		up\P
+692	TOK	to		to\P
+693	TOK	the		the\AT---6
+694	TOK	latest		late\JS
+##	TAG	<name>
+695	TOK	ANSI		ANSI\N46
+##	TAG	</name>
+696	TOK	C++		C++\N5S
+697	TOK	standards		standard\N5P
+---	DLD	,		=\DELIM
+698	TOK	including		including\P
+699	TOK	exception		exception\N5S
+700	TOK	handling		handle\VMG----
+---	DLD	,		=\DELIM
+701	TOK	run		run\VMF6R66
+---	DLI	-		=\DELIM
+702	TOK	time		time\N5S
+703	TOK	type		type\N5S
+704	TOK	information		information\N5S
+---	DLD	,		=\DELIM
+705	TOK	namespaces		namespace\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+706	TOK	and so on		and_so_on\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+707	TOK	And	BOS	and\CC
+##	TAG	<name>
+708	TOK	MetaWare		MetaWare\N46
+##	TAG	</name>
+709	TOK	bundles		bundle\VMFDRS3
+710	TOK	in		in\P
+##	TAG	<name>
+711	TOK	Rogue Wave Software		Rogue_Wave_Software\N46
+##	TAG	</name>
+712	PGR	's		genmark\GENMARK
+713	TOK	impressive		impressive\JA
+##	TAG	<name>
+714	TOK	Tools		Tools\N46
+##	TAG	</name>
+715	TOK	.h++		.h++\N5S
+716	TOK	class		class\N5S
+717	TOK	library		library\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+718	TOK	This	BOS	this\AD---S
+719	TOK	library		library\N5S
+720	TOK	easily		easily\DGA7
+721	TOK	supports		support\VMFDRS3
+722	TOK	multithreaded		multithreaded\JA
+723	TOK	applications		application\N5P
+724	TOK	and		and\CC
+725	TOK	provides		provide\VMFDRS3
+726	TOK	classes		class\N5P
+727	TOK	to		to\P
+728	TOK	handle		handle\VMI----
+729	TOK	persistent		persistent\JA
+730	TOK	storage		storage\N5S
+---	DLD	,		=\DELIM
+731	TOK	a		a\AI---S
+732	TOK	set		set\N5S
+733	TOK	of		of\P
+734	TOK	collections		collection\N5P
+735	TOK	classes		class\N5P
+736	TOK	built		build\VMC----
+737	TOK	on		on\P
+738	TOK	the		the\AT---6
+##	TAG	<name>
+739	TOK	Smalltalk		Smalltalk\N46
+##	TAG	</name>
+740	TOK	model		model\N5S
+---	DLD	,		=\DELIM
+741	TOK	and		and\CC
+742	TOK	even		even\DGA7
+##	TAG	<name>
+743	TOK	Windows		Windows\N46
+##	TAG	</name>
+744	TOK	support		support\N5S
+745	TOK	with		with\P
+##	TAG	<na type="function">
+746	TOK	I/O		noanat\W
+##	TAG	</na>
+747	TOK	classes		class\N5P
+748	TOK	to		to\P
+749	TOK	manage		manage\VMI----
+750	TOK	the		the\AT---6
+751	TOK	clipboard		clipboard\N5S
+752	TOK	and		and\CC
+##	TAG	<name>
+753	TOK	DDE		DDE\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+754	TOK	There	BOS	there\DGA7
+755	PGR	's		be\V6FDRS3
+756	TOK	also		also\DGA7
+757	TOK	a		a\AI---S
+##	TAG	<name>
+758	TOK	DLL		DLL\N46
+##	TAG	</name>
+759	TOK	version		version\N5S
+760	TOK	of		of\P
+761	TOK	the		the\AT---6
+762	TOK	library		library\N5S
+763	TOK	that		that\RW63N6
+764	TOK	reduces		reduce\VMFDRS3
+765	TOK	the		the\AT---6
+766	TOK	size		size\N5S
+767	TOK	of		of\P
+768	TOK	your		your\AP62N6
+769	TOK	executable		executable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+770	TOK	High	BOS	high\JA
+771	TOK	C/C++		C/C++\N5S
+772	TOK	comes		come\VMFDRS3
+773	TOK	with		with\P
+774	TOK	free		free\JA
+775	TOK	technical		technical\JA
+776	TOK	support		support\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+777	TOK	And	BOS	and\CC
+778	TOK	it		it\RPS3N6
+779	PGR	's		be\V6FDRS3
+780	TOK	no		no\AI---6
+781	TOK	small		small\JA
+782	TOK	accomplishment		accomplishment\N5S
+783	TOK	that		that\CS
+784	TOK	the		the\AT---6
+785	TOK	compiler		compiler\N5S
+786	TOK	arrives		arrive\VMFDRS3
+787	TOK	on		on\P
+##	TAG	<num>
+788	TOK	six		six\X
+##	TAG	</num>
+789	TOK	high		high\JA
+---	DLI	-		=\DELIM
+790	TOK	density		density\N5S
+791	TOK	floppy		floppy\JA
+792	TOK	disks		disk\N5P
+793	TOK	and		and\CC
+794	TOK	doesn		do\V6FDRS3
+795	PGR	't		not\DGA7
+796	TOK	consume		consume\VMF6R66
+797	TOK	hundreds		hundred\N5P
+798	TOK	of		of\P
+799	TOK	megabytes		megabyte\N5P
+800	TOK	of		of\P
+801	TOK	disk		disk\N5S
+802	TOK	space		space\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+803	TOK	The	BOS	the\AT---6
+804	TOK	glamour		glamour\N5S
+805	TOK	of		of\P
+806	TOK	this		this\AD---S
+807	TOK	economy		economy\N5S
+808	TOK	fades		fade\VMFDRS3
+---	DLD	,		=\DELIM
+809	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+810	TOK	when		when\CS
+811	TOK	you		you\RP62N6
+812	TOK	realize		realize\VMF6R66
+813	TOK	that		that\CS
+814	TOK	you		you\RP62N6
+815	TOK	have		have\V6F6R66
+816	TOK	to		to\P
+817	TOK	get		get\VMI----
+818	TOK	a		a\AI---S
+819	TOK	linker		linker\N5S
+820	TOK	separately		separately\DGA7
+821	TOK	to		to\P
+822	TOK	have		have\VMI----
+823	TOK	a		a\AI---S
+824	TOK	complete		complete\JA
+825	TOK	development		development\N5S
+826	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+827	TOK	Though	BOS	though\CS
+##	TAG	<name>
+828	TOK	MetaWare		MetaWare\N46
+##	TAG	</name>
+829	TOK	offers		offer\VMFDRS3
+830	TOK	a		a\AI---S
+831	TOK	somewhat		somewhat\DGA7
+832	TOK	limited		limit\VMC----
+833	TOK	one		one\MCS
+834	TOK	for		for\P
+835	TOK	free		free\JA
+---	DLD	,		=\DELIM
+836	TOK	we		we\RPP1NN
+837	TOK	used		use\VMF6A66
+838	TOK	the		the\AT---6
+839	TOK	linker		linker\N5S
+840	TOK	that		that\RW63N6
+841	TOK	comes		come\VMFDRS3
+842	TOK	with		with\P
+##	TAG	<name>
+843	TOK	Phar Lap		Phar_Lap\N46
+##	TAG	</name>
+844	PGR	's		genmark\GENMARK
+##	TAG	<name>
+845	TOK	TNT DOS Extender		TNT_DOS_Extender\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+846	TOK	$		$\N5P
+##	TAG	<num>
+847	TOK	595		595\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+848	TOK	Microsoft Visual	BOS	Microsoft_Visual\N46
+##	TAG	</name>
+849	TOK	C++		C++\N5P
+##	TAG	<num>
+850	TOK	4.0	EOS	4.0\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+852	TOK	Advantages	BOS	advantage\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+853	TOK	Is	BOS	be\V6FDRS3
+854	TOK	a		a\AI---S
+855	TOK	complete		complete\JA
+---	DLD	,		=\DELIM
+856	TOK	tightly		tightly\DGA7
+857	TOK	integrated		integrate\VMC----
+858	TOK	development		development\N5S
+859	TOK	environment	EOS	environment\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+860	TOK	Component	BOS	component\N5S
+##	TAG	<name>
+861	TOK	Gallery		Gallery\N46
+##	TAG	</name>
+862	TOK	provides		provide\VMFDRS3
+863	TOK	reuse		reuse\N5S
+864	TOK	and		and\CC
+865	TOK	software		software\N5S
+866	TOK	management	EOS	management\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+868	TOK	Just	BOS	just\DGA7
+---	DLI	-		=\DELIM
+869	TOK	in		in\P
+---	DLI	-		=\DELIM
+870	TOK	time		time\N5S
+871	TOK	debugging		debugging\N5S
+872	TOK	finds		find\VMFDRS3
+873	TOK	bugs		bug\N5P
+874	TOK	before		before\P
+875	TOK	program		program\N5S
+876	TOK	crashes	EOS	crash\VMFDRS3
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+878	TOK	Disadvantages	BOS	disadvantage\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+879	TOK	Easy	BOS	easy\JA
+880	TOK	to		to\P
+881	TOK	get		get\VMI----
+882	TOK	lost		lose\VMC----
+883	TOK	in		in\P
+884	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="integrated development environment">
+885	TOK	IDE	EOS	IDE\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<num>
+887	TOK	16	BOS	16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+888	TOK	bit		bit\N5S
+889	TOK	development		development\N5S
+890	TOK	requires		require\VMFDRS3
+891	TOK	separate		separate\JA
+---	DLE	(		=\DELIM
+892	TOK	though		though\DGA7
+893	TOK	included		include\VMF6A66
+---	DLD	)		=\DELIM
+894	TOK	compiler	EOS	compiler\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+895	TOK	You	BOS	you\RP62N6
+896	TOK	may		may\VOFDR66
+897	TOK	be		be\VMI----
+898	TOK	wondering		wonder\VMG----
+899	TOK	what		what\RW63N-
+900	TOK	happened		happen\VMF6A66
+901	TOK	to		to\P
+##	TAG	<name>
+902	TOK	Visual		Visual\N46
+##	TAG	</name>
+903	TOK	C++		C++\N5P
+##	TAG	<num>
+904	TOK	3.0		3.0\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+905	TOK	Microsoft	BOS	Microsoft\N46
+##	TAG	</name>
+906	TOK	skipped		skip\VMF6A66
+907	TOK	from		from\P
+##	TAG	<num>
+908	TOK	2.0		2.0\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+909	TOK	which		which\RW63N-
+910	TOK	we		we\RPP1NN
+911	TOK	reviewed		review\VMF6A66
+912	TOK	last		last\JA
+##	TAG	<loc pos="N5S">
+913	TOK	April		april\N5S
+##	TAG	</loc>
+---	DLE	)		=\DELIM
+914	TOK	to		to\P
+##	TAG	<num>
+915	TOK	4.0		4.0\X
+##	TAG	</num>
+##	TAG	<loc pos="P">
+916	TOK	in order to		in_order_to\P
+##	TAG	</loc>
+917	TOK	align		align\VMI----
+918	TOK	the		the\AT---6
+919	TOK	compiler		compiler\N5S
+920	PGR	's		genmark\GENMARK
+921	TOK	version		version\N5S
+922	TOK	number		number\N5S
+923	TOK	with		with\P
+924	TOK	that		that\RDS3N-
+925	TOK	of		of\P
+##	TAG	<name>
+926	TOK	Microsoft Foundation Classes		Microsoft_Foundation_Classes\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+927	TOK	MFC		MFC\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+##	TAG	<num>
+928	TOK	4.0		4.0\X
+##	TAG	</num>
+929	TOK	class		class\N5S
+930	TOK	library		library\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name pos="N46" expansion="microsoft foundation classes">
+931	TOK	MFC	BOS	MFC\N46
+##	TAG	</name>
+##	TAG	<num>
+932	TOK	4.0		4.0\X
+##	TAG	</num>
+933	TOK	comes		come\VMFDRS3
+934	TOK	with		with\P
+##	TAG	<name>
+935	TOK	Visual		Visual\N46
+##	TAG	</name>
+936	TOK	C++		C++\N5P
+##	TAG	<num>
+937	TOK	4.0		4.0\X
+##	TAG	</num>
+938	TOK	and		and\CC
+939	TOK	carries		carry\VMFDRS3
+940	TOK	such		such\JA
+941	TOK	new		new\JA
+942	TOK	features		feature\N5P
+943	TOK	as		as\P
+944	TOK	support		support\N5S
+945	TOK	for		for\P
+##	TAG	<name>
+946	TOK	Windows Common Controls		Windows_Common_Controls\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+947	TOK	supplied		supply\VMC----
+948	TOK	with		with\P
+##	TAG	<name>
+949	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+950	TOK	95		95\X
+##	TAG	</num>
+951	TOK	and		and\CC
+##	TAG	<name>
+952	TOK	NT		NT\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+953	TOK	integration		integration\N5S
+954	TOK	with		with\P
+955	TOK	the		the\AT---6
+##	TAG	<name>
+956	TOK	OLE		OLE\N46
+##	TAG	</name>
+957	TOK	controls		control\VMFDRS3
+958	TOK	developer		developer\N5S
+959	TOK	kit		kit\N5S
+---	DLD	,		=\DELIM
+960	TOK	and		and\CC
+961	TOK	classes		class\N5P
+962	TOK	to		to\P
+963	TOK	encapsulate		encapsulate\VMI----
+##	TAG	<name>
+964	TOK	Data Access Objects		Data_Access_Objects\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+965	TOK	DAO		DAO\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+966	TOK	The	BOS	the\AT---6
+967	TOK	sidebar		sidebar\N5S
+---	DLE	"		=\DELIM
+##	TAG	<name>
+968	TOK	Keys		Keys\N46
+##	TAG	</name>
+969	TOK	to		to\P
+970	TOK	the		the\AT---6
+##	TAG	<name>
+971	TOK	Enterprise		Enterprise\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+972	TOK	explains		explain\VMFDRS3
+973	TOK	the		the\AT---6
+974	TOK	role		role\N5S
+975	TOK	of		of\P
+##	TAG	<name pos="N46" expansion="data access objects">
+976	TOK	DAO		DAO\N46
+##	TAG	</name>
+977	TOK	and		and\CC
+978	TOK	the		the\AT---6
+##	TAG	<name>
+979	TOK	Borland Database Engine		Borland_Database_Engine\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+980	TOK	BDE		BDE\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+982	TOK	In	BOS	in\P
+##	TAG	<name>
+983	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+984	PGR	's		genmark\GENMARK
+##	TAG	<name>
+985	TOK	IDE		IDE\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+986	TOK	the		the\AT---6
+987	TOK	emphasis		emphasis\N5S
+988	TOK	is		be\V6FDRS3
+989	TOK	on		on\P
+990	TOK	the		the\AT---6
+991	TOK	word		word\N5S
+992	TOK	integrated		integrate\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+993	TOK	Called	BOS	call\VMF6A66
+994	TOK	the		the\AT---6
+##	TAG	<name>
+995	TOK	Developer Studio		Developer_Studio\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+996	TOK	this		this\AD---S
+##	TAG	<name pos="N46" expansion="integrated development environment">
+997	TOK	IDE		IDE\N46
+##	TAG	</name>
+998	TOK	can		can\VOFDR66
+999	TOK	serve		serve\VMI----
+1000	TOK	as		as\P
+1001	TOK	a		a\AI---S
+1002	TOK	docking		dock\VMG----
+1003	TOK	station		station\N5S
+1004	TOK	for		for\P
+1005	TOK	not		not\DGA7
+1006	TOK	only		only\JA
+##	TAG	<name>
+1007	TOK	Visual		Visual\N46
+##	TAG	</name>
+1008	TOK	C++		C++\N5P
+1009	TOK	but		but\CC
+1010	TOK	also		also\DGA7
+##	TAG	<name>
+1011	TOK	Visual Test		Visual_Test\N46
+##	TAG	</name>
+1012	TOK	and		and\CC
+##	TAG	<name>
+1013	TOK	Visual FORTRAN Powerstation		Visual_FORTRAN_Powerstation\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1014	TOK	As	BOS	as\DGA7
+1015	TOK	capable		capable\JA
+1016	TOK	as		as\P
+1017	TOK	the		the\AT---6
+##	TAG	<name>
+1018	TOK	Developer Studio		Developer_Studio\N46
+##	TAG	</name>
+1019	PGR	's		genmark\GENMARK
+1020	TOK	user		user\N5S
+1021	TOK	interface		interface\N5S
+1022	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+1023	TOK	we		we\RPP1NN
+1024	TOK	worry		worry\VMF6R66
+1025	TOK	about		about\P
+1026	TOK	its		its\APS3N6
+1027	TOK	density		density\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1028	TOK	Obviously	BOS	obviously\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1029	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+1030	PGR	's		genmark\GENMARK
+1031	TOK	engineers		engineer\N5P
+1032	TOK	labored		labored\JA
+1033	TOK	to		to\P
+1034	TOK	cram		cram\VMI----
+1035	TOK	as		as\CS
+1036	TOK	much		much\JA
+1037	TOK	functionality		functionality\N5S
+1038	TOK	onto		onto\P
+1039	TOK	the		the\AT---6
+1040	TOK	screen		screen\N5S
+1041	TOK	as		as\P
+1042	TOK	possible		possible\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1043	TOK	Visual	BOS	visual\JA
+1044	TOK	C++		C++\N5P
+##	TAG	<num>
+1045	TOK	4.0		4.0\X
+##	TAG	</num>
+1046	TOK	introduces		introduce\VMFDRS3
+1047	TOK	the		the\AT---6
+##	TAG	<name>
+1048	TOK	Component Gallery		Component_Gallery\N46
+##	TAG	</name>
+1049	TOK	object		object\N5S
+1050	TOK	repository		repository\N5S
+---	DLD	,		=\DELIM
+1051	TOK	which		which\RW63N-
+1052	TOK	is		be\V6FDRS3
+1053	TOK	useful		useful\JA
+1054	TOK	on		on\P
+1055	TOK	several		several\JA
+1056	TOK	levels		level\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1057	TOK	In	BOS	in\P
+1058	TOK	one		one\MCS
+1059	TOK	sense		sense\N5S
+---	DLD	,		=\DELIM
+1060	TOK	it		it\RPS3N6
+1061	TOK	provides		provide\VMFDRS3
+1062	TOK	a		a\AI---S
+1063	TOK	way		way\N5S
+1064	TOK	to		to\P
+1065	TOK	manage		manage\VMI----
+1066	TOK	classes		class\N5P
+1067	TOK	more		more\DDC7
+1068	TOK	as		as\CS
+1069	TOK	objects		object\N5P
+1070	TOK	than		than\CS
+1071	TOK	as		as\P
+1072	TOK	conglomerates		conglomerate\N5P
+1073	TOK	of		of\P
+1074	TOK	source		source\N5S
+1075	TOK	code		code\VMF6R66
+---	DLD	,		=\DELIM
+1076	TOK	making		make\VMG----
+1077	TOK	it		it\RPS3N6
+1078	TOK	a		a\AI---S
+1079	TOK	kind		kind\N5S
+1080	TOK	of		of\P
+1081	TOK	source		source\N5S
+---	DLI	-		=\DELIM
+1082	TOK	code		code\N5S
+---	DLI	-		=\DELIM
+1083	TOK	management		management\N5S
+1084	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1085	TOK	To	BOS	to\P
+1086	TOK	place		place\VMI----
+1087	TOK	a		a\AI---S
+1088	TOK	class		class\N5S
+1089	TOK	into		into\P
+1090	TOK	an		an\AI---S
+1091	TOK	application		application\N5S
+---	DLD	,		=\DELIM
+1092	TOK	you		you\RP62N6
+1093	TOK	just		just\DGA7
+1094	TOK	withdraw		withdraw\VMF6R66
+1095	TOK	a		a\AI---S
+1096	TOK	copy		copy\N5S
+1097	TOK	of		of\P
+1098	TOK	it		it\RPS3N6
+1099	TOK	from		from\P
+1100	TOK	the		the\AT---6
+##	TAG	<name>
+1101	TOK	Component Gallery		Component_Gallery\N46
+##	TAG	</name>
+1102	TOK	and		and\CC
+1103	TOK	place		place\VMF6R66
+1104	TOK	it		it\RPS3N6
+1105	TOK	in		in\P
+1106	TOK	your		your\AP62N6
+1107	TOK	application		application\N5S
+---	DLD	;		=\DELIM
+1108	TOK	you		you\RP62N6
+1109	TOK	don		do\V6FDR66
+1110	PGR	't		not\DGA7
+1111	TOK	have		have\VMI----
+1112	TOK	to		to\P
+1113	TOK	cut		cut\VMI----
+1114	TOK	and		and\CC
+1115	TOK	paste		paste\VMI----
+1116	TOK	from		from\P
+1117	TOK	header		header\N5S
+1118	TOK	files		file\N5P
+---	DLD	,		=\DELIM
+1119	TOK	.cppfiles		.cppfiles\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1120	TOK	and so on		and_so_on\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1121	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+1122	TOK	using		use\VMG----
+1123	TOK	the		the\AT---6
+1124	TOK	gallery		gallery\N5S
+1125	TOK	to		to\P
+1126	TOK	insert		insert\VMI----
+1127	TOK	a		a\AI---S
+1128	TOK	class		class\N5S
+1129	TOK	does		do\V6FDRS3
+1130	TOK	more		more\DDC7
+1131	TOK	than		than\CS
+1132	TOK	simply		simply\DGA7
+1133	TOK	move		move\VMF6R66
+1134	TOK	source		source\N5S
+1135	TOK	code		code\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1136	TOK	You	BOS	you\RP62N6
+1137	TOK	can		can\VOFDR66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1138	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1139	TOK	associate		associate\VMF6R66
+1140	TOK	a		a\AI---S
+1141	TOK	resource		resource\N5S
+1142	TOK	with		with\P
+1143	TOK	the		the\AT---6
+1144	TOK	class		class\N5S
+---	DLD	,		=\DELIM
+1145	TOK	and		and\CC
+1146	TOK	the		the\AT---6
+1147	TOK	resource		resource\N5S
+1148	TOK	will		will\VOFDR66
+1149	TOK	be		be\VMI----
+1150	TOK	automatically		automatically\DGA7
+1151	TOK	added		add\VMC----
+1152	TOK	to		to\P
+1153	TOK	your		your\AP62N6
+1154	TOK	source		source\N5S
+1155	TOK	code		code\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1156	TOK	You	BOS	you\RP62N6
+1157	TOK	can		can\VOFDR66
+1158	TOK	easily		easily\DGA7
+1159	TOK	store		store\VMI----
+1160	TOK	third		third\MOS
+---	DLI	-		=\DELIM
+1161	TOK	party		party\N5S
+##	TAG	<name>
+1162	TOK	OCXes		OCXes\N46
+##	TAG	</name>
+1163	TOK	in		in\P
+1164	TOK	the		the\AT---6
+1165	TOK	gallery		gallery\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1166	TOK	It	BOS	it\RPS3N6
+1167	TOK	took		take\VMF6A66
+1168	TOK	us		us\RPP1NA
+1169	TOK	only		only\DGA7
+##	TAG	<loc pos="RP63N-">
+1170	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+1171	TOK	mouse		mouse\N5S
+1172	TOK	clicks		click\N5P
+1173	TOK	to		to\P
+1174	TOK	quickly		quickly\DGA7
+1175	TOK	install		install\VMI----
+1176	TOK	an		an\AI---S
+##	TAG	<name>
+1177	TOK	OCX		OCX\N46
+##	TAG	</name>
+1178	TOK	in		in\P
+1179	TOK	the		the\AT---6
+##	TAG	<name>
+1180	TOK	Component Gallery		Component_Gallery\N46
+##	TAG	</name>
+1181	TOK	and		and\CC
+1182	TOK	insert		insert\VMF6R66
+1183	TOK	it		it\RPS3N6
+1184	TOK	into		into\P
+1185	TOK	a		a\AI---S
+1186	TOK	sample		sample\JA
+1187	TOK	application		application\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1188	TOK	Visual	BOS	visual\JA
+1189	TOK	C++		C++\N5P
+1190	TOK	did		do\V6FDA66
+1191	TOK	the		the\AT---6
+1192	TOK	dirty		dirty\JA
+1193	TOK	work		work\N5S
+1194	TOK	by		by\P
+1195	TOK	reading		read\VMG----
+1196	TOK	the		the\AT---6
+##	TAG	<name>
+1197	TOK	OCX		OCX\N46
+##	TAG	</name>
+1198	TOK	and		and\CC
+1199	TOK	generating		generate\VMG----
+1200	TOK	the		the\AT---6
+1201	TOK	source		source\N5S
+1202	TOK	code		code\N5S
+1203	TOK	for		for\P
+1204	TOK	a		a\AI---S
+1205	TOK	C++		C++\N5P
+---	DLE	"		=\DELIM
+1206	TOK	wrapper		wrap\JC
+---	DLD	"		=\DELIM
+1207	TOK	class		class\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1208	TOK	This	BOS	this\AD---S
+1209	TOK	class		class\N5S
+1210	TOK	included		include\VMC----
+1211	TOK	prebuilt		prebuild\VMC----
+1212	TOK	methods		method\N5P
+1213	TOK	that		that\RW63N6
+1214	TOK	are		be\V6FDR66
+1215	TOK	associated		associate\VMC----
+1216	TOK	with		with\P
+1217	TOK	each		each\AG---S
+##	TAG	<name>
+1218	TOK	OCX		OCX\N46
+##	TAG	</name>
+1219	PGR	's		genmark\GENMARK
+1220	TOK	functions		function\N5P
+---	DLD	,		=\DELIM
+1221	TOK	and		and\CC
+1222	TOK	public		public\JA
+1223	TOK	member		member\N5S
+1224	TOK	variables		variable\N5P
+1225	TOK	associated		associate\VMC----
+1226	TOK	with		with\P
+1227	TOK	the		the\AT---6
+1228	TOK	object		object\N5S
+1229	PGR	's		genmark\GENMARK
+1230	TOK	properties		property\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1231	TOK	Visual	BOS	visual\JA
+1232	TOK	C++		C++\N5P
+##	TAG	<num>
+1233	TOK	4.0		4.0\X
+##	TAG	</num>
+1234	TOK	includes		include\VMFDRS3
+1235	TOK	just		just\DGA7
+---	DLI	-		=\DELIM
+1236	TOK	in		in\P
+---	DLI	-		=\DELIM
+1237	TOK	time		time\N5S
+1238	TOK	debugging		debug\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1239	TOK	If	BOS	if\CS
+1240	TOK	you		you\RP62N6
+1241	TOK	're		're\N5S
+1242	TOK	running		run\VMG----
+1243	TOK	a		a\AI---S
+1244	TOK	debug		debug\N5S
+1245	TOK	release		release\N5S
+1246	TOK	of		of\P
+1247	TOK	your		your\AP62N6
+1248	TOK	application		application\N5S
+1249	TOK	and		and\CC
+1250	TOK	a		a\AI---S
+1251	TOK	run		run\VMC----
+---	DLI	-		=\DELIM
+1252	TOK	time		time\N5S
+1253	TOK	error		error\N5S
+1254	TOK	occurs		occur\VMFDRS3
+---	DLD	,		=\DELIM
+1255	TOK	the		the\AT---6
+1256	TOK	system		system\N5S
+1257	TOK	presents		present\VMFDRS3
+1258	TOK	a		a\AI---S
+1259	TOK	dialog		dialog\N5S
+1260	TOK	box		box\N56
+1261	TOK	that		that\RW63N6
+1262	TOK	gives		give\VMFDRS3
+1263	TOK	you		you\RP62N6
+1264	TOK	the		the\AT---6
+1265	TOK	choice		choice\N5S
+1266	TOK	of		of\P
+1267	TOK	either		either\CC
+1268	TOK	terminating		terminate\VMG----
+1269	TOK	the		the\AT---6
+1270	TOK	application		application\N5S
+1271	TOK	or		or\CC
+1272	TOK	dropping		drop\VMG----
+1273	TOK	into		into\P
+1274	TOK	the		the\AT---6
+1275	TOK	debugger		debugger\N5S
+---	DLE	(		=\DELIM
+1276	TOK	with		with\P
+1277	TOK	the		the\AT---6
+1278	TOK	source		source\N5S
+1279	TOK	window		window\N5S
+1280	TOK	aligned		align\VMC----
+1281	TOK	at		at\P
+1282	TOK	the		the\AT---6
+1283	TOK	location		location\N5S
+1284	TOK	of		of\P
+1285	TOK	the		the\AT---6
+1286	TOK	offense		offense\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1287	TOK	Visual	BOS	visual\JA
+1288	TOK	C++		C++\N5P
+##	TAG	<num>
+1289	TOK	4.0		4.0\X
+##	TAG	</num>
+1290	TOK	is		be\V6FDRS3
+##	TAG	<loc pos="DGA7">
+1291	TOK	above all		above_all\DGA7
+##	TAG	</loc>
+1292	TOK	a		a\AI---S
+##	TAG	<num>
+1293	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1294	TOK	bit		bit\N5S
+1295	TOK	product		product\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1296	TOK	It	BOS	it\RPS3N6
+1297	TOK	can		can\VOFDR66
+1298	TOK	target		target\VMI----
+##	TAG	<name>
+1299	TOK	Win32s		Win32s\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1300	TOK	NT		NT\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1301	TOK	and		and\CC
+##	TAG	<name>
+1302	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1303	TOK	95		95\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1304	TOK	A	BOS	a\AI---S
+1305	TOK	separate		separate\JA
+##	TAG	<name>
+1306	TOK	CD-ROM		CD-ROM\N46
+##	TAG	</name>
+1307	TOK	that		that\RW63N6
+1308	TOK	comes		come\VMFDRS3
+1309	TOK	in		in\P
+1310	TOK	the		the\AT---6
+1311	TOK	box		box\N56
+1312	TOK	carries		carry\VMFDRS3
+1313	TOK	a		a\AI---S
+1314	TOK	copy		copy\N5S
+1315	TOK	of		of\P
+##	TAG	<name>
+1316	TOK	Visual		Visual\N46
+##	TAG	</name>
+1317	TOK	C++		C++\N5P
+##	TAG	<num>
+1318	TOK	1		1\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+1319	TOK	52c		52c\N5P
+---	DLD	,		=\DELIM
+1320	TOK	which		which\RW63N-
+1321	TOK	supports		support\VMFDRS3
+##	TAG	<num>
+1322	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1323	TOK	bit		bit\N5S
+##	TAG	<name>
+1324	TOK	MS-DOS		MS-DOS\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1325	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1326	TOK	3.1		3.1\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1327	TOK	and		and\CC
+##	TAG	<name>
+1328	TOK	Windows for Workgroups		Windows_for_Workgroups\N46
+##	TAG	</name>
+##	TAG	<num>
+1329	TOK	3.11		3.11\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1330	TOK	Microsoft	BOS	Microsoft\N46
+##	TAG	</name>
+1331	TOK	promises		promise\VMFDRS3
+1332	TOK	a		a\AI---S
+##	TAG	<name>
+1333	TOK	RISC		RISC\N46
+##	TAG	</name>
+1334	TOK	version		version\N5S
+1335	TOK	of		of\P
+1336	TOK	C++		C++\N5P
+##	TAG	<num>
+1337	TOK	4.0		4.0\X
+##	TAG	</num>
+1338	TOK	on		on\P
+##	TAG	<name>
+1339	TOK	NT for PowerPC		NT_for_PowerPC\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1340	TOK	Mips		Mips\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1341	TOK	and		and\CC
+##	TAG	<name>
+1342	TOK	Alpha		Alpha\N46
+##	TAG	</name>
+1343	TOK	platforms		platform\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1344	TOK	A	BOS	a\AI---S
+1345	TOK	cross		cross\JA
+---	DLI	-		=\DELIM
+1346	TOK	development		development\N5S
+1347	TOK	edition		edition\N5S
+1348	TOK	is		be\V6FDRS3
+1349	TOK	available		available\JA
+1350	TOK	for		for\P
+##	TAG	<name>
+1351	TOK	PowerPC		PowerPC\N46
+##	TAG	</name>
+1352	TOK	and		and\CC
+##	TAG	<na type="code">
+1353	TOK	68K		noanat\W
+##	TAG	</na>
+---	DLE	-		=\DELIM
+1354	TOK	based		base\VMC----
+##	TAG	<name>
+1355	TOK	Macintosh		Macintosh\N46
+##	TAG	</name>
+1356	TOK	systems		system\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+1357	TOK	Symantec	BOS	Symantec\N46
+##	TAG	</name>
+1358	TOK	C++		C++\N5P
+##	TAG	<num>
+1359	TOK	7.2	EOS	7.2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1361	TOK	Advantages	BOS	advantage\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+1362	TOK	Tightly	BOS	tightly\DGA7
+1363	TOK	integrated		integrate\VMC----
+1364	TOK	development		development\N5S
+1365	TOK	environment		environment\N5S
+1366	TOK	with		with\P
+1367	TOK	extensive		extensive\JA
+1368	TOK	drag		drag\N5S
+---	DLI	-		=\DELIM
+1369	TOK	and		and\CC
+---	DLI	-		=\DELIM
+1370	TOK	drop		drop\N5S
+1371	TOK	capabilities	EOS	capability\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+##	TAG	<name>
+1373	TOK	Netbuild	BOS	Netbuild\N46
+##	TAG	</name>
+1374	TOK	allows		allow\VMFDRS3
+1375	TOK	distributed		distribute\VMC----
+1376	TOK	compilation	EOS	compilation\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+1378	TOK	Disadvantages	BOS	disadvantage\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+1379	TOK	Full	BOS	full\JA
+1380	TOK	installation		installation\N5S
+1381	TOK	takes		take\VMFDRS3
+1382	TOK	nearly		nearly\DGA7
+##	TAG	<num>
+1383	TOK	300		300\X
+##	TAG	</num>
+##	TAG	<name>
+1384	TOK	MB	EOS	MB\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+1386	TOK	Below	BOS	below\P
+---	DLI	-		=\DELIM
+1387	TOK	average		average\JA
+1388	TOK	performance		performance\N5S
+1389	TOK	of		of\P
+1390	TOK	generated		generate\VMC----
+1391	TOK	executables	EOS	executable\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+1393	TOK	Our	BOS	our\APP1N6
+1394	TOK	recent		recent\JA
+1395	TOK	review		review\N5S
+1396	TOK	of		of\P
+##	TAG	<name>
+1397	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+1398	TOK	C++		C++\N5P
+##	TAG	<num>
+1399	TOK	7.2		7.2\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1400	TOK	see		see\VMF6R66
+---	DLE	"		=\DELIM
+##	TAG	<name>
+1401	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+1402	TOK	C++		C++\N5S
+1403	TOK	Differences		difference\N5P
+---	DLD	,		=\DELIM
+---	DLD	"		=\DELIM
+##	TAG	<loc pos="N5S">
+1404	TOK	December		december\N5S
+##	TAG	</loc>
+---	DLD	'		=\DELIM
+##	TAG	<num>
+1405	TOK	95		95\X
+##	TAG	</num>
+##	TAG	<name>
+1406	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1407	TOK	aptly		aptly\DGA7
+1408	TOK	pointed		point\VMF6A66
+1409	TOK	out		out\DGA7
+1410	TOK	that		that\CS
+##	TAG	<name>
+1411	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+1412	TOK	has		have\V6FDRS3
+1413	TOK	always		always\DGA7
+1414	TOK	been		be\VMC----
+1415	TOK	the		the\AT---6
+---	DLE	"		=\DELIM
+1416	TOK	other		other\JA
+---	DLD	"		=\DELIM
+1417	TOK	C++		C++\N5S
+1418	TOK	vendor		vendor\N5S
+1419	TOK	behind		behind\P
+##	TAG	<name>
+1420	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+1421	TOK	and		and\CC
+##	TAG	<name>
+1422	TOK	Borland--despite Symantec		Borland--despite_Symantec\N46
+##	TAG	</name>
+1423	PGR	's		genmark\GENMARK
+1424	TOK	knack		knack\N5S
+1425	TOK	for		for\P
+1426	TOK	producing		produce\VMG----
+1427	TOK	significant		significant\JA
+1428	TOK	innovations		innovation\N5P
+1429	TOK	in		in\P
+1430	TOK	its		its\APS3N6
+1431	TOK	compiler		compiler\N5S
+1432	PGR	's		be\V6FDRS3
+1433	TOK	integrated		integrate\VMC----
+1434	TOK	development		development\N5S
+1435	TOK	and		and\CC
+1436	TOK	debugging		debugging\N5S
+1437	TOK	environment		environment\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1438	TOK	IDDE		IDDE\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1439	TOK	Netbuild	BOS	Netbuild\N46
+##	TAG	</name>
+1440	TOK	is		be\V6FDRS3
+1441	TOK	one		one\MCS
+1442	TOK	such		such\JA
+1443	TOK	innovation		innovation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1444	TOK	It	BOS	it\RPS3N6
+1445	PGR	's		be\V6FDRS3
+1446	TOK	a		a\AI---S
+1447	TOK	distributed		distribute\VMC----
+1448	TOK	compilation		compilation\N5S
+1449	TOK	environment		environment\N5S
+1450	TOK	that		that\RW63N6
+1451	TOK	allows		allow\VMFDRS3
+1452	TOK	you		you\RP62N6
+1453	TOK	to		to\P
+1454	TOK	turn		turn\VMI----
+1455	TOK	other		other\JA
+1456	TOK	machines		machine\N5P
+1457	TOK	on		on\P
+1458	TOK	your		your\AP62N6
+1459	TOK	network		network\N5S
+1460	TOK	into		into\P
+1461	TOK	compilation		compilation\N5S
+1462	TOK	servers		server\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1463	TOK	It	BOS	it\RPS3N6
+1464	PGR	's		be\V6FDRS3
+1465	TOK	particularly		particularly\DGA7
+1466	TOK	useful		useful\JA
+1467	TOK	in		in\P
+1468	TOK	large		large\JA
+1469	TOK	projects		project\N5P
+1470	TOK	or		or\CC
+1471	TOK	when		when\CS
+1472	TOK	you		you\RP62N6
+1473	TOK	can		can\VOFDR66
+1474	TOK	run		run\VMI----
+1475	TOK	the		the\AT---6
+1476	TOK	build		build\N5S
+1477	TOK	during		during\P
+1478	TOK	off		off\DGA7
+1479	TOK	hours		hour\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1480	TOK	Symantec	BOS	Symantec\N46
+##	TAG	</name>
+1481	TOK	C++		C++\N5S
+1482	PGR	's		genmark\GENMARK
+##	TAG	<name>
+1483	TOK	IDDE		IDDE\N46
+##	TAG	</name>
+1484	TOK	preparses		preparse\VMFDRS3
+1485	TOK	your		your\AP62N6
+1486	TOK	application		application\N5S
+1487	PGR	's		genmark\GENMARK
+1488	TOK	source		source\N5S
+1489	TOK	code		code\N5S
+1490	TOK	when		when\CS
+1491	TOK	you		you\RP62N6
+1492	TOK	first		first\DGA7
+1493	TOK	load		load\VMF6R66
+1494	TOK	the		the\AT---6
+1495	TOK	project		project\N5S
+1496	TOK	with		with\P
+1497	TOK	source		source\N5S
+1498	TOK	files		file\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1499	TOK	This	BOS	this\AD---S
+1500	TOK	preparser		preparser\N5S
+1501	TOK	can		can\VOFDR66
+1502	TOK	tell		tell\VMI----
+1503	TOK	if		if\CS
+1504	TOK	source		source\N5S
+1505	TOK	code		code\N5S
+1506	TOK	has		have\V6FDRS3
+1507	TOK	changed		change\VMC----
+---	DLD	,		=\DELIM
+1508	TOK	automatically		automatically\DGA7
+1509	TOK	reparsing		reparse\VMG----
+1510	TOK	in		in\P
+1511	TOK	that		that\AD---S
+1512	TOK	event		event\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1513	TOK	Like	BOS	like\P
+1514	TOK	make		make\VMI----
+---	DLD	,		=\DELIM
+1515	TOK	it		it\RPS3N6
+1516	TOK	parses		parse\VMFDRS3
+1517	TOK	only		only\DGA7
+1518	TOK	those		that\AD---P
+1519	TOK	files		file\N5P
+1520	TOK	that		that\RW63N6
+1521	TOK	have		have\V6F6R66
+1522	TOK	changed		change\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1523	TOK	The	BOS	the\AT---6
+1524	TOK	preparsed		preparse\VMC----
+1525	TOK	results		result\N5P
+1526	TOK	feed		feed\VMF6R66
+1527	TOK	into		into\P
+1528	TOK	the		the\AT---6
+1529	TOK	text		text\N5S
+---	DLI	-		=\DELIM
+1530	TOK	handling		handling\N5S
+1531	TOK	components		component\N5P
+1532	TOK	of		of\P
+1533	TOK	the		the\AT---6
+##	TAG	<name>
+1534	TOK	IDDE		IDDE\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1535	TOK	which		which\RW63N-
+1536	TOK	makes		make\VMFDRS3
+1537	TOK	possible		possible\JA
+1538	TOK	a		a\AI---S
+##	TAG	<name>
+1539	TOK	Smalltalk		Smalltalk\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1540	TOK	like		like\JA
+1541	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+1542	TOK	pane		pane\N5S
+1543	TOK	browser		browser\N5S
+1544	TOK	and		and\CC
+1545	TOK	editor		editor\N5S
+1546	TOK	combination		combination\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1547	TOK	The	BOS	the\AT---6
+1548	TOK	editing		editing\N5S
+1549	TOK	capabilities		capability\N5P
+1550	TOK	of		of\P
+1551	TOK	this		this\AD---S
+1552	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+1553	TOK	pane		pane\N5S
+1554	TOK	system		system\N5S
+1555	TOK	are		be\V6FDR66
+1556	TOK	complete		complete\JA
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1557	TOK	When	BOS	when\CS
+1558	TOK	you		you\RP62N6
+1559	TOK	seek		seek\VMF6R66
+1560	TOK	a		a\AI---S
+1561	TOK	member		member\N5S
+1562	TOK	function		function\N5S
+1563	TOK	within		within\P
+1564	TOK	a		a\AI---S
+1565	TOK	class		class\N5S
+---	DLD	,		=\DELIM
+1566	TOK	a		a\AI---S
+1567	TOK	lower		low\JC
+---	DLI	-		=\DELIM
+1568	TOK	level		level\N5S
+1569	TOK	editing		editing\N5S
+1570	TOK	window		window\N5S
+1571	TOK	opens		open\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1572	TOK	If	BOS	if\CS
+1573	TOK	you		you\RP62N6
+1574	TOK	make		make\VMF6R66
+1575	TOK	changes		change\N5P
+---	DLD	,		=\DELIM
+1576	TOK	the		the\AT---6
+1577	TOK	proper		proper\JA
+1578	TOK	source		source\N5S
+---	DLI	-		=\DELIM
+1579	TOK	code		code\N5S
+1580	TOK	file		file\N5S
+1581	TOK	gets		get\VMFDRS3
+1582	TOK	updated		update\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1583	TOK	The	BOS	the\AT---6
+1584	TOK	preparsing		preparse\VMG----
+1585	TOK	works		work\N5P
+1586	TOK	in		in\P
+1587	TOK	the		the\AT---6
+1588	TOK	background		background\N5S
+---	DLD	,		=\DELIM
+1589	TOK	but		but\CC
+1590	TOK	it		it\RPS3N6
+1591	TOK	can		can\VOFDR66
+1592	TOK	get		get\VMI----
+1593	TOK	annoying		annoying\JA
+1594	TOK	if		if\CS
+1595	TOK	you		you\RP62N6
+1596	PGR	've		have\V6FDR66
+1597	TOK	just		just\DGA7
+1598	TOK	started		start\VMF6A66
+1599	TOK	working		work\VMG----
+1600	TOK	with		with\P
+1601	TOK	an		an\AI---S
+##	TAG	<name pos="N46" expansion="microsoft foundation classes">
+1602	TOK	MFC		MFC\N46
+##	TAG	</name>
+1603	TOK	application		application\N5S
+1604	TOK	and		and\CC
+1605	TOK	you		you\RP62N6
+1606	TOK	're		're\N5S
+1607	TOK	running		run\VMG----
+1608	TOK	the		the\AT---6
+1609	TOK	software		software\N5S
+1610	TOK	off		off\P
+1611	TOK	a		a\AI---S
+##	TAG	<name>
+1612	TOK	CD		CD\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1613	TOK	Depending	BOS	depend\VMG----
+1614	TOK	on		on\P
+1615	TOK	the		the\AT---6
+1616	TOK	speed		speed\N5S
+1617	TOK	of		of\P
+1618	TOK	your		your\AP62N6
+1619	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+1620	TOK	the		the\AT---6
+1621	TOK	preparser		preparser\N5S
+1622	TOK	can		can\VOFDR66
+1623	TOK	take		take\VMI----
+1624	TOK	a		a\AI---S
+1625	TOK	while		while\N5S
+1626	TOK	to		to\P
+1627	TOK	read		read\VMI----
+1628	TOK	all		all\AG---6
+1629	TOK	the		the\AT---6
+##	TAG	<name>
+1630	TOK	MFC Include		MFC_Include\N46
+##	TAG	</name>
+##	TAG	<abbr>
+1631	TOK	files.		files.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1632	TOK	Yes		Yes\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1633	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+1634	TOK	provides		provide\VMFDRS3
+1635	TOK	support		support\N5S
+1636	TOK	for		for\P
+##	TAG	<name pos="N46" expansion="microsoft foundation classes">
+1637	TOK	MFC		MFC\N46
+##	TAG	</name>
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1638	TOK	Versions	BOS	version\N5P
+##	TAG	<num>
+1639	TOK	2.53		2.53\X
+##	TAG	</num>
+1640	TOK	and		and\CC
+##	TAG	<num>
+1641	TOK	3.2		3.2\X
+##	TAG	</num>
+1642	TOK	are		be\V6FDR66
+1643	TOK	bundled		bundle\VMC----
+1644	TOK	with		with\P
+1645	TOK	the		the\AT---6
+##	TAG	<abbr>
+1646	TOK	package.		package.\N5P
+##	TAG	</abbr>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1648	TOK	Symantec	BOS	Symantec\N46
+##	TAG	</name>
+1649	TOK	is		be\V6FDRS3
+1650	TOK	also		also\DGA7
+1651	TOK	innovative		innovative\JA
+1652	TOK	in		in\P
+1653	TOK	providing		provide\VMG----
+1654	TOK	a		a\AI---S
+1655	TOK	scripting		scripting\N5S
+1656	TOK	language		language\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1657	TOK	Symantec BASIC		Symantec_BASIC\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1658	TOK	that		that\CS
+1659	TOK	lets		let\VMFDRS3
+1660	TOK	you		you\RP62N6
+1661	TOK	automate		automate\VMI----
+1662	TOK	many		many\RIP3N-
+1663	TOK	of		of\P
+1664	TOK	the		the\AT---6
+1665	TOK	features		feature\N5P
+1666	TOK	of		of\P
+1667	TOK	the		the\AT---6
+##	TAG	<name>
+1668	TOK	IDDE		IDDE\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+1669	TOK	particularly		particularly\DGA7
+1670	TOK	the		the\AT---6
+1671	TOK	editor		editor\N5S
+---	DLD	)		=\DELIM
+1672	TOK	that		that\RW63N6
+1673	TOK	are		be\V6FDR66
+1674	TOK	otherwise		otherwise\DGA7
+1675	TOK	activated		activate\VMC----
+1676	TOK	via		via\P
+1677	TOK	menus		menu\N5P
+1678	TOK	and		and\CC
+1679	TOK	toolbars		toolbar\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1680	TOK	Also	BOS	also\DGA7
+---	DLD	,		=\DELIM
+1681	TOK	just		just\DGA7
+1682	TOK	as		as\P
+1683	TOK	the		the\AT---6
+##	TAG	<name>
+1684	TOK	Microsoft Component Gallery		Microsoft_Component_Gallery\N46
+##	TAG	</name>
+1685	TOK	provides		provide\VMFDRS3
+1686	TOK	a		a\AI---S
+---	DLE	"		=\DELIM
+1687	TOK	wrapping		wrapping\N5S
+1688	TOK	service		service\N5S
+---	DLD	"		=\DELIM
+1689	TOK	for		for\P
+1690	TOK	automatically		automatically\DGA7
+1691	TOK	constructing		construct\VMG----
+1692	TOK	a		a\AI---S
+1693	TOK	C++		C++\N5S
+1694	TOK	class		class\N5S
+1695	TOK	interface		interface\N5S
+1696	TOK	to		to\P
+##	TAG	<name>
+1697	TOK	OCXes		OCXes\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1698	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+1699	PGR	's		genmark\GENMARK
+##	TAG	<name>
+1700	TOK	VBXExpress		VBXExpress\N46
+##	TAG	</name>
+1701	TOK	will		will\VOFDR66
+1702	TOK	automatically		automatically\DGA7
+1703	TOK	construct		construct\VMI----
+1704	TOK	a		a\AI---S
+1705	TOK	C++		C++\N5S
+1706	TOK	wrapper		wrapper\N5S
+1707	TOK	class		class\N5S
+1708	TOK	around		around\P
+1709	TOK	a		a\AI---S
+##	TAG	<name>
+1710	TOK	VBX		VBX\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1711	TOK	Symantec	BOS	Symantec\N46
+##	TAG	</name>
+1712	PGR	's		genmark\GENMARK
+1713	TOK	target		target\N5S
+1714	TOK	coverage		coverage\N5S
+1715	TOK	is		be\V6FDRS3
+1716	TOK	nearly		nearly\DGA7
+1717	TOK	as		as\DGA7
+1718	TOK	broad		broad\JA
+1719	TOK	as		as\P
+##	TAG	<name>
+1720	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+1721	PGR	's		genmark\GENMARK
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1722	TOK	From	BOS	from\P
+1723	TOK	the		the\AT---6
+##	TAG	<name>
+1724	TOK	IDDE		IDDE\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1725	TOK	you		you\RP62N6
+1726	TOK	can		can\VOFDR66
+1727	TOK	produce		produce\VMI----
+1728	TOK	executables		executable\N5P
+1729	TOK	and		and\CC
+##	TAG	<name>
+1730	TOK	DLLs		DLLs\N46
+##	TAG	</name>
+1731	TOK	for		for\P
+##	TAG	<num>
+1732	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1733	TOK	and		and\CC
+##	TAG	<num>
+1734	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1735	TOK	bit		bit\N5S
+##	TAG	<name>
+1736	TOK	DOS		DOS\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1737	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+1738	TOK	for		for\P
+##	TAG	<name>
+1739	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1740	TOK	3.1		3.1\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1741	TOK	Windows for Workgroups		Windows_for_Workgroups\N46
+##	TAG	</name>
+##	TAG	<num>
+1742	TOK	3.11		3.11\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1743	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1744	TOK	95		95\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1745	TOK	and		and\CC
+##	TAG	<name>
+1746	TOK	Windows NT		Windows_NT\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1747	TOK	Symantec	BOS	Symantec\N46
+##	TAG	</name>
+1748	TOK	shares		share\VMFDRS3
+1749	TOK	a		a\AI---S
+1750	TOK	spot		spot\N5S
+1751	TOK	with		with\P
+##	TAG	<name>
+1752	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+1753	TOK	as		as\P
+1754	TOK	one		one\MCS
+1755	TOK	of		of\P
+1756	TOK	only		only\DGA7
+##	TAG	<num>
+1757	TOK	two		two\X
+##	TAG	</num>
+1758	TOK	vendors		vendor\N5P
+1759	TOK	in		in\P
+1760	TOK	this		this\AD---S
+1761	TOK	roundup		roundup\N5S
+1762	TOK	that		that\RW63N6
+1763	TOK	also		also\DGA7
+1764	TOK	provide		provide\VMF6R66
+1765	TOK	a		a\AI---S
+##	TAG	<name>
+1766	TOK	Macintosh		Macintosh\N46
+##	TAG	</name>
+1767	TOK	product		product\N5S
+---	DLE	(		=\DELIM
+1768	TOK	though		though\CS
+##	TAG	<name>
+1769	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+1770	PGR	's		genmark\GENMARK
+1771	TOK	is		be\V6FDRS3
+1772	TOK	a		a\AI---S
+1773	TOK	cross		cross\JA
+---	DLI	-		=\DELIM
+1774	TOK	development		development\N5S
+1775	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+1776	TOK	while		while\CS
+##	TAG	<name>
+1777	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+1778	PGR	's		genmark\GENMARK
+1779	TOK	is		be\V6FDRS3
+1780	TOK	native		native\JA
+1781	TOK	on		on\P
+1782	TOK	the		the\AT---6
+##	TAG	<name>
+1783	TOK	Mac		Mac\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+1784	TOK	Watcom	BOS	Watcom\N46
+##	TAG	</name>
+1785	TOK	C/C++		C/C++\N5P
+##	TAG	<num>
+1786	TOK	10.5	EOS	10.5\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1788	TOK	Advantages	BOS	advantage\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+1789	TOK	Supports	BOS	support\VMFDRS3
+1790	TOK	a		a\AI---S
+1791	TOK	variety		variety\N5S
+1792	TOK	of		of\P
+1793	TOK	host		host\N5S
+1794	TOK	and		and\CC
+1795	TOK	target		target\N5S
+1796	TOK	platforms	EOS	platform\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+1798	TOK	High	BOS	high\JA
+---	DLI	-		=\DELIM
+1799	TOK	quality		quality\N5S
+1800	TOK	compiler		compiler\N5S
+1801	TOK	output	EOS	output\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+1803	TOK	Disadvantages	BOS	disadvantage\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+1804	TOK	Comes	BOS	come\VMFDRS3
+1805	TOK	with		with\P
+1806	TOK	few		few\JA
+1807	TOK	wizards		wizard\N5P
+1808	TOK	or		or\CC
+1809	TOK	expert		expert\N5S
+1810	TOK	tools	EOS	tool\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+1812	TOK	Browser	BOS	browser\N5S
+1813	TOK	and		and\CC
+1814	TOK	some		some\AG---6
+1815	TOK	other		other\JA
+1816	TOK	tools		tool\N5P
+1817	TOK	are		be\V6FDR66
+1818	TOK	not		not\DGA7
+1819	TOK	tightly		tightly\DGA7
+1820	TOK	integrated		integrate\VMC----
+1821	TOK	with		with\P
+1822	TOK	development		development\N5S
+1823	TOK	environment	EOS	environment\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1825	TOK	Watcom	BOS	Watcom\N46
+##	TAG	</name>
+1826	PGR	's		genmark\GENMARK
+1827	TOK	greatest		great\JS
+1828	TOK	strength		strength\N5S
+1829	TOK	is		be\V6FDRS3
+1830	TOK	its		its\APS3N6
+1831	TOK	cross		cross\VMF6R66
+---	DLI	-		=\DELIM
+1832	TOK	platform		platform\N5S
+1833	TOK	capabilities		capability\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1834	TOK	From	BOS	from\P
+1835	TOK	a		a\AI---S
+1836	TOK	single		single\JA
+##	TAG	<name pos="N46" expansion="integrated development environment">
+1837	TOK	IDE		IDE\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1838	TOK	you		you\RP62N6
+1839	TOK	can		can\VOFDR66
+1840	TOK	generate		generate\VMI----
+1841	TOK	targets		target\N5P
+1842	TOK	for		for\P
+##	TAG	<name>
+1843	TOK	DOS		DOS\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1844	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1845	TOK	bit		bit\N5S
+1846	TOK	and		and\CC
+1847	TOK	extended		extend\VMF6A66
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1848	TOK	all		all\AG---6
+1849	TOK	the		the\AT---6
+##	TAG	<name>
+1850	TOK	Windows		Windows\N46
+##	TAG	</name>
+1851	TOK	platforms		platform\N5P
+---	DLD	,		=\DELIM
+##	TAG	<na type="function">
+1852	TOK	OS/2		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1853	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1854	TOK	and		and\CC
+##	TAG	<num>
+1855	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1856	TOK	bit		bite\VMF6A66
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1857	TOK	and		and\CC
+##	TAG	<name>
+1858	TOK	NetWare		NetWare\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1859	TOK	Its	BOS	its\APS3N6
+1860	TOK	support		support\N5S
+1861	TOK	for		for\P
+1862	TOK	host		host\N5S
+1863	TOK	platforms		platform\N5P
+1864	TOK	is		be\V6FDRS3
+1865	TOK	equally		equally\DGA7
+1866	TOK	broad		broad\JA
+---	DLD	;		=\DELIM
+1867	TOK	you		you\RP62N6
+1868	TOK	can		can\VOFDR66
+1869	TOK	run		run\VMI----
+1870	TOK	the		the\AT---6
+##	TAG	<name>
+1871	TOK	Watcom IDE		Watcom_IDE\N46
+##	TAG	</name>
+1872	TOK	from		from\P
+##	TAG	<num>
+1873	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1874	TOK	bit		bit\N5S
+##	TAG	<name>
+1875	TOK	Windows		Windows\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1876	TOK	Windows NT		Windows_NT\N46
+##	TAG	</name>
+1877	TOK	and		and\CC
+##	TAG	<num>
+1878	TOK	95		95\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1879	TOK	and		and\CC
+##	TAG	<name>
+1880	TOK	OS/		OS/\N46
+##	TAG	</name>
+##	TAG	<num>
+1881	TOK	2		2\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1882	TOK	Watcom	BOS	Watcom\N46
+##	TAG	</name>
+1883	TOK	C/C++		C/C++\N5S
+1884	TOK	has		have\V6FDRS3
+1885	TOK	been		be\VMC----
+1886	TOK	the		the\AT---6
+1887	TOK	base		base\N5S
+1888	TOK	platform		platform\N5S
+1889	TOK	for		for\P
+1890	TOK	our		our\APP1N6
+##	TAG	<name>
+1891	TOK	BYTEmark		BYTEmark\N46
+##	TAG	</name>
+1892	TOK	benchmarks		benchmark\VMFDRS3
+1893	TOK	since		since\CS
+1894	TOK	their		their\APP3N6
+1895	TOK	inception		inception\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1896	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1897	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+1898	TOK	box		box\N56
+1899	TOK	arrives		arrive\VMFDRS3
+1900	TOK	with		with\P
+1901	TOK	the		the\AT---6
+1902	TOK	usual		usual\JA
+1903	TOK	entourage		entourage\N5S
+1904	TOK	of		of\P
+1905	TOK	support		support\N5S
+1906	TOK	tools		tool\N5P
+---	DLD	:		=\DELIM
+1907	TOK	debugger		debugger\N5S
+---	DLD	,		=\DELIM
+1908	TOK	profiler		profiler\N5S
+---	DLD	,		=\DELIM
+1909	TOK	heap		heap\N5S
+1910	TOK	walker		walker\N5S
+---	DLD	,		=\DELIM
+1911	TOK	spy		spy\N5S
+---	DLD	,		=\DELIM
+1912	TOK	and		and\CC
+1913	TOK	a		a\AI---S
+1914	TOK	post		post\N5S
+---	DLI	-		=\DELIM
+1915	TOK	mortem		mortem\N56
+1916	TOK	debugger		debugger\N5S
+1917	TOK	called		call\VMF6A66
+##	TAG	<abbr pos="N5S" expansion="doctor">
+1918	TOK	Dr.		Dr.\N5S
+##	TAG	</abbr>
+##	TAG	<name>
+1919	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1920	TOK	There	BOS	there\DGA7
+1921	TOK	are		be\V6FDR66
+1922	TOK	also		also\DGA7
+1923	TOK	image		image\N5S
+1924	TOK	and		and\CC
+1925	TOK	dialog		dialog\N5S
+1926	TOK	editors		editor\N5P
+1927	TOK	that		that\RW63N6
+1928	TOK	can		can\VOFDR66
+1929	TOK	be		be\VMI----
+1930	TOK	launched		launch\VMC----
+1931	TOK	on		on\P
+1932	TOK	their		their\APP3N6
+1933	TOK	own		own\JA
+1934	TOK	or		or\CC
+1935	TOK	shepherded		shepherd\VMC----
+1936	TOK	by		by\P
+1937	TOK	the		the\AT---6
+1938	TOK	resource		resource\N5S
+1939	TOK	editor		editor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1940	TOK	Watcom	BOS	Watcom\N46
+##	TAG	</name>
+1941	PGR	's		genmark\GENMARK
+1942	TOK	philosophy		philosophy\N5S
+1943	TOK	is		be\V6FDRS3
+1944	TOK	distinct		distinct\JA
+1945	TOK	from		from\P
+##	TAG	<name>
+1946	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+1947	PGR	's		genmark\GENMARK
+1948	TOK	and		and\CC
+##	TAG	<name>
+1949	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+1950	PGR	's		genmark\GENMARK
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1951	TOK	Where	BOS	where\CS
+1952	TOK	the		the\AT---6
+1953	TOK	latter		latter\JC
+1954	TOK	companies		company\N5P
+1955	TOK	have		have\V6F6R66
+1956	TOK	moved		move\VMC----
+1957	TOK	to		to\P
+1958	TOK	pull		pull\VMI----
+1959	TOK	the		the\AT---6
+1960	TOK	main		main\JA
+1961	TOK	development		development\N5S
+1962	TOK	components		component\N5P
+---	DLE	(		=\DELIM
+1963	TOK	editor		editor\N5S
+---	DLD	,		=\DELIM
+1964	TOK	debugger		debugger\N5S
+---	DLD	,		=\DELIM
+1965	TOK	compiler		compiler\N5S
+---	DLD	)		=\DELIM
+1966	TOK	under		under\P
+1967	TOK	a		a\AI---S
+1968	TOK	single		single\JA
+---	DLD	,		=\DELIM
+1969	TOK	umbrella		umbrella\N5S
+---	DLI	-		=\DELIM
+1970	TOK	like		like\P
+##	TAG	<name pos="N46" expansion="integrated development environment">
+1971	TOK	IDE		IDE\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1972	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+1973	PGR	's		genmark\GENMARK
+1974	TOK	components		component\N5P
+1975	TOK	are		be\V6FDR66
+1976	TOK	separate		separate\JA
+1977	TOK	executables		executable\N5P
+1978	TOK	that		that\CS
+1979	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="integrated development environment">
+1980	TOK	IDE		IDE\N46
+##	TAG	</name>
+1981	TOK	launches		launch\N5P
+1982	TOK	as		as\DGA7
+1983	TOK	required		require\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1984	TOK	Prior to	BOS	Prior_to\DGA7
+##	TAG	</loc>
+1985	TOK	version		version\N5S
+##	TAG	<num>
+1986	TOK	10.5		10.5\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1987	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+1988	TOK	C/C++		C/C++\N5P
+1989	TOK	lacked		lack\VMF6A66
+1990	TOK	a		a\AI---S
+1991	TOK	visual		visual\JA
+1992	TOK	application		application\N5S
+1993	TOK	builder		builder\N5S
+---	DLD	;		=\DELIM
+1994	TOK	it		it\RPS3N6
+1995	TOK	now		now\DGA7
+1996	TOK	has		have\V6FDRS3
+##	TAG	<name>
+1997	TOK	Blue Sky		Blue_Sky\N46
+##	TAG	</name>
+1998	PGR	's		genmark\GENMARK
+##	TAG	<name>
+1999	TOK	Visual Programmer		Visual_Programmer\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2000	TOK	Not	BOS	not\DGA7
+2001	TOK	as		as\DGA7
+2002	TOK	robust		robust\JA
+2003	TOK	as		as\P
+---	DLD	,		=\DELIM
+2004	TOK	say		say\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2005	TOK	Visual Basic		Visual_Basic\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2006	TOK	Visual Programmer		Visual_Programmer\N46
+##	TAG	</name>
+2007	TOK	nonetheless		nonetheless\DGA7
+2008	TOK	provides		provide\VMFDRS3
+2009	TOK	a		a\AI---S
+2010	TOK	graphical		graphical\JA
+2011	TOK	mechanism		mechanism\N5S
+2012	TOK	for		for\P
+2013	TOK	populating		populate\VMG----
+2014	TOK	your		your\AP62N6
+2015	TOK	application		application\N5S
+2016	TOK	with		with\P
+2017	TOK	resource		resource\N5S
+---	DLI	-		=\DELIM
+2018	TOK	type		type\N5S
+2019	TOK	objects		object\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2020	TOK	buttons		button\N56
+---	DLD	,		=\DELIM
+2021	TOK	bit		bit\N5S
+2022	TOK	maps		map\VMFDRS3
+---	DLD	,		=\DELIM
+2023	TOK	menus		menu\N5P
+---	DLD	,		=\DELIM
+2024	TOK	etc.		etc.\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2025	TOK	all		all\AG---6
+2026	TOK	the		the\AT---6
+2027	TOK	while		while\N5S
+2028	TOK	constructing		construct\VMG----
+2029	TOK	source		source\N5S
+2030	TOK	code		code\VMF6R66
+---	DLE	(		=\DELIM
+2031	TOK	built		build\VMC----
+2032	TOK	atop		atop\P
+##	TAG	<name pos="N46" expansion="microsoft foundation classes">
+2033	TOK	MFC		MFC\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2034	TOK	which		which\RW63N-
+2035	TOK	ships		ship\VMFDRS3
+2036	TOK	with		with\P
+2037	TOK	the		the\AT---6
+2038	TOK	compiler		compiler\N5S
+---	DLD	)		=\DELIM
+2039	TOK	as		as\CS
+2040	TOK	you		you\RP62N6
+2041	TOK	specify		specify\VMF6R66
+2042	TOK	the		the\AT---6
+2043	TOK	components		component\N5P
+---	DLD	'		=\DELIM
+2044	TOK	functions		function\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2045	TOK	We	BOS	we\RPP1NN
+2046	TOK	particularly		particularly\DGA7
+2047	TOK	like		like\P
+2048	TOK	the		the\AT---6
+2049	TOK	menu		menu\N5S
+2050	TOK	and		and\CC
+2051	TOK	dialog		dialog\N5S
+---	DLI	-		=\DELIM
+2052	TOK	box		box\N56
+2053	TOK	capture		capture\N5S
+2054	TOK	feature		feature\N5S
+---	DLD	,		=\DELIM
+2055	TOK	which		which\RW63N-
+2056	TOK	is		be\V6FDRS3
+2057	TOK	a		a\AI---S
+2058	TOK	kind		kind\N5S
+2059	TOK	of		of\P
+2060	TOK	reusability		reusability\N5S
+2061	TOK	tool		tool\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2062	TOK	Activate	BOS	activate\VMF6R66
+2063	TOK	dialog		dialog\N5S
+2064	TOK	box		box\N56
+2065	TOK	capture		capture\VMF6R66
+---	DLD	,		=\DELIM
+2066	TOK	then		then\DGA7
+2067	TOK	launch		launch\VMF6R66
+2068	TOK	another		another\JA
+2069	TOK	application		application\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2070	TOK	Whenever	BOS	whenever\CS
+2071	TOK	you		you\RP62N6
+2072	TOK	move		move\VMF6R66
+2073	TOK	the		the\AT---6
+2074	TOK	pointer		pointer\N5S
+2075	TOK	over		over\P
+2076	TOK	a		a\AI---S
+2077	TOK	dialog		dialog\N5S
+2078	TOK	box		box\N56
+---	DLD	,		=\DELIM
+2079	TOK	the		the\AT---6
+2080	TOK	cursor		cursor\N5S
+2081	TOK	turns		turn\VMFDRS3
+2082	TOK	into		into\P
+2083	TOK	a		a\AI---S
+2084	TOK	stylized		stylize\VMC----
+2085	TOK	hand		hand\N5S
+2086	TOK	with		with\P
+2087	TOK	pointing		point\VMG----
+2088	TOK	finger		finger\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2089	TOK	Double	BOS	double\AG---6
+---	DLI	-		=\DELIM
+2090	TOK	click		click\VMF6R66
+---	DLD	,		=\DELIM
+2091	TOK	and		and\CC
+2092	TOK	a		a\AI---S
+2093	TOK	copy		copy\N5S
+2094	TOK	of		of\P
+2095	TOK	the		the\AT---6
+2096	TOK	dialog		dialog\N5S
+2097	TOK	box		box\N56
+2098	TOK	moves		move\VMFDRS3
+2099	TOK	into		into\P
+2100	TOK	the		the\AT---6
+##	TAG	<name>
+2101	TOK	Visual Programmer		Visual_Programmer\N46
+##	TAG	</name>
+2102	PGR	's		genmark\GENMARK
+2103	TOK	dialog		dialog\N5S
+---	DLI	-		=\DELIM
+2104	TOK	box		box\N56
+2105	TOK	editor		editor\N5S
+---	DLD	,		=\DELIM
+2106	TOK	ready		ready\JA
+2107	TOK	for		for\P
+2108	TOK	inclusion		inclusion\N5S
+2109	TOK	in		in\P
+2110	TOK	your		your\AP62N6
+2111	TOK	application		application\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2112	TOK	Watcom	BOS	Watcom\N46
+##	TAG	</name>
+2113	TOK	gets		get\VMFDRS3
+2114	TOK	high		high\JA
+2115	TOK	marks		mark\N5P
+2116	TOK	for		for\P
+2117	TOK	its		its\APS3N6
+2118	TOK	multiplatform		multiplatform\JA
+2119	TOK	support		support\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2120	TOK	And	BOS	and\CC
+2121	TOK	the		the\AT---6
+2122	TOK	quality		quality\N5S
+2123	TOK	of		of\P
+2124	TOK	floating		float\VMG----
+---	DLI	-		=\DELIM
+2125	TOK	point		point\N5S
+2126	TOK	math		math\N5S
+2127	TOK	produced		produce\VMC----
+2128	TOK	by		by\P
+2129	TOK	the		the\AT---6
+2130	TOK	compiler		compiler\N5S
+2131	TOK	is		be\V6FDRS3
+2132	TOK	a		a\AI---S
+2133	TOK	cut		cut\VMF6A66
+2134	TOK	above		above\DGA7
+2135	TOK	average		average\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2136	TOK	What	BOS	what\RW63N-
+2137	TOK	to		to\P
+##	TAG	<name>
+2138	TOK	Test		Test\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELS
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2139	TOK	and		and\CC
+2140	TOK	How		how\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2141	TOK	Actual	BOS	actual\JA
+2142	TOK	compilation		compilation\N5S
+2143	TOK	comprises		comprise\VMFDRS3
+2144	TOK	a		a\AI---S
+2145	TOK	smaller		small\JC
+2146	TOK	part		part\N5S
+2147	TOK	of		of\P
+2148	TOK	building		build\VMG----
+2149	TOK	an		an\AI---S
+2150	TOK	application		application\N5S
+2151	TOK	today		today\DGA7
+---	DLD	,		=\DELIM
+2152	TOK	and		and\CC
+2153	TOK	one		one\RIS3N-
+2154	TOK	that		that\RW63N6
+2155	PGR	's		be\V6FDRS3
+2156	TOK	increasingly		increasingly\DGA7
+2157	TOK	difficult		difficult\JA
+2158	TOK	to		to\P
+2159	TOK	time		time\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2160	TOK	New	BOS	new\JA
+2161	TOK	technologies		technology\N5P
+2162	TOK	such		such\RIS3N-
+2163	TOK	as		as\P
+##	TAG	<name>
+2164	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+2165	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2166	TOK	Netbuild		Netbuild\N46
+##	TAG	</name>
+2167	TOK	make		make\VMF6R66
+2168	TOK	comparisons		comparison\N5P
+2169	TOK	even		even\DGA7
+2170	TOK	more		more\DDC7
+2171	TOK	difficult		difficult\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2172	TOK	Consequently	BOS	consequently\DGA7
+---	DLD	,		=\DELIM
+2173	TOK	we		we\RPP1NN
+2174	TOK	chose		choose\VMF6A66
+2175	TOK	to		to\P
+2176	TOK	focus		focus\VMI----
+2177	TOK	our		our\APP1N6
+2178	TOK	benchmark		benchmark\N5S
+2179	TOK	testing		testing\N5S
+2180	TOK	on		on\P
+2181	TOK	the		the\AT---6
+2182	TOK	quality		quality\N5S
+2183	TOK	of		of\P
+2184	TOK	code		code\N5S
+2185	TOK	that		that\CS
+2186	TOK	each		each\AG---S
+2187	TOK	compiler		compiler\N5S
+2188	TOK	produced		produce\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2189	TOK	We	BOS	we\RPP1NN
+2190	TOK	selected		select\VMF6A66
+##	TAG	<num>
+2191	TOK	two		two\X
+##	TAG	</num>
+2192	TOK	programs		program\N5P
+---	DLD	:		=\DELIM
+2193	TOK	our		our\APP1N6
+2194	TOK	own		own\JA
+##	TAG	<name>
+2195	TOK	BYTEmark		BYTEmark\N46
+##	TAG	</name>
+2196	TOK	and		and\CC
+2197	TOK	the		the\AT---6
+2198	TOK	public		public\N56
+---	DLI	-		=\DELIM
+2199	TOK	domain		domain\N5S
+2200	TOK	version		version\N5S
+##	TAG	<num>
+2201	TOK	7		7\X
+##	TAG	</num>
+2202	TOK	of		of\P
+2203	TOK	the		the\AT---6
+2204	TOK	J		j\N5S
+2205	TOK	programming		programming\N5S
+2206	TOK	language		language\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2207	TOK	BYTEmark	BOS	BYTEmark\N46
+##	TAG	</name>
+2208	TOK	is		be\V6FDRS3
+2209	TOK	a		a\AI---S
+2210	TOK	collection		collection\N5S
+2211	TOK	of		of\P
+##	TAG	<num>
+2212	TOK	10		10\X
+##	TAG	</num>
+2213	TOK	tests		test\N5P
+2214	TOK	that		that\RW63N6
+2215	TOK	exercises		exercise\VMFDRS3
+2216	TOK	the		the\AT---6
+##	TAG	<name>
+2217	TOK	CPU		CPU\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2218	TOK	FPU		FPU\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2219	TOK	cache		cache\N5S
+---	DLD	,		=\DELIM
+2220	TOK	and		and\CC
+2221	TOK	system		system\N5S
+2222	TOK	memory		memory\N5S
+---	DLD	;		=\DELIM
+2223	TOK	J		j\N5S
+2224	TOK	is		be\V6FDRS3
+2225	TOK	a		a\AI---S
+2226	TOK	complete		complete\JA
+2227	TOK	interpreter		interpreter\N5S
+2228	TOK	that		that\RW63N6
+2229	TOK	is		be\V6FDRS3
+2230	TOK	the		the\AT---6
+2231	TOK	last		last\JA
+2232	TOK	public		public\N56
+---	DLI	-		=\DELIM
+2233	TOK	domain		domain\N5S
+2234	TOK	release		release\N5S
+2235	TOK	of		of\P
+2236	TOK	the		the\AT---6
+2237	TOK	J		j\N5S
+2238	TOK	language		language\N5S
+2239	PGR	's		genmark\GENMARK
+2240	TOK	source		source\N5S
+2241	TOK	code		code\N5S
+##	TAG	<loc pos="DGA7">
+2242	TOK	prior to		prior_to\DGA7
+##	TAG	</loc>
+2243	TOK	J		j\N5S
+2244	PGR	's		be\V6FDRS3
+2245	TOK	becoming		become\VMG----
+2246	TOK	a		a\AI---S
+2247	TOK	commercial		commercial\JA
+##	TAG	<abbr>
+2248	TOK	package.		package.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+2249	TOK	For		For\N5S
+2250	TOK	details		detail\N5P
+---	DLD	,		=\DELIM
+2251	TOK	see		see\VMF6R66
+---	DLE	"		=\DELIM
+##	TAG	<name>
+2252	TOK	The Joy of J		The_Joy_of_J\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+2253	TOK	by		by\P
+##	TAG	<name>
+2254	TOK	Dick Pountain		Dick_Pountain\N46
+##	TAG	</name>
+2255	TOK	in		in\P
+2256	TOK	the		the\AT---6
+##	TAG	<loc pos="N5S">
+2257	TOK	September		september\N5S
+##	TAG	</loc>
+---	DLD	'		=\DELIM
+##	TAG	<num>
+2258	TOK	95		95\X
+##	TAG	</num>
+##	TAG	<abbr>
+2259	TOK	BYTE.		BYTE.\N5P
+##	TAG	</abbr>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2260	TOK	We	BOS	we\RPP1NN
+2261	TOK	shipped		ship\VMF6A66
+##	TAG	<name>
+2262	TOK	BYTEmark		BYTEmark\N46
+##	TAG	</name>
+2263	TOK	source		source\N5S
+2264	TOK	code		code\N5S
+2265	TOK	to		to\P
+2266	TOK	each		each\AG---S
+2267	TOK	vendor		vendor\N5S
+2268	TOK	and		and\CC
+2269	TOK	asked		ask\VMF6A66
+2270	TOK	them		them\RPP3NA
+2271	TOK	to		to\P
+2272	TOK	determine		determine\VMI----
+2273	TOK	the		the\AT---6
+2274	TOK	best		good\JS
+2275	TOK	optimization		optimization\N5S
+2276	TOK	settings		setting\N5P
+2277	TOK	for		for\P
+2278	TOK	the		the\AT---6
+2279	TOK	program		program\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2280	TOK	We	BOS	we\RPP1NN
+2281	TOK	compiled		compile\VMF6A66
+2282	TOK	the		the\AT---6
+2283	TOK	test		test\N5S
+##	TAG	<loc pos="P">
+2284	TOK	according to		according_to\P
+##	TAG	</loc>
+2285	TOK	their		their\APP3N6
+2286	TOK	recipes		recipe\N5P
+2287	TOK	and		and\CC
+2288	TOK	ran		run\VMF6A66
+2289	TOK	the		the\AT---6
+2290	TOK	resulting		result\VMG----
+2291	TOK	executable		executable\JA
+2292	TOK	on		on\P
+2293	TOK	an		an\AI---S
+##	TAG	<name>
+2294	TOK	Intergraph		Intergraph\N46
+##	TAG	</name>
+2295	TOK	system		system\N5S
+2296	TOK	running		run\VMG----
+##	TAG	<name>
+2297	TOK	Windows NT		Windows_NT\N46
+##	TAG	</name>
+##	TAG	<num>
+2298	TOK	3.51		3.51\X
+##	TAG	</num>
+2299	TOK	with		with\P
+2300	TOK	dual		dual\JA
+##	TAG	<num>
+2301	TOK	150		150\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+2302	TOK	MHz Pentium Pro		MHz_Pentium_Pro\N46
+##	TAG	</name>
+##	TAG	<abbr>
+2303	TOK	processors.		processors.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+2304	TOK	No		No\N5P
+2305	TOK	benchmark		benchmark\VMF6R66
+2306	TOK	we		we\RPP1NN
+2307	TOK	tested		test\VMF6A66
+2308	TOK	was		be\V6F-A66
+2309	TOK	multithreaded		multithreaded\JA
+---	DLD	,		=\DELIM
+2310	TOK	so		so\CC
+2311	TOK	the		the\AT---6
+2312	TOK	additional		additional\JA
+2313	TOK	processor		processor\N5S
+2314	TOK	had		have\V6F6A66
+2315	TOK	no		no\AI---6
+##	TAG	<abbr>
+2316	TOK	effect.		effect.\N5P
+##	TAG	</abbr>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2317	TOK	For	BOS	for\P
+2318	TOK	the		the\AT---6
+2319	TOK	results		result\N5P
+2320	TOK	of		of\P
+2321	TOK	the		the\AT---6
+2322	TOK	tests		test\N5P
+---	DLD	,		=\DELIM
+2323	TOK	see		see\VMF6R66
+2324	TOK	the		the\AT---6
+2325	TOK	graphs		graph\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2326	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+2327	TOK	BYTEmark		BYTEmark\N46
+##	TAG	</name>
+2328	TOK	index		index\N5S
+2329	TOK	figures		figure\N5P
+2330	TOK	are		be\V6FDR66
+2331	TOK	automatically		automatically\DGA7
+2332	TOK	calculated		calculate\VMC----
+2333	TOK	by		by\P
+2334	TOK	the		the\AT---6
+2335	TOK	program		program\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2336	TOK	For	BOS	for\P
+2337	TOK	the		the\AT---6
+2338	TOK	J		j\N5S
+2339	TOK	test		test\N5S
+---	DLD	,		=\DELIM
+2340	TOK	we		we\RPP1NN
+2341	TOK	entered		enter\VMF6A66
+2342	TOK	a		a\AI---S
+2343	TOK	short		short\JA
+2344	TOK	linear		linear\JA
+2345	TOK	programming		programming\N5S
+2346	TOK	script		script\N5S
+---	DLE	(		=\DELIM
+2347	TOK	short		short\JA
+2348	TOK	by		by\P
+2349	TOK	J		j\N5S
+2350	TOK	standards		standard\N5P
+---	DLD	,		=\DELIM
+2351	TOK	that		that\CS
+2352	TOK	is		be\V6FDRS3
+---	DLD	)		=\DELIM
+2353	TOK	that		that\CS
+2354	TOK	performs		perform\VMFDRS3
+2355	TOK	the		the\AT---6
+2356	TOK	simplex		simplex\JA
+2357	TOK	algorithm		algorithm\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2358	TOK	We	BOS	we\RPP1NN
+2359	TOK	also		also\DGA7
+2360	TOK	entered		enter\VMF6A66
+2361	TOK	a		a\AI---S
+2362	TOK	script		script\N5S
+2363	TOK	to		to\P
+2364	TOK	calculate		calculate\VMI----
+2365	TOK	the		the\AT---6
+2366	TOK	determinant		determinant\N5S
+2367	TOK	of		of\P
+2368	TOK	matrix		matrix\N5S
+2369	TOK	and		and\CC
+2370	TOK	turned		turn\VMF6A66
+2371	TOK	it		it\RPS3N6
+2372	TOK	loose		loose\JA
+2373	TOK	on		on\P
+2374	TOK	an		an\AI---S
+2375	TOK	8x8		8x8\N5S
+##	TAG	<abbr>
+2376	TOK	matrix.		matrix.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2377	TOK	Note		Note\N46
+##	TAG	</name>
+2378	TOK	that		that\RW63N6
+2379	TOK	although		although\CS
+2380	TOK	we		we\RPP1NN
+2381	TOK	did		do\V6FDA66
+2382	TOK	not		not\DGA7
+2383	TOK	formally		formally\DGA7
+2384	TOK	review		review\VMI----
+##	TAG	<name>
+2385	TOK	Borland		Borland\N46
+##	TAG	</name>
+2386	PGR	's		genmark\GENMARK
+2387	TOK	product		product\N5S
+2388	TOK	for		for\P
+2389	TOK	this		this\AD---S
+2390	TOK	article		article\N5S
+---	DLD	,		=\DELIM
+2391	TOK	we		we\RPP1NN
+2392	TOK	include		include\VMF6R66
+2393	TOK	the		the\AT---6
+2394	TOK	results		result\N5P
+2395	TOK	from		from\P
+2396	TOK	their		their\APP3N6
+2397	TOK	version		version\N5S
+##	TAG	<num>
+2398	TOK	4.53		4.53\X
+##	TAG	</num>
+2399	TOK	compiler		compiler\N5S
+2400	TOK	for		for\P
+2401	TOK	comparison		comparison\N5S
+##	TAG	<abbr>
+2402	TOK	purposes.		purposes.\N5P
+##	TAG	</abbr>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2403	TOK	If	BOS	if\CS
+2404	TOK	we		we\RPP1NN
+2405	TOK	were		be\V6F-A66
+2406	TOK	to		to\P
+2407	TOK	base		base\VMI----
+2408	TOK	our		our\APP1N6
+2409	TOK	conclusions		conclusion\N5P
+2410	TOK	on		on\P
+##	TAG	<name>
+2411	TOK	BYTEmark		BYTEmark\N46
+##	TAG	</name>
+2412	TOK	results		result\N5P
+2413	TOK	alone		alone\DGA7
+---	DLD	,		=\DELIM
+2414	TOK	then		then\DGA7
+##	TAG	<name>
+2415	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+2416	TOK	is		be\V6FDRS3
+2417	TOK	the		the\AT---6
+2418	TOK	clear		clear\JA
+2419	TOK	winner		winner\N5S
+---	DLD	,		=\DELIM
+2420	TOK	with		with\P
+##	TAG	<name>
+2421	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+2422	TOK	close		close\DGA7
+2423	TOK	behind		behind\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2424	TOK	The	BOS	the\AT---6
+2425	TOK	J		J\N5P
+2426	TOK	benchmark		benchmark\VMF6R66
+---	DLD	,		=\DELIM
+2427	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+2428	TOK	provides		provide\VMFDRS3
+2429	TOK	a		a\AI---S
+2430	TOK	different		different\JA
+2431	TOK	perspective		perspective\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2432	TOK	Ironically	BOS	ironically\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2433	TOK	Borland		Borland\N46
+##	TAG	</name>
+2434	TOK	fared		fare\VMF6A66
+2435	TOK	better		good\JC
+2436	TOK	than		than\CS
+2437	TOK	the		the\AT---6
+2438	TOK	rest		rest\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2439	TOK	The	BOS	the\AT---6
+2440	TOK	difference		difference\N5S
+2441	TOK	in		in\P
+2442	TOK	performance		performance\N5S
+2443	TOK	of		of\P
+2444	TOK	the		the\AT---6
+##	TAG	<num>
+2445	TOK	two		two\X
+##	TAG	</num>
+2446	TOK	tests		test\N5P
+2447	TOK	is		be\V6FDRS3
+2448	TOK	likely		likely\DGA7
+2449	TOK	due		due\JA
+2450	TOK	to		to\P
+2451	TOK	the		the\AT---6
+2452	TOK	different		different\JA
+2453	TOK	code		code\N5S
+2454	TOK	models		model\N5P
+2455	TOK	they		they\RPP3NN
+2456	TOK	present		present\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2457	TOK	Tests	BOS	test\N5P
+2458	TOK	within		within\P
+2459	TOK	the		the\AT---6
+##	TAG	<name>
+2460	TOK	BYTEmark		BYTEmark\N46
+##	TAG	</name>
+2461	TOK	tend		tend\VMF6R66
+2462	TOK	to		to\P
+2463	TOK	be		be\VMI----
+2464	TOK	small		small\JA
+2465	TOK	routines		routine\N5P
+2466	TOK	executed		execute\VMC----
+2467	TOK	repeatedly		repeatedly\DGA7
+---	DLD	;		=\DELIM
+2468	TOK	execution		execution\N5S
+2469	TOK	flow		flow\N5S
+2470	TOK	in		in\P
+2471	TOK	the		the\AT---6
+2472	TOK	J		j\N5S
+2473	TOK	interpreter		interpreter\N5S
+2474	TOK	will		will\VOFDR66
+2475	TOK	be		be\VMI----
+2476	TOK	less		less\DDC7
+2477	TOK	localized		localize\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2478	TOK	If	BOS	if\CS
+---	DLI	-		=\DELIM
+2479	TOK	Else		Else\N5S
+##	TAG	<name>
+2480	TOK	Statement	EOS	Statement\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2482	TOK	Deciding	BOS	decide\VMG----
+2483	TOK	which		which\AW---6
+2484	TOK	C++		C++\N5S
+2485	TOK	environment		environment\N5S
+2486	TOK	to		to\P
+2487	TOK	buy		buy\N5S
+2488	TOK	depends		depend\VMFDRS3
+2489	TOK	largely		largely\DGA7
+2490	TOK	on		on\P
+2491	TOK	your		your\AP62N6
+2492	TOK	target		target\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2493	TOK	If	BOS	if\CS
+2494	TOK	you		you\RP62N6
+2495	TOK	're		're\N5S
+2496	TOK	going		go\VMG----
+2497	TOK	for		for\P
+2498	TOK	platform		platform\N5S
+2499	TOK	coverage		coverage\N5S
+2500	TOK	within		within\P
+2501	TOK	the		the\AT---6
+##	TAG	<name>
+2502	TOK	Intel		Intel\N46
+##	TAG	</name>
+2503	TOK	family		family\N5S
+---	DLD	,		=\DELIM
+2504	TOK	we		we\RPP1NN
+2505	TOK	recommend		recommend\VMF6R66
+##	TAG	<name>
+2506	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2507	TOK	Though	BOS	though\CS
+2508	TOK	its		its\APS3N6
+2509	TOK	integer		integer\N5S
+2510	TOK	performance		performance\N5S
+2511	TOK	has		have\V6FDRS3
+2512	TOK	slipped		slip\VMC----
+2513	TOK	compared		compare\VMC----
+2514	TOK	to		to\P
+2515	TOK	other		other\JA
+2516	TOK	compilers		compiler\N5P
+---	DLD	,		=\DELIM
+2517	TOK	it		it\RPS3N6
+2518	TOK	continues		continue\VMFDRS3
+2519	TOK	to		to\P
+2520	TOK	do		do\VMI----
+2521	TOK	well		well\DGA7
+2522	TOK	with		with\P
+2523	TOK	floating		float\VMG----
+---	DLI	-		=\DELIM
+2524	TOK	point		point\N5S
+2525	TOK	code		code\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2526	TOK	The	BOS	the\AT---6
+2527	TOK	new		new\JA
+##	TAG	<name>
+2528	TOK	Visual Programmer		Visual_Programmer\N46
+##	TAG	</name>
+2529	TOK	makes		make\VMFDRS3
+##	TAG	<name>
+2530	TOK	Windows		Windows\N46
+##	TAG	</name>
+2531	TOK	development		development\N5S
+2532	TOK	with		with\P
+2533	TOK	the		the\AT---6
+##	TAG	<name>
+2534	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+2535	TOK	package		package\VMF6R66
+2536	TOK	a		a\AI---S
+2537	TOK	less		less\DDC7
+2538	TOK	strenuous		strenuous\JA
+2539	TOK	challenge		challenge\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2540	TOK	Close	BOS	close\JA
+2541	TOK	behind		behind\P
+##	TAG	<name>
+2542	TOK	Watcom		Watcom\N46
+##	TAG	</name>
+2543	TOK	is		be\V6FDRS3
+##	TAG	<name>
+2544	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2545	TOK	which		which\RW63N-
+2546	TOK	covers		cover\VMFDRS3
+2547	TOK	nearly		nearly\DGA7
+2548	TOK	as		as\CS
+2549	TOK	many		many\AI---P
+2550	TOK	target		target\N5S
+2551	TOK	platforms		platform\N5P
+---	DLD	,		=\DELIM
+2552	TOK	provides		provide\VMFDRS3
+2553	TOK	a		a\AI---S
+2554	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+2555	TOK	thought		think\VMF6A66
+---	DLI	-		=\DELIM
+2556	TOK	out		out\DGA7
+2557	TOK	development		development\N5S
+2558	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+2559	TOK	and		and\CC
+2560	TOK	is		be\V6FDRS3
+2561	TOK	designed		design\VMC----
+2562	TOK	by		by\P
+2563	TOK	a		a\AI---S
+2564	TOK	crew		crew\N5S
+2565	TOK	of		of\P
+2566	TOK	engineers		engineer\N5P
+2567	TOK	who		who\RW63N-
+2568	TOK	continue		continue\VMF6R66
+2569	TOK	to		to\P
+2570	TOK	amaze		amaze\VMI----
+2571	TOK	us		us\RPP1NA
+2572	TOK	with		with\P
+2573	TOK	their		their\APP3N6
+2574	TOK	imaginative		imaginative\JA
+2575	TOK	extensions		extension\N5P
+2576	TOK	to		to\P
+2577	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="integrated development environment">
+2578	TOK	IDE		IDE\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2579	TOK	For	BOS	for\P
+2580	TOK	people		people\N56
+2581	TOK	who		who\RW63N-
+2582	TOK	know		know\VMF6R66
+2583	TOK	they		they\RPP3NN
+2584	TOK	're		're\N5S
+2585	TOK	going		go\VMG----
+2586	TOK	to		to\P
+2587	TOK	be		be\VMI----
+2588	TOK	working		working\JA
+2589	TOK	on		on\P
+##	TAG	<num>
+2590	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+2591	TOK	bit		bit\N5S
+##	TAG	<name>
+2592	TOK	Windows		Windows\N46
+##	TAG	</name>
+2593	TOK	platforms		platform\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2594	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+2595	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2596	TOK	Visual		Visual\N46
+##	TAG	</name>
+2597	TOK	C++		C++\N5S
+2598	TOK	is		be\V6FDRS3
+2599	TOK	our		our\APP1N6
+2600	TOK	top		top\N5S
+2601	TOK	recommendation		recommendation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2602	TOK	Its	BOS	its\APS3N6
+2603	TOK	overall		overall\JA
+2604	TOK	performance		performance\N5S
+---	DLE	(		=\DELIM
+2605	TOK	combining		combine\VMG----
+2606	TOK	all		all\AG---6
+2607	TOK	benchmark		benchmark\N5S
+2608	TOK	scores		score\N5P
+---	DLD	)		=\DELIM
+2609	TOK	takes		take\VMFDRS3
+2610	TOK	first		first\DGA7
+2611	TOK	place		place\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2612	TOK	Plus	BOS	plus\CS
+---	DLD	,		=\DELIM
+2613	TOK	the		the\AT---6
+##	TAG	<name>
+2614	TOK	Component Gallery--already		Component_Gallery--already\N46
+##	TAG	</name>
+2615	TOK	a		a\AI---S
+2616	TOK	useful		useful\JA
+2617	TOK	mechanism		mechanism\N5S
+2618	TOK	for		for\P
+2619	TOK	rapidly		rapidly\DGA7
+2620	TOK	incorporating		incorporate\VMG----
+##	TAG	<name>
+2621	TOK	OCXes		OCXes\N46
+##	TAG	</name>
+2622	TOK	into		into\P
+2623	TOK	a		a\AI---S
+2624	TOK	C++		C++\N5S
+2625	TOK	application		application\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2626	TOK	will		will\VOFDR66
+2627	TOK	evolve		evolve\VMI----
+2628	TOK	into		into\P
+2629	TOK	a		a\AI---S
+2630	TOK	more		more\DDC7
+2631	TOK	robust		robust\JA
+2632	TOK	object		object\N5S
+---	DLI	-		=\DELIM
+2633	TOK	management		management\N5S
+2634	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2635	TOK	C++	BOS	C++\N5S
+2636	TOK	compilers		compiler\N5P
+2637	TOK	perform		perform\VMF6R66
+2638	TOK	differently		differently\DGA7
+2639	TOK	depending		depend\VMG----
+2640	TOK	on		on\P
+2641	TOK	the		the\AT---6
+2642	TOK	code		code\N5S
+2643	TOK	model		model\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2644	TOK	Microsoft Visual	BOS	Microsoft_Visual\N46
+##	TAG	</name>
+2645	TOK	C++		C++\N5P
+##	TAG	<num>
+2646	TOK	4.0		4.0\X
+##	TAG	</num>
+2647	TOK	is		be\V6FDRS3
+2648	TOK	fastest		fast\JS
+2649	TOK	in		in\P
+2650	TOK	the		the\AT---6
+2651	TOK	algorithm		algorithm\N5S
+---	DLI	-		=\DELIM
+2652	TOK	based		base\VMC----
+##	TAG	<name>
+2653	TOK	Native-Mode BYTEmark		Native-Mode_BYTEmark\N46
+##	TAG	</name>
+2654	TOK	tests		test\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2655	TOK	Borland	BOS	Borland\N46
+##	TAG	</name>
+2656	TOK	C++		C++\N5P
+##	TAG	<num>
+2657	TOK	4.53		4.53\X
+##	TAG	</num>
+2658	TOK	is		be\V6FDRS3
+2659	TOK	tops		tops\JA
+2660	TOK	in		in\P
+2661	TOK	compiling		compile\VMG----
+##	TAG	<num>
+2662	TOK	two		two\X
+##	TAG	</num>
+2663	TOK	scripts		script\N5P
+2664	TOK	written		write\VMC----
+2665	TOK	in		in\P
+2666	TOK	the		the\AT---6
+2667	TOK	public		public\N56
+---	DLI	-		=\DELIM
+2668	TOK	domain		domain\N5S
+2669	TOK	J		j\N5S
+2670	TOK	language		language\N5S
+---	DLD	,		=\DELIM
+2671	TOK	a		a\AI---S
+2672	TOK	code		code\N5S
+2673	TOK	flow		flow\N5S
+2674	TOK	that		that\RW63N6
+2675	TOK	is		be\V6FDRS3
+2676	TOK	less		less\DDC7
+2677	TOK	localized		localize\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2678	TOK	Indexes	BOS	index\N5P
+2679	TOK	are		be\V6FDR66
+2680	TOK	based		base\VMC----
+2681	TOK	on		on\P
+2682	TOK	the		the\AT---6
+2683	TOK	performance		performance\N5S
+2684	TOK	of		of\P
+2685	TOK	a		a\AI---S
+##	TAG	<num>
+2686	TOK	90		90\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+2687	TOK	MHz Dell XPS P90 Pentium		MHz_Dell_XPS_P90_Pentium\N46
+##	TAG	</name>
+2688	TOK	system		system\N5S
+---	DLE	(		=\DELIM
+2689	TOK	which		which\RW63N-
+2690	TOK	scores		score\VMFDRS3
+2691	TOK	a		a\AI---S
+##	TAG	<num>
+2692	TOK	1.0		1.0\X
+##	TAG	</num>
+2693	TOK	in		in\P
+2694	TOK	all		all\AG---6
+2695	TOK	the		the\AT---6
+2696	TOK	tests		test\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2697	TOK	With	BOS	with\P
+2698	TOK	the		the\AT---6
+2699	TOK	exception		exception\N5S
+2700	TOK	of		of\P
+##	TAG	<name>
+2701	TOK	MetaWare High		MetaWare_High\N46
+##	TAG	</name>
+2702	TOK	C/C++		C/C++\N5P
+---	DLD	,		=\DELIM
+2703	TOK	the		the\AT---6
+2704	TOK	compilers		compiler\N5P
+2705	TOK	all		all\DGA7
+2706	TOK	offer		offer\VMF6R66
+2707	TOK	multipaned		multipaned\JA
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2708	TOK	Windows		Windows\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2709	TOK	based		base\VMC----
+2710	TOK	views		view\N5P
+2711	TOK	into		into\P
+2712	TOK	the		the\AT---6
+2713	TOK	application		application\N5S
+2714	TOK	you		you\RP62N6
+2715	TOK	're		're\N5S
+2716	TOK	developing		develop\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2717	TOK	Rick	BOS	rick\N5S
+##	TAG	<name>
+2718	TOK	Grehan		Grehan\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="email">
+2719	TOK	rick_g@bix.com		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLE	,		=\DELIM
+2720	TOK	a		a\AI---S
+##	TAG	<name>
+2721	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+2722	TOK	senior		senior\N5S
+2723	TOK	technical		technical\JA
+2724	TOK	editor		editor\N5S
+---	DLD	,		=\DELIM
+2725	TOK	developed		develop\VMF6A66
+2726	TOK	the		the\AT---6
+##	TAG	<name>
+2727	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+2728	TOK	benchmark		benchmark\N5S
+2729	TOK	suite		suite\N5S
+2730	TOK	and		and\CC
+2731	TOK	writes		write\VMFDRS3
+2732	TOK	the		the\AT---6
+2733	TOK	monthly		monthly\JA
+##	TAG	<name>
+2734	TOK	CodeTalk		CodeTalk\N46
+##	TAG	</name>
+2735	TOK	column		column\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2736	TOK	He	BOS	he\RPS3MN
+2737	TOK	has		have\V6FDRS3
+2738	TOK	an		an\AI---S
+##	TAG	<abbr>
+2739	TOK	M.S.		M.S.\N5S
+##	TAG	</abbr>
+2740	TOK	in		in\P
+2741	TOK	mathematics/computer		mathematics/computer\N5S
+2742	TOK	science		science\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

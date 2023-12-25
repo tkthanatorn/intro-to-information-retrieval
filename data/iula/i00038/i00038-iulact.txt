@@ -1,0 +1,4682 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<date pos="T" ISO8601="1996-04-">
+1	TOK	April 1996	BOS	April_1996\T
+##	TAG	</date>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+2	TOK	Special Report		Special_Report\N46
+##	TAG	</name>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+3	TOK	Better Connections		Better_Connections\N46
+##	TAG	</name>
+4	TOK	in		in\P
+##	TAG	<name>
+5	TOK	Windows	EOS	Windows\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+7	TOK	Better	BOS	good\JC
+##	TAG	<name>
+8	TOK	Connections		Connections\N46
+##	TAG	</name>
+9	TOK	in		in\P
+##	TAG	<name>
+10	TOK	Windows	EOS	Windows\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+12	TOK	Windows	BOS	Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+13	TOK	95		95\X
+##	TAG	</num>
+14	PGR	's		be\V6FDRS3
+15	TOK	built		build\VMC----
+---	DLI	-		=\DELIM
+16	TOK	in		in\P
+17	TOK	communications		communication\N5P
+18	TOK	makes		make\VMFDRS3
+19	TOK	you		you\RP62N6
+20	TOK	wonder		wonder\VMI----
+21	TOK	if		if\CS
+22	TOK	you		you\RP62N6
+23	TOK	need		need\V6F6R66
+24	TOK	add		add\VMF6R66
+---	DLI	-		=\DELIM
+25	TOK	on		on\P
+26	TOK	comm		comm\N5S
+27	TOK	software	EOS	software\N5S
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+29	TOK	Paul Korzeniowski	BOS	Paul_Korzeniowski\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+31	TOK	Unlike	BOS	unlike\P
+32	TOK	its		its\APS3N6
+33	TOK	predecessors		predecessor\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+34	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+35	TOK	95		95\X
+##	TAG	</num>
+36	TOK	was		be\V6F-A66
+37	TOK	designed		design\VMC----
+38	TOK	from		from\P
+39	TOK	the		the\AT---6
+40	TOK	start		start\N5S
+41	TOK	with		with\P
+42	TOK	communications		communication\N5P
+43	TOK	and		and\CC
+44	TOK	network		network\N5S
+45	TOK	computing		computing\N5S
+46	TOK	in		in\P
+47	TOK	mind		mind\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+48	TOK	The	BOS	the\AT---6
+49	TOK	operating		operating\JA
+50	TOK	system		system\N5S
+51	TOK	has		have\V6FDRS3
+52	TOK	many		many\RIP3N-
+53	TOK	of		of\P
+54	TOK	the		the\AT---6
+55	TOK	basic		basic\JA
+56	TOK	functions		function\N5P
+57	TOK	a		a\AI---S
+58	TOK	user		user\N5S
+59	TOK	needs		need\VMFDRS3
+60	TOK	to		to\P
+61	TOK	connect		connect\VMI----
+62	TOK	to		to\P
+63	TOK	on		on\P
+---	DLI	-		=\DELIM
+64	TOK	line		line\N5S
+65	TOK	services		service\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+66	TOK	LANs		LANs\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+67	TOK	and		and\CC
+68	TOK	the		the\AT---6
+##	TAG	<name>
+69	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+70	TOK	Many	BOS	many\AI---P
+71	TOK	tasks		task\N5P
+---	DLD	,		=\DELIM
+72	TOK	such		such\JA
+73	TOK	as		as\P
+74	TOK	transferring		transfer\VMG----
+75	TOK	files		file\N5P
+---	DLD	,		=\DELIM
+76	TOK	are		be\V6FDR66
+77	TOK	now		now\DGA7
+78	TOK	simpler		simple\JC
+---	DLD	,		=\DELIM
+79	TOK	and		and\CC
+80	TOK	you		you\RP62N6
+81	TOK	can		can\VOFDR66
+82	TOK	switch		switch\VMI----
+83	TOK	more		more\DDC7
+84	TOK	easily		easily\DGA7
+85	TOK	between		between\P
+86	TOK	background		background\N5S
+87	TOK	and		and\CC
+88	TOK	foreground		foreground\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+89	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+90	TOK	OS		OS\N46
+##	TAG	</name>
+91	TOK	includes		include\VMFDRS3
+92	TOK	capabilities		capability\N5P
+93	TOK	that		that\RW63N6
+94	TOK	users		user\N5P
+95	TOK	could		can\VOFDA66
+96	TOK	previously		previously\DGA7
+97	TOK	find		find\VMI----
+98	TOK	only		only\DGA7
+99	TOK	in		in\P
+100	TOK	separate		separate\JA
+---	DLD	,		=\DELIM
+101	TOK	add		add\VMF6R66
+---	DLI	-		=\DELIM
+102	TOK	on		on\P
+103	TOK	packages		package\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+104	TOK	So	BOS	so\CC
+---	DLD	,		=\DELIM
+105	TOK	with		with\P
+##	TAG	<name>
+106	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+107	TOK	95		95\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+108	TOK	you		you\RP62N6
+109	TOK	must		must\VOFDR66
+110	TOK	ask		ask\VMI----
+111	TOK	whether		whether\CS
+112	TOK	you		you\RP62N6
+113	TOK	need		need\V6F6R66
+114	TOK	a		a\AI---S
+115	TOK	third		third\MOS
+---	DLI	-		=\DELIM
+116	TOK	party		party\N5S
+117	TOK	communications		communication\N5P
+118	TOK	package		package\VMF6R66
+---	DLD	,		=\DELIM
+119	TOK	or		or\CC
+120	TOK	will		will\VOFDR66
+121	TOK	you		you\RP62N6
+122	TOK	be		be\VMI----
+123	TOK	content		content\N5S
+124	TOK	with		with\P
+##	TAG	<name>
+125	TOK	HyperTerminal		HyperTerminal\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+126	TOK	Exchange		Exchange\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+127	TOK	Internet Explorer		Internet_Explorer\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+128	TOK	Briefcase		Briefcase\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+129	TOK	and		and\CC
+130	TOK	dial		dial\VMI----
+---	DLI	-		=\DELIM
+131	TOK	up/direct		up/direct\JA
+132	TOK	cable		cable\N5S
+133	TOK	networking		network\VMG----
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+134	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+135	TOK	Win		Win\N46
+##	TAG	</name>
+##	TAG	<num>
+136	TOK	95		95\X
+##	TAG	</num>
+##	TAG	<name>
+137	TOK	Communications Feast	EOS	Communications_Feast\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+139	TOK	HyperTerminal	BOS	HyperTerminal\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+140	TOK	a		a\AI---S
+141	TOK	big		big\JA
+142	TOK	improvement		improvement\N5S
+143	TOK	over		over\P
+##	TAG	<name>
+144	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+145	TOK	3.1		3.1\X
+##	TAG	</num>
+146	PGR	's		genmark\GENMARK
+##	TAG	<name>
+147	TOK	Terminal		Terminal\N46
+##	TAG	</name>
+148	TOK	applet		applet\N5S
+---	DLD	,		=\DELIM
+149	TOK	lets		let\VMFDRS3
+150	TOK	you		you\RP62N6
+151	TOK	transmit		transmit\VMI----
+152	TOK	and		and\CC
+153	TOK	receive		receive\VMI----
+154	TOK	files		file\N5P
+---	DLD	,		=\DELIM
+155	TOK	and		and\CC
+156	TOK	you		you\RP62N6
+157	TOK	can		can\VOFDR66
+158	TOK	dial		dial\VMI----
+159	TOK	up		up\P
+##	TAG	<name>
+160	TOK	E-mail		E-mail\N46
+##	TAG	</name>
+161	TOK	and		and\CC
+162	TOK	on		on\P
+---	DLI	-		=\DELIM
+163	TOK	line		line\N5S
+164	TOK	services		service\N5P
+165	TOK	simply		simply\DGA7
+166	TOK	by		by\P
+167	TOK	clicking		click\VMG----
+168	TOK	on		on\P
+169	TOK	icons		icon\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+170	TOK	Of course	BOS	Of_course\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+171	TOK	you		you\RP62N6
+172	TOK	have		have\V6F6R66
+173	TOK	to		to\P
+174	TOK	enter		enter\VMI----
+175	TOK	needed		need\VMC----
+176	TOK	information		information\N5S
+177	TOK	for		for\P
+178	TOK	specific		specific\JA
+179	TOK	services		service\N5P
+---	DLD	,		=\DELIM
+180	TOK	while		while\CS
+181	TOK	the		the\AT---6
+182	TOK	third		third\MOS
+---	DLI	-		=\DELIM
+183	TOK	party		party\N5S
+184	TOK	products		product\N5P
+185	TOK	come		come\VMF6R66
+186	TOK	configured		configure\VMC----
+187	TOK	ready		ready\JA
+188	TOK	to		to\P
+189	TOK	use		use\VMI----
+190	TOK	these		this\AD---P
+191	TOK	services		service\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+192	TOK	Microsoft Exchange	BOS	Microsoft_Exchange\N46
+##	TAG	</name>
+193	TOK	enables		enable\VMFDRS3
+194	TOK	you		you\RP62N6
+195	TOK	to		to\P
+196	TOK	view		view\VMI----
+197	TOK	a		a\AI---S
+198	TOK	fax		fax\N5S
+199	TOK	and		and\CC
+200	TOK	set		set\N5S
+201	TOK	up		up\P
+202	TOK	a		a\AI---S
+203	TOK	fax		fax\N5S
+204	TOK	cover		cover\N5S
+205	TOK	page		page\N5S
+---	DLD	,		=\DELIM
+206	TOK	but		but\CC
+207	TOK	it		it\RPS3N6
+208	TOK	doesn		do\V6FDRS3
+209	PGR	't		not\DGA7
+210	TOK	let		let\VMF6R66
+211	TOK	you		you\RP62N6
+212	TOK	preview		preview\VMI----
+213	TOK	a		a\AI---S
+214	TOK	fax		fax\N5S
+215	TOK	before		before\P
+216	TOK	sending		send\VMG----
+217	TOK	it		it\RPS3N6
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+218	TOK	a		a\AI---S
+219	TOK	capability		capability\N5S
+220	TOK	found		find\VMC----
+221	TOK	in		in\P
+##	TAG	<name>
+222	TOK	Delrina		Delrina\N46
+##	TAG	</name>
+223	PGR	's		genmark\GENMARK
+##	TAG	<name>
+224	TOK	WinFax Pro		WinFax_Pro\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+225	TOK	Microsoft	BOS	Microsoft\N46
+##	TAG	</name>
+226	PGR	's		genmark\GENMARK
+##	TAG	<name>
+227	TOK	Internet Wizard		Internet_Wizard\N46
+##	TAG	</name>
+228	TOK	walks		walk\VMFDRS3
+229	TOK	you		you\RP62N6
+230	TOK	through		through\P
+231	TOK	setting		set\VMG----
+232	TOK	up		up\P
+233	TOK	an		an\AI---S
+##	TAG	<name>
+234	TOK	Internet		Internet\N46
+##	TAG	</name>
+235	TOK	connection		connection\N5S
+236	TOK	using		use\VMG----
+237	TOK	either		either\CC
+238	TOK	the		the\AT---6
+##	TAG	<name>
+239	TOK	Microsoft Network		Microsoft_Network\N46
+##	TAG	</name>
+240	TOK	or		or\CC
+241	TOK	another		another\JA
+##	TAG	<name>
+242	TOK	Internet		Internet\N46
+##	TAG	</name>
+243	TOK	service		service\N5S
+244	TOK	provider		provider\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+245	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+246	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+247	TOK	95		95\X
+##	TAG	</num>
+##	TAG	<name>
+248	TOK	Plus		Plus\N46
+##	TAG	</name>
+249	TOK	package		package\N5S
+250	TOK	includes		include\VMFDRS3
+251	TOK	a		a\AI---S
+##	TAG	<name>
+252	TOK	World Wide Web		World_Wide_Web\N46
+##	TAG	</name>
+253	TOK	browser		browser\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+254	TOK	Internet Explorer		Internet_Explorer\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+256	TOK	But	BOS	but\CC
+257	TOK	a		a\AI---S
+258	TOK	user		user\N5S
+259	TOK	who		who\RW63N-
+260	TOK	wants		want\VMFDRS3
+261	TOK	to		to\P
+262	TOK	do		do\VMI----
+##	TAG	<loc pos="N5S">
+263	TOK	something else		something_else\N5S
+##	TAG	</loc>
+264	TOK	on		on\P
+265	TOK	the		the\AT---6
+##	TAG	<name>
+266	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+267	TOK	setting		setting\N5S
+268	TOK	up		up\P
+269	TOK	a		a\AI---S
+270	TOK	chat		chat\N5S
+271	TOK	session		session\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+272	TOK	for instance		for_instance\DGA7
+##	TAG	</loc>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+273	TOK	or		or\CC
+274	TOK	wants		want\VMFDRS3
+275	TOK	to		to\P
+276	TOK	use		use\VMI----
+277	TOK	a		a\AI---S
+##	TAG	<name>
+278	TOK	Web		Web\N46
+##	TAG	</name>
+279	TOK	browser		browser\N5S
+280	TOK	with		with\P
+281	TOK	more		many\JC
+282	TOK	or		or\CC
+283	TOK	different		different\JA
+284	TOK	capabilities		capability\N5P
+---	DLD	,		=\DELIM
+285	TOK	will		will\VOFDR66
+286	TOK	need		need\VMI----
+287	TOK	add		add\VMF6R66
+---	DLI	-		=\DELIM
+288	TOK	on		on\P
+289	TOK	software		software\N5S
+---	DLD	,		=\DELIM
+290	TOK	such		such\JA
+291	TOK	as		as\P
+##	TAG	<name>
+292	TOK	Delrina		Delrina\N46
+##	TAG	</name>
+293	PGR	's		genmark\GENMARK
+##	TAG	<name>
+294	TOK	Cyberjack		Cyberjack\N46
+##	TAG	</name>
+295	TOK	that		that\RW63N6
+296	PGR	's		be\V6FDRS3
+297	TOK	included		include\VMC----
+298	TOK	with		with\P
+##	TAG	<name>
+299	TOK	CommSuite		CommSuite\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+300	TOK	Win	BOS	win\VMI----
+##	TAG	<num>
+301	TOK	95		95\X
+##	TAG	</num>
+302	PGR	's		genmark\GENMARK
+##	TAG	<name>
+303	TOK	Briefcase		Briefcase\N46
+##	TAG	</name>
+304	TOK	lets		let\VMFDRS3
+305	TOK	you		you\RP62N6
+306	TOK	designate		designate\VMI----
+307	TOK	files		file\N5P
+308	TOK	to		to\P
+309	TOK	be		be\VMI----
+310	TOK	used		use\VMC----
+311	TOK	on		on\P
+312	TOK	a		a\AI---S
+313	TOK	different		different\JA
+314	TOK	computer		computer\N5S
+315	TOK	and		and\CC
+316	TOK	simplifies		simplify\VMFDRS3
+317	TOK	the		the\AT---6
+318	TOK	process		process\N5S
+319	TOK	of		of\P
+320	TOK	updating		update\VMG----
+321	TOK	the		the\AT---6
+322	TOK	originals		original\N5P
+323	TOK	later		later\DGC7
+324	TOK	on		on\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+325	TOK	And	BOS	and\CC
+326	TOK	file		file\N5S
+327	TOK	transfers		transfer\N5P
+328	TOK	between		between\P
+##	TAG	<num>
+329	TOK	two		two\X
+##	TAG	</num>
+330	TOK	computers		computer\N5P
+331	TOK	are		be\V6FDR66
+332	TOK	handled		handle\VMC----
+333	TOK	through		through\P
+334	TOK	dial		dial\VMI----
+---	DLI	-		=\DELIM
+335	TOK	up		up\P
+336	TOK	networking		networking\N5S
+337	TOK	and		and\CC
+338	TOK	direct		direct\JA
+339	TOK	cable		cable\N5S
+340	TOK	connection		connection\N5S
+341	TOK	utilities		utility\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+342	TOK	Windows	BOS	Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+343	TOK	95		95\X
+##	TAG	</num>
+344	TOK	incorporates		incorporate\VMFDRS3
+345	TOK	extensive		extensive\JA
+346	TOK	support		support\N5S
+347	TOK	for		for\P
+348	TOK	telephone		telephone\N5S
+---	DLI	-		=\DELIM
+349	TOK	based		base\VMC----
+350	TOK	activities		activity\N5P
+351	TOK	through		through\P
+352	TOK	the		the\AT---6
+353	TOK	telephony		telephony\N5S
+##	TAG	<name>
+354	TOK	API		API\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+355	TOK	or		or\CC
+##	TAG	<name>
+356	TOK	TAPI		TAPI\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+357	TOK	Who	BOS	who\RW63N-
+##	TAG	<name>
+358	TOK	Needs What		Needs_What\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+360	TOK	The	BOS	the\AT---6
+361	TOK	casual		casual\JA
+362	TOK	communications		communication\N5P
+363	TOK	user		user\N5S
+364	TOK	may		may\VOFDR66
+365	TOK	well		well\DGA7
+366	TOK	find		find\VMI----
+##	TAG	<name>
+367	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+368	TOK	95		95\X
+##	TAG	</num>
+369	TOK	all		all\AG---6
+370	TOK	he		he\RPS3MN
+371	TOK	or		or\CC
+372	TOK	she		she\RPS3FN
+373	TOK	ever		ever\DGA7
+374	TOK	needs		need\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+375	TOK	The	BOS	the\AT---6
+376	TOK	frequent		frequent\JA
+377	TOK	communicator		communicator\N5S
+---	DLD	,		=\DELIM
+378	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+379	TOK	is		be\V6FDRS3
+380	TOK	more		more\DDC7
+381	TOK	likely		likely\JA
+382	TOK	to		to\P
+383	TOK	discover		discover\VMI----
+384	TOK	the		the\AT---6
+385	TOK	limitations		limitation\N5P
+386	TOK	and		and\CC
+387	TOK	rough		rough\JA
+388	TOK	edges		edge\N5P
+389	TOK	and		and\CC
+390	TOK	want		want\VMF6R66
+391	TOK	something		something\RIS3N-
+392	TOK	better		better\DDC7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+393	TOK	For	BOS	for\P
+394	TOK	that		that\AD---S
+395	TOK	user		user\N5S
+---	DLD	,		=\DELIM
+396	TOK	add		add\VMF6R66
+---	DLI	-		=\DELIM
+397	TOK	on		on\P
+398	TOK	comm		comm\N5S
+399	TOK	packages		package\N5P
+400	TOK	are		be\V6FDR66
+401	TOK	often		often\DGA7
+402	TOK	simpler		simple\JC
+403	TOK	to		to\P
+404	TOK	manipulate		manipulate\VMI----
+---	DLD	,		=\DELIM
+405	TOK	are		be\V6FDR66
+406	TOK	easier		easy\JC
+407	TOK	to		to\P
+408	TOK	customize		customize\VMI----
+---	DLD	,		=\DELIM
+409	TOK	and		and\CC
+410	TOK	support		support\VMF6R66
+411	TOK	wider		wide\JC
+412	TOK	ranges		range\N5P
+413	TOK	of		of\P
+414	TOK	communications		communication\N5P
+415	TOK	options		option\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+416	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+417	TOK	three		three\X
+##	TAG	</num>
+418	TOK	packages		package\N5P
+419	TOK	we		we\RPP1NN
+420	TOK	look		look\VMF6R66
+421	TOK	at		at\P
+422	TOK	in		in\P
+423	TOK	this		this\AD---S
+424	TOK	article		article\N5S
+425	TOK	are		be\V6FDR66
+426	TOK	designed		design\VMC----
+427	TOK	for		for\P
+428	TOK	different		different\JA
+429	TOK	types		type\N5P
+430	TOK	of		of\P
+431	TOK	communications		communication\N5P
+432	TOK	users		user\N5P
+---	DLD	,		=\DELIM
+433	TOK	and		and\CC
+434	TOK	each		each\RIS3N-
+435	TOK	bundles		bundle\VMFDRS3
+436	TOK	a		a\AI---S
+437	TOK	different		different\JA
+438	TOK	set		set\N5S
+439	TOK	of		of\P
+440	TOK	features		feature\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+441	TOK	CommSuite	BOS	CommSuite\N46
+##	TAG	</name>
+442	TOK	from		from\P
+##	TAG	<name>
+443	TOK	Delrina		Delrina\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+444	TOK	now		now\DGA7
+445	TOK	a		a\AI---S
+446	TOK	division		division\N5S
+447	TOK	of		of\P
+##	TAG	<name>
+448	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+449	TOK	tries		try\VMFDRS3
+450	TOK	to		to\P
+451	TOK	include		include\VMI----
+452	TOK	virtually		virtually\DGA7
+453	TOK	everything		everything\RIS3N-
+---	DLD	,		=\DELIM
+454	TOK	but		but\CC
+455	TOK	the		the\AT---6
+456	TOK	package		package\N5S
+457	TOK	seems		seem\VMFDRS3
+458	TOK	aimed		aim\VMC----
+459	TOK	primarily		primarily\DGA7
+460	TOK	at		at\P
+461	TOK	those		that\AD---P
+462	TOK	people		people\N56
+463	TOK	with		with\P
+464	TOK	heavy		heavy\JA
+465	TOK	faxing		fax\VMG----
+466	TOK	needs		need\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+467	TOK	Traveling	BOS	traveling\JA
+##	TAG	<name>
+468	TOK	Software		Software\N46
+##	TAG	</name>
+469	PGR	's		genmark\GENMARK
+##	TAG	<name>
+470	TOK	LapLink		LapLink\N46
+##	TAG	</name>
+##	TAG	<num>
+471	TOK	7.0		7.0\X
+##	TAG	</num>
+472	TOK	for		for\P
+##	TAG	<name>
+473	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+474	TOK	95		95\X
+##	TAG	</num>
+475	TOK	is		be\V6FDRS3
+476	TOK	designed		design\VMC----
+477	TOK	for		for\P
+478	TOK	the		the\AT---6
+479	TOK	mobile		mobile\JA
+480	TOK	worker		worker\N5S
+481	TOK	or		or\CC
+482	TOK	executive		executive\N5S
+483	TOK	who		who\RW63N-
+484	TOK	may		may\VOFDR66
+485	TOK	be		be\VMI----
+486	TOK	using		use\VMG----
+487	TOK	multiple		multiple\JA
+488	TOK	computers		computer\N5P
+489	TOK	and		and\CC
+490	TOK	needs		need\VMFDRS3
+491	TOK	heavy		heavy\JA
+---	DLI	-		=\DELIM
+492	TOK	duty		duty\N5S
+493	TOK	file		file\N5S
+494	TOK	transfer		transfer\N5S
+495	TOK	and		and\CC
+496	TOK	remote		remote\JA
+497	TOK	access		access\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+498	TOK	Mustang	BOS	mustang\N5S
+##	TAG	<name>
+499	TOK	Software		Software\N46
+##	TAG	</name>
+500	PGR	's		genmark\GENMARK
+##	TAG	<name>
+501	TOK	QmodemPro for Windows		QmodemPro_for_Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+502	TOK	95		95\X
+##	TAG	</num>
+503	TOK	is		be\V6FDRS3
+504	TOK	more		more\DDC7
+505	TOK	like		like\P
+506	TOK	the		the\AT---6
+507	TOK	communications		communication\N5P
+508	TOK	programs		program\N5P
+509	TOK	we		we\RPP1NN
+510	TOK	have		have\V6F6R66
+511	TOK	seen		see\VMC----
+512	TOK	in		in\P
+513	TOK	the		the\AT---6
+514	TOK	past		past\JA
+---	DLD	,		=\DELIM
+515	TOK	and		and\CC
+516	TOK	it		it\RPS3N6
+517	TOK	seems		seem\VMFDRS3
+518	TOK	designed		design\VMC----
+519	TOK	around		around\P
+520	TOK	the		the\AT---6
+521	TOK	needs		need\N5P
+522	TOK	of		of\P
+523	TOK	those		that\RDP3N-
+524	TOK	who		who\RW63N-
+525	TOK	run		run\VMF6R66
+526	TOK	or		or\CC
+527	TOK	access		access\VMF6R66
+528	TOK	computer		computer\N5S
+529	TOK	bulletin		bulletin\N5S
+530	TOK	boards		board\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+531	TOK	These	BOS	this\AD---P
+532	TOK	communications		communication\N5P
+533	TOK	packages		package\N5P
+534	TOK	have		have\V6F6R66
+535	TOK	clearly		clearly\DGA7
+536	TOK	evolved		evolve\VMC----
+537	TOK	from		from\P
+538	TOK	different		different\JA
+539	TOK	directions		direction\N5P
+540	TOK	and		and\CC
+541	TOK	different		different\JA
+542	TOK	strengths		strength\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+543	TOK	Because of	BOS	Because_of\P
+##	TAG	</loc>
+544	TOK	these		this\AD---P
+545	TOK	different		different\JA
+546	TOK	feature		feature\N5S
+547	TOK	sets		set\N5P
+548	TOK	and		and\CC
+549	TOK	target		target\N5S
+550	TOK	users		user\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+551	TOK	for		for\P
+552	TOK	example		example\N5S
+---	DLD	,		=\DELIM
+553	TOK	one		one\MCS
+554	TOK	package		package\N5S
+555	TOK	emphasizes		emphasize\VMFDRS3
+556	TOK	desktop		desktop\N5S
+557	TOK	faxing		fax\VMG----
+---	DLD	,		=\DELIM
+558	TOK	while		while\CS
+559	TOK	the		the\AT---6
+560	TOK	other		other\RIS3N-
+##	TAG	<num>
+561	TOK	two		two\X
+##	TAG	</num>
+562	TOK	don		do\V6FDR66
+563	PGR	't		not\DGA7
+564	TOK	have		have\VMI----
+565	TOK	that		that\AD---S
+566	TOK	capability		capability\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+567	TOK	making		make\VMG----
+568	TOK	apples		apple\N5P
+---	DLI	-		=\DELIM
+569	TOK	to		to\P
+---	DLI	-		=\DELIM
+570	TOK	apples		apple\N5P
+571	TOK	comparisons		comparison\N5P
+572	TOK	among		among\P
+573	TOK	the		the\AT---6
+574	TOK	different		different\JA
+575	TOK	communications		communication\N5P
+576	TOK	products		product\N5P
+577	TOK	is		be\V6FDRS3
+578	TOK	difficult		difficult\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+579	TOK	Plus	BOS	plus\CS
+---	DLD	,		=\DELIM
+580	TOK	when		when\CS
+581	TOK	we		we\RPP1NN
+582	TOK	began		begin\VMF6A66
+583	TOK	our		our\APP1N6
+584	TOK	testing		testing\N5S
+585	TOK	for		for\P
+586	TOK	this		this\AD---S
+587	TOK	article		article\N5S
+---	DLD	,		=\DELIM
+588	TOK	there		there\DGA7
+589	TOK	were		be\V6F-A66
+590	TOK	only		only\DGA7
+##	TAG	<loc pos="RP63N-">
+591	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+592	TOK	products		product\N5P
+593	TOK	available		available\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+594	TOK	Even though	BOS	Even_though\CS
+##	TAG	</loc>
+##	TAG	<name>
+595	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+596	TOK	95		95\X
+##	TAG	</num>
+597	TOK	began		begin\VMF6A66
+598	TOK	shipping		ship\VMG----
+599	TOK	last		last\JA
+##	TAG	<loc pos="N5S">
+600	TOK	August		august\N5S
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+601	TOK	few		few\JA
+602	TOK	vendors		vendor\N5P
+603	TOK	have		have\V6F6R66
+604	TOK	ported		port\VMC----
+605	TOK	their		their\APP3N6
+606	TOK	communications		communication\N5P
+607	TOK	software		software\N5S
+608	TOK	to		to\P
+##	TAG	<name>
+609	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+610	PGR	's		genmark\GENMARK
+611	TOK	new		new\JA
+##	TAG	<name>
+612	TOK	OS		OS\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+613	TOK	These	BOS	this\RDP3N-
+614	TOK	are		be\V6FDR66
+615	TOK	all		all\AG---6
+##	TAG	<num>
+616	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+617	TOK	bit		bit\N5S
+618	TOK	applications		application\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DDC7">
+619	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+##	TAG	<num>
+620	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+621	TOK	bit		bite\VMF6A66
+---	DLD	,		=\DELIM
+622	TOK	and		and\CC
+623	TOK	thus		thus\DGA7
+624	TOK	users		user\N5P
+625	TOK	should		shall\VOFDA66
+626	TOK	see		see\VMI----
+627	TOK	improved		improve\VMC----
+628	TOK	performance		performance\N5S
+629	TOK	for		for\P
+##	TAG	<name>
+630	TOK	I/O-intensive		I/O-intensive\N46
+##	TAG	</name>
+631	TOK	chores		chore\N5P
+---	DLD	,		=\DELIM
+632	TOK	such		such\JA
+633	TOK	as		as\P
+634	TOK	downloading		download\VMG----
+635	TOK	large		large\JA
+636	TOK	files		file\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+637	TOK	We	BOS	we\RPP1NN
+638	TOK	tested		test\VMF6A66
+639	TOK	these		this\AD---P
+640	TOK	packages		package\N5P
+641	TOK	with		with\P
+##	TAG	<num>
+642	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+643	TOK	bit		bit\N5S
+644	TOK	device		device\N5S
+645	TOK	drivers		driver\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+646	TOK	The	BOS	the\AT---6
+647	TOK	vendors		vendor\N5P
+648	TOK	take		take\VMF6R66
+649	TOK	advantage		advantage\N5S
+650	TOK	of		of\P
+##	TAG	<name>
+651	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+652	TOK	95		95\X
+##	TAG	</num>
+653	TOK	features		feature\N5P
+---	DLD	,		=\DELIM
+654	TOK	such		such\JA
+655	TOK	as		as\CS
+##	TAG	<name>
+656	TOK	Tab		Tab\N46
+##	TAG	</name>
+657	TOK	bars		bar\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+658	TOK	Overall	BOS	overall\JA
+---	DLD	,		=\DELIM
+659	TOK	the		the\AT---6
+660	TOK	products		product\N5P
+661	TOK	represent		represent\VMF6R66
+662	TOK	a		a\AI---S
+663	TOK	good		good\JA
+664	TOK	first		first\MOS
+665	TOK	step		step\N5S
+666	TOK	toward		toward\P
+667	TOK	exploiting		exploit\VMG----
+668	TOK	the		the\AT---6
+669	TOK	new		new\JA
+##	TAG	<name>
+670	TOK	OS		OS\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+671	TOK	In	BOS	in\P
+672	TOK	general		general\JA
+---	DLD	,		=\DELIM
+673	TOK	these		this\AD---P
+674	TOK	applications		application\N5P
+675	TOK	offer		offer\VMF6R66
+676	TOK	a		a\AI---S
+677	TOK	variety		variety\N5S
+678	TOK	of		of\P
+679	TOK	options		option\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+680	TOK	Setting	BOS	setting\N5S
+681	TOK	up		up\P
+682	TOK	routine		routine\N5S
+683	TOK	communications		communication\N5P
+684	TOK	tasks		task\N5P
+685	TOK	usually		usually\DGA7
+686	TOK	means		mean\VMFDRS3
+687	TOK	following		following\P
+688	TOK	fill		fill\VMI----
+---	DLI	-		=\DELIM
+689	TOK	in		in\P
+---	DLI	-		=\DELIM
+690	TOK	the		the\AT---6
+---	DLI	-		=\DELIM
+691	TOK	blank		blank\JA
+692	TOK	prompts		prompt\N5P
+---	DLD	,		=\DELIM
+693	TOK	and		and\CC
+694	TOK	the		the\AT---6
+695	TOK	process		process\N5S
+696	TOK	generates		generate\VMFDRS3
+697	TOK	icons		icon\N5P
+698	TOK	for		for\P
+699	TOK	later		late\JC
+700	TOK	use		use\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+701	TOK	The	BOS	the\AT---6
+702	TOK	applications		application\N5P
+703	TOK	include		include\VMF6R66
+704	TOK	scripting		scripting\N5S
+705	TOK	features		feature\N5P
+706	TOK	that		that\RW63N6
+707	TOK	allow		allow\VMF6R66
+708	TOK	power		power\N5S
+709	TOK	users		user\N5P
+710	TOK	to		to\P
+711	TOK	automate		automate\VMI----
+712	TOK	more		more\DDC7
+713	TOK	sophisticated		sophisticated\JA
+714	TOK	calling		calling\N5S
+715	TOK	sequences		sequence\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+716	TOK	Jack	BOS	jack\N5S
+717	TOK	of		of\P
+##	TAG	<name>
+718	TOK	All Cyber Trades	EOS	All_Cyber_Trades\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+720	TOK	Delrina	BOS	Delrina\N46
+##	TAG	</name>
+721	PGR	's		genmark\GENMARK
+##	TAG	<name>
+722	TOK	CommSuite		CommSuite\N46
+##	TAG	</name>
+723	TOK	bundles		bundle\VMFDRS3
+##	TAG	<num>
+724	TOK	four		four\X
+##	TAG	</num>
+725	TOK	different		different\JA
+726	TOK	communications		communication\N5P
+727	TOK	products		product\N5P
+728	TOK	into		into\P
+729	TOK	a		a\AI---S
+730	TOK	single		single\JA
+731	TOK	package		package\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+732	TOK	The	BOS	the\AT---6
+733	TOK	strongest		strong\JS
+734	TOK	module		module\N5S
+735	TOK	is		be\V6FDRS3
+##	TAG	<name>
+736	TOK	WinFax Pro		WinFax_Pro\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+737	TOK	for		for\P
+738	TOK	sending		send\VMG----
+739	TOK	and		and\CC
+740	TOK	receiving		receive\VMG----
+741	TOK	faxes		fax\N5P
+742	TOK	from		from\P
+743	TOK	a		a\AI---S
+##	TAG	<name>
+744	TOK	PC		PC\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+745	TOK	Cyberjack	BOS	Cyberjack\N46
+##	TAG	</name>
+746	TOK	features		feature\VMFDRS3
+##	TAG	<name>
+747	TOK	Internet		Internet\N46
+##	TAG	</name>
+748	TOK	access		access\N5S
+749	TOK	tools		tool\N5P
+---	DLD	,		=\DELIM
+750	TOK	such		such\JA
+751	TOK	as		as\P
+##	TAG	<name>
+752	TOK	Gopher		Gopher\N46
+##	TAG	</name>
+753	TOK	software		software\N5S
+754	TOK	and		and\CC
+755	TOK	a		a\AI---S
+##	TAG	<name>
+756	TOK	Web		Web\N46
+##	TAG	</name>
+757	TOK	browser		browser\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+758	TOK	WinComm Pro	BOS	WinComm_Pro\N46
+##	TAG	</name>
+759	TOK	lets		let\VMFDRS3
+760	TOK	users		user\N5P
+761	TOK	dial		dial\VMI----
+762	TOK	into		into\P
+763	TOK	on		on\P
+---	DLI	-		=\DELIM
+764	TOK	line		line\N5S
+765	TOK	data		data\N56
+766	TOK	services		service\N5P
+767	TOK	and		and\CC
+768	TOK	bulletin		bulletin\N5S
+769	TOK	boards		board\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+770	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+771	TOK	TalkWorks		TalkWorks\N46
+##	TAG	</name>
+772	TOK	module		module\N5S
+773	TOK	adds		add\VMFDRS3
+774	TOK	voice		voice\VMF6R66
+---	DLI	-		=\DELIM
+775	TOK	mail		mail\N5S
+776	TOK	functionality		functionality\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+777	TOK	CommSuite	BOS	CommSuite\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+778	TOK	which		which\RW63N-
+779	TOK	was		be\V6F-A66
+780	TOK	the		the\AT---6
+781	TOK	only		only\JA
+782	TOK	product		product\N5S
+783	TOK	actually		actually\DGA7
+784	TOK	shipping		ship\VMG----
+785	TOK	when		when\CS
+786	TOK	we		we\RPP1NN
+787	TOK	did		do\V6FDA66
+788	TOK	our		our\APP1N6
+789	TOK	testing		test\VMG----
+---	DLD	,		=\DELIM
+790	TOK	includes		include\VMFDRS3
+791	TOK	the		the\AT---6
+792	TOK	most		most\DDS7
+793	TOK	comprehensive		comprehensive\JA
+794	TOK	set		set\N5S
+795	TOK	of		of\P
+796	TOK	tools		tool\N5P
+797	TOK	for		for\P
+798	TOK	novice		novice\N5S
+799	TOK	users		user\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+800	TOK	Help	BOS	help\N5S
+801	TOK	menus		menu\N5P
+802	TOK	are		be\V6FDR66
+803	TOK	available		available\JA
+804	TOK	on		on\P
+805	TOK	any		any\AG---6
+806	TOK	screen		screen\N5S
+---	DLD	,		=\DELIM
+807	TOK	and		and\CC
+808	TOK	a		a\AI---S
+809	TOK	user		user\N5S
+810	TOK	can		can\VOFDR66
+811	TOK	click		click\VMI----
+812	TOK	on		on\P
+813	TOK	an		an\AI---S
+814	TOK	icon		icon\N5S
+815	TOK	to		to\P
+816	TOK	see		see\VMI----
+817	TOK	a		a\AI---S
+818	TOK	brief		brief\JA
+819	TOK	description		description\N5S
+820	TOK	of		of\P
+821	TOK	any		any\AG---6
+822	TOK	function		function\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+823	TOK	An	BOS	an\AI---S
+824	TOK	on		on\P
+---	DLI	-		=\DELIM
+825	TOK	line		line\N5S
+826	TOK	tutorial		tutorial\N5S
+827	TOK	walks		walk\VMFDRS3
+828	TOK	through		through\P
+829	TOK	all		all\AG---6
+830	TOK	the		the\AT---6
+831	TOK	product		product\N5S
+832	PGR	's		genmark\GENMARK
+833	TOK	different		different\JA
+834	TOK	modules		module\N5P
+835	TOK	and		and\CC
+836	TOK	capabilities		capability\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+837	TOK	The	BOS	the\AT---6
+838	TOK	documentation		documentation\N5S
+839	TOK	was		be\V6F-A66
+840	TOK	comprehensive		comprehensive\JA
+841	TOK	and		and\CC
+842	TOK	simple		simple\JA
+843	TOK	to		to\P
+844	TOK	follow		follow\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+845	TOK	The	BOS	the\AT---6
+846	TOK	package		package\N5S
+847	TOK	supports		support\VMFDRS3
+848	TOK	the		the\AT---6
+##	TAG	<name>
+849	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+850	TOK	95		95\X
+##	TAG	</num>
+851	TOK	toolbar		toolbar\N5S
+---	DLD	,		=\DELIM
+852	TOK	and		and\CC
+853	TOK	power		power\N5S
+854	TOK	users		user\N5P
+855	TOK	can		can\VOFDR66
+856	TOK	customize		customize\VMI----
+857	TOK	the		the\AT---6
+858	TOK	bar		bar\N5S
+859	TOK	to		to\P
+860	TOK	automate		automate\VMI----
+861	TOK	repetitive		repetitive\JA
+862	TOK	tasks		task\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+863	TOK	Let	BOS	let\N5S
+864	PGR	's		be\V6FDRS3
+865	TOK	now		now\DGA7
+866	TOK	take		take\VMI----
+867	TOK	a		a\AI---S
+868	TOK	look		look\N5S
+869	TOK	at		at\P
+870	TOK	the		the\AT---6
+871	TOK	different		different\JA
+872	TOK	modules		module\N5P
+873	TOK	in		in\P
+##	TAG	<name>
+874	TOK	CommSuite		CommSuite\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+875	TOK	WinFax Pro	BOS	WinFax_Pro\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+876	TOK	This	BOS	this\AD---S
+877	TOK	module		module\N5S
+878	TOK	is		be\V6FDRS3
+879	TOK	designed		design\VMC----
+880	TOK	for		for\P
+881	TOK	heavy		heavy\JA
+---	DLI	-		=\DELIM
+882	TOK	duty		duty\N5S
+883	TOK	faxing		fax\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+884	TOK	A	BOS	a\AI---S
+885	TOK	simple		simple\JA
+886	TOK	conversion		conversion\N5S
+887	TOK	program		program\N5S
+888	TOK	converts		convert\VMFDRS3
+889	TOK	phonebooks		phonebook\N5P
+---	DLD	,		=\DELIM
+890	TOK	logs		log\VMFDRS3
+---	DLD	,		=\DELIM
+891	TOK	and		and\CC
+892	TOK	folders		folder\N5P
+893	TOK	from		from\P
+894	TOK	earlier		early\JC
+895	TOK	versions		version\N5P
+896	TOK	of		of\P
+##	TAG	<name>
+897	TOK	WinFax Pro		WinFax_Pro\N46
+##	TAG	</name>
+898	TOK	into		into\P
+##	TAG	<name>
+899	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+900	TOK	95		95\X
+##	TAG	</num>
+901	TOK	formats		format\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+902	TOK	Once	BOS	once\DGA7
+903	TOK	the		the\AT---6
+904	TOK	changes		change\N5P
+905	TOK	are		be\V6FDR66
+906	TOK	made		make\VMC----
+---	DLD	,		=\DELIM
+907	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+908	TOK	those		that\AD---P
+909	TOK	files		file\N5P
+910	TOK	won		would\VOFDR66
+911	PGR	't		not\DGA7
+912	TOK	run		run\N5S
+913	TOK	under		under\P
+##	TAG	<name>
+914	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+915	TOK	3.1		3.1\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+916	TOK	The	BOS	the\AT---6
+917	TOK	package		package\N5S
+918	TOK	makes		make\VMFDRS3
+919	TOK	it		it\RPS3N6
+920	TOK	simple		simple\JA
+921	TOK	to		to\P
+922	TOK	send		send\VMI----
+923	TOK	and		and\CC
+924	TOK	customize		customize\VMI----
+925	TOK	faxes		fax\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+926	TOK	WinFax Pro	BOS	WinFax_Pro\N46
+##	TAG	</name>
+927	TOK	includes		include\VMFDRS3
+##	TAG	<num>
+928	TOK	100		100\X
+##	TAG	</num>
+929	TOK	cover		cover\VMF6R66
+---	DLI	-		=\DELIM
+930	TOK	page		page\N5S
+931	TOK	samples		sample\N5P
+932	TOK	to		to\P
+933	TOK	choose		choose\VMI----
+934	TOK	from		from\P
+935	TOK	or		or\CC
+936	TOK	customize		customize\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+937	TOK	Most	BOS	most\DDS7
+938	TOK	cover		cover\VMF6R66
+939	TOK	pages		page\N5P
+940	TOK	also		also\DGA7
+941	TOK	allow		allow\VMF6R66
+942	TOK	the		the\AT---6
+943	TOK	user		user\N5S
+944	TOK	to		to\P
+945	TOK	include		include\VMI----
+946	TOK	short		short\JA
+947	TOK	messages		message\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+948	TOK	Because	BOS	because\CS
+949	TOK	many		many\AI---P
+950	TOK	people		people\N56
+951	TOK	move		move\VMF6R66
+952	TOK	faxes		fax\N5P
+953	TOK	via		via\P
+954	TOK	their		their\APP3N6
+##	TAG	<name>
+955	TOK	E-mail		E-mail\N46
+##	TAG	</name>
+956	TOK	systems		system\N5P
+---	DLD	,		=\DELIM
+957	TOK	the		the\AT---6
+958	TOK	product		product\N5S
+959	TOK	supports		support\VMFDRS3
+##	TAG	<name>
+960	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+961	PGR	's		genmark\GENMARK
+962	TOK	messaging		messaging\N5S
+##	TAG	<name>
+963	TOK	API		API\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+964	TOK	MAPI		MAPI\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+965	TOK	WinFax	BOS	WinFax\N46
+##	TAG	</name>
+966	TOK	lets		let\VMFDRS3
+967	TOK	users		user\N5P
+968	TOK	move		move\VMF6R66
+969	TOK	faxes		fax\N5P
+970	TOK	to		to\P
+971	TOK	the		the\AT---6
+##	TAG	<name>
+972	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+973	TOK	mail		mail\N5S
+974	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+975	TOK	You	BOS	you\RP62N6
+976	TOK	can		can\VOFDR66
+977	TOK	drag		drag\VMI----
+978	TOK	any		any\AG---6
+979	TOK	fax		fax\N5S
+980	TOK	and		and\CC
+981	TOK	drop		drop\VMI----
+982	TOK	it		it\RPS3N6
+983	TOK	into		into\P
+984	TOK	any		any\AG---6
+##	TAG	<name>
+985	TOK	MAPI-compatible E-mail		MAPI-compatible_E-mail\N46
+##	TAG	</name>
+986	TOK	envelope		envelope\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+987	TOK	This	BOS	this\AD---S
+988	TOK	capability		capability\N5S
+989	TOK	isn		be\V6FDRS3
+990	PGR	't		not\DGA7
+991	TOK	available		available\JA
+992	TOK	with		with\P
+##	TAG	<name>
+993	TOK	Microsoft Exchange		Microsoft_Exchange\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+994	TOK	The	BOS	the\AT---6
+995	TOK	log		log\N5S
+996	TOK	for		for\P
+##	TAG	<name>
+997	TOK	WinFax Pro		WinFax_Pro\N46
+##	TAG	</name>
+998	TOK	includes		include\VMFDRS3
+999	TOK	a		a\AI---S
+1000	TOK	field		field\N5S
+1001	TOK	that		that\RW63N6
+1002	TOK	says		say\VMFDRS3
+1003	TOK	whether		whether\CS
+1004	TOK	a		a\AI---S
+1005	TOK	fax		fax\N5S
+1006	TOK	was		be\V6F-A66
+1007	TOK	delivered		deliver\VMC----
+1008	TOK	or		or\CC
+1009	TOK	not		not\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1010	TOK	Win	BOS	win\VMI----
+##	TAG	<num>
+1011	TOK	95		95\X
+##	TAG	</num>
+1012	TOK	doesn		do\V6FDRS3
+1013	PGR	't		not\DGA7
+1014	TOK	include		include\VMF6R66
+1015	TOK	this		this\AD---S
+1016	TOK	feature		feature\N5S
+---	DLD	,		=\DELIM
+1017	TOK	so		so\CC
+1018	TOK	the		the\AT---6
+1019	TOK	user		user\N5S
+1020	TOK	has		have\V6FDRS3
+1021	TOK	to		to\P
+1022	TOK	wade		wade\VMI----
+1023	TOK	through		through\P
+1024	TOK	a		a\AI---S
+1025	TOK	series		series\N56
+1026	TOK	of		of\P
+1027	TOK	cryptic		cryptic\JA
+1028	TOK	messages		message\N5P
+1029	TOK	just		just\DGA7
+1030	TOK	to		to\P
+1031	TOK	determine		determine\VMI----
+1032	TOK	if		if\CS
+1033	TOK	a		a\AI---S
+1034	TOK	fax		fax\N5S
+1035	TOK	was		be\V6F-A66
+1036	TOK	received		receive\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1037	TOK	WinFax Pro	BOS	WinFax_Pro\N46
+##	TAG	</name>
+1038	TOK	also		also\DGA7
+1039	TOK	provides		provide\VMFDRS3
+1040	TOK	a		a\AI---S
+1041	TOK	link		link\N5S
+1042	TOK	from		from\P
+1043	TOK	an		an\AI---S
+1044	TOK	optical		optical\JA
+1045	TOK	character		character\N5S
+1046	TOK	reader		reader\N5S
+1047	TOK	to		to\P
+##	TAG	<name>
+1048	TOK	Microsoft Exchange		Microsoft_Exchange\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1049	TOK	A	BOS	a\AI---S
+1050	TOK	fax		fax\N5S
+1051	TOK	viewer		viewer\N5S
+1052	TOK	lets		let\VMFDRS3
+1053	TOK	you		you\RP62N6
+1054	TOK	clean		clean\VMI----
+1055	TOK	up		up\P
+1056	TOK	the		the\AT---6
+1057	TOK	dark		dark\JA
+1058	TOK	spots		spot\N5P
+1059	TOK	on		on\P
+1060	TOK	received		receive\VMC----
+1061	TOK	faxes		fax\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1062	TOK	The	BOS	the\AT---6
+1063	TOK	product		product\N5S
+1064	TOK	can		can\VOFDR66
+1065	TOK	convert		convert\VMI----
+1066	TOK	faxes		fax\N5P
+1067	TOK	to		to\P
+1068	TOK	text		text\N5S
+1069	TOK	with		with\P
+1070	TOK	its		its\APS3N6
+1071	TOK	built		build\VMF6A66
+---	DLI	-		=\DELIM
+1072	TOK	in		in\P
+##	TAG	<name>
+1073	TOK	OCR		OCR\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1074	TOK	This	BOS	this\AD---S
+1075	TOK	release		release\N5S
+1076	TOK	includes		include\VMFDRS3
+1077	TOK	a		a\AI---S
+1078	TOK	photo		photo\N5S
+1079	TOK	capability		capability\N5S
+1080	TOK	for		for\P
+1081	TOK	sending		send\VMG----
+1082	TOK	high		high\JA
+---	DLI	-		=\DELIM
+1083	TOK	quality		quality\N5S
+1084	TOK	graphics		graphic\N56
+1085	TOK	in		in\P
+1086	TOK	black		black\JA
+1087	TOK	and		and\CC
+1088	TOK	white		white\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1089	TOK	Users	BOS	user\N5P
+1090	TOK	have		have\V6F6R66
+1091	TOK	other		other\JA
+1092	TOK	ways		way\N5P
+1093	TOK	to		to\P
+1094	TOK	send		send\VMI----
+1095	TOK	documents		document\N5P
+---	DLE	(		=\DELIM
+##	TAG	<abbr>
+1096	TOK	e.g.		e.g.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+1097	TOK	via		via\P
+##	TAG	<name>
+1098	TOK	E-mail		E-mail\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+1099	TOK	so		so\DGA7
+1100	TOK	this		this\AD---S
+1101	TOK	feature		feature\N5S
+1102	TOK	may		may\VOFDR66
+1103	TOK	have		have\VMI----
+1104	TOK	limited		limit\VMC----
+1105	TOK	appeal		appeal\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1106	TOK	WinFax	BOS	WinFax\N46
+##	TAG	</name>
+1107	TOK	presents		present\VMFDRS3
+1108	TOK	users		user\N5P
+1109	TOK	with		with\P
+1110	TOK	many		many\AI---P
+1111	TOK	different		different\JA
+1112	TOK	scheduling		schedule\VMG----
+1113	TOK	options		option\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1114	TOK	You	BOS	you\RP62N6
+1115	TOK	can		can\VOFDR66
+1116	TOK	set		set\VMI----
+1117	TOK	faxes		fax\N5P
+1118	TOK	for		for\P
+1119	TOK	automatic		automatic\JA
+1120	TOK	transmission		transmission\N5S
+1121	TOK	at		at\P
+1122	TOK	night		night\N5S
+1123	TOK	when		when\CS
+1124	TOK	phone		phone\N5S
+1125	TOK	costs		cost\N5P
+1126	TOK	are		be\V6FDR66
+1127	TOK	lower		low\JC
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1128	TOK	On	BOS	on\P
+1129	TOK	the		the\AT---6
+1130	TOK	road		road\N5S
+---	DLD	,		=\DELIM
+1131	TOK	you		you\RP62N6
+1132	TOK	can		can\VOFDR66
+1133	TOK	configure		configure\VMI----
+1134	TOK	faxes		fax\N5P
+1135	TOK	to		to\P
+1136	TOK	be		be\VMI----
+1137	TOK	sent		send\VMC----
+1138	TOK	via		via\P
+1139	TOK	different		different\JA
+1140	TOK	calling		call\VMG----
+---	DLI	-		=\DELIM
+1141	TOK	card		card\N5S
+1142	TOK	options		option\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1143	TOK	For	BOS	for\P
+1144	TOK	the		the\AT---6
+1145	TOK	user		user\N5S
+1146	TOK	who		who\RW63N-
+1147	TOK	has		have\V6FDRS3
+1148	TOK	to		to\P
+1149	TOK	send		send\VMI----
+1150	TOK	out		out\DGA7
+1151	TOK	reports		report\N5P
+1152	TOK	on		on\P
+1153	TOK	a		a\AI---S
+1154	TOK	regular		regular\JA
+1155	TOK	basis		basis\N5S
+---	DLD	,		=\DELIM
+1156	TOK	there		there\DGA7
+1157	PGR	's		be\V6FDRS3
+1158	TOK	a		a\AI---S
+1159	TOK	recurring		recur\VMG----
+---	DLI	-		=\DELIM
+1160	TOK	event		event\N5S
+1161	TOK	feature		feature\N5S
+1162	TOK	that		that\RW63N6
+1163	TOK	will		will\VOFDR66
+1164	TOK	fax		fax\VMI----
+1165	TOK	a		a\AI---S
+1166	TOK	document		document\N5S
+1167	TOK	at		at\P
+1168	TOK	a		a\AI---S
+1169	TOK	set		set\VMC----
+1170	TOK	interval		interval\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1171	TOK	The	BOS	the\AT---6
+1172	TOK	transmission		transmission\N5S
+1173	TOK	can		can\VOFDR66
+1174	TOK	be		be\VMI----
+1175	TOK	on		on\P
+1176	TOK	a		a\AI---S
+1177	TOK	particular		particular\JA
+1178	TOK	day		day\N5S
+1179	TOK	of		of\P
+1180	TOK	the		the\AT---6
+1181	TOK	week		week\N5S
+---	DLE	(		=\DELIM
+1182	TOK	the		the\AT---6
+1183	TOK	second		second\MOS
+##	TAG	<loc pos="N5S">
+1184	TOK	Tuesday		tuesday\N5S
+##	TAG	</loc>
+1185	TOK	of		of\P
+1186	TOK	the		the\AT---6
+1187	TOK	month		month\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1188	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	)		=\DELIM
+1189	TOK	or		or\CC
+1190	TOK	on		on\P
+1191	TOK	a		a\AI---S
+1192	TOK	specific		specific\JA
+1193	TOK	date		date\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1194	TOK	The	BOS	the\AT---6
+1195	TOK	system		system\N5S
+1196	TOK	can		can\VOFDR66
+1197	TOK	produce		produce\VMI----
+1198	TOK	printed		print\VMC----
+1199	TOK	records		record\N5P
+1200	TOK	of		of\P
+1201	TOK	each		each\AG---S
+1202	TOK	fax		fax\N5S
+1203	TOK	transmission		transmission\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1204	TOK	TalkWorks	BOS	TalkWorks\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1205	TOK	In	BOS	in\P
+1206	TOK	addition		addition\N5S
+1207	TOK	to		to\P
+1208	TOK	faxing		fax\VMG----
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1209	TOK	WinFax Pro		WinFax_Pro\N46
+##	TAG	</name>
+1210	TOK	includes		include\VMFDRS3
+1211	TOK	voice		voice\VMF6R66
+---	DLI	-		=\DELIM
+1212	TOK	mail		mail\N5S
+1213	TOK	capabilities		capability\N5P
+1214	TOK	if		if\CS
+1215	TOK	a		a\AI---S
+1216	TOK	system		system\N5S
+1217	TOK	has		have\V6FDRS3
+1218	TOK	an		an\AI---S
+1219	TOK	integrated		integrate\VMC----
+1220	TOK	data/fax/voice		data/fax/voice\N5S
+1221	TOK	modem		modem\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1222	TOK	Because	BOS	because\CS
+##	TAG	<name>
+1223	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1224	TOK	95		95\X
+##	TAG	</num>
+1225	TOK	supports		support\VMFDRS3
+##	TAG	<name>
+1226	TOK	TAPI		TAPI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1227	TOK	TalkWorks		TalkWorks\N46
+##	TAG	</name>
+1228	TOK	can		can\VOFDR66
+1229	TOK	discriminate		discriminate\VMI----
+1230	TOK	among		among\P
+1231	TOK	incoming		incoming\JA
+1232	TOK	calls		call\N5P
+1233	TOK	and		and\CC
+1234	TOK	will		will\VOFDR66
+1235	TOK	hand		hand\VMI----
+1236	TOK	the		the\AT---6
+1237	TOK	call		call\N5S
+1238	TOK	to		to\P
+1239	TOK	the		the\AT---6
+1240	TOK	appropriate		appropriate\JA
+1241	TOK	communications		communication\N5P
+1242	TOK	module		module\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1243	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+1244	TOK	a		a\AI---S
+##	TAG	<name>
+1245	TOK	PC		PC\N46
+##	TAG	</name>
+1246	TOK	with		with\P
+1247	TOK	a		a\AI---S
+##	TAG	<name>
+1248	TOK	Sound Blaster		Sound_Blaster\N46
+##	TAG	</name>
+1249	TOK	card		card\N5S
+1250	TOK	can		can\VOFDR66
+1251	TOK	become		become\VMI----
+1252	TOK	a		a\AI---S
+1253	TOK	telephone		telephone\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1254	TOK	You	BOS	you\RP62N6
+1255	TOK	can		can\VOFDR66
+1256	TOK	set		set\VMI----
+1257	TOK	up		up\P
+1258	TOK	the		the\AT---6
+1259	TOK	voice		voice\N5S
+---	DLI	-		=\DELIM
+1260	TOK	mail		mail\N5S
+1261	TOK	system		system\N5S
+1262	TOK	to		to\P
+1263	TOK	answer		answer\VMI----
+1264	TOK	a		a\AI---S
+1265	TOK	call		call\N5S
+1266	TOK	after		after\P
+1267	TOK	a		a\AI---S
+1268	TOK	specific		specific\JA
+1269	TOK	number		number\N5S
+1270	TOK	of		of\P
+1271	TOK	rings		ring\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1272	TOK	A	BOS	a\AI---S
+1273	TOK	system		system\N5S
+1274	TOK	manager		manager\N5S
+1275	TOK	could		can\VOFDA66
+1276	TOK	set		set\VMI----
+1277	TOK	things		thing\N5P
+1278	TOK	up		up\P
+1279	TOK	to		to\P
+1280	TOK	store		store\N5S
+1281	TOK	voice		voice\VMF6R66
+---	DLI	-		=\DELIM
+1282	TOK	mail		mail\N5S
+1283	TOK	messages		message\N5P
+1284	TOK	in		in\P
+1285	TOK	a		a\AI---S
+1286	TOK	single		single\JA
+1287	TOK	inbox		inbox\N5S
+1288	TOK	or		or\CC
+1289	TOK	assign		assign\VMI----
+1290	TOK	a		a\AI---S
+1291	TOK	series		series\N56
+1292	TOK	of		of\P
+1293	TOK	mailboxes		mailbox\N5P
+1294	TOK	to		to\P
+1295	TOK	specific		specific\JA
+1296	TOK	users		user\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1297	TOK	The	BOS	the\AT---6
+1298	TOK	program		program\N5S
+1299	PGR	's		genmark\GENMARK
+1300	TOK	fax		fax\N5S
+---	DLI	-		=\DELIM
+1301	TOK	on		on\P
+---	DLI	-		=\DELIM
+1302	TOK	demand		demand\N5S
+1303	TOK	feature		feature\N5S
+1304	TOK	lets		let\VMFDRS3
+1305	TOK	customers		customer\N5P
+1306	TOK	call		call\VMF6R66
+1307	TOK	in		in\P
+1308	TOK	and		and\CC
+1309	TOK	request		request\VMI----
+1310	TOK	that		that\CS
+1311	TOK	a		a\AI---S
+1312	TOK	document		document\N5S
+1313	TOK	be		be\VMI----
+1314	TOK	sent		send\VMC----
+1315	TOK	to		to\P
+1316	TOK	them		them\RPP3NA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1317	TOK	This	BOS	this\RDS3N-
+1318	TOK	has		have\V6FDRS3
+1319	TOK	proved		prove\VMC----
+1320	TOK	popular		popular\JA
+1321	TOK	for		for\P
+1322	TOK	automating		automate\VMG----
+1323	TOK	technical		technical\JA
+1324	TOK	support		support\VMF6R66
+---	DLD	,		=\DELIM
+1325	TOK	and		and\CC
+1326	TOK	a		a\AI---S
+1327	TOK	small		small\JA
+1328	TOK	firm		firm\N5S
+1329	TOK	taking		take\VMG----
+1330	TOK	phone		phone\N5S
+1331	TOK	orders		order\N5P
+1332	TOK	could		can\VOFDA66
+1333	TOK	also		also\DGA7
+1334	TOK	benefit		benefit\VMI----
+1335	TOK	from		from\P
+1336	TOK	this		this\AD---S
+1337	TOK	feature		feature\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1338	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1339	TOK	TalkWorks		TalkWorks\N46
+##	TAG	</name>
+1340	TOK	fax		fax\N5S
+1341	TOK	features		feature\N5P
+1342	TOK	do		do\V6FDR66
+1343	TOK	not		not\DGA7
+1344	TOK	use		use\VMI----
+1345	TOK	the		the\AT---6
+##	TAG	<name>
+1346	TOK	Norton Anti-Virus		Norton_Anti-Virus\N46
+##	TAG	</name>
+1347	TOK	software		software\N5S
+---	DLD	,		=\DELIM
+1348	TOK	which		which\RW63N-
+1349	TOK	can		can\VOFDR66
+1350	TOK	be		be\VMI----
+1351	TOK	used		use\VMC----
+1352	TOK	with		with\P
+1353	TOK	the		the\AT---6
+1354	TOK	other		other\JA
+##	TAG	<name>
+1355	TOK	CommSuite		CommSuite\N46
+##	TAG	</name>
+1356	TOK	modules		module\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1357	TOK	Although	BOS	although\CS
+1358	TOK	not		not\DGA7
+1359	TOK	necessary		necessary\JA
+---	DLD	,		=\DELIM
+1360	TOK	this		this\AD---S
+1361	TOK	feature		feature\N5S
+1362	TOK	could		can\VOFDA66
+1363	TOK	ensure		ensure\VMI----
+1364	TOK	that		that\CS
+1365	TOK	unwanted		unwanted\JA
+1366	TOK	viruses		virus\N5P
+1367	TOK	are		be\V6FDR66
+1368	TOK	not		not\DGA7
+1369	TOK	transmitted		transmit\VMC----
+##	TAG	<loc pos="P">
+1370	TOK	along with		along_with\P
+##	TAG	</loc>
+1371	TOK	a		a\AI---S
+1372	TOK	fax		fax\N5S
+1373	TOK	during		during\P
+1374	TOK	a		a\AI---S
+1375	TOK	binary		binary\JA
+1376	TOK	file		file\N5S
+1377	TOK	transfer		transfer\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1378	TOK	WinComm Pro	BOS	WinComm_Pro\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1379	TOK	This	BOS	this\AD---S
+1380	TOK	general		general\JA
+---	DLI	-		=\DELIM
+1381	TOK	purpose		purpose\N5S
+1382	TOK	communications		communication\N5P
+1383	TOK	program		program\N5S
+1384	TOK	helps		help\VMFDRS3
+1385	TOK	users		user\N5P
+1386	TOK	connect		connect\VMF6R66
+1387	TOK	to		to\P
+1388	TOK	on		on\P
+---	DLI	-		=\DELIM
+1389	TOK	line		line\N5S
+1390	TOK	services		service\N5P
+1391	TOK	and		and\CC
+##	TAG	<name>
+1392	TOK	BBSes		BBSes\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1393	TOK	The	BOS	the\AT---6
+1394	TOK	product		product\N5S
+1395	TOK	comes		come\VMFDRS3
+1396	TOK	with		with\P
+1397	TOK	integrated		integrate\VMC----
+1398	TOK	scripts		script\N5P
+1399	TOK	for		for\P
+##	TAG	<name>
+1400	TOK	AT'&'T Mail		AT'&'T_Mail\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1401	TOK	BIX		BIX\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1402	TOK	GEnie		GEnie\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1403	TOK	CompuServe		CompuServe\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1404	TOK	Delphi		Delphi\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1405	TOK	MCI		MCI\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1406	TOK	Dow Jones		Dow_Jones\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1407	TOK	and		and\CC
+##	TAG	<name>
+1408	TOK	NewNet		NewNet\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1409	TOK	A	BOS	a\AI---S
+1410	TOK	user		user\N5S
+1411	TOK	can		can\VOFDR66
+1412	TOK	click		click\VMI----
+1413	TOK	on		on\P
+1414	TOK	an		an\AI---S
+1415	TOK	icon		icon\N5S
+1416	TOK	and		and\CC
+1417	TOK	dial		dial\VMI----
+1418	TOK	in		in\P
+1419	TOK	to		to\P
+1420	TOK	one		one\MCS
+1421	TOK	of		of\P
+1422	TOK	these		this\AD---P
+1423	TOK	services		service\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1424	TOK	The	BOS	the\AT---6
+1425	TOK	software		software\N5S
+1426	TOK	supports		support\VMFDRS3
+##	TAG	<name>
+1427	TOK	RIPscrip		RIPscrip\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1428	TOK	which		which\RW63N-
+1429	TOK	provides		provide\VMFDRS3
+1430	TOK	a		a\AI---S
+1431	TOK	graphical		graphical\JA
+1432	TOK	front		front\N5S
+1433	TOK	end		end\N5S
+1434	TOK	to		to\P
+1435	TOK	bulletin		bulletin\N5S
+1436	TOK	board		board\N5S
+1437	TOK	systems		system\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+1438	TOK	Instead of	BOS	Instead_of\CS
+##	TAG	</loc>
+1439	TOK	answering		answer\VMG----
+##	TAG	<name>
+1440	TOK	Yes		Yes\N46
+##	TAG	</name>
+1441	TOK	and		and\CC
+1442	TOK	No		no\N5S
+1443	TOK	questions		question\N5P
+---	DLD	,		=\DELIM
+1444	TOK	a		a\AI---S
+1445	TOK	user		user\N5S
+1446	TOK	works		work\VMFDRS3
+1447	TOK	with		with\P
+1448	TOK	dialog		dialog\N5S
+1449	TOK	boxes		box\N5P
+1450	TOK	and		and\CC
+1451	TOK	color		color\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1452	TOK	There	BOS	there\DGA7
+1453	PGR	's		be\V6FDRS3
+1454	TOK	an		an\AI---S
+1455	TOK	image		image\N5S
+1456	TOK	manager		manager\N5S
+1457	TOK	for		for\P
+1458	TOK	graphics		graphic\N56
+1459	TOK	files		file\N5P
+---	DLD	,		=\DELIM
+1460	TOK	including		including\P
+##	TAG	<name>
+1461	TOK	BMP		BMP\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1462	TOK	GIF		GIF\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1463	TOK	JPEG		JPEG\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1464	TOK	PCX		PCX\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1465	TOK	and		and\CC
+##	TAG	<abbr>
+1466	TOK	TIF.		TIF.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+1467	TOK	If		if\N5S
+1468	TOK	you		you\RP62N6
+1469	TOK	rely		rely\VMF6R66
+1470	TOK	on		on\P
+##	TAG	<name>
+1471	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1472	TOK	95		95\X
+##	TAG	</num>
+1473	PGR	's		be\V6FDRS3
+1474	TOK	built		build\VMC----
+---	DLI	-		=\DELIM
+1475	TOK	in		in\P
+1476	TOK	tools		tool\N5P
+---	DLD	,		=\DELIM
+1477	TOK	you		you\RP62N6
+1478	TOK	can		can\VOFDR66
+1479	TOK	view		view\VMI----
+##	TAG	<name>
+1480	TOK	BMP		BMP\N46
+##	TAG	</name>
+1481	TOK	and		and\CC
+##	TAG	<name>
+1482	TOK	PCX		PCX\N46
+##	TAG	</name>
+1483	TOK	files		file\N5P
+1484	TOK	with		with\P
+##	TAG	<name>
+1485	TOK	Paintbrush		Paintbrush\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1486	TOK	and		and\CC
+##	TAG	<name>
+1487	TOK	GIF		GIF\N46
+##	TAG	</name>
+1488	TOK	and		and\CC
+##	TAG	<name>
+1489	TOK	JPEG		JPEG\N46
+##	TAG	</name>
+1490	TOK	files		file\N5P
+1491	TOK	with		with\P
+##	TAG	<name>
+1492	TOK	Internet Explorer		Internet_Explorer\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1493	TOK	You	BOS	you\RP62N6
+1494	TOK	're		're\N5S
+##	TAG	<loc pos="P">
+1495	TOK	out of		out_of\P
+##	TAG	</loc>
+1496	TOK	luck		luck\N5S
+1497	TOK	with		with\P
+##	TAG	<name>
+1498	TOK	TIF		TIF\N46
+##	TAG	</name>
+1499	TOK	files		file\N5P
+---	DLD	,		=\DELIM
+##	TAG	<abbr>
+1500	TOK	though.		though.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+1501	TOK	A		A\N5P
+1502	TOK	handy		handy\JA
+1503	TOK	feature		feature\N5S
+1504	TOK	called		call\VMF6A66
+##	TAG	<name>
+1505	TOK	ZIP Manager		ZIP_Manager\N46
+##	TAG	</name>
+1506	TOK	uncompresses		uncompress\VMFDRS3
+1507	TOK	downloaded		download\VMC----
+1508	TOK	files		file\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1509	TOK	Delrina	BOS	Delrina\N46
+##	TAG	</name>
+1510	TOK	includes		include\VMFDRS3
+1511	TOK	its		its\APS3N6
+1512	TOK	own		own\JA
+1513	TOK	version		version\N5S
+1514	TOK	of		of\P
+1515	TOK	the		the\AT---6
+##	TAG	<name>
+1516	TOK	Basic		Basic\N46
+##	TAG	</name>
+1517	TOK	language		language\N5S
+1518	TOK	with		with\P
+1519	TOK	which		which\RW63N-
+1520	TOK	power		power\N5S
+1521	TOK	users		user\N5P
+1522	TOK	can		can\VOFDR66
+1523	TOK	create		create\VMI----
+1524	TOK	scripts		script\N5P
+1525	TOK	for		for\P
+##	TAG	<name>
+1526	TOK	WinComm Pro		WinComm_Pro\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1527	TOK	The	BOS	the\AT---6
+1528	TOK	software		software\N5S
+1529	TOK	can		can\VOFDR66
+1530	TOK	also		also\DGA7
+1531	TOK	build		build\VMI----
+1532	TOK	a		a\AI---S
+1533	TOK	script		script\N5S
+1534	TOK	by		by\P
+1535	TOK	recording		record\VMG----
+1536	TOK	keystrokes		keystroke\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1537	TOK	When	BOS	when\CS
+##	TAG	<name>
+1538	TOK	WinComm Pro		WinComm_Pro\N46
+##	TAG	</name>
+1539	TOK	downloads		download\VMFDRS3
+1540	TOK	a		a\AI---S
+1541	TOK	program		program\N5S
+---	DLD	,		=\DELIM
+1542	TOK	it		it\RPS3N6
+1543	TOK	checks		check\VMFDRS3
+1544	TOK	it		it\RPS3N6
+1545	TOK	with		with\P
+##	TAG	<name>
+1546	TOK	Norton Anti-Virus		Norton_Anti-Virus\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1547	TOK	Cyberjack	BOS	Cyberjack\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1548	TOK	This	BOS	this\AD---S
+1549	TOK	module		module\N5S
+1550	TOK	is		be\V6FDRS3
+1551	TOK	the		the\AT---6
+1552	TOK	most		most\DDS7
+1553	TOK	recent		recent\JA
+1554	TOK	addition		addition\N5S
+1555	TOK	to		to\P
+1556	TOK	the		the\AT---6
+##	TAG	<name>
+1557	TOK	CommSuite		CommSuite\N46
+##	TAG	</name>
+1558	TOK	package		package\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1559	TOK	It	BOS	it\RPS3N6
+1560	PGR	's		be\V6FDRS3
+1561	TOK	designed		design\VMC----
+1562	TOK	to		to\P
+1563	TOK	help		help\VMI----
+1564	TOK	people		people\N56
+1565	TOK	surf		surf\VMI----
+1566	TOK	the		the\AT---6
+##	TAG	<name>
+1567	TOK	Internet		Internet\N46
+##	TAG	</name>
+1568	TOK	and		and\CC
+1569	TOK	provides		provide\VMFDRS3
+1570	TOK	connectivity		connectivity\N5S
+1571	TOK	to		to\P
+##	TAG	<num>
+1572	TOK	five		five\X
+##	TAG	</num>
+1573	TOK	types		type\N5P
+1574	TOK	of		of\P
+##	TAG	<name>
+1575	TOK	Internet		Internet\N46
+##	TAG	</name>
+1576	TOK	services		service\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1577	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+1578	TOK	Wizard		Wizard\N46
+##	TAG	</name>
+1579	TOK	feature		feature\N5S
+1580	TOK	helps		help\VMFDRS3
+1581	TOK	you		you\RP62N6
+1582	TOK	sort		sort\VMI----
+1583	TOK	through		through\P
+1584	TOK	different		different\JA
+1585	TOK	connection		connection\N5S
+1586	TOK	and		and\CC
+1587	TOK	setup		setup\N5S
+1588	TOK	options		option\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1589	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1590	TOK	Web		Web\N46
+##	TAG	</name>
+1591	TOK	browser		browser\N5S
+1592	TOK	does		do\V6FDRS3
+1593	TOK	the		the\AT---6
+1594	TOK	things		thing\N5P
+1595	TOK	that		that\CS
+1596	TOK	most		most\AG---6
+1597	TOK	pre		pre\N5P
+---	DLD	-		=\DELIM
+##	TAG	<name>
+1598	TOK	Java		Java\N46
+##	TAG	</name>
+1599	TOK	browsers		browser\N5P
+1600	TOK	do		do\V6FDR66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1601	TOK	It	BOS	it\RPS3N6
+1602	TOK	has		have\V6FDRS3
+1603	TOK	a		a\AI---S
+1604	TOK	pretty		pretty\JA
+1605	TOK	interface		interface\N5S
+---	DLD	,		=\DELIM
+1606	TOK	and		and\CC
+1607	TOK	capture		capture\N5S
+1608	TOK	and		and\CC
+1609	TOK	filtering		filter\VMG----
+1610	TOK	features		feature\N5P
+1611	TOK	let		let\VMF6R66
+1612	TOK	you		you\RP62N6
+1613	TOK	grab		grab\VMI----
+1614	TOK	and		and\CC
+1615	TOK	save		save\VMI----
+1616	TOK	images		image\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1617	TOK	How	BOS	how\DGAW
+1618	TOK	does		do\V6FDRS3
+##	TAG	<name>
+1619	TOK	Cyberjack		Cyberjack\N46
+##	TAG	</name>
+1620	TOK	stack		stack\N5S
+1621	TOK	up		up\P
+##	TAG	<loc pos="DGA7">
+1622	TOK	next to		next_to\DGA7
+##	TAG	</loc>
+##	TAG	<name>
+1623	TOK	Microsoft Internet Explorer		Microsoft_Internet_Explorer\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1625	TOK	In	BOS	in\P
+1626	TOK	addition		addition\N5S
+1627	TOK	to		to\P
+1628	TOK	the		the\AT---6
+1629	TOK	basic		basic\JA
+1630	TOK	browsing		browse\VMG----
+1631	TOK	capabilities		capability\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1632	TOK	Cyberjack		Cyberjack\N46
+##	TAG	</name>
+1633	TOK	features		feature\N5P
+1634	TOK	newsgroups		newsgroup\N5P
+---	DLD	,		=\DELIM
+1635	TOK	file		file\N5S
+1636	TOK	transfer		transfer\N5S
+1637	TOK	capabilities		capability\N5P
+---	DLD	,		=\DELIM
+1638	TOK	interactive		interactive\JA
+1639	TOK	chat		chat\N5S
+---	DLD	,		=\DELIM
+1640	TOK	and		and\CC
+##	TAG	<name>
+1641	TOK	Gopher		Gopher\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1642	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1643	TOK	News		News\N46
+##	TAG	</name>
+1644	TOK	component		component\N5S
+1645	TOK	lets		let\VMFDRS3
+1646	TOK	you		you\RP62N6
+1647	TOK	post		post\VMI----
+1648	TOK	and		and\CC
+1649	TOK	read		read\VMI----
+1650	TOK	messages		message\N5P
+1651	TOK	on		on\P
+1652	TOK	newsgroups		newsgroup\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1653	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+1654	TOK	sort		sort\VMF6R66
+1655	TOK	by		by\P
+1656	TOK	fields		field\N5P
+1657	TOK	and		and\CC
+1658	TOK	filter		filter\N5S
+1659	TOK	stories		story\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1660	TOK	The	BOS	the\AT---6
+1661	TOK	file		file\N5S
+1662	TOK	transfer		transfer\N5S
+1663	TOK	capability		capability\N5S
+1664	TOK	lets		let\VMFDRS3
+1665	TOK	you		you\RP62N6
+1666	TOK	move		move\VMI----
+1667	TOK	files		file\N5P
+1668	TOK	between		between\P
+##	TAG	<num>
+1669	TOK	two		two\X
+##	TAG	</num>
+1670	TOK	computers		computer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1671	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+1672	TOK	Cyberjack		Cyberjack\N46
+##	TAG	</name>
+1673	TOK	user		user\N5S
+1674	TOK	can		can\VOFDR66
+1675	TOK	set		set\VMI----
+1676	TOK	up		up\P
+1677	TOK	an		an\AI---S
+1678	TOK	interactive		interactive\JA
+1679	TOK	chat		chat\N5S
+1680	TOK	session		session\N5S
+1681	TOK	and		and\CC
+1682	TOK	converse		converse\JA
+1683	TOK	with		with\P
+1684	TOK	a		a\AI---S
+1685	TOK	number		number\N5S
+1686	TOK	of		of\P
+1687	TOK	people		people\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1688	TOK	A	BOS	a\AI---S
+1689	TOK	different		different\JA
+1690	TOK	color		color\N5S
+1691	TOK	for		for\P
+1692	TOK	each		each\AG---S
+1693	TOK	chatting		chat\VMG----
+1694	TOK	party		party\N5S
+1695	TOK	helps		help\N5P
+1696	TOK	keep		keep\VMF6R66
+1697	TOK	track		track\N5S
+1698	TOK	of		of\P
+1699	TOK	who		who\RW63N-
+1700	TOK	said		say\VMF6A66
+1701	TOK	what		what\RW63N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1702	TOK	Gopher	BOS	gopher\N5S
+1703	TOK	capabilities		capability\N5P
+1704	TOK	let		let\VMF6R66
+1705	TOK	you		you\RP62N6
+1706	TOK	leaf		leaf\N5S
+1707	TOK	through		through\P
+1708	TOK	text		text\N5S
+1709	TOK	documents		document\N5P
+1710	TOK	and		and\CC
+1711	TOK	enable		enable\VMF6R66
+1712	TOK	you		you\RP62N6
+1713	TOK	to		to\P
+1714	TOK	work		work\N5S
+1715	TOK	with		with\P
+1716	TOK	multiple		multiple\JA
+1717	TOK	file		file\N5S
+1718	TOK	folders		folder\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1719	TOK	Cyberjack	BOS	Cyberjack\N46
+##	TAG	</name>
+1720	TOK	uses		use\VMFDRS3
+##	TAG	<name>
+1721	TOK	Microsoft Exchange		Microsoft_Exchange\N46
+##	TAG	</name>
+1722	TOK	for		for\P
+1723	TOK	sending		send\VMG----
+1724	TOK	and		and\CC
+1725	TOK	receiving		receive\VMG----
+##	TAG	<name>
+1726	TOK	Internet E-mail		Internet_E-mail\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1727	TOK	If	BOS	if\CS
+1728	TOK	you		you\RP62N6
+1729	TOK	simply		simply\DGA7
+1730	TOK	want		want\VMF6R66
+1731	TOK	to		to\P
+1732	TOK	browse		browse\VMI----
+1733	TOK	the		the\AT---6
+##	TAG	<name>
+1734	TOK	Web		Web\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1735	TOK	then		then\DGA7
+##	TAG	<name>
+1736	TOK	Microsoft Explorer		Microsoft_Explorer\N46
+##	TAG	</name>
+1737	TOK	should		shall\VOFDA66
+1738	TOK	be		be\VMI----
+1739	TOK	sufficient		sufficient\JA
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1740	TOK	particularly		particularly\DGA7
+1741	TOK	the		the\AT---6
+1742	TOK	version		version\N5S
+##	TAG	<num>
+1743	TOK	2.0		2.0\X
+##	TAG	</num>
+1744	TOK	upgrade		upgrade\N5S
+1745	TOK	available		available\JA
+1746	TOK	from		from\P
+##	TAG	<na type="url">
+1747	TOK	http://www.windows.microsoft.com		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1748	TOK	But	BOS	but\CC
+1749	TOK	if		if\CS
+1750	TOK	you		you\RP62N6
+1751	TOK	want		want\VMF6R66
+1752	TOK	more		more\DDC7
+1753	TOK	advanced		advance\VMC----
+##	TAG	<name>
+1754	TOK	Net		Net\N46
+##	TAG	</name>
+1755	TOK	capabilities		capability\N5P
+---	DLD	,		=\DELIM
+1756	TOK	then		then\DGA7
+1757	TOK	you		you\RP62N6
+1758	TOK	should		shall\VOFDA66
+1759	TOK	check		check\VMI----
+1760	TOK	out		out\DGA7
+##	TAG	<name>
+1761	TOK	Cyberjack		Cyberjack\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+1762	TOK	LapLink	BOS	LapLink\N46
+##	TAG	</name>
+##	TAG	<num>
+1763	TOK	7.0		7.0\X
+##	TAG	</num>
+1764	TOK	for		for\P
+##	TAG	<name>
+1765	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1766	TOK	95	EOS	95\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1768	TOK	Traveling	BOS	travel\VMG----
+##	TAG	<name>
+1769	TOK	Software		Software\N46
+##	TAG	</name>
+1770	PGR	's		genmark\GENMARK
+##	TAG	<name>
+1771	TOK	LapLink		LapLink\N46
+##	TAG	</name>
+1772	TOK	made		make\VMF6A66
+1773	TOK	its		its\APS3N6
+1774	TOK	name		name\N5S
+1775	TOK	as		as\P
+1776	TOK	the		the\AT---6
+1777	TOK	premier		premier\N5S
+1778	TOK	utility		utility\N5S
+1779	TOK	for		for\P
+1780	TOK	transferring		transfer\VMG----
+1781	TOK	files		file\N5P
+1782	TOK	between		between\P
+1783	TOK	computers		computer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1784	TOK	This	BOS	this\AD---S
+1785	TOK	heritage		heritage\N5S
+1786	TOK	is		be\V6FDRS3
+1787	TOK	apparent		apparent\JA
+1788	TOK	in		in\P
+1789	TOK	the		the\AT---6
+1790	TOK	new		new\JA
+1791	TOK	release		release\VMF6R66
+---	DLD	,		=\DELIM
+1792	TOK	but		but\CC
+1793	TOK	it		it\RPS3N6
+1794	PGR	's		be\V6FDRS3
+1795	TOK	augmented		augment\VMC----
+1796	TOK	with		with\P
+1797	TOK	remote		remote\JA
+---	DLI	-		=\DELIM
+1798	TOK	control		control\N5S
+1799	TOK	and		and\CC
+1800	TOK	other		other\JA
+1801	TOK	communication		communication\N5S
+1802	TOK	capabilities		capability\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1803	TOK	The	BOS	the\AT---6
+1804	TOK	product		product\N5S
+1805	TOK	will		will\VOFDR66
+1806	TOK	be		be\VMI----
+1807	TOK	useful		useful\JA
+1808	TOK	for		for\P
+1809	TOK	the		the\AT---6
+1810	TOK	mobile		mobile\JA
+1811	TOK	executive		executive\N5S
+1812	TOK	who		who\RW63N-
+1813	TOK	often		often\DGA7
+1814	TOK	works		work\VMFDRS3
+1815	TOK	on		on\P
+1816	TOK	the		the\AT---6
+1817	TOK	road		road\N5S
+1818	TOK	with		with\P
+1819	TOK	a		a\AI---S
+1820	TOK	wide		wide\JA
+1821	TOK	range		range\N5S
+1822	TOK	of		of\P
+1823	TOK	connections		connection\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1824	TOK	In	BOS	in\P
+##	TAG	<name>
+1825	TOK	MS-DOS		MS-DOS\N46
+##	TAG	</name>
+##	TAG	<num>
+1826	TOK	6		6\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+1827	TOK	2x		2x\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1828	TOK	Microsoft		Microsoft\N46
+##	TAG	</name>
+1829	TOK	incorporated		incorporate\VMF6A66
+##	TAG	<name>
+1830	TOK	Interlink		Interlink\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1831	TOK	a		a\AI---S
+1832	TOK	file		file\N5S
+---	DLI	-		=\DELIM
+1833	TOK	transfer		transfer\N5S
+1834	TOK	utility		utility\N5S
+1835	TOK	that		that\RW63N6
+1836	TOK	operated		operate\VMF6A66
+1837	TOK	much		much\DGA7
+1838	TOK	like		like\P
+##	TAG	<name>
+1839	TOK	LapLink		LapLink\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1840	TOK	Windows	BOS	Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1841	TOK	95		95\X
+##	TAG	</num>
+1842	TOK	has		have\V6FDRS3
+1843	TOK	even		even\DGA7
+1844	TOK	more		more\DDC7
+1845	TOK	advanced		advance\VMC----
+1846	TOK	capabilities		capability\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1847	TOK	Its	BOS	its\APS3N6
+1848	TOK	dial		dial\VMI----
+---	DLI	-		=\DELIM
+1849	TOK	up		up\P
+1850	TOK	networking		networking\N5S
+1851	TOK	and		and\CC
+1852	TOK	direct		direct\VMF6R66
+---	DLI	-		=\DELIM
+1853	TOK	cable		cable\N5S
+1854	TOK	connection		connection\N5S
+1855	TOK	allow		allow\VMF6R66
+1856	TOK	a		a\AI---S
+##	TAG	<name>
+1857	TOK	LapLink		LapLink\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1858	TOK	like		like\P
+1859	TOK	functionality		functionality\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1860	TOK	In	BOS	in\P
+1861	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+1862	TOK	the		the\AT---6
+##	TAG	<name>
+1863	TOK	Briefcase		Briefcase\N46
+##	TAG	</name>
+1864	TOK	feature		feature\N5S
+1865	TOK	makes		make\VMFDRS3
+1866	TOK	it		it\RPS3N6
+1867	TOK	easier		easy\JC
+1868	TOK	to		to\P
+1869	TOK	keep		keep\VMI----
+1870	TOK	a		a\AI---S
+1871	TOK	set		set\N5S
+1872	TOK	of		of\P
+1873	TOK	files		file\N5P
+1874	TOK	synchronized		synchronize\VMC----
+1875	TOK	between		between\P
+##	TAG	<num>
+1876	TOK	two		two\X
+##	TAG	</num>
+1877	TOK	computers		computer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1878	TOK	The	BOS	the\AT---6
+1879	TOK	problem		problem\N5S
+1880	TOK	is		be\V6FDRS3
+1881	TOK	that		that\CS
+1882	TOK	none		none\RIS3N-
+1883	TOK	of		of\P
+1884	TOK	these		this\RDP3N-
+1885	TOK	is		be\V6FDRS3
+1886	TOK	very		very\JA
+1887	TOK	well		well\DGA7
+1888	TOK	explained		explain\VMC----
+1889	TOK	or		or\CC
+1890	TOK	described		describe\VMC----
+1891	TOK	in		in\P
+1892	TOK	the		the\AT---6
+1893	TOK	help		help\N5S
+1894	TOK	system		system\N5S
+1895	TOK	or		or\CC
+1896	TOK	documentation		documentation\N5S
+---	DLD	,		=\DELIM
+1897	TOK	and		and\CC
+1898	TOK	getting		get\VMG----
+1899	TOK	them		them\RPP3NA
+1900	TOK	working		work\VMG----
+1901	TOK	can		can\VOFDR66
+1902	TOK	be		be\VMI----
+1903	TOK	an		an\AI---S
+1904	TOK	exercise		exercise\N5S
+1905	TOK	in		in\P
+1906	TOK	frustration		frustration\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1907	TOK	Also	BOS	also\DGA7
+---	DLD	,		=\DELIM
+1908	TOK	both		both\RIP3N-
+1909	TOK	computers		computer\N5P
+1910	TOK	have		have\V6F6R66
+1911	TOK	to		to\P
+1912	TOK	be		be\VMI----
+1913	TOK	running		run\VMG----
+##	TAG	<name>
+1914	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1915	TOK	95		95\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1916	TOK	If	BOS	if\CS
+1917	TOK	one		one\RIS3N-
+1918	TOK	is		be\V6FDRS3
+1919	TOK	using		use\VMG----
+##	TAG	<name>
+1920	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+1921	TOK	3.1		3.1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+---	DLD	-		=\DELIM
+1922	TOK	say		say\VMF6R66
+1923	TOK	it		it\RPS3N6
+1924	PGR	's		be\V6FDRS3
+1925	TOK	a		a\AI---S
+##	TAG	<num>
+1926	TOK	286		286\X
+##	TAG	</num>
+1927	TOK	machine		machine\N5S
+1928	TOK	that		that\RW63N6
+1929	TOK	flat		flat\VMF6R66
+---	DLI	-		=\DELIM
+1930	TOK	out		out\DGA7
+1931	TOK	can		can\V6FDR66
+1932	PGR	't		not\DGA7
+1933	TOK	run		run\VMF6R66
+##	TAG	<num>
+1934	TOK	95		95\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+---	DLD	-		=\DELIM
+1935	TOK	then		then\DGA7
+1936	TOK	you		you\RP62N6
+1937	TOK	're		're\N5S
+##	TAG	<loc pos="P">
+1938	TOK	out of		out_of\P
+##	TAG	</loc>
+1939	TOK	luck		luck\N5S
+1940	TOK	with		with\P
+1941	TOK	built		build\VMF6A66
+---	DLI	-		=\DELIM
+1942	TOK	ins		in\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1943	TOK	Here	BOS	here\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1944	TOK	LapLink		LapLink\N46
+##	TAG	</name>
+1945	TOK	is		be\V6FDRS3
+1946	TOK	not		not\DGA7
+1947	TOK	only		only\DGA7
+1948	TOK	helpful		helpful\JA
+1949	TOK	but		but\CC
+1950	TOK	necessary		necessary\JA
+1951	TOK	because		because\CS
+1952	TOK	it		it\RPS3N6
+1953	TOK	includes		include\VMFDRS3
+1954	TOK	both		both\RIP3N-
+##	TAG	<num>
+1955	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1956	TOK	bit		bit\N5S
+1957	TOK	and		and\CC
+##	TAG	<num>
+1958	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1959	TOK	bit		bit\N5S
+1960	TOK	versions		version\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1961	TOK	It	BOS	it\RPS3N6
+1962	PGR	's		be\V6FDRS3
+1963	TOK	a		a\AI---S
+1964	TOK	lot		lot\N5S
+1965	TOK	easier		easy\JC
+1966	TOK	to		to\P
+1967	TOK	set		set\N5S
+1968	TOK	up		up\P
+1969	TOK	and		and\CC
+1970	TOK	get		get\VMI----
+1971	TOK	going		go\VMG----
+---	DLD	,		=\DELIM
+1972	TOK	too		too\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1973	TOK	Traveling	BOS	traveling\JA
+##	TAG	<name>
+1974	TOK	Software		Software\N46
+##	TAG	</name>
+1975	TOK	has		have\V6FDRS3
+1976	TOK	revamped		revamp\VMC----
+##	TAG	<name>
+1977	TOK	LapLink		LapLink\N46
+##	TAG	</name>
+1978	TOK	to		to\P
+1979	TOK	take		take\VMI----
+1980	TOK	advantage		advantage\N5S
+1981	TOK	of		of\P
+1982	TOK	the		the\AT---6
+##	TAG	<name>
+1983	TOK	OS		OS\N46
+##	TAG	</name>
+1984	TOK	and		and\CC
+1985	TOK	to		to\P
+1986	TOK	look		look\VMI----
+1987	TOK	like		like\P
+1988	TOK	a		a\AI---S
+##	TAG	<name>
+1989	TOK	Win		Win\N46
+##	TAG	</name>
+##	TAG	<num>
+1990	TOK	95		95\X
+##	TAG	</num>
+1991	TOK	application		application\N5S
+---	DLD	,		=\DELIM
+1992	TOK	using		use\VMG----
+1993	TOK	standard		standard\JA
+1994	TOK	dialog		dialog\N5S
+1995	TOK	boxes		box\N5P
+1996	TOK	and		and\CC
+1997	TOK	icons		icon\N5P
+##	TAG	<loc pos="CS">
+1998	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+1999	TOK	menus		menu\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2000	TOK	Conveniently	BOS	conveniently\DGA7
+---	DLD	,		=\DELIM
+2001	TOK	the		the\AT---6
+2002	TOK	software		software\N5S
+2003	TOK	can		can\VOFDR66
+2004	TOK	pull		pull\VMI----
+2005	TOK	telephone		telephone\N5S
+2006	TOK	numbers		number\N5P
+2007	TOK	from		from\P
+2008	TOK	the		the\AT---6
+##	TAG	<name>
+2009	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2010	TOK	95		95\X
+##	TAG	</num>
+2011	TOK	address		address\N5S
+2012	TOK	book		book\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2013	TOK	You	BOS	you\RP62N6
+2014	TOK	can		can\VOFDR66
+2015	TOK	connect		connect\VMI----
+2016	TOK	to		to\P
+2017	TOK	other		other\JA
+2018	TOK	machines		machine\N5P
+2019	TOK	running		run\VMG----
+##	TAG	<name>
+2020	TOK	Windows		Windows\N46
+##	TAG	</name>
+2021	TOK	applications		application\N5P
+2022	TOK	and		and\CC
+##	TAG	<name>
+2023	TOK	Win		Win\N46
+##	TAG	</name>
+##	TAG	<num>
+2024	TOK	95		95\X
+##	TAG	</num>
+2025	PGR	's		genmark\GENMARK
+2026	TOK	long		long\JA
+2027	TOK	filenames		filename\N5P
+2028	TOK	will		will\VOFDR66
+2029	TOK	be		be\VMI----
+2030	TOK	truncated		truncate\VMC----
+2031	TOK	to		to\P
+##	TAG	<name>
+2032	TOK	DOS		DOS\N46
+##	TAG	</name>
+2033	PGR	's		genmark\GENMARK
+##	TAG	<num>
+2034	TOK	8.3		8.3\X
+##	TAG	</num>
+2035	TOK	format		format\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2036	TOK	As	BOS	as\P
+2037	TOK	a		a\AI---S
+2038	TOK	dial		dial\VMI----
+---	DLI	-		=\DELIM
+2039	TOK	up		up\P
+2040	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2041	TOK	LapLink		LapLink\N46
+##	TAG	</name>
+##	TAG	<num>
+2042	TOK	7		7\X
+##	TAG	</num>
+2043	TOK	works		work\N5P
+2044	TOK	with		with\P
+##	TAG	<num>
+2045	TOK	three		three\X
+##	TAG	</num>
+2046	TOK	remote		remote\JA
+2047	TOK	servers		server\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2048	TOK	Shiva	BOS	Shiva\N46
+##	TAG	</name>
+2049	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2050	TOK	PPP		PPP\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2051	TOK	LAN Rover		LAN_Rover\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2052	TOK	and		and\CC
+##	TAG	<name>
+2053	TOK	Windows NT Remote Access Server		Windows_NT_Remote_Access_Server\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2054	TOK	The	BOS	the\AT---6
+2055	TOK	new		new\JA
+2056	TOK	release		release\N5S
+2057	TOK	also		also\DGA7
+2058	TOK	lets		let\VMFDRS3
+2059	TOK	a		a\AI---S
+2060	TOK	user		user\N5S
+2061	TOK	connect		connect\VMF6R66
+2062	TOK	to		to\P
+2063	TOK	a		a\AI---S
+##	TAG	<name>
+2064	TOK	TCP/IP		TCP/IP\N46
+##	TAG	</name>
+2065	TOK	network		network\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2066	TOK	Previous	BOS	previous\JA
+2067	TOK	versions		version\N5P
+2068	TOK	concentrated		concentrate\VMC----
+2069	TOK	on		on\P
+##	TAG	<name>
+2070	TOK	Novell		Novell\N46
+##	TAG	</name>
+2071	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2072	TOK	IPX		IPX\N46
+##	TAG	</name>
+2073	TOK	protocol		protocol\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2074	TOK	This	BOS	this\RDS3N-
+2075	TOK	was		be\V6F-A66
+2076	TOK	the		the\AT---6
+2077	TOK	only		only\JA
+2078	TOK	product		product\N5S
+2079	TOK	we		we\RPP1NN
+2080	TOK	tested		test\VMF6A66
+2081	TOK	that		that\CS
+2082	TOK	would		will\VOFDA66
+2083	TOK	support		support\VMI----
+2084	TOK	wireless		wireless\JA
+2085	TOK	connections		connection\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2086	TOK	LapLink	BOS	LapLink\N46
+##	TAG	</name>
+2087	TOK	works		work\VMFDRS3
+2088	TOK	with		with\P
+2089	TOK	the		the\AT---6
+##	TAG	<name>
+2090	TOK	AirShare Radio		AirShare_Radio\N46
+##	TAG	</name>
+2091	TOK	protocol		protocol\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2092	TOK	LapLink	BOS	LapLink\N46
+##	TAG	</name>
+2093	TOK	also		also\DGA7
+2094	TOK	has		have\V6FDRS3
+2095	TOK	some		some\AG---6
+2096	TOK	security		security\N5S
+2097	TOK	capabilities		capability\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2098	TOK	An	BOS	an\AI---S
+2099	TOK	optional		optional\JA
+2100	TOK	call		call\VMF6R66
+---	DLI	-		=\DELIM
+2101	TOK	back		back\N5S
+2102	TOK	feature		feature\N5S
+2103	TOK	will		will\VOFDR66
+2104	TOK	break		break\VMI----
+2105	TOK	an		an\AI---S
+2106	TOK	incoming		incoming\JA
+2107	TOK	connection		connection\N5S
+2108	TOK	and		and\CC
+2109	TOK	then		then\DGA7
+2110	TOK	redial		redial\VMF6R66
+2111	TOK	the		the\AT---6
+2112	TOK	user		user\N5S
+2113	PGR	's		genmark\GENMARK
+2114	TOK	system		system\N5S
+2115	TOK	at		at\P
+2116	TOK	a		a\AI---S
+2117	TOK	preassigned		preassign\VMC----
+2118	TOK	phone		phone\N5S
+2119	TOK	number		number\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2120	TOK	While	BOS	while\CS
+2121	TOK	not		not\DGA7
+2122	TOK	foolproof		foolproof\JA
+---	DLD	,		=\DELIM
+2123	TOK	this		this\RDS3N-
+2124	TOK	makes		make\VMFDRS3
+2125	TOK	it		it\RPS3N6
+2126	TOK	harder		hard\JC
+2127	TOK	for		for\P
+2128	TOK	a		a\AI---S
+2129	TOK	malicious		malicious\JA
+2130	TOK	hacker		hacker\N5S
+2131	TOK	to		to\P
+2132	TOK	dial		dial\VMI----
+2133	TOK	into		into\P
+2134	TOK	a		a\AI---S
+2135	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2136	TOK	The	BOS	the\AT---6
+2137	TOK	product		product\N5S
+2138	TOK	includes		include\VMFDRS3
+##	TAG	<num>
+2139	TOK	three		three\X
+##	TAG	</num>
+2140	TOK	basic		basic\JA
+2141	TOK	communications		communication\N5P
+2142	TOK	services		service\N5P
+---	DLD	:		=\DELIM
+2143	TOK	file		file\N5S
+2144	TOK	transfer		transfer\VMF6R66
+---	DLD	,		=\DELIM
+2145	TOK	remote		remote\JA
+2146	TOK	control		control\N5S
+---	DLD	,		=\DELIM
+2147	TOK	and		and\CC
+2148	TOK	interactive		interactive\JA
+2149	TOK	chat		chat\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2150	TOK	The	BOS	the\AT---6
+2151	TOK	file		file\N5S
+2152	TOK	transfer		transfer\N5S
+2153	TOK	capability		capability\N5S
+2154	TOK	enables		enable\VMFDRS3
+2155	TOK	you		you\RP62N6
+2156	TOK	to		to\P
+2157	TOK	view		view\N5S
+2158	TOK	or		or\CC
+2159	TOK	exchange		exchange\N5S
+2160	TOK	files		file\N5P
+2161	TOK	with		with\P
+2162	TOK	a		a\AI---S
+2163	TOK	remote		remote\JA
+##	TAG	<name>
+2164	TOK	PC		PC\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2165	TOK	LapLink	BOS	LapLink\N46
+##	TAG	</name>
+2166	PGR	's		be\V6FDRS3
+2167	TOK	patented		patent\VMC----
+##	TAG	<name>
+2168	TOK	SpeedSync		SpeedSync\N46
+##	TAG	</name>
+2169	TOK	feature		feature\N5S
+2170	TOK	downloads		download\VMFDRS3
+2171	TOK	only		only\DGA7
+2172	TOK	changes		change\N5P
+2173	TOK	to		to\P
+2174	TOK	a		a\AI---S
+2175	TOK	file		file\N5S
+##	TAG	<loc pos="DDC7">
+2176	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+2177	TOK	its		its\APS3N6
+2178	TOK	entire		entire\JA
+2179	TOK	contents		content\N5P
+---	DLD	,		=\DELIM
+2180	TOK	which		which\RW63N-
+2181	TOK	cuts		cut\VMFDRS3
+2182	TOK	time		time\N5S
+2183	TOK	significantly		significantly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2184	TOK	This	BOS	this\RDS3N-
+2185	TOK	will		will\VOFDR66
+2186	TOK	be		be\VMI----
+2187	TOK	useful		useful\JA
+2188	TOK	to		to\P
+2189	TOK	people		people\N56
+2190	TOK	who		who\RW63N-
+2191	TOK	regularly		regularly\DGA7
+2192	TOK	access		access\VMF6R66
+2193	TOK	and		and\CC
+2194	TOK	update		update\VMF6R66
+2195	TOK	specific		specific\JA
+2196	TOK	files		file\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2197	TOK	Remote	BOS	remote\JA
+2198	TOK	control		control\N5S
+2199	TOK	enables		enable\VMFDRS3
+2200	TOK	a		a\AI---S
+2201	TOK	user		user\N5S
+2202	TOK	to		to\P
+2203	TOK	open		open\VMI----
+2204	TOK	a		a\AI---S
+2205	TOK	program		program\N5S
+2206	TOK	running		run\VMG----
+2207	TOK	on		on\P
+2208	TOK	a		a\AI---S
+2209	TOK	remote		remote\JA
+2210	TOK	system		system\N5S
+2211	TOK	and		and\CC
+2212	TOK	transfer		transfer\N5S
+2213	TOK	information		information\N5S
+2214	TOK	between		between\P
+2215	TOK	the		the\AT---6
+##	TAG	<num>
+2216	TOK	two		two\X
+##	TAG	</num>
+2217	TOK	systems		system\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2218	TOK	An	BOS	an\AI---S
+2219	TOK	interactive		interactive\JA
+2220	TOK	chat		chat\N5S
+2221	TOK	facility		facility\N5S
+2222	TOK	enables		enable\VMFDRS3
+##	TAG	<num>
+2223	TOK	two		two\X
+##	TAG	</num>
+2224	TOK	users		user\N5P
+2225	TOK	to		to\P
+2226	TOK	converse		converse\VMI----
+2227	TOK	by		by\P
+2228	TOK	exchanging		exchange\VMG----
+2229	TOK	text		text\N5S
+2230	TOK	messages		message\N5P
+2231	TOK	on		on\P
+---	DLI	-		=\DELIM
+2232	TOK	line		line\N5S
+2233	TOK	in		in\P
+2234	TOK	real		real\JA
+2235	TOK	time		time\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2236	TOK	There	BOS	there\DGA7
+2237	TOK	was		be\V6F-A66
+2238	TOK	no		no\AI---6
+2239	TOK	on		on\P
+---	DLI	-		=\DELIM
+2240	TOK	line		line\N5S
+2241	TOK	tutorial		tutorial\N5S
+2242	TOK	in		in\P
+2243	TOK	the		the\AT---6
+2244	TOK	package		package\N5S
+2245	TOK	we		we\RPP1NN
+2246	TOK	tested		test\VMF6A66
+---	DLD	,		=\DELIM
+2247	TOK	but		but\CC
+2248	TOK	the		the\AT---6
+2249	TOK	program		program\N5S
+2250	TOK	does		do\V6FDRS3
+2251	TOK	provide		provide\VMI----
+2252	TOK	help		help\N5S
+2253	TOK	with		with\P
+2254	TOK	setting		set\VMG----
+2255	TOK	up		up\P
+2256	TOK	a		a\AI---S
+2257	TOK	communications		communication\N5P
+2258	TOK	session		session\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2259	TOK	This	BOS	this\RDS3N-
+2260	TOK	is		be\V6FDRS3
+2261	TOK	especially		especially\DGA7
+2262	TOK	useful		useful\JA
+2263	TOK	because		because\CS
+##	TAG	<name>
+2264	TOK	LapLink		LapLink\N46
+##	TAG	</name>
+2265	TOK	offers		offer\VMFDRS3
+2266	TOK	users		user\N5P
+2267	TOK	a		a\AI---S
+2268	TOK	variety		variety\N5S
+2269	TOK	of		of\P
+2270	TOK	connectivity		connectivity\N5S
+2271	TOK	options		option\N5P
+---	DLD	:		=\DELIM
+2272	TOK	a		a\AI---S
+2273	TOK	cable		cable\N5S
+2274	TOK	connection		connection\N5S
+---	DLD	,		=\DELIM
+2275	TOK	dial		dial\VMI----
+---	DLI	-		=\DELIM
+2276	TOK	up		up\P
+---	DLD	,		=\DELIM
+2277	TOK	modem		modem\N5S
+---	DLD	,		=\DELIM
+2278	TOK	network		network\N5S
+---	DLD	,		=\DELIM
+2279	TOK	and		and\CC
+2280	TOK	wireless		wireless\JA
+2281	TOK	services		service\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2282	TOK	LapLink	BOS	LapLink\N5S
+2283	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2284	TOK	Quickstep		Quickstep\N46
+##	TAG	</name>
+2285	TOK	walks		walk\VMFDRS3
+2286	TOK	a		a\AI---S
+2287	TOK	user		user\N5S
+2288	TOK	through		through\P
+2289	TOK	the		the\AT---6
+2290	TOK	process		process\N5S
+2291	TOK	of		of\P
+2292	TOK	setting		set\VMG----
+2293	TOK	up		up\P
+2294	TOK	a		a\AI---S
+##	TAG	<name>
+2295	TOK	PC		PC\N46
+##	TAG	</name>
+2296	TOK	for		for\P
+2297	TOK	different		different\JA
+2298	TOK	types		type\N5P
+2299	TOK	of		of\P
+2300	TOK	connections		connection\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2301	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+2302	TOK	Tips		Tips\N46
+##	TAG	</name>
+2303	TOK	section		section\N5S
+2304	TOK	includes		include\VMFDRS3
+2305	TOK	hints		hint\N5P
+2306	TOK	for		for\P
+2307	TOK	setting		set\VMG----
+2308	TOK	up		up\P
+2309	TOK	a		a\AI---S
+2310	TOK	computer		computer\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2311	TOK	handy		handy\JA
+2312	TOK	if		if\CS
+2313	TOK	you		you\RP62N6
+2314	TOK	manage		manage\VMF6R66
+2315	TOK	novice		novice\N5S
+2316	TOK	users		user\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2317	TOK	One	BOS	one\MCS
+2318	TOK	tip		tip\N5S
+2319	TOK	outlines		outline\VMFDRS3
+2320	TOK	how		how\DGAW
+2321	TOK	to		to\P
+2322	TOK	set		set\N5S
+2323	TOK	up		up\P
+2324	TOK	a		a\AI---S
+2325	TOK	parallel		parallel\JA
+2326	TOK	port		port\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+2327	TOK	noting		note\VMG----
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+2328	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2329	TOK	that		that\CS
+2330	TOK	standard		standard\JA
+2331	TOK	printer		printer\N5S
+2332	TOK	cables		cable\N5P
+2333	TOK	don		do\V6FDR66
+2334	PGR	't		not\DGA7
+2335	TOK	work		work\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2336	TOK	Traveling	BOS	traveling\JA
+##	TAG	<name>
+2337	TOK	Software		Software\N46
+##	TAG	</name>
+2338	TOK	includes		include\VMFDRS3
+2339	TOK	the		the\AT---6
+2340	TOK	special		special\JA
+2341	TOK	parallel		parallel\JA
+2342	TOK	cable		cable\N5S
+2343	TOK	you		you\RP62N6
+2344	TOK	need		need\V6F6R66
+---	DLD	,		=\DELIM
+2345	TOK	plus		plus\CS
+2346	TOK	another		another\JA
+2347	TOK	cable		cable\N5S
+2348	TOK	for		for\P
+2349	TOK	connecting		connect\VMG----
+2350	TOK	to		to\P
+2351	TOK	serial		serial\JA
+2352	TOK	ports		port\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2353	TOK	Yet	BOS	yet\DGA7
+2354	TOK	a		a\AI---S
+2355	TOK	third		third\MOS
+2356	TOK	cable		cable\N5S
+---	DLD	,		=\DELIM
+2357	TOK	which		which\RW63N-
+2358	TOK	is		be\V6FDRS3
+2359	TOK	designed		design\VMC----
+2360	TOK	to		to\P
+2361	TOK	speed		speed\N5S
+2362	TOK	up		up\P
+2363	TOK	data		data\N56
+2364	TOK	transfer		transfer\N5S
+2365	TOK	between		between\P
+##	TAG	<name>
+2366	TOK	ECP/EPP		ECP/EPP\N46
+##	TAG	</name>
+2367	TOK	ports		port\N5P
+---	DLD	,		=\DELIM
+2368	TOK	can		can\VOFDR66
+2369	TOK	be		be\VMI----
+2370	TOK	purchased		purchase\VMC----
+2371	TOK	separately		separately\DGA7
+2372	TOK	for		for\P
+2373	TOK	$		$\N5P
+##	TAG	<num>
+2374	TOK	69.95		69.95\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+2375	TOK	QmodemPro for Windows	BOS	QmodemPro_for_Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2376	TOK	95	EOS	95\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2378	TOK	Mustang	BOS	mustang\N5S
+2379	TOK	has		have\V6FDRS3
+2380	TOK	focused		focus\VMC----
+2381	TOK	on		on\P
+2382	TOK	bulletin		bulletin\N5S
+2383	TOK	board		board\N5S
+2384	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2385	TOK	The	BOS	the\AT---6
+2386	TOK	firm		firm\N5S
+2387	PGR	's		genmark\GENMARK
+2388	TOK	new		new\JA
+##	TAG	<name>
+2389	TOK	QmodemPro for Windows		QmodemPro_for_Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2390	TOK	95		95\X
+##	TAG	</num>
+2391	TOK	enables		enable\VMFDRS3
+2392	TOK	a		a\AI---S
+2393	TOK	user		user\N5S
+2394	TOK	to		to\P
+2395	TOK	set		set\N5S
+2396	TOK	up		up\P
+2397	TOK	a		a\AI---S
+##	TAG	<name>
+2398	TOK	BBS		BBS\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2399	TOK	As	BOS	as\P
+2400	TOK	part		part\N5S
+2401	TOK	of		of\P
+2402	TOK	its		its\APS3N6
+2403	TOK	tutorial		tutorial\N5S
+---	DLD	,		=\DELIM
+2404	TOK	the		the\AT---6
+2405	TOK	company		company\N5S
+2406	TOK	invites		invite\VMFDRS3
+2407	TOK	users		user\N5P
+2408	TOK	to		to\P
+2409	TOK	access		access\N5S
+##	TAG	<name>
+2410	TOK	Mustang		Mustang\N46
+##	TAG	</name>
+2411	PGR	's		genmark\GENMARK
+2412	TOK	own		own\JA
+2413	TOK	user		user\N5S
+2414	TOK	bulletin		bulletin\N5S
+2415	TOK	board		board\N5S
+2416	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2417	TOK	The	BOS	the\AT---6
+2418	TOK	new		new\JA
+2419	TOK	package		package\N5S
+2420	TOK	focuses		focus\N5P
+2421	TOK	on		on\P
+2422	TOK	dial		dial\VMI----
+---	DLI	-		=\DELIM
+2423	TOK	up		up\P
+2424	TOK	capabilities		capability\N5P
+2425	TOK	and		and\CC
+2426	TOK	eases		ease\VMFDRS3
+2427	TOK	users		user\N5P
+2428	TOK	through		through\P
+2429	TOK	that		that\RDS3N-
+2430	TOK	set		set\VMC----
+---	DLI	-		=\DELIM
+2431	TOK	up		up\P
+2432	TOK	process		process\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2433	TOK	The	BOS	the\AT---6
+2434	TOK	software		software\N5S
+2435	TOK	includes		include\VMFDRS3
+2436	TOK	scripts		script\N5P
+2437	TOK	for		for\P
+##	TAG	<name>
+2438	TOK	CompuServe		CompuServe\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+2439	TOK	MCI		MCI\X
+##	TAG	</num>
+##	TAG	<name>
+2440	TOK	Mail		Mail\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2441	TOK	Delphi		Delphi\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2442	TOK	and		and\CC
+##	TAG	<name>
+2443	TOK	GEnie		GEnie\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2444	TOK	The	BOS	the\AT---6
+2445	TOK	process		process\N5S
+2446	TOK	is		be\V6FDRS3
+2447	TOK	a		a\AI---S
+2448	TOK	simple		simple\JA
+2449	TOK	fill		fill\VMF6R66
+---	DLI	-		=\DELIM
+2450	TOK	in		in\P
+---	DLI	-		=\DELIM
+2451	TOK	the		the\AT---6
+---	DLI	-		=\DELIM
+2452	TOK	blanks		blank\N5P
+2453	TOK	scenario		scenario\N5S
+---	DLD	;		=\DELIM
+2454	TOK	the		the\AT---6
+2455	TOK	scripts		script\N5P
+2456	TOK	include		include\VMF6R66
+2457	TOK	the		the\AT---6
+2458	TOK	phone		phone\N5S
+2459	TOK	numbers		number\N5P
+2460	TOK	and		and\CC
+2461	TOK	passwords		password\N5P
+2462	TOK	to		to\P
+2463	TOK	these		this\AD---P
+2464	TOK	systems		system\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2465	TOK	QmodemPro for Windows	BOS	QmodemPro_for_Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2466	TOK	95		95\X
+##	TAG	</num>
+2467	TOK	comes		come\VMFDRS3
+2468	TOK	with		with\P
+2469	TOK	its		its\APS3N6
+2470	TOK	own		own\JA
+2471	TOK	scripting		scripting\N5S
+2472	TOK	language		language\N5S
+---	DLD	,		=\DELIM
+2473	TOK	which		which\RW63N-
+2474	TOK	resembles		resemble\VMFDRS3
+##	TAG	<name>
+2475	TOK	Basic		Basic\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2476	TOK	The	BOS	the\AT---6
+2477	TOK	communications		communication\N5P
+2478	TOK	package		package\N5S
+2479	TOK	supports		support\VMFDRS3
+##	TAG	<name>
+2480	TOK	MAPI		MAPI\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2481	TOK	so		so\DGA7
+2482	TOK	a		a\AI---S
+2483	TOK	user		user\N5S
+2484	TOK	can		can\VOFDR66
+2485	TOK	move		move\VMI----
+2486	TOK	text		text\N5S
+2487	TOK	from		from\P
+2488	TOK	a		a\AI---S
+2489	TOK	window		window\N5S
+2490	TOK	to		to\P
+2491	TOK	another		another\JA
+2492	TOK	mail		mail\N5S
+2493	TOK	product		product\N5S
+---	DLD	,		=\DELIM
+2494	TOK	such		such\JA
+2495	TOK	as		as\P
+##	TAG	<name>
+2496	TOK	Microsoft Exchange		Microsoft_Exchange\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2497	TOK	The	BOS	the\AT---6
+2498	TOK	picture		picture\N5S
+2499	TOK	viewer		viewer\N5S
+2500	TOK	enables		enable\VMFDRS3
+2501	TOK	you		you\RP62N6
+2502	TOK	to		to\P
+2503	TOK	work		work\N5S
+2504	TOK	with		with\P
+2505	TOK	graphics		graphic\N56
+2506	TOK	files		file\N5P
+2507	TOK	in		in\P
+##	TAG	<name>
+2508	TOK	BMP		BMP\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2509	TOK	GIF		GIF\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2510	TOK	and		and\CC
+##	TAG	<name>
+2511	TOK	JPEG		JPEG\N46
+##	TAG	</name>
+2512	TOK	formats		format\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2513	TOK	If	BOS	if\CS
+2514	TOK	you		you\RP62N6
+2515	TOK	're		're\N5S
+2516	TOK	moving		move\VMG----
+2517	TOK	from		from\P
+2518	TOK	an		an\AI---S
+2519	TOK	older		old\JC
+##	TAG	<name>
+2520	TOK	Windows		Windows\N46
+##	TAG	</name>
+2521	TOK	version		version\N5S
+2522	TOK	of		of\P
+##	TAG	<name>
+2523	TOK	QmodemPro		QmodemPro\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2524	TOK	you		you\RP62N6
+2525	TOK	have		have\V6F6R66
+2526	TOK	to		to\P
+2527	TOK	clean		clean\VMI----
+2528	TOK	up		up\P
+2529	TOK	your		your\AP62N6
+2530	TOK	old		old\JA
+2531	TOK	scripts		script\N5P
+2532	TOK	and		and\CC
+2533	TOK	remove		remove\VMF6R66
+2534	TOK	device		device\N5S
+---	DLI	-		=\DELIM
+2535	TOK	specific		specific\JA
+2536	TOK	data		data\N56
+2537	TOK	because		because\CS
+##	TAG	<name>
+2538	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2539	TOK	95		95\X
+##	TAG	</num>
+2540	TOK	is		be\V6FDRS3
+2541	TOK	so		so\DGA7
+2542	TOK	much		much\DGA7
+2543	TOK	more		more\DDC7
+2544	TOK	aware		aware\JA
+2545	TOK	of		of\P
+2546	TOK	hardware		hardware\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2547	TOK	In	BOS	in\P
+2548	TOK	other		other\JA
+2549	TOK	words		word\N5P
+---	DLD	,		=\DELIM
+2550	TOK	for		for\P
+##	TAG	<name>
+2551	TOK	Plug		Plug\N46
+##	TAG	</name>
+2552	TOK	and		and\CC
+##	TAG	<name>
+2553	TOK	Play		Play\N46
+##	TAG	</name>
+2554	TOK	to		to\P
+2555	TOK	work		work\VMI----
+---	DLD	,		=\DELIM
+2556	TOK	you		you\RP62N6
+2557	TOK	don		do\V6FDR66
+2558	PGR	't		not\DGA7
+2559	TOK	want		want\N5S
+2560	TOK	to		to\P
+2561	TOK	confuse		confuse\VMI----
+2562	TOK	the		the\AT---6
+2563	TOK	system		system\N5S
+2564	TOK	with		with\P
+2565	TOK	parameters		parameter\N5P
+2566	TOK	and		and\CC
+2567	TOK	settings		setting\N5P
+2568	TOK	for		for\P
+2569	TOK	older		old\JC
+2570	TOK	versions		version\N5P
+2571	TOK	of		of\P
+##	TAG	<name>
+2572	TOK	Windows		Windows\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2573	TOK	Qmodem Pro	BOS	Qmodem_Pro\N46
+##	TAG	</name>
+2574	TOK	includes		include\VMFDRS3
+2575	TOK	built		build\VMF6A66
+---	DLI	-		=\DELIM
+2576	TOK	in		in\P
+2577	TOK	encryption		encryption\N5S
+2578	TOK	capabilities		capability\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2579	TOK	It	BOS	it\RPS3N6
+2580	TOK	uses		use\VMFDRS3
+2581	TOK	the		the\AT---6
+##	TAG	<name>
+2582	TOK	RSA		RSA\N46
+##	TAG	</name>
+2583	TOK	public		public\N56
+---	DLI	-		=\DELIM
+2584	TOK	key		key\N5S
+2585	TOK	algorithm		algorithm\N5S
+2586	TOK	to		to\P
+2587	TOK	preserve		preserve\VMI----
+2588	TOK	the		the\AT---6
+2589	TOK	integrity		integrity\N5S
+2590	TOK	and		and\CC
+2591	TOK	confidentiality		confidentiality\N5S
+2592	TOK	of		of\P
+2593	TOK	transmissions		transmission\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2594	TOK	The	BOS	the\AT---6
+2595	TOK	product		product\N5S
+2596	TOK	now		now\DGA7
+2597	TOK	relies		rely\VMFDRS3
+2598	TOK	on		on\P
+##	TAG	<name>
+2599	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2600	TOK	95		95\X
+##	TAG	</num>
+##	TAG	<loc pos="DDC7">
+2601	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+2602	TOK	having		have\VMG----
+2603	TOK	a		a\AI---S
+2604	TOK	separate		separate\JA
+2605	TOK	fax		fax\N5S
+2606	TOK	option		option\N5S
+---	DLD	,		=\DELIM
+2607	TOK	which		which\RW63N-
+2608	TOK	was		be\V6F-A66
+2609	TOK	available		available\JA
+2610	TOK	with		with\P
+2611	TOK	previous		previous\JA
+2612	TOK	versions		version\N5P
+2613	TOK	of		of\P
+##	TAG	<name>
+2614	TOK	Qmodem		Qmodem\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2615	TOK	Thus	BOS	thus\DGA7
+2616	TOK	it		it\RPS3N6
+2617	TOK	shares		share\VMFDRS3
+2618	TOK	the		the\AT---6
+2619	TOK	same		same\JA
+2620	TOK	limitations		limitation\N5P
+2621	TOK	as		as\P
+##	TAG	<name>
+2622	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2623	TOK	95		95\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2624	TOK	The	BOS	the\AT---6
+2625	TOK	user		user\N5S
+2626	TOK	manual		manual\N5S
+2627	TOK	for		for\P
+##	TAG	<name>
+2628	TOK	QmodemPro for Windows		QmodemPro_for_Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2629	TOK	95		95\X
+##	TAG	</num>
+2630	TOK	is		be\V6FDRS3
+2631	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+2632	TOK	designed		design\VMC----
+2633	TOK	and		and\CC
+2634	TOK	simple		simple\JA
+2635	TOK	to		to\P
+2636	TOK	follow		follow\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2637	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+2638	TOK	the		the\AT---6
+2639	TOK	product		product\N5S
+2640	PGR	's		genmark\GENMARK
+2641	TOK	on		on\P
+---	DLI	-		=\DELIM
+2642	TOK	line		line\N5S
+2643	TOK	help		help\N5S
+2644	TOK	was		be\V6F-A66
+2645	TOK	not		not\DGA7
+2646	TOK	as		as\DGA7
+2647	TOK	easy		easy\JA
+2648	TOK	to		to\P
+2649	TOK	navigate		navigate\VMI----
+2650	TOK	as		as\CS
+2651	TOK	the		the\AT---6
+2652	TOK	help		help\N5S
+2653	TOK	systems		system\N5P
+2654	TOK	in		in\P
+2655	TOK	the		the\AT---6
+2656	TOK	other		other\RIS3N-
+##	TAG	<num>
+2657	TOK	two		two\X
+##	TAG	</num>
+2658	TOK	packages		package\N5P
+2659	TOK	we		we\RPP1NN
+2660	PGR	've		have\V6FDR66
+2661	TOK	been		be\VMC----
+2662	TOK	working		work\VMG----
+2663	TOK	with		with\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2664	TOK	In	BOS	in\P
+2665	TOK	this		this\AD---S
+2666	TOK	regard		regard\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2667	TOK	QmodemPro for Win		QmodemPro_for_Win\N46
+##	TAG	</name>
+##	TAG	<num>
+2668	TOK	95		95\X
+##	TAG	</num>
+2669	TOK	assumes		assume\VMFDRS3
+2670	TOK	a		a\AI---S
+2671	TOK	high		high\JA
+2672	TOK	degree		degree\N5S
+2673	TOK	of		of\P
+2674	TOK	understanding		understanding\N5S
+2675	TOK	on		on\P
+2676	TOK	the		the\AT---6
+2677	TOK	user		user\N5S
+2678	PGR	's		genmark\GENMARK
+2679	TOK	part		part\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2680	TOK	Which	BOS	which\RW63N-
+2681	TOK	One		One\N5P
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2682	TOK	Or	BOS	or\CC
+2683	TOK	None		None\N5P
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2684	TOK	These	BOS	this\AD---P
+##	TAG	<num>
+2685	TOK	three		three\X
+##	TAG	</num>
+2686	TOK	communications		communication\N5P
+2687	TOK	packages		package\N5P
+2688	TOK	are		be\V6FDR66
+2689	TOK	quite		quite\DGA7
+2690	TOK	different		different\JA
+2691	TOK	from		from\P
+##	TAG	<loc pos="DGA7">
+2692	TOK	one another		one_another\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2693	TOK	reflecting		reflect\VMG----
+2694	TOK	primarily		primarily\DGA7
+2695	TOK	the		the\AT---6
+2696	TOK	very		very\JA
+2697	TOK	different		different\JA
+##	TAG	<name>
+2698	TOK	DOS		DOS\N46
+##	TAG	</name>
+2699	TOK	and		and\CC
+##	TAG	<name>
+2700	TOK	Windows		Windows\N46
+##	TAG	</name>
+2701	TOK	products		product\N5P
+2702	TOK	of		of\P
+2703	TOK	their		their\APP3N6
+2704	TOK	earlier		early\JC
+2705	TOK	incarnations		incarnation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2706	TOK	Look	BOS	look\N5S
+2707	TOK	at		at\P
+2708	TOK	your		your\AP62N6
+2709	TOK	own		own\JA
+2710	TOK	communications		communication\N5P
+2711	TOK	needs		need\N5P
+2712	TOK	and		and\CC
+2713	TOK	pick		pick\VMF6R66
+2714	TOK	one		one\MCS
+2715	TOK	of		of\P
+2716	TOK	these		this\AD---P
+2717	TOK	products		product\N5P
+##	TAG	<loc pos="P">
+2718	TOK	according to		according_to\P
+##	TAG	</loc>
+2719	TOK	what		what\RW63N-
+2720	TOK	you		you\RP62N6
+2721	TOK	do		do\V6FDR66
+2722	TOK	most		most\DDS7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2723	TOK	If	BOS	if\CS
+2724	TOK	you		you\RP62N6
+2725	TOK	're		're\N5S
+2726	TOK	using		use\VMG----
+##	TAG	<name>
+2727	TOK	Win		Win\N46
+##	TAG	</name>
+##	TAG	<num>
+2728	TOK	95		95\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+2729	TOK	you		you\RP62N6
+2730	TOK	still		still\DGA7
+2731	TOK	need		need\V6F6R66
+2732	TOK	to		to\P
+2733	TOK	consider		consider\VMI----
+2734	TOK	if		if\CS
+2735	TOK	you		you\RP62N6
+2736	TOK	need		need\V6F6R66
+---	DLD	,		=\DELIM
+2737	TOK	or		or\CC
+2738	TOK	want		want\VMF6R66
+---	DLD	,		=\DELIM
+2739	TOK	any		any\AG---6
+2740	TOK	of		of\P
+2741	TOK	these		this\AD---P
+2742	TOK	products		product\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2743	TOK	Windows	BOS	Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2744	TOK	95		95\X
+##	TAG	</num>
+2745	TOK	provides		provide\VMFDRS3
+2746	TOK	extensive		extensive\JA
+2747	TOK	telecomm		telecomm\N5S
+2748	TOK	features		feature\N5P
+2749	TOK	for		for\P
+2750	TOK	the		the\AT---6
+2751	TOK	user		user\N5S
+2752	TOK	who		who\RW63N-
+2753	TOK	occasionally		occasionally\DGA7
+2754	TOK	has		have\V6FDRS3
+2755	TOK	to		to\P
+2756	TOK	transmit		transmit\VMI----
+2757	TOK	information		information\N5S
+---	DLD	,		=\DELIM
+2758	TOK	read		read\N5S
+2759	TOK	or		or\CC
+2760	TOK	send		send\VMI----
+##	TAG	<loc pos="RP63N-">
+2761	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+2762	TOK	pieces		piece\N5P
+2763	TOK	of		of\P
+##	TAG	<name>
+2764	TOK	E-mail		E-mail\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2765	TOK	or		or\CC
+2766	TOK	go		go\VMF6R66
+2767	TOK	on		on\P
+---	DLI	-		=\DELIM
+2768	TOK	line		line\N5S
+##	TAG	<loc pos="DGA7">
+2769	TOK	once in a while		once_in_a_while\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2770	TOK	The	BOS	the\AT---6
+2771	TOK	communications		communication\N5P
+2772	TOK	packages		package\N5P
+2773	TOK	from		from\P
+##	TAG	<name>
+2774	TOK	Delrina		Delrina\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2775	TOK	Mustang		Mustang\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2776	TOK	and		and\CC
+##	TAG	<name>
+2777	TOK	Traveling Software		Traveling_Software\N46
+##	TAG	</name>
+2778	TOK	focus		focus\N5S
+2779	TOK	on		on\P
+2780	TOK	users		user\N5P
+2781	TOK	with		with\P
+2782	TOK	specific		specific\JA
+2783	TOK	requirements		requirement\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2784	TOK	If	BOS	if\CS
+2785	TOK	you		you\RP62N6
+2786	TOK	don		do\V6FDR66
+2787	PGR	't		not\DGA7
+2788	TOK	fit		fit\VMC----
+2789	TOK	comfortably		comfortably\DGA7
+2790	TOK	into		into\P
+2791	TOK	one		one\MCS
+2792	TOK	of		of\P
+2793	TOK	those		that\AD---P
+2794	TOK	categories		category\N5P
+---	DLD	,		=\DELIM
+2795	TOK	you		you\RP62N6
+2796	TOK	may		may\VOFDR66
+2797	TOK	want		want\VMI----
+2798	TOK	to		to\P
+2799	TOK	simply		simply\DGA7
+2800	TOK	try		try\VMI----
+2801	TOK	out		out\DGA7
+2802	TOK	the		the\AT---6
+2803	TOK	applications		application\N5P
+2804	TOK	that		that\RW63N6
+2805	TOK	come		come\VMF6R66
+2806	TOK	with		with\P
+##	TAG	<name>
+2807	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+2808	TOK	95		95\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2809	TOK	You	BOS	you\RP62N6
+2810	PGR	'll		will\VOFDR66
+2811	TOK	soon		soon\DGA7
+2812	TOK	discover		discover\VMF6R66
+2813	TOK	what		what\RW63N-
+2814	TOK	you		you\RP62N6
+2815	TOK	really		really\DGA7
+2816	TOK	need		need\V6F6R66
+---	DLD	,		=\DELIM
+2817	TOK	and		and\CC
+2818	TOK	that		that\CS
+2819	TOK	need		need\N5S
+2820	TOK	will		will\VOFDR66
+2821	TOK	guide		guide\VMI----
+2822	TOK	you		you\RP62N6
+2823	TOK	to		to\P
+2824	TOK	the		the\AT---6
+2825	TOK	appropriate		appropriate\JA
+2826	TOK	third		third\MOS
+---	DLI	-		=\DELIM
+2827	TOK	party		party\N5S
+2828	TOK	product		product\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2829	TOK	PRODUCT	BOS	product\N5S
+##	TAG	<name>
+2830	TOK	INFORMATION CommSuite for Windows		INFORMATION_CommSuite_for_Windows\N46
+##	TAG	</name>
+2831	TOK	95		num\MC6
+##	TAG	<gap length=10>
+2832	TOK	$		$\N5P
+##	TAG	<num>
+2833	TOK	229		229\X
+##	TAG	</num>
+##	TAG	<name>
+2834	TOK	Delrina Division		Delrina_Division\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2835	TOK	Symantec Corp		Symantec_Corp\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2836	TOK	Toronto	BOS	Toronto\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2837	TOK	Ontario		Ontario\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2838	TOK	Canada Phone		Canada_Phone\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2839	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+2840	TOK	268-6082		noanat\W
+##	TAG	</na>
+2841	TOK	or		or\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2842	TOK	416		416\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+2843	TOK	441-3676		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+2844	TOK	Fax		Fax\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2845	TOK	416		416\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+2846	TOK	441-0333		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+2847	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+##	TAG	<na type="url">
+2848	TOK	http://www.delrina.com		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+2849	TOK	Circle		Circle\N46
+##	TAG	</name>
+##	TAG	<num>
+2850	TOK	1155		1155\X
+##	TAG	</num>
+2851	TOK	on		on\P
+##	TAG	<name>
+2852	TOK	Inquiry Card		Inquiry_Card\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2853	TOK	LapLink	BOS	LapLink\N46
+##	TAG	</name>
+##	TAG	<num>
+2854	TOK	7.0		7.0\X
+##	TAG	</num>
+2855	TOK	for		for\P
+##	TAG	<name>
+2856	TOK	Windows		Windows\N46
+##	TAG	</name>
+2857	TOK	95		num\MC6
+##	TAG	<gap length=8>
+2858	TOK	$		$\N5P
+##	TAG	<num>
+2859	TOK	129		129\X
+##	TAG	</num>
+##	TAG	<name>
+2860	TOK	Traveling Software		Traveling_Software\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2861	TOK	Inc		Inc\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2862	TOK	Bothell	BOS	Bothell\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2863	TOK	WA Phone		WA_Phone\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2864	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+2865	TOK	343-8080		noanat\W
+##	TAG	</na>
+2866	TOK	or		or\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2867	TOK	206		206\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+2868	TOK	483-8088		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+2869	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+##	TAG	<na type="url">
+2870	TOK	http://www.travsoft.com		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+2871	TOK	Circle		Circle\N46
+##	TAG	</name>
+##	TAG	<num>
+2872	TOK	1156		1156\X
+##	TAG	</num>
+2873	TOK	on		on\P
+##	TAG	<name>
+2874	TOK	Inquiry Card		Inquiry_Card\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2875	TOK	QmodemPro for Windows	BOS	QmodemPro_for_Windows\N46
+##	TAG	</name>
+2876	TOK	95		num\MC6
+##	TAG	<gap length=10>
+2877	TOK	$		$\N5P
+##	TAG	<num>
+2878	TOK	129		129\X
+##	TAG	</num>
+##	TAG	<name>
+2879	TOK	Mustang Sofware		Mustang_Sofware\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2880	TOK	Inc		Inc\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2881	TOK	Bakersfield	BOS	Bakersfield\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2882	TOK	CA Phone		CA_Phone\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2883	TOK	805		805\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+2884	TOK	873-2500		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+2885	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+##	TAG	<na type="url">
+2886	TOK	http://www.mustang.com		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+2887	TOK	Circle		Circle\N46
+##	TAG	</name>
+##	TAG	<num>
+2888	TOK	1157		1157\X
+##	TAG	</num>
+2889	TOK	on		on\P
+##	TAG	<name>
+2890	TOK	Inquiry Card		Inquiry_Card\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2891	TOK	Traveling	BOS	traveling\JA
+##	TAG	<name>
+2892	TOK	Software		Software\N46
+##	TAG	</name>
+2893	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2894	TOK	LapLink for Win95	EOS	LapLink_for_Win95\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+2896	TOK	screen_link	BOS	screen_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2897	TOK	118		118\X
+##	TAG	</num>
+##	TAG	<name>
+2898	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+2900	TOK	Delrina	BOS	Delrina\N46
+##	TAG	</name>
+2901	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2902	TOK	WinFax Pro	EOS	WinFax_Pro\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+2904	TOK	screen_link	BOS	screen_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2905	TOK	38		38\X
+##	TAG	</num>
+##	TAG	<name>
+2906	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+2908	TOK	Mustang	BOS	Mustang\N46
+##	TAG	</name>
+2909	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2910	TOK	QmodemPro	EOS	QmodemPro\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+2912	TOK	screen_link	BOS	screen_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2913	TOK	96		96\X
+##	TAG	</num>
+##	TAG	<name>
+2914	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+2916	TOK	CommSuite	BOS	CommSuite\N46
+##	TAG	</name>
+2917	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2918	TOK	TalkWorks Module	EOS	TalkWorks_Module\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+2920	TOK	screen_link	BOS	screen_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2921	TOK	62		62\X
+##	TAG	</num>
+##	TAG	<name>
+2922	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2924	TOK	Paul Korzeniowski	BOS	Paul_Korzeniowski\N46
+##	TAG	</name>
+2925	TOK	is		be\V6FDRS3
+2926	TOK	a		a\AI---S
+2927	TOK	freelance		freelance\N5S
+2928	TOK	writer		writer\N5S
+2929	TOK	in		in\P
+##	TAG	<name>
+2930	TOK	Malden		Malden\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2931	TOK	Massachusetts		Massachusetts\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2932	TOK	You	BOS	you\RP62N6
+2933	TOK	can		can\VOFDR66
+2934	TOK	reach		reach\VMI----
+2935	TOK	him		him\RPS3MA
+2936	TOK	on		on\P
+2937	TOK	the		the\AT---6
+##	TAG	<name>
+2938	TOK	Internet		Internet\N46
+##	TAG	</name>
+2939	TOK	as		as\P
+##	TAG	<na type="email">
+2940	TOK	0006841944@mcimail.com		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2941	TOK	Copyright	BOS	copyright\JA
+2942	TOK	©		©\N5P
+##	TAG	<na type="function">
+2943	TOK	1994-1996		noanat\W
+##	TAG	</na>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	</div1>

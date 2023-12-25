@@ -1,0 +1,722 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<date pos="T" ISO8601="1996-04-">
+1	TOK	April 1996	BOS	April_1996\T
+##	TAG	</date>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+2	TOK	News & Views		News_&_Views\N46
+##	TAG	</name>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+3	TOK	Java Chips Boost Applet Speed	EOS	Java_Chips_Boost_Applet_Speed\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+5	TOK	Java	BOS	java\N5S
+##	TAG	<name>
+6	TOK	Chips Boost Applet Speed	EOS	Chips_Boost_Applet_Speed\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+8	TOK	Tom	BOS	tom\N5S
+##	TAG	<name>
+9	TOK	R. Halfhill	EOS	R._Halfhill\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+11	TOK	Three	BOS	Three\X
+##	TAG	</num>
+12	TOK	new		new\JA
+13	TOK	microprocessors		microprocessor\N5P
+14	TOK	from		from\P
+##	TAG	<name>
+15	TOK	Sun Microelectronics		Sun_Microelectronics\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+16	TOK	formerly		formerly\DGA7
+##	TAG	<name>
+17	TOK	Sparc Technology Business		Sparc_Technology_Business\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+##	TAG	<name>
+18	TOK	Mountain View		Mountain_View\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+19	TOK	CA		CA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+20	TOK	are		be\V6FDR66
+21	TOK	the		the\AT---6
+22	TOK	first		first\MOS
+##	TAG	<name>
+23	TOK	CPUs		CPUs\N46
+##	TAG	</name>
+24	TOK	dedicated		dedicate\VMC----
+25	TOK	to		to\P
+26	TOK	running		run\VMG----
+##	TAG	<name>
+27	TOK	Java		Java\N46
+##	TAG	</name>
+28	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+29	TOK	They	BOS	they\RPP3NN
+30	TOK	're		're\N5S
+31	TOK	designed		design\VMC----
+32	TOK	to		to\P
+33	TOK	run		run\VMI----
+##	TAG	<name>
+34	TOK	Java		Java\N46
+##	TAG	</name>
+35	TOK	programs		program\N5P
+36	TOK	much		much\DGA7
+37	TOK	faster		fast\JC
+38	TOK	than		than\CS
+39	TOK	a		a\AI---S
+40	TOK	software		software\N5S
+---	DLI	-		=\DELIM
+41	TOK	based		base\VMC----
+##	TAG	<name>
+42	TOK	Java		Java\N46
+##	TAG	</name>
+43	TOK	engine		engine\N5S
+44	TOK	on		on\P
+45	TOK	a		a\AI---S
+46	TOK	general		general\JA
+---	DLI	-		=\DELIM
+47	TOK	purpose		purpose\N5S
+48	TOK	microprocessor		microprocessor\N5S
+---	DLD	,		=\DELIM
+49	TOK	such		such\JA
+50	TOK	as		as\P
+51	TOK	an		an\AI---S
+52	TOK	x86		x86\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+53	TOK	PowerPC		PowerPC\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+54	TOK	or		or\CC
+##	TAG	<name>
+55	TOK	Sparc		Sparc\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+56	TOK	Sun	BOS	sun\N5S
+57	PGR	's		genmark\GENMARK
+58	TOK	objectives		objective\N5P
+59	TOK	are		be\V6FDR66
+60	TOK	to		to\P
+61	TOK	boost		boost\VMI----
+62	TOK	the		the\AT---6
+63	TOK	performance		performance\N5S
+64	TOK	of		of\P
+##	TAG	<name>
+65	TOK	Java		Java\N46
+##	TAG	</name>
+66	TOK	and		and\CC
+67	TOK	to		to\P
+68	TOK	make		make\VMI----
+69	TOK	it		it\RPS3N6
+70	TOK	easier		easy\JC
+71	TOK	for		for\P
+72	TOK	vendors		vendor\N5P
+73	TOK	to		to\P
+74	TOK	build		build\VMI----
+75	TOK	inexpensive		inexpensive\JA
+##	TAG	<name>
+76	TOK	Java		Java\N46
+##	TAG	</name>
+77	TOK	devices		device\N5P
+---	DLD	,		=\DELIM
+78	TOK	including		including\P
+##	TAG	<name>
+79	TOK	Web PCs		Web_PCs\N46
+##	TAG	</name>
+80	TOK	and		and\CC
+81	TOK	embedded		embed\VMF6A66
+82	TOK	products		product\N5P
+83	TOK	like		like\P
+84	TOK	cellular		cellular\JA
+85	TOK	phones		phone\N5P
+86	TOK	and		and\CC
+87	TOK	personal		personal\JA
+88	TOK	digital		digital\JA
+89	TOK	assistants		assistant\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+90	TOK	PDAs		PDAs\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+91	TOK	Developers	BOS	developer\N5P
+92	TOK	write		write\VMF6R66
+93	TOK	applets		applet\N5P
+94	TOK	in		in\P
+95	TOK	the		the\AT---6
+##	TAG	<name>
+96	TOK	Java		Java\N46
+##	TAG	</name>
+97	TOK	programming		programming\N5S
+98	TOK	language		language\N5S
+---	DLD	,		=\DELIM
+99	TOK	which		which\RW63N-
+100	TOK	closely		closely\DGA7
+101	TOK	resembles		resemble\VMFDRS3
+102	TOK	C++		C++\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+103	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+104	TOK	Java		Java\N46
+##	TAG	</name>
+105	TOK	compiler		compiler\N5S
+106	TOK	translates		translate\VMFDRS3
+107	TOK	that		that\CS
+108	TOK	source		source\N5S
+109	TOK	code		code\N5S
+110	TOK	into		into\P
+111	TOK	a		a\AI---S
+112	TOK	condensed		condense\VMC----
+113	TOK	format		format\N5S
+114	TOK	known		know\VMC----
+115	TOK	as		as\P
+116	TOK	bytecode		bytecode\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+117	TOK	The	BOS	the\AT---6
+118	TOK	bytecode		bytecode\N5S
+119	TOK	is		be\V6FDRS3
+120	TOK	more		more\DDC7
+121	TOK	compact		compact\JA
+---	DLD	,		=\DELIM
+122	TOK	more		more\DDC7
+123	TOK	secure		secure\JA
+---	DLD	,		=\DELIM
+124	TOK	and		and\CC
+125	TOK	executes		execute\VMFDRS3
+126	TOK	more		more\DDC7
+127	TOK	efficiently		efficiently\DGA7
+128	TOK	than		than\CS
+129	TOK	raw		raw\JA
+130	TOK	source		source\N5S
+131	TOK	code		code\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+132	TOK	It	BOS	it\RPS3N6
+133	TOK	runs		run\VMFDRS3
+134	TOK	on		on\P
+135	TOK	a		a\AI---S
+136	TOK	software		software\N5S
+137	TOK	layer		layer\N5S
+138	TOK	called		call\VMF6A66
+139	TOK	the		the\AT---6
+##	TAG	<name>
+140	TOK	Java		Java\N46
+##	TAG	</name>
+141	TOK	virtual		virtual\JA
+142	TOK	engine		engine\N5S
+---	DLD	,		=\DELIM
+143	TOK	which		which\RW63N-
+144	TOK	contains		contain\VMFDRS3
+145	TOK	a		a\AI---S
+146	TOK	run		run\VMC----
+---	DLI	-		=\DELIM
+147	TOK	time		time\N5S
+148	TOK	interpreter		interpreter\N5S
+149	TOK	that		that\RW63N6
+150	TOK	translates		translate\VMFDRS3
+151	TOK	the		the\AT---6
+152	TOK	bytecode		bytecode\N5S
+153	TOK	into		into\P
+154	TOK	the		the\AT---6
+155	TOK	native		native\JA
+156	TOK	code		code\N5S
+157	TOK	of		of\P
+158	TOK	the		the\AT---6
+159	TOK	underlying		underlying\JA
+160	TOK	microprocessor		microprocessor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+161	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+162	TOK	bytecode		bytecode\N5S
+163	TOK	is		be\V6FDRS3
+164	TOK	analogous		analogous\JA
+165	TOK	to		to\P
+166	TOK	an		an\AI---S
+167	TOK	executable		executable\JA
+168	TOK	binary		binary\JA
+---	DLD	,		=\DELIM
+169	TOK	except		except\CS
+170	TOK	it		it\RPS3N6
+171	TOK	isn		be\V6FDRS3
+172	PGR	't		not\DGA7
+173	TOK	specific		specific\JA
+174	TOK	to		to\P
+175	TOK	a		a\AI---S
+176	TOK	microprocessor		microprocessor\N5S
+177	TOK	architecture		architecture\N5S
+---	DLD	,		=\DELIM
+178	TOK	which		which\RW63N-
+179	TOK	is		be\V6FDRS3
+180	TOK	why		why\CS
+##	TAG	<name>
+181	TOK	Java		Java\N46
+##	TAG	</name>
+182	TOK	applets		applet\N5P
+183	TOK	can		can\VOFDR66
+184	TOK	run		run\VMI----
+185	TOK	on		on\P
+186	TOK	any		any\AG---6
+187	TOK	computer		computer\N5S
+188	TOK	that		that\RW63N6
+189	TOK	has		have\V6FDRS3
+190	TOK	a		a\AI---S
+##	TAG	<name>
+191	TOK	Java		Java\N46
+##	TAG	</name>
+192	TOK	virtual		virtual\JA
+193	TOK	engine		engine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+194	TOK	Unlike	BOS	unlike\P
+195	TOK	compiled		compile\VMC----
+196	TOK	binaries		binary\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+197	TOK	Java		Java\N46
+##	TAG	</name>
+198	TOK	applets		applet\N5P
+199	TOK	aren		be\V6FDR66
+200	PGR	't		not\DGA7
+201	TOK	translated		translate\VMC----
+202	TOK	into		into\P
+203	TOK	native		native\JA
+204	TOK	machine		machine\N5S
+205	TOK	code		code\N5S
+206	TOK	until		until\P
+207	TOK	the		the\AT---6
+208	TOK	moment		moment\N5S
+209	TOK	of		of\P
+210	TOK	execution		execution\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+211	TOK	The	BOS	the\AT---6
+212	TOK	technical		technical\JA
+213	TOK	drawback		drawback\N5S
+214	TOK	to		to\P
+215	TOK	this		this\AD---S
+216	TOK	approach		approach\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+217	TOK	of course		of_course\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+218	TOK	is		be\V6FDRS3
+219	TOK	that		that\RDS3N-
+220	TOK	on		on\P
+---	DLI	-		=\DELIM
+221	TOK	the		the\AT---6
+---	DLI	-		=\DELIM
+222	TOK	fly		fly\N5S
+223	TOK	interpreting		interpret\VMG----
+224	TOK	takes		take\VMFDRS3
+225	TOK	time		time\N5S
+226	TOK	and		and\CC
+227	TOK	hurts		hurt\N5P
+228	TOK	performance		performance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+229	TOK	Sun	BOS	Sun\N46
+##	TAG	</name>
+230	PGR	's		genmark\GENMARK
+##	TAG	<name>
+231	TOK	Java		Java\N46
+##	TAG	</name>
+232	TOK	chips		chip\N5P
+233	TOK	eliminate		eliminate\VMF6R66
+234	TOK	the		the\AT---6
+235	TOK	need		need\N5S
+236	TOK	for		for\P
+237	TOK	run		run\VMI----
+---	DLI	-		=\DELIM
+238	TOK	time		time\N5S
+239	TOK	interpreting		interpret\VMG----
+240	TOK	because		because\CS
+241	TOK	they		they\RPP3NN
+242	TOK	execute		execute\VMF6R66
+243	TOK	the		the\AT---6
+244	TOK	bytecode		bytecode\N5S
+245	TOK	directly		directly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+246	TOK	In	BOS	in\P
+247	TOK	effect		effect\VMI----
+---	DLD	,		=\DELIM
+##	TAG	<name>
+248	TOK	Java		Java\N46
+##	TAG	</name>
+249	TOK	bytecode		bytecode\N5S
+250	TOK	is		be\V6FDRS3
+251	TOK	the		the\AT---6
+252	TOK	native		native\JA
+253	TOK	instruction		instruction\N5S
+254	TOK	set		set\VMC----
+255	TOK	of		of\P
+256	TOK	the		the\AT---6
+##	TAG	<name>
+257	TOK	Java		Java\N46
+##	TAG	</name>
+258	TOK	microprocessors		microprocessor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+259	TOK	One	BOS	one\RIS3N-
+260	TOK	of		of\P
+261	TOK	the		the\AT---6
+##	TAG	<num>
+262	TOK	three		three\X
+##	TAG	</num>
+263	TOK	products		product\N5P
+264	TOK	that		that\RW63N6
+##	TAG	<name>
+265	TOK	Sun		Sun\N46
+##	TAG	</name>
+266	TOK	recently		recently\DGA7
+267	TOK	announced		announce\VMF6A66
+268	TOK	is		be\V6FDRS3
+269	TOK	actually		actually\DGA7
+270	TOK	a		a\AI---S
+##	TAG	<name>
+271	TOK	CPU		CPU\N46
+##	TAG	</name>
+272	TOK	core		core\N5S
+273	TOK	that		that\RW63N6
+##	TAG	<name>
+274	TOK	Sun		Sun\N46
+##	TAG	</name>
+275	TOK	will		will\VOFDR66
+276	TOK	license		license\VMI----
+277	TOK	to		to\P
+278	TOK	other		other\JA
+279	TOK	chip		chip\N5S
+280	TOK	makers		maker\N5P
+281	TOK	and		and\CC
+282	TOK	vendors		vendor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+283	TOK	Known	BOS	know\VMC----
+284	TOK	as		as\P
+285	TOK	the		the\AT---6
+286	TOK	picoJava		picoJava\N5S
+---	DLD	,		=\DELIM
+287	TOK	this		this\RDS3N-
+288	TOK	is		be\V6FDRS3
+289	TOK	an		an\AI---S
+290	TOK	extremely		extremely\DGA7
+291	TOK	small		small\JA
+292	TOK	core		core\N5S
+---	DLE	(		=\DELIM
+293	TOK	it		it\RPS3N6
+294	PGR	's		be\V6FDRS3
+295	TOK	only		only\DGA7
+296	TOK	about		about\DGA7
+##	TAG	<num>
+297	TOK	25		25\X
+##	TAG	</num>
+298	TOK	square		square\JA
+299	TOK	millimeters		millimeter\N5P
+---	DLD	)		=\DELIM
+300	TOK	that		that\CS
+301	TOK	licensees		licensee\N5P
+302	TOK	can		can\VOFDR66
+303	TOK	customize		customize\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+304	TOK	Sun	BOS	sun\N5S
+305	TOK	says		say\VMFDRS3
+306	TOK	that		that\CS
+307	TOK	low		low\JA
+---	DLI	-		=\DELIM
+308	TOK	end		end\N5S
+##	TAG	<name>
+309	TOK	Java		Java\N46
+##	TAG	</name>
+310	TOK	chips		chip\N5P
+311	TOK	based		base\VMC----
+312	TOK	on		on\P
+313	TOK	the		the\AT---6
+314	TOK	picoJava		picoJava\N5S
+315	TOK	could		can\VOFDA66
+316	TOK	cost		cost\VMI----
+317	TOK	less		less\DDC7
+318	TOK	than		than\CS
+319	TOK	$		$\N5P
+##	TAG	<num>
+320	TOK	25		25\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+321	TOK	The	BOS	the\AT---6
+322	TOK	microJava		microJava\N5S
+323	TOK	is		be\V6FDRS3
+324	TOK	a		a\AI---S
+##	TAG	<name>
+325	TOK	Sun		Sun\N46
+##	TAG	</name>
+326	TOK	microcontroller		microcontroller\N5S
+327	TOK	based		base\VMC----
+328	TOK	on		on\P
+329	TOK	the		the\AT---6
+330	TOK	picoJava		picoJava\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+331	TOK	It	BOS	it\RPS3N6
+332	PGR	's		be\V6FDRS3
+333	TOK	about		about\DGA7
+334	TOK	50sq		50sq\N5S
+335	TOK	mm		mm\N5S
+336	TOK	and		and\CC
+337	TOK	is		be\V6FDRS3
+338	TOK	designed		design\VMC----
+339	TOK	for		for\P
+340	TOK	telecommunications		telecommunication\N5P
+341	TOK	equipment		equipment\N56
+342	TOK	and		and\CC
+343	TOK	other		other\JA
+344	TOK	embedded		embed\VMC----
+345	TOK	applications		application\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+346	TOK	Sun	BOS	sun\N5S
+347	TOK	hopes		hope\VMFDRS3
+348	TOK	to		to\P
+349	TOK	sample		sample\VMI----
+350	TOK	this		this\AD---S
+351	TOK	chip		chip\N5S
+352	TOK	in		in\P
+353	TOK	early		early\DGA7
+##	TAG	<num>
+354	TOK	1997		1997\X
+##	TAG	</num>
+355	TOK	and		and\CC
+356	TOK	eventually		eventually\DGA7
+357	TOK	sell		sell\VMF6R66
+358	TOK	it		it\RPS3N6
+359	TOK	for		for\P
+360	TOK	$		$\N5P
+##	TAG	<num>
+361	TOK	25		25\X
+##	TAG	</num>
+362	TOK	to		to\P
+363	TOK	$		$\N5P
+##	TAG	<num>
+364	TOK	50		50\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+365	TOK	At	BOS	at\P
+366	TOK	the		the\AT---6
+367	TOK	high		high\JA
+368	TOK	end		end\N5S
+369	TOK	is		be\V6FDRS3
+370	TOK	the		the\AT---6
+371	TOK	ultraJava		ultraJava\N5S
+---	DLD	,		=\DELIM
+372	TOK	a		a\AI---S
+373	TOK	processor		processor\N5S
+374	TOK	that		that\RW63N6
+375	PGR	's		be\V6FDRS3
+##	TAG	<num>
+376	TOK	three		three\X
+##	TAG	</num>
+377	TOK	to		to\P
+##	TAG	<num>
+378	TOK	five		five\X
+##	TAG	</num>
+379	TOK	times		time\N5P
+380	TOK	faster		fast\JC
+381	TOK	than		than\CS
+382	TOK	the		the\AT---6
+383	TOK	microJava		microJava\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+384	TOK	It	BOS	it\RPS3N6
+385	TOK	has		have\V6FDRS3
+386	TOK	multimedia		multimedia\JA
+387	TOK	extensions		extension\N5P
+388	TOK	similar		similar\JA
+389	TOK	to		to\P
+390	TOK	those		that\RDP3N-
+391	TOK	built		build\VMC----
+392	TOK	into		into\P
+##	TAG	<name>
+393	TOK	Sun		Sun\N46
+##	TAG	</name>
+394	PGR	's		genmark\GENMARK
+##	TAG	<name>
+395	TOK	UltraSparc		UltraSparc\N46
+##	TAG	</name>
+396	TOK	processors		processor\N5P
+397	TOK	for		for\P
+398	TOK	workstations		workstation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+399	TOK	Among	BOS	among\P
+400	TOK	other		other\JA
+401	TOK	things		thing\N5P
+---	DLD	,		=\DELIM
+402	TOK	these		this\AD---P
+403	TOK	extensions		extension\N5P
+404	TOK	allow		allow\VMF6R66
+405	TOK	fast		fast\JA
+##	TAG	<na type="function">
+406	TOK	3-D		noanat\W
+##	TAG	</na>
+407	TOK	graphics		graphic\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+408	TOK	The	BOS	the\AT---6
+409	TOK	ultraJava		ultraJava\N5S
+410	TOK	is		be\V6FDRS3
+411	TOK	intended		intend\VMC----
+412	TOK	for		for\P
+##	TAG	<name>
+413	TOK	Web PCs		Web_PCs\N46
+##	TAG	</name>
+414	TOK	and		and\CC
+415	TOK	similar		similar\JA
+416	TOK	multimedia		multimedia\JA
+417	TOK	devices		device\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+418	TOK	Sun	BOS	sun\N5S
+419	TOK	hopes		hope\VMFDRS3
+420	TOK	to		to\P
+421	TOK	sample		sample\VMI----
+422	TOK	this		this\AD---S
+423	TOK	chip		chip\N5S
+424	TOK	in		in\P
+425	TOK	late		late\DGA7
+##	TAG	<num>
+426	TOK	1997		1997\X
+##	TAG	</num>
+427	TOK	and		and\CC
+428	TOK	sell		sell\VMF6R66
+429	TOK	it		it\RPS3N6
+430	TOK	for		for\P
+431	TOK	about		about\DGA7
+432	TOK	$		$\N5P
+##	TAG	<num>
+433	TOK	100		100\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+434	TOK	The	BOS	the\AT---6
+435	TOK	biggest		big\JS
+436	TOK	disadvantage		disadvantage\N5S
+437	TOK	of		of\P
+##	TAG	<name>
+438	TOK	Java		Java\N46
+##	TAG	</name>
+439	TOK	processors		processor\N5P
+440	TOK	is		be\V6FDRS3
+441	TOK	that		that\CS
+442	TOK	they		they\RPP3NN
+443	TOK	can		can\V6FDR66
+444	PGR	't		not\DGA7
+445	TOK	run		run\N5S
+446	TOK	anything		anything\RIS3N-
+447	TOK	but		but\CC
+##	TAG	<name>
+448	TOK	Java		Java\N46
+##	TAG	</name>
+449	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+450	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+451	TOK	in		in\P
+452	TOK	addition		addition\N5S
+453	TOK	to		to\P
+454	TOK	enabling		enable\VMG----
+455	TOK	dedicated		dedicate\VMC----
+##	TAG	<name>
+456	TOK	Java		Java\N46
+##	TAG	</name>
+457	TOK	devices		device\N5P
+---	DLD	,		=\DELIM
+458	TOK	they		they\RPP3NN
+459	TOK	could		can\VOFDA66
+460	TOK	also		also\DGA7
+461	TOK	serve		serve\VMI----
+462	TOK	as		as\DGA7
+463	TOK	high		high\JA
+---	DLI	-		=\DELIM
+464	TOK	speed		speed\N5S
+##	TAG	<name>
+465	TOK	Java		Java\N46
+##	TAG	</name>
+466	TOK	coprocessors		coprocessor\N5P
+467	TOK	in		in\P
+468	TOK	general		general\JA
+---	DLI	-		=\DELIM
+469	TOK	purpose		purpose\N5S
+##	TAG	<name>
+470	TOK	PCs		PCs\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+471	TOK	Copyright	BOS	copyright\JA
+472	TOK	©		©\N5P
+##	TAG	<na type="function">
+473	TOK	1994-1996		noanat\W
+##	TAG	</na>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	</div1>

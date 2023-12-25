@@ -1,0 +1,391 @@
+
+Population Genetics
+
+CHAPTER CONCEPTS
+
+Individuals can carry only two different alleles of a given gene.
+A group of individuals can carry a larger number of different alleles, giving rise to a reservoir of genetic diversity.
+The diversity contained in the population can be measured by the Hardy-Weinberg law.
+Mutation is the ultimate source of genetic variation, and other factors such as drift, migration, and selection can alter the amount of genetic variation in populations.
+
+When Charles Darwin published The Origin of Species in 1859 following work co-authored with Alfred Russel Wallace on the likely mechanism of natural selection, they established the foundation for the modern interpretation of evolution.
+Although organisms are capable of reproducing in an exponential fashion, Wallace and Darwin observed that this growth potential of species is not realized.
+Instead, population numbers remain relatively constant in nature.
+
+Both Wallace and Darwin deduced that some form of competitive struggle for survival must therefore occur.
+Darwin observed that there is a natural variation between individuals within a species; on this observation, he based his theory of natural selection:
+"... that any being, if it vary however slightly in any manner profitable to itself ... will have a better chance of surviving." Darwin included in his concept of survival "not only the life of the individual, but success in leaving progeny." While Gregor Mendel was familiar with Darwin's work, Darwin was unaware of any underlying mechanism to account for the morphological variation he had observed.
+
+However, with the development of the concept of genes and alleles, the genetic basis of inherited variation was established. 
+
+As others pursued the study of evolution, it became apparent that the population rather than the individual was the unit of study in this process.
+In order to study the role of genetics in the process of evolution, therefore, it was necessary to consider allele frequencies in populations rather than offspring from individual matings.
+Thus arose the discipline of population genetics .
+
+Early in the twentieth century a number of workers, including Gudny Yule, William Castle, Godfrey Hardy, and Wilhelm Weinberg, formulated the basic principles of this field.
+In the early years of population, genetics, the emphasis was on theory and the development of mathematical models to describe the genetic structure of populations.
+Workers in this field include Sewall Wright, Ronald Fisher, and J.B.S. Haldane.
+Following their work, experimentalists and field workers have used biochemical and molecular techniques to directly measure variation at the protein and DNA levels in order to test these theories and models. 
+Allele frequencies and the forces that alter these frequencies, such as mutation, migration, selection, and random genetic drift, have been and are being examined.
+In this chapter we shall consider some general aspects of population genetics and also discuss other areas of genetics relating to evolution.
+
+Populations and Gene Pools
+
+Members of a species are often distributed over a wide geographic range.
+A population is a local group belonging to a single species, within which mating is actually or potentially occurring.
+The set of genetic information carried by all interbreeding members of a population is called the gene pool .
+For a given locus, this pool includes all the alleles of that gene present in the population.
+In population genetics the focus is on groups rather than on individuals, and on the measurement of allele and genotype frequencies in succeeding generations rather than on the distribution of genotypes resulting from a single mating.
+The term allele frequency will be used throughout the chapter and will represent the frequency of alleles in contrast to genotype frequencies.
+Gametes produced by one generation form the zygotes of the next generation.
+This new gene ration has a reconstitute d gene pool that may differ from that of the preceding generation. 
+
+Populations are dynamic; they may grow and expand or diminish and contract through changes in birth or death rates, by migration, or by merging with other populations.
+This has important consequences and, over time, can lead to changes in the genetic structure of the population.
+
+Calculating Allele Frequencies
+
+One approach used to study a population's genetic structure is to measure the frequency of a given allele.
+This is possible once the mode of inheritance and the number of different alleles of this gene present in the population have been established. 
+Allele frequencies cannot always be determined directly because in many cases only phenotypes, and not genotypes, can be observed.
+If, however, alleles expressed in a codominant fashion are considered, there is a direct relationship between phenotypes and genotypes with each phenotype having a unique genotype.
+Such is the case with the autosomally inherited MN blood group in humans.
+
+Table 24.1
+
+MN Blood Groups
+
+Genotype.
+Blood Type.
+Anti-M .
+Anti-N.
+
+
+LMLM.
+M.
++.
+-.
+
+
+LMLN.
+MN.
++.
++.
+
+
+LNLN.
+N.
+-.
++.
+
+
+In this case, the gene L on chromosome 2 has two alleles, LM and LN (often referred to as M and N, respectively) [0] .
+Each allele controls the production of a distinct antigen on the surface of red blood cells.
+
+Thus, the genotype of any individual in a population may be type M ( LMLM ), N ( LNLN ), or MN ( LMLN ).
+
+The genotypes, phenotypes, and immunological reactions of the MN blood group are shown in Table 24.1.
+Because they are codominant (and genotypes may be inferred from phenotypes), the frequency of the M and N alleles in a population can be determined simply by counting the number of individuals with each phenotype. 
+As an example, consider a population of 100 individuals of which 36 are type M, 48 are type MN, and 16 are type N.
+The 36 type M individuals represent 72 M alleles, and the 48 MN heterozygotes represent an additional 48 M alleles.
+This means there are 72 xxx 48 or 120 M alleles in the population, out of a total of 200 alleles at this locus (100 individuals, each with two alleles).
+Therefore, the frequency of the M allele in this population is 0.6 (120/200 = 0.6 = 60%).
+
+The frequency of the N allele can be estimated in a similar fashion (80/200 = 0.4 = 40%) and is 0.4.
+
+Table 24.2 illustrates two methods for computing the frequency of M and Nalleles in a hypothetical population of 100 individuals, and Table 24.3 lists the frequencies of Mand Nalleles actually measured in several human populations.
+
+Table 24.2
+
+Methods of Determining Allele Frequencies for Codominant Alleles
+
+A. Counting Alleles .
+
+
+Genotype/Phenotype.
+MM.
+MN.
+NN.
+Total.
+
+
+Number of individuals .
+
+
+Number of M alleles.
+
+
+Number of N alleles.
+
+
+Total number of alleles.
+
+
+Frequency of M in population.
+
+
+Frequency of N in population.
+
+
+B. From Genotypes .
+
+
+Genotype/Phenotype .
+MN.
+MN.
+NN.
+Total .
+
+
+Number of individuals.
+
+
+Genotype frequency.
+
+
+Frequency of M in population.
+
+
+Frequency of N in population.
+
+
+Table 24.3
+
+Frequencies of M and N Alleles in Various Populations
+
+Eskimos (Greenland).
+
+
+U.S. Indians.
+
+
+U.S. whites.
+
+
+U.S. blacks.
+
+
+Ainus (Japan).
+
+
+Aborigines (Australia).
+
+
+The Hardy-Weinberg Law
+
+In the case of the MN blood group, M and N are codominant alleles.
+If, on the other hand, one allele had been recessive, the heterozygotes would have been phenotypically identical to the homozygous dominant individuals, and the frequency of the alleles could not have been directly determined.
+However, a mathematical model developed independently by the British mathematician Godfrey H. Hardy and the German physician Wilhelm Weinberg can be used to calculate allele frequencies in this case.
+The Hardy-Weinberg law (HWL) is one of the fundamental concepts in population genetics.
+The HWL has three important properties:
+1 allele frequencies predict genotype frequencies 
+2 at equilibrium, allele and genotype frequencies do not change from generation to generation; and
+3 equilibrium is reached in one generation of random muting
+
+Assumptions for the Hardy-Weinberg Law
+
+In the Hardy-Weinberg law, the following conditions are presumed:
+1 The population is infinitely large, which in practical terms means that the population is large enough that sampling errors and random effects are negligible
+2 Muting within the population occurs at random
+3 There is no selective advantage for any genotype; that is, all genotypes produced by random muting are equally viable and fertile
+4 There is an absence of other factors including mutation, migration, and random genetic drift
+
+In such an ideal population, suppose that a locus has two alleles, A and a.
+The frequency of the allele A in both eggs and sperm is represented by p, and the frequency of a in gametes is represented by q.
+Because the sum of p and q represents 100 percent of the alleles for that gene in the population, then p + q = 1.
+A diagram can be used to represent the random combination of gametes containing these alleles and the resulting genotypes (Figure 24.1).
+
+In the random combination of gametes in the population, the probability that sperm and egg both contain the A allele is p x p = p2 .
+Similarly, the chance that gametes will carry unlike alleles is (p x q) + (p x q) = 2pq , and the chance that a homozygous recessive individual will result is q x q = q2 .
+Note that these terms also describe one of the characteristics of the HWL:
+Allele frequencies determine genotype frequencies.
+In other words, while the value p2 is the probability that both gametes in a fertilization event will carry the A allele, it is also a measure of the frequency of AA homozygotes in the ensuing generation. 
+In a similar way, 2pq describes the frequency of As heterozygotes, and q2 is a measure of the frequency of homozygous recessive (aa) zygotes.
+Thus, the distribution of homozygous and heterozygous genotypes in the next generation can be expressed as p +2pq+q-= 1 (24.1) Next, consider a population in which 70 percent of the alleles for a given gene are A, and 30 percent are a.
+Thus, p = 0.7 and q = 0.3 , and p(0.7) + q(O.3) = 1 .
+The distribution of genotypes produced by random muting is shown in Figure 24.2.
+In the new generation, 49 percent (p2) of the individuals will be homozygous dominant, 42 percent ( 2pq ) will be heterozygous, and 9 percent ( q2 ) will be homozygous recessive.
+The frequency of the A allele in the new generation can be calculated as p2 + 1/2 (2pq) 0.49 + 1/2 (0.42) 0.49 + 0.21 = 0.70 (24.2) For a, the frequency is q2 + 1/2 (2pq) 0.09 + 1/2 (0.42) 0.09 + 0.21 = 0.30 (24.3) Since p + q = 1 , the value for a could have been calculated as q = 1 - p q = 1 - 0.70 = 0.30 (24.4) The frequencies of A and a in the new generation are the same as in the previous generation.
+
+If Hardy-Weinberg conditions are assumed, allele frequencies and the frequencies of other genotypes can be calculated from knowing only the frequency of one genotype (such as the homozygous recessive).
+In human genetics, this relationship is used to calculate the frequency of heterozygotes carrying a recessive allele for a genetic disorder (see below).
+
+A population in which the frequency of a given allele remains constant from generation to generation is said to be in a state of genetic equilibrium .
+In this case, the frequencies of A and a remain constant.
+
+Several important points are relevant to the preceding example.
+First, while the hypothetical alleles we have considered were at equilibrium, not all alleles in a population are.
+This is particularly true when the assumptions made in the Hardy-Weinberg law do not hold.
+Second, the examples illustrate why dominant traits do not tend to increase in frequency as new generations are produced.
+
+Finally, the examples demonstrate that genetic equilibrium and genetic variability can be maintained in a population.
+Once established in a population, allelic frequencies remain unchanged during equilibrium-a factor important to the evolutionary process.
+
+Testing for Equilibrium
+
+The Hardy-Weinberg Law can also be used to determine whether genotypes in a given population are in equilibrium.
+In a natural population, any of the assumptions of the HWL (size, random muting, no selection) may not be valid.
+To do this, one must be able to phenotypically identify heterozygotes.
+If this is possible, then it must be ascertained whether the existing population fits a p2 + 2pq + q2 = 1 relationship. 
+If not, same factor (presumably selection, mutation, migration) is causing allele frequencies to shift with each successive generation.
+
+MN blood group distribution of allele frequencies of the Australian aborigines is a good example of this application of the Hardy-Weinberg law.
+From the values of allele frequencies in Table 24.3 (0.178 for M and 0.822 for N), the expected frequencies of blood types M, MN, and N can be calculated to determine if the population is in equilibrium:
+
+Expected frequency of type M = p2 = (0.178)2 = 0.032 = 3.2% Expected frequency of type MN = 2pq = 2(0.178)(0.822) = 0.292 = 29.2% Expected frequency of type N = q2 = (0.822)2 = 0.676 = 67.6% (24.5) These expected frequencies are nearly identical to the observed frequencies shown in Table 24.3, confirming that the population is in equilibrium. 
+If there were a question as to whether the observe frequencies varied significantly from the expected frequencies, a chi-square analysis could be performed (see chapter 3).
+
+On the other hand, if the Hardy-Weinberg test demonstrates that the population is not in equilibrium, one or more of these necessary conditions are not being met.
+Using the values listed for M and N frequencies in Table 24.3, we can construct a hypothetical mixed population of 500 Australian aborigines and 500 American Indians.
+The frequencies for M and N for this hypothetical population are shown in Table 24.4.
+In such a mixed population, the frequency of M (p) would be 0.315 + 1/2(0.324) = 0.477 (24.6) and that of N (q) would be 0.361 + 1/2(0.324) = 0.523 (24.7) If these allelic frequencies were derived by random muting, then the proportions of phenotypes we should expect are MM (p2), 22.8 percent; MN (2pq), 49.8 percent; and NN (q2), 27.4 percent.
+Because the expected genotype frequencies do not fit those observed (and a chi-square test would confirm this), we would conclude that the population is in a state of nonequilibrium brought about, obviously, by a lack of random muting in this hypothetical population. 
+
+What would happen, however, if such a mixed population were to be established on an Island with no previous inhabitants and muting did take place at random?
+How long would it take for equilibrium to be established?
+Applying the Hardy-Weinberg equation, we can predict that after one generation the observed and expected genotype frequencies would converge, illustrating the third important characteristic of the HWL.
+Using the p and q values just calculated, and remembering that the allele frequencies represent those of the total gene pool of the first generation mixed population, the frequencies after one generation of random muting are shown in Figure 24.3.
+We can see that after one generation, the observed genotype frequencies of 22.8 percent for MM (p2) ; 49.8 percent for MN (2pq) ; and 27.4 percent for NN (q2) are those expected for an equilibrium population.
+The allele frequencies of M = 0.477 and N = 0.523 are also those expected for an equilibrium population.
+However, to demonstrate HWL equilibrium rigorously, we would need to calculate the frequency of matings.
+
+Table 24.4
+
+Frequencies of M and N Alleles and Genotypes in Natural and Artificial Populations
+
+Population.
+MM.
+MN.
+NN.
+p.
+q.
+
+
+Australian aborigines.
+0.03.
+0.296.
+0.674 .
+0.178.
+0.822.
+
+
+American Indians.
+0.60.
+0.351.
+0.049.
+0.776.
+0.224.
+
+
+Mixed population (500 + 500):.
+
+
+Observed .
+0.315.
+0.324.
+0.361.
+0.477.
+0.523.
+
+
+Expected.
+0.228.
+0.498.
+0.274.
+
+
+Extensions of the Hardy-Weinberg Law
+
+In con side ring genotype and allele frequencies for autosomal loci using the Hardy-Weinberg equation, we assumed that the frequency of A is the same in both sperm and eggs.
+What about X-linked genes?
+In species that have two X chromosomes, such as humans and Drosophila , females carry two copies of all genes on the X chromosome, whereas males carry only one copy of all X-linked genes.
+
+Genes on the X chromosome are therefore distributed unequally in the population, and when there are equal numbers of males and females, the females carry two- thirds of all X-linked genes, and males carry one-third of the total number.
+Can the Hardy-Weinberg law be applied to calculate allelic frequencies and genotypic frequencies in such circumstances?
+
+X-Linked Genes
+
+It is easy to determine frequencies for X-linked genes in males.
+Because they have only one copy of all genes on this chromosome, the phenotype reveals both dominant and recessive alleles.
+Therefore, in males, the frequency of an X- linked allele is the same as the phenotypic frequency.
+In Western Europe, a form of X-linked color blindness occurs with a frequency of 8 percent in males ( q = 0.08 ).
+Because females have two doses of all genes on the X chromosome, color-blind females exhibit the phenotypic frequencies expected for complete dominance, and the genotype and allele frequencies can be calculated by using the standard Hardy-Weinberg equation.
+For example, as color blindness in males has a frequency of 0.08, at equilibrium, the expected frequency in females is q2 , or 0.0064. 
+This means that 800 out of 10,000 males surveyed would be expected to be color-blind, but only 64 of 10,000 females would show this trait.
+Expected values of the frequency of X-linked traits in males and females are compared in Table 24.5.
+
+If the frequency of an X-linked allele differs between males and females, then the population is not in equilibrium. 
+In contrast to alleles of autosomal loci, equilibrium in each group will not be reached in a single generation, but will be approached over a series of succeeding generations.
+Because males inherit their X chromosome maternally, the allelic frequency in females will determine the frequency in males of the next generation.
+Daughters will inherit both a maternal and a paternal X, and their allelic frequency is the average of that found in the parents.
+Even though the population's overall allele frequency remains constant, there is an oscillation in frequencies for the two sexes in each generation, with the differences being halved in each succeeding generation until an equilibrium is reached.
+This concept is illustrated in Figure 24.4 for the simple case where an allele has an initial frequency of 1.0 in females and 0.0 in males.
+
+Table 24.5
+
+Expected Relative Frequency of X-Linked Traits in Males and Females
+
+Frequency of Males with Trait.
+Expected Frequency in Females.
+
+
+90/100.
+81/100.
+
+
+50/100.
+25/100.
+
+
+10/100.
+1/100.
+
+
+1/100.
+1/10,000.
+
+
+1/1000.
+1/1,000,000 .
+
+
+1/10,000.
+1/100,000,000.
+
+
+Figure 0
+
+A population of king penguins (along with a fur seal and an elephant seal) in Antarctica
+
+Figure 24.1
+
+Gametes represent withdrawals from the gene pool to form the genotypes of the next generation
+
+In this example, males and females have the same frequency (p) of the dominant allele A, and the same frequency (q) for the recessive allele a.
+After muting, the three genotypes M, Aa, and aa have the frequencies of p2 , 2pq and q2 , respectively.
+
+Figure 24.2
+
+In this population, the frequency of the A allele is p = 0.7, and the frequency of the a allele is q = 0.3 
+
+Using the formula p2 + 2pq + q2 , the frequencies of the genotypes in the next generation can be calculated as M = 0.49 , Aa = 0.42 and aa = 0.09 .
+The frequencies of A and a remain constant from generation to generation.
+
+Figure 24.3
+
+If mating in a population with differences in allele frequencies follows the expectations of the Hardy-Weinberg, an equilibrium will be reached in one generation 
+
+Compare the genotype frequencies after one generation of muting with those in Table 24.4 for a population in equilibrium. 
+
+Figure 24.4
+
+Approach to equilibrium for an X-linked trait with an initial frequency of 1.0
+
+The fluctuations in frequency in the first two generations are shown.
+In the parents of generation I, the X-linked trait ( x+ ) is present in 100 percent of the females and O percent of the males.
+In the progeny, the trait is present in 50 percent of all female X chromosomes and in 100 percent of all male X chromosomes.
+Thus, as the graph shows, the frequency in females drops from 1.0 to 0.5 in a generation, while the frequency in males rises from 0.0 to 1.0.
+In generation 2, the frequency in females is 0.75, and in males 0.5.
+This oscillation continues until eventually an equilibrium is reached.
+
+[0] L stands for Karl Landsteiner, the geneticist for whom the locus is named.

@@ -1,0 +1,4159 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	Future	BOS	future\N5S
+##	TAG	<name>
+2	TOK	Contraceptives	EOS	Contraceptives\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4	TOK	Vaccines	BOS	vaccine\N5P
+5	TOK	for		for\P
+6	TOK	men		man\N5P
+7	TOK	and		and\CC
+8	TOK	women		woman\N5P
+9	TOK	will		will\VOFDR66
+10	TOK	eventually		eventually\DGA7
+11	TOK	join		join\VMI----
+12	TOK	new		new\JA
+13	TOK	implants		implant\N5P
+---	DLD	,		=\DELIM
+14	TOK	better		good\JC
+15	TOK	spermicides		spermicide\N5P
+16	TOK	and		and\CC
+17	TOK	stronger		strong\JC
+---	DLD	,		=\DELIM
+18	TOK	thinner		thin\JC
+19	TOK	condoms		condom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+20	TOK	With	BOS	with\P
+21	TOK	a		a\AI---S
+22	TOK	range		range\N5S
+23	TOK	of		of\P
+24	TOK	contraceptives		contraceptive\N5P
+25	TOK	already		already\DGA7
+26	TOK	available		available\JA
+---	DLD	,		=\DELIM
+27	TOK	are		be\V6FDR66
+28	TOK	new		new\JA
+29	TOK	ones		one\N5P
+30	TOK	even		even\DGA7
+31	TOK	necessary		necessary\JA
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+32	TOK	Absolutely	BOS	absolutely\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+33	TOK	Among	BOS	among\P
+34	TOK	those		that\RDP3N-
+35	TOK	who		who\RW63N-
+36	TOK	practice		practice\N5S
+37	TOK	birth		birth\N5S
+38	TOK	control		control\VMF6R66
+---	DLE	(		=\DELIM
+39	TOK	including		including\P
+40	TOK	more		more\DDC7
+41	TOK	than		than\CS
+42	TOK	half		half\N5S
+43	TOK	the		the\AT---6
+44	TOK	world		world\N5S
+45	PGR	's		genmark\GENMARK
+46	TOK	couples		couple\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+47	TOK	dissatisfaction		dissatisfaction\N5S
+48	TOK	with		with\P
+49	TOK	current		current\JA
+50	TOK	methods		method\N5P
+51	TOK	is		be\V6FDRS3
+52	TOK	high		high\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+53	TOK	This	BOS	this\AD---S
+54	TOK	unhappiness		unhappiness\N5S
+55	TOK	often		often\DGA7
+56	TOK	leads		lead\VMFDRS3
+57	TOK	to		to\P
+58	TOK	misuse		misuse\N5S
+59	TOK	or		or\CC
+60	TOK	abandonment		abandonment\N5S
+61	TOK	of		of\P
+62	TOK	otherwise		otherwise\DGA7
+63	TOK	effective		effective\JA
+64	TOK	approaches		approach\N5P
+65	TOK	and		and\CC
+66	TOK	thus		thus\DGA7
+67	TOK	contributes		contribute\VMFDRS3
+68	TOK	significantly		significantly\DGA7
+69	TOK	to		to\P
+70	TOK	high		high\JA
+71	TOK	rates		rate\N5P
+72	TOK	of		of\P
+73	TOK	accidental		accidental\JA
+74	TOK	pregnancy		pregnancy\N5S
+75	TOK	and		and\CC
+76	TOK	of		of\P
+77	TOK	abortion		abortion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+78	TOK	In	BOS	in\P
+79	TOK	the		the\AT---6
+##	TAG	<abbr>
+80	TOK	U.S.		U.S.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+81	TOK	more		many\JC
+82	TOK	than		than\CS
+83	TOK	half		half\N5S
+84	TOK	of		of\P
+85	TOK	all		all\AG---6
+86	TOK	pregnancies		pregnancy\N5P
+87	TOK	every		every\AG---S
+88	TOK	year		year\N5S
+89	TOK	are		be\V6FDR66
+90	TOK	unintended		unintended\JA
+---	DLD	,		=\DELIM
+91	TOK	and		and\CC
+92	TOK	roughly		roughly\DGA7
+##	TAG	<num>
+93	TOK	1.6 million		1.6_million\X
+##	TAG	</num>
+94	TOK	of		of\P
+95	TOK	the		the\AT---6
+96	TOK	approximately		approximately\DGA7
+##	TAG	<num>
+97	TOK	6.4 million		6.4_million\X
+##	TAG	</num>
+98	TOK	women		woman\N5P
+99	TOK	who		who\RW63N-
+100	TOK	become		become\VMF6R66
+101	TOK	pregnant		pregnant\JA
+102	TOK	elect		elect\N56
+103	TOK	to		to\P
+104	TOK	have		have\VMI----
+105	TOK	an		an\AI---S
+106	TOK	abortion		abortion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+107	TOK	The	BOS	the\AT---6
+108	TOK	ideal		ideal\JA
+109	TOK	contraceptive		contraceptive\N5S
+110	TOK	would		will\VOFDA66
+111	TOK	be		be\VMI----
+112	TOK	highly		highly\DGA7
+113	TOK	effective		effective\JA
+---	DLD	,		=\DELIM
+114	TOK	safe		safe\JA
+---	DLD	,		=\DELIM
+115	TOK	long		long\JA
+---	DLI	-		=\DELIM
+116	TOK	acting		acting\JA
+117	TOK	but		but\CC
+118	TOK	readily		readily\DGA7
+119	TOK	reversible		reversible\JA
+---	DLD	,		=\DELIM
+120	TOK	virtually		virtually\DGA7
+121	TOK	free		free\JA
+122	TOK	of		of\P
+123	TOK	side		side\N5S
+124	TOK	effects		effect\N5P
+125	TOK	and		and\CC
+126	TOK	applied		apply\VMC----
+127	TOK	sometime		sometime\DGA7
+128	TOK	other		other\JA
+129	TOK	than		than\CS
+130	TOK	just		just\DGA7
+131	TOK	before		before\P
+132	TOK	sex		sex\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+133	TOK	It	BOS	it\RPS3N6
+134	TOK	would		will\VOFDA66
+135	TOK	also		also\DGA7
+136	TOK	reduce		reduce\VMI----
+137	TOK	the		the\AT---6
+138	TOK	spread		spread\N5S
+139	TOK	of		of\P
+140	TOK	sexually		sexually\DGA7
+141	TOK	transmitted		transmit\VMC----
+142	TOK	diseases		disease\N5P
+143	TOK	and		and\CC
+144	TOK	be		be\VMI----
+145	TOK	inexpensive		inexpensive\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+146	TOK	No	BOS	no\N5S
+147	TOK	product		product\N5S
+148	TOK	under		under\P
+149	TOK	study		study\N5S
+150	TOK	today		today\N5S
+151	TOK	can		can\VOFDR66
+152	TOK	meet		meet\VMI----
+153	TOK	all		all\AG---6
+154	TOK	these		this\AD---P
+155	TOK	criteria		criterion\N5P
+---	DLD	,		=\DELIM
+156	TOK	but		but\CC
+157	TOK	several		several\JA
+158	TOK	approaches		approach\N5P
+159	TOK	that		that\RW63N6
+160	TOK	could		can\VOFDA66
+161	TOK	be		be\VMI----
+162	TOK	on		on\P
+163	TOK	the		the\AT---6
+164	TOK	market		market\N5S
+165	TOK	in		in\P
+166	TOK	the		the\AT---6
+167	TOK	first		first\MOS
+168	TOK	third		third\N5S
+169	TOK	of		of\P
+170	TOK	the		the\AT---6
+##	TAG	<num>
+171	TOK	21st		21st\X
+##	TAG	</num>
+172	TOK	century		century\N5S
+173	TOK	would		will\VOFDA66
+174	TOK	meet		meet\VMI----
+175	TOK	most		most\AG---6
+176	TOK	of		of\P
+177	TOK	them		them\RPP3NA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+178	TOK	Beyond	BOS	beyond\P
+##	TAG	<name>
+179	TOK	Condoms for Men	EOS	Condoms_for_Men\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+181	TOK	Right now	BOS	Right_now\DGA7
+##	TAG	</loc>
+182	TOK	the		the\AT---6
+183	TOK	only		only\DGA7
+184	TOK	contraceptive		contraceptive\JA
+185	TOK	device		device\N5S
+186	TOK	sold		sell\VMC----
+187	TOK	for		for\P
+188	TOK	men		man\N5P
+189	TOK	is		be\V6FDRS3
+190	TOK	the		the\AT---6
+191	TOK	condom		condom\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+192	TOK	Once	BOS	once\DGA7
+---	DLD	,		=\DELIM
+193	TOK	men		man\N5P
+194	TOK	covered		cover\VMF6A66
+195	TOK	the		the\AT---6
+196	TOK	penis		penis\N5S
+197	TOK	with		with\P
+198	TOK	animal		animal\N5S
+199	TOK	bladders		bladder\N5P
+200	TOK	and		and\CC
+201	TOK	lengths		length\N5P
+202	TOK	of		of\P
+203	TOK	intestines		intestine\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+204	TOK	Later	BOS	late\JC
+---	DLD	,		=\DELIM
+205	TOK	the		the\AT---6
+206	TOK	advent		advent\N5S
+207	TOK	of		of\P
+208	TOK	latex		latex\N5S
+209	TOK	allowed		allow\VMF6A66
+210	TOK	uniform		uniform\JA
+211	TOK	products		product\N5P
+212	TOK	to		to\P
+213	TOK	be		be\VMI----
+214	TOK	made		make\VMF6A66
+---	DLD	,		=\DELIM
+215	TOK	but		but\CC
+216	TOK	many		many\AI---P
+217	TOK	men		man\N5P
+218	TOK	claim		claim\VMF6R66
+219	TOK	the		the\AT---6
+220	TOK	sheaths		sheath\N5P
+221	TOK	reduce		reduce\VMF6R66
+222	TOK	their		their\APP3N6
+223	TOK	sexual		sexual\JA
+224	TOK	pleasure		pleasure\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+225	TOK	To	BOS	to\P
+226	TOK	address		address\VMI----
+227	TOK	this		this\AD---S
+228	TOK	powerful		powerful\JA
+229	TOK	deterrent		deterrent\N5S
+230	TOK	to		to\P
+231	TOK	use		use\VMI----
+---	DLD	,		=\DELIM
+232	TOK	manufacturers		manufacturer\N5P
+233	TOK	have		have\V6F6R66
+234	TOK	recently		recently\DGA7
+235	TOK	introduced		introduce\VMC----
+236	TOK	a		a\AI---S
+237	TOK	strong		strong\JA
+---	DLD	,		=\DELIM
+238	TOK	thin		thin\JA
+239	TOK	polyurethane		polyurethane\N5S
+240	TOK	condom		condom\N5S
+---	DLD	,		=\DELIM
+241	TOK	and		and\CC
+242	TOK	additional		additional\JA
+243	TOK	films		film\N5P
+244	TOK	made		make\VMC----
+245	TOK	of		of\P
+246	TOK	the		the\AT---6
+247	TOK	same		same\JA
+248	TOK	or		or\CC
+249	TOK	other		other\JA
+250	TOK	polymers		polymer\N5P
+251	TOK	will		will\VOFDR66
+252	TOK	follow		follow\VMI----
+253	TOK	soon		soon\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+254	TOK	Aside from	BOS	Aside_from\DGA7
+##	TAG	</loc>
+255	TOK	interfering		interfere\VMG----
+256	TOK	less		less\DDC7
+257	TOK	with		with\P
+258	TOK	sensation		sensation\N5S
+---	DLD	,		=\DELIM
+259	TOK	these		this\AD---P
+260	TOK	nonlatex		nonlatex\N5S
+261	TOK	materials		material\N5P
+262	TOK	should		shall\VOFDA66
+263	TOK	be		be\VMI----
+264	TOK	excellent		excellent\JA
+265	TOK	barriers		barrier\N5P
+266	TOK	to		to\P
+267	TOK	infection		infection\N5S
+---	DLD	,		=\DELIM
+268	TOK	nonallergenic		nonallergenic\JA
+269	TOK	and		and\CC
+270	TOK	more		more\DDC7
+271	TOK	resistant		resistant\JA
+272	TOK	to		to\P
+273	TOK	breakage		breakage\N5S
+274	TOK	and		and\CC
+275	TOK	to		to\P
+276	TOK	degradation		degradation\N5S
+277	TOK	by		by\P
+278	TOK	heat		heat\N5S
+---	DLD	,		=\DELIM
+279	TOK	light		light\N5S
+280	TOK	and		and\CC
+281	TOK	oily		oily\JA
+282	TOK	lubricants		lubricant\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+283	TOK	The	BOS	the\AT---6
+284	TOK	first		first\MOS
+285	TOK	truly		truly\DGA7
+286	TOK	innovative		innovative\JA
+287	TOK	male		male\N5S
+---	DLI	-		=\DELIM
+288	TOK	oriented		orient\VMC----
+289	TOK	approach		approach\N5S
+290	TOK	will		will\VOFDR66
+291	TOK	manipulate		manipulate\VMI----
+292	TOK	hormones		hormone\N5P
+293	TOK	to		to\P
+294	TOK	stop		stop\VMI----
+295	TOK	sperm		sperm\N56
+296	TOK	production		production\N5S
+---	DLI	-		=\DELIM
+297	TOK	a		a\AI---S
+298	TOK	big		big\JA
+299	TOK	challenge		challenge\N5S
+---	DLD	,		=\DELIM
+300	TOK	given		give\VMC----
+301	TOK	that		that\CS
+302	TOK	men		man\N5P
+303	TOK	typically		typically\DGA7
+304	TOK	generate		generate\VMF6R66
+##	TAG	<loc pos="DGA7">
+305	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+##	TAG	<num>
+306	TOK	1,000		1,000\X
+##	TAG	</num>
+307	TOK	sperm		sperm\N56
+308	TOK	every		every\AG---S
+309	TOK	minute		minute\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+310	TOK	Sperm	BOS	sperm\N56
+311	TOK	manufacture		manufacture\N5S
+312	TOK	is		be\V6FDRS3
+313	TOK	controlled		control\VMC----
+314	TOK	by		by\P
+315	TOK	several		several\JA
+316	TOK	hormones		hormone\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+317	TOK	The	BOS	the\AT---6
+318	TOK	hypothalamus		hypothalamus\N5S
+319	TOK	secretes		secrete\VMFDRS3
+320	TOK	gonadotropin		gonadotropin\N5S
+---	DLI	-		=\DELIM
+321	TOK	releasing		release\VMG----
+322	TOK	hormone		hormone\N5S
+---	DLD	,		=\DELIM
+323	TOK	which		which\RW63N-
+324	TOK	drives		drive\VMFDRS3
+325	TOK	the		the\AT---6
+326	TOK	pituitary		pituitary\N5S
+327	TOK	to		to\P
+328	TOK	secrete		secrete\VMI----
+329	TOK	luteinizing		luteinize\VMG----
+330	TOK	hormone		hormone\N5S
+331	TOK	and		and\CC
+332	TOK	follicle		follicle\N5S
+---	DLI	-		=\DELIM
+333	TOK	stimulating		stimulate\VMG----
+334	TOK	hormone		hormone\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+335	TOK	Luteinizing	BOS	luteinize\VMG----
+336	TOK	hormone		hormone\N5S
+337	TOK	stimulates		stimulate\VMFDRS3
+338	TOK	the		the\AT---6
+339	TOK	testes		testis\N5P
+340	TOK	to		to\P
+341	TOK	produce		produce\VMI----
+342	TOK	testosterone		testosterone\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+343	TOK	This	BOS	this\AD---S
+344	TOK	steroid		steroid\N5S
+---	DLD	,		=\DELIM
+345	TOK	together		together\DGA7
+346	TOK	with		with\P
+347	TOK	follicle		follicle\N5S
+---	DLI	-		=\DELIM
+348	TOK	stimulating		stimulate\VMG----
+349	TOK	hormone		hormone\N5S
+---	DLD	,		=\DELIM
+350	TOK	induces		induce\VMFDRS3
+351	TOK	cells		cell\N5P
+352	TOK	called		call\VMC----
+353	TOK	spermatogonia		spermatogonium\N5P
+354	TOK	in		in\P
+355	TOK	the		the\AT---6
+356	TOK	testes		testis\N5P
+357	TOK	to		to\P
+358	TOK	divide		divide\VMI----
+359	TOK	and		and\CC
+360	TOK	ultimately		ultimately\DGA7
+361	TOK	give		give\VMF6R66
+362	TOK	rise		rise\N5S
+363	TOK	to		to\P
+364	TOK	sperm		sperm\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+365	TOK	One	BOS	one\MCS
+366	TOK	avenue		avenue\N5S
+367	TOK	of		of\P
+368	TOK	hormonal		hormonal\JA
+369	TOK	attack		attack\N5S
+370	TOK	would		will\VOFDA66
+371	TOK	be		be\VMI----
+372	TOK	intramuscular		intramuscular\JA
+373	TOK	injection		injection\N5S
+374	TOK	of		of\P
+375	TOK	an		an\AI---S
+376	TOK	androgen		androgen\N5S
+---	DLE	(		=\DELIM
+377	TOK	testosterone		testosterone\N5S
+378	TOK	or		or\CC
+379	TOK	related		relate\VMC----
+380	TOK	male		male\N5S
+381	TOK	hormones		hormone\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+382	TOK	leading		leading\JA
+383	TOK	to		to\P
+384	TOK	release		release\N5S
+385	TOK	of		of\P
+386	TOK	the		the\AT---6
+387	TOK	hormone		hormone\N5S
+388	TOK	into		into\P
+389	TOK	the		the\AT---6
+390	TOK	bloodstream		bloodstream\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+391	TOK	This	BOS	this\AD---S
+392	TOK	strategy		strategy\N5S
+---	DLD	,		=\DELIM
+393	TOK	which		which\RW63N-
+394	TOK	is		be\V6FDRS3
+395	TOK	being		be\VMG----
+396	TOK	studied		study\VMC----
+397	TOK	intensively		intensively\DGA7
+398	TOK	by		by\P
+399	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+400	TOK	World Health Organization		World_Health_Organization\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+401	TOK	derives		derive\VMFDRS3
+402	TOK	from		from\P
+403	TOK	the		the\AT---6
+404	TOK	finding		finding\N5S
+405	TOK	that		that\CS
+406	TOK	circulating		circulate\VMG----
+407	TOK	androgens		androgen\N5P
+408	TOK	instruct		instruct\VMF6R66
+409	TOK	the		the\AT---6
+410	TOK	brain		brain\N5S
+411	TOK	to		to\P
+412	TOK	dampen		dampen\VMI----
+413	TOK	secretion		secretion\N5S
+414	TOK	of		of\P
+415	TOK	gonadotropin		gonadotropin\N5S
+---	DLI	-		=\DELIM
+416	TOK	releasing		release\VMG----
+417	TOK	hormone		hormone\N5S
+418	TOK	and		and\CC
+419	TOK	thus		thus\DGA7
+420	TOK	of		of\P
+421	TOK	luteinizing		luteinize\VMG----
+422	TOK	hormone		hormone\N5S
+423	TOK	and		and\CC
+424	TOK	follicle		follicle\N5S
+---	DLI	-		=\DELIM
+425	TOK	stimulating		stimulate\VMG----
+426	TOK	hormone		hormone\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+427	TOK	A	BOS	a\AI---S
+428	TOK	drawback		drawback\N5S
+429	TOK	is		be\V6FDRS3
+430	TOK	that		that\CS
+431	TOK	high		high\JA
+432	TOK	levels		level\N5P
+433	TOK	of		of\P
+434	TOK	androgens		androgen\N5P
+435	TOK	in		in\P
+436	TOK	the		the\AT---6
+437	TOK	circulation		circulation\N5S
+438	TOK	produce		produce\VMF6R66
+439	TOK	troubling		trouble\VMG----
+440	TOK	side		side\N5S
+441	TOK	effects		effect\N5P
+---	DLI	-		=\DELIM
+442	TOK	notably		notably\DGA7
+---	DLD	,		=\DELIM
+443	TOK	increased		increase\VMC----
+444	TOK	irritability		irritability\N5S
+---	DLD	,		=\DELIM
+445	TOK	lowered		lower\VMC----
+446	TOK	levels		level\N5P
+447	TOK	of		of\P
+448	TOK	high		high\JA
+---	DLI	-		=\DELIM
+449	TOK	density		density\N5S
+450	TOK	lipoproteins		lipoprotein\N5P
+---	DLE	(		=\DELIM
+451	TOK	the		the\AT---6
+---	DLE	"		=\DELIM
+452	TOK	good		good\JA
+---	DLD	"		=\DELIM
+453	TOK	kind		kind\N5S
+454	TOK	of		of\P
+455	TOK	cholesterol		cholesterol\N5S
+---	DLD	)		=\DELIM
+456	TOK	and		and\CC
+457	TOK	increased		increase\VMC----
+458	TOK	acne		acne\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+459	TOK	Fortunately	BOS	fortunately\DGA7
+---	DLD	,		=\DELIM
+460	TOK	adding		add\VMG----
+461	TOK	a		a\AI---S
+462	TOK	progestin		progestin\N5S
+---	DLE	(		=\DELIM
+463	TOK	a		a\AI---S
+464	TOK	synthetic		synthetic\JA
+465	TOK	form		form\N5S
+466	TOK	of		of\P
+467	TOK	the		the\AT---6
+468	TOK	female		female\N5S
+469	TOK	steroid		steroid\N5S
+470	TOK	progesterone		progesterone\N5S
+---	DLD	)		=\DELIM
+471	TOK	seems		seem\VMFDRS3
+472	TOK	to		to\P
+473	TOK	allow		allow\VMI----
+474	TOK	men		man\N5P
+475	TOK	to		to\P
+476	TOK	take		take\VMI----
+477	TOK	a		a\AI---S
+478	TOK	lower		low\JC
+479	TOK	androgen		androgen\N5S
+480	TOK	dose		dose\N5S
+---	DLD	,		=\DELIM
+481	TOK	an		an\AI---S
+482	TOK	innovation		innovation\N5S
+483	TOK	that		that\RW63N6
+484	TOK	should		shall\VOFDA66
+485	TOK	eliminate		eliminate\VMI----
+486	TOK	side		side\N5S
+487	TOK	effects		effect\N5P
+488	TOK	and		and\CC
+489	TOK	be		be\VMI----
+490	TOK	safer		safe\JC
+491	TOK	than		than\CS
+492	TOK	taking		take\VMG----
+493	TOK	an		an\AI---S
+494	TOK	androgen		androgen\N5S
+495	TOK	alone		alone\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+496	TOK	The	BOS	the\AT---6
+497	TOK	combination		combination\N5S
+498	TOK	treatment		treatment\N5S
+499	TOK	will		will\VOFDR66
+500	TOK	probably		probably\DGA7
+501	TOK	offer		offer\VMI----
+##	TAG	<num>
+502	TOK	three		three\X
+##	TAG	</num>
+503	TOK	months		month\N5P
+504	TOK	of		of\P
+505	TOK	protection		protection\N5S
+506	TOK	and		and\CC
+507	TOK	should		shall\VOFDA66
+508	TOK	be		be\VMI----
+509	TOK	ready		ready\JA
+510	TOK	in		in\P
+511	TOK	about		about\DGA7
+512	TOK	a		a\AI---S
+513	TOK	decade		decade\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+514	TOK	This	BOS	this\AD---S
+515	TOK	lag		lag\N5S
+516	TOK	time		time\N5S
+517	TOK	may		may\VOFDR66
+518	TOK	seem		seem\VMI----
+519	TOK	surprising		surprise\VMG----
+---	DLD	,		=\DELIM
+520	TOK	but		but\CC
+521	TOK	development		development\N5S
+522	TOK	of		of\P
+523	TOK	any		any\AG---6
+524	TOK	new		new\JA
+525	TOK	contraceptive		contraceptive\JA
+526	TOK	technology		technology\N5S
+527	TOK	takes		take\VMFDRS3
+##	TAG	<num>
+528	TOK	10		10\X
+##	TAG	</num>
+529	TOK	to		to\P
+##	TAG	<num>
+530	TOK	20		20\X
+##	TAG	</num>
+531	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+532	TOK	As	BOS	as\P
+533	TOK	an		an\AI---S
+534	TOK	alternative		alternative\JA
+---	DLD	,		=\DELIM
+535	TOK	one		one\RIS3N-
+536	TOK	could		can\VOFDA66
+537	TOK	block		block\VMI----
+538	TOK	the		the\AT---6
+539	TOK	activity		activity\N5S
+540	TOK	of		of\P
+541	TOK	gonadotropin		gonadotropin\N5S
+---	DLI	-		=\DELIM
+542	TOK	releasing		release\VMG----
+543	TOK	hormone		hormone\N5S
+544	TOK	with		with\P
+545	TOK	molecules		molecule\N5P
+546	TOK	that		that\RW63N6
+547	TOK	do		do\V6FDR66
+548	TOK	not		not\DGA7
+549	TOK	cause		cause\VMI----
+550	TOK	androgen		androgen\N5S
+---	DLI	-		=\DELIM
+551	TOK	related		relate\VMC----
+552	TOK	side		side\N5S
+553	TOK	effects		effect\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+554	TOK	Antagonists	BOS	antagonist\N5P
+555	TOK	consisting		consist\VMG----
+556	TOK	of		of\P
+557	TOK	small		small\JA
+558	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+559	TOK	or		or\CC
+560	TOK	peptides		peptide\N5P
+---	DLD	,		=\DELIM
+561	TOK	already		already\DGA7
+562	TOK	exist		exist\VMF6R66
+---	DLD	,		=\DELIM
+563	TOK	but		but\CC
+564	TOK	they		they\RPP3NN
+565	TOK	are		be\V6FDR66
+566	TOK	not		not\DGA7
+567	TOK	potent		potent\JA
+568	TOK	enough		enough\DGA7
+569	TOK	to		to\P
+570	TOK	serve		serve\VMI----
+571	TOK	as		as\CS
+572	TOK	contraceptives		contraceptive\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+573	TOK	Investigators	BOS	investigator\N5P
+574	TOK	are		be\V6FDR66
+575	TOK	therefore		therefore\DGA7
+576	TOK	trying		try\VMG----
+577	TOK	to		to\P
+578	TOK	design		design\VMI----
+579	TOK	nonpeptide		nonpeptide\JA
+580	TOK	inhibitors		inhibitor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+581	TOK	Of course	BOS	Of_course\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+582	TOK	blockade		blockade\N5S
+583	TOK	of		of\P
+584	TOK	gonadotropin		gonadotropin\N5S
+---	DLI	-		=\DELIM
+585	TOK	releasing		release\VMG----
+586	TOK	hormone		hormone\N5S
+587	TOK	would		will\VOFDA66
+588	TOK	suppress		suppress\VMI----
+589	TOK	testosterone		testosterone\N5S
+590	TOK	production		production\N5S
+---	DLD	,		=\DELIM
+591	TOK	and		and\CC
+592	TOK	so		so\RI-3N-
+593	TOK	men		man\N5P
+594	TOK	would		will\VOFDA66
+595	TOK	have		have\VMI----
+596	TOK	to		to\P
+597	TOK	take		take\VMI----
+598	TOK	replacement		replacement\N5S
+599	TOK	androgens		androgen\N5P
+##	TAG	<loc pos="P">
+600	TOK	in order to		in_order_to\P
+##	TAG	</loc>
+601	TOK	retain		retain\VMI----
+602	TOK	muscle		muscle\N5S
+603	TOK	mass		mass\N5S
+---	DLD	,		=\DELIM
+604	TOK	male		male\N5S
+605	TOK	sexual		sexual\JA
+606	TOK	characteristics		characteristic\N5P
+607	TOK	and		and\CC
+608	TOK	libido		libido\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+609	TOK	Perhaps	BOS	perhaps\DGA7
+##	TAG	<num>
+610	TOK	20		20\X
+##	TAG	</num>
+611	TOK	to		to\P
+##	TAG	<num>
+612	TOK	25		25\X
+##	TAG	</num>
+613	TOK	years		year\N5P
+614	TOK	from		from\P
+615	TOK	now		now\DGA7
+---	DLD	,		=\DELIM
+616	TOK	men		man\N5P
+617	TOK	should		shall\VOFDA66
+618	TOK	also		also\DGA7
+619	TOK	have		have\VMI----
+620	TOK	access		access\N5S
+621	TOK	to		to\P
+622	TOK	longacting		longacting\N5S
+623	TOK	agents		agent\N5P
+---	DLE	(		=\DELIM
+624	TOK	protective		protective\JA
+625	TOK	for		for\P
+626	TOK	months		month\N5P
+---	DLD	)		=\DELIM
+627	TOK	that		that\AD---S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="CS">
+628	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+629	TOK	disturbing		disturb\VMG----
+630	TOK	natural		natural\JA
+631	TOK	hormone		hormone\N5S
+632	TOK	balances		balance\VMFDRS3
+---	DLD	,		=\DELIM
+633	TOK	directly		directly\DGA7
+634	TOK	halt		halt\VMI----
+635	TOK	sperm		sperm\N56
+636	TOK	production		production\N5S
+637	TOK	in		in\P
+638	TOK	the		the\AT---6
+639	TOK	testes		testis\N5P
+640	TOK	or		or\CC
+641	TOK	impede		impede\VMF6R66
+642	TOK	maturation		maturation\N5S
+643	TOK	of		of\P
+644	TOK	newly		newly\DGA7
+645	TOK	made		make\VMC----
+646	TOK	sperm		sperm\N56
+647	TOK	in		in\P
+648	TOK	matching		match\VMG----
+649	TOK	chambers		chamber\N5P
+650	TOK	connected		connect\VMC----
+651	TOK	to		to\P
+652	TOK	the		the\AT---6
+653	TOK	testes		testis\N5P
+---	DLD	:		=\DELIM
+654	TOK	the		the\AT---6
+655	TOK	epididymides		epididymis\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+656	TOK	It	BOS	it\RPS3N6
+657	TOK	is		be\V6FDRS3
+658	TOK	in		in\P
+659	TOK	the		the\AT---6
+660	TOK	epididymides		epididymis\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+661	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+662	TOK	that		that\CS
+663	TOK	sperm		sperm\N56
+664	TOK	first		first\DGA7
+665	TOK	become		become\VMF6R66
+666	TOK	motile		motile\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+667	TOK	Investigations	BOS	investigation\N5P
+668	TOK	have		have\V6F6R66
+669	TOK	suggested		suggest\VMC----
+670	TOK	that		that\CS
+671	TOK	disrupting		disrupt\VMG----
+672	TOK	maturation		maturation\N5S
+673	TOK	in		in\P
+674	TOK	the		the\AT---6
+675	TOK	epididymides		epididymis\N5P
+676	TOK	is		be\V6FDRS3
+677	TOK	the		the\AT---6
+678	TOK	more		more\DDC7
+679	TOK	feasible		feasible\JA
+680	TOK	option		option\N5S
+---	DLD	,		=\DELIM
+681	TOK	for		for\P
+682	TOK	a		a\AI---S
+683	TOK	couple		couple\N5S
+684	TOK	of		of\P
+685	TOK	reasons		reason\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+686	TOK	Whether	BOS	whether\CS
+687	TOK	delivered		deliver\VMC----
+688	TOK	orally		orally\DGA7
+---	DLD	,		=\DELIM
+689	TOK	by		by\P
+690	TOK	injection		injection\N5S
+691	TOK	or		or\CC
+692	TOK	by		by\P
+693	TOK	an		an\AI---S
+694	TOK	implant		implant\N5S
+---	DLD	,		=\DELIM
+695	TOK	drugs		drug\N5P
+696	TOK	aimed		aim\VMC----
+697	TOK	at		at\P
+698	TOK	sperm		sperm\N56
+699	TOK	would		will\VOFDA66
+700	TOK	have		have\VMI----
+701	TOK	to		to\P
+702	TOK	reach		reach\VMI----
+703	TOK	the		the\AT---6
+704	TOK	testes		testis\N5P
+705	TOK	or		or\CC
+706	TOK	epididymides		epididymis\N5P
+707	TOK	via		via\P
+708	TOK	the		the\AT---6
+709	TOK	bloodstream		bloodstream\N5S
+---	DLD	;		=\DELIM
+710	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+711	TOK	blood		blood\N5S
+---	DLI	-		=\DELIM
+712	TOK	borne		bear\VMC----
+713	TOK	drugs		drug\N5P
+714	TOK	often		often\DGA7
+715	TOK	have		have\V6F6R66
+716	TOK	difficulty		difficulty\N5S
+717	TOK	passing		pass\VMG----
+##	TAG	<loc pos="P">
+718	TOK	out of		out_of\P
+##	TAG	</loc>
+719	TOK	the		the\AT---6
+720	TOK	circulation		circulation\N5S
+721	TOK	and		and\CC
+722	TOK	into		into\P
+723	TOK	the		the\AT---6
+724	TOK	part		part\N5S
+725	TOK	of		of\P
+726	TOK	the		the\AT---6
+727	TOK	testes		testis\N5P
+728	TOK	where		where\CS
+729	TOK	sperm		sperm\N56
+730	TOK	are		be\V6FDR66
+731	TOK	manufactured		manufacture\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+732	TOK	Further	BOS	further\DGA7
+---	DLD	,		=\DELIM
+733	TOK	many		many\AI---P
+734	TOK	drugs		drug\N5P
+735	TOK	that		that\RW63N6
+736	TOK	are		be\V6FDR66
+737	TOK	capable		capable\JA
+738	TOK	of		of\P
+739	TOK	stalling		stall\VMG----
+740	TOK	sperm		sperm\N56
+741	TOK	synthesis		synthesis\N5S
+742	TOK	have		have\V6F6R66
+743	TOK	proved		prove\VMC----
+744	TOK	toxic		toxic\JA
+745	TOK	to		to\P
+746	TOK	spermatogonia		spermatogonium\N5P
+747	TOK	in		in\P
+748	TOK	the		the\AT---6
+749	TOK	testes		testis\N5P
+750	TOK	and		and\CC
+751	TOK	would		will\VOFDA66
+752	TOK	thus		thus\DGA7
+753	TOK	lead		lead\VMI----
+754	TOK	to		to\P
+755	TOK	irreversible		irreversible\JA
+756	TOK	sterility		sterility\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+757	TOK	Such	BOS	such\JA
+758	TOK	action		action\N5S
+759	TOK	would		will\VOFDA66
+760	TOK	be		be\VMI----
+761	TOK	fine		fine\JA
+762	TOK	for		for\P
+763	TOK	pets		pet\N5P
+764	TOK	but		but\CC
+765	TOK	would		will\VOFDA66
+766	TOK	be		be\VMI----
+767	TOK	unacceptable		unacceptable\JA
+768	TOK	to		to\P
+769	TOK	most		most\AG---6
+770	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+771	TOK	Vaccines	BOS	vaccine\N5P
+772	TOK	for		for\P
+##	TAG	<name>
+773	TOK	Both Sexes	EOS	Both_Sexes\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+775	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+776	TOK	21st		21st\X
+##	TAG	</num>
+777	TOK	century		century\N5S
+778	TOK	should		shall\VOFDA66
+779	TOK	also		also\DGA7
+780	TOK	see		see\VMI----
+781	TOK	contraceptive		contraceptive\JA
+782	TOK	vaccines		vaccine\N5P
+---	DLE	(		=\DELIM
+783	TOK	immunocontraceptives		immunocontraceptives\N5P
+---	DLD	)		=\DELIM
+784	TOK	for		for\P
+785	TOK	men		man\N5P
+##	TAG	<loc pos="DGA7">
+786	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+787	TOK	women		woman\N5P
+---	DLD	;		=\DELIM
+788	TOK	these		this\AD---P
+789	TOK	vaccines		vaccine\N5P
+790	TOK	will		will\VOFDR66
+791	TOK	probably		probably\DGA7
+792	TOK	be		be\VMI----
+793	TOK	effective		effective\JA
+794	TOK	for		for\P
+795	TOK	about		about\DGA7
+796	TOK	a		a\AI---S
+797	TOK	year		year\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+798	TOK	Most	BOS	most\DDS7
+799	TOK	of		of\P
+800	TOK	them		them\RPP3NA
+801	TOK	would		will\VOFDA66
+802	TOK	prod		prod\VMI----
+803	TOK	the		the\AT---6
+804	TOK	immune		immune\JA
+805	TOK	system		system\N5S
+806	TOK	to		to\P
+807	TOK	make		make\VMI----
+808	TOK	antibodies		antibody\N5P
+809	TOK	able		able\JA
+810	TOK	to		to\P
+811	TOK	bind		bind\VMI----
+812	TOK	to		to\P
+---	DLD	,		=\DELIM
+813	TOK	and		and\CC
+814	TOK	disrupt		disrupt\VMI----
+815	TOK	the		the\AT---6
+816	TOK	functioning		function\VMG----
+817	TOK	of		of\P
+---	DLD	,		=\DELIM
+818	TOK	selected		select\VMC----
+819	TOK	proteins		protein\N5P
+820	TOK	involved		involve\VMC----
+821	TOK	in		in\P
+822	TOK	reproduction		reproduction\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+823	TOK	The	BOS	the\AT---6
+824	TOK	immune		immune\JA
+825	TOK	system		system\N5S
+826	TOK	would		will\VOFDA66
+827	TOK	be		be\VMI----
+828	TOK	set		set\VMC----
+829	TOK	in		in\P
+830	TOK	motion		motion\N5S
+831	TOK	by		by\P
+832	TOK	injecting		inject\VMG----
+833	TOK	a		a\AI---S
+834	TOK	person		person\N5S
+835	TOK	with		with\P
+836	TOK	many		many\AI---P
+837	TOK	copies		copy\N5P
+838	TOK	of		of\P
+839	TOK	the		the\AT---6
+840	TOK	target		target\N5S
+841	TOK	protein		protein\N5S
+---	DLI	-		=\DELIM
+842	TOK	known		know\VMC----
+843	TOK	as		as\P
+844	TOK	an		an\AI---S
+845	TOK	antigen		antigen\N5S
+846	TOK	or		or\CC
+847	TOK	immunogen		immunogen\N5S
+---	DLI	-		=\DELIM
+848	TOK	along		along\DGA7
+849	TOK	with		with\P
+850	TOK	other		other\JA
+851	TOK	substances		substance\N5P
+852	TOK	capable		capable\JA
+853	TOK	of		of\P
+854	TOK	boosting		boost\VMG----
+855	TOK	the		the\AT---6
+856	TOK	body		body\N5S
+857	PGR	's		genmark\GENMARK
+858	TOK	response		response\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+859	TOK	One	BOS	one\RIS3N-
+860	TOK	of		of\P
+861	TOK	the		the\AT---6
+862	TOK	more		more\DDC7
+863	TOK	promising		promising\JA
+864	TOK	vaccines		vaccine\N5P
+865	TOK	to		to\P
+866	TOK	have		have\VMI----
+867	TOK	reached		reach\VMC----
+868	TOK	clinical		clinical\JA
+869	TOK	trials		trial\N5P
+870	TOK	aims		aim\VMFDRS3
+871	TOK	to		to\P
+872	TOK	raise		raise\VMI----
+873	TOK	antibodies		antibody\N5P
+874	TOK	that		that\RW63N6
+875	TOK	will		will\VOFDR66
+876	TOK	inhibit		inhibit\VMI----
+877	TOK	gonadotropin		gonadotropin\N5S
+---	DLI	-		=\DELIM
+878	TOK	releasing		release\VMG----
+879	TOK	hormone		hormone\N5S
+880	TOK	in		in\P
+881	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+882	TOK	Because	BOS	because\CS
+883	TOK	this		this\AD---S
+884	TOK	vaccine		vaccine\N5S
+---	DLD	,		=\DELIM
+885	TOK	developed		develop\VMC----
+886	TOK	by		by\P
+887	TOK	the		the\AT---6
+##	TAG	<name>
+888	TOK	Population Council		Population_Council\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+889	TOK	would		will\VOFDA66
+890	TOK	shut		shut\VMI----
+891	TOK	down		down\DGA7
+892	TOK	testosterone		testosterone\N5S
+893	TOK	production		production\N5S
+---	DLD	,		=\DELIM
+894	TOK	men		man\N5P
+895	TOK	would		will\VOFDA66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+896	TOK	once again		once_again\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+897	TOK	need		need\N5S
+898	TOK	androgen		androgen\N5S
+---	DLI	-		=\DELIM
+899	TOK	replacement		replacement\N5S
+900	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+901	TOK	Two	BOS	Two\X
+##	TAG	</num>
+902	TOK	versions		version\N5P
+903	TOK	of		of\P
+904	TOK	a		a\AI---S
+905	TOK	female		female\N5S
+906	TOK	vaccine		vaccine\N5S
+907	TOK	are		be\V6FDR66
+908	TOK	also		also\DGA7
+909	TOK	being		be\VMG----
+910	TOK	tested		test\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+911	TOK	They	BOS	they\RPP3NN
+912	TOK	target		target\VMI----
+913	TOK	human		human\JA
+914	TOK	chorionic		chorionic\JA
+915	TOK	gonadotropin		gonadotropin\N5S
+---	DLD	,		=\DELIM
+916	TOK	a		a\AI---S
+917	TOK	hormone		hormone\N5S
+918	TOK	that		that\RW63N6
+919	TOK	is		be\V6FDRS3
+920	TOK	secreted		secrete\VMC----
+921	TOK	by		by\P
+922	TOK	the		the\AT---6
+923	TOK	nascent		nascent\JA
+924	TOK	placenta		placenta\N5S
+925	TOK	and		and\CC
+926	TOK	is		be\V6FDRS3
+927	TOK	needed		need\VMC----
+928	TOK	for		for\P
+929	TOK	implantation		implantation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+930	TOK	One	BOS	one\MCS
+931	TOK	version		version\N5S
+---	DLD	,		=\DELIM
+932	TOK	which		which\RW63N-
+933	TOK	was		be\V6F-A66
+934	TOK	developed		develop\VMC----
+935	TOK	by		by\P
+936	TOK	the		the\AT---6
+##	TAG	<name>
+937	TOK	Indian National Institute of Immunology		Indian_National_Institute_of_Immunology\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+938	TOK	has		have\V6FDRS3
+939	TOK	undergone		undergo\VMC----
+940	TOK	preliminary		preliminary\JA
+941	TOK	human		human\JA
+942	TOK	trials		trial\N5P
+943	TOK	of		of\P
+944	TOK	efficacy		efficacy\N5S
+945	TOK	in		in\P
+##	TAG	<name>
+946	TOK	India		India\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+947	TOK	and		and\CC
+948	TOK	similar		similar\JA
+949	TOK	trials		trial\N5P
+950	TOK	are		be\V6FDR66
+951	TOK	planned		plan\VMC----
+952	TOK	for		for\P
+953	TOK	the		the\AT---6
+954	TOK	other		other\JA
+955	TOK	approach		approach\VMF6R66
+---	DLD	,		=\DELIM
+956	TOK	which		which\RW63N-
+957	TOK	is		be\V6FDRS3
+958	TOK	being		be\VMG----
+959	TOK	developed		develop\VMC----
+960	TOK	by		by\P
+961	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+962	TOK	World Health Organization		World_Health_Organization\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+963	TOK	Vaccines	BOS	vaccine\N5P
+964	TOK	given		give\VMC----
+965	TOK	to		to\P
+966	TOK	men		man\N5P
+967	TOK	or		or\CC
+968	TOK	women		woman\N5P
+969	TOK	could		can\VOFDA66
+970	TOK	also		also\DGA7
+971	TOK	lead		lead\VMI----
+972	TOK	to		to\P
+973	TOK	immune		immune\JA
+974	TOK	responses		response\N5P
+975	TOK	that		that\RW63N6
+976	TOK	would		will\VOFDA66
+977	TOK	immobilize		immobilize\VMI----
+978	TOK	sperm		sperm\N56
+---	DLD	,		=\DELIM
+979	TOK	cause		cause\VMF6R66
+980	TOK	them		them\RPP3NA
+981	TOK	to		to\P
+982	TOK	clump		clump\N5S
+983	TOK	together		together\DGA7
+984	TOK	or		or\CC
+985	TOK	otherwise		otherwise\DGA7
+986	TOK	prevent		prevent\VMF6R66
+987	TOK	them		them\RPP3NA
+988	TOK	from		from\P
+989	TOK	swimming		swimming\N5S
+990	TOK	to		to\P
+991	TOK	or		or\CC
+992	TOK	fusing		fuse\VMG----
+993	TOK	with		with\P
+994	TOK	an		an\AI---S
+995	TOK	egg		egg\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+996	TOK	Female	BOS	female\N5S
+997	TOK	vaccines		vaccine\N5P
+998	TOK	could		can\VOFDA66
+999	TOK	additionally		additionally\DGA7
+1000	TOK	stimulate		stimulate\VMI----
+1001	TOK	the		the\AT---6
+1002	TOK	production		production\N5S
+1003	TOK	of		of\P
+1004	TOK	antibodies		antibody\N5P
+1005	TOK	that		that\RW63N6
+1006	TOK	would		will\VOFDA66
+1007	TOK	bind		bind\VMI----
+1008	TOK	to		to\P
+1009	TOK	the		the\AT---6
+1010	TOK	surface		surface\N5S
+1011	TOK	of		of\P
+1012	TOK	an		an\AI---S
+1013	TOK	ovulated		ovulate\VMC----
+1014	TOK	egg		egg\N5S
+1015	TOK	and		and\CC
+1016	TOK	form		form\VMF6R66
+1017	TOK	a		a\AI---S
+1018	TOK	shield		shield\N5S
+1019	TOK	impenetrable		impenetrable\JA
+1020	TOK	to		to\P
+1021	TOK	sperm		sperm\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1022	TOK	Immunocontraceptives	BOS	Immunocontraceptives\N46
+##	TAG	</name>
+1023	TOK	will		will\VOFDR66
+1024	TOK	be		be\VMI----
+1025	TOK	among		among\P
+1026	TOK	the		the\AT---6
+1027	TOK	later		late\JC
+1028	TOK	birth		birth\N5S
+---	DLI	-		=\DELIM
+1029	TOK	control		control\N5S
+1030	TOK	tools		tool\N5P
+1031	TOK	to		to\P
+1032	TOK	appear		appear\VMI----
+---	DLD	,		=\DELIM
+1033	TOK	primarily		primarily\DGA7
+1034	TOK	because		because\CS
+1035	TOK	candidate		candidate\N5S
+1036	TOK	immunogens		immunogen\N5P
+1037	TOK	must		must\VOFDR66
+1038	TOK	be		be\VMI----
+1039	TOK	studied		study\VMC----
+1040	TOK	in		in\P
+1041	TOK	great		great\JA
+1042	TOK	detail		detail\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1043	TOK	Scientists	BOS	scientist\N5P
+1044	TOK	have		have\V6F6R66
+1045	TOK	to		to\P
+1046	TOK	be		be\VMI----
+1047	TOK	sure		sure\JA
+1048	TOK	that		that\CS
+1049	TOK	the		the\AT---6
+1050	TOK	inoculations		inoculation\N5P
+1051	TOK	will		will\VOFDR66
+1052	TOK	not		not\DGA7
+1053	TOK	induce		induce\VMI----
+1054	TOK	immune		immune\JA
+1055	TOK	responses		response\N5P
+1056	TOK	against		against\P
+1057	TOK	unintended		unintended\JA
+1058	TOK	tissues		tissue\N5P
+---	DLD	,		=\DELIM
+1059	TOK	and		and\CC
+1060	TOK	they		they\RPP3NN
+1061	TOK	have		have\V6F6R66
+1062	TOK	to		to\P
+1063	TOK	find		find\VMI----
+1064	TOK	methods		method\N5P
+1065	TOK	for		for\P
+1066	TOK	producing		produce\VMG----
+1067	TOK	vaccines		vaccine\N5P
+1068	TOK	in		in\P
+1069	TOK	quantity		quantity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1070	TOK	Adding	BOS	add\VMG----
+1071	TOK	to		to\P
+1072	TOK	the		the\AT---6
+1073	TOK	complexity		complexity\N5S
+---	DLD	,		=\DELIM
+1074	TOK	vaccines		vaccine\N5P
+1075	TOK	will		will\VOFDR66
+1076	TOK	probably		probably\DGA7
+1077	TOK	need		need\VMI----
+1078	TOK	to		to\P
+1079	TOK	contain		contain\VMI----
+1080	TOK	several		several\JA
+1081	TOK	antigens		antigen\N5P
+---	DLD	,		=\DELIM
+1082	TOK	to		to\P
+1083	TOK	compensate		compensate\VMI----
+1084	TOK	for		for\P
+1085	TOK	the		the\AT---6
+1086	TOK	fact		fact\N5S
+1087	TOK	that		that\CS
+1088	TOK	people		people\N56
+1089	TOK	can		can\VOFDR66
+1090	TOK	differ		differ\VMI----
+1091	TOK	in		in\P
+1092	TOK	their		their\APP3N6
+1093	TOK	responsiveness		responsiveness\N5S
+1094	TOK	to		to\P
+1095	TOK	individual		individual\JA
+1096	TOK	antigens		antigen\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1097	TOK	For	BOS	for\P
+##	TAG	<name>
+1098	TOK	Women		Women\N46
+##	TAG	</name>
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1100	TOK	Many	BOS	many\AI---P
+##	TAG	<name>
+1101	TOK	Hormonal Options	EOS	Hormonal_Options\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1103	TOK	Well	BOS	well\DGA7
+1104	TOK	before		before\P
+1105	TOK	vaccines		vaccine\N5P
+1106	TOK	appear		appear\VMF6R66
+1107	TOK	and		and\CC
+1108	TOK	other		other\JA
+1109	TOK	alternatives		alternative\N5P
+1110	TOK	to		to\P
+1111	TOK	condoms		condom\N5P
+1112	TOK	show		show\VMF6R66
+1113	TOK	up		up\P
+1114	TOK	for		for\P
+1115	TOK	men		man\N5P
+---	DLD	,		=\DELIM
+1116	TOK	women		woman\N5P
+1117	TOK	will		will\VOFDR66
+1118	TOK	already		already\DGA7
+1119	TOK	have		have\VMI----
+1120	TOK	amassed		amass\VMC----
+1121	TOK	experience		experience\N5S
+1122	TOK	with		with\P
+1123	TOK	several		several\JA
+1124	TOK	new		new\JA
+1125	TOK	products		product\N5P
+---	DLD	,		=\DELIM
+1126	TOK	many		many\AI---P
+1127	TOK	of		of\P
+1128	TOK	them		them\RPP3NA
+1129	TOK	hormonal		hormonal\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1130	TOK	Currently	BOS	currently\DGA7
+1131	TOK	women		woman\N5P
+1132	TOK	can		can\VOFDR66
+1133	TOK	choose		choose\VMI----
+1134	TOK	from		from\P
+1135	TOK	various		various\JA
+1136	TOK	hormonal		hormonal\JA
+1137	TOK	methods		method\N5P
+---	DLD	:		=\DELIM
+1138	TOK	oral		oral\JA
+1139	TOK	contraceptives		contraceptive\N5P
+---	DLD	,		=\DELIM
+1140	TOK	monthly		monthly\JA
+1141	TOK	injections		injection\N5P
+---	DLD	,		=\DELIM
+1142	TOK	an		an\AI---S
+1143	TOK	injection		injection\N5S
+1144	TOK	that		that\RW63N6
+1145	TOK	works		work\VMFDRS3
+1146	TOK	for		for\P
+##	TAG	<num>
+1147	TOK	three		three\X
+##	TAG	</num>
+1148	TOK	months		month\N5P
+---	DLD	,		=\DELIM
+1149	TOK	and		and\CC
+1150	TOK	the		the\AT---6
+##	TAG	<num>
+1151	TOK	five		five\X
+##	TAG	</num>
+1152	TOK	year		year\N5S
+##	TAG	<name>
+1153	TOK	Norplant		Norplant\N46
+##	TAG	</name>
+1154	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+1155	TOK	in		in\P
+1156	TOK	which		which\RW63N-
+##	TAG	<num>
+1157	TOK	six		six\X
+##	TAG	</num>
+1158	TOK	flexible		flexible\JA
+1159	TOK	hormone		hormone\N5S
+---	DLI	-		=\DELIM
+1160	TOK	containing		contain\VMG----
+1161	TOK	rods		rod\N5P
+---	DLE	(		=\DELIM
+1162	TOK	the		the\AT---6
+1163	TOK	size		size\N5S
+1164	TOK	of		of\P
+1165	TOK	wooden		wooden\JA
+1166	TOK	matches		match\N5P
+---	DLD	)		=\DELIM
+1167	TOK	are		be\V6FDR66
+1168	TOK	placed		place\VMC----
+1169	TOK	under		under\P
+1170	TOK	the		the\AT---6
+1171	TOK	skin		skin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1172	TOK	Birth	BOS	birth\N5S
+---	DLI	-		=\DELIM
+1173	TOK	control		control\N5S
+1174	TOK	pills		pill\N5P
+---	DLD	,		=\DELIM
+1175	TOK	which		which\RW63N-
+1176	TOK	are		be\V6FDR66
+1177	TOK	reasonably		reasonably\DGA7
+1178	TOK	safe		safe\JA
+1179	TOK	and		and\CC
+1180	TOK	very		very\JA
+1181	TOK	effective		effective\JA
+---	DLE	(		=\DELIM
+1182	TOK	and		and\CC
+1183	TOK	may		may\VOFDR66
+1184	TOK	well		well\DGA7
+1185	TOK	be		be\VMI----
+1186	TOK	sold		sell\VMC----
+1187	TOK	without		without\P
+1188	TOK	a		a\AI---S
+1189	TOK	prescription		prescription\N5S
+1190	TOK	in		in\P
+1191	TOK	the		the\AT---6
+##	TAG	<num>
+1192	TOK	21st		21st\X
+##	TAG	</num>
+1193	TOK	century		century\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1194	TOK	provide		provide\VMF6R66
+1195	TOK	progestins		progestin\N5P
+1196	TOK	alone		alone\DGA7
+1197	TOK	or		or\CC
+1198	TOK	in		in\P
+1199	TOK	combination		combination\N5S
+1200	TOK	with		with\P
+1201	TOK	synthetic		synthetic\JA
+1202	TOK	estrogen		estrogen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1203	TOK	The	BOS	the\AT---6
+1204	TOK	injectables		injectable\N5P
+1205	TOK	and		and\CC
+1206	TOK	implants		implant\N5P
+1207	TOK	consist		consist\VMF6R66
+1208	TOK	of		of\P
+1209	TOK	progestins		progestin\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1210	TOK	In	BOS	in\P
+1211	TOK	all		all\AG---6
+1212	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+1213	TOK	the		the\AT---6
+1214	TOK	approaches		approach\N5P
+1215	TOK	serve		serve\VMF6R66
+1216	TOK	to		to\P
+1217	TOK	block		block\N5S
+1218	TOK	ovulation		ovulation\N5S
+1219	TOK	and		and\CC
+1220	TOK	increase		increase\VMI----
+1221	TOK	the		the\AT---6
+1222	TOK	thickness		thickness\N5S
+1223	TOK	of		of\P
+1224	TOK	cervical		cervical\JA
+1225	TOK	mucus		mucus\N5S
+1226	TOK	so		so\DGA7
+1227	TOK	that		that\CS
+1228	TOK	sperm		sperm\N56
+1229	TOK	have		have\V6F6R66
+1230	TOK	difficulty		difficulty\N5S
+1231	TOK	navigating		navigate\VMG----
+1232	TOK	to		to\P
+1233	TOK	the		the\AT---6
+1234	TOK	egg		egg\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1235	TOK	Within	BOS	within\P
+##	TAG	<num>
+1236	TOK	five		five\X
+##	TAG	</num>
+1237	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+1238	TOK	women		woman\N5P
+1239	TOK	can		can\VOFDR66
+1240	TOK	expect		expect\VMI----
+1241	TOK	to		to\P
+1242	TOK	have		have\VMI----
+1243	TOK	a		a\AI---S
+1244	TOK	doughnut		doughnut\N5S
+---	DLI	-		=\DELIM
+1245	TOK	shaped		shape\VMC----
+1246	TOK	ring		ring\N5S
+1247	TOK	that		that\RW63N6
+1248	TOK	will		will\VOFDR66
+1249	TOK	fit		fit\VMI----
+1250	TOK	in		in\P
+1251	TOK	the		the\AT---6
+1252	TOK	vagina		vagina\N5S
+1253	TOK	like		like\P
+1254	TOK	a		a\AI---S
+1255	TOK	diaphragm		diaphragm\N5S
+1256	TOK	and		and\CC
+1257	TOK	release		release\VMF6R66
+1258	TOK	a		a\AI---S
+1259	TOK	progestin		progestin\N5S
+1260	TOK	alone		alone\DGA7
+1261	TOK	or		or\CC
+1262	TOK	with		with\P
+1263	TOK	estrogen		estrogen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1264	TOK	A	BOS	a\AI---S
+1265	TOK	typical		typical\JA
+1266	TOK	ring		ring\N5S
+1267	TOK	might		may\VOFDR66
+1268	TOK	be		be\VMI----
+1269	TOK	kept		keep\VMC----
+1270	TOK	in		in\P
+1271	TOK	place		place\N5S
+1272	TOK	for		for\P
+##	TAG	<num>
+1273	TOK	three		three\X
+##	TAG	</num>
+1274	TOK	weeks		week\N5P
+1275	TOK	and		and\CC
+1276	TOK	removed		remove\VMC----
+1277	TOK	for		for\P
+1278	TOK	one		one\MCS
+1279	TOK	week		week\N5S
+---	DLE	(		=\DELIM
+1280	TOK	to		to\P
+1281	TOK	allow		allow\VMI----
+1282	TOK	for		for\P
+1283	TOK	menses		mense\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1284	TOK	It	BOS	it\RPS3N6
+1285	TOK	would		will\VOFDA66
+1286	TOK	thereby		thereby\DGA7
+1287	TOK	obviate		obviate\VMI----
+1288	TOK	the		the\AT---6
+1289	TOK	need		need\N5S
+1290	TOK	to		to\P
+1291	TOK	take		take\VMI----
+1292	TOK	a		a\AI---S
+1293	TOK	daily		daily\JA
+1294	TOK	pill		pill\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1295	TOK	Also	BOS	also\DGA7
+1296	TOK	in		in\P
+1297	TOK	the		the\AT---6
+1298	TOK	next		next\JA
+1299	TOK	few		few\JA
+1300	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+1301	TOK	the		the\AT---6
+1302	TOK	manufacturer		manufacturer\N5S
+1303	TOK	of		of\P
+##	TAG	<name>
+1304	TOK	Norplant		Norplant\N46
+##	TAG	</name>
+1305	TOK	is		be\V6FDRS3
+1306	TOK	expected		expect\VMC----
+1307	TOK	to		to\P
+1308	TOK	introduce		introduce\VMI----
+1309	TOK	a		a\AI---S
+1310	TOK	second		second\MOS
+---	DLI	-		=\DELIM
+1311	TOK	generation		generation\N5S
+1312	TOK	implant		implant\N5S
+1313	TOK	consisting		consist\VMG----
+1314	TOK	of		of\P
+1315	TOK	just		just\DGA7
+##	TAG	<num>
+1316	TOK	two		two\X
+##	TAG	</num>
+1317	TOK	rods		rod\N5P
+1318	TOK	that		that\RW63N6
+1319	TOK	will		will\VOFDR66
+1320	TOK	be		be\VMI----
+1321	TOK	simpler		simple\JC
+1322	TOK	than		than\CS
+1323	TOK	the		the\AT---6
+1324	TOK	original		original\JA
+1325	TOK	to		to\P
+1326	TOK	insert		insert\VMI----
+1327	TOK	and		and\CC
+1328	TOK	remove		remove\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1329	TOK	In	BOS	in\P
+1330	TOK	time		time\N5S
+1331	TOK	there		there\DGA7
+1332	TOK	will		will\VOFDR66
+1333	TOK	be		be\VMI----
+1334	TOK	single		single\JA
+---	DLI	-		=\DELIM
+1335	TOK	rod		rod\N5S
+1336	TOK	implants		implant\N5P
+1337	TOK	and		and\CC
+1338	TOK	a		a\AI---S
+1339	TOK	biodegradable		biodegradable\JA
+1340	TOK	system		system\N5S
+1341	TOK	that		that\RW63N6
+1342	TOK	will		will\VOFDR66
+1343	TOK	eventually		eventually\DGA7
+1344	TOK	dissolve		dissolve\VMI----
+1345	TOK	in		in\P
+1346	TOK	the		the\AT---6
+1347	TOK	body		body\N5S
+1348	TOK	but		but\CC
+1349	TOK	will		will\VOFDR66
+1350	TOK	be		be\VMI----
+1351	TOK	removable		removable\JA
+---	DLD	,		=\DELIM
+1352	TOK	and		and\CC
+1353	TOK	hence		hence\DGA7
+1354	TOK	reversible		reversible\JA
+---	DLD	,		=\DELIM
+1355	TOK	for		for\P
+1356	TOK	a		a\AI---S
+1357	TOK	while		while\CS
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1358	TOK	Soon	BOS	soon\DGA7
+1359	TOK	after		after\P
+1360	TOK	the		the\AT---6
+1361	TOK	year		year\N5S
+##	TAG	<num>
+1362	TOK	2000		2000\X
+##	TAG	</num>
+1363	TOK	an		an\AI---S
+1364	TOK	intrauterine		intrauterine\JA
+1365	TOK	device		device\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1366	TOK	IUD		IUD\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1367	TOK	that		that\CS
+1368	TOK	releases		release\VMFDRS3
+1369	TOK	a		a\AI---S
+1370	TOK	progestin		progestin\N5S
+1371	TOK	and		and\CC
+1372	TOK	lasts		last\VMFDRS3
+1373	TOK	for		for\P
+##	TAG	<num>
+1374	TOK	five		five\X
+##	TAG	</num>
+1375	TOK	years		year\N5P
+1376	TOK	should		shall\VOFDA66
+1377	TOK	be		be\VMI----
+1378	TOK	obtainable		obtainable\JA
+1379	TOK	in		in\P
+1380	TOK	the		the\AT---6
+##	TAG	<abbr>
+1381	TOK	U.S.		U.S.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+1382	TOK	It		It\N5S
+1383	TOK	is		be\V6FDRS3
+1384	TOK	already		already\DGA7
+1385	TOK	available		available\JA
+1386	TOK	in		in\P
+1387	TOK	some		some\AG---6
+##	TAG	<loc pos="JA">
+1388	TOK	European		european\JA
+##	TAG	</loc>
+##	TAG	<abbr>
+1389	TOK	countries.		countries.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+##	TAG	<name>
+1390	TOK	Existing		Existing\N46
+##	TAG	</name>
+1391	TOK	nonhormonal		nonhormonal\JA
+##	TAG	<name>
+1392	TOK	IUDs		IUDs\N46
+##	TAG	</name>
+1393	TOK	work		work\N5S
+1394	TOK	for		for\P
+1395	TOK	many		many\AI---P
+1396	TOK	years		year\N5P
+1397	TOK	and		and\CC
+1398	TOK	are		be\V6FDR66
+1399	TOK	quite		quite\DGA7
+1400	TOK	effective		effective\JA
+1401	TOK	in		in\P
+1402	TOK	women		woman\N5P
+1403	TOK	who		who\RW63N-
+1404	TOK	have		have\V6F6R66
+1405	TOK	been		be\VMC----
+1406	TOK	pregnant		pregnant\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1407	TOK	But	BOS	but\CC
+1408	TOK	clinical		clinical\JA
+1409	TOK	tests		test\N5P
+1410	TOK	indicate		indicate\VMF6R66
+1411	TOK	the		the\AT---6
+1412	TOK	new		new\JA
+1413	TOK	device		device\N5S
+1414	TOK	produces		produce\VMFDRS3
+1415	TOK	less		less\DDC7
+1416	TOK	cramping		cramp\VMG----
+1417	TOK	and		and\CC
+1418	TOK	blood		blood\N5S
+1419	TOK	loss		loss\N5S
+1420	TOK	during		during\P
+1421	TOK	menstruation		menstruation\N5S
+1422	TOK	and		and\CC
+1423	TOK	carries		carry\VMFDRS3
+1424	TOK	a		a\AI---S
+1425	TOK	lower		low\JC
+1426	TOK	risk		risk\N5S
+1427	TOK	of		of\P
+1428	TOK	pelvic		pelvic\JA
+1429	TOK	inflammatory		inflammatory\JA
+1430	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1431	TOK	Many	BOS	many\AI---P
+1432	TOK	researchers		researcher\N5P
+1433	TOK	are		be\V6FDR66
+1434	TOK	giving		give\VMG----
+1435	TOK	special		special\JA
+1436	TOK	emphasis		emphasis\N5S
+1437	TOK	to		to\P
+1438	TOK	developing		develop\VMG----
+1439	TOK	a		a\AI---S
+1440	TOK	pill		pill\N5S
+1441	TOK	that		that\RW63N6
+1442	TOK	could		can\VOFDA66
+1443	TOK	be		be\VMI----
+1444	TOK	taken		take\VMC----
+1445	TOK	just		just\DGA7
+1446	TOK	once		once\DGA7
+1447	TOK	a		a\AI---S
+1448	TOK	month		month\N5S
+---	DLD	,		=\DELIM
+1449	TOK	either		either\CC
+1450	TOK	at		at\P
+1451	TOK	the		the\AT---6
+1452	TOK	time		time\N5S
+1453	TOK	menses		menses\N5S
+1454	TOK	is		be\V6FDRS3
+1455	TOK	expected		expect\VMC----
+1456	TOK	or		or\CC
+1457	TOK	on		on\P
+1458	TOK	the		the\AT---6
+1459	TOK	last		last\JA
+1460	TOK	day		day\N5S
+1461	TOK	of		of\P
+1462	TOK	a		a\AI---S
+1463	TOK	woman		woman\N5S
+1464	PGR	's		genmark\GENMARK
+1465	TOK	period		period\N5S
+---	DLE	(		=\DELIM
+1466	TOK	to		to\P
+1467	TOK	prevent		prevent\VMI----
+1468	TOK	pregnancy		pregnancy\N5S
+1469	TOK	for		for\P
+1470	TOK	the		the\AT---6
+1471	TOK	following		following\JA
+1472	TOK	month		month\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1473	TOK	For	BOS	for\P
+1474	TOK	certain		certain\JA
+1475	TOK	women		woman\N5P
+---	DLD	,		=\DELIM
+1476	TOK	the		the\AT---6
+1477	TOK	latter		latter\JC
+1478	TOK	would		will\VOFDA66
+1479	TOK	be		be\VMI----
+1480	TOK	most		most\AG---6
+1481	TOK	desirable		desirable\JA
+---	DLD	,		=\DELIM
+1482	TOK	because		because\CS
+1483	TOK	it		it\RPS3N6
+1484	TOK	would		will\VOFDA66
+1485	TOK	prevent		prevent\VMI----
+1486	TOK	conception		conception\N5S
+##	TAG	<loc pos="DDC7">
+1487	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+1488	TOK	induce		induce\VMI----
+1489	TOK	an		an\AI---S
+1490	TOK	early		early\JA
+1491	TOK	abortion		abortion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1492	TOK	Unfortunately	BOS	unfortunately\DGA7
+---	DLD	,		=\DELIM
+1493	TOK	progress		progress\N5S
+1494	TOK	on		on\P
+1495	TOK	such		such\JA
+1496	TOK	pills		pill\N5P
+1497	TOK	has		have\V6FDRS3
+1498	TOK	been		be\VMC----
+1499	TOK	slowed		slow\VMC----
+1500	TOK	by		by\P
+1501	TOK	lack		lack\N5S
+1502	TOK	of		of\P
+1503	TOK	detailed		detail\VMC----
+1504	TOK	knowledge		knowledge\N5S
+1505	TOK	about		about\P
+1506	TOK	the		the\AT---6
+1507	TOK	mechanisms		mechanism\N5P
+1508	TOK	that		that\RW63N6
+1509	TOK	stimulate		stimulate\VMF6R66
+1510	TOK	and		and\CC
+1511	TOK	stop		stop\VMF6R66
+1512	TOK	monthly		monthly\JA
+1513	TOK	bleeding		bleed\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1514	TOK	At	BOS	at\P
+1515	TOK	some		some\AG---6
+1516	TOK	point		point\N5S
+1517	TOK	in		in\P
+1518	TOK	her		her\APS3F6
+1519	TOK	life		life\N5S
+---	DLD	,		=\DELIM
+1520	TOK	a		a\AI---S
+1521	TOK	woman		woman\N5S
+1522	TOK	is		be\V6FDRS3
+1523	TOK	likely		likely\JA
+1524	TOK	to		to\P
+1525	TOK	have		have\VMI----
+1526	TOK	unprotected		unprotected\JA
+1527	TOK	sex		sex\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1528	TOK	Emergency	BOS	emergency\N5S
+1529	TOK	postcoital		postcoital\JA
+1530	TOK	contraceptives		contraceptive\N5P
+1531	TOK	are		be\V6FDR66
+1532	TOK	already		already\DGA7
+1533	TOK	sold		sell\VMF6A66
+---	DLD	;		=\DELIM
+1534	TOK	they		they\RPP3NN
+1535	TOK	are		be\V6FDR66
+1536	TOK	commonly		commonly\DGA7
+1537	TOK	known		know\VMC----
+1538	TOK	as		as\P
+1539	TOK	morning		morning\I
+---	DLI	-		=\DELIM
+1540	TOK	after		after\P
+1541	TOK	pills		pill\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="CS">
+1542	TOK	even though		even_though\CS
+##	TAG	</loc>
+1543	TOK	they		they\RPP3NN
+1544	TOK	can		can\VOFDR66
+1545	TOK	actually		actually\DGA7
+1546	TOK	be		be\VMI----
+1547	TOK	taken		take\VMC----
+##	TAG	<num>
+1548	TOK	two		two\X
+##	TAG	</num>
+1549	TOK	or		or\CC
+##	TAG	<num>
+1550	TOK	three		three\X
+##	TAG	</num>
+1551	TOK	days		day\N5P
+1552	TOK	after		after\P
+1553	TOK	intercourse		intercourse\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1554	TOK	Regular	BOS	regular\JA
+1555	TOK	birth		birth\N5S
+---	DLI	-		=\DELIM
+1556	TOK	control		control\N5S
+1557	TOK	pills		pill\N5P
+1558	TOK	can		can\VOFDR66
+1559	TOK	also		also\DGA7
+1560	TOK	serve		serve\VMI----
+1561	TOK	as		as\P
+1562	TOK	emergency		emergency\N5S
+1563	TOK	contraceptives		contraceptive\N5P
+1564	TOK	if		if\CS
+1565	TOK	taken		take\VMC----
+1566	TOK	in		in\P
+1567	TOK	the		the\AT---6
+1568	TOK	right		right\JA
+1569	TOK	doses		dose\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1570	TOK	Yet	BOS	yet\DGA7
+1571	TOK	all		all\AG---6
+1572	TOK	these		this\AD---P
+1573	TOK	approaches		approach\N5P
+1574	TOK	have		have\V6F6R66
+1575	TOK	unpleasant		unpleasant\JA
+1576	TOK	side		side\N5S
+1577	TOK	effects		effect\N5P
+---	DLD	,		=\DELIM
+1578	TOK	such		such\JA
+1579	TOK	as		as\P
+1580	TOK	nausea		nausea\N5S
+---	DLD	,		=\DELIM
+1581	TOK	and		and\CC
+1582	TOK	so		so\RI-3N-
+1583	TOK	research		research\N5S
+1584	TOK	is		be\V6FDRS3
+1585	TOK	under		under\P
+1586	TOK	way		way\N5S
+1587	TOK	to		to\P
+1588	TOK	develop		develop\VMI----
+1589	TOK	gentler		gentle\JC
+1590	TOK	versions		version\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1591	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1592	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+1593	TOK	French		french\JA
+##	TAG	</loc>
+1594	TOK	pill		pill\N5S
+##	TAG	<name>
+1595	TOK	RU		RU\N46
+##	TAG	</name>
+##	TAG	<num>
+1596	TOK	486		486\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1597	TOK	which		which\RW63N-
+1598	TOK	is		be\V6FDRS3
+1599	TOK	available		available\JA
+1600	TOK	in		in\P
+1601	TOK	several		several\JA
+1602	TOK	nations		nation\N5P
+1603	TOK	outside		outside\P
+1604	TOK	the		the\AT---6
+##	TAG	<abbr>
+1605	TOK	U.S.		U.S.\N5S
+##	TAG	</abbr>
+1606	TOK	and		and\CC
+1607	TOK	is		be\V6FDRS3
+##	TAG	<loc pos="JA">
+1608	TOK	best known		best_known\JA
+##	TAG	</loc>
+1609	TOK	for		for\P
+1610	TOK	terminating		terminate\VMG----
+1611	TOK	confirmed		confirm\VMC----
+1612	TOK	pregnancies		pregnancy\N5P
+---	DLD	,		=\DELIM
+1613	TOK	has		have\V6FDRS3
+1614	TOK	been		be\VMC----
+1615	TOK	found		find\VMC----
+1616	TOK	to		to\P
+1617	TOK	cause		cause\VMI----
+1618	TOK	relatively		relatively\DGA7
+1619	TOK	little		little\JA
+1620	TOK	discomfort		discomfort\N5S
+1621	TOK	when		when\CS
+1622	TOK	taken		take\VMC----
+1623	TOK	in		in\P
+1624	TOK	a		a\AI---S
+1625	TOK	low		low\JA
+1626	TOK	dose		dose\N5S
+1627	TOK	within		within\P
+##	TAG	<num>
+1628	TOK	72		72\X
+##	TAG	</num>
+1629	TOK	hours		hour\N5P
+1630	TOK	after		after\P
+1631	TOK	unprotected		unprotected\JA
+1632	TOK	sex		sex\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1633	TOK	Sperm	BOS	sperm\N56
+##	TAG	<name>
+1634	TOK	Police Could Act Locally	EOS	Police_Could_Act_Locally\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1636	TOK	A	BOS	a\AI---S
+1637	TOK	rather		rather\DGA7
+1638	TOK	different		different\JA
+1639	TOK	contraceptive		contraceptive\JA
+1640	TOK	strategy		strategy\N5S
+1641	TOK	for		for\P
+1642	TOK	women		woman\N5P
+1643	TOK	will		will\VOFDR66
+1644	TOK	rely		rely\VMI----
+1645	TOK	on		on\P
+1646	TOK	chemicals		chemical\N5P
+1647	TOK	that		that\RW63N6
+1648	TOK	directly		directly\DGA7
+1649	TOK	prevent		prevent\VMF6R66
+1650	TOK	sperm		sperm\N56
+1651	TOK	from		from\P
+1652	TOK	migrating		migrate\VMG----
+1653	TOK	to		to\P
+1654	TOK	or		or\CC
+1655	TOK	fertilizing		fertilize\VMG----
+1656	TOK	an		an\AI---S
+1657	TOK	egg		egg\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1658	TOK	These	BOS	this\AD---P
+1659	TOK	compounds		compound\N5P
+1660	TOK	might		may\VOFDR66
+1661	TOK	be		be\VMI----
+1662	TOK	supplied		supply\VMC----
+1663	TOK	by		by\P
+1664	TOK	a		a\AI---S
+1665	TOK	vaginal		vaginal\JA
+1666	TOK	ring		ring\N5S
+---	DLD	,		=\DELIM
+1667	TOK	for		for\P
+1668	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+1669	TOK	term		term\N5S
+1670	TOK	protection		protection\N5S
+---	DLD	,		=\DELIM
+1671	TOK	or		or\CC
+1672	TOK	might		may\VOFDR66
+1673	TOK	be		be\VMI----
+1674	TOK	delivered		deliver\VMC----
+1675	TOK	into		into\P
+1676	TOK	the		the\AT---6
+1677	TOK	vagina		vagina\N5S
+1678	TOK	shortly		shortly\DGA7
+1679	TOK	before		before\P
+1680	TOK	sex		sex\N5S
+1681	TOK	in		in\P
+1682	TOK	the		the\AT---6
+1683	TOK	same		same\JA
+1684	TOK	way		way\N5S
+1685	TOK	as		as\P
+1686	TOK	spermicides		spermicide\N5P
+1687	TOK	are		be\V6FDR66
+1688	TOK	administered		administer\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1689	TOK	They	BOS	they\RPP3NN
+1690	TOK	would		will\VOFDA66
+1691	TOK	differ		differ\VMI----
+1692	TOK	from		from\P
+1693	TOK	spermicides		spermicide\N5P
+1694	TOK	in		in\P
+1695	TOK	several		several\JA
+1696	TOK	ways		way\N5P
+---	DLD	,		=\DELIM
+1697	TOK	however		however\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1698	TOK	Spermicides	BOS	spermicide\N5P
+1699	TOK	are		be\V6FDR66
+1700	TOK	detergents		detergent\N5P
+1701	TOK	that		that\RW63N6
+1702	TOK	degrade		degrade\VMF6R66
+1703	TOK	sperm		sperm\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1704	TOK	Regrettably	BOS	regrettably\DGA7
+---	DLD	,		=\DELIM
+1705	TOK	these		this\AD---P
+1706	TOK	detergents		detergent\N5P
+1707	TOK	can		can\VOFDR66
+1708	TOK	also		also\DGA7
+1709	TOK	kill		kill\VMI----
+1710	TOK	microorganisms		microorganism\N5P
+1711	TOK	that		that\RW63N6
+1712	TOK	help		help\VMF6R66
+1713	TOK	to		to\P
+1714	TOK	maintain		maintain\VMI----
+1715	TOK	proper		proper\JA
+1716	TOK	acidity		acidity\N5S
+1717	TOK	in		in\P
+1718	TOK	the		the\AT---6
+1719	TOK	vagina		vagina\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1720	TOK	And	BOS	and\CC
+1721	TOK	they		they\RPP3NN
+1722	TOK	can		can\VOFDR66
+1723	TOK	irritate		irritate\VMI----
+1724	TOK	the		the\AT---6
+1725	TOK	vaginal		vaginal\JA
+1726	TOK	wall		wall\N5S
+---	DLD	,		=\DELIM
+1727	TOK	thereby		thereby\DGA7
+1728	TOK	possibly		possibly\DGA7
+1729	TOK	facilitating		facilitate\VMG----
+1730	TOK	infection		infection\N5S
+1731	TOK	by		by\P
+1732	TOK	viruses		virus\N5P
+1733	TOK	and		and\CC
+1734	TOK	bacteria		bacteria\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1735	TOK	The	BOS	the\AT---6
+1736	TOK	compounds		compound\N5P
+1737	TOK	under		under\P
+1738	TOK	investigation		investigation\N5S
+1739	TOK	would		will\VOFDA66
+1740	TOK	not		not\DGA7
+1741	TOK	be		be\VMI----
+1742	TOK	detergents		detergent\N5P
+---	DLD	;		=\DELIM
+1743	TOK	they		they\RPP3NN
+1744	TOK	would		will\VOFDA66
+1745	TOK	act		act\VMI----
+1746	TOK	more		more\DDC7
+1747	TOK	specifically		specifically\DGA7
+---	DLD	,		=\DELIM
+1748	TOK	by		by\P
+1749	TOK	interfering		interfere\VMG----
+1750	TOK	with		with\P
+1751	TOK	selected		select\VMC----
+1752	TOK	events		event\N5P
+1753	TOK	that		that\RW63N6
+1754	TOK	follow		follow\VMF6R66
+1755	TOK	ejaculation		ejaculation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1756	TOK	Consequently	BOS	consequently\DGA7
+---	DLD	,		=\DELIM
+1757	TOK	they		they\RPP3NN
+1758	TOK	could		can\VOFDA66
+1759	TOK	probably		probably\DGA7
+1760	TOK	be		be\VMI----
+1761	TOK	formulated		formulate\VMC----
+1762	TOK	in		in\P
+1763	TOK	ways		way\N5P
+1764	TOK	that		that\RW63N6
+1765	TOK	would		will\VOFDA66
+1766	TOK	be		be\VMI----
+1767	TOK	nonirritating		nonirritating\JA
+1768	TOK	and		and\CC
+1769	TOK	would		will\VOFDA66
+1770	TOK	avoid		avoid\VMI----
+1771	TOK	disrupting		disrupt\VMG----
+1772	TOK	the		the\AT---6
+1773	TOK	vaginal		vaginal\JA
+##	TAG	<name>
+1774	TOK	flora		flora\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1775	TOK	The	BOS	the\AT---6
+1776	TOK	chemicals		chemical\N5P
+1777	TOK	could		can\VOFDA66
+1778	TOK	impede		impede\VMI----
+1779	TOK	any		any\AG---6
+1780	TOK	number		number\N5S
+1781	TOK	of		of\P
+1782	TOK	events		event\N5P
+1783	TOK	that		that\RW63N6
+1784	TOK	follow		follow\VMF6R66
+1785	TOK	ejaculation		ejaculation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1786	TOK	After	BOS	after\P
+1787	TOK	sperm		sperm\N56
+1788	TOK	are		be\V6FDR66
+1789	TOK	deposited		deposit\VMC----
+1790	TOK	in		in\P
+1791	TOK	the		the\AT---6
+1792	TOK	vagina		vagina\N5S
+---	DLD	,		=\DELIM
+1793	TOK	they		they\RPP3NN
+1794	TOK	undergo		undergo\VMF6R66
+1795	TOK	a		a\AI---S
+1796	TOK	variety		variety\N5S
+1797	TOK	of		of\P
+1798	TOK	changes		change\N5P
+1799	TOK	important		important\JA
+1800	TOK	for		for\P
+1801	TOK	fertilization		fertilization\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1802	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1803	TOK	cholesterol		cholesterol\N5S
+1804	TOK	is		be\V6FDRS3
+1805	TOK	removed		remove\VMC----
+1806	TOK	from		from\P
+1807	TOK	the		the\AT---6
+1808	TOK	membrane		membrane\N5S
+1809	TOK	encasing		encase\VMG----
+1810	TOK	the		the\AT---6
+1811	TOK	sperm		sperm\N56
+1812	TOK	head		head\N5S
+---	DLD	;		=\DELIM
+1813	TOK	this		this\AD---S
+1814	TOK	step		step\N5S
+1815	TOK	makes		make\VMFDRS3
+1816	TOK	the		the\AT---6
+1817	TOK	membrane		membrane\N5S
+1818	TOK	more		more\DDC7
+1819	TOK	fluid		fluid\N5S
+1820	TOK	and		and\CC
+1821	TOK	thus		thus\DGA7
+1822	TOK	enables		enable\VMFDRS3
+1823	TOK	other		other\JA
+1824	TOK	molecules		molecule\N5P
+1825	TOK	to		to\P
+1826	TOK	move		move\VMI----
+1827	TOK	to		to\P
+1828	TOK	new		new\JA
+1829	TOK	positions		position\N5P
+1830	TOK	as		as\DGA7
+1831	TOK	needed		need\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1832	TOK	Later	BOS	late\JC
+---	DLD	,		=\DELIM
+1833	TOK	with		with\P
+1834	TOK	the		the\AT---6
+1835	TOK	assistance		assistance\N5S
+1836	TOK	of		of\P
+1837	TOK	progesterone		progesterone\N5S
+1838	TOK	in		in\P
+1839	TOK	the		the\AT---6
+1840	TOK	fallopian		fallopian\JA
+1841	TOK	tubes		tube\N5P
+---	DLD	,		=\DELIM
+1842	TOK	specialized		specialize\VMC----
+1843	TOK	channels		channel\N5P
+1844	TOK	in		in\P
+1845	TOK	the		the\AT---6
+1846	TOK	sperm		sperm\N56
+1847	TOK	membrane		membrane\N5S
+1848	TOK	open		open\VMF6R66
+---	DLD	,		=\DELIM
+1849	TOK	allowing		allow\VMG----
+1850	TOK	calcium		calcium\N5S
+1851	TOK	ions		ion\N5P
+1852	TOK	from		from\P
+1853	TOK	the		the\AT---6
+1854	TOK	environment		environment\N5S
+1855	TOK	to		to\P
+1856	TOK	flow		flow\N5S
+1857	TOK	in		in\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1858	TOK	These	BOS	this\AD---P
+1859	TOK	ions		ion\N5P
+1860	TOK	facilitate		facilitate\VMF6R66
+1861	TOK	the		the\AT---6
+---	DLE	"		=\DELIM
+1862	TOK	acrosome		acrosome\N5S
+---	DLD	"		=\DELIM
+1863	TOK	reaction		reaction\N5S
+---	DLD	,		=\DELIM
+1864	TOK	which		which\RW63N-
+1865	TOK	occurs		occur\VMFDRS3
+1866	TOK	when		when\CS
+1867	TOK	sperm		sperm\N56
+1868	TOK	first		first\DGA7
+1869	TOK	meet		meet\VMF6R66
+1870	TOK	the		the\AT---6
+1871	TOK	zona		zona\N5S
+1872	TOK	pellucida		pellucida\N5P
+---	DLD	,		=\DELIM
+1873	TOK	the		the\AT---6
+1874	TOK	jellylike		jellylike\JA
+1875	TOK	coat		coat\N5S
+1876	TOK	surrounding		surround\VMG----
+1877	TOK	the		the\AT---6
+1878	TOK	outer		outer\JA
+1879	TOK	membrane		membrane\N5S
+1880	TOK	of		of\P
+1881	TOK	the		the\AT---6
+1882	TOK	egg		egg\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1883	TOK	In	BOS	in\P
+1884	TOK	the		the\AT---6
+1885	TOK	acrosome		acrosome\N5S
+1886	TOK	reaction		reaction\N5S
+1887	TOK	the		the\AT---6
+1888	TOK	sperm		sperm\N56
+1889	TOK	plasma		plasma\N5S
+1890	TOK	membrane		membrane\N5S
+1891	TOK	fuses		fuse\N5P
+1892	TOK	with		with\P
+1893	TOK	that		that\RDS3N-
+1894	TOK	of		of\P
+1895	TOK	the		the\AT---6
+1896	TOK	acrosome		acrosome\N5S
+---	DLD	,		=\DELIM
+1897	TOK	a		a\AI---S
+1898	TOK	sac		sac\N5S
+1899	TOK	of		of\P
+1900	TOK	enzymes		enzyme\N5P
+1901	TOK	in		in\P
+1902	TOK	the		the\AT---6
+1903	TOK	sperm		sperm\N56
+1904	TOK	head		head\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1905	TOK	Then	BOS	then\DGA7
+1906	TOK	the		the\AT---6
+1907	TOK	enzymes		enzyme\N5P
+1908	TOK	pour		pour\VMI----
+1909	TOK	out		out\DGA7
+1910	TOK	and		and\CC
+1911	TOK	carve		carve\VMI----
+1912	TOK	a		a\AI---S
+1913	TOK	path		path\N5S
+1914	TOK	for		for\P
+1915	TOK	sperm		sperm\N56
+1916	TOK	through		through\P
+1917	TOK	the		the\AT---6
+1918	TOK	egg		egg\N5S
+1919	PGR	's		genmark\GENMARK
+1920	TOK	coat		coat\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1921	TOK	Chemicals	BOS	chemical\N5P
+1922	TOK	being		be\VMG----
+1923	TOK	explored		explore\VMC----
+1924	TOK	for		for\P
+1925	TOK	impeding		impede\VMG----
+1926	TOK	maturation		maturation\N5S
+1927	TOK	and		and\CC
+1928	TOK	the		the\AT---6
+1929	TOK	acrosome		acrosome\N5S
+1930	TOK	reaction		reaction\N5S
+1931	TOK	include		include\VMF6R66
+1932	TOK	ones		one\RIP3N-
+1933	TOK	that		that\RW63N6
+1934	TOK	clog		clog\VMF6R66
+1935	TOK	calcium		calcium\N5S
+1936	TOK	channels		channel\N5P
+1937	TOK	or		or\CC
+1938	TOK	prevent		prevent\VMI----
+1939	TOK	cholesterol		cholesterol\N5S
+1940	TOK	from		from\P
+1941	TOK	leaving		leave\VMG----
+1942	TOK	the		the\AT---6
+1943	TOK	plasma		plasma\N5S
+##	TAG	<abbr>
+1944	TOK	membrane.		membrane.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+1945	TOK	These		These\N5S
+1946	TOK	chemicals		chemical\N5P
+1947	TOK	are		be\V6FDR66
+1948	TOK	also		also\DGA7
+1949	TOK	being		be\VMG----
+1950	TOK	eyed		eye\VMF6A66
+1951	TOK	for		for\P
+1952	TOK	men		man\N5P
+---	DLD	;		=\DELIM
+1953	TOK	they		they\RPP3NN
+1954	TOK	would		will\VOFDA66
+1955	TOK	be		be\VMI----
+1956	TOK	useful		useful\JA
+1957	TOK	if		if\CS
+1958	TOK	they		they\RPP3NN
+1959	TOK	bound		bind\VMF6A66
+1960	TOK	tightly		tightly\DGA7
+1961	TOK	to		to\P
+1962	TOK	sperm		sperm\N56
+1963	TOK	in		in\P
+1964	TOK	the		the\AT---6
+1965	TOK	epididymides		epididymis\N5P
+1966	TOK	and		and\CC
+1967	TOK	remained		remain\VMC----
+1968	TOK	attached		attach\VMC----
+1969	TOK	during		during\P
+1970	TOK	the		the\AT---6
+1971	TOK	journey		journey\N5S
+1972	TOK	through		through\P
+1973	TOK	the		the\AT---6
+1974	TOK	female		female\N5S
+1975	TOK	reproductive		reproductive\JA
+##	TAG	<abbr>
+1976	TOK	tract.		tract.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+##	TAG	<loc pos="DDC7">
+1977	TOK	Rather than		Rather_than\DDC7
+##	TAG	</loc>
+1978	TOK	preventing		prevent\VMG----
+1979	TOK	maturation		maturation\N5S
+1980	TOK	of		of\P
+1981	TOK	sperm		sperm\N56
+---	DLD	,		=\DELIM
+1982	TOK	some		some\AG---6
+1983	TOK	researchers		researcher\N5P
+1984	TOK	are		be\V6FDR66
+1985	TOK	attempting		attempt\VMG----
+1986	TOK	to		to\P
+1987	TOK	induce		induce\VMI----
+1988	TOK	a		a\AI---S
+1989	TOK	premature		premature\JA
+1990	TOK	acrosome		acrosome\N5S
+1991	TOK	reaction		reaction\N5S
+---	DLI	-		=\DELIM
+1992	TOK	an		an\AI---S
+1993	TOK	event		event\N5S
+1994	TOK	that		that\RW63N6
+1995	TOK	would		will\VOFDA66
+1996	TOK	render		render\VMI----
+1997	TOK	sperm		sperm\N56
+1998	TOK	unable		unable\JA
+1999	TOK	to		to\P
+2000	TOK	meld		meld\N5S
+2001	TOK	with		with\P
+2002	TOK	an		an\AI---S
+2003	TOK	egg		egg\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2004	TOK	Related	BOS	relate\VMC----
+2005	TOK	strategies		strategy\N5P
+2006	TOK	would		will\VOFDA66
+2007	TOK	inhibit		inhibit\VMI----
+2008	TOK	specific		specific\JA
+2009	TOK	interactions		interaction\N5P
+2010	TOK	that		that\RW63N6
+2011	TOK	normally		normally\DGA7
+2012	TOK	occur		occur\VMF6R66
+2013	TOK	between		between\P
+2014	TOK	sperm		sperm\N56
+2015	TOK	and		and\CC
+2016	TOK	the		the\AT---6
+2017	TOK	zona		zona\N5S
+2018	TOK	pellucida		pellucida\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2019	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2020	TOK	researchers		researcher\N5P
+2021	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+2022	TOK	Duke University Medical Center		Duke_University_Medical_Center\N46
+##	TAG	</name>
+2023	TOK	have		have\V6F6R66
+2024	TOK	developed		develop\VMC----
+2025	TOK	a		a\AI---S
+2026	TOK	compound		compound\N5S
+2027	TOK	that		that\RW63N6
+2028	TOK	binds		bind\VMFDRS3
+2029	TOK	to		to\P
+2030	TOK	a		a\AI---S
+2031	TOK	sperm		sperm\N56
+2032	TOK	protein		protein\N5S
+---	DLE	(		=\DELIM
+2033	TOK	zona		zona\N5S
+2034	TOK	receptor		receptor\N5S
+2035	TOK	kinase		kinase\N5S
+---	DLD	)		=\DELIM
+2036	TOK	at		at\P
+2037	TOK	the		the\AT---6
+2038	TOK	site		site\N5S
+2039	TOK	normally		normally\DGA7
+2040	TOK	reserved		reserve\VMC----
+2041	TOK	for		for\P
+2042	TOK	interaction		interaction\N5S
+2043	TOK	with		with\P
+2044	TOK	a		a\AI---S
+2045	TOK	protein		protein\N5S
+2046	TOK	in		in\P
+2047	TOK	the		the\AT---6
+2048	TOK	zona		zona\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2049	TOK	Attachment	BOS	attachment\N5S
+2050	TOK	of		of\P
+2051	TOK	the		the\AT---6
+2052	TOK	compound		compound\N5S
+2053	TOK	blocks		block\VMFDRS3
+2054	TOK	the		the\AT---6
+2055	TOK	enzyme		enzyme\N5S
+2056	TOK	from		from\P
+2057	TOK	acting		act\VMG----
+2058	TOK	on		on\P
+2059	TOK	the		the\AT---6
+2060	TOK	egg		egg\N5S
+2061	PGR	's		genmark\GENMARK
+2062	TOK	coat		coat\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2063	TOK	Additionally	BOS	additionally\DGA7
+---	DLD	,		=\DELIM
+2064	TOK	sperm		sperm\N56
+2065	TOK	and		and\CC
+2066	TOK	seminal		seminal\JA
+2067	TOK	fluid		fluid\N5S
+2068	TOK	carry		carry\VMF6R66
+2069	TOK	antioxidant		antioxidant\N5S
+2070	TOK	enzymes		enzyme\N5P
+---	DLD	,		=\DELIM
+2071	TOK	which		which\RW63N-
+2072	TOK	protect		protect\VMF6R66
+2073	TOK	the		the\AT---6
+2074	TOK	integrity		integrity\N5S
+2075	TOK	of		of\P
+2076	TOK	the		the\AT---6
+2077	TOK	sperm		sperm\N56
+2078	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2079	TOK	If	BOS	if\CS
+2080	TOK	certain		certain\JA
+2081	TOK	of		of\P
+2082	TOK	these		this\AD---P
+2083	TOK	antioxidants		antioxidant\N5P
+2084	TOK	were		be\V6F-A66
+2085	TOK	unique		unique\JA
+2086	TOK	to		to\P
+2087	TOK	sperm		sperm\N56
+2088	TOK	or		or\CC
+2089	TOK	to		to\P
+2090	TOK	seminal		seminal\JA
+2091	TOK	fluid		fluid\N5S
+---	DLD	,		=\DELIM
+2092	TOK	investigators		investigator\N5P
+2093	TOK	would		will\VOFDA66
+2094	TOK	be		be\VMI----
+2095	TOK	able		able\JA
+2096	TOK	to		to\P
+2097	TOK	design		design\N5S
+2098	TOK	drugs		drug\N5P
+2099	TOK	that		that\CS
+2100	TOK	in		in\P
+---	DLD	-		=\DELIM
+2101	TOK	activated		activate\VMC----
+2102	TOK	those		that\AD---P
+2103	TOK	particular		particular\JA
+2104	TOK	enzymes		enzyme\N5P
+2105	TOK	but		but\CC
+2106	TOK	did		do\V6FDA66
+2107	TOK	not		not\DGA7
+2108	TOK	deprive		deprive\VMI----
+2109	TOK	other		other\JA
+2110	TOK	cells		cell\N5P
+2111	TOK	of		of\P
+2112	TOK	antioxidant		antioxidant\N5S
+2113	TOK	defenses		defense\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2114	TOK	In	BOS	in\P
+2115	TOK	some		some\AG---6
+2116	TOK	instances		instance\N5P
+---	DLD	,		=\DELIM
+2117	TOK	pure		pure\JA
+---	DLD	,		=\DELIM
+2118	TOK	laboratory		laboratory\N5S
+---	DLI	-		=\DELIM
+2119	TOK	generated		generate\VMC----
+2120	TOK	antibodies		antibody\N5P
+---	DLE	(		=\DELIM
+2121	TOK	monoclonal		monoclonal\JA
+2122	TOK	antibodies		antibody\N5P
+---	DLD	)		=\DELIM
+2123	TOK	might		may\VOFDR66
+2124	TOK	take		take\VMI----
+2125	TOK	the		the\AT---6
+2126	TOK	place		place\N5S
+2127	TOK	of		of\P
+2128	TOK	certain		certain\JA
+2129	TOK	nonbiological		nonbiological\JA
+2130	TOK	chemicals		chemical\N5P
+2131	TOK	as		as\P
+2132	TOK	the		the\AT---6
+2133	TOK	active		active\JA
+2134	TOK	ingredients		ingredient\N5P
+2135	TOK	in		in\P
+2136	TOK	contraceptives		contraceptive\N5P
+2137	TOK	delivered		deliver\VMC----
+2138	TOK	into		into\P
+2139	TOK	the		the\AT---6
+2140	TOK	vagina		vagina\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2141	TOK	Combating	BOS	combat\VMG----
+##	TAG	<name pos="N46" type="other">
+2142	TOK	Sexual Disease	EOS	Sexual_Disease\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2144	TOK	As	BOS	as\CS
+2145	TOK	the		the\AT---6
+2146	TOK	incidence		incidence\N5S
+2147	TOK	of		of\P
+2148	TOK	sexually		sexually\DGA7
+2149	TOK	transmitted		transmit\VMC----
+2150	TOK	diseases		disease\N5P
+2151	TOK	climbs		climb\VMFDRS3
+---	DLD	,		=\DELIM
+2152	TOK	it		it\RPS3N6
+2153	TOK	is		be\V6FDRS3
+2154	TOK	becoming		become\VMG----
+2155	TOK	increasingly		increasingly\DGA7
+2156	TOK	critical		critical\JA
+2157	TOK	to		to\P
+2158	TOK	combine		combine\VMI----
+2159	TOK	contraception		contraception\N5S
+2160	TOK	with		with\P
+2161	TOK	barriers		barrier\N5P
+2162	TOK	to		to\P
+2163	TOK	infection		infection\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2164	TOK	Such	BOS	such\JA
+2165	TOK	barriers		barrier\N5P
+2166	TOK	can		can\VOFDR66
+2167	TOK	be		be\VMI----
+2168	TOK	physical		physical\JA
+---	DLE	(		=\DELIM
+2169	TOK	as		as\DGA7
+2170	TOK	in		in\P
+2171	TOK	male		male\N5S
+2172	TOK	and		and\CC
+2173	TOK	female		female\N5S
+2174	TOK	condoms		condom\N5P
+2175	TOK	and		and\CC
+---	DLD	,		=\DELIM
+2176	TOK	to		to\P
+2177	TOK	some		some\AG---6
+2178	TOK	degree		degree\N5S
+---	DLD	,		=\DELIM
+2179	TOK	the		the\AT---6
+2180	TOK	diaphragm		diaphragm\N5S
+---	DLD	)		=\DELIM
+2181	TOK	or		or\CC
+2182	TOK	chemical		chemical\JA
+---	DLE	(		=\DELIM
+2183	TOK	as		as\DGA7
+2184	TOK	in		in\P
+2185	TOK	spermicides		spermicide\N5P
+2186	TOK	or		or\CC
+2187	TOK	the		the\AT---6
+2188	TOK	more		more\DDC7
+2189	TOK	selective		selective\JA
+2190	TOK	formulations		formulation\N5P
+2191	TOK	under		under\P
+2192	TOK	investigation		investigation\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2193	TOK	To	BOS	to\P
+2194	TOK	prevent		prevent\VMI----
+2195	TOK	infection		infection\N5S
+2196	TOK	by		by\P
+2197	TOK	the		the\AT---6
+##	TAG	<name>
+2198	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2199	TOK	causing		cause\VMG----
+2200	TOK	human		human\JA
+2201	TOK	immunodeficiency		immunodeficiency\N5S
+2202	TOK	virus		virus\N5S
+2203	TOK	or		or\CC
+2204	TOK	other		other\JA
+2205	TOK	microbes		microbe\N5P
+---	DLD	,		=\DELIM
+2206	TOK	a		a\AI---S
+2207	TOK	chemical		chemical\JA
+2208	TOK	barrier		barrier\N5S
+2209	TOK	would		will\VOFDA66
+---	DLD	,		=\DELIM
+2210	TOK	at		at\P
+2211	TOK	minimum		minimum\N5S
+---	DLD	,		=\DELIM
+2212	TOK	have		have\VMI----
+2213	TOK	to		to\P
+2214	TOK	coat		coat\N5S
+2215	TOK	the		the\AT---6
+2216	TOK	entire		entire\JA
+2217	TOK	vaginal		vaginal\JA
+2218	TOK	wall		wall\N5S
+2219	TOK	and		and\CC
+2220	TOK	cervix		cervix\N5S
+---	DLD	,		=\DELIM
+2221	TOK	be		be\VMI----
+2222	TOK	nonirritating		nonirritating\N5S
+2223	TOK	and		and\CC
+2224	TOK	be		be\VMI----
+2225	TOK	nontoxic		nontoxic\JA
+2226	TOK	to		to\P
+2227	TOK	beneficial		beneficial\JA
+2228	TOK	microbes		microbe\N5P
+2229	TOK	in		in\P
+2230	TOK	the		the\AT---6
+2231	TOK	vagina		vagina\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2232	TOK	These	BOS	this\AD---P
+2233	TOK	features		feature\N5P
+2234	TOK	alone		alone\DGA7
+2235	TOK	might		may\VOFDR66
+2236	TOK	be		be\VMI----
+2237	TOK	enough		enough\DGA7
+2238	TOK	to		to\P
+2239	TOK	reduce		reduce\VMI----
+2240	TOK	infection		infection\N5S
+2241	TOK	significantly		significantly\DGA7
+---	DLD	,		=\DELIM
+2242	TOK	but		but\CC
+2243	TOK	agents		agent\N5P
+2244	TOK	intended		intend\VMC----
+2245	TOK	to		to\P
+2246	TOK	kill		kill\VMI----
+2247	TOK	harmful		harmful\JA
+2248	TOK	microorganisms		microorganism\N5P
+2249	TOK	actively		actively\DGA7
+2250	TOK	could		can\VOFDA66
+2251	TOK	be		be\VMI----
+2252	TOK	added		add\VMC----
+2253	TOK	as		as\P
+2254	TOK	well		well\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2255	TOK	Investigators	BOS	investigator\N5P
+2256	TOK	are		be\V6FDR66
+2257	TOK	only		only\DGA7
+2258	TOK	now		now\DGA7
+2259	TOK	beginning		begin\VMG----
+2260	TOK	to		to\P
+2261	TOK	evaluate		evaluate\VMI----
+2262	TOK	whether		whether\CS
+2263	TOK	existing		existing\JA
+2264	TOK	spermicides		spermicide\N5P
+2265	TOK	possess		possess\VMF6R66
+2266	TOK	the		the\AT---6
+2267	TOK	essential		essential\JA
+2268	TOK	features		feature\N5P
+2269	TOK	needed		need\VMC----
+2270	TOK	to		to\P
+2271	TOK	avoid		avoid\VMI----
+2272	TOK	transmission		transmission\N5S
+2273	TOK	of		of\P
+2274	TOK	sexually		sexually\DGA7
+2275	TOK	transmitted		transmit\VMC----
+2276	TOK	diseases		disease\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2277	TOK	So far	BOS	So_far\DGA7
+##	TAG	</loc>
+2278	TOK	it		it\RPS3N6
+2279	TOK	appears		appear\VMFDRS3
+2280	TOK	the		the\AT---6
+2281	TOK	formulations		formulation\N5P
+2282	TOK	do		do\V6FDR66
+2283	TOK	reduce		reduce\VMI----
+2284	TOK	the		the\AT---6
+2285	TOK	risk		risk\N5S
+2286	TOK	of		of\P
+2287	TOK	acquiring		acquire\VMG----
+##	TAG	<loc pos="DGA7">
+2288	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+2289	TOK	one		one\MCS
+2290	TOK	sexually		sexually\DGA7
+2291	TOK	transmitted		transmit\VMC----
+2292	TOK	disease		disease\N5S
+---	DLD	-		=\DELIM
+##	TAG	<name>
+2293	TOK	Chlamydia		Chlamydia\N46
+##	TAG	</name>
+2294	TOK	infection		infection\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2295	TOK	Within	BOS	within\P
+2296	TOK	the		the\AT---6
+2297	TOK	next		next\JA
+##	TAG	<num>
+2298	TOK	10		10\X
+##	TAG	</num>
+2299	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+2300	TOK	spermicides		spermicide\N5P
+2301	TOK	designed		design\VMC----
+2302	TOK	to		to\P
+2303	TOK	include		include\VMI----
+2304	TOK	disease		disease\N5S
+---	DLI	-		=\DELIM
+2305	TOK	preventing		prevent\VMG----
+2306	TOK	properties		property\N5P
+2307	TOK	will		will\VOFDR66
+2308	TOK	probably		probably\DGA7
+2309	TOK	be		be\VMI----
+2310	TOK	sold		sell\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2311	TOK	Such	BOS	such\JA
+2312	TOK	spermicides		spermicide\N5P
+2313	TOK	would		will\VOFDA66
+2314	TOK	be		be\VMI----
+2315	TOK	of		of\P
+2316	TOK	enormous		enormous\JA
+2317	TOK	benefit		benefit\N5S
+2318	TOK	to		to\P
+2319	TOK	female		female\N5S
+2320	TOK	health		health\N5S
+2321	TOK	because		because\CS
+2322	TOK	they		they\RPP3NN
+2323	TOK	would		will\VOFDA66
+2324	TOK	offer		offer\VMI----
+2325	TOK	unobtrusive		unobtrusive\JA
+2326	TOK	protection		protection\N5S
+2327	TOK	when		when\CS
+2328	TOK	men		man\N5P
+2329	TOK	fail		fail\VMF6R66
+2330	TOK	to		to\P
+2331	TOK	use		use\N5S
+2332	TOK	condoms		condom\N5P
+2333	TOK	and		and\CC
+2334	TOK	when		when\CS
+2335	TOK	condoms		condom\N5P
+2336	TOK	themselves		themselves\RXP3N-
+2337	TOK	fail		fail\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2338	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+2339	TOK	Time Line	EOS	Time_Line\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2341	TOK	Obviously	BOS	obviously\DGA7
+---	DLD	,		=\DELIM
+2342	TOK	the		the\AT---6
+2343	TOK	contraceptive		contraceptive\JA
+2344	TOK	methods		method\N5P
+2345	TOK	that		that\RW63N6
+2346	TOK	are		be\V6FDR66
+2347	TOK	emerging		emerging\JA
+2348	TOK	today		today\N5S
+2349	TOK	are		be\V6FDR66
+2350	TOK	the		the\AT---6
+2351	TOK	fruits		fruit\N5P
+2352	TOK	of		of\P
+2353	TOK	research		research\N5S
+2354	TOK	that		that\RW63N6
+2355	TOK	was		be\V6F-A66
+2356	TOK	initiated		initiate\VMC----
+2357	TOK	years		year\N5P
+2358	TOK	ago		ago\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2359	TOK	The	BOS	the\AT---6
+2360	TOK	only		only\DGA7
+2361	TOK	new		new\JA
+2362	TOK	products		product\N5P
+2363	TOK	that		that\RW63N6
+2364	TOK	will		will\VOFDR66
+2365	TOK	be		be\VMI----
+2366	TOK	attainable		attainable\JA
+2367	TOK	before		before\P
+2368	TOK	the		the\AT---6
+2369	TOK	year		year\N5S
+##	TAG	<num>
+2370	TOK	2000		2000\X
+##	TAG	</num>
+2371	TOK	are		be\V6FDR66
+2372	TOK	nonlatex		nonlatex\N5S
+2373	TOK	condoms		condom\N5P
+---	DLD	,		=\DELIM
+2374	TOK	vaginal		vaginal\JA
+2375	TOK	rings		ring\N5P
+2376	TOK	and		and\CC
+---	DLD	,		=\DELIM
+2377	TOK	possibly		possibly\DGA7
+---	DLD	,		=\DELIM
+2378	TOK	implants		implant\N5P
+2379	TOK	for		for\P
+2380	TOK	women		woman\N5P
+2381	TOK	consisting		consist\VMG----
+2382	TOK	of		of\P
+2383	TOK	one		one\MCS
+2384	TOK	or		or\CC
+##	TAG	<num>
+2385	TOK	two		two\X
+##	TAG	</num>
+2386	TOK	hormone		hormone\N5S
+---	DLI	-		=\DELIM
+2387	TOK	filled		fill\VMC----
+2388	TOK	rods		rod\N5P
+2389	TOK	that		that\RW63N6
+2390	TOK	are		be\V6FDR66
+2391	TOK	easier		easy\JC
+2392	TOK	to		to\P
+2393	TOK	remove		remove\VMI----
+2394	TOK	than		than\CS
+2395	TOK	are		be\V6FDR66
+2396	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="JA">
+2397	TOK	extant		extant\JA
+##	TAG	</foreign>
+2398	TOK	capsules		capsule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2399	TOK	Within	BOS	within\P
+##	TAG	<loc pos="RP63N-">
+2400	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+2401	TOK	years		year\N5P
+2402	TOK	thereafter		thereafter\DGA7
+---	DLD	,		=\DELIM
+2403	TOK	spermicides		spermicide\N5P
+2404	TOK	that		that\RW63N6
+2405	TOK	reduce		reduce\VMF6R66
+2406	TOK	the		the\AT---6
+2407	TOK	spread		spread\N5S
+2408	TOK	of		of\P
+2409	TOK	sexually		sexually\DGA7
+2410	TOK	transmitted		transmit\VMC----
+2411	TOK	diseases		disease\N5P
+2412	TOK	will		will\VOFDR66
+2413	TOK	be		be\VMI----
+2414	TOK	a		a\AI---S
+2415	TOK	welcome		welcome\JA
+2416	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+2417	TOK	as		as\DGA7
+2418	TOK	will		will\VOFDR66
+2419	TOK	the		the\AT---6
+2420	TOK	progestin		progestin\N5S
+---	DLI	-		=\DELIM
+2421	TOK	releasing		release\VMG----
+2422	TOK	intrauterine		intrauterine\JA
+2423	TOK	device		device\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2424	TOK	The	BOS	the\AT---6
+2425	TOK	next		next\JA
+2426	TOK	contraceptives		contraceptive\N5P
+2427	TOK	to		to\P
+2428	TOK	arrive		arrive\VMI----
+2429	TOK	in		in\P
+2430	TOK	the		the\AT---6
+##	TAG	<abbr>
+2431	TOK	U.S.		U.S.\N5S
+##	TAG	</abbr>
+2432	TOK	should		shall\VOFDA66
+2433	TOK	be		be\VMI----
+---	DLD	,		=\DELIM
+2434	TOK	in		in\P
+2435	TOK	order		order\N5S
+2436	TOK	of		of\P
+2437	TOK	appearance		appearance\N5S
+---	DLD	,		=\DELIM
+2438	TOK	new		new\JA
+2439	TOK	emergency		emergency\N5S
+2440	TOK	contraceptives		contraceptive\N5P
+---	DLE	(		=\DELIM
+2441	TOK	by		by\P
+##	TAG	<num>
+2442	TOK	2005		2005\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2443	TOK	a		a\AI---S
+2444	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+2445	TOK	month		month\N5S
+2446	TOK	injectable		injectable\JA
+2447	TOK	androgen		androgen\N5S
+2448	TOK	plus		plus\CS
+2449	TOK	a		a\AI---S
+2450	TOK	progestin		progestin\N5S
+2451	TOK	for		for\P
+2452	TOK	men		man\N5P
+---	DLE	(		=\DELIM
+2453	TOK	also		also\DGA7
+2454	TOK	by		by\P
+2455	TOK	about		about\DGA7
+##	TAG	<num>
+2456	TOK	2005		2005\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2457	TOK	biodegradable		biodegradable\JA
+2458	TOK	implants		implant\N5P
+2459	TOK	for		for\P
+2460	TOK	women		woman\N5P
+---	DLE	(		=\DELIM
+2461	TOK	by		by\P
+##	TAG	<num>
+2462	TOK	2010		2010\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2463	TOK	and		and\CC
+2464	TOK	immunocontraceptives		immunocontraceptives\N5P
+---	DLE	(		=\DELIM
+2465	TOK	perhaps		perhaps\DGA7
+2466	TOK	by		by\P
+##	TAG	<num>
+2467	TOK	2015		2015\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2468	TOK	Introduction		Introduction\N46
+##	TAG	</name>
+2469	TOK	times		time\N5P
+2470	TOK	outside		outside\P
+2471	TOK	the		the\AT---6
+##	TAG	<abbr>
+2472	TOK	U.S.		U.S.\N5S
+##	TAG	</abbr>
+2473	TOK	will		will\VOFDR66
+2474	TOK	be		be\VMI----
+2475	TOK	influenced		influence\VMC----
+2476	TOK	by		by\P
+2477	TOK	the		the\AT---6
+2478	TOK	regulatory		regulatory\JA
+2479	TOK	requirements		requirement\N5P
+2480	TOK	of		of\P
+2481	TOK	each		each\AG---S
+##	TAG	<abbr>
+2482	TOK	nation.		nation.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+##	TAG	<name>
+2483	TOK	Actually		Actually\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2484	TOK	immunocontraceptives		immunocontraceptives\N5P
+2485	TOK	and		and\CC
+2486	TOK	other		other\JA
+2487	TOK	technologies		technology\N5P
+2488	TOK	in		in\P
+2489	TOK	early		early\JA
+2490	TOK	stages		stage\N5P
+2491	TOK	of		of\P
+2492	TOK	development		development\N5S
+2493	TOK	will		will\VOFDR66
+2494	TOK	reach		reach\VMI----
+2495	TOK	the		the\AT---6
+2496	TOK	market		market\N5S
+2497	TOK	only		only\DGA7
+2498	TOK	if		if\CS
+2499	TOK	the		the\AT---6
+2500	TOK	pharmaceutical		pharmaceutical\JA
+2501	TOK	and		and\CC
+2502	TOK	biotechnology		biotechnology\N5S
+2503	TOK	industries		industry\N5P
+2504	TOK	take		take\VMF6R66
+2505	TOK	more		many\JC
+2506	TOK	interest		interest\N5S
+2507	TOK	in		in\P
+2508	TOK	them		them\RPP3NA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2509	TOK	Most	BOS	most\DDS7
+2510	TOK	of		of\P
+2511	TOK	them		them\RPP3NA
+2512	TOK	are		be\V6FDR66
+2513	TOK	being		be\VMG----
+2514	TOK	explored		explore\VMC----
+2515	TOK	with		with\P
+2516	TOK	seed		seed\VMI----
+2517	TOK	money		money\N5S
+2518	TOK	from		from\P
+2519	TOK	the		the\AT---6
+##	TAG	<abbr>
+2520	TOK	U.S.		U.S.\N5S
+##	TAG	</abbr>
+2521	TOK	government		government\N5S
+2522	TOK	and		and\CC
+2523	TOK	nonprofit		nonprofit\JA
+2524	TOK	organizations		organization\N5P
+2525	TOK	here		here\DGA7
+2526	TOK	and		and\CC
+2527	TOK	abroad		abroad\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2528	TOK	But	BOS	but\CC
+2529	TOK	those		that\AD---P
+2530	TOK	funds		fund\N5P
+---	DLD	,		=\DELIM
+2531	TOK	totaling		total\VMG----
+2532	TOK	about		about\P
+2533	TOK	$		$\N5P
+##	TAG	<num>
+2534	TOK	57 million		57_million\X
+##	TAG	</num>
+2535	TOK	annually		annually\DGA7
+---	DLE	(		=\DELIM
+2536	TOK	less		less\DDC7
+2537	TOK	than		than\CS
+2538	TOK	a		a\AI---S
+2539	TOK	fourth		fourth\MOS
+2540	TOK	the		the\AT---6
+2541	TOK	cost		cost\N5S
+2542	TOK	of		of\P
+2543	TOK	developing		develop\VMG----
+2544	TOK	a		a\AI---S
+2545	TOK	single		single\JA
+2546	TOK	product		product\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2547	TOK	can		can\V6FDR66
+2548	PGR	not		not\DGA7
+2549	TOK	pay		pay\N5S
+2550	TOK	for		for\P
+2551	TOK	the		the\AT---6
+2552	TOK	extensive		extensive\JA
+2553	TOK	trials		trial\N5P
+2554	TOK	of		of\P
+2555	TOK	safety		safety\N5S
+2556	TOK	and		and\CC
+2557	TOK	efficacy		efficacy\N5S
+2558	TOK	that		that\RW63N6
+2559	TOK	are		be\V6FDR66
+2560	TOK	required		require\VMC----
+2561	TOK	for		for\P
+2562	TOK	licensing		license\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2563	TOK	Such	BOS	such\JA
+2564	TOK	tests		test\N5P
+2565	TOK	require		require\VMF6R66
+2566	TOK	the		the\AT---6
+2567	TOK	backing		backing\N5S
+2568	TOK	of		of\P
+2569	TOK	private		private\JA
+2570	TOK	industry		industry\N5S
+---	DLI	-		=\DELIM
+2571	TOK	support		support\N5S
+2572	TOK	that		that\RW63N6
+2573	TOK	may		may\VOFDR66
+2574	TOK	not		not\DGA7
+2575	TOK	become		become\VMI----
+2576	TOK	strong		strong\JA
+2577	TOK	until		until\CS
+2578	TOK	limits		limit\N5P
+2579	TOK	on		on\P
+2580	TOK	liability		liability\N5S
+2581	TOK	are		be\V6FDR66
+2582	TOK	set		set\VMC----
+2583	TOK	and		and\CC
+2584	TOK	a		a\AI---S
+2585	TOK	misperception		misperception\N5S
+2586	TOK	that		that\CS
+2587	TOK	little		little\JA
+2588	TOK	money		money\N5S
+2589	TOK	can		can\VOFDR66
+2590	TOK	be		be\VMI----
+2591	TOK	made		make\VMC----
+2592	TOK	from		from\P
+2593	TOK	contraceptives		contraceptive\N5P
+2594	TOK	is		be\V6FDRS3
+2595	TOK	overcome		overcome\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2596	TOK	Because	BOS	because\CS
+2597	TOK	no		no\AI---6
+2598	TOK	contraceptive		contraceptive\N5S
+2599	TOK	is		be\V6FDRS3
+2600	TOK	perfect		perfect\JA
+2601	TOK	for		for\P
+2602	TOK	everyone		everyone\RIS3N-
+---	DLD	,		=\DELIM
+2603	TOK	people		people\N56
+2604	TOK	who		who\RW63N-
+2605	TOK	want		want\VMF6R66
+2606	TOK	to		to\P
+2607	TOK	practice		practice\N5S
+2608	TOK	birth		birth\N5S
+2609	TOK	control		control\N5S
+2610	TOK	need		need\V6F6R66
+2611	TOK	a		a\AI---S
+2612	TOK	broad		broad\JA
+2613	TOK	array		array\N5S
+2614	TOK	of		of\P
+2615	TOK	choices		choice\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+2616	TOK	In spite of	BOS	In_spite_of\CS
+##	TAG	</loc>
+2617	TOK	the		the\AT---6
+2618	TOK	obstacles		obstacle\N5P
+---	DLD	,		=\DELIM
+2619	TOK	I		I\N5P
+2620	TOK	am		be\V6FDRS1
+2621	TOK	optimistic		optimistic\JA
+2622	TOK	that		that\CS
+2623	TOK	today		today\N5S
+2624	PGR	's		genmark\GENMARK
+2625	TOK	ongoing		ongoing\JA
+2626	TOK	work		work\N5S
+2627	TOK	will		will\VOFDR66
+2628	TOK	go		go\VMI----
+2629	TOK	far		far\DGA7
+2630	TOK	toward		toward\P
+2631	TOK	meeting		meeting\N5S
+2632	TOK	that		that\RW63N6
+2633	TOK	need		need\V6F6R66
+2634	TOK	in		in\P
+2635	TOK	the		the\AT---6
+2636	TOK	century		century\N5S
+2637	TOK	ahead		ahead\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2638	TOK	Tomorrow	BOS	tomorrow\N5S
+2639	PGR	's		genmark\GENMARK
+2640	TOK	infertility		infertility\N5S
+2641	TOK	treatments	EOS	treatment\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2643	TOK	Over	BOS	over\P
+2644	TOK	the		the\AT---6
+2645	TOK	past		past\JA
+2646	TOK	decade		decade\N5S
+2647	TOK	investigators		investigator\N5P
+2648	TOK	have		have\V6F6R66
+2649	TOK	markedly		markedly\DGA7
+2650	TOK	advanced		advance\VMC----
+2651	TOK	techniques		technique\N5P
+2652	TOK	for		for\P
+##	TAG	<foreign lang="LA" pos="JA">
+2653	TOK	in vitro		in_vitro\JA
+##	TAG	</foreign>
+2654	TOK	fertilization		fertilization\N5S
+---	DLI	-		=\DELIM
+2655	TOK	the		the\AT---6
+2656	TOK	procedure		procedure\N5S
+2657	TOK	that		that\RW63N6
+2658	TOK	yielded		yield\VMF6A66
+2659	TOK	the		the\AT---6
+2660	TOK	first		first\MOS
+---	DLE	"		=\DELIM
+2661	TOK	test		test\N5S
+2662	TOK	tube		tube\N5S
+---	DLD	"		=\DELIM
+2663	TOK	baby		baby\N5S
+2664	TOK	in		in\P
+##	TAG	<num>
+2665	TOK	1978		1978\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2666	TOK	Today	BOS	today\N5S
+2667	TOK	women		woman\N5P
+2668	TOK	can		can\VOFDR66
+2669	TOK	be		be\VMI----
+2670	TOK	induced		induce\VMC----
+2671	TOK	to		to\P
+2672	TOK	ovulate		ovulate\VMI----
+2673	TOK	many		many\AI---P
+2674	TOK	eggs		egg\N5P
+2675	TOK	in		in\P
+2676	TOK	a		a\AI---S
+2677	TOK	single		single\JA
+2678	TOK	menstrual		menstrual\JA
+2679	TOK	cycle		cycle\N5S
+---	DLD	;		=\DELIM
+2680	TOK	the		the\AT---6
+2681	TOK	eggs		egg\N5P
+2682	TOK	can		can\VOFDR66
+2683	TOK	be		be\VMI----
+2684	TOK	removed		remove\VMC----
+2685	TOK	and		and\CC
+2686	TOK	injected		inject\VMC----
+2687	TOK	with		with\P
+2688	TOK	sperm		sperm\N56
+2689	TOK	or		or\CC
+##	TAG	<name>
+2690	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+2691	TOK	the		the\AT---6
+2692	TOK	embryos		embryo\N5P
+2693	TOK	can		can\VOFDR66
+2694	TOK	be		be\VMI----
+2695	TOK	screened		screen\VMC----
+2696	TOK	for		for\P
+2697	TOK	genetic		genetic\JA
+2698	TOK	defects		defect\N5P
+---	DLD	;		=\DELIM
+2699	TOK	and		and\CC
+2700	TOK	healthy		healthy\JA
+2701	TOK	embryos		embryo\N5P
+2702	TOK	can		can\VOFDR66
+2703	TOK	be		be\VMI----
+2704	TOK	implanted		implant\VMC----
+2705	TOK	in		in\P
+2706	TOK	the		the\AT---6
+2707	TOK	woman		woman\N5S
+2708	PGR	's		genmark\GENMARK
+2709	TOK	womb		womb\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2710	TOK	In	BOS	in\P
+2711	TOK	the		the\AT---6
+2712	TOK	first		first\MOS
+2713	TOK	third		third\N5S
+2714	TOK	of		of\P
+2715	TOK	the		the\AT---6
+##	TAG	<num>
+2716	TOK	21st		21st\X
+##	TAG	</num>
+2717	TOK	century		century\N5S
+---	DLD	,		=\DELIM
+2718	TOK	researchers		researcher\N5P
+2719	TOK	will		will\VOFDR66
+2720	TOK	probably		probably\DGA7
+2721	TOK	refine		refine\VMI----
+2722	TOK	these		this\AD---P
+2723	TOK	techniques		technique\N5P
+2724	TOK	and		and\CC
+2725	TOK	improve		improve\VMI----
+2726	TOK	their		their\APP3N6
+2727	TOK	success		success\N5S
+2728	TOK	rates		rate\N5P
+---	DLD	,		=\DELIM
+2729	TOK	but		but\CC
+2730	TOK	the		the\AT---6
+2731	TOK	basic		basic\JA
+2732	TOK	approaches		approach\N5P
+2733	TOK	are		be\V6FDR66
+2734	TOK	unlikely		unlikely\JA
+2735	TOK	to		to\P
+2736	TOK	change		change\VMI----
+2737	TOK	radically		radically\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<foreign lang="LA" pos="JA">
+2738	TOK	In vitro	BOS	In_vitro\JA
+##	TAG	</foreign>
+2739	TOK	fertilization		fertilization\N5S
+2740	TOK	is		be\V6FDRS3
+2741	TOK	most		most\DDS7
+2742	TOK	suitable		suitable\JA
+2743	TOK	for		for\P
+2744	TOK	women		woman\N5P
+2745	TOK	whose		whose\AW---6
+2746	TOK	fallopian		fallopian\JA
+2747	TOK	tubes		tube\N5P
+2748	TOK	are		be\V6FDR66
+2749	TOK	blocked		block\VMC----
+2750	TOK	or		or\CC
+2751	TOK	whose		whose\AW---6
+2752	TOK	inability		inability\N5S
+2753	TOK	to		to\P
+2754	TOK	conceive		conceive\VMI----
+2755	TOK	is		be\V6FDRS3
+2756	TOK	unexplained		unexplained\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2757	TOK	The	BOS	the\AT---6
+2758	TOK	many		many\AI---P
+2759	TOK	women		woman\N5P
+2760	TOK	who		who\RW63N-
+2761	TOK	are		be\V6FDR66
+2762	TOK	infertile		infertile\JA
+##	TAG	<loc pos="P">
+2763	TOK	because of		because_of\P
+##	TAG	</loc>
+2764	TOK	benign		benign\JA
+---	DLD	,		=\DELIM
+2765	TOK	fibroid		fibroid\JA
+2766	TOK	tumors		tumor\N5P
+2767	TOK	in		in\P
+2768	TOK	the		the\AT---6
+2769	TOK	uterus		uterus\N5S
+2770	TOK	need		need\V6F6R66
+2771	TOK	other		other\JA
+2772	TOK	therapies		therapy\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2773	TOK	At	BOS	at\P
+2774	TOK	the		the\AT---6
+2775	TOK	moment		moment\N5S
+---	DLD	,		=\DELIM
+2776	TOK	troublesome		troublesome\JA
+2777	TOK	fibroids		fibroid\N5P
+2778	TOK	are		be\V6FDR66
+2779	TOK	usually		usually\DGA7
+2780	TOK	reduced		reduce\VMC----
+2781	TOK	by		by\P
+2782	TOK	surgery		surgery\N5S
+2783	TOK	or		or\CC
+2784	TOK	administration		administration\N5S
+2785	TOK	of		of\P
+2786	TOK	analogues		analogue\N5P
+2787	TOK	of		of\P
+2788	TOK	gonadotropin		gonadotropin\N5S
+---	DLI	-		=\DELIM
+2789	TOK	releasing		release\VMG----
+2790	TOK	hormone		hormone\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2791	TOK	Surgery	BOS	surgery\N5S
+2792	TOK	of		of\P
+2793	TOK	any		any\AG---6
+2794	TOK	kind		kind\N5S
+2795	TOK	carries		carry\VMFDRS3
+2796	TOK	risks		risk\N5P
+---	DLD	,		=\DELIM
+2797	TOK	and		and\CC
+2798	TOK	hormonal		hormonal\JA
+2799	TOK	treatment		treatment\N5S
+2800	TOK	can		can\VOFDR66
+2801	TOK	be		be\VMI----
+2802	TOK	problematic		problematic\JA
+2803	TOK	for		for\P
+2804	TOK	infertile		infertile\JA
+2805	TOK	women		woman\N5P
+---	DLD	,		=\DELIM
+2806	TOK	in		in\P
+2807	TOK	part		part\N5S
+2808	TOK	because		because\CS
+2809	TOK	when		when\CS
+2810	TOK	the		the\AT---6
+2811	TOK	analogues		analogue\N5P
+2812	TOK	are		be\V6FDR66
+2813	TOK	in		in\P
+2814	TOK	use		use\VMI----
+2815	TOK	they		they\RPP3NN
+2816	TOK	prevent		prevent\VMF6R66
+2817	TOK	conception		conception\N5S
+---	DLD	;		=\DELIM
+2818	TOK	also		also\DGA7
+---	DLD	,		=\DELIM
+2819	TOK	when		when\CS
+2820	TOK	treatment		treatment\N5S
+2821	TOK	stops		stop\VMFDRS3
+---	DLD	,		=\DELIM
+2822	TOK	the		the\AT---6
+2823	TOK	fibroids		fibroid\N5P
+2824	TOK	often		often\DGA7
+2825	TOK	return		return\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2826	TOK	If	BOS	if\CS
+2827	TOK	scientists		scientist\N5P
+2828	TOK	can		can\VOFDR66
+2829	TOK	identify		identify\VMI----
+2830	TOK	unique		unique\JA
+2831	TOK	proteins		protein\N5P
+2832	TOK	on		on\P
+2833	TOK	the		the\AT---6
+2834	TOK	tumors		tumor\N5P
+---	DLD	,		=\DELIM
+2835	TOK	they		they\RPP3NN
+2836	TOK	should		shall\VOFDA66
+2837	TOK	be		be\VMI----
+2838	TOK	able		able\JA
+2839	TOK	to		to\P
+2840	TOK	design		design\N5S
+2841	TOK	drugs		drug\N5P
+2842	TOK	that		that\RW63N6
+2843	TOK	will		will\VOFDR66
+2844	TOK	home		home\N5S
+2845	TOK	in		in\P
+2846	TOK	on		on\P
+2847	TOK	those		that\AD---P
+2848	TOK	proteins		protein\N5P
+2849	TOK	and		and\CC
+2850	TOK	cure		cure\VMI----
+2851	TOK	the		the\AT---6
+2852	TOK	tumors		tumor\N5P
+2853	TOK	simply		simply\DGA7
+---	DLD	,		=\DELIM
+2854	TOK	without		without\P
+2855	TOK	affecting		affect\VMG----
+2856	TOK	other		other\JA
+2857	TOK	tissues		tissue\N5P
+2858	TOK	or		or\CC
+2859	TOK	causing		cause\VMG----
+2860	TOK	side		side\N5S
+2861	TOK	effects		effect\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2862	TOK	Chances	BOS	chance\N5P
+2863	TOK	are		be\V6FDR66
+2864	TOK	good		good\JA
+2865	TOK	that		that\CS
+2866	TOK	such		such\JA
+2867	TOK	drugs		drug\N5P
+2868	TOK	will		will\VOFDR66
+2869	TOK	become		become\VMI----
+2870	TOK	available		available\JA
+2871	TOK	by		by\P
+2872	TOK	the		the\AT---6
+2873	TOK	year		year\N5S
+##	TAG	<num>
+2874	TOK	2010		2010\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2875	TOK	Similar	BOS	similar\JA
+2876	TOK	therapies		therapy\N5P
+2877	TOK	will		will\VOFDR66
+2878	TOK	probably		probably\DGA7
+2879	TOK	cure		cure\VMI----
+2880	TOK	endometriosis		endometriosis\N5S
+---	DLD	,		=\DELIM
+2881	TOK	the		the\AT---6
+2882	TOK	growth		growth\N5S
+2883	TOK	of		of\P
+2884	TOK	endometrial		endometrial\JA
+2885	TOK	cells		cell\N5P
+---	DLE	(		=\DELIM
+2886	TOK	from		from\P
+2887	TOK	the		the\AT---6
+2888	TOK	lining		lining\N5S
+2889	TOK	of		of\P
+2890	TOK	the		the\AT---6
+2891	TOK	uterus		uterus\N5S
+---	DLD	)		=\DELIM
+2892	TOK	outside		outside\N5S
+2893	TOK	of		of\P
+2894	TOK	the		the\AT---6
+2895	TOK	uterus		uterus\N5S
+---	DLD	,		=\DELIM
+2896	TOK	such		such\JA
+2897	TOK	as		as\CS
+2898	TOK	in		in\P
+2899	TOK	and		and\CC
+2900	TOK	around		around\P
+2901	TOK	the		the\AT---6
+2902	TOK	fallopian		fallopian\JA
+2903	TOK	tubes		tube\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2904	TOK	The	BOS	the\AT---6
+2905	TOK	condition		condition\N5S
+2906	TOK	causes		cause\VMFDRS3
+2907	TOK	some		some\AG---6
+2908	TOK	infertility		infertility\N5S
+2909	TOK	and		and\CC
+2910	TOK	can		can\VOFDR66
+2911	TOK	also		also\DGA7
+2912	TOK	lead		lead\VMI----
+2913	TOK	to		to\P
+2914	TOK	severe		severe\JA
+2915	TOK	menstrual		menstrual\JA
+2916	TOK	cramps		cramp\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2917	TOK	But	BOS	but\CC
+2918	TOK	it		it\RPS3N6
+2919	TOK	is		be\V6FDRS3
+2920	TOK	for		for\P
+2921	TOK	men		man\N5P
+---	DLI	-		=\DELIM
+2922	TOK	particularly		particularly\DGA7
+2923	TOK	those		that\RDP3N-
+2924	TOK	who		who\RW63N-
+2925	TOK	manufacture		manufacture\VMF6R66
+2926	TOK	no		no\AI---6
+2927	TOK	sperm		sperm\N56
+---	DLI	-		=\DELIM
+2928	TOK	that		that\CS
+2929	TOK	the		the\AT---6
+2930	TOK	most		most\DDS7
+2931	TOK	dramatic		dramatic\JA
+2932	TOK	advances		advance\N5P
+2933	TOK	are		be\V6FDR66
+2934	TOK	likely		likely\JA
+2935	TOK	to		to\P
+2936	TOK	occur		occur\VMI----
+2937	TOK	in		in\P
+2938	TOK	the		the\AT---6
+2939	TOK	next		next\JA
+##	TAG	<num>
+2940	TOK	30		30\X
+##	TAG	</num>
+2941	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2942	TOK	Scientists	BOS	scientist\N5P
+2943	TOK	are		be\V6FDR66
+2944	TOK	perfecting		perfect\VMG----
+2945	TOK	ways		way\N5P
+2946	TOK	to		to\P
+2947	TOK	transplant		transplant\N5S
+2948	TOK	donated		donate\VMC----
+2949	TOK	precursors		precursor\N5P
+2950	TOK	of		of\P
+2951	TOK	sperm		sperm\N56
+2952	TOK	cells		cell\N5P
+2953	TOK	into		into\P
+2954	TOK	the		the\AT---6
+2955	TOK	seminiferous		seminiferous\JA
+2956	TOK	tubules		tubule\N5P
+2957	TOK	of		of\P
+2958	TOK	the		the\AT---6
+2959	TOK	testes		testis\N5P
+---	DLD	:		=\DELIM
+2960	TOK	the		the\AT---6
+2961	TOK	system		system\N5S
+2962	TOK	of		of\P
+2963	TOK	tubes		tube\N5P
+2964	TOK	in		in\P
+2965	TOK	which		which\RW63N-
+2966	TOK	sperm		sperm\N56
+2967	TOK	are		be\V6FDR66
+2968	TOK	ordinarily		ordinarily\DGA7
+2969	TOK	made		make\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2970	TOK	Normally	BOS	normally\DGA7
+---	DLD	,		=\DELIM
+2971	TOK	such		such\JA
+2972	TOK	precursors		precursor\N5P
+2973	TOK	generate		generate\VMF6R66
+2974	TOK	sperm		sperm\N56
+2975	TOK	throughout		throughout\P
+2976	TOK	a		a\AI---S
+2977	TOK	man		man\N5S
+2978	PGR	's		genmark\GENMARK
+2979	TOK	lifetime		lifetime\N5S
+---	DLD	;		=\DELIM
+2980	TOK	presumably		presumably\DGA7
+2981	TOK	the		the\AT---6
+2982	TOK	donated		donate\VMC----
+2983	TOK	cells		cell\N5P
+2984	TOK	would		will\VOFDA66
+2985	TOK	do		do\VMI----
+2986	TOK	the		the\AT---6
+2987	TOK	same		same\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2988	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2989	TOK	0	EOS	0\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2991	TOK	Substances	BOS	substance\N5P
+2992	TOK	that		that\RW63N6
+2993	TOK	bind		bind\VMF6R66
+2994	TOK	to		to\P
+2995	TOK	certain		certain\JA
+2996	TOK	proteins		protein\N5P
+2997	TOK	on		on\P
+2998	TOK	the		the\AT---6
+2999	TOK	sperm		sperm\N56
+3000	TOK	surface		surface\N5S
+3001	TOK	could		can\VOFDA66
+3002	TOK	block		block\VMI----
+3003	TOK	attachment		attachment\N5S
+3004	TOK	to		to\P
+3005	TOK	the		the\AT---6
+3006	TOK	egg		egg\N5S
+3007	PGR	's		genmark\GENMARK
+3008	TOK	coat	EOS	coat\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3010	TOK	Agents	BOS	agent\N5P
+3011	TOK	that		that\RW63N6
+3012	TOK	block		block\VMF6R66
+3013	TOK	removal		removal\N5S
+3014	TOK	of		of\P
+3015	TOK	cholesterol		cholesterol\N5S
+3016	TOK	from		from\P
+3017	TOK	the		the\AT---6
+3018	TOK	sperm		sperm\N56
+3019	TOK	plasma		plasma\N5S
+3020	TOK	membrane		membrane\N5S
+3021	TOK	could		can\VOFDA66
+3022	TOK	render		render\VMI----
+3023	TOK	sperm		sperm\N56
+3024	TOK	unable		unable\JA
+3025	TOK	to		to\P
+3026	TOK	penetrate		penetrate\VMI----
+3027	TOK	the		the\AT---6
+3028	TOK	egg		egg\N5S
+3029	PGR	's		genmark\GENMARK
+3030	TOK	coat		coat\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3031	TOK	Drugs	BOS	drug\N5P
+3032	TOK	that		that\RW63N6
+3033	TOK	block		block\VMF6R66
+3034	TOK	calcium		calcium\N5S
+3035	TOK	ions		ion\N5P
+3036	TOK	from		from\P
+3037	TOK	entering		enter\VMG----
+3038	TOK	the		the\AT---6
+3039	TOK	sperm		sperm\N56
+3040	TOK	head		head\N5S
+3041	TOK	could		can\VOFDA66
+3042	TOK	render		render\VMI----
+3043	TOK	sperm		sperm\N56
+3044	TOK	unable		unable\JA
+3045	TOK	to		to\P
+3046	TOK	penetrate		penetrate\VMI----
+3047	TOK	the		the\AT---6
+3048	TOK	egg		egg\N5S
+3049	PGR	's		genmark\GENMARK
+3050	TOK	coat		coat\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3051	TOK	Chemicals	BOS	chemical\N5P
+3052	TOK	that		that\RW63N6
+3053	TOK	disrupt		disrupt\VMF6R66
+3054	TOK	the		the\AT---6
+3055	TOK	protective		protective\JA
+3056	TOK	actions		action\N5P
+3057	TOK	of		of\P
+3058	TOK	antioxidants		antioxidant\N5P
+3059	TOK	could		can\VOFDA66
+3060	TOK	cause		cause\VMI----
+3061	TOK	sperm		sperm\N56
+3062	TOK	to		to\P
+3063	TOK	decay		decay\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3064	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3065	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3067	TOK	SPERM	BOS	sperm\N56
+##	TAG	<name>
+3068	TOK	HEAD IS THE TARGET		HEAD_IS_THE_TARGET\N46
+##	TAG	</name>
+3069	TOK	of		of\P
+3070	TOK	many		many\AI---P
+3071	TOK	contraceptive		contraceptive\JA
+3072	TOK	strategies		strategy\N5P
+3073	TOK	under		under\P
+3074	TOK	study		study\N5S
+3075	TOK	for		for\P
+3076	TOK	both		both\RIP3N-
+3077	TOK	sexes	EOS	sex\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3079	TOK	Several	BOS	several\JA
+3080	TOK	approaches		approach\N5P
+---	DLE	(		=\DELIM
+3081	TOK	text		text\N5S
+3082	TOK	blocks		block\N5P
+3083	TOK	at		at\P
+3084	TOK	left		leave\VMF6A66
+---	DLE	)		=\DELIM
+3085	TOK	rely		rely\VMF6R66
+3086	TOK	on		on\P
+3087	TOK	synthetic		synthetic\JA
+3088	TOK	chemicals		chemical\N5P
+---	DLE	(		=\DELIM
+3089	TOK	red		red\JA
+3090	TOK	dots		dot\N5P
+3091	TOK	in		in\P
+3092	TOK	detail		detail\N5S
+3093	TOK	of		of\P
+3094	TOK	plasma		plasma\N5S
+3095	TOK	membrane		membrane\N5S
+---	DLE	)		=\DELIM
+3096	TOK	to		to\P
+3097	TOK	alter		alter\VMI----
+3098	TOK	the		the\AT---6
+3099	TOK	head		head\N5S
+3100	TOK	in		in\P
+3101	TOK	ways		way\N5P
+3102	TOK	that		that\RW63N6
+3103	TOK	would		will\VOFDA66
+3104	TOK	prevent		prevent\VMI----
+3105	TOK	sperm		sperm\N56
+3106	TOK	from		from\P
+3107	TOK	fertilizing		fertilize\VMG----
+3108	TOK	an		an\AI---S
+3109	TOK	egg		egg\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3110	TOK	Scientists	BOS	scientist\N5P
+3111	TOK	are		be\V6FDR66
+3112	TOK	also		also\DGA7
+3113	TOK	trying		try\VMG----
+3114	TOK	to		to\P
+3115	TOK	produce		produce\VMI----
+3116	TOK	contraceptive		contraceptive\JA
+3117	TOK	vaccines		vaccine\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3118	TOK	Such	BOS	such\JA
+3119	TOK	vaccines		vaccine\N5P
+3120	TOK	would		will\VOFDA66
+3121	TOK	induce		induce\VMI----
+3122	TOK	the		the\AT---6
+3123	TOK	immune		immune\JA
+3124	TOK	system		system\N5S
+3125	TOK	of		of\P
+3126	TOK	a		a\AI---S
+3127	TOK	man		man\N5S
+3128	TOK	or		or\CC
+3129	TOK	a		a\AI---S
+3130	TOK	woman		woman\N5S
+3131	TOK	to		to\P
+3132	TOK	produce		produce\VMI----
+3133	TOK	antibody		antibody\N5S
+3134	TOK	molecules		molecule\N5P
+3135	TOK	able		able\JA
+3136	TOK	to		to\P
+3137	TOK	disrupt		disrupt\VMI----
+3138	TOK	sperm		sperm\N56
+3139	TOK	function		function\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3140	TOK	Certain	BOS	certain\JA
+3141	TOK	antibodies		antibody\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+3142	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+3143	TOK	can		can\VOFDR66
+3144	TOK	cause		cause\VMI----
+3145	TOK	sperm		sperm\N56
+3146	TOK	cells		cell\N5P
+3147	TOK	to		to\P
+3148	TOK	clump		clump\N5S
+3149	TOK	together		together\DGA7
+3150	TOK	uselessly		uselessly\DGA7
+---	DLE	(		=\DELIM
+3151	TOK	micrograph		micrograph\N5S
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3152	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3153	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3155	TOK	MOUSE	BOS	mouse\N5S
+##	TAG	<name>
+3156	TOK	TESTIS		TESTIS\N46
+##	TAG	</name>
+3157	TOK	that		that\CS
+3158	TOK	once		once\DGA7
+3159	TOK	made		make\VMF6A66
+3160	TOK	no		no\AI---6
+3161	TOK	sperm		sperm\N56
+3162	TOK	began		begin\VMF6A66
+3163	TOK	manufacturing		manufacture\VMG----
+3164	TOK	it		it\RPS3N6
+3165	TOK	in		in\P
+3166	TOK	quantity		quantity\N5S
+3167	TOK	after		after\P
+3168	TOK	precursor		precursor\N5S
+3169	TOK	cells		cell\N5P
+3170	TOK	from		from\P
+3171	TOK	another		another\JA
+3172	TOK	mouse		mouse\N5S
+3173	TOK	were		be\V6F-A66
+3174	TOK	implanted		implant\VMC----
+3175	TOK	near		near\P
+3176	TOK	the		the\AT---6
+3177	TOK	periphery	EOS	periphery\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3179	TOK	The	BOS	the\AT---6
+3180	TOK	wash		wash\N5S
+3181	TOK	of		of\P
+3182	TOK	color		color\N5S
+3183	TOK	in		in\P
+3184	TOK	the		the\AT---6
+3185	TOK	center		center\N5S
+3186	TOK	is		be\V6FDRS3
+3187	TOK	a		a\AI---S
+3188	TOK	sign		sign\N5S
+3189	TOK	that		that\CS
+3190	TOK	the		the\AT---6
+3191	TOK	transplanted		transplant\VMC----
+3192	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+3193	TOK	which		which\RW63N-
+3194	TOK	were		be\V6F-A66
+3195	TOK	stained		stain\VMC----
+3196	TOK	blue		blue\JA
+---	DLD	,		=\DELIM
+3197	TOK	survived		survive\VMF6A66
+3198	TOK	and		and\CC
+3199	TOK	gave		give\VMF6A66
+3200	TOK	rise		rise\N5S
+3201	TOK	to		to\P
+3202	TOK	sperm		sperm\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

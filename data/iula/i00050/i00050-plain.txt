@@ -1,0 +1,128 @@
+
+March 1996 / Reviews / The Paperless Cubicle
+
+The Paperless Cubicle
+
+Personal document scanning is big. Will Visioneer's PaperPort Vx and Hewlett-Packard's HP ScanJet 4Si handle our personal paper crisis? 
+
+Stanford Diehl 
+
+If you're tired of waiting for the paperless office, you can at least create the paperless cubicle with a low-cost personal document scanner.
+A device category that was jump-started by Visioneer's innovative PaperPort, the personal document scanner doesn't require a radical revamp of corporate work flow, data-input systems, or cultural habits.
+Trim, inexpensive sheet-fed scanners sit on personal desktops, suck in reams of paper, and establish an efficient electronic filing system at a single workstation.
+Think of it as a grass-roots paperless revolution.
+
+As BYTE editors, we go through piles of personal paper each day.
+By using personal scanners to manage our own paper crisis, we've gauged their strengths and weaknesses in handling paper overload.
+We evaluate the trailblazing PaperPort as a representative example.
+Visioneer recently released the PaperPort Vx upgrade. 
+
+Hewlett-Packard has a newer approach to the same problem: its unique HP ScanJet 4Si network scanner, which comes with an older edition (3.0) of the PaperPort software.
+An entire workgroup shares a single ScanJet 4Si, with each workstation running a local copy of the software.
+
+If you want to include color elements in your document/image repository, consider Logitech's PageScan Color (see the sidebar "ScanMan Scans 24-bit Color" ).
+
+Personal PaperPort 
+
+The Visioneer PaperPort is a simple, no-frills solution that does a specific job and does it well.
+It manages your personal paper.
+When you feed in a page, the scanner cranks up, pulls the page through, and scans it.
+The only mechanical adjustment is a sliding cover that changes the paper path from a loop (to drop the paper out in front) to a direct pass-through (to drop the paper out the back--good for business cards and other small items).
+
+It takes about 6 seconds to scan in a full page.
+The image then appears on the PaperPort 3.5 desktop.
+You can drag the scanned image onto PaperPort links at the bottom of the screen.
+If you drop it on the Word icon, PaperPort transparently converts the image into a Word document using the bundled version of OmniPage Lite OCR and then fires up Word with the new file.
+
+Also, you can drop the image on the cc:Mail link and send it to a coworker.
+The coworker will then need the PaperPort software, or a PaperPort Viewer utility, to read the document and add annotations.
+Annotations include sticky notes, highlighting, overlay text, freehand pencil, and straight lines.
+
+From the desktop, you can drag the electronic documents (or images) into folders that live along the left side of the screen.
+Unfortunately, PaperPort doesn't support hierarchical organization (i.e., a folder within a folder).
+A single level of folders is a real drawback when it comes to organizing all that electronic paper. 
+
+Using PaperPort's 2.0 file format, the stored images are fairly compact.
+We found that an 8.5- by 11-inch text document typically consumed from 35 to 55 KB of disk space (turning on the SharpPage feature generates larger files but makes OCR more accurate).
+A 3- by 5-inch, 8-bit gray-scale photo took up about 40 KB, and a business card about 15 KB.
+
+Visioneer's PaperPort Vx is a refreshingly simple idea done right.
+We intend to put it to good use clearing out our piles of personal paper.
+Now if it could only file boxes of software.
+
+If you're familiar with PaperPort, here's what's new with Vx: 
+
+-- 8-bit gray-scale images, for 256 levels of gray (up from 1-bit monochrome)
+
+-- OmniPage Lite, for transparent OCR
+
+-- CardScan SE Business Card Reader software, for scanning business cards
+
+-- PictureWorks Copy Machine software, for making PaperPort and a printer function as a copy machine
+
+-- New links and file types: Lotus Notes and cc:Mail, Microsoft Mail and Exchange, Novell InForms, Xerox TextBridge Pro, Corel Photopaint, Adobe Acrobat, JPEG, and GIF.
+
+Workgroup Scanning 
+
+Hewlett-Packard's new network scanner, the HP ScanJet 4Si, extends the PaperPort model out to the workgroup.
+It connects directly to a NetWare network (3.1x and up) and includes a 20-seat user license for the PaperPort 3.0 software.
+It's a 15-page-per-minute, 300-dot-per-inch, 8-bit flatbed (8.5- by 11.7-inch scan area) scanner with a 50-page document feeder and a 10Base-T or Token Ring connection.
+
+The ScanJet 4Si compresses scanned documents, using G4 and Packbits compression, to its own 135-MB hard drive before sending it over the network for temporary storage on a NetWare server.
+We confirmed HP's claimed performance of approximately 2 1/2 minutes for a 15-page text-mode (1-bit) job.
+
+HP's Windows 3.x software makes NetWare installation and administration easy.
+You run the installation program from any Windows client to install the NetWare loadable module (NLM) and administration utility on a server.
+From the administration utility, you configure the scanner, connect it to other servers, build user lists, and set up print queues to enable copying.
+Workstation users can download drivers, a client version of PaperPort, and a utility for monitoring the scanner's status.
+
+To scan, you scroll to your workstation's name from the ScanJet 4Si's LCD panel, load up to 50 pages in the feeder, select a mode (text, photo, or mixed), hit the start button, and wait for the images to appear on your local PaperPort desktop.
+PaperPort loads if it's not already running, and the scanner remembers individual user settings.
+From that point, you can OCR, fax, print, or drop the image on application links.
+Version 3.0 of the PaperPort software does not include CardScan SE Business Card Reader, PictureWorks Copy Machine, or desktop folders.
+
+That's right: This PaperPort version doesn't let you organize your images into folders.
+All the images share the same PaperPort desktop, so there is no way to organize your stuff beyond stacking pages on top of each other.
+It's sort of like selling a bookcase and charging extra for shelves.
+You'll want to upgrade to version 3.5 of PaperPort ($599 for a 20-user upgrade) for any serious archiving needs.
+
+With a network scanner, your entire workgroup requires only a single hardware device, saving hardware costs and centralizing maintenance.
+And best of all, you can load up to 50 pages at once.
+All the scanned pages will appear on the PaperPort desktop as a single stack, so you may need to perform the time-consuming task of separating the stack into individual documents.
+
+The ScanJet 4Si lets your entire workgroup easily standardize on the PaperPort software.
+Once standardized, the workgroup can share PaperPort documents, route them across the network or as E-mail attachments, annotate them, and establish a work flow by way of PaperPort.
+
+Solutions for a Small Cubicle 
+
+We think the PaperPort Vx is the best general solution for personal paper management.
+For the scanning of smaller documents scattered throughout the day, it proved most convenient.
+
+However, for batch jobs and large documents, the ScanJet 4Si's 50-sheet feeder is well worth the walk to the scanner.
+Price and number of users will then drive your buying decision.
+The combination of a ScanJet 4Si with a 20-user upgrade to PaperPort 3.5 software costs about the same as 10 PaperPort Vx units.
+So, if your installation requires more than 10 users, you should choose the ScanJet 4Si.
+
+PRODUCT INFORMATION HP ScanJet 4Si Ethernet - $2999 Token Ring - $3199 Hewlett-Packard Co. Santa Clara, CA Phone: (800) 722-6538 or (208) 396-2551 Internet: http://www.hp.com Circle 1130 on Inquiry Card.
+PageScan Color - $399 (estimated street price) Logitech, Inc. Fremont, CA Phone: (800) 231-7717 or (510) 795-8500 Fax: (800) 245-0000 (fax back) Circle 1131 on Inquiry Card.
+PaperPort Vx for Windows or PaperPort Vx for Macintosh - $369 (estimated street price) Visioneer, Inc. Palo Alto, CA Phone: (800) 787-7007 or (415) 812-6400 Fax: (415) 855-9750 Internet: http://www.visioneer.com Circle 1132 on Inquiry Card.
+
+Visioneer Paperport Vx 
+
+photo_link (20 Kbytes) 
+
+Personal document scanners should be easy to use and easy on precious desk space. 
+Visioneer's upgraded PaperPort Vx fits snugly between your keyboard and monitor. 
+
+HP ScanJet 4si 
+
+photo_link (25 Kbytes) 
+
+Personal document scanners should be easy to use and easy on precious desk space. 
+Hewlett-Packard's HP ScanJet 4Si doesn't sit on your desk at all. 
+You plug it into your NetWare network and share the hardware across a workgroup. 
+Stanford Diehl is a director of BYTE reviews. 
+Currently, he consults, writes, and works as an administrator of color prepress systems.
+You can reach him on the Internet or BIX at sdiehl@bix.com. 
+
+  Copyright © 1994-1996

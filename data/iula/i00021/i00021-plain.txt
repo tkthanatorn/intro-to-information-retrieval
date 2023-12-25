@@ -1,0 +1,1739 @@
+
+Introduction to TCP/IP
+
+This chapter introduces TCP/IP as well as lists the files and features used by the Novell TCP/IP implementation.
+The following topics are discussed:
+
+
+- "TCP/IP Concepts" 
+
+This section describes the history of TCP/IP and general TCP/IP concepts.
+
+
+- "TCP/IP Subsystem Contents" 
+
+This section lists the NetWare Loadable Module TM (NLM TM ) files and database files.
+
+
+- "TCP/IP Features" 
+
+This section provides a list of Novell's TCP/IP features.
+
+
+TCP/IP Concepts
+
+TCP/IP (Transmission Control Protocol/Internet Protocol) is a popular suite of standard networking protocols.
+These protocols are widely used, enabling dissimilar nodes in a heterogeneous environment to communicate with one another.
+
+The general concept of connecting a network of dissimilar computers arose from research conducted by the Defense Advanced Research Projects Agency (DARPA).
+Within the framework of that research, DARPA developed the TCP/IP suite of protocols to communicate among networks and implemented an internetwork called the ARPAnet , which later evolved into the Internet .
+The TCP/IP suite of protocols defines formats and rules for the transmission and receipt of information independent of any given network organization or computer hardware.
+Although the protocols were developed for the Internet, TCP/IP is now the de facto standard as numerous private and public organizations use it for their networking.
+
+The network, as conceived by DARPA and implemented with the TCP/IP suite of protocols, is a packet-switched network.
+A packet-switched network transmits information on the network in small segments, called packets .
+If one computer transmits a lengthy file to another computer, for example, the file is divided into many packets at the origin and then reassembled at the destination.
+The TCP/IP protocols define the format of these packets.
+This definition includes the origin of the packet, the destination of the packet, the length of the packet, and the type of packet, as well as the way computers on the networks are to receive and retransmit packets.
+
+TCP/IP is a transport subsystem that brings TCP/IP connectivity to the NetWare operating system.
+This subsystem includes a collection of NLM files for NetWare designed to support applications requiring TCP/IP connectivity, such as the NetWare for NFS* (Network File System) product.
+
+TCP/IP routing capabilities allow forwarding of IP traffic from one network to another.
+TCP/IP uses the Routing Information Protocol (RIP), Exterior Gateway Protocol (EGP), or Open Shortest Path First (OSPF) protocol to communicate with other routers.
+This lets all routers in the internetwork discover the internetwork configuration without human intervention.
+
+In addition to routing services, TCP/IP provides transport interfaces for the use of higher-level network services.
+This interface is used by NFS and by third-party applications written for either the 4.3BSD UNIX socket interface or the STREAMS TM Transport Layer Interface (TLI).
+
+TCP/IP supports Ethernet, token ring, FDDI, and ARCNET* networks through the Novell Open Data-Link Interface TM (ODI TM ) specification.
+Therefore, it works with any network adapters of these types supported by a NetWare LAN driver certified for version 3.12 or later.
+
+For more information about TCP/IP and the TCP/IP suite of protocols, refer to Chapter 2, "TCP/IP Concepts." For information about TCP/IP addressing and TCP/IP subnetworking, refer to Chapter 3, "IP Addressing Concepts." 
+
+TCP/IP Subsystem Contents
+
+NetWare 4.1 TCP/IP Subsystem software includes the following NLM and database files:
+
+- NetWare TCP/IP NLM file (TCPIP.NLM)
+
+
+- Simple Network Management Protocol NLM file (SNMP.NLM) 
+
+
+- SNMP Event Logger NLM file (SNMPLOG.NLM)
+
+
+- TCP/IP Console NLM file (TCPCON.NLM)
+
+
+- IP static route Configuration NLM file (IPCONFIG.NLM)
+
+
+- Sample Internet database files (HOSTS, NETWORKS, PROTOCOL, and SERVICES)
+
+
+- ICMP Echo NLM files (PING.NLM and TPING.NLM)
+
+
+- BootP Forwarder NLM file (BOOTPFWD.NLM)
+
+
+- IP Filter support (IPFLT.NLM)
+
+
+- IP Tunnel (IPTUNNEL.LAN)
+
+
+The TCP/IP NLM files are installed in the SYS:SYSTEM directory.
+The Internet database files are installed in the SYS:ETC\SAMPLES directory.
+
+Figure 1-1 shows the TCP/IP Subsystem Overview.
+
+Figure
+
+TCP/IP Subsystem Overview
+
+Figure 1-2 illustrates the architectural relationships of the TCP/IP subsystem.
+
+Figure
+
+TCP/IP Subsystem Architectural Relationships
+
+TCP/IP Features
+
+The TCP/IP software includes the following features:
+
+- TCP/IP Application Support 
+
+
+
+- RIP 
+
+
+- OSPF 
+
+
+- EGP 
+
+
+- Static Routing 
+
+
+
+
+- Router Discovery 
+
+
+
+- Variable Subnetwork Support 
+
+
+- Subnet Zero 
+
+
+
+
+- Directed Broadcast 
+
+
+- BOOTP Forwarding 
+
+
+- TCP/IP Network Management 
+
+
+- Internetworking Configuration Utility 
+
+
+- LAN Connectivity 
+
+
+The rest of this chapter discusses these features in more detail.
+
+TCP/IP Application Support
+
+TCP/IP application support provides a transport interface for the use of higher-level network services.
+This interface is used by NetWare NFS and by third-party applications that are written for either the 4.3BSD UNIX socket interface or the STREAMS Transport Layer Interface (TLI).
+The transport interface provides access to either the Transmission Control Protocol (TCP) or the User Datagram Protocol (UDP) transport services.
+
+IP Routing
+
+TCP/IP's IP routing capabilities allow forwarding of IP traffic from one network to another.
+Routers on a TCP/IP internetwork exchange information about themselves.
+The TCP/IP software supports link state, distance vector, and static routing.
+
+RIP
+
+The Routing Information Protocol (RIP) uses the distance vector algorithm as the basis for routing operations and decisions.
+RIP is a standard protocol that is based on the distance vector algorithm.
+The majority of the TCP/IP sites use RIP.
+
+OSPF
+
+Open Shortest Path First (OSPF) uses the link state algorithm as the basis for routing operations and decisions.
+OSPF is a new IGP protocol that is based on a link state algorithm.
+It is rapidly gaining acceptance in many public and private sites that have large and complex networks.
+
+EGP
+
+The Exterior Gateway Protocol (EGP) is used to exchange routing information between IP internetworks that are under different administrative control.
+
+Static Routing
+
+Static routes are configured manually.
+A static route defines which router to use to reach a remote destination.
+Routers can use static routes instead of, or in addition to, the routes learned from dynamic routing protocols.
+
+Router Discovery
+
+The Router Discovery protocol is used by routers to advertise their presence on a network.
+Hosts can use the router discovery protocol to learn about routers on the network.
+
+Subnetwork Support
+
+TCP/IP allows you to divide your networks into subnetworks for greater ease in administration and troubleshooting.
+
+Variable Subnetwork Support
+
+TCP/IP allows you to divide your networks into variable size subnetworks for greater ease in administration and troubleshooting.
+Usually, these subnetworks have a uniform size and can accommodate the same number of hosts.
+NetWare 4.1 software provides the additional support for different size subnetworks.
+It does this by allowing the use of variable-length subnetwork masks.
+
+Subnet Zero
+
+TCP/IP provides support for subnetwork zero when using the OSPF or RIP II routing protocols.
+These routing protocols include the subnetwork mask and remove the ambiguity between the zero subnetwork and the natural network.
+
+Directed Broadcast
+
+A directed broadcast is sent to all hosts on a particular IP network or subnetwork.
+Some applications use directed broadcasts to find or announce services.
+
+BOOTP Forwarding
+
+BOOTP is a protocol used by some hosts to obtain their IP addresses.
+The host broadcasts a BOOTP request on the local network.
+If the BOOTP server is attached to the same network as the host, it receives the request and replies with a packet that contains the host's address.
+If the server is on a different network, a BOOTP forwarder must direct the broadcast to a BOOTP server and forward the reply to the host.
+The TCP/IP software provides the BOOTPFWD.NLM file, which enables your machine to forward BOOTP request/reply packets between the BOOTP server and BOOTP clients.
+BOOTP forwarding can be configured for use with four different BOOTP servers.
+
+TCP/IP Network Management
+
+You can monitor and troubleshoot your TCP/IP internetwork with SNMP.
+SNMP is the most popular network management protocol in the TCP/IP protocol suite.
+It lets TCP/IP-based network management stations gather information about the configuration and status of nodes on a TCP/IP-based internetwork.
+
+Internetworking Configuration Utility
+
+The Internetworking configuration utility (INETCFG) is a menu-driven utility that simplifies the task of configuring LANs to operate with multiple network protocols.
+INETCFG supersedes the manual use of most LOAD and BIND commands.
+
+INETCFG uses a series of windows, menus, and dialog boxes from which you configure related sets of options.
+This interface enables you to enter names of new configurations, specify protocol and bind options, and override defaults without using the command line.
+
+LAN Connectivity
+
+The TCP/IP software provides connectivity for workstations and servers connected to LAN media such as Ethernet, FDDI, token ring, and ARCNET.
+
+Permanent Connections
+
+Permanent connections can be established during system initialization.
+These connections stay up continually.
+If a link error breaks the connection, it is retried automatically.
+
+ 
+
+TCP/IP Concepts
+
+This chapter contains an overview of the TCP/IP suite of protocols.
+In addition, it discusses using TCP/IP to connect dissimilar computers.
+It highlights the main features of TCP/IP for users familiar with network protocols or networking.
+The following topics are discussed:
+
+
+- "Overview of TCP/IP Protocol Usage" 
+
+This section describes how applications use TCP/IP and the OSI protocol layers to transfer data.
+
+
+- "Internet Protocol" 
+
+This section describes IP datagrams and how they are transmitted.
+
+
+- "Routing" 
+
+This section describes routing, routes, IP addresses, and sending and receiving nodes.
+
+
+- "Error and Control Messages" 
+
+This section describes the Internet Control Message Protocol (ICMP).
+
+
+- "Transport Layer Protocols" 
+
+This section describes the User Datagram Protocol (UDP), which allows applications to exchange packets of information, and the Transmission Control Protocol (TCP), which provides reliable packet transmission.
+
+
+- "Physical and Internet Addresses" 
+
+This section describes physical and Media Access Control (MAC) messages and how TCP/IP protocols translate the destination IP address to the physical address.
+
+
+- "Internet Address to Physical Address Translation" 
+
+This section describes the mapping of the Internet address to the physical address and the address resolution cache.
+
+
+The TCP/IP Suite of Protocols
+
+The protocols in the TCP/IP suite roughly correspond to a network communications model defined by the International Organization for Standardization (ISO).
+This model is called the Open Systems Interconnection (OSI) reference model.
+The OSI model describes an ideal computer network system in which communication on the network occurs between processes at discrete and identifiable layers.
+Each layer on a given host provides services to layers above it and receives services from the layers below it.
+Figure 2-1 illustrates the seven layers of the OSI reference model as defined by ISO, and the roughly corresponding layers of the TCP/IP protocol suite.
+
+Figure
+
+OSI Reference Model and Corresponding TCP/IP Layers
+
+The layering system lets developers concentrate their efforts on the functions in a given layer.
+It is not necessary for them to create all the mechanisms to send information across the network.
+They have to know only what services the software needs to provide to the layer above it, what services the layers below it can provide to the software, and which protocols in the suite provide those services.
+
+Table 2-1 lists some of the more common protocols in the TCP/IP suite and the services they provide.
+
+TCP/IP Protocols
+- Internet Protocol (IP) Provides packet delivery services (routing) between nodes.
+- Internet Control Message Protocol (ICMP) Controls transmission of error and control messages between hosts and gateways.
+- Address Resolution Protocol (ARP) Maps Internet addresses to physical addresses.
+- Reverse Address Resolution Protocol (RARP) Maps physical addresses to Internet addresses.
+- Transmission Control Protocol (TCP) Provides reliable data-stream delivery service between clients.
+- User Datagram Protocol (UDP) Provides unreliable datagram delivery service between clients.
+- File Transfer Protocol (FTP) Provides application-level services for file transfer.
+- TELNET Provides terminal emulation.
+- Routing Information Protocol (RIP) Allows the exchange of distance vector routing information between routers.
+- Open Shortest Path First (OPSF) Protocol Allows the exchange of link state routing information between routers.
+- Exterior Gateway Protocol (EGP) Allows the exchange of routing information between exterior routers.
+
+Overview of TCP/IP Protocol Usage
+
+Applications developed for TCP/IP generally use several of the protocols in the suite.
+The sum of the layers of the protocol suite is also known as the protocol stack .
+User applications communicate with the top layer of the protocol suite.
+The top-level protocol layer on the source computer passes information to the lower layers of the stack, which in turn pass it to the physical network.
+The physical network transfers the information to the destination computer.
+The lower layers of the protocol stack on the destination computer pass the information to higher layers, which in turn pass it to the destination application.
+
+Each protocol layer within the TCP/IP suite has various functions; these functions are independent of the other layers.
+Each layer, however, expects to receive certain services from the layer beneath it, and each layer provides certain services to the layer above it.
+
+Figure 2-2 shows the layers of the TCP/IP suite.
+Each layer of the protocol stack on the source computer communicates with that same layer on the destination computer.
+The layers at the same level on the source and destination computers are peers .
+The application on the source computer and the application on the destination computer are also peers.
+From the perspective of the software developer or user, the transfer takes place as if the peer layers sent their packets directly to one another.
+
+Figure
+
+TCP/IP Protocol Layers
+
+An application for transferring files using TCP, for instance, performs the following operations to send the file contents: 
+
+- The Application layer passes a stream of bytes to the Transport layer on the source computer.
+
+
+- The Transport layer divides the stream into TCP segments, adds a header with a sequence number for that segment, and passes the segment to the Internet (IP) layer.
+The checksum is computed.
+
+
+- The IP layer creates a packet with a data portion containing the TCP segment.
+The IP layer adds a packet header containing source and destination IP addresses.
+The IP layer also determines the physical address of the destination computer or intermediate computer on the way to the destination host.
+It passes the packet and the physical address to the Data-Link layer.
+The checksum is computed again.
+
+
+- The Data-Link layer transmits the IP packet in the data portion of a data-link frame to the destination computer.
+If the destination is an intermediate computer, then Step 3 happens again until the final destination is reached.
+
+
+- At the destination computer, the Data-Link layer discards the data-link header and passes the IP packet to the IP layer.
+
+
+- The IP layer checks the IP packet header.
+If the checksum contained in the header does not match the checksum computed by the IP layer, it discards the packet.
+
+
+- If the checksums match, the IP layer discards the IP packet header and passes the TCP segment to the TCP layer.
+The TCP layer checks the sequence number to determine whether the segment is the correct segment in the sequence.
+
+
+- The TCP layer computes a checksum for the TCP header and data.
+If the computed checksum does not match the checksum transmitted in the header, the TCP layer discards the segment.
+If the checksum is correct and the segment is in the correct sequence, the TCP layer sends an acknowledgment to the source computer.
+
+
+- The TCP layer discards the TCP header and passes the bytes in the segment just received to the application.
+
+
+- The application on the destination computer receives a stream of bytes, just as if it were directly connected to the application on the source computer.
+
+
+The following sections describe these interactions in more detail:
+
+- "Internet Protocol" 
+
+
+- "Routing" 
+
+
+- "Error and Control Messages" 
+
+
+- "Transport Layer Protocols" 
+
+
+- "Physical and Internet Addresses"
+
+
+Internet Protocol
+
+In the TCP/IP protocol suite, all packets are delivered by the IP datagram delivery service.
+Packet delivery is not guaranteed by this service.
+A packet can be misdirected, duplicated, or lost on the way to its destination.
+The service is connectionless because all packets are transmitted independently of any other packets.
+This is in contrast to a telephone network, for instance, where a circuit is established and maintained.
+
+TCP/IP applications using the IP datagram delivery service keep track of the delivery status by expecting to receive replies from the destination node, or by using one of the Transport-layer protocols within the TCP/IP suite.
+
+IP defines the form that packets must take and the ways to handle packets when they are transmitted or received.
+The form the packet takes is called an I P datagram .
+An IP datagram is analogous to a physical frame transmitted on a network.
+A datagram has a header section containing the sender's and the receiver's IP addresses among other information, and a data section.
+Figure 2-3 shows the general form of an IP datagram.
+Each network type transmits IP packets in the data section of its physical frame.
+
+Figure
+
+IP Datagram Structure
+
+When an IP datagram is sent over a network, it is encapsulated in the data portion of the network frame of the physical network.
+Because the length of the network frame is set independently of IP, by the technical requirements of the physical network, an IP datagram might not fit in a network frame.
+Also, in traveling to its destination, a datagram can pass across many different types of networks with different physical network frame lengths.
+Therefore, a router receiving IP datagrams can find the received datagram too big to be forwarded to the next network.
+
+To handle this aspect of packet transmission, IP specifies a method for breaking datagrams into fragments .
+Then the fragments of an IP datagram are reassembled when they arrive at the final destination.
+Reassembling fragments reconstructs the entire IP datagram.
+
+Routing
+
+The term routing refers to the transmission of a datagram from one node to another on the same or a different network.
+The route refers to the paths that are chosen to transmit an IP datagram from its origin to its destination, based on the IP addresses contained in the datagram.
+
+Within a network, a node sending an IP datagram can perform the following actions directly:
+
+- Query all the other nodes on the network for the physical address corresponding to an IP address
+
+
+- Encapsulate the IP datagram in a physical frame containing that physical address
+
+
+- Send the encapsulated IP datagram directly to the destination node's physical address on the network
+
+
+When a datagram is sent to a node on another network, the network portions of the originating IP address and the destination IP address are different.
+The sending node recognizes this difference and sends the packet to the router that connects the originating network with other networks, as shown in Figure 2-4 .
+Two networks can be connected only if one router is attached to both networks and can pass data in a form that is compatible with both networks.
+
+Figure
+
+Network Router
+
+The sending node has a table of IP addresses for one or more computers on the network that serve as routers to other networks.
+It looks for the IP address of a router in its table and broadcasts an ARP request to the router for the physical address of the router.
+It then sends the packet containing the IP datagram to the router's physical address.
+When the router receives the IP datagram, it uses the IP address in the datagram to send the packet to its final destination in a similar manner.
+If needed, the router sends the packet to the address of another router that can route the packet to its destination.
+
+Error and Control Messages
+
+Another protocol in the TCP/IP suite is the Internet Control Message Protocol (ICMP).
+ICMP packets contain information about failures on the network: inoperative nodes and gateways, packet congestion at a gateway, and so on.
+The IP software, rather than the application, interprets an ICMP message.
+The IP software then takes the appropriate action with respect to the ICMP message independently of the application.
+Because an ICMP message might need to travel across several networks to reach its destination, it is encapsulated in the data portion of an IP datagram.
+
+ICMP is also used to test connectivity between two nodes.
+The originating node sends an ICMP echo request or PING and waits for an ICMP echo response from the destination.
+
+Transport Layer Protocols
+
+The Transport layer of the TCP/IP protocol suite consists of two protocols: the User Datagram Protocol (UDP) and the Transmission Control Protocol (TCP).
+UDP provides an unreliable connectionless delivery service to send and receive messages from specific processes on the sending and receiving nodes.
+TCP adds reliable byte stream-delivery services on top of the IP datagram delivery service.
+
+UDP
+
+Within the TCP/IP suite, UDP allows applications to exchange individual packets of information over a network.
+
+UDP defines a set of destinations as protocol ports .
+The protocol also defines two types of protocol ports: well-known port assignments and dynamically bound ports .
+In the case of well-known port assignments, certain UDP port numbers are reserved for certain applications.
+The ports numbered between 1 and 255 are well-known port numbers and are assigned to certain widely used applications.
+All UDP applications use those same port numbers in the same way.
+In the case of dynamically bound ports, an application requesting services from a process must query the node first to identify which port the process uses.
+It can then direct UDP datagrams to that port.
+
+UDP allows multiple clients to use the same port number and different IP addresses.
+The arriving UDP datagrams are delivered to the client that matches both the port number and destination address.
+If there is no matching client, the packet is dropped.
+
+The UDP datagram is encapsulated in one or more IP datagrams that are, in turn, encapsulated in physical frames.
+Figure 2-5 shows a UDP datagram encapsulated in an IP datagram, which is, in turn, encapsulated in an Ethernet frame.
+Figure 2-5 also illustrates how the concept of layering , discussed at the start of this chapter, affects the construction of packets sent across the network.
+
+Figure
+
+UDP Datagram Encapsulation
+
+In this example, the IP address directs the IP datagram to the correct node.
+At that destination, the IP software extracts the UDP datagram and delivers it to the UDP-layer software.
+The UDP-layer software delivers the UDP data and control information to the destination protocol port it specifies.
+The process at that port uses the data in the UDP datagram.
+The UDP datagram also contains a source protocol port so the destination process can reply correctly.
+
+TCP
+
+For applications that must send or receive large volumes of data, unreliable datagram delivery can become burdensome.
+Application programmers might have to develop extensive error handling and status information modules to track the progress and state of data transfer for every application.
+The TCP/IP suite of protocols avoids this problem by using TCP, a reliable byte stream-delivery protocol .
+TCP establishes a connection between two applications and sends a stream of bytes to a destination in exactly the same order that they left the source.
+Before transmission begins, the applications at both ends of transmission obtain a TCP port from their respective operating systems.
+These are analogous to the ports used by UDP.
+The application initiating the transfer, known as the client side, generally obtains a port dynamically.
+The application responding to the transfer request, known as the server side, generally uses a well-known TCP port.
+The client side is typically the active side and initiates the connection to the passive server side.
+
+Like the UDP datagrams, TCP segments are encapsulated in an IP datagram.
+TCP buffers the stream by waiting for enough data to fill a large datagram before sending a datagram.
+The stream is unstructured , which means that before transmission of data, both the sending and receiving applications must agree on the meaning of the contents of the stream.
+The TCP protocol uses full-duplex transmission.
+Full duplex means two data streams can flow in opposite directions simultaneously.
+Thus, the receiving application can send data or control information back to the sending application while the sending application continues to send data.
+
+The TCP protocol gives each segment a sequence number.
+At the receiving end of the connection, the application checks successive sequence numbers to ensure that all the segments are received and processed in the order of the sequence numbers.
+The receiving end sends an acknowledgment to the sender for the segments received.
+TCP allows the sender to have several segments outstanding before the receiver must return an acknowledgment.
+When the sending node gets the acknowledgment, it indicates to the application that data sent last was sent (IP Addressing Concepts).
+
+This chapter describes assigning network addresses and subnetwork addresses.
+The following topics are discussed:
+
+- "Assigning IP Network Addresses" 
+
+This section describes how to obtain and assign IP addresses as well as the various IP address classes.
+
+
+- "Creating Subnetworks" 
+
+This section presents reasons for dividing your network into smaller networks and describes communication between subnetworks.
+
+
+Assigning IP Network Addresses
+
+An IP address is necessary for a node to communicate with other nodes using the TCP/IP protocol suite, including nodes on other private networks as well as those on the Internet.
+Your network address could be determined in one of the following ways: 
+
+- DDN Network Information Center
+- 14200 Park Meadow Dr., Suite 200
+- Chantilly, VA 22021
+- USA
+
+
+
+- If your network is not part of the Internet community, you can choose an arbitrary IP network address.
+
+- The network portion of each address must agree with the network address.
+For example, all nodes on the 129.47 network must use the 129.47 network address.
+
+
+- The IP address for each node must be unique within your network.
+
+
+
+
+The rest of this section describes how to select an address class.
+
+IP Address Classes
+
+Each 4-byte IP address is divided into two parts:
+
+- A network portion, which identifies the network
+
+
+- A host portion, which identifies the node 
+
+
+IP addresses are differentiated into three classes based on the two most significant bits of the first of four bytes.
+This is done so that routers can extract the network portion of the address efficiently.
+
+This division can fall at one of three locations within the 32-bit address.
+These divisions correspond to the three IP address classes: Class A, Class B, and Class C.
+Regardless of address class, all nodes on any single network share the same network portion; each node has a unique host portion.
+
+Class A Addresses
+
+A Class A IP address consists of a 1-byte network portion followed by a 3-byte host portion.
+The highest-order bit of the network portion is always set to 0.
+Thus, within an internetwork, there can be a total of 126 Class A networks (1 through 126), with more than 16 million nodes in each (networks 0 and 127 are reserved).
+
+For example (`n' = network address and `h' = host address): 
+
+Class A 0nnnnnnn.hhhhhhhh.hhhhhhhh.hhhhhhhh 
+
+(7 bits of network address, 24 bits of host address)
+
+Class B Addresses
+
+A Class B IP address consists of a 2-byte network portion followed by a 2-byte host portion.
+The two highest-order bits of the network portion are always set to 10.
+Thus, within a single internetwork there can be approximately 16,000 Class B networks (128.x through 191.x), with more than 65,000 nodes in each.
+
+For example (`n' = network address and `h' = host address): 
+
+Class B 10nnnnnn.nnnnnnnn.hhhhhhhh.hhhhhhhh 
+
+(14 bits of network address, 16 bits of host address)
+
+Class C Addresses
+
+A Class C IP address consists of a 3-byte network portion followed by a 1-byte host portion.
+The three highest-order bits of the network portion are always set to 110.
+Thus, within a single internetwork, there can be approximately 2 million Class C networks (192.x.x through 223.x.x), with up to 254 nodes in each.
+
+For example (`n' = network address and `h' = host address): 
+
+Class C 110nnnnn.nnnnnnnn.nnnnnnnn. hhhhhhhh 
+
+(21 bits of network address, 8 bits of host address)
+
+Identifying Network Classes
+
+When the first byte of an IP address fits in the range listed below, it identifies which of the three network classes that address belongs to:
+- 1-126 (1.h.h.h-126.h.h.h) Class A
+- 128-191 (128.n.h.h-191.n.h.h) Class B
+- 192-223 (192.n.n.h-223.n.n.h) Class C
+
+An IP address beginning with 154 is a Class B address, with the first two bytes of the address representing the network portion of the address and the last two representing the host portion.
+For example, an IP address of 154.1.0.3 means the IP network portion is 154.1.0.0, and the host portion on that network is &num;.&num;.0.3.
+
+The network portion of an IP address should be the same for all nodes on that network.
+The network interface in the server that is connecting to network 89.0.0.0 must have a unique IP host address assigned to it, such as 89.0.0.254.
+
+The key to selecting a number for the host portion of the IP address is to ensure that the number selected is unique; that is, that no other host on the network has the same IP address.
+
+Selecting an Appropriate Address Class
+
+When selecting an IP address class, you must decide on both network numbers and host address portions.
+Because the first one, two, or three bits of the IP address determine how the entire address is to be interpreted and where the division between network address and host address portion is to occur, you should know the consequences of your choice.
+When deciding on a network class, you should consider the number of nodes to be supported on your TCP/IP network and the number of networks you plan to configure.
+
+For example, if you use Class C addresses (the first three bits of the IP address are 110 binary), then you are restricted to 254 nodes on your network.
+
+Reserved IP Addresses
+
+The IP addressing rules reserve the following types of IP addresses for special purposes:
+
+- Network addresses.
+These are IP addresses in which the host portion is set to all zeros.
+For example, 129.47.0.0 is the network address (or network number) for a Class B network.
+These are addresses of networks rather than nodes on a network.
+By convention, no node is ever assigned a host portion consisting of all zeros.
+
+
+- Broadcast addresses.
+These are addresses in which the host portion is set to all ones.
+A packet with a broadcast address is destined for every node on the network.
+By convention, no node is ever assigned a host portion consisting of all ones.
+
+
+- Loopback addresses.
+The network address 127.0.0.0, and all host addresses on that network, for example 127.0.0.1, are reserved.
+
+
+- Reserved addresses.
+These are addresses in which the network portion consists of all zeros or all ones.
+
+
+Creating Subnetworks
+
+One Internet network (at a single Internet network address) can be divided into one or more smaller networks.
+Listed below are some reasons to divide your network:
+
+- To use multiple media.
+It can be impossible, inconvenient, or too expensive to connect all nodes to a single network medium when these nodes are too far apart or already connected to different media.
+
+
+- To reduce congestion.
+Traffic between nodes on a single network uses network bandwidth.
+As a result, more bandwidth is required when you have more nodes.
+Splitting nodes into separate networks reduces the number of nodes on a network.
+If nodes on a single, smaller network speak mostly to other nodes on the same network, congestion is reduced.
+
+
+- To reduce CPU use.
+Reduction of CPU use on connected nodes is similar to reducing congestion.
+More nodes on a network cause more broadcasts on that network.
+Even if a broadcast is not sent to a particular node, each node on a network must react to every broadcast before deciding to accept it or discard it.
+
+
+- To isolate a network.
+By splitting a larger network into smaller networks, you limit the impact of one network's problems on another.
+Such problems can include network hardware failure, such as an open Ethernet tap, or software failures, such as a broadcast storm.
+
+
+- To improve security.
+On a broadcast network medium such as Ethernet, each node on a network has access to all packets sent on that network.
+By allowing sensitive network traffic only on one network, other network monitors can be prevented from accessing this sensitive traffic.
+
+
+- To make efficient use of IP address space.
+If you are assigned a Class A or B network number and have multiple, small physical networks, you can divide the IP address space into multiple IP subnetworks and assign them to individual physical networks.
+Using this method, you do not have to obtain more IP network numbers for each physical network.
+
+
+Subnetwork Addresses and Masks
+
+Each subnetwork functions as if it were an independent network.
+To remote networks, however, the subnetworks collectively appear to be a single, discrete network.
+This means that the local network needs only one IP network address and that remote networks do not need to pay attention to the location of a node on a particular subnetwork.
+
+Communication between a node on a local subnetwork and a node on a different subnetwork is similar to communication between nodes on two different networks.
+To a user, routing between subnetworks is transparent.
+Internally, the IP software recognizes any IP addresses that are destined for a subnetwork and sends those packets to the router on that subnetwork.
+
+As in network-to-network communication, the routing information for subnetwork communication between subnetworks is maintained in the routing table (by IP) for each node or router.
+In the case of subnetworks, however, the information consists of the network address and the subnetwork address.
+
+When a network is divided into subnetworks, the host address portion of the IP address is divided into two parts, just as the IP address itself is divided into two parts.
+The host address portion specifies both the subnetwork of the IP network and the node on that subnetwork.
+
+Therefore, the 4-byte IP address has the following portions: 
+
+For instance, if a network has the Class B IP network address portion 129.47, the remainder of the IP address can be divided into subnetwork addresses and host addresses.
+This division is controlled by the local network to allow the most flexibility for network development at the local site.
+For example, the subnetwork address could comprise four bits of the remaining two bytes.
+This allows 15 subnetworks, each with 4094 nodes.
+In another example, the subnetwork address could comprise eight bits, allowing 254 subnetworks (a subnetwork address of all ones is not valid), each with 254 nodes.
+
+NetWare 4.1 supports the use of all zeros in the subnetwork field (subnet zero).
+However, a subnetwork field with all ones denotes all subnets of a particular network; therefore, all ones for a subnetwork cannot be used as a local IP address.
+
+Figure 3-1 shows a single IP network divided into two subnetworks.
+The router shown has physical attachments and IP addresses on both subnetworks (129.47.128.1 and 129.47.192.1).
+It might also have physical devices and IP addresses (nn.nn.nn.nn ) connecting it to other networks.
+
+Figure
+
+Network with Two Subnetworks
+
+A subnetwork mask indicates how the host portion of the IP address is divided into subnetwork addresses and local host address portions.
+The network mask is a 32-bit number with all ones for all network and subnetwork address portions of the complete IP address and all zeros for host address portions.
+With a Class B IP network address portion of 129.47 and a 4-bit subnetwork address, for instance, the subnetwork mask consists of 20 ones and 12 zeros.
+In essence, a subnetwork mask extends the network address portion of an IP address locally.
+Figure 3-2 shows examples of IP network addresses, their relationship to the subnetwork mask, and the corresponding subnetwork.
+
+Figure
+
+Subnetwork Mask and IP Addresses
+
+Subnet Zero
+
+Subnet zero is a subnetwork with all of the bits in the subnetwork field of the IP address set to 0.
+For example, subnetwork 130.57.0 with a mask of 255.255.240.0 is a subnetwork zero of network 130.57.
+See Figure 3-3 .
+
+Figure
+
+Subnet Zero
+
+The official IP specification reserves the subnet zero addresses and does not allow them to be used as a subnetwork address.
+However, this policy wastes one subnetwork in the IP address space.
+To counteract this limitation, Novell's TCP/IP allows the use of subnetwork zero.
+
+Variable Size Subnetworks
+
+A subnetwork of a network can be further divided into smaller units, called variable size subnetworks .
+These subnetworks are called variable because the size, or length, of the subnetwork varies from subnetwork to subnetwork.
+When the length of the subnetwork mask increases, the size of the subnetwork decreases because the IP address has a fixed size of 32 bits.
+
+A subnetwork mask defines the number of bits that can be used to define the subnetwork and the number of bits to define the host.
+As the subnetwork mask increases, the number of hosts on a subnetwork decreases.
+As the subnetwork mask decreases, the number of hosts that can be defined increases.
+
+Some network configurations have individual subnetworks with a large number of hosts and other subnetworks with a small number of hosts.
+Using the same subnetwork masks on all subnetworks can mean either of the following:
+
+- The mask is too small and you do not have enough subnetwork numbers for all of your subnetworks
+
+
+- The mask is too big and you do not have enough host IDs for all of your hosts on a subnetwork.
+
+
+If the mask is too small or too big, use a variable size subnetwork.
+By varying the subnetwork mask used on a network, you can match the number and size of subnetworks to your configuration.
+
+For example, the subnetwork 1 of network 130.57 with mask 255.255.240.0, 130.57.16.0, can be further divided into 16 sub-subnetworks with 256 hosts each.
+(Actually, that creates 15 sub-subnetworks with 254 hosts each because subnetwork 16, host 0, and host 255 are not used.)
+
+130.57.16.0 10000010.00111001.00010000.00000000 subnetwork 1
+
+130.56.17.0 10000010.00111001.00010001.00000000 sub-subnetwork 1
+
+OSPF AND RIPII understand subnetwork masks and support variable size subnetworks.
+RIP does not work when the network is partitioned into variable length subnetworks, because RIP does not understand subnetwork masks.
+
+Assigning Subnetwork Addresses
+
+The method of assigning subnetwork addresses described in this section summarizes the method suggested in RFC 1219, "On the Assignment of Subnetwork Numbers." For a complete description of this method, refer to RFC 1219.
+
+Because RIP packets do not carry subnetwork mask information, the RIP routing protocol imposes several restrictions on the use of subnetworks.
+If you are using RIP, use the same subnetwork mask for all subnetworks belonging to the same network.
+Using RIPII lifts this restriction.
+
+If you are installing the NetWare 4.1 software on a network with subnetworks, use the subnetwork mask already established for the network.
+
+Subnetwork addresses and host addresses are typically assigned in numeric order, where both the subnetwork and host addresses are assigned from the left edge of their field.
+By this method, the border between the subnetwork address and the host address becomes fixed when the first subnetwork (subnetwork address = 1) is assigned.
+If the number of hosts on a subnetwork or the number of subnetworks required exceeds the limits of the subnetwork mask, this method makes it difficult to adjust the subnetwork mask, because each host must be renumbered.
+
+To prepare for changes in the size of the subnetwork mask, RFC 1219 suggests that subnetworks be assigned from the left of the subnetwork address field, and that hosts be assigned, in numeric order, from the right of the host address field.
+In this way, the subnetwork bits become a mirror image of the host bits.
+(You must still choose an initial subnetwork mask and use it for all subnetworks in the network.) For example, to apply this method to a Class B IP network with a subnetwork mask of 255.255.255.0, you assign subnetwork addresses as follows:
+- 1000 0000 (Decimal 128)
+- 0100 0000 (Decimal 64)
+- 1100 0000 (Decimal 192)
+- 0010 0000 (Decimal 32)
+- ... 
+
+Then, you assign host addresses on each subnetwork as follows: 
+- 0000 0001 (Decimal 1)
+- 0000 0010 (Decimal 2)
+- 0000 0011 (Decimal 3)
+- 0000 0100 (Decimal 4)
+- ... 
+
+Using this method leaves a buffer zone between the subnetwork and host addresses, which allows for future network growth.
+The following table shows the relationship of the buffer zone to the subnetwork address and the host address:
+
+Table
+
+Subnetwork Address .
+Buffer Zone .
+Host Address .
+
+
+1's and 0's .
+0's .
+0's and 1's .
+
+
+Therefore, if the number of subnetworks or the number of hosts on a subnetwork changes, you can easily select a new subnetwork mask for the network.
+
+Broadcast Addresses
+
+There are three types of broadcast addresses: network broadcasts, subnetwork broadcasts, and broadcast addresses.
+A network broadcast has a destination IP address with the network portion of the IP address set to Class A, B, or C network, and the host field set to all ones.
+Directed network broadcasts are sent to all hosts on the specified network.
+
+If the network is divided into subnets, each subnetwork has a subnetwork broadcast.
+A subnetwork broadcast has an IP address with the network field set to the network identifier, the subnetwork field set to the subnetwork identifier, and the host field set to all ones.
+
+Generally, broadcasts are not forwarded.
+Network and subnetwork broadcast are forwarded to a destination network, or subnetwork for subnetwork broadcasts, by the intervening routers when you enable the fowarding of directed broadcasts.
+
+An IP address with both the subnetwork and host field set to all ones, is interpreted as a broadcast (TCP/IP Routing Protocol Concepts).
+
+This chapter describes routing topologies and protocols in general, plus the specific protocol mechanisms and concepts of the TCP/IP routing protocols.
+The following topics are discussed: 
+
+- "Advantages of Dynamic Routing" 
+
+This section describes the advantages of dynamic routing as compared to static routing.
+
+
+- "Routing Topologies and Protocols" 
+
+This section describes Autonomous Systems (ASs) and how information is communicated within and between ASs.
+
+
+- "RIP (Routing Information Protocol)" 
+
+This section describes RIP and the advantages and disadvantages of using this protocol.
+
+
+- "OSPF (Open Shortest Path First)" 
+
+This section describes OSPF and the advantages and disadvantages of using this protocol.
+
+
+- "Interactions Between OSPF and Other Routing Protocols"
+
+This section describes the interactions of OSPF with other routing protocols.
+
+
+- "EGP (Exterior Gateway Protocol)" 
+
+This section describes EGP and the advantages and disadvantages of using this protocol.
+
+
+- "Router Discovery Protocol" 
+
+This section describes the Router Discovery Protocol and the advantages and disadvantages of using this protocol.
+
+
+- "Static Routes" 
+
+This section describes static routes and when it is appropriate to use this method of routing.
+
+
+Advantages of Dynamic Routing
+
+For TCP/IP to perform routing functions, it must have access to current information about available routes.
+Such information is usually maintained in a routing table, where individual entries specify the following:
+
+- Address of a final destination
+
+
+- Address of the next router along the route to the destination 
+
+
+- Some sort of cost of reaching the destination (such as distance or number of hops)
+
+
+The entries in the routing table can be made manually, or they can be made dynamically through the use of routing protocols.
+Manual entries, called static routes , have the disadvantage of becoming outdated.
+Any change in the network (such as a failure or the addition of a new node) requires manual intervention to reconfigure the static routes on all routers that have access to the affected area.
+Given the dynamic nature of most networks, the manual maintenance of static routing tables is usually confined to special circumstances.
+
+For most networks, the only way to respond to changes in the network fast enough to maintain connectivity is to use a routing protocol.
+A routing protocol dynamically detects a change in the network and updates all affected routing tables accordingly.
+The protocol does this much faster than a person could using static routing.
+
+Routing Topologies and Protocols
+
+The largest unit in an internet topology is an autonomous system (AS).
+An AS is a collection of networks and routers that exchange routing information using a routing protocol, such as RIP or OSPF.
+The routing protocols used within an AS are called Interior Gateway Protocols (IGPs).
+Routers within an AS generally share routing information with each other freely.
+However, the routing information that is shared with other ASs is generally restricted.
+Routers in different ASs use an exterior routing protocol, such as Exterior Gateway Protocol (EGP), to share information.
+See Figure 4-1 .
+
+Gateway is an older term for router .
+
+Figure
+
+Connecting Two Autonomous Systems
+
+Interior Gateway Protocols
+
+Novell supports two IGP protocols: RIP and OSPF.
+RIP is a standard protocol that is based on the distance vector algorithm.
+The majority of the TCP/IP sites still use RIP.
+OSPF is a newer IGP protocol that is based on a link state algorithm.
+OSPF is rapidly gaining acceptance in many public and private sites that have larger and more complex networks.
+When installing existing RIP sites, Novell's software allows both protocols to coexist and share routing information.
+
+Exterior Gateway Protocols
+
+Exterior routing protocols, such as EGP, exchange information between different ASs.
+Novell supports EGP as its only exterior gateway protocol.
+A border gateway gets the routing information regarding its own AS through a local IGP protocol.
+Then it uses EGP to share that information with other border gateways.
+
+RIP (Routing Information Protocol)
+
+RIP is a distance vector protocol.
+A RIP router periodically broadcasts a routing update message that contains an entry for each network it can reach and the cost to that network.
+RIP routers listen to all RIP broadcast messages.
+Each entry in a received routing update message is added to the local routing table.
+The router that sends the routing update message is remembered as the next router or hop on the route to the network in the entry.
+If a router learns about two routes to a network, it keeps the one with the lower cost.
+Cost is often defined in RIP in terms of hop count, or the number of routers along the path to the destination.
+RIP allows a maximum cost or hop count of 15.
+
+Once a route is learned it must be refreshed at certain intervals, thereby ensuring that the route is still valid.
+RIP routers usually broadcast a routing update message containing known routes every 30 seconds.
+A timer is started when a route is learned from a routing update message.
+If subsequent routing update messages do not refresh the route within 180 seconds, the route is assumed to be unusable.
+Then the route is removed from the routing table.
+
+RIPII is an enhancement to RIP; it includes the subnetwork mask in its routes.
+The lack of subnetwork mask information limits RIP to advertising only network routes, or requires RIP routers to make assumptions about the subnetwork mask.
+When RIP is used in a network with subnetworks, all the subnetworks are usually required to use the same subnetwork mask.
+
+RIPII can be used in network topologies requiring variable length subnetwork masks and it can support subnet zero.
+RIPII can also authenticate routing message exchanges.
+RIPII uses multicast addresses instead of broadcast addresses.
+Not all RIP routers support RIPII.
+
+RIP Concepts
+
+Because RIP cannot detect or correct routing loops, routes learned with RIP that exceed 15 hops are invalid.
+This means that any given source and destination on your network cannot be separated by more than 15 hops.
+This hop count limit can make RIP impractical for large networks.
+
+RIP routers can also experience inconsistencies in their routing tables.
+This is due to how long it takes for all of the RIP routing tables to synchronize with each other when a change or convergence time occurs in the network.
+The most serious reason for RIP's slow convergence, known as the count-to-infinity problem, is illustrated in the scenario shown in Figure 4-2.
+
+Figure
+
+Slow Convergence with RIP
+
+In Figure 4-2, the arrows show the route to destination D.
+Router R2 has learned its route to destination D from router R3.
+If R3's link to destination D goes down, R3 drops the route to D from its routing table.
+Since R2 still has a valid route to D that it learned from R3, R2 will send a RIP update to R3 stating that it can reach destination D at a cost of two hops.
+R3 calculates that it can reach destination D in three hops, one hop to reach R2 and then two more hops to destination D.
+Then R3 enters a new route to destination D into its routing table.
+
+This process creates a routing loop.
+In this scenario, any data packet that is destined for destination D, received by either R3 or R2, is routed back and forth until its time-to-live counter expires.
+
+As R3 and R2 continue to update each other, the updating process takes some time to resolve.
+Since R2 does not learn the route to D with a cost of 1 from R3 any more, its route to D with a cost of 2 eventually expires.
+Then R2 learns that R3's distance from destination D is three, and it calculates a new cost for its route to destination D, with a cost of four.
+In the next round, R3 increases its cost to five.
+Both routers continue to increase their cost to destination D until a cost of 16 is finally reached.
+This synchronization of routing tables can take several minutes.
+
+Novell employs several techniques for solving slow convergence caused by the count-to-infinity problem: NetWare TCP/IP Split Horizon, Poison Reverse,and Triggered Updates.
+
+Split Horizon and Poison Reverse
+
+Split Horizon is enabled automatically.
+With this feature, routes are not propagated back onto the same interface from which they are learned.
+To solve the problem shown in Figure 4-2, Split Horizon prevents R2 from advertising a route for destination D to R3.
+See Figure 4-3 .
+Because R3 does not receive misleading information about the route to D, it does not update its routing table with a route to D through R2.
+R3 stops advertising a route to D; consequently, R2 eventually times out its route to D.
+
+Figure
+
+Split Horizon
+
+Split Horizon without Poison Reverse does not solve the slow convergence problem if more than two routers are involved in the routing loop.
+For example, one scenario occurs when R3 is one hop away from destination D and routers R1 and R2 are two hops away from destination D.
+If the link to destination D goes down, R3 learns that destination D is unreachable and stops advertising to R1 and R2.
+
+The Split Horizon rule does not allow R1 or R2 to tell R3 about its distance to destination D.
+As a result, R1 and R2 might conclude that destination D is reachable due to the following scenario.
+
+R1 and R2 do not learn the route to D any more.
+So the route to D on both routes times out.
+Suppose the route to D times out on R1 before it does on R2.
+Within the time that R2 has the route but R1 does not, if R2 advertises the route to R1, R1 takes it and concludes it is three hops from destination D (based on information from R2 that it is two hops from D).
+Then R1 informs R3 that it is three hops from D.
+R3 assumes that it is four hops from D, and that D is in the direction of R1.
+The route with a cost of two eventually times out on R2.
+Since R3 informs R2 that it is four hops from D, R2 concludes that it is five hops from D and adds a new route for D with a cost of 5.
+The loop continues.
+
+The count-to-infinity problem still exists in this loop of three routers.
+This problem can be avoided by designing your network not to have loops of three routers or using triggered updates.
+
+With Poison Reverse, instead of not being propagated, routes that are learned from an interface are advertised with a cost of 16 on the same interface from which they were learned.
+
+Triggered Updates
+
+Triggered Updates cause the router to send a RIP update as soon as a new route is learned or an existing route is lost or changed.
+The triggered update contains only the affected routes, for example, the route with a cost of 16 if it is lost, or with a new cost if it is changed, or a new route.
+This way the router minimizes the amount of time it holds on to outdated routes.
+To solve the slow convergence problem shown in Figure 4-2 ,Triggered Updates causes R3 to advertise destination D as unreachable as soon as the last connection to destination D is deleted.
+
+Subnetting with RIP
+
+RIP cannot fully support subnetting because it does not include subnetwork mask information in its advertisements (although RIPII can support subnetting).
+However, a RIP router can derive subnetwork mask information from its interfaces.
+By assuming that the subnetwork masks are fixed for all subnetworks of the same network, RIP applies the derived subnetwork mask to all remote subnetworks in the same network.
+
+This method of subnetwork support requires a fixed subnetwork mask for a given network.
+As a result, RIP does not support variable length subnetwork masks.
+(See "Variable Size Subnetworks." ) In addition, the subnetwork mask information derived from the interface is applied only to the network to which the interface belongs.
+Subnetwork information from remote networks is not available to the RIP router.
+Consequently, RIP does not support subnetworks of remote networks.
+
+Because the RIP routers external to the network do not know the subnetworks used within a network, RIP requires that all subnetwork routes are aggregated into a single network route when they are advertised externally.
+To accomplish this, all subnetworks must be contained within a single network boundary.
+
+OSPF (Open Shortest Path First)
+
+OSPF is a link state routing protocol.
+Link state routers exchange information about the state of their network connections or links.
+Using this information, each router can construct the topology of the internetwork and derive routing information.
+
+Unlike RIP, OSPF does not have the count-to-infinity problem.
+Therefore, its metric does not have to be limited to 16.
+An OSPF metric can be as large as 65535.
+With a larger metric, you can build a larger internetwork.
+In addition, this allows you to assign a wide range of costs for different types of networks based on characteristics such as bandwidth.
+
+OSPF also converges on the common routing information faster than RIP does.
+This is because OSPF does not have the count-to-infinity problem and OSPF link state information is flooded instantaneously rather than processed on each hop, as in RIP.
+The faster convergence prevents loss of connectivity and temporary routing loops.
+
+Finally, OSPF generates less traffic.
+Unlike RIP, which requires periodic updates, OSPF routers update their link state information only when the link state changes, or every 30 minutes, as opposed to 30-second RIP updates.
+Consequently, more bandwidth is available to the data traffic.
+
+For more information about the OSPF protocol, refer to RFC 1583.
+
+OSPF Topology
+
+OSPF areas are connected in a hierarchical manner.
+The OSPF AS can be partitioned into different regions, called areas.
+When divided into areas, there must be a special area called the backbone area.
+All OSPF areas are then connected to the backbone area .
+The backbone area is represented in Figure 4-4 by area 0.
+
+Routers that attach an area to the backbone area are called area border routers .
+An area border router has at least one interface in a nonbackbone area and one interface in the backbone area.
+
+OSPF routers can exchange information with other ASs or domains running a different routing protocol, such as EGP or RIP.
+The exchanges between routing protocols are performed by the gateway at the border of the OSPF domain.
+This gateway is called an Autonomous System Boundary Router, or ASBR.
+An ASBR must be running EGP or RIP, as well as OSPF, to learn routing information from other domains or ASs.
+It then disseminates that information throughout the OSPF domain for the OSPF routers.
+See Figure 4-4 .
+
+Figure
+
+OSPF Areas
+
+Area Partitioning
+
+As the OSPF domain gets larger, the probability of link state change also increases because it includes more routers and networks.
+Consequently, each link state change causes route recomputation on all routers, increasing the burden on the CPU.
+In addition, each computation of a route takes longer because there are more destination networks for which to compute.
+When the OSPF domain gets too large, you might want to partition it into multiple areas to reduce the burden on the CPU.
+Novell recommends that you limit the size of an area to include less than 200 routers.
+
+Partitioning the OSPF domain into areas provides several advantages.
+It permits administrative separation of different geographical or organizational groups, such as engineering and marketing.
+Creating areas allows you to limit the sharing of routing information between areas, making a particular area more secure.
+In addition, it reduces the number of Link State Advertisements (LSAs) in the area and allows you to isolate an area with frequent topological changes.
+
+Area Border Routers
+
+Area border routers (ABRs) share information that advertises destinations through the backbone area into the nonbackbone area.
+In addition, ABRs share information that advertises destinations through the nonbackbone area into the backbone area.
+These are called summary link advertisements .
+
+Autonomous System Boundary Routers
+
+Routing information from other ASs (such as RIP) or through exterior gateway protocols (such as EGP) or from other routing protocols, can be combined and disseminated through ASBRs.
+Because they provide an interface to other ASs and routing protocols, ASBRs have access to routing information that is learned from routers outside the OSPF domain.
+ASBRs can be internal or area boundary routers, and are not required to participate in the backbone area.
+
+Virtual Links
+
+A virtual link enables you to extend a backbone area by joining two partitioned areas.
+In addition, it allows you to isolate an area with frequent topological changes.
+
+Networks and routers in an OSPF backbone area must be interconnected.
+However, when dividing the OSPF domain into areas, the backbone area can become partitioned due to geographic reasons.
+The partitioned parts of the backbone area can be reconnected using a virtual link.
+
+A virtual link is really a path through the Network Database File Management
+
+This chapter describes the four network database files used to convert internal data into more identifiable and workable names.
+The following topics are discussed:
+
+- "Configuring Database Files" 
+
+This section describes the four types of network database files and how to access and modify them.
+
+
+- "HOSTS File" 
+
+This section describes the HOSTS file and how to administer it.
+
+
+- "NETWORKS File" 
+
+This section describes the NETWORKS file and how to administer it.
+
+
+- "PROTOCOL File" 
+
+This section describes the PROTOCOL file and how to administer it.
+
+
+- "SERVICES File" 
+
+This section describes the SERVICES file and how to administer it.
+
+
+Configuring Database Files
+
+TCP/IP uses four database files to convert internal data, such as IP addresses, into more identifiable and workable names.
+The user interface for TCPCON and other NLM TM files uses these database files.
+You can inform TCP/IP of names and addresses of local nodes and networks by adding that information to these files.
+The files (HOSTS, NETWORKS, PROTOCOL, and SERVICES) are cached in memory to avoid disk access during lookup.
+Because of this, TCP/IP takes up more memory.
+If this is not desirable, keep the size of the database down, or simply delete the files.
+
+TCP/IP finds these files in the SYS:ETC\ directory:
+
+- HOSTS File.
+This file maps hostnames to IP addresses.
+
+
+- NETWORKS File.
+This file maps network names to network addresses.
+
+
+- PROTOCOL File.
+This file maps protocol names to IP protocol numbers.
+
+
+- SERVICES File.
+This file maps protocol names to service names.
+
+
+If you are configuring TCP/IP for the first time, Novell recommends that you start by copying the sample database files from SYS:ETC\SAMPLES to SYS:ETC .
+This provides you with some examples to refer to as you add your own entries, and also provides TCP/IP with the PROTOCOL and SERVICES files, which you do not need to modify.
+
+You can modify these files using a standard text editor from any NetWare& client, or you can use the EDIT NLM from the NetWare system's console.
+The following sections describe the formats of the files, which are compatible with the same files on standard 4.3BSD UNIX systems.
+The examples in the sample files can also help you create your own entries.
+
+The files have the same names and format as the files on UnixWare TM and other UNIX systems.
+You can use FTP to transfer the files from a UNIX host.
+
+Each database file describes a table.
+Each line of the file describes a separate table entry.
+Blank lines and comments are ignored.
+Comments begin with a number sign (&num;) anywhere in a line and include the number sign and any characters following it on the same line.
+
+Do not use the sample addresses provided in the database files if you are connected to the Internet; these addresses are for example only.
+
+HOSTS File
+
+The SYS:ETC\HOSTS file contains information about the known hosts on the IP internetwork.
+Typically, it is centrally administered and distributed to all local hosts.
+Its format, as shown in Figure 5-1, is identical to /etc/hosts on UNIX systems.
+Each entry provides information about a single host.
+An entry cannot extend beyond one line.
+
+Figure
+
+Sample HOSTS File
+
+The HOSTS file entry has the following format:
+
+IP_address host_name&lsqb;alias&lsqb;...&rsqb;&rsqb;
+
+The IP_address is a 4-byte address in standard dotted decimal notation.
+Each byte is a decimal, hexadecimal, or octal value and is separated by a period.
+Hexadecimal numbers must start with the character pair 0x or 0X; octal numbers must start with 0.
+
+The host_name is the name of the system associated with this internetwork address.
+The name cannot contain a space, tab, number sign (&num;), or end-of-line character.
+Each hostname must be unique.
+
+The alias is another name for the same system.
+Typically, this is a shorter name.
+A single host can have from one to ten aliases.
+For example, the host "sales" could have the following address and aliases:
+
+129.0.9.5 sales sa localhost
+
+The sample file SYS:ETC\SAMPLES\HOSTS is included with the TCP/IP software.
+When you are configuring TCP/IP for the first time, copy the sample HOSTS file from SYS:ETC\SAMPLES to SYS:ETC .
+You then edit the SYS:ETC\HOSTS file.
+You can change your configuration at any time by editing your existing SYS:ETC\HOSTS file.
+
+NETWORKS File
+
+The SYS:ETC\NETWORKS file contains information about the networks in your internetwork.
+Each entry provides information about one network.
+An entry cannot extend beyond one line.
+Figure 5-2 shows a sample NETWORKS file.
+
+Figure
+
+Sample NETWORKS File
+
+The NETWORKS file entry has the following format: xxx 
+
+The network_name is the name of the network associated with this network number.
+The name cannot contain a space, tab, number sign (&num;), or end-of-line character.
+The network name must be unique.
+
+The network_number is the number of the network.
+Hexadecimal numbers must start with the character pair 0x or 0X .
+The network_number can be specified with or without trailing zeros.
+For example, the addresses 130.57 and 130.57.0.0 denote the same IP network.
+
+The network_mask is the subnet mask of the network.
+Like IP addresses, it can be specified in octal, decimal, or hexadecimal notation.
+This field is optional.
+If not specified, the subnet mask is deduced so that it excludes all trailing zeros.
+For example, 130.57.1.0 implies the mask 255.255.255.0.
+
+The alias is another name for the same network; you can specify up to ten aliases for a network.
+
+The sample file SYS:ETC\SAMPLES\NETWORKS is included with the TCP/IP software.
+When you are configuring TCP/IP for the first time, copy the sample NETWORKS file from SYS:ETC\SAMPLES to SYS:ETC .
+Then edit the SYS:ETC\NETWORKS file.
+You can change your configuration at any time by editing your existing SYS:ETC\NETWORKS file.
+
+PROTOCOL File
+
+The SYS:ETC\PROTOCOL file, shown in Figure 5-3 , contains information about the known protocols used on the internetwork.
+Each line provides information about one protocol.
+An entry cannot extend beyond one line.
+
+Figure
+
+Sample PROTOCOL File
+
+The PROTOCOL file entry has the following format: xxx 
+
+The protocol_name is the name of the Internet protocol associated with this protocol number.
+The name cannot contain a space, tab, number sign (&num;), or end-of-line character.
+
+The protocol_number is the number of the Internet protocol.
+
+The alias is an alternate name for the protocol.
+
+The sample file SYS:ETC\SAMPLES\PROTOCOL is included with the TCP/IP software.
+When you are configuring TCP/IP for the first time, copy the sample PROTOCOL file from SYS:ETC\SAMPLES to SYS:ETC .
+You can then edit the SYS:ETC\PROTOCOL file.
+You can change your configuration at any time by editing your existing SYS:ETC\PROTOCOL file.
+
+SERVICES File
+
+The SYS:ETC\SERVICES file, shown in Figure 5-4 , contains information about the known services used on the IP internetwork.
+Each entry provides information about one service.
+An entry cannot extend beyond one line.
+
+Figure
+
+Sample SERVICES File
+
+The SERVICES file entry has the following format: xxx 
+
+The service_name is the name of the service associated with this port number and protocol name.
+The name cannot contain a space, tab, number sign (&num;), or end-of-line character.
+These are generally application, presentation, or session-level services, such as TFTP, FTP, SMTP, and TELNET.
+
+The port_number is the number of the Internet port used by the service.
+
+The protocol_name is the protocol with which the service is associated.
+This is generally a transport or network-level protocol, such as TCP or UDP.
+You must put a slash between the port number and the protocol name (for example, SMTP 25/TCP MAIL).
+
+The alias is an alternate name for the service.
+
+The sample file SYS:ETC\SAMPLES\SERVICES is included with the TCP/IP software.
+When you are configuring TCP/IP for the first time, you should copy the sample SERVICES file from SYS:ETC\SAMPLES to SYS:ETC .
+You can then edit the SYS:ETC\SERVICES file.
+You can change your configuration at any time by editing your existing SYS:ETC\SERVICES file.
+
+ 
+
+SNMP Concepts
+
+This chapter describes TCP/IP network management using the SNMP and SNMPLOG NLM TM files.
+The following topics are discussed: 
+
+
+- "SNMP Overview" 
+
+This section introduces the Simple Network Management Protocol (SNMP).
+
+
+- "TCPCON" 
+
+This section describes TCPCON briefly and instructs you where to go for more information.
+
+
+- "SNMP" 
+
+This section describes the network management services provided by SNMP.
+
+
+- "SNMPLOG" 
+
+This section describes how to log SNMP trap messages.
+
+
+SNMP Overview
+
+SNMP is the most popular network management protocol in the TCP/IP protocol suite.
+SNMP lets TCP/IP-based network management clients exchange information about the configuration and status of nodes on a TCP/IP-based internetwork.
+The information available is defined by a set of managed objects referred to as the SNMP Management Information Base(MIB).
+The subset of managed objects that make up the TCP/IP portion of the MIB is maintained by each TCP/IP node.
+SNMP also generates trap messages used to report significant TCP/IP events asynchronously to interested clients.
+
+TCP/IP supports SNMP access to the complete TCP/IP portion of the MIB, as maintained by the protocol stack.
+The TCP/IP network management services are provided by three NLM files:
+
+- TCPCON 
+
+
+- SNMP 
+
+
+- SNMPLOG 
+
+
+The SNMP NLM acts as an SNMP Agent for clients.
+It presents the standard TCP/IP portion of the MIB and generates trap messages required by the TCP/IP protocol stack.
+TCPCON is a client of the SNMP Agent NLM.
+It uses SNMP to communicate with the TCP/IP protocol stack.
+
+The SNMPLOG NLM processes SNMP trap messages directed to the local TCP/IP node and writes them to the log file: xxx 
+
+This includes trap messages generated locally by SNMP NLM for reporting local events, and trap messages sent to this node from remote nodes for reporting remote events.
+
+TCPCON
+
+TCPCON provides a menu-driven interface for probing the TCP/IP MIB and lets the console operator look at the local trap log maintained by SNMPLOG.TCPCON may effectively monitor the local node's TCP/IP stack or a remote TCP/IP stack.
+
+TCPCON uses SNMP to access the TCP/IP MIB information on the local node directly.
+TCPCON uses SNMP over UDP or IPX to access information on a remote node.
+Figure 6-1 shows the local and remote access methods.
+
+For information about TCPCON, refer to NetWare 4.1 Supervising the Network.
+
+Figure
+
+Local and Remote TCP/IP Access
+
+SNMP
+
+The SNMP NLM performs the SNMP Agent services required by the TCP/IP module.
+It provides SNMP managers, such as TCPCON, access to TCP/IP protocol stack-managed objects.
+It also generates SNMP trap messages used to report significant TCP/IP events.
+
+The SNMP NLM provides load-time parameters for establishing the community name used during SNMP message authentication.
+The community name contained in a request message from an SNMP manager client must match the name established by the agent.
+The agent discards any request message that contains an invalid community name, without generating a response to the managed client.
+By default, SNMP NLM provides the monitor community name "public," which is used for read-only SNMP requests.
+By default, it also disables SNMP write requests.
+In addition, the SNMP NLM provides a default community name used during SNMP trap message generation.
+
+You can configure three SNMP community name options in the Internetworking Configuration utility (INETCFG).
+The community name options are:
+
+- Monitor Community
+
+
+- Control Community
+
+
+- Trap Community
+
+
+Each option sets the community name for the indicated community.
+Community names are used to authenticate SNMP messages received at the agent.
+The community name in a message requesting a given access type must match the name defined for that access type by one of the SNMP community options.
+
+SNMPLOG
+
+To log SNMP trap messages received by the local TCP/IP node, load the SNMPLOG NLM after loading the TCPIP NLM.
+Once running, the SNMPLOG NLM writes all arriving SNMP trap messages to disk.
+SNMPLOG is a background process that does not provide a console interface.
+If you do not require trap message logging, or if trap messages are being directed to another TCP/IP node, you do not need to load SNMPLOG NLM.
+
+Trap message information is written in binary form to the file SYS:ETC\SNMP$LOG.BIN.
+No size restriction is placed on the log file.
+To avoid consuming excessive disk space, you should delete the file periodically.
+If the file does not exist when a trap message is received, SNMPLOG creates it.
+The log file contents cannot be read by a text editor; however, you can use the TCPCON NLM to view the file contents or delete the file.
+
+The TCPIP NLM sends trap messages to the local node unless you specify a remote SNMP manager during TCP/IP protocol configuration (using INETCFG).
+In other words, unless otherwise instructed, each node logs its own traps.
+Specifying a SNMP manager redirects traps to some other node.
+See "SNMP Manager Table" for more information about SNMP Manager parameters.
+
+The trap address can be set to the same server on all nodes.
+In this way, all trap messages from all SNMP Agents can be logged at a single node.
+
+TCP/IP Configuration Parameters
+
+This chapter describes how to use the Internetworking Configuration (INETCFG) utility to configure the TCP/IP parameters for the NetWare 4.1.
+The following topics are discussed:
+
+
+- "Configuring TCP/IP Protocol Parameters"
+
+This section describes how to access the TCP/IP parameters and what each parameter does.
+
+
+- "Binding TCP/IP to a LAN Interface Parameters" 
+
+This section describes how to bind TCP/IP to a LAN interface.
+It also provides a description of the BIND parameters that apply to LAN interfaces.
+
+
+- "Configuring TCP/IP Filtering Parameters" 
+
+This section describes how to configure the TCP/IP filtering parameters and what each parameter does.
+
+
+Configuring TCP/IP Protocol Parameters
+
+After configuring the network interface boards for your router, select the following menu sequence, starting from the Internetworking Configuration main menu:
+
+- Protocols
+
+
+- TCP/IP
+
+
+The TCP/IP Configuration window appears, displaying the parameters described in the sections that follow.
+
+TCP/IP Status
+
+Determines whether the TCP/IP protocol is activated during system initialization.
+If this option is disabled, the configuration is retained, but it is not active.
+
+Default: Enabled
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP
+
+IP Packet Forwarding
+
+Determines whether the server is used as an IP router (Enabled) or as an end node only (Disabled).
+
+Default: Enabled
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP
+
+RIP
+
+Enables the router to use the Routing Information Protocol (RIP) to exchange routing information with other routers on the network and maintain a dynamic routing table.
+If disabled, the router does not run RIP, and you must use OSPF, EPG, a static routing table, or a default gateway.
+
+Default: Enabled
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP
+
+OSPF
+
+Select OSFP to enable the router to use the OSPF protocol to exchange routing information with other routers on the network and maintain a dynamic routing table.
+If disabled, the router does not run OSPF, and you must use RIP, EPG, a static routing table, or a default gateway.
+
+Default: Disabled
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP
+
+OSPF Configuration Parameters
+
+If you have enabled OSPF, select this option to display a window with the OSPF configuration parameters described in the sections that follow.
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP
+
+Router ID
+
+Uniquely identifies the router within the OSPF routing domain.
+It is expressed in dotted IP address format (1.2.3.4).
+If this parameter is not specified or has a value of 0.0.0.0, the router uses the first IP address bound to an interface.
+
+Default: First IP address
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP > Select OSPF Configuration
+
+Autonomous System Boundary Router
+
+Allows OSPF to include routes learned from other sources such as RIP, static routes, or EGP.
+To exclude specific routes, enable the Filter Supportparameter and load FILTCFG to configure routing information filters.
+
+Default: Disabled
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - Select OSPF Configuration
+
+Area Configuration Parameters
+
+When this option is selected, the currently configured OSPF areas are displayed.
+To configure a new area, press xxx and set the parameters as required.
+A new window displays the area configuration parameters described in the sections that follow.
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - Select OSPF Configuration
+
+Area ID
+
+Uniquely identifies the area.
+This parameter must be specified when an area is configured; there is no default.
+It is expressed in dotted IP address format (1.2.3.4).
+It is often based on the address ranges specified for the area.
+The Area ID with a value of 0.0.0.0 refers to the backbone area.
+The backbone is configured automatically when OSPF is configured for the first time.
+
+Default: None
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - SelectOSPF Configuration - Select Area Configuration - (OSPF Areas menu appears) - Press xxx 
+
+Authentication
+
+Defines the authentication applied to the routing exchanges within an area.
+If set to Disabled, no authentication takes place.
+If set to Enabled, a 64-bit password is associated with each network in the area.
+The Authentication Key(set in the Bindings options) defines the password used on a particular network.
+
+If this parameter is set to Disabled, the Authentication Keyparameter (set in OSPF Bind Options) has no meaning.
+
+Default: Disabled
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - SelectOSPF Configuration - Select Area Configuration - (OSPF Areas menu appears) - Press xxx 
+
+Area Type
+
+If set to Stub, AS External Advertisements are not flooded through the area.
+All routers connecting to a stub area should agree on the area's type.
+Stub areas cannot be used as transit areas when configuring a virtual link.
+
+Default: Normal
+
+If Area Type is set to 0.0.0.0 (backbone), it is not used because the backbone area cannot be a stub area.
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - SelectOSPF Configuration - Select Area Configuration - (OSPF Areas menu appears) - Press xxx 
+
+Stub Cost
+
+This is the cost of the default route advertised in the stub area.
+Used only when the area type is configured as a stub.
+The Stub Cost is used when the default summary link is advertised into the stub area.
+Set the default to the minimum interface cost of all OSPF enabled interfaces that are not attached to this area.
+
+Range: 1 to FFFFFF
+
+Default: 1
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - Select OSPF Configuration - Select Area Configuration - (OSPF Areas menu appears) - Press xxx 
+
+Virtual Link Configuration
+
+When you select Virtual Link Configuration, a new window displays the currently configured OSPF virtual links.
+To configure a new virtual link, press xxx and set the parameters as required.
+A new window displays the virtual link configuration parameters described in the sections that follow.
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - Select OSPF Configuration
+
+Router ID of Neighbour
+
+Defines the remote end of the virtual link.
+The hostnames contained in the SYS:ETC\HOSTS file are presented as choices for possible neighbours.
+
+This parameter must be configured for a virtual link.
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - Select OSPF Configuration > Select Virtual Link Configuration - (OSPF Virtual Linksmenu appears) - Press xxx 
+
+Transit Area
+
+Defines the area through which the virtual link must pass to reach the backbone area.
+One of the router's OSPF enabled interfaces must attach to the transit area, but the transit area cannot be the backbone (0.0.0.0).
+
+Previously configured areas are listed as choices.
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - Select OSPF Configuration - Select Virtual Link Configuration - (OSPF Virtual Linksmenu appears) - Press xxx 
+
+Authentication Key
+
+An 8-byte string that is used as a password when the authentication is enabled for the transit area.
+
+Default: None
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - Select OSPF Configuration - Select Virtual Link Configuration - (OSPF Virtual Linksmenu appears) - Press xxx 
+
+Hello Interval
+
+Time, in seconds, between the transmission of Hello packets on this virtual link.
+
+Range: 1 to FFFF (These values must be the same for both routers on the virtual link.)
+
+Default: 10 seconds
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - Select OSPF Configuration - Select Virtual Link Configuration - (OSPF Virtual Linksmenu appears) - Press xxx 
+
+Router Dead Interval
+
+Time, in seconds, that can expire without the local node seeing any Hello packets from the remote end of the virtual link before it can declare the remote end is down.
+The value of this parameter must be the same for both routers on the virtual link.
+
+Range: 1 to 7FFFFFFF
+
+Default: 40
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP - Select OSPF Configuration - Select Virtual Link Configuration - (OSPF Virtual Linksmenu appears) - Press xxx 
+
+Static Routing
+
+Determines whether a static routing database is loaded automatically during a system initialization.
+If disabled, the static routing database is ignored.
+
+Default: Disabled
+
+Utility: Load INETCFG (Internetworking Configurationmenu appears)
+
+Parameter Path: Select Protocols, Select TCP/IP
+
+Static Routing Table
+
+When you select the Static Routing Table, a new window displays the currently configured static routing database.
+To add new routes to the database, press xxx and set the parameters as required.
+When adding a new route, the entry must include the destination network or host address and the address of the next hop.
+A new window displays the static routing parameters described in the sections that follow.
+
+Utility: Load INETCFG (Internetworking Configuration menu appears)
+
+Parameter Path: Select Protocols - Select TCP/IP

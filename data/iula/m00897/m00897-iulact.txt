@@ -1,0 +1,5183 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<name>
+1	TOK	LEBER	BOS	LEBER\N46
+##	TAG	</name>
+2	TOK	HEREDITARY		HEREDITARY\N5S
+3	TOK	OPTIC		optic\N5S
+4	TOK	NEUROPATHY		neuropathy\N5S
+5	TOK	AS		AS\N5S
+6	TOK	A		a\N5S
+7	TOK	MODEL		model\N5S
+8	TOK	OF		OF\N5S
+9	TOK	MITOCHONDRIAL		MITOCHONDRIAL\N5S
+10	TOK	DISEASE	EOS	disease\N5S
+##	TAG	</head>
+##	TAG	<head>
+12	TOK	INTRODUCTION	BOS	introduction\N5S
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+14	TOK	In	BOS	in\P
+15	TOK	the		the\AT---6
+16	TOK	evolution		evolution\N5S
+17	TOK	of		of\P
+##	TAG	<name>
+18	TOK	Genetics		Genetics\N46
+##	TAG	</name>
+19	TOK	as		as\P
+20	TOK	a		a\AI---S
+21	TOK	science		science\N5S
+22	TOK	there		there\DGA7
+23	TOK	have		have\V6F6R66
+24	TOK	been		be\VMC----
+25	TOK	developed		develop\VMC----
+26	TOK	various		various\JA
+27	TOK	initial		initial\JA
+28	TOK	precepts		precept\N5P
+29	TOK	that		that\RW63N6
+30	TOK	had		have\V6F6A66
+31	TOK	to		to\P
+32	TOK	be		be\VMI----
+33	TOK	posteriorly		posteriorly\DGA7
+34	TOK	modified		modify\VMC----
+35	TOK	or		or\CC
+36	TOK	enlarged		enlarge\VMC----
+37	TOK	with		with\P
+38	TOK	the		the\AT---6
+39	TOK	coming		coming\N5S
+40	TOK	of		of\P
+41	TOK	new		new\JA
+42	TOK	knowledges		knowledge\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+43	TOK	Thus	BOS	thus\DGA7
+##	TAG	<loc pos="DGA7">
+44	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+45	TOK	the		the\AT---6
+46	TOK	classical		classical\JA
+47	TOK	mendelian		mendelian\JA
+48	TOK	inheritance		inheritance\N5S
+---	DLD	,		=\DELIM
+49	TOK	that		that\RW63N6
+50	TOK	was		be\V6F-A66
+51	TOK	supporting		support\VMG----
+52	TOK	theoretical		theoretical\JA
+53	TOK	base		base\N5S
+54	TOK	of		of\P
+55	TOK	transmission		transmission\N5S
+56	TOK	of		of\P
+57	TOK	hereditary		hereditary\JA
+58	TOK	characters		character\N5P
+59	TOK	during		during\P
+60	TOK	several		several\JA
+61	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+62	TOK	was		be\V6F-A66
+63	TOK	not		not\DGA7
+64	TOK	enough		enough\JA
+65	TOK	for		for\P
+66	TOK	explaining		explain\VMG----
+67	TOK	numerous		numerous\JA
+68	TOK	heredopathies		heredopathies\N5P
+69	TOK	that		that\RW63N6
+70	TOK	began		begin\VMF6A66
+71	TOK	to		to\P
+72	TOK	appear		appear\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+73	TOK	There	BOS	there\DGA7
+74	TOK	is		be\V6FDRS3
+75	TOK	a		a\AI---S
+76	TOK	particular		particular\JA
+77	TOK	group		group\N5S
+78	TOK	within		within\P
+79	TOK	the		the\AT---6
+80	TOK	inherited		inherit\VMC----
+81	TOK	pathologies		pathology\N5P
+82	TOK	that		that\RW63N6
+83	TOK	is		be\V6FDRS3
+84	TOK	characterized		characterize\VMC----
+85	TOK	by		by\P
+86	TOK	its		its\APS3N6
+87	TOK	maternal		maternal\JA
+88	TOK	heritage		heritage\N5S
+---	DLD	,		=\DELIM
+89	TOK	that		that\CS
+90	TOK	means		mean\VMFDRS3
+91	TOK	that		that\CS
+92	TOK	although		although\CS
+93	TOK	the		the\AT---6
+94	TOK	affected		affect\VMC----
+95	TOK	patients		patient\N5P
+96	TOK	can		can\VOFDR66
+97	TOK	be		be\VMI----
+98	TOK	of		of\P
+99	TOK	both		both\RIP3N-
+100	TOK	sexes		sex\N5P
+---	DLD	,		=\DELIM
+101	TOK	it		it\RPS3N6
+102	TOK	is		be\V6FDRS3
+103	TOK	always		always\DGA7
+104	TOK	the		the\AT---6
+105	TOK	mother		mother\N5S
+106	TOK	who		who\RW63N-
+107	TOK	transmits		transmit\VMFDRS3
+108	TOK	the		the\AT---6
+109	TOK	characters		character\N5P
+110	TOK	and		and\CC
+111	TOK	none		none\RIS3N-
+112	TOK	affected		affect\VMC----
+113	TOK	male		male\N5S
+114	TOK	do		do\V6FDR66
+115	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+116	TOK	This	BOS	this\AD---S
+117	TOK	fact		fact\N5S
+118	TOK	is		be\V6FDRS3
+119	TOK	due		due\JA
+120	TOK	to		to\P
+121	TOK	the		the\AT---6
+122	TOK	presence		presence\N5S
+123	TOK	in		in\P
+124	TOK	the		the\AT---6
+125	TOK	maternal		maternal\JA
+126	TOK	ovule		ovule\N5S
+127	TOK	of		of\P
+128	TOK	a		a\AI---S
+129	TOK	great		great\JA
+130	TOK	number		number\N5S
+131	TOK	of		of\P
+132	TOK	mitochondrias		mitochondrias\N5P
+133	TOK	with		with\P
+134	TOK	mitochondrial		mitochondrial\JA
+##	TAG	<name>
+135	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+136	TOK	The	BOS	the\AT---6
+137	TOK	spermatozoid		spermatozoid\N5S
+138	TOK	on		on\P
+139	TOK	the		the\AT---6
+140	TOK	other		other\JA
+141	TOK	hand		hand\N5S
+142	TOK	has		have\V6FDRS3
+143	TOK	a		a\AI---S
+144	TOK	small		small\JA
+145	TOK	number		number\N5S
+146	TOK	of		of\P
+147	TOK	this		this\AD---S
+148	TOK	organelles		organelle\N5P
+149	TOK	that		that\RW63N6
+150	TOK	don		do\V6FDR66
+151	PGR	't		not\DGA7
+152	TOK	get		get\VMF6R66
+153	TOK	to		to\P
+154	TOK	the		the\AT---6
+155	TOK	cytoplasm		cytoplasm\N5S
+156	TOK	of		of\P
+157	TOK	the		the\AT---6
+158	TOK	zygote		zygote\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+159	TOK	So	BOS	so\CC
+---	DLD	,		=\DELIM
+160	TOK	the		the\AT---6
+161	TOK	information		information\N5S
+162	TOK	coming		come\VMG----
+163	TOK	from		from\P
+164	TOK	the		the\AT---6
+##	TAG	<name>
+165	TOK	DNA		DNA\N46
+##	TAG	</name>
+166	TOK	of		of\P
+167	TOK	the		the\AT---6
+168	TOK	mother		mother\N5S
+169	PGR	's		genmark\GENMARK
+170	TOK	mitochondrias		mitochondrias\N5P
+171	TOK	is		be\V6FDRS3
+172	TOK	the		the\AT---6
+173	TOK	one		one\MCS
+174	TOK	that		that\RDS3N-
+175	TOK	is		be\V6FDRS3
+176	TOK	expressed		express\VMC----
+177	TOK	in		in\P
+178	TOK	the		the\AT---6
+179	TOK	ndividual		ndividual\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+180	TOK	In	BOS	in\P
+181	TOK	these		this\AD---P
+182	TOK	circumstances		circumstance\N5P
+183	TOK	the		the\AT---6
+184	TOK	segregation		segregation\N5S
+185	TOK	laws		law\N5P
+186	TOK	that		that\RW63N6
+187	TOK	were		be\V6F-A66
+188	TOK	stated		state\VMC----
+189	TOK	and		and\CC
+190	TOK	are		be\V6FDR66
+191	TOK	in		in\P
+192	TOK	effect		effect\VMI----
+##	TAG	<num>
+193	TOK	two		two\X
+##	TAG	</num>
+194	TOK	centuries		century\N5P
+195	TOK	ago		ago\DGA7
+196	TOK	do		do\V6FDR66
+197	TOK	not		not\DGA7
+198	TOK	explain		explain\VMI----
+199	TOK	an		an\AI---S
+200	TOK	adequate		adequate\JA
+201	TOK	mechanism		mechanism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+202	TOK	Since	BOS	since\P
+##	TAG	<num>
+203	TOK	1993		1993\X
+##	TAG	</num>
+204	TOK	it		it\RPS3N6
+205	TOK	was		be\V6F-A66
+206	TOK	known		know\VMC----
+207	TOK	about		about\P
+208	TOK	the		the\AT---6
+209	TOK	existence		existence\N5S
+210	TOK	of		of\P
+##	TAG	<name>
+211	TOK	DNA		DNA\N46
+##	TAG	</name>
+212	TOK	inside		inside\P
+213	TOK	the		the\AT---6
+214	TOK	mitochondria		mitochondrion\N5P
+---	DLD	,		=\DELIM
+215	TOK	however		however\DGA7
+216	TOK	it		it\RPS3N6
+217	TOK	is		be\V6FDRS3
+218	TOK	not		not\DGA7
+219	TOK	till		till\CS
+220	TOK	the		the\AT---6
+##	TAG	<num>
+221	TOK	70th		70th\X
+##	TAG	</num>
+222	TOK	decade		decade\N5S
+223	TOK	that		that\CS
+224	TOK	in		in\P
+---	DLE	"		=\DELIM
+225	TOK	the		the\AT---6
+226	TOK	other		other\JA
+227	TOK	human		human\JA
+228	TOK	genome		genome\N5S
+---	DLD	"		=\DELIM
+229	TOK	it		it\RPS3N6
+230	TOK	began		begin\VMF6A66
+231	TOK	to		to\P
+232	TOK	be		be\VMI----
+233	TOK	considered		consider\VMC----
+234	TOK	as		as\P
+235	TOK	possible		possible\JA
+236	TOK	responsible		responsible\JA
+237	TOK	of		of\P
+238	TOK	human		human\JA
+239	TOK	genetic		genetic\JA
+240	TOK	diseases		disease\N5P
+241	TOK	that		that\RW63N6
+242	TOK	would		will\VOFDA66
+243	TOK	have		have\VMI----
+244	TOK	a		a\AI---S
+245	TOK	maternal		maternal\JA
+246	TOK	inheritance		inheritance\N5S
+247	TOK	pattern		pattern\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+248	TOK	A	BOS	a\AI---S
+249	TOK	great		great\JA
+250	TOK	variety		variety\N5S
+251	TOK	of		of\P
+252	TOK	degenerative		degenerative\JA
+253	TOK	diseases		disease\N5P
+---	DLD	,		=\DELIM
+254	TOK	which		which\RW63N-
+255	TOK	involve		involve\VMF6R66
+256	TOK	cerebellum		cerebellum\N5S
+---	DLD	,		=\DELIM
+257	TOK	heart		heart\N5S
+---	DLD	,		=\DELIM
+258	TOK	muscles		muscle\N5P
+---	DLD	,		=\DELIM
+259	TOK	kidney		kidney\N5S
+---	DLD	,		=\DELIM
+260	TOK	endocrine		endocrine\N5S
+261	TOK	glands		gland\N5P
+---	DLD	,		=\DELIM
+262	TOK	peripheral		peripheral\JA
+263	TOK	nervous		nervous\JA
+264	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+265	TOK	and		and\CC
+266	TOK	others		other\RIP3N-
+---	DLD	,		=\DELIM
+267	TOK	are		be\V6FDR66
+268	TOK	the		the\AT---6
+269	TOK	result		result\N5S
+270	TOK	of		of\P
+271	TOK	mitochondrial		mitochondrial\JA
+##	TAG	<name>
+272	TOK	DNA		DNA\N46
+##	TAG	</name>
+273	TOK	mutations		mutation\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+274	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+275	TOK	The	BOS	the\AT---6
+276	TOK	first		first\MOS
+277	TOK	mutation		mutation\N5S
+278	TOK	of		of\P
+279	TOK	these		this\AD---P
+##	TAG	<abbr>
+280	TOK	DNAmt.		DNAmt.\N5P
+##	TAG	</abbr>
+281	TOK	was		be\V6F-A66
+282	TOK	discovered		discover\VMC----
+283	TOK	in		in\P
+##	TAG	<num>
+284	TOK	1988		1988\X
+##	TAG	</num>
+285	TOK	by		by\P
+##	TAG	<name>
+286	TOK	Wallace		Wallace\N46
+##	TAG	</name>
+287	TOK	and		and\CC
+288	TOK	his		his\APS3M6
+289	TOK	working		working\JA
+290	TOK	team		team\N5S
+291	TOK	and		and\CC
+292	TOK	it		it\RPS3N6
+293	TOK	precisely		precisely\DGA7
+294	TOK	produces		produce\VMFDRS3
+295	TOK	a		a\AI---S
+##	TAG	<name>
+296	TOK	Lever		Lever\N46
+##	TAG	</name>
+297	TOK	phenotype		phenotype\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+298	TOK	Subsequent	BOS	subsequent\JA
+299	TOK	pathogenic		pathogenic\JA
+300	TOK	mutations		mutation\N5P
+301	TOK	that		that\RW63N6
+302	TOK	were		be\V6F-A66
+303	TOK	described		describe\VMC----
+304	TOK	in		in\P
+305	TOK	this		this\AD---S
+##	TAG	<abbr>
+306	TOK	DNAmt.		DNAmt.\N5S
+##	TAG	</abbr>
+307	TOK	is		be\V6FDRS3
+308	TOK	associated		associate\VMC----
+309	TOK	to		to\P
+310	TOK	rare		rare\JA
+311	TOK	syndromes		syndrome\N5P
+312	TOK	as		as\P
+##	TAG	<name>
+313	TOK	MELAS		MELAS\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+314	TOK	Mitochondrial		Mitochondrial\N46
+##	TAG	</name>
+315	TOK	encephalopathy		encephalopathy\N5S
+316	TOK	lactic		lactic\JA
+317	TOK	acidosis		acidosis\N5S
+318	TOK	and		and\CC
+319	TOK	stroke		stroke\VMF6R66
+---	DLI	-		=\DELIM
+320	TOK	like		like\JA
+321	TOK	episodes		episode\N5P
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+322	TOK	MERRF		MERRF\N5P
+---	DLD	(		=\DELIM
+323	TOK	Myoclonus		myoclonus\N5S
+324	TOK	epilepsy		epilepsy\N5S
+325	TOK	with		with\P
+326	TOK	ragged		rag\VMC----
+327	TOK	red		red\JA
+328	TOK	fibres		fibre\N5P
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<name>
+329	TOK	Kearns- Sayre		Kearns-_Sayre\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+330	TOK	and		and\CC
+331	TOK	others		other\RIP3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+332	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+333	TOK	Lever Hereditary Optic Neuropathy		Lever_Hereditary_Optic_Neuropathy\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+334	TOK	LHON		LHON\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+335	TOK	was		be\V6F-A66
+336	TOK	described		describe\VMC----
+337	TOK	for		for\P
+338	TOK	the		the\AT---6
+339	TOK	first		first\MOS
+340	TOK	time		time\N5S
+341	TOK	in		in\P
+##	TAG	<num>
+342	TOK	1858		1858\X
+##	TAG	</num>
+343	TOK	by		by\P
+##	TAG	<name>
+344	TOK	Von Graefe		Von_Graefe\N46
+##	TAG	</name>
+345	TOK	and		and\CC
+346	TOK	it		it\RPS3N6
+347	TOK	was		be\V6F-A66
+348	TOK	named		name\VMC----
+349	TOK	that		that\CS
+350	TOK	way		way\N5S
+351	TOK	in		in\P
+352	TOK	reconnaissance		reconnaissance\N5S
+353	TOK	to		to\P
+##	TAG	<name>
+354	TOK	Theodore Leber		Theodore_Leber\N46
+##	TAG	</name>
+##	TAG	<loc pos="P">
+355	TOK	because of		because_of\P
+##	TAG	</loc>
+356	TOK	his		his\APS3M6
+357	TOK	investigation		investigation\N5S
+358	TOK	which		which\RW63N-
+359	TOK	was		be\V6F-A66
+360	TOK	published		publish\VMC----
+361	TOK	in		in\P
+362	TOK	the		the\AT---6
+##	TAG	<name>
+363	TOK	Ophthalmology Von Graefe		Ophthalmology_Von_Graefe\N46
+##	TAG	</name>
+364	TOK	archives		archive\N5P
+365	TOK	in		in\P
+##	TAG	<num>
+366	TOK	1871		1871\X
+##	TAG	</num>
+367	TOK	with		with\P
+368	TOK	a		a\AI---S
+369	TOK	detailed		detail\VMC----
+370	TOK	description		description\N5S
+371	TOK	of		of\P
+372	TOK	the		the\AT---6
+373	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+374	TOK	This	BOS	this\AD---S
+375	TOK	disease		disease\N5S
+376	TOK	is		be\V6FDRS3
+377	TOK	essentially		essentially\DGA7
+378	TOK	characterized		characterize\VMC----
+379	TOK	by		by\P
+380	TOK	its		its\APS3N6
+381	TOK	early		early\JA
+382	TOK	beginning		begin\VMG----
+---	DLD	,		=\DELIM
+383	TOK	in		in\P
+384	TOK	the		the\AT---6
+385	TOK	second		second\MOS
+---	DLD	-		=\DELIM
+386	TOK	third		third\MOS
+387	TOK	decade		decade\N5S
+388	TOK	of		of\P
+389	TOK	life		life\N5S
+390	TOK	in		in\P
+391	TOK	an		an\AI---S
+392	TOK	optic		optic\JA
+393	TOK	sub		sub\N5S
+---	DLI	-		=\DELIM
+394	TOK	acute		acute\JA
+395	TOK	neuropathy		neuropathy\N5S
+396	TOK	way		way\N5S
+---	DLD	,		=\DELIM
+397	TOK	with		with\P
+398	TOK	grave		grave\JA
+399	TOK	and		and\CC
+400	TOK	rapid		rapid\JA
+401	TOK	loss		loss\N5S
+402	TOK	of		of\P
+403	TOK	vision		vision\N5S
+404	TOK	associated		associate\VMC----
+405	TOK	to		to\P
+406	TOK	cecocentral		cecocentral\JA
+407	TOK	scotoma		scotoma\N5S
+408	TOK	in		in\P
+409	TOK	both		both\RIP3N-
+410	TOK	eyes		eye\N5P
+---	DLD	,		=\DELIM
+411	TOK	having		have\VMG----
+412	TOK	particularities		particularity\N5P
+413	TOK	that		that\RW63N6
+414	TOK	obey		obey\VMF6R66
+415	TOK	to		to\P
+416	TOK	its		its\APS3N6
+417	TOK	mitochondrial		mitochondrial\JA
+418	TOK	production		production\N5S
+419	TOK	mechanism		mechanism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+420	TOK	In	BOS	in\P
+421	TOK	our		our\APP1N6
+422	TOK	country		country\N5S
+423	TOK	there		there\DGA7
+424	TOK	are		be\V6FDR66
+425	TOK	antecedents		antecedent\N5P
+426	TOK	about		about\P
+427	TOK	the		the\AT---6
+428	TOK	study		study\N5S
+429	TOK	of		of\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+430	TOK	LHON		LHON\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+431	TOK	which		which\RW63N-
+432	TOK	together		together\DGA7
+433	TOK	with		with\P
+434	TOK	the		the\AT---6
+435	TOK	interesting		interesting\JA
+436	TOK	peculiarities		peculiarity\N5P
+437	TOK	of		of\P
+438	TOK	this		this\AD---S
+439	TOK	entity		entity\N5S
+440	TOK	motivated		motivate\VMC----
+441	TOK	us		us\RPP1NA
+442	TOK	to		to\P
+443	TOK	carry		carry\VMI----
+444	TOK	out		out\DGA7
+445	TOK	this		this\AD---S
+446	TOK	review		review\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+447	TOK	Mitochondrial	BOS	mitochondrial\JA
+##	TAG	<name>
+448	TOK	Pathologies	EOS	Pathologies\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+450	TOK	The	BOS	the\AT---6
+451	TOK	mitochondrial		mitochondrial\JA
+452	TOK	pathologies		pathology\N5P
+453	TOK	constitute		constitute\VMF6R66
+454	TOK	a		a\AI---S
+455	TOK	diverse		diverse\JA
+456	TOK	group		group\N5S
+457	TOK	of		of\P
+458	TOK	disorders		disorder\N5P
+459	TOK	produced		produce\VMC----
+460	TOK	by		by\P
+461	TOK	genetic		genetic\JA
+---	DLD	,		=\DELIM
+462	TOK	structural		structural\JA
+---	DLD	,		=\DELIM
+463	TOK	and		and\CC
+464	TOK	biochemical		biochemical\JA
+465	TOK	disorders		disorder\N5P
+466	TOK	of		of\P
+467	TOK	the		the\AT---6
+468	TOK	mitochondria		mitochondrion\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+469	TOK	Due	BOS	due\JA
+470	TOK	to		to\P
+471	TOK	the		the\AT---6
+472	TOK	fact		fact\N5S
+473	TOK	that		that\CS
+474	TOK	the		the\AT---6
+475	TOK	mitochondrial		mitochondrial\JA
+476	TOK	dysfunction		dysfunction\N5S
+477	TOK	can		can\VOFDR66
+478	TOK	virtually		virtually\DGA7
+479	TOK	affect		affect\VMI----
+480	TOK	all		all\AG---6
+481	TOK	the		the\AT---6
+482	TOK	organs		organ\N5P
+---	DLD	,		=\DELIM
+483	TOK	the		the\AT---6
+484	TOK	specialists		specialist\N5P
+485	TOK	of		of\P
+486	TOK	diverse		diverse\JA
+487	TOK	branches		branch\N5P
+488	TOK	get		get\VMF6R66
+489	TOK	in		in\P
+490	TOK	touch		touch\N5S
+491	TOK	with		with\P
+492	TOK	these		this\AD---P
+493	TOK	entities		entity\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+494	TOK	The	BOS	the\AT---6
+495	TOK	knowledge		knowledge\N5S
+496	TOK	of		of\P
+497	TOK	the		the\AT---6
+498	TOK	mitochondrial		mitochondrial\JA
+##	TAG	<name>
+499	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<abbr>
+500	TOK	DNAmit.		DNAmit.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+501	TOK	role		role\N5S
+502	TOK	in		in\P
+503	TOK	some		some\AG---6
+504	TOK	diseases		disease\N5P
+505	TOK	has		have\V6FDRS3
+506	TOK	rapidly		rapidly\DGA7
+507	TOK	evolved		evolve\VMC----
+508	TOK	since		since\P
+##	TAG	<num>
+509	TOK	1988		1988\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+510	TOK	when		when\CS
+511	TOK	there		there\DGA7
+512	TOK	were		be\V6F-A66
+513	TOK	discovered		discover\VMC----
+514	TOK	its		its\APS3N6
+515	TOK	first		first\MOS
+516	TOK	mutations		mutation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+517	TOK	They	BOS	they\RPP3NN
+518	TOK	were		be\V6F-A66
+519	TOK	subsequently		subsequently\DGA7
+520	TOK	identified		identify\VMC----
+521	TOK	in		in\P
+522	TOK	a		a\AI---S
+523	TOK	variety		variety\N5S
+524	TOK	of		of\P
+525	TOK	diseases		disease\N5P
+526	TOK	and		and\CC
+527	TOK	the		the\AT---6
+528	TOK	pathogenic		pathogenic\JA
+529	TOK	role		role\N5S
+530	TOK	of		of\P
+531	TOK	the		the\AT---6
+##	TAG	<name>
+532	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+533	TOK	accumulative		accumulative\JA
+534	TOK	damage		damage\N5S
+535	TOK	has		have\V6FDRS3
+536	TOK	been		be\VMC----
+537	TOK	explored		explore\VMC----
+538	TOK	in		in\P
+539	TOK	many		many\AI---P
+540	TOK	common		common\JA
+541	TOK	diseases		disease\N5P
+542	TOK	that		that\RW63N6
+543	TOK	are		be\V6FDR66
+544	TOK	developed		develop\VMC----
+545	TOK	in		in\P
+546	TOK	late		late\JA
+547	TOK	stages		stage\N5P
+548	TOK	of		of\P
+549	TOK	life		life\N5S
+550	TOK	or		or\CC
+551	TOK	in		in\P
+552	TOK	the		the\AT---6
+553	TOK	growth		growth\N5S
+554	TOK	process		process\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+555	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+556	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+557	TOK	mutations		mutation\N5P
+558	TOK	are		be\V6FDR66
+559	TOK	divided		divide\VMC----
+560	TOK	into		into\P
+##	TAG	<num>
+561	TOK	two		two\X
+##	TAG	</num>
+562	TOK	groups		group\N5P
+---	DLD	,		=\DELIM
+563	TOK	bases		base\N5P
+564	TOK	substitution		substitution\N5S
+---	DLD	,		=\DELIM
+565	TOK	and		and\CC
+566	TOK	deletion		deletion\N5S
+---	DLI	-		=\DELIM
+567	TOK	insertion		insertion\N5S
+568	TOK	of		of\P
+569	TOK	them		them\RPP3NA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+570	TOK	These	BOS	this\AD---P
+571	TOK	mutations		mutation\N5P
+572	TOK	produce		produce\VMF6R66
+573	TOK	alterations		alteration\N5P
+574	TOK	in		in\P
+575	TOK	the		the\AT---6
+576	TOK	genic		genic\JA
+577	TOK	product		product\N5S
+##	TAG	<loc pos="P">
+578	TOK	because of		because_of\P
+##	TAG	</loc>
+579	TOK	a		a\AI---S
+580	TOK	change		change\N5S
+581	TOK	of		of\P
+582	TOK	amino		amino\N5S
+583	TOK	acids		acid\N5P
+---	DLE	(		=\DELIM
+584	TOK	a.a		a.a\N5P
+---	DLD	)		=\DELIM
+585	TOK	that		that\RW63N6
+586	TOK	affect		affect\VMF6R66
+587	TOK	the		the\AT---6
+588	TOK	codified		codify\VMC----
+589	TOK	protein		protein\N5S
+590	TOK	by		by\P
+591	TOK	a		a\AI---S
+592	TOK	sequence		sequence\N5S
+593	TOK	of		of\P
+594	TOK	this		this\AD---S
+##	TAG	<name>
+595	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+596	TOK	or		or\CC
+597	TOK	alterations		alteration\N5P
+598	TOK	in		in\P
+599	TOK	the		the\AT---6
+600	TOK	synthesis		synthesis\N5S
+601	TOK	of		of\P
+602	TOK	the		the\AT---6
+603	TOK	proteins		protein\N5P
+604	TOK	for		for\P
+605	TOK	injuring		injure\VMG----
+606	TOK	the		the\AT---6
+##	TAG	<name>
+607	TOK	ARNt		ARNt\N46
+##	TAG	</name>
+608	TOK	or		or\CC
+##	TAG	<name>
+609	TOK	ARNr		ARNr\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+610	TOK	From	BOS	from\P
+611	TOK	the		the\AT---6
+612	TOK	deletions		deletion\N5P
+613	TOK	it		it\RPS3N6
+614	TOK	was		be\V6F-A66
+615	TOK	reported		report\VMC----
+616	TOK	that		that\CS
+617	TOK	none		none\RIS3N-
+618	TOK	of		of\P
+619	TOK	them		them\RPP3NA
+620	TOK	hinder		hinder\VMI----
+621	TOK	the		the\AT---6
+622	TOK	origins		origin\N5P
+623	TOK	of		of\P
+624	TOK	the		the\AT---6
+625	TOK	replication		replication\N5S
+626	TOK	of		of\P
+627	TOK	both		both\RIP3N-
+628	TOK	chains		chain\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+629	TOK	The	BOS	the\AT---6
+630	TOK	insertions		insertion\N5P
+631	TOK	can		can\VOFDR66
+632	TOK	cause		cause\VMI----
+633	TOK	duplication		duplication\N5S
+634	TOK	of		of\P
+635	TOK	various		various\JA
+636	TOK	regions		region\N5P
+637	TOK	of		of\P
+638	TOK	the		the\AT---6
+##	TAG	<name>
+639	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLD	.	BOS	=\DELIM
+tf	TOK		EOS	=\DELS
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+641	TOK	Structure	BOS	structure\N5S
+642	TOK	and		and\CC
+643	TOK	function		function\N5S
+644	TOK	of		of\P
+645	TOK	the		the\AT---6
+##	TAG	<name>
+646	TOK	DNAmit	EOS	DNAmit\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+648	TOK	To	BOS	to\P
+649	TOK	understand		understand\VMI----
+650	TOK	the		the\AT---6
+651	TOK	mitochondrial		mitochondrial\JA
+652	TOK	disease		disease\N5S
+653	TOK	it		it\RPS3N6
+654	TOK	is		be\V6FDRS3
+655	TOK	essential		essential\JA
+656	TOK	to		to\P
+657	TOK	examine		examine\VMI----
+658	TOK	the		the\AT---6
+659	TOK	general		general\JA
+660	TOK	traits		trait\N5P
+661	TOK	of		of\P
+662	TOK	the		the\AT---6
+##	TAG	<name>
+663	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+664	TOK	The	BOS	the\AT---6
+665	TOK	mitochondria		mitochondrion\N5P
+666	TOK	generates		generate\VMFDRS3
+667	TOK	energy		energy\N5S
+668	TOK	for		for\P
+669	TOK	the		the\AT---6
+670	TOK	cell		cell\N5S
+671	TOK	by		by\P
+672	TOK	means		mean\N56
+673	TOK	of		of\P
+674	TOK	the		the\AT---6
+##	TAG	<name>
+675	TOK	ATP		ATP\N46
+##	TAG	</name>
+676	TOK	production		production\N5S
+677	TOK	by		by\P
+678	TOK	oxidative		oxidative\JA
+679	TOK	phosphorylation		phosphorylation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+680	TOK	This	BOS	this\AD---S
+681	TOK	organelle		organelle\N5S
+682	TOK	has		have\V6FDRS3
+683	TOK	its		its\APS3N6
+684	TOK	own		own\JA
+##	TAG	<name>
+685	TOK	DNA		DNA\N46
+##	TAG	</name>
+686	TOK	known		know\VMC----
+687	TOK	as		as\P
+---	DLE	"		=\DELIM
+688	TOK	the		the\AT---6
+689	TOK	other		other\JA
+690	TOK	human		human\JA
+691	TOK	genome		genome\N5S
+---	DLD	"		=\DELIM
+---	DLD	,		=\DELIM
+692	TOK	it		it\RPS3N6
+693	TOK	is		be\V6FDRS3
+694	TOK	of		of\P
+695	TOK	double		double\AG---6
+696	TOK	chain		chain\VMF6R66
+---	DLD	,		=\DELIM
+697	TOK	is		be\V6FDRS3
+698	TOK	circular		circular\JA
+---	DLD	,		=\DELIM
+699	TOK	and		and\CC
+700	TOK	codifies		codify\VMFDRS3
+701	TOK	for		for\P
+##	TAG	<num>
+702	TOK	13		13\X
+##	TAG	</num>
+703	TOK	protein		protein\N5S
+704	TOK	subunits		subunit\N5P
+705	TOK	of		of\P
+##	TAG	<num>
+706	TOK	4		4\X
+##	TAG	</num>
+707	TOK	biochemical		biochemical\JA
+708	TOK	complexes		complex\N5P
+709	TOK	and		and\CC
+710	TOK	for		for\P
+##	TAG	<num>
+711	TOK	24		24\X
+##	TAG	</num>
+##	TAG	<name>
+712	TOK	ARN		ARN\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+713	TOK	the		the\AT---6
+714	TOK	ribosomal		ribosomal\JA
+715	TOK	xxx		noanat\W
+716	TOK	and		and\CC
+717	TOK	xxx		noanat\W
+---	DLE	,		=\DELIM
+718	TOK	and		and\CC
+##	TAG	<num>
+719	TOK	22		22\X
+##	TAG	</num>
+720	TOK	of		of\P
+721	TOK	transference		transference\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+722	TOK	that		that\RW63N6
+723	TOK	are		be\V6FDR66
+724	TOK	required		require\VMC----
+725	TOK	for		for\P
+726	TOK	the		the\AT---6
+727	TOK	intramitochondrial		intramitochondrial\JA
+728	TOK	transfer		transfer\N5S
+729	TOK	of		of\P
+730	TOK	codification		codification\N5S
+731	TOK	units		unit\N5P
+732	TOK	of		of\P
+733	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+734	TOK	This	BOS	this\AD---S
+735	TOK	molecule		molecule\N5S
+736	TOK	has		have\V6FDRS3
+##	TAG	<num>
+737	TOK	16		16\X
+##	TAG	</num>
+##	TAG	<num>
+738	TOK	569		569\X
+##	TAG	</num>
+739	TOK	base		base\N5S
+740	TOK	pairs		pair\N5P
+741	TOK	and		and\CC
+742	TOK	its		its\APS3N6
+743	TOK	genome		genome\N5S
+744	TOK	is		be\V6FDRS3
+745	TOK	completely		completely\DGA7
+746	TOK	mapped		map\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+747	TOK	In	BOS	in\P
+748	TOK	all		all\AG---6
+749	TOK	the		the\AT---6
+750	TOK	genes		gene\N5P
+751	TOK	of		of\P
+752	TOK	this		this\AD---S
+##	TAG	<name>
+753	TOK	DNA		DNA\N46
+##	TAG	</name>
+754	TOK	there		there\DGA7
+755	TOK	have		have\V6F6R66
+756	TOK	been		be\VMC----
+757	TOK	found		find\VMC----
+758	TOK	mutations		mutation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+759	TOK	The	BOS	the\AT---6
+760	TOK	mitochondria		mitochondrion\N5P
+---	DLD	,		=\DELIM
+761	TOK	that		that\RW63N6
+762	TOK	was		be\V6F-A66
+763	TOK	probably		probably\DGA7
+764	TOK	developed		develop\VMC----
+765	TOK	as		as\P
+766	TOK	an		an\AI---S
+767	TOK	organelle		organelle\N5S
+768	TOK	from		from\P
+769	TOK	independent		independent\JA
+770	TOK	organisms		organism\N5P
+771	TOK	that		that\RW63N6
+772	TOK	became		become\VMF6A66
+773	TOK	part		part\N5S
+774	TOK	of		of\P
+775	TOK	the		the\AT---6
+776	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+777	TOK	is		be\V6FDRS3
+778	TOK	able		able\JA
+779	TOK	of		of\P
+780	TOK	replicating		replicate\VMG----
+---	DLD	,		=\DELIM
+781	TOK	transcribing		transcribe\VMG----
+782	TOK	and		and\CC
+783	TOK	translating		translate\VMG----
+784	TOK	its		its\APS3N6
+##	TAG	<name>
+785	TOK	DNA		DNA\N46
+##	TAG	</name>
+786	TOK	independently		independently\DGA7
+787	TOK	from		from\P
+788	TOK	the		the\AT---6
+789	TOK	nuclear		nuclear\JA
+##	TAG	<name>
+790	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+791	TOK	however		however\DGA7
+792	TOK	the		the\AT---6
+793	TOK	nuclear		nuclear\JA
+794	TOK	and		and\CC
+795	TOK	the		the\AT---6
+796	TOK	mitochondrial		mitochondrial\JA
+797	TOK	function		function\N5S
+798	TOK	are		be\V6FDR66
+799	TOK	interdependent		interdependent\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+800	TOK	The	BOS	the\AT---6
+801	TOK	nuclear		nuclear\JA
+##	TAG	<name>
+802	TOK	DNA		DNA\N46
+##	TAG	</name>
+803	TOK	codifies		codify\VMFDRS3
+804	TOK	for		for\P
+805	TOK	protein		protein\N5S
+806	TOK	subunits		subunit\N5P
+807	TOK	of		of\P
+808	TOK	oxidative		oxidative\JA
+809	TOK	phosphorylation		phosphorylation\N5S
+810	TOK	and		and\CC
+811	TOK	for		for\P
+##	TAG	<loc pos="DDA7">
+812	TOK	a lot of		a_lot_of\DDA7
+##	TAG	</loc>
+813	TOK	macromolecular		macromolecular\JA
+814	TOK	components		component\N5P
+815	TOK	that		that\RW63N6
+816	TOK	are		be\V6FDR66
+817	TOK	required		require\VMC----
+818	TOK	in		in\P
+819	TOK	the		the\AT---6
+820	TOK	mitochondrial		mitochondrial\JA
+821	TOK	structure		structure\N5S
+822	TOK	and		and\CC
+823	TOK	function		function\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+824	TOK	The	BOS	the\AT---6
+825	TOK	codified		codify\VMC----
+826	TOK	proteins		protein\N5P
+827	TOK	and		and\CC
+828	TOK	the		the\AT---6
+##	TAG	<name>
+829	TOK	ARNm		ARNm\N46
+##	TAG	</name>
+830	TOK	that		that\RW63N6
+831	TOK	comes		come\VMFDRS3
+832	TOK	from		from\P
+833	TOK	the		the\AT---6
+834	TOK	nucleus		nucleus\N5S
+835	TOK	must		must\VOFDR66
+836	TOK	be		be\VMI----
+837	TOK	imported		import\VMC----
+838	TOK	to		to\P
+839	TOK	the		the\AT---6
+840	TOK	mitochondria		mitochondrion\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+841	TOK	On	BOS	on\P
+842	TOK	the		the\AT---6
+843	TOK	other		other\JA
+844	TOK	hand		hand\N5S
+---	DLD	,		=\DELIM
+845	TOK	during		during\P
+846	TOK	phosphorylation		phosphorylation\N5S
+---	DLD	,		=\DELIM
+847	TOK	the		the\AT---6
+848	TOK	energy		energy\N5S
+849	TOK	of		of\P
+850	TOK	the		the\AT---6
+851	TOK	cell		cell\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+852	TOK	ATP		ATP\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+853	TOK	is		be\V6FDRS3
+854	TOK	obtained		obtain\VMC----
+855	TOK	by		by\P
+856	TOK	means		mean\N56
+857	TOK	of		of\P
+858	TOK	an		an\AI---S
+859	TOK	electrochemical		electrochemical\JA
+860	TOK	gradient		gradient\N5S
+---	DLD	;		=\DELIM
+861	TOK	this		this\AD---S
+862	TOK	process		process\N5S
+863	TOK	depends		depend\VMFDRS3
+864	TOK	on		on\P
+865	TOK	the		the\AT---6
+866	TOK	mitochondrial		mitochondrial\JA
+##	TAG	<name>
+867	TOK	ARNt		ARNt\N46
+##	TAG	</name>
+868	TOK	that		that\RW63N6
+869	TOK	is		be\V6FDRS3
+870	TOK	codified		codify\VMC----
+871	TOK	by		by\P
+872	TOK	the		the\AT---6
+##	TAG	<name>
+873	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLD	.	BOS	=\DELIM
+tf	TOK		EOS	=\DELS
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+875	TOK	There	BOS	there\DGA7
+876	TOK	are		be\V6FDR66
+877	TOK	various		various\JA
+878	TOK	traits		trait\N5P
+879	TOK	of		of\P
+880	TOK	the		the\AT---6
+##	TAG	<name>
+881	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+882	TOK	that		that\RW63N6
+883	TOK	can		can\VOFDR66
+884	TOK	be		be\VMI----
+885	TOK	related		relate\VMC----
+886	TOK	to		to\P
+887	TOK	its		its\APS3N6
+888	TOK	frequent		frequent\JA
+889	TOK	association		association\N5S
+890	TOK	with		with\P
+891	TOK	mutations		mutation\N5P
+892	TOK	and		and\CC
+893	TOK	diseases		disease\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+894	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+895	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+896	TOK	mutates		mutate\VMFDRS3
+##	TAG	<num>
+897	TOK	10		10\X
+##	TAG	</num>
+898	TOK	times		time\N5P
+899	TOK	easier		easy\JC
+900	TOK	than		than\CS
+901	TOK	the		the\AT---6
+902	TOK	nuclear		nuclear\JA
+903	TOK	and		and\CC
+904	TOK	doesn		do\V6FDRS3
+905	PGR	't		not\DGA7
+906	TOK	has		have\V6FDRS3
+907	TOK	introns		intron\N5P
+---	DLD	,		=\DELIM
+908	TOK	so		so\DGA7
+909	TOK	a		a\AI---S
+910	TOK	mutation		mutation\N5S
+911	TOK	at		at\P
+912	TOK	random		random\JA
+913	TOK	frequently		frequently\DGA7
+914	TOK	harms		harm\VMFDRS3
+915	TOK	a		a\AI---S
+916	TOK	codification		codification\N5S
+917	TOK	sequence		sequence\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+918	TOK	Additionally	BOS	additionally\DGA7
+---	DLD	,		=\DELIM
+919	TOK	this		this\AD---S
+920	TOK	molecule		molecule\N5S
+921	TOK	doesn		do\V6FDRS3
+922	PGR	't		not\DGA7
+923	TOK	has		have\V6FDRS3
+924	TOK	effective		effective\JA
+925	TOK	reparation		reparation\N5S
+926	TOK	mechanisms		mechanism\N5P
+---	DLD	,		=\DELIM
+927	TOK	nor		nor\CC
+928	TOK	protector		protector\N5S
+929	TOK	histonas		histonas\N5P
+930	TOK	and		and\CC
+931	TOK	it		it\RPS3N6
+932	TOK	is		be\V6FDRS3
+933	TOK	exposed		expose\VMC----
+934	TOK	to		to\P
+935	TOK	free		free\JA
+936	TOK	radicals		radical\N5P
+937	TOK	of		of\P
+938	TOK	oxygen		oxygen\N5S
+939	TOK	that		that\RW63N6
+940	TOK	are		be\V6FDR66
+941	TOK	freed		free\VMC----
+942	TOK	by		by\P
+943	TOK	the		the\AT---6
+944	TOK	phosphorylation		phosphorylation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+945	TOK	The	BOS	the\AT---6
+##	TAG	<abbr>
+946	TOK	DNAmit.		DNAmit.\N5S
+##	TAG	</abbr>
+947	TOK	is		be\V6FDRS3
+948	TOK	inherited		inherit\VMC----
+949	TOK	by		by\P
+950	TOK	maternal		maternal\JA
+951	TOK	way		way\N5S
+952	TOK	and		and\CC
+953	TOK	do		do\V6FDR66
+954	TOK	not		not\DGA7
+955	TOK	recombine		recombine\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+956	TOK	Here	BOS	here\DGA7
+957	TOK	the		the\AT---6
+958	TOK	mutation		mutation\N5S
+959	TOK	is		be\V6FDRS3
+960	TOK	sequentially		sequentially\DGA7
+961	TOK	accumulated		accumulate\VMC----
+962	TOK	by		by\P
+963	TOK	means		mean\N56
+964	TOK	of		of\P
+965	TOK	maternal		maternal\JA
+966	TOK	lines		line\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+967	TOK	Each	BOS	each\AG---S
+968	TOK	mitochondria		mitochondrion\N5P
+969	TOK	has		have\V6FDRS3
+970	TOK	from		from\P
+##	TAG	<num>
+971	TOK	2		2\X
+##	TAG	</num>
+972	TOK	to		to\P
+##	TAG	<num>
+973	TOK	10		10\X
+##	TAG	</num>
+##	TAG	<name>
+974	TOK	DNA		DNA\N46
+##	TAG	</name>
+975	TOK	and		and\CC
+976	TOK	each		each\AG---S
+977	TOK	cell		cell\N5S
+978	TOK	has		have\V6FDRS3
+979	TOK	multiple		multiple\JA
+980	TOK	mitochondrias		mitochondrias\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+981	TOK	So	BOS	so\DGA7
+982	TOK	in		in\P
+983	TOK	a		a\AI---S
+984	TOK	cell		cell\N5S
+985	TOK	can		can\VOFDR66
+986	TOK	coexist		coexist\VMI----
+987	TOK	normal		normal\JA
+988	TOK	and		and\CC
+989	TOK	mutant		mutant\N5S
+990	TOK	mitochondrias		mitochondrias\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+991	TOK	This	BOS	this\AD---S
+992	TOK	condition		condition\N5S
+993	TOK	is		be\V6FDRS3
+994	TOK	called		call\VMC----
+##	TAG	<name>
+995	TOK	Heteroplasmy		Heteroplasmy\N46
+##	TAG	</name>
+996	TOK	and		and\CC
+997	TOK	allow		allow\VMF6R66
+998	TOK	a		a\AI---S
+999	TOK	mutation		mutation\N5S
+1000	TOK	to		to\P
+1001	TOK	persist		persist\VMI----
+1002	TOK	which		which\RW63N-
+1003	TOK	there		there\DGA7
+1004	TOK	would		will\VOFDA66
+1005	TOK	be		be\VMI----
+1006	TOK	lethal		lethal\JA
+1007	TOK	otherwise		otherwise\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1008	TOK	On	BOS	on\P
+1009	TOK	the		the\AT---6
+1010	TOK	other		other\JA
+1011	TOK	hand		hand\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1012	TOK	Homoplasmy		Homoplasmy\N46
+##	TAG	</name>
+1013	TOK	is		be\V6FDRS3
+1014	TOK	the		the\AT---6
+1015	TOK	total		total\JA
+1016	TOK	presence		presence\N5S
+1017	TOK	of		of\P
+1018	TOK	normal		normal\JA
+1019	TOK	or		or\CC
+1020	TOK	mutated		mutate\VMF6A66
+##	TAG	<name>
+1021	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1022	TOK	Through	BOS	through\P
+1023	TOK	the		the\AT---6
+1024	TOK	replicate		replicate\JA
+1025	TOK	segregation		segregation\N5S
+1026	TOK	process		process\VMF6R66
+---	DLD	,		=\DELIM
+1027	TOK	the		the\AT---6
+1028	TOK	proportions		proportion\N5P
+1029	TOK	of		of\P
+1030	TOK	mutant		mutant\N5S
+1031	TOK	and		and\CC
+1032	TOK	normal		normal\JA
+1033	TOK	molecules		molecule\N5P
+1034	TOK	can		can\VOFDR66
+1035	TOK	be		be\VMI----
+1036	TOK	changed		change\VMC----
+1037	TOK	when		when\CS
+1038	TOK	segregating		segregate\VMG----
+1039	TOK	them		them\RPP3NA
+1040	TOK	to		to\P
+1041	TOK	the		the\AT---6
+1042	TOK	daughter		daughter\N5S
+1043	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1044	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+1045	TOK	more		many\JC
+1046	TOK	than		than\CS
+1047	TOK	the		the\AT---6
+##	TAG	<name>
+1048	TOK	Mendel		Mendel\N46
+##	TAG	</name>
+1049	TOK	laws		law\N5P
+1050	TOK	are		be\V6FDR66
+1051	TOK	the		the\AT---6
+1052	TOK	population		population\N5S
+1053	TOK	genetical		genetical\JA
+1054	TOK	laws		law\N5P
+1055	TOK	the		the\AT---6
+1056	TOK	ones		one\N5P
+1057	TOK	that		that\RW63N6
+1058	TOK	govern		govern\VMF6R66
+1059	TOK	the		the\AT---6
+##	TAG	<name>
+1060	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLD	.	BOS	=\DELIM
+tf	TOK		EOS	=\DELS
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1062	TOK	The	BOS	the\AT---6
+1063	TOK	proportion		proportion\N5S
+1064	TOK	of		of\P
+1065	TOK	the		the\AT---6
+1066	TOK	mutant		mutant\N5S
+##	TAG	<abbr>
+1067	TOK	DNAmit.		DNAmit.\N5P
+##	TAG	</abbr>
+1068	TOK	required		require\VMC----
+1069	TOK	for		for\P
+1070	TOK	the		the\AT---6
+1071	TOK	occurrence		occurrence\N5S
+1072	TOK	of		of\P
+1073	TOK	a		a\AI---S
+1074	TOK	deletereo		deletereo\N5S
+1075	TOK	phenotype		phenotype\N5S
+1076	TOK	is		be\V6FDRS3
+1077	TOK	submitted		submit\VMC----
+1078	TOK	to		to\P
+1079	TOK	the		the\AT---6
+---	DLD	"		=\DELIM
+1080	TOK	threshold		threshold\N5S
+1081	TOK	effect		effect\VMF6R66
+---	DLE	"		=\DELIM
+---	DLD	,		=\DELIM
+1082	TOK	which		which\RW63N-
+1083	TOK	varies		vary\VMFDRS3
+1084	TOK	among		among\P
+1085	TOK	people		people\N56
+---	DLD	,		=\DELIM
+1086	TOK	organ		organ\N5S
+1087	TOK	systems		system\N5P
+1088	TOK	and		and\CC
+1089	TOK	even		even\DGA7
+1090	TOK	among		among\P
+1091	TOK	tissues		tissue\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1092	TOK	This	BOS	this\AD---S
+1093	TOK	effect		effect\N5S
+1094	TOK	depends		depend\VMFDRS3
+1095	TOK	on		on\P
+1096	TOK	the		the\AT---6
+1097	TOK	delicate		delicate\JA
+1098	TOK	balance		balance\N5S
+1099	TOK	between		between\P
+1100	TOK	the		the\AT---6
+1101	TOK	oxidative		oxidative\JA
+1102	TOK	supply		supply\N5S
+1103	TOK	and		and\CC
+1104	TOK	its		its\APS3N6
+1105	TOK	demand		demand\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+1106	TOK	Leber	BOS	Leber\N46
+##	TAG	</name>
+1107	TOK	hereditary		hereditary\JA
+1108	TOK	optic		optic\JA
+1109	TOK	neuropathy		neuropathy\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1110	TOK	LHON		LHON\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1112	TOK	The	BOS	the\AT---6
+1113	TOK	inheritance		inheritance\N5S
+1114	TOK	of		of\P
+1115	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1116	TOK	LHON		LHON\N46
+##	TAG	</name>
+1117	TOK	is		be\V6FDRS3
+1118	TOK	mitochondrial		mitochondrial\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1119	TOK	Leber	BOS	Leber\N46
+##	TAG	</name>
+1120	TOK	recognized		recognize\VMF6A66
+1121	TOK	the		the\AT---6
+##	TAG	<num>
+1122	TOK	two		two\X
+##	TAG	</num>
+1123	TOK	unusual		unusual\JA
+1124	TOK	findings		finding\N5P
+1125	TOK	of		of\P
+1126	TOK	the		the\AT---6
+1127	TOK	disease		disease\N5S
+1128	TOK	pattern		pattern\N5S
+---	DLD	,		=\DELIM
+1129	TOK	the		the\AT---6
+1130	TOK	maternal		maternal\JA
+1131	TOK	transmission		transmission\N5S
+1132	TOK	and		and\CC
+1133	TOK	the		the\AT---6
+1134	TOK	tendency		tendency\N5S
+1135	TOK	to		to\P
+1136	TOK	affect		affect\VMI----
+1137	TOK	males		male\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1138	TOK	Imai	BOS	Imai\N46
+##	TAG	</name>
+1139	TOK	and		and\CC
+##	TAG	<name>
+1140	TOK	Mariwceki		Mariwceki\N46
+##	TAG	</name>
+1141	TOK	suggested		suggest\VMF6A66
+1142	TOK	in		in\P
+##	TAG	<num>
+1143	TOK	1936		1936\X
+##	TAG	</num>
+1144	TOK	the		the\AT---6
+1145	TOK	citoplasmatic		citoplasmatic\JA
+1146	TOK	inheritance		inheritance\N5S
+1147	TOK	and		and\CC
+##	TAG	<name>
+1148	TOK	Erikson		Erikson\N46
+##	TAG	</name>
+1149	TOK	in		in\P
+##	TAG	<num>
+1150	TOK	1972		1972\X
+##	TAG	</num>
+1151	TOK	suggested		suggest\VMF6A66
+1152	TOK	a		a\AI---S
+1153	TOK	possible		possible\JA
+1154	TOK	mutation		mutation\N5S
+1155	TOK	of		of\P
+##	TAG	<name>
+1156	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1157	TOK	In	BOS	in\P
+##	TAG	<num>
+1158	TOK	1988		1988\X
+##	TAG	</num>
+##	TAG	<name>
+1159	TOK	Wallace		Wallace\N46
+##	TAG	</name>
+1160	TOK	and		and\CC
+1161	TOK	collaborators		collaborator\N5P
+1162	TOK	identified		identify\VMF6A66
+1163	TOK	a		a\AI---S
+1164	TOK	mutation		mutation\N5S
+1165	TOK	in		in\P
+1166	TOK	the		the\AT---6
+1167	TOK	pair		pair\N56
+1168	TOK	of		of\P
+1169	TOK	bases		base\N5P
+##	TAG	<num>
+1170	TOK	11778		11778\X
+##	TAG	</num>
+1171	TOK	of		of\P
+1172	TOK	the		the\AT---6
+##	TAG	<name>
+1173	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1174	TOK	That	BOS	that\CS
+1175	TOK	is		be\V6FDRS3
+1176	TOK	exclusive		exclusive\JA
+1177	TOK	of		of\P
+1178	TOK	families		family\N5P
+1179	TOK	with		with\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1180	TOK	LHON		LHON\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1181	TOK	Subsequently	BOS	subsequently\DGA7
+1182	TOK	there		there\DGA7
+1183	TOK	have		have\V6F6R66
+1184	TOK	been		be\VMC----
+1185	TOK	reported		report\VMC----
+1186	TOK	various		various\JA
+1187	TOK	new		new\JA
+1188	TOK	mutations		mutation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1189	TOK	The	BOS	the\AT---6
+1190	TOK	prevalence		prevalence\N5S
+1191	TOK	of		of\P
+1192	TOK	the		the\AT---6
+1193	TOK	disease		disease\N5S
+1194	TOK	is		be\V6FDRS3
+1195	TOK	approximate		approximate\JA
+1196	TOK	to		to\P
+##	TAG	<num>
+1197	TOK	1		1\X
+##	TAG	</num>
+1198	TOK	in		in\P
+##	TAG	<num>
+1199	TOK	50,000		50,000\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1200	TOK	acting		act\VMG----
+1201	TOK	in		in\P
+1202	TOK	a		a\AI---S
+1203	TOK	similar		similar\JA
+1204	TOK	way		way\N5S
+1205	TOK	to		to\P
+1206	TOK	the		the\AT---6
+##	TAG	<name>
+1207	TOK	Dominant Optic Atrophy		Dominant_Optic_Atrophy\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+1208	TOK	type		type\N5S
+##	TAG	<name>
+1209	TOK	Kjer		Kjer\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1211	TOK	The	BOS	the\AT---6
+1212	TOK	evaluation		evaluation\N5S
+1213	TOK	of		of\P
+1214	TOK	the		the\AT---6
+1215	TOK	pathogenicity		pathogenicity\N5S
+1216	TOK	of		of\P
+1217	TOK	the		the\AT---6
+##	TAG	<name>
+1218	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+1219	TOK	that		that\RW63N6
+1220	TOK	is		be\V6FDRS3
+1221	TOK	mutated		mutate\VMC----
+1222	TOK	in		in\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1223	TOK	LHON		LHON\N46
+##	TAG	</name>
+1224	TOK	is		be\V6FDRS3
+1225	TOK	very		very\JA
+1226	TOK	important		important\JA
+1227	TOK	to		to\P
+1228	TOK	determine		determine\VMI----
+1229	TOK	the		the\AT---6
+1230	TOK	degree		degree\N5S
+1231	TOK	of		of\P
+1232	TOK	affection		affection\N5S
+1233	TOK	that		that\RW63N6
+1234	TOK	produces		produce\VMFDRS3
+1235	TOK	each		each\AG---S
+1236	TOK	mutation		mutation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1237	TOK	All	BOS	all\AG---6
+1238	TOK	the		the\AT---6
+1239	TOK	mutations		mutation\N5P
+1240	TOK	identified		identify\VMC----
+1241	TOK	as		as\P
+1242	TOK	cause		cause\VMI----
+1243	TOK	of		of\P
+1244	TOK	the		the\AT---6
+1245	TOK	disease		disease\N5S
+1246	TOK	are		be\V6FDR66
+1247	TOK	punctual		punctual\JA
+1248	TOK	and		and\CC
+1249	TOK	they		they\RPP3NN
+1250	TOK	are		be\V6FDR66
+1251	TOK	detected		detect\VMC----
+1252	TOK	by		by\P
+1253	TOK	amplification		amplification\N5S
+1254	TOK	of		of\P
+1255	TOK	the		the\AT---6
+1256	TOK	relevant		relevant\JA
+1257	TOK	region		region\N5S
+1258	TOK	of		of\P
+1259	TOK	the		the\AT---6
+##	TAG	<abbr>
+1260	TOK	DNAmit.		DNAmit.\N5S
+##	TAG	</abbr>
+1261	TOK	and		and\CC
+1262	TOK	digestion		digestion\N5S
+1263	TOK	with		with\P
+1264	TOK	endonucleasas		endonucleasas\N5P
+1265	TOK	for		for\P
+1266	TOK	which		which\RW63N-
+1267	TOK	mutations		mutation\N5P
+1268	TOK	cause		cause\VMF6R66
+1269	TOK	loss		loss\N5S
+1270	TOK	or		or\CC
+1271	TOK	profits		profit\N5P
+1272	TOK	of		of\P
+1273	TOK	a		a\AI---S
+1274	TOK	cutting		cutting\N5S
+1275	TOK	site		site\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1276	TOK	Pathogenicity	BOS	pathogenicity\N5S
+1277	TOK	criteria		criterion\N5P
+1278	TOK	of		of\P
+1279	TOK	mutations		mutation\N5P
+1280	TOK	in		in\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1281	TOK	LHON	EOS	LHON\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1283	TOK	In	BOS	in\P
+##	TAG	<num>
+1284	TOK	1995		1995\X
+##	TAG	</num>
+##	TAG	<name>
+1285	TOK	Riordan-Eva		Riordan-Eva\N46
+##	TAG	</name>
+1286	TOK	and		and\CC
+##	TAG	<name>
+1287	TOK	Harding		Harding\N46
+##	TAG	</name>
+1288	TOK	enunciated		enunciate\VMF6A66
+1289	TOK	the		the\AT---6
+1290	TOK	following		following\JA
+1291	TOK	criteria		criterion\N5P
+1292	TOK	applied		apply\VMC----
+1293	TOK	to		to\P
+1294	TOK	establish		establish\VMI----
+1295	TOK	pathogenicity		pathogenicity\N5S
+1296	TOK	of		of\P
+1297	TOK	an		an\AI---S
+1298	TOK	individual		individual\JA
+1299	TOK	mutation		mutation\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+1300	TOK	To	BOS	to\P
+1301	TOK	identify		identify\VMI----
+1302	TOK	the		the\AT---6
+1303	TOK	mutation		mutation\N5S
+1304	TOK	in		in\P
+1305	TOK	a		a\AI---S
+1306	TOK	number		number\N5S
+1307	TOK	of		of\P
+1308	TOK	families		family\N5P
+1309	TOK	known		know\VMC----
+1310	TOK	of		of\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1311	TOK	LHON		LHON\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1312	TOK	preferably		preferably\DGA7
+1313	TOK	of		of\P
+1314	TOK	independent		independent\JA
+1315	TOK	origin		origin\N5S
+1316	TOK	with		with\P
+1317	TOK	big		big\JA
+1318	TOK	pedigrees		pedigree\N5P
+1319	TOK	and		and\CC
+1320	TOK	well		well\DGA7
+1321	TOK	documented		document\VMF6A66
+---	DLD	,		=\DELIM
+1322	TOK	showing		show\VMG----
+1323	TOK	a		a\AI---S
+1324	TOK	clear		clear\JA
+1325	TOK	pattern		pattern\N5S
+1326	TOK	of		of\P
+1327	TOK	maternal		maternal\JA
+1328	TOK	transmission		transmission\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+1329	TOK	To	BOS	to\P
+1330	TOK	identify		identify\VMI----
+1331	TOK	the		the\AT---6
+1332	TOK	mutation		mutation\N5S
+1333	TOK	exclusively		exclusively\DGA7
+1334	TOK	in		in\P
+1335	TOK	affected		affect\VMC----
+1336	TOK	families		family\N5P
+1337	TOK	and		and\CC
+1338	TOK	not		not\DGA7
+1339	TOK	in		in\P
+1340	TOK	healthy		healthy\JA
+1341	TOK	or		or\CC
+1342	TOK	control		control\N5S
+1343	TOK	individuals		individual\N5P
+---	DLD	,		=\DELIM
+1344	TOK	or		or\CC
+1345	TOK	with		with\P
+1346	TOK	another		another\JA
+1347	TOK	type		type\N5S
+1348	TOK	of		of\P
+1349	TOK	optic		optic\JA
+1350	TOK	neuropathy	EOS	neuropathy\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+1351	TOK	The	BOS	the\AT---6
+1352	TOK	mutation		mutation\N5S
+1353	TOK	must		must\VOFDR66
+1354	TOK	not		not\DGA7
+1355	TOK	coexist		coexist\VMI----
+1356	TOK	with		with\P
+1357	TOK	another		another\JA
+1358	TOK	pathogenic		pathogenic\JA
+1359	TOK	mutations	EOS	mutation\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+1361	TOK	The	BOS	the\AT---6
+1362	TOK	mutation		mutation\N5S
+1363	TOK	must		must\VOFDR66
+1364	TOK	be		be\VMI----
+1365	TOK	heteroplasmic		heteroplasmic\JA
+1366	TOK	in		in\P
+1367	TOK	some		some\AG---6
+1368	TOK	persons		person\N5P
+1369	TOK	of		of\P
+1370	TOK	the		the\AT---6
+1371	TOK	affected		affect\VMC----
+1372	TOK	families		family\N5P
+---	DLD	,		=\DELIM
+1373	TOK	since		since\P
+1374	TOK	heteroplasmy		heteroplasmy\JA
+1375	TOK	doesn		do\V6FDRS3
+1376	PGR	't		not\DGA7
+1377	TOK	seem		seem\VMF6R66
+1378	TOK	to		to\P
+1379	TOK	be		be\VMI----
+1380	TOK	a		a\AI---S
+1381	TOK	finding		finding\N5S
+1382	TOK	of		of\P
+1383	TOK	innocuous		innocuous\JA
+1384	TOK	polymorphisms		polymorphism\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+1385	TOK	The	BOS	the\AT---6
+1386	TOK	mutation		mutation\N5S
+1387	TOK	must		must\VOFDR66
+1388	TOK	change		change\VMI----
+1389	TOK	a		a\AI---S
+1390	TOK	residue		residue\N5S
+1391	TOK	of		of\P
+1392	TOK	highly		highly\DGA7
+1393	TOK	conserved		conserve\VMC----
+1394	TOK	a.a		a.a\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+1395	TOK	These	BOS	this\AD---P
+1396	TOK	criteria		criterion\N5P
+1397	TOK	are		be\V6FDR66
+1398	TOK	not		not\DGA7
+1399	TOK	absolute		absolute\JA
+---	DLD	,		=\DELIM
+1400	TOK	but		but\CC
+1401	TOK	whereas		whereas\CS
+1402	TOK	more		more\DDC7
+1403	TOK	of		of\P
+1404	TOK	them		them\RPP3NA
+1405	TOK	are		be\V6FDR66
+1406	TOK	fulfilled		fulfill\VMC----
+---	DLD	,		=\DELIM
+1407	TOK	there		there\DGA7
+1408	TOK	will		will\VOFDR66
+1409	TOK	be		be\VMI----
+1410	TOK	more		many\JC
+1411	TOK	certainty		certainty\N5S
+1412	TOK	of		of\P
+1413	TOK	pathogenicity		pathogenicity\N5S
+1414	TOK	of		of\P
+1415	TOK	the		the\AT---6
+1416	TOK	mutation		mutation\N5S
+1417	TOK	that		that\RW63N6
+1418	TOK	is		be\V6FDRS3
+1419	TOK	studied		study\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1420	TOK	From	BOS	from\P
+1421	TOK	all		all\AG---6
+1422	TOK	the		the\AT---6
+1423	TOK	previously		previously\DGA7
+1424	TOK	exposed		expose\VMC----
+1425	TOK	arise		arise\VMF6R66
+1426	TOK	the		the\AT---6
+##	TAG	<name>
+1427	TOK	Primary		Primary\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1428	TOK	Secondary		Secondary\N46
+##	TAG	</name>
+1429	TOK	and		and\CC
+##	TAG	<name>
+1430	TOK	Intermediate		Intermediate\N46
+##	TAG	</name>
+1431	TOK	mutation		mutation\N5S
+1432	TOK	concepts		concept\N5P
+1433	TOK	for		for\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1434	TOK	LHON		LHON\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1435	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1436	TOK	Primary		Primary\N46
+##	TAG	</name>
+1437	TOK	mutations		mutation\N5P
+1438	TOK	are		be\V6FDR66
+1439	TOK	those		that\RDP3N-
+1440	TOK	that		that\RW63N6
+1441	TOK	are		be\V6FDR66
+1442	TOK	only		only\DGA7
+1443	TOK	identified		identify\VMC----
+1444	TOK	in		in\P
+1445	TOK	families		family\N5P
+1446	TOK	with		with\P
+1447	TOK	the		the\AT---6
+1448	TOK	disease		disease\N5S
+---	DLD	,		=\DELIM
+1449	TOK	never		never\DGA7
+1450	TOK	in		in\P
+1451	TOK	control		control\N5S
+1452	TOK	individuals		individual\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1453	TOK	There	BOS	there\DGA7
+1454	TOK	are		be\V6FDR66
+1455	TOK	numerous		numerous\JA
+1456	TOK	primary		primary\JA
+1457	TOK	mutations		mutation\N5P
+1458	TOK	in		in\P
+1459	TOK	this		this\AD---S
+1460	TOK	entity		entity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1461	TOK	The	BOS	the\AT---6
+1462	TOK	causal		causal\JA
+1463	TOK	role		role\N5S
+1464	TOK	of		of\P
+##	TAG	<name>
+1465	TOK	Wallace		Wallace\N46
+##	TAG	</name>
+1466	TOK	mutation		mutation\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1467	TOK	A1178G		A1178G\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+1468	TOK	that		that\CS
+1469	TOK	is		be\V6FDRS3
+1470	TOK	the		the\AT---6
+1471	TOK	most		most\DDS7
+1472	TOK	common		common\JA
+1473	TOK	in		in\P
+1474	TOK	the		the\AT---6
+1475	TOK	families		family\N5P
+1476	TOK	that		that\RW63N6
+1477	TOK	were		be\V6F-A66
+1478	TOK	studied		study\VMC----
+1479	TOK	in		in\P
+##	TAG	<name>
+1480	TOK	Europe		Europe\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1481	TOK	USA		USA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1482	TOK	Japan		Japan\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1483	TOK	and		and\CC
+##	TAG	<name>
+1484	TOK	Australia		Australia\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1485	TOK	was		be\V6F-A66
+1486	TOK	originally		originally\DGA7
+1487	TOK	established		establish\VMC----
+1488	TOK	by		by\P
+1489	TOK	the		the\AT---6
+1490	TOK	identification		identification\N5S
+1491	TOK	of		of\P
+1492	TOK	the		the\AT---6
+1493	TOK	mutation		mutation\N5S
+1494	TOK	in		in\P
+##	TAG	<num>
+1495	TOK	two		two\X
+##	TAG	</num>
+1496	TOK	different		different\JA
+1497	TOK	pedigrees		pedigree\N5P
+---	DLD	,		=\DELIM
+1498	TOK	a		a\AI---S
+1499	TOK	black		black\JA
+1500	TOK	family		family\N5S
+1501	TOK	in		in\P
+1502	TOK	the		the\AT---6
+##	TAG	<name>
+1503	TOK	USA		USA\N46
+##	TAG	</name>
+1504	TOK	and		and\CC
+1505	TOK	a		a\AI---S
+1506	TOK	white		white\JA
+1507	TOK	family		family\N5S
+1508	TOK	in		in\P
+##	TAG	<name>
+1509	TOK	Europe		Europe\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1510	TOK	The	BOS	the\AT---6
+1511	TOK	mutation		mutation\N5S
+1512	TOK	was		be\V6F-A66
+1513	TOK	not		not\DGA7
+1514	TOK	observed		observe\VMC----
+1515	TOK	in		in\P
+1516	TOK	the		the\AT---6
+1517	TOK	controls		control\N5P
+1518	TOK	and		and\CC
+1519	TOK	it		it\RPS3N6
+1520	TOK	was		be\V6F-A66
+1521	TOK	heteroplasmic		heteroplasmic\JA
+1522	TOK	for		for\P
+1523	TOK	hundred		hundred\N56
+1524	TOK	of		of\P
+1525	TOK	individuals		individual\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1526	TOK	The	BOS	the\AT---6
+1527	TOK	result		result\N5S
+1528	TOK	was		be\V6F-A66
+1529	TOK	a		a\AI---S
+1530	TOK	substitution		substitution\N5S
+1531	TOK	of		of\P
+1532	TOK	an		an\AI---S
+1533	TOK	argynine		argynine\N5S
+1534	TOK	highly		highly\DGA7
+1535	TOK	conserved		conserve\VMC----
+1536	TOK	by		by\P
+1537	TOK	histydine		histydine\N5S
+1538	TOK	in		in\P
+1539	TOK	the		the\AT---6
+##	TAG	<name>
+1540	TOK	NDH4		NDH4\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1541	TOK	Complex I		Complex_I\N46
+##	TAG	</name>
+1542	TOK	of		of\P
+1543	TOK	deshydrogenasa		deshydrogenasa\N5S
+##	TAG	<name>
+1544	TOK	NDA		NDA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1545	TOK	in		in\P
+1546	TOK	the		the\AT---6
+1547	TOK	respiratory		respiratory\JA
+1548	TOK	chain		chain\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1549	TOK	Since	BOS	since\P
+1550	TOK	argynine		argynine\N5S
+1551	TOK	and		and\CC
+1552	TOK	histydine		histydine\N5S
+1553	TOK	are		be\V6FDR66
+1554	TOK	both		both\RIP3N-
+1555	TOK	basic		basic\JA
+1556	TOK	the		the\AT---6
+1557	TOK	change		change\N5S
+1558	TOK	is		be\V6FDRS3
+1559	TOK	relatively		relatively\DGA7
+1560	TOK	conservative		conservative\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1561	TOK	Other	BOS	other\JA
+##	TAG	<name>
+1562	TOK	Primary		Primary\N46
+##	TAG	</name>
+1563	TOK	mutations		mutation\N5P
+1564	TOK	are		be\V6FDR66
+---	DLD	:		=\DELIM
+##	TAG	<num>
+1565	TOK	3460		3460\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1566	TOK	14484		14484\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1567	TOK	4160		4160\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1568	TOK	4136		4136\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1569	TOK	and		and\CC
+##	TAG	<num>
+1570	TOK	5244		5244\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1571	TOK	all		all\AG---6
+1572	TOK	of		of\P
+1573	TOK	them		them\RPP3NA
+1574	TOK	with		with\P
+1575	TOK	changes		change\N5P
+1576	TOK	in		in\P
+1577	TOK	the		the\AT---6
+1578	TOK	polypeptide		polypeptide\N5S
+1579	TOK	a.a		a.a\N5S
+1580	TOK	of		of\P
+1581	TOK	the		the\AT---6
+##	TAG	<name>
+1582	TOK	Complex I		Complex_I\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1583	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+1584	TOK	9438		9438\X
+##	TAG	</num>
+1585	TOK	and		and\CC
+##	TAG	<num>
+1586	TOK	9804		9804\X
+##	TAG	</num>
+1587	TOK	affect		affect\VMF6R66
+1588	TOK	the		the\AT---6
+1589	TOK	subunit		subunit\N5S
+##	TAG	<num>
+1590	TOK	III		III\X
+##	TAG	</num>
+1591	TOK	of		of\P
+1592	TOK	the		the\AT---6
+1593	TOK	cytochrome		cytochrome\N5S
+1594	TOK	C		C\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1595	TOK	Approximately	BOS	approximately\DGA7
+1596	TOK	the		the\AT---6
+##	TAG	<na type="function">
+1597	TOK	90 % of		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1598	TOK	Leber		Leber\N46
+##	TAG	</name>
+1599	PGR	's		genmark\GENMARK
+1600	TOK	patients		patient\N5P
+1601	TOK	that		that\RW63N6
+1602	TOK	have		have\V6F6R66
+1603	TOK	been		be\VMC----
+1604	TOK	studied		study\VMC----
+1605	TOK	in		in\P
+1606	TOK	the		the\AT---6
+1607	TOK	world		world\N5S
+1608	TOK	have		have\V6F6R66
+1609	TOK	the		the\AT---6
+1610	TOK	mutations		mutation\N5P
+##	TAG	<num>
+1611	TOK	11778		11778\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1612	TOK	3460		3460\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1613	TOK	or		or\CC
+##	TAG	<num>
+1614	TOK	14484		14484\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1615	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1616	TOK	Secondary		Secondary\N46
+##	TAG	</name>
+1617	TOK	mutations		mutation\N5P
+1618	TOK	include		include\VMF6R66
+1619	TOK	a		a\AI---S
+1620	TOK	numerous		numerous\JA
+1621	TOK	group		group\N5S
+1622	TOK	of		of\P
+1623	TOK	mutations		mutation\N5P
+1624	TOK	identified		identify\VMC----
+1625	TOK	in		in\P
+1626	TOK	the		the\AT---6
+1627	TOK	families		family\N5P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1628	TOK	LHON		LHON\N46
+##	TAG	</name>
+1629	TOK	and		and\CC
+1630	TOK	in		in\P
+1631	TOK	control		control\N5S
+1632	TOK	families		family\N5P
+---	DLD	,		=\DELIM
+1633	TOK	but		but\CC
+1634	TOK	with		with\P
+1635	TOK	more		many\JC
+1636	TOK	frequency		frequency\N5S
+1637	TOK	in		in\P
+1638	TOK	the		the\AT---6
+1639	TOK	first		first\MOS
+1640	TOK	ones		one\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1641	TOK	These	BOS	this\AD---P
+1642	TOK	mutations		mutation\N5P
+1643	TOK	find		find\VMF6R66
+1644	TOK	association		association\N5S
+1645	TOK	with		with\P
+1646	TOK	another		another\JA
+1647	TOK	secondary		secondary\JA
+1648	TOK	or		or\CC
+1649	TOK	with		with\P
+1650	TOK	primaries		primary\N5P
+---	DLD	,		=\DELIM
+1651	TOK	being		be\VMG----
+1652	TOK	difficult		difficult\JA
+1653	TOK	to		to\P
+1654	TOK	accede		accede\VMI----
+1655	TOK	to		to\P
+1656	TOK	their		their\APP3N6
+1657	TOK	meaning		meaning\N5S
+1658	TOK	in		in\P
+1659	TOK	the		the\AT---6
+1660	TOK	disease		disease\N5S
+1661	TOK	production		production\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1662	TOK	They	BOS	they\RPP3NN
+1663	TOK	are		be\V6FDR66
+---	DLD	:		=\DELIM
+##	TAG	<num>
+1664	TOK	3394		3394\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1665	TOK	4136		4136\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1666	TOK	4216		4216\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1667	TOK	4917		4917\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1668	TOK	5244		5244\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1669	TOK	13708		13708\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1670	TOK	7444		7444\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1671	TOK	15812		15812\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1672	TOK	It	BOS	it\RPS3N6
+1673	TOK	has		have\V6FDRS3
+1674	TOK	been		be\VMC----
+1675	TOK	suggested		suggest\VMC----
+1676	TOK	that		that\CS
+1677	TOK	in		in\P
+1678	TOK	the		the\AT---6
+1679	TOK	lack		lack\N5S
+1680	TOK	of		of\P
+1681	TOK	a		a\AI---S
+1682	TOK	primary		primary\JA
+1683	TOK	of		of\P
+1684	TOK	the		the\AT---6
+##	TAG	<num>
+1685	TOK	three		three\X
+##	TAG	</num>
+1686	TOK	mayor		mayor\N5S
+1687	TOK	mutations		mutation\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1688	TOK	11778		11778\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1689	TOK	3460		3460\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1690	TOK	14484		14484\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+1691	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1692	TOK	LHON		LHON\N46
+##	TAG	</name>
+1693	TOK	only		only\DGA7
+1694	TOK	occur		occur\VMF6R66
+1695	TOK	if		if\CS
+1696	TOK	there		there\DGA7
+1697	TOK	are		be\V6FDR66
+1698	TOK	multiple		multiple\JA
+1699	TOK	secondary		secondary\JA
+1700	TOK	mutations		mutation\N5P
+1701	TOK	or		or\CC
+1702	TOK	a		a\AI---S
+1703	TOK	primary		primary\JA
+1704	TOK	from		from\P
+1705	TOK	the		the\AT---6
+1706	TOK	other		other\JA
+1707	TOK	mutations		mutation\N5P
+1708	TOK	associated		associate\VMC----
+1709	TOK	to		to\P
+1710	TOK	these		this\AD---P
+1711	TOK	ones		one\N5P
+---	DLD	,		=\DELIM
+1712	TOK	then		then\DGA7
+1713	TOK	the		the\AT---6
+1714	TOK	secondary		secondary\JA
+1715	TOK	ones		one\N5P
+1716	TOK	would		will\VOFDA66
+1717	TOK	affect		affect\VMI----
+1718	TOK	the		the\AT---6
+1719	TOK	manifestations		manifestation\N5P
+1720	TOK	of		of\P
+1721	TOK	the		the\AT---6
+1722	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1723	TOK	An	BOS	an\AI---S
+##	TAG	<name>
+1724	TOK	Intermediate		Intermediate\N46
+##	TAG	</name>
+1725	TOK	mutation		mutation\N5S
+1726	TOK	is		be\V6FDRS3
+1727	TOK	the		the\AT---6
+##	TAG	<num>
+1728	TOK	15257		15257\X
+##	TAG	</num>
+1729	TOK	that		that\CS
+1730	TOK	substitutes		substitute\N5P
+1731	TOK	by		by\P
+1732	TOK	asparagine		asparagine\N5S
+1733	TOK	the		the\AT---6
+1734	TOK	aspartic		aspartic\N5S
+1735	TOK	highly		highly\DGA7
+1736	TOK	conserved		conserve\VMC----
+1737	TOK	in		in\P
+1738	TOK	apocytochrome		apocytochrome\N5S
+1739	TOK	of		of\P
+##	TAG	<name>
+1740	TOK	Complex		Complex\N46
+##	TAG	</name>
+##	TAG	<num>
+1741	TOK	III		III\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1742	TOK	frequently		frequently\DGA7
+1743	TOK	associated		associate\VMC----
+1744	TOK	to		to\P
+##	TAG	<num>
+1745	TOK	13708		13708\X
+##	TAG	</num>
+1746	TOK	or		or\CC
+##	TAG	<num>
+1747	TOK	14484		14484\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1748	TOK	It	BOS	it\RPS3N6
+1749	TOK	receives		receive\VMFDRS3
+1750	TOK	its		its\APS3N6
+1751	TOK	name		name\N5S
+1752	TOK	from		from\P
+1753	TOK	the		the\AT---6
+1754	TOK	fact		fact\N5S
+1755	TOK	that		that\CS
+1756	TOK	in		in\P
+1757	TOK	diverse		diverse\JA
+1758	TOK	studies		study\N5P
+1759	TOK	it		it\RPS3N6
+1760	TOK	is		be\V6FDRS3
+1761	TOK	associated		associate\VMC----
+1762	TOK	to		to\P
+1763	TOK	any		any\AG---6
+1764	TOK	of		of\P
+1765	TOK	the		the\AT---6
+##	TAG	<num>
+1766	TOK	three		three\X
+##	TAG	</num>
+1767	TOK	mayor		mayor\N5S
+1768	TOK	primaries		primary\N5P
+1769	TOK	but		but\CC
+1770	TOK	it		it\RPS3N6
+1771	TOK	doesn		do\V6FDRS3
+1772	PGR	't		not\DGA7
+1773	TOK	has		have\V6FDRS3
+1774	TOK	described		describe\VMC----
+1775	TOK	any		any\AG---6
+1776	TOK	influence		influence\N5S
+1777	TOK	in		in\P
+1778	TOK	the		the\AT---6
+1779	TOK	clinical		clinical\JA
+1780	TOK	findings		finding\N5P
+1781	TOK	of		of\P
+1782	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1783	TOK	LHON		LHON\N46
+##	TAG	</name>
+1784	TOK	of		of\P
+1785	TOK	the		the\AT---6
+1786	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1787	TOK	Recently	BOS	recently\DGA7
+1788	TOK	there		there\DGA7
+1789	TOK	have		have\V6F6R66
+1790	TOK	been		be\VMC----
+1791	TOK	discovered		discover\VMC----
+1792	TOK	new		new\JA
+1793	TOK	mutations		mutation\N5P
+##	TAG	<loc pos="P">
+1794	TOK	as for		as_for\P
+##	TAG	</loc>
+1795	TOK	example		example\N5S
+1796	TOK	one		one\RIS3N-
+1797	TOK	that		that\RW63N6
+1798	TOK	act		act\VMF6R66
+1799	TOK	upon		upon\P
+1800	TOK	the		the\AT---6
+1801	TOK	gene		gene\N5S
+1802	TOK	of		of\P
+1803	TOK	the		the\AT---6
+1804	TOK	mitochondrial		mitochondrial\JA
+1805	TOK	subunit		subunit\N5S
+##	TAG	<name>
+1806	TOK	ND5		ND5\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1807	TOK	it		it\RPS3N6
+1808	TOK	is		be\V6FDRS3
+1809	TOK	located		locate\VMC----
+1810	TOK	in		in\P
+1811	TOK	the		the\AT---6
+1812	TOK	position		position\N5S
+##	TAG	<num>
+1813	TOK	13513		13513\X
+##	TAG	</num>
+1814	TOK	and		and\CC
+1815	TOK	it		it\RPS3N6
+1816	TOK	is		be\V6FDRS3
+1817	TOK	probably		probably\DGA7
+1818	TOK	pathogenic		pathogenic\JA
+1819	TOK	producing		produce\VMG----
+1820	TOK	an		an\AI---S
+1821	TOK	overlapped		overlap\VMC----
+1822	TOK	phenotype		phenotype\N5S
+1823	TOK	between		between\P
+1824	TOK	a		a\AI---S
+1825	TOK	history		history\N5S
+1826	TOK	of		of\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1827	TOK	LHON		LHON\N46
+##	TAG	</name>
+1828	TOK	an		an\AI---S
+1829	TOK	one		one\MCS
+1830	TOK	of		of\P
+##	TAG	<name>
+1831	TOK	MELAS		MELAS\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1832	TOK	Some	BOS	some\AG---6
+1833	TOK	of		of\P
+1834	TOK	them		them\RPP3NA
+1835	TOK	would		will\VOFDA66
+1836	TOK	be		be\VMI----
+1837	TOK	related		relate\VMC----
+1838	TOK	with		with\P
+##	TAG	<name>
+1839	TOK	Parkinson		Parkinson\N46
+##	TAG	</name>
+1840	TOK	disease		disease\N5S
+1841	TOK	and		and\CC
+1842	TOK	others		other\RIP3N-
+1843	TOK	produce		produce\VMF6R66
+1844	TOK	isolated		isolate\VMC----
+1845	TOK	classical		classical\JA
+1846	TOK	history		history\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1847	TOK	Distribution	BOS	distribution\N5S
+1848	TOK	by		by\P
+1849	TOK	sexes		sex\N5P
+1850	TOK	of		of\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1851	TOK	LHON	EOS	LHON\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1853	TOK	The	BOS	the\AT---6
+1854	TOK	heteroplasmy		heteroplasmy\N5S
+1855	TOK	has		have\V6FDRS3
+1856	TOK	been		be\VMC----
+1857	TOK	implicated		implicate\VMC----
+1858	TOK	as		as\P
+1859	TOK	the		the\AT---6
+1860	TOK	base		base\N5S
+1861	TOK	of		of\P
+1862	TOK	the		the\AT---6
+1863	TOK	incomplete		incomplete\JA
+1864	TOK	penetrance		penetrance\N5S
+1865	TOK	in		in\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1866	TOK	LHON		LHON\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+1867	TOK	50% in		noanat\W
+##	TAG	</na>
+1868	TOK	males		male\N5P
+1869	TOK	and		and\CC
+##	TAG	<na type="function">
+1870	TOK	90% in		noanat\W
+##	TAG	</na>
+1871	TOK	women		woman\N5P
+1872	TOK	with		with\P
+1873	TOK	heteroplasmy		heteroplasmy\N5S
+1874	TOK	to		to\P
+1875	TOK	primary		primary\JA
+1876	TOK	mutations		mutation\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1877	TOK	An	BOS	an\AI---S
+1878	TOK	interesting		interesting\JA
+1879	TOK	element		element\N5S
+1880	TOK	is		be\V6FDRS3
+1881	TOK	the		the\AT---6
+1882	TOK	male		male\N5S
+1883	TOK	predominance		predominance\N5S
+1884	TOK	in		in\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+1885	TOK	LHON		LHON\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1886	TOK	It	BOS	it\RPS3N6
+1887	TOK	still		still\DGA7
+1888	TOK	remains		remain\VMFDRS3
+1889	TOK	unexplained		unexplained\JA
+1890	TOK	if		if\CS
+1891	TOK	there		there\DGA7
+1892	TOK	is		be\V6FDRS3
+1893	TOK	a		a\AI---S
+1894	TOK	theory		theory\N5S
+1895	TOK	of		of\P
+---	DLE	"		=\DELIM
+1896	TOK	susceptibility		susceptibility\N5S
+1897	TOK	gene		gene\N5S
+1898	TOK	of		of\P
+1899	TOK	visual		visual\JA
+1900	TOK	loss		loss\N5S
+1901	TOK	ligated		ligate\VMC----
+1902	TOK	to		to\P
+1903	TOK	X		X\N5P
+---	DLE	"		=\DELIM
+1904	TOK	but		but\CC
+1905	TOK	it		it\RPS3N6
+1906	TOK	is		be\V6FDRS3
+1907	TOK	controversial		controversial\JA
+1908	TOK	and		and\CC
+1909	TOK	in		in\P
+1910	TOK	many		many\AI---P
+1911	TOK	cases		case\N5P
+1912	TOK	it		it\RPS3N6
+1913	TOK	has		have\V6FDRS3
+1914	TOK	been		be\VMC----
+1915	TOK	refuted		refute\VMC----
+1916	TOK	when		when\CS
+1917	TOK	analyzing		analyze\VMG----
+1918	TOK	the		the\AT---6
+1919	TOK	datums		datums\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1920	TOK	What	BOS	what\RW63N-
+1921	TOK	it		it\RPS3N6
+1922	TOK	has		have\V6FDRS3
+1923	TOK	been		be\VMC----
+1924	TOK	demonstrated		demonstrate\VMC----
+1925	TOK	by		by\P
+1926	TOK	many		many\AI---P
+1927	TOK	authors		author\N5P
+1928	TOK	is		be\V6FDRS3
+1929	TOK	that		that\CS
+1930	TOK	there		there\DGA7
+1931	TOK	are		be\V6FDR66
+1932	TOK	differences		difference\N5P
+1933	TOK	between		between\P
+1934	TOK	men		man\N5P
+1935	TOK	and		and\CC
+1936	TOK	women		woman\N5P
+##	TAG	<loc pos="P">
+1937	TOK	as to		as_to\P
+##	TAG	</loc>
+1938	TOK	the		the\AT---6
+1939	TOK	clinical		clinical\JA
+1940	TOK	development		development\N5S
+1941	TOK	of		of\P
+1942	TOK	the		the\AT---6
+1943	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1944	TOK	It	BOS	it\RPS3N6
+1945	TOK	is		be\V6FDRS3
+1946	TOK	stated		state\VMC----
+1947	TOK	a		a\AI---S
+1948	TOK	better		good\JC
+1949	TOK	recuperation		recuperation\N5S
+1950	TOK	rate		rate\N5S
+1951	TOK	for		for\P
+1952	TOK	men		man\N5P
+---	DLD	,		=\DELIM
+1953	TOK	with		with\P
+1954	TOK	a		a\AI---S
+1955	TOK	minor		minor\JA
+1956	TOK	average		average\N5S
+1957	TOK	age		age\N5S
+1958	TOK	of		of\P
+1959	TOK	beginning		begin\VMG----
+1960	TOK	for		for\P
+1961	TOK	women		woman\N5P
+1962	TOK	and		and\CC
+1963	TOK	the		the\AT---6
+1964	TOK	presence		presence\N5S
+1965	TOK	in		in\P
+1966	TOK	most		most\AG---6
+1967	TOK	of		of\P
+1968	TOK	them		them\RPP3NA
+1969	TOK	of		of\P
+1970	TOK	their		their\APP3N6
+1971	TOK	affected		affect\VMC----
+1972	TOK	mother		mother\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1973	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1974	TOK	if		if\CS
+1975	TOK	the		the\AT---6
+1976	TOK	beginning		beginning\N5S
+1977	TOK	age		age\N5S
+1978	TOK	is		be\V6FDRS3
+1979	TOK	early		early\DGA7
+---	DLE	(		=\DELIM
+1980	TOK	first		first\MOS
+1981	TOK	or		or\CC
+1982	TOK	second		second\MOS
+1983	TOK	decade		decade\N5S
+1984	TOK	of		of\P
+1985	TOK	life		life\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1986	TOK	with		with\P
+1987	TOK	independence		independence\N5S
+1988	TOK	of		of\P
+1989	TOK	the		the\AT---6
+1990	TOK	sex		sex\N5S
+1991	TOK	the		the\AT---6
+1992	TOK	recuperation		recuperation\N5S
+1993	TOK	prognostic		prognostic\N5S
+1994	TOK	is		be\V6FDRS3
+1995	TOK	worst		bad\JS
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1996	TOK	Classical	BOS	classical\JA
+1997	TOK	clinical		clinical\JA
+1998	TOK	history	EOS	history\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2000	TOK	In	BOS	in\P
+2001	TOK	the		the\AT---6
+2002	TOK	classical		classical\JA
+2003	TOK	clinical		clinical\JA
+2004	TOK	history		history\N5S
+2005	TOK	the		the\AT---6
+2006	TOK	mayor		mayor\N5S
+2007	TOK	symptom		symptom\N5S
+2008	TOK	is		be\V6FDRS3
+2009	TOK	the		the\AT---6
+2010	TOK	acute		acute\JA
+2011	TOK	loss		loss\N5S
+2012	TOK	of		of\P
+2013	TOK	central		central\JA
+2014	TOK	vision		vision\N5S
+---	DLD	,		=\DELIM
+2015	TOK	bilateral		bilateral\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2016	TOK	There	BOS	there\DGA7
+2017	TOK	is		be\V6FDRS3
+2018	TOK	a		a\AI---S
+2019	TOK	great		great\JA
+2020	TOK	variety		variety\N5S
+2021	TOK	of		of\P
+2022	TOK	findings		finding\N5P
+2023	TOK	associated		associate\VMC----
+2024	TOK	or		or\CC
+2025	TOK	not		not\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2026	TOK	Classically	BOS	classically\DGA7
+2027	TOK	the		the\AT---6
+2028	TOK	disease		disease\N5S
+2029	TOK	occur		occur\VMF6R66
+2030	TOK	like		like\P
+---	DLE	"		=\DELIM
+2031	TOK	thunder		thunder\N5S
+2032	TOK	in		in\P
+2033	TOK	clear		clear\JA
+2034	TOK	sky		sky\N5S
+---	DLD	"		=\DELIM
+---	DLD	,		=\DELIM
+2035	TOK	without		without\P
+2036	TOK	prodromes		prodrome\N5P
+---	DLD	,		=\DELIM
+2037	TOK	though		though\DGA7
+2038	TOK	can		can\VOFDR66
+2039	TOK	occur		occur\VMI----
+2040	TOK	migraine		migraine\N5S
+2041	TOK	in		in\P
+2042	TOK	the		the\AT---6
+##	TAG	<na type="function">
+2043	TOK	33% of		noanat\W
+##	TAG	</na>
+2044	TOK	the		the\AT---6
+2045	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2046	TOK	The	BOS	the\AT---6
+2047	TOK	loss		loss\N5S
+2048	TOK	of		of\P
+2049	TOK	central		central\JA
+2050	TOK	vision		vision\N5S
+2051	TOK	is		be\V6FDRS3
+2052	TOK	initially		initially\DGA7
+2053	TOK	monocular		monocular\JA
+---	DLD	,		=\DELIM
+2054	TOK	painless		painless\JA
+---	DLD	,		=\DELIM
+2055	TOK	and		and\CC
+2056	TOK	it		it\RPS3N6
+2057	TOK	is		be\V6FDRS3
+2058	TOK	developed		develop\VMC----
+2059	TOK	in		in\P
+2060	TOK	few		few\JA
+2061	TOK	hours		hour\N5P
+2062	TOK	or		or\CC
+2063	TOK	days		day\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2064	TOK	The	BOS	the\AT---6
+2065	TOK	patient		patient\N5S
+2066	TOK	describes		describe\VMFDRS3
+2067	TOK	blurred		blur\VMC----
+2068	TOK	vision		vision\N5S
+2069	TOK	with		with\P
+2070	TOK	the		the\AT---6
+2071	TOK	day		day\N5S
+2072	TOK	light		light\N5S
+2073	TOK	which		which\RW63N-
+2074	TOK	gets		get\VMFDRS3
+2075	TOK	better		good\JC
+2076	TOK	with		with\P
+2077	TOK	the		the\AT---6
+2078	TOK	sunset		sunset\N5S
+---	DLD	,		=\DELIM
+2079	TOK	but		but\CC
+2080	TOK	the		the\AT---6
+2081	TOK	adaptation		adaptation\N5S
+2082	TOK	curve		curve\N5S
+2083	TOK	to		to\P
+2084	TOK	darkness		darkness\N5S
+2085	TOK	is		be\V6FDRS3
+2086	TOK	subnormal		subnormal\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2087	TOK	There	BOS	there\N5S
+2088	TOK	could		can\VOFDA66
+2089	TOK	be		be\VMI----
+2090	TOK	transitory		transitory\JA
+2091	TOK	blurred		blur\VMC----
+2092	TOK	vision		vision\N5S
+2093	TOK	with		with\P
+2094	TOK	physical		physical\JA
+2095	TOK	exercise		exercise\N5S
+2096	TOK	or		or\CC
+2097	TOK	with		with\P
+2098	TOK	heat		heat\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2099	TOK	Uhtroff		Uhtroff\N46
+##	TAG	</name>
+2100	TOK	sign		sign\VMF6R66
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2101	TOK	There	BOS	there\DGA7
+2102	TOK	are		be\V6FDR66
+2103	TOK	also		also\DGA7
+2104	TOK	described		describe\VMC----
+2105	TOK	unspecific		unspecific\JA
+2106	TOK	lightening		lightening\N5S
+2107	TOK	of		of\P
+2108	TOK	lights		light\N5P
+2109	TOK	and		and\CC
+2110	TOK	colors		color\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2111	TOK	The	BOS	the\AT---6
+2112	TOK	colors		color\N5P
+2113	TOK	vision		vision\N5S
+2114	TOK	is		be\V6FDRS3
+2115	TOK	severely		severely\DGA7
+2116	TOK	affected		affect\VMC----
+2117	TOK	in		in\P
+2118	TOK	the		the\AT---6
+2119	TOK	early		early\JA
+2120	TOK	course		course\N5S
+2121	TOK	of		of\P
+2122	TOK	the		the\AT---6
+2123	TOK	disease		disease\N5S
+2124	TOK	with		with\P
+2125	TOK	axial		axial\JA
+2126	TOK	dyschromatopsy		dyschromatopsy\N5S
+2127	TOK	acquired		acquire\VMC----
+2128	TOK	to		to\P
+2129	TOK	he		he\RPS3MN
+2130	TOK	red		red\JA
+2131	TOK	and		and\CC
+2132	TOK	the		the\AT---6
+2133	TOK	green		green\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2134	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+2135	TOK	Eyes Fundus		Eyes_Fundus\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+2136	TOK	E/F		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+2137	TOK	discovers		discover\VMFDRS3
+2138	TOK	a		a\AI---S
+2139	TOK	hyperhemic		hyperhemic\JA
+2140	TOK	disk		disk\N5S
+2141	TOK	of		of\P
+2142	TOK	irregular		irregular\JA
+2143	TOK	edges		edge\N5P
+2144	TOK	and		and\CC
+2145	TOK	inflammation		inflammation\N5S
+2146	TOK	of		of\P
+2147	TOK	the		the\AT---6
+2148	TOK	underlined		underline\VMC----
+2149	TOK	nervous		nervous\JA
+2150	TOK	fiber		fiber\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2151	TOK	There	BOS	there\DGA7
+2152	TOK	is		be\V6FDRS3
+2153	TOK	no		no\AI---6
+2154	TOK	fluoresceine		fluoresceine\N5S
+2155	TOK	leaking		leak\VMG----
+2156	TOK	in		in\P
+2157	TOK	the		the\AT---6
+2158	TOK	head		head\N5S
+2159	TOK	of		of\P
+2160	TOK	the		the\AT---6
+2161	TOK	nervous		nervous\JA
+2162	TOK	but		but\CC
+2163	TOK	there		there\DGA7
+2164	TOK	is		be\V6FDRS3
+2165	TOK	telangectasic		telangectasic\JA
+2166	TOK	circumpapillar		circumpapillar\JA
+2167	TOK	microangiopathy		microangiopathy\N5P
+---	DLD	,		=\DELIM
+2168	TOK	with		with\P
+2169	TOK	irregular		irregular\JA
+2170	TOK	dilatation		dilatation\N5S
+2171	TOK	of		of\P
+2172	TOK	the		the\AT---6
+2173	TOK	pre		pre\N5S
+2174	TOK	and		and\CC
+2175	TOK	peripapillar		peripapillar\JA
+2176	TOK	capillars		capillars\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2177	TOK	The	BOS	the\AT---6
+2178	TOK	big		big\JA
+2179	TOK	vessels		vessel\N5P
+2180	TOK	are		be\V6FDR66
+2181	TOK	tortuous		tortuous\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2182	TOK	There	BOS	there\DGA7
+2183	TOK	is		be\V6FDRS3
+2184	TOK	great		great\JA
+2185	TOK	variability		variability\N5S
+2186	TOK	to		to\P
+2187	TOK	the		the\AT---6
+##	TAG	<na type="function">
+2188	TOK	E/F		noanat\W
+##	TAG	</na>
+2189	TOK	that		that\RW63N6
+2190	TOK	oscillates		oscillate\VMFDRS3
+2191	TOK	from		from\P
+2192	TOK	normality		normality\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2193	TOK	42		42\X
+##	TAG	</num>
+---	DLD	%		=\DELIM
+---	DLD	)		=\DELIM
+2194	TOK	to		to\P
+2195	TOK	florida		florida\JA
+2196	TOK	neuroretinitis		neuroretinitis\N5S
+2197	TOK	with		with\P
+2198	TOK	disk		disk\N5S
+2199	TOK	hemorrhage		hemorrhage\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2200	TOK	In	BOS	in\P
+2201	TOK	an		an\AI---S
+2202	TOK	interval		interval\N5S
+2203	TOK	from		from\P
+2204	TOK	weeks		week\N5P
+2205	TOK	to		to\P
+2206	TOK	months		month\N5P
+---	DLE	(		=\DELIM
+2207	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+2208	TOK	happen		happen\VMF6R66
+2209	TOK	the		the\AT---6
+2210	TOK	same		same\JA
+2211	TOK	with		with\P
+2212	TOK	the		the\AT---6
+2213	TOK	other		other\JA
+2214	TOK	eye		eye\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2215	TOK	It	BOS	it\RPS3N6
+2216	TOK	is		be\V6FDRS3
+2217	TOK	not		not\DGA7
+2218	TOK	frequent		frequent\JA
+2219	TOK	for		for\P
+2220	TOK	the		the\AT---6
+2221	TOK	interval		interval\N5S
+2222	TOK	to		to\P
+2223	TOK	get		get\VMI----
+2224	TOK	longer		long\JC
+---	DLE	(		=\DELIM
+2225	TOK	reported		report\VMC----
+2226	TOK	up		up\P
+2227	TOK	to		to\P
+##	TAG	<num>
+2228	TOK	8		8\X
+##	TAG	</num>
+2229	TOK	years		year\N5P
+---	DLD	)		=\DELIM
+2230	TOK	and		and\CC
+2231	TOK	it		it\RPS3N6
+2232	TOK	is		be\V6FDRS3
+2233	TOK	less		less\DDC7
+2234	TOK	frequent		frequent\JA
+2235	TOK	that		that\CS
+2236	TOK	it		it\RPS3N6
+2237	TOK	persists		persist\VMFDRS3
+2238	TOK	monocular		monocular\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2239	TOK	The	BOS	the\AT---6
+2240	TOK	visual		visual\JA
+2241	TOK	field		field\N5S
+2242	TOK	tests		test\N5P
+2243	TOK	typically		typically\DGA7
+2244	TOK	demonstrate		demonstrate\VMF6R66
+2245	TOK	a		a\AI---S
+2246	TOK	great		great\JA
+2247	TOK	central		central\JA
+2248	TOK	scotoma		scotoma\N5S
+---	DLD	,		=\DELIM
+2249	TOK	reflecting		reflect\VMG----
+2250	TOK	preferential		preferential\JA
+2251	TOK	inclusion		inclusion\N5S
+2252	TOK	of		of\P
+2253	TOK	the		the\AT---6
+2254	TOK	maculopapillar		maculopapillar\JA
+2255	TOK	packet		packet\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2256	TOK	The	BOS	the\AT---6
+2257	TOK	loss		loss\N5S
+2258	TOK	of		of\P
+2259	TOK	vision		vision\N5S
+2260	TOK	is		be\V6FDRS3
+2261	TOK	permanent		permanent\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2262	TOK	The	BOS	the\AT---6
+2263	TOK	atrophy		atrophy\N5S
+2264	TOK	doesn		do\V6FDRS3
+2265	PGR	't		not\DGA7
+2266	TOK	affect		affect\VMF6R66
+2267	TOK	the		the\AT---6
+2268	TOK	cupula		cupula\N5S
+---	DLD	,		=\DELIM
+2269	TOK	it		it\RPS3N6
+2270	TOK	will		will\VOFDR66
+2271	TOK	develop		develop\VMI----
+2272	TOK	beginning		beginning\N5S
+2273	TOK	by		by\P
+2274	TOK	the		the\AT---6
+2275	TOK	temporal		temporal\JA
+2276	TOK	field		field\N5S
+2277	TOK	with		with\P
+2278	TOK	gradual		gradual\JA
+2279	TOK	worsening		worsen\VMG----
+2280	TOK	of		of\P
+2281	TOK	the		the\AT---6
+2282	TOK	visual		visual\JA
+2283	TOK	acuteness		acuteness\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2284	TOK	V.A		V.A\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2285	TOK	in		in\P
+2286	TOK	the		the\AT---6
+2287	TOK	following		following\JA
+2288	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2289	TOK	The	BOS	the\AT---6
+2290	TOK	final		final\JA
+2291	TOK	result		result\N5S
+2292	TOK	is		be\V6FDRS3
+2293	TOK	variable		variable\JA
+---	DLD	,		=\DELIM
+2294	TOK	but		but\CC
+2295	TOK	the		the\AT---6
+2296	TOK	stability		stability\N5S
+2297	TOK	of		of\P
+2298	TOK	the		the\AT---6
+2299	TOK	visual		visual\JA
+2300	TOK	function		function\N5S
+2301	TOK	persist		persist\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2302	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+2303	TOK	in		in\P
+2304	TOK	some		some\AG---6
+2305	TOK	cases		case\N5P
+2306	TOK	there		there\DGA7
+2307	TOK	is		be\V6FDRS3
+2308	TOK	spontaneous		spontaneous\JA
+2309	TOK	recuperation		recuperation\N5S
+2310	TOK	although		although\CS
+2311	TOK	incomplete		incomplete\JA
+---	DLD	,		=\DELIM
+2312	TOK	uni		uni\N5S
+2313	TOK	or		or\CC
+2314	TOK	bilateral		bilateral\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2315	TOK	The	BOS	the\AT---6
+2316	TOK	molecular		molecular\JA
+2317	TOK	analysis		analysis\N5S
+2318	TOK	suggests		suggest\VMFDRS3
+2319	TOK	a		a\AI---S
+2320	TOK	relation		relation\N5S
+2321	TOK	between		between\P
+2322	TOK	the		the\AT---6
+2323	TOK	specific		specific\JA
+2324	TOK	mitochondrial		mitochondrial\JA
+2325	TOK	mutation		mutation\N5S
+2326	TOK	and		and\CC
+2327	TOK	the		the\AT---6
+2328	TOK	visual		visual\JA
+2329	TOK	recuperation		recuperation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2330	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+2331	TOK	14484		14484\X
+##	TAG	</num>
+2332	TOK	has		have\V6FDRS3
+2333	TOK	better		better\DDC7
+2334	TOK	prognostic		prognostic\JA
+2335	TOK	in		in\P
+2336	TOK	the		the\AT---6
+2337	TOK	recuperation		recuperation\N5S
+2338	TOK	rate		rate\N5S
+2339	TOK	with		with\P
+2340	TOK	a		a\AI---S
+##	TAG	<name>
+2341	TOK	V.A		V.A\N46
+##	TAG	</name>
+2342	TOK	of		of\P
+##	TAG	<na type="function">
+2343	TOK	20/60		noanat\W
+##	TAG	</na>
+2344	TOK	in		in\P
+2345	TOK	both		both\RIP3N-
+2346	TOK	eyes		eye\N5P
+2347	TOK	in		in\P
+2348	TOK	the		the\AT---6
+##	TAG	<na type="function">
+2349	TOK	37% of		noanat\W
+##	TAG	</na>
+2350	TOK	the		the\AT---6
+2351	TOK	cases		case\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2352	TOK	The	BOS	the\AT---6
+2353	TOK	mutation		mutation\N5S
+##	TAG	<num>
+2354	TOK	3460		3460\X
+##	TAG	</num>
+2355	TOK	has		have\V6FDRS3
+2356	TOK	a		a\AI---S
+2357	TOK	variable		variable\JA
+2358	TOK	rate		rate\N5S
+2359	TOK	but		but\CC
+2360	TOK	it		it\RPS3N6
+2361	TOK	reaches		reach\VMFDRS3
+2362	TOK	the		the\AT---6
+##	TAG	<na type="function">
+2363	TOK	22% of		noanat\W
+##	TAG	</na>
+2364	TOK	the		the\AT---6
+2365	TOK	recuperated		recuperate\VMC----
+2366	TOK	patients		patient\N5P
+2367	TOK	in		in\P
+2368	TOK	some		some\AG---6
+2369	TOK	degree		degree\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2370	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+2371	TOK	11778		11778\X
+##	TAG	</num>
+2372	TOK	is		be\V6FDRS3
+2373	TOK	the		the\AT---6
+2374	TOK	one		one\MCS
+2375	TOK	of		of\P
+2376	TOK	the		the\AT---6
+2377	TOK	worst		bad\JS
+2378	TOK	prognostic		prognostic\JA
+---	DLD	,		=\DELIM
+2379	TOK	only		only\DGA7
+2380	TOK	a		a\AI---S
+##	TAG	<na type="function">
+2381	TOK	5% of		noanat\W
+##	TAG	</na>
+2382	TOK	recuperation		recuperation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2383	TOK	The	BOS	the\AT---6
+2384	TOK	improvement		improvement\N5S
+2385	TOK	is		be\V6FDRS3
+2386	TOK	always		always\DGA7
+2387	TOK	more		more\DDC7
+2388	TOK	probable		probable\JA
+2389	TOK	if		if\CS
+2390	TOK	the		the\AT---6
+2391	TOK	loss		loss\N5S
+2392	TOK	of		of\P
+2393	TOK	vision		vision\N5S
+2394	TOK	doesn		do\V6FDRS3
+2395	PGR	't		not\DGA7
+2396	TOK	occur		occur\VMF6R66
+2397	TOK	in		in\P
+2398	TOK	early		early\JA
+2399	TOK	ages		age\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2400	TOK	The	BOS	the\AT---6
+2401	TOK	time		time\N5S
+2402	TOK	between		between\P
+2403	TOK	the		the\AT---6
+2404	TOK	beginning		beginning\N5S
+2405	TOK	and		and\CC
+2406	TOK	the		the\AT---6
+2407	TOK	end		end\N5S
+2408	TOK	of		of\P
+2409	TOK	the		the\AT---6
+2410	TOK	recuperation		recuperation\N5S
+2411	TOK	is		be\V6FDRS3
+2412	TOK	variable		variable\JA
+---	DLD	,		=\DELIM
+2413	TOK	it		it\RPS3N6
+2414	TOK	can		can\VOFDR66
+2415	TOK	be		be\VMI----
+2416	TOK	of		of\P
+##	TAG	<num>
+2417	TOK	10		10\X
+##	TAG	</num>
+2418	TOK	or		or\CC
+2419	TOK	more		many\JC
+2420	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+2421	TOK	being		be\VMG----
+2422	TOK	very		very\JA
+2423	TOK	rare		rare\JA
+2424	TOK	a		a\AI---S
+2425	TOK	relapse		relapse\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2426	TOK	Independently	BOS	independently\DGA7
+2427	TOK	from		from\P
+2428	TOK	the		the\AT---6
+2429	TOK	association		association\N5S
+2430	TOK	between		between\P
+2431	TOK	some		some\AG---6
+2432	TOK	mutations		mutation\N5P
+2433	TOK	and		and\CC
+2434	TOK	the		the\AT---6
+2435	TOK	recuperation		recuperation\N5S
+2436	TOK	rate		rate\N5S
+2437	TOK	of		of\P
+2438	TOK	the		the\AT---6
+##	TAG	<name>
+2439	TOK	Visual Acuteness		Visual_Acuteness\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2440	TOK	V.A		V.A\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2441	TOK	it		it\RPS3N6
+2442	TOK	was		be\V6F-A66
+2443	TOK	stated		state\VMC----
+2444	TOK	that		that\CS
+2445	TOK	the		the\AT---6
+2446	TOK	last		last\JA
+2447	TOK	one		one\RIS3N-
+2448	TOK	follows		follow\VMFDRS3
+2449	TOK	the		the\AT---6
+2450	TOK	clinical		clinical\JA
+2451	TOK	course		course\N5S
+2452	TOK	of		of\P
+2453	TOK	the		the\AT---6
+2454	TOK	disease		disease\N5S
+2455	TOK	without		without\P
+2456	TOK	any		any\AG---6
+2457	TOK	evident		evident\JA
+2458	TOK	signs		sign\N5P
+2459	TOK	that		that\CS
+2460	TOK	any		any\AG---6
+2461	TOK	therapeutic		therapeutic\JA
+2462	TOK	can		can\VOFDR66
+2463	TOK	propitiate		propitiate\VMI----
+2464	TOK	its		its\APS3N6
+2465	TOK	occurrence		occurrence\N5S
+2466	TOK	in		in\P
+2467	TOK	less		little\JC
+2468	TOK	time		time\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2469	TOK	In	BOS	in\P
+2470	TOK	terms		term\N5P
+2471	TOK	of		of\P
+2472	TOK	distribution		distribution\N5S
+2473	TOK	in		in\P
+2474	TOK	the		the\AT---6
+2475	TOK	population		population\N5S
+2476	TOK	typically		typically\DGA7
+2477	TOK	there		there\DGA7
+2478	TOK	are		be\V6FDR66
+2479	TOK	affected		affect\VMC----
+2480	TOK	young		young\JA
+2481	TOK	men		man\N5P
+2482	TOK	between		between\P
+##	TAG	<na type="function">
+2483	TOK	15 - 35		noanat\W
+##	TAG	</na>
+2484	TOK	years		year\N5P
+2485	TOK	of		of\P
+2486	TOK	age		age\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2487	TOK	The	BOS	the\AT---6
+2488	TOK	average		average\JA
+2489	TOK	age		age\N5S
+2490	TOK	of		of\P
+2491	TOK	the		the\AT---6
+2492	TOK	beginning		beginning\N5S
+2493	TOK	in		in\P
+2494	TOK	men		man\N5P
+2495	TOK	is		be\V6FDRS3
+2496	TOK	of		of\P
+##	TAG	<na type="function">
+2497	TOK	25-34		noanat\W
+##	TAG	</na>
+2498	TOK	and		and\CC
+2499	TOK	in		in\P
+2500	TOK	women		woman\N5P
+2501	TOK	of		of\P
+##	TAG	<na type="function">
+2502	TOK	23 - 26		noanat\W
+##	TAG	</na>
+2503	TOK	with		with\P
+2504	TOK	variable		variable\JA
+2505	TOK	ranks		rank\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+2506	TOK	LLeber	BOS	LLeber\N46
+##	TAG	</name>
+2507	TOK	plus		plus\CS
+2508	TOK	síndrom	EOS	síndrom\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2510	TOK	There	BOS	there\DGA7
+2511	TOK	are		be\V6FDR66
+2512	TOK	some		some\AG---6
+2513	TOK	diseases		disease\N5P
+2514	TOK	that		that\RW63N6
+2515	TOK	have		have\V6F6R66
+2516	TOK	been		be\VMC----
+2517	TOK	frequently		frequently\DGA7
+2518	TOK	associated		associate\VMC----
+2519	TOK	to		to\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+2520	TOK	LHON		LHON\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2521	TOK	From	BOS	from\P
+2522	TOK	this		this\AD---S
+2523	TOK	fact		fact\N5S
+2524	TOK	comes		come\VMFDRS3
+2525	TOK	the		the\AT---6
+##	TAG	<name>
+2526	TOK	Leber		Leber\N46
+##	TAG	</name>
+2527	TOK	plus		plus\CS
+##	TAG	<name>
+2528	TOK	Syndrome		Syndrome\N46
+##	TAG	</name>
+2529	TOK	denomination		denomination\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2530	TOK	Associated	BOS	associate\VMC----
+2531	TOK	diseases	EOS	disease\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<label pos="B">
+2533	TOK	-	BOS	=\B
+##	TAG	</label>
+2534	TOK	Of		of\P
+##	TAG	<name>
+2535	TOK	Neurological		Neurological\N46
+##	TAG	</name>
+2536	TOK	type		type\VMF6R66
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2537	TOK	Multiple	BOS	multiple\JA
+##	TAG	<name>
+2538	TOK	Sclerosis		Sclerosis\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2539	TOK	Subacute		Subacute\N46
+##	TAG	</name>
+2540	TOK	infantile		infantile\JA
+2541	TOK	encephalopathy		encephalopathy\N5S
+---	DLD	,		=\DELIM
+2542	TOK	tremor		tremor\N5S
+---	DLD	,		=\DELIM
+2543	TOK	disartria		disartria\N5P
+---	DLD	,		=\DELIM
+2544	TOK	ataxia		ataxia\N5S
+---	DLD	,		=\DELIM
+2545	TOK	signs		sign\N5P
+2546	TOK	of		of\P
+2547	TOK	posterior		posterior\JA
+2548	TOK	medullar		medullar\JA
+2549	TOK	cordon		cordon\N5S
+2550	TOK	and		and\CC
+2551	TOK	spasticity		spasticity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2552	TOK	Non	BOS	Non\N46
+##	TAG	</name>
+2553	TOK	well		well\DGA7
+2554	TOK	defined		define\VMC----
+2555	TOK	etiology		etiology\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<label pos="B">
+2556	TOK	-	BOS	=\B
+##	TAG	</label>
+2557	TOK	Of		of\P
+2558	TOK	cardiac		cardiac\JA
+2559	TOK	type		type\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2560	TOK	Preexcitation	BOS	Preexcitation\N46
+##	TAG	</name>
+2561	TOK	syndrome		syndrome\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2562	TOK	Long-Ganong-Levine		Long-Ganong-Levine\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2563	TOK	prolonged		prolong\VMC----
+##	TAG	<na type="function">
+2564	TOK	Q-T		noanat\W
+##	TAG	</na>
+2565	TOK	interval		interval\N5S
+---	DLD	,		=\DELIM
+2566	TOK	combination		combination\N5S
+2567	TOK	of		of\P
+2568	TOK	deep		deep\JA
+2569	TOK	Q		Q\N5P
+2570	TOK	with		with\P
+2571	TOK	high		high\JA
+2572	TOK	T		T\N5P
+2573	TOK	and		and\CC
+2574	TOK	others		other\RIP3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2575	TOK	Genetic	BOS	genetic\JA
+2576	TOK	counseling	EOS	counseling\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2578	TOK	The	BOS	the\AT---6
+2579	TOK	genetical		genetical\JA
+2580	TOK	counseling		counsel\VMG----
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2581	TOK	GC		GC\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2582	TOK	in		in\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+2583	TOK	LHON		LHON\N46
+##	TAG	</name>
+2584	TOK	is		be\V6FDRS3
+2585	TOK	not		not\DGA7
+2586	TOK	exact		exact\JA
+---	DLD	,		=\DELIM
+2587	TOK	the		the\AT---6
+2588	TOK	same		same\JA
+2589	TOK	as		as\P
+2590	TOK	the		the\AT---6
+2591	TOK	transmission		transmission\N5S
+2592	TOK	of		of\P
+2593	TOK	a		a\AI---S
+2594	TOK	mutation		mutation\N5S
+2595	TOK	which		which\RW63N-
+2596	TOK	is		be\V6FDRS3
+2597	TOK	not		not\DGA7
+2598	TOK	always		always\DGA7
+2599	TOK	associated		associate\VMC----
+2600	TOK	to		to\P
+2601	TOK	the		the\AT---6
+2602	TOK	transmission		transmission\N5S
+2603	TOK	of		of\P
+2604	TOK	a		a\AI---S
+2605	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2606	TOK	This	BOS	this\AD---S
+2607	TOK	phenomenon		phenomenon\N5S
+2608	TOK	is		be\V6FDRS3
+2609	TOK	common		common\JA
+2610	TOK	to		to\P
+2611	TOK	all		all\AG---6
+2612	TOK	the		the\AT---6
+2613	TOK	entities		entity\N5P
+2614	TOK	with		with\P
+2615	TOK	mutations		mutation\N5P
+2616	TOK	of		of\P
+2617	TOK	the		the\AT---6
+2618	TOK	mitochondrial		mitochondrial\JA
+##	TAG	<name>
+2619	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2620	TOK	Although	BOS	although\CS
+2621	TOK	the		the\AT---6
+2622	TOK	heteroplasmy		heteroplasmy\N5S
+2623	TOK	can		can\VOFDR66
+2624	TOK	be		be\VMI----
+2625	TOK	a		a\AI---S
+2626	TOK	determinant		determinant\N5S
+2627	TOK	factor		factor\N5S
+2628	TOK	in		in\P
+2629	TOK	the		the\AT---6
+2630	TOK	penetrance		penetrance\N5S
+2631	TOK	of		of\P
+2632	TOK	a		a\AI---S
+2633	TOK	disease		disease\N5S
+---	DLD	,		=\DELIM
+2634	TOK	many		many\AI---P
+2635	TOK	patients		patient\N5P
+2636	TOK	and		and\CC
+2637	TOK	their		their\APP3N6
+2638	TOK	non		non\N5P
+2639	TOK	affected		affect\VMC----
+2640	TOK	relatives		relative\N5P
+2641	TOK	in		in\P
+##	TAG	<name>
+2642	TOK	Leber		Leber\N46
+##	TAG	</name>
+2643	PGR	's		genmark\GENMARK
+2644	TOK	families		family\N5P
+2645	TOK	have		have\V6F6R66
+2646	TOK	very		very\JA
+2647	TOK	high		high\JA
+2648	TOK	quantities		quantity\N5P
+2649	TOK	of		of\P
+2650	TOK	mutant		mutant\N5S
+##	TAG	<abbr>
+2651	TOK	DNAmit.		DNAmit.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+2652	TOK	xxx		noanat\W
+---	DLE	)		=\DELIM
+2653	TOK	and		and\CC
+2654	TOK	many		many\AI---P
+2655	TOK	males		male\N5P
+2656	TOK	with		with\P
+2657	TOK	risk		risk\N5S
+2658	TOK	remain		remain\VMF6R66
+2659	TOK	non		non\N5P
+2660	TOK	affected		affect\VMC----
+2661	TOK	in		in\P
+2662	TOK	this		this\AD---S
+2663	TOK	context		context\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+2664	TOK	Because of	BOS	Because_of\P
+##	TAG	</loc>
+2665	TOK	this		this\AD---S
+2666	TOK	reason		reason\N5S
+2667	TOK	the		the\AT---6
+2668	TOK	analysis		analysis\N5S
+2669	TOK	of		of\P
+2670	TOK	the		the\AT---6
+##	TAG	<abbr>
+2671	TOK	DNAmit.		DNAmit.\N5S
+##	TAG	</abbr>
+2672	TOK	in		in\P
+2673	TOK	relatives		relative\N5P
+2674	TOK	of		of\P
+2675	TOK	risk		risk\N5S
+2676	TOK	is		be\V6FDRS3
+2677	TOK	not		not\DGA7
+2678	TOK	very		very\JA
+2679	TOK	useful		useful\JA
+---	DLD	,		=\DELIM
+2680	TOK	particularly		particularly\DGA7
+2681	TOK	in		in\P
+2682	TOK	young		young\JA
+2683	TOK	males		male\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2684	TOK	The	BOS	the\AT---6
+2685	TOK	heteroplasmy		heteroplasmy\JA
+2686	TOK	finding		finding\N5S
+2687	TOK	in		in\P
+2688	TOK	a		a\AI---S
+2689	TOK	relevant		relevant\JA
+2690	TOK	mutation		mutation\N5S
+2691	TOK	always		always\DGA7
+2692	TOK	provokes		provoke\VMFDRS3
+2693	TOK	familiar		familiar\JA
+2694	TOK	anxiety		anxiety\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2695	TOK	This	BOS	this\RDS3N-
+2696	TOK	is		be\V6FDRS3
+2697	TOK	particularly		particularly\DGA7
+2698	TOK	applicable		applicable\JA
+2699	TOK	to		to\P
+2700	TOK	have		have\VMI----
+2701	TOK	children		child\N5P
+---	DLD	,		=\DELIM
+2702	TOK	and		and\CC
+2703	TOK	it		it\RPS3N6
+2704	TOK	is		be\V6FDRS3
+2705	TOK	also		also\DGA7
+2706	TOK	a		a\AI---S
+2707	TOK	situation		situation\N5S
+2708	TOK	difficult		difficult\JA
+2709	TOK	to		to\P
+2710	TOK	manage		manage\VMI----
+2711	TOK	from		from\P
+2712	TOK	the		the\AT---6
+2713	TOK	ethical		ethical\JA
+2714	TOK	point		point\N5S
+2715	TOK	of		of\P
+2716	TOK	view		view\N5S
+2717	TOK	so		so\CC
+2718	TOK	it		it\RPS3N6
+2719	TOK	must		must\VOFDR66
+2720	TOK	be		be\VMI----
+2721	TOK	analyzed		analyze\VMC----
+2722	TOK	carefully		carefully\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2723	TOK	Although	BOS	although\CS
+2724	TOK	it		it\RPS3N6
+2725	TOK	is		be\V6FDRS3
+2726	TOK	possible		possible\JA
+2727	TOK	that		that\CS
+2728	TOK	some		some\AG---6
+2729	TOK	affected		affect\VMC----
+2730	TOK	males		male\N5P
+2731	TOK	present		present\VMF6R66
+2732	TOK	new		new\JA
+2733	TOK	mutations		mutation\N5P
+---	DLD	,		=\DELIM
+2734	TOK	which		which\RW63N-
+2735	TOK	is		be\V6FDRS3
+2736	TOK	suggested		suggest\VMC----
+2737	TOK	by		by\P
+2738	TOK	the		the\AT---6
+2739	TOK	absence		absence\N5S
+2740	TOK	of		of\P
+2741	TOK	mutation		mutation\N5S
+2742	TOK	in		in\P
+2743	TOK	the		the\AT---6
+2744	TOK	mother		mother\N5S
+2745	TOK	and		and\CC
+2746	TOK	other		other\JA
+2747	TOK	relatives		relative\N5P
+2748	TOK	of		of\P
+2749	TOK	this		this\AD---S
+2750	TOK	line		line\N5S
+---	DLD	,		=\DELIM
+2751	TOK	that		that\CS
+2752	TOK	has		have\V6FDRS3
+2753	TOK	only		only\DGA7
+2754	TOK	been		be\VMC----
+2755	TOK	described		describe\VMC----
+2756	TOK	for		for\P
+2757	TOK	a		a\AI---S
+2758	TOK	recent		recent\JA
+2759	TOK	mutation		mutation\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2760	TOK	13730		13730\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2761	TOK	which		which\RW63N-
+2762	TOK	has		have\V6FDRS3
+2763	TOK	uncertain		uncertain\JA
+2764	TOK	pathogenic		pathogenic\JA
+2765	TOK	meaning		mean\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2766	TOK	There	BOS	there\DGA7
+2767	TOK	haven		have\V6FDR66
+2768	PGR	't		not\DGA7
+2769	TOK	been		be\VMC----
+2770	TOK	still		still\DGA7
+2771	TOK	published		publish\VMC----
+2772	TOK	any		any\AG---6
+2773	TOK	data		data\N56
+2774	TOK	with		with\P
+2775	TOK	the		the\AT---6
+2776	TOK	occurrence		occurrence\N5S
+2777	TOK	risk		risk\N5S
+2778	TOK	in		in\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+2779	TOK	LHON		LHON\N46
+##	TAG	</name>
+2780	TOK	patients		patient\N5P
+2781	TOK	genetically		genetically\DGA7
+2782	TOK	defined		define\VMC----
+2783	TOK	and		and\CC
+2784	TOK	it		it\RPS3N6
+2785	TOK	is		be\V6FDRS3
+2786	TOK	not		not\DGA7
+2787	TOK	clear		clear\JA
+2788	TOK	how		how\DGAW
+2789	TOK	they		they\RPP3NN
+2790	TOK	can		can\VOFDR66
+2791	TOK	vary		vary\VMI----
+##	TAG	<loc pos="P">
+2792	TOK	according to		according_to\P
+##	TAG	</loc>
+2793	TOK	the		the\AT---6
+2794	TOK	mutation		mutation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2795	TOK	But	BOS	but\CC
+2796	TOK	there		there\DGA7
+2797	TOK	are		be\V6FDR66
+2798	TOK	preliminary		preliminary\JA
+2799	TOK	analysis		analysis\N5S
+2800	TOK	of		of\P
+##	TAG	<num>
+2801	TOK	87		87\X
+##	TAG	</num>
+2802	TOK	pedigrees		pedigree\N5P
+2803	TOK	with		with\P
+2804	TOK	the		the\AT---6
+2805	TOK	mutations		mutation\N5P
+##	TAG	<num>
+2806	TOK	11778		11778\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+2807	TOK	3460		3460\X
+##	TAG	</num>
+2808	TOK	and		and\CC
+##	TAG	<num>
+2809	TOK	14484		14484\X
+##	TAG	</num>
+2810	TOK	for		for\P
+2811	TOK	the		the\AT---6
+2812	TOK	disease		disease\N5S
+2813	TOK	that		that\RW63N6
+2814	TOK	were		be\V6F-A66
+2815	TOK	taken		take\VMC----
+2816	TOK	from		from\P
+2817	TOK	the		the\AT---6
+##	TAG	<name>
+2818	TOK	National Hospital of Neurology		National_Hospital_of_Neurology\N46
+##	TAG	</name>
+2819	TOK	and		and\CC
+##	TAG	<name>
+2820	TOK	Neurosurgery		Neurosurgery\N46
+##	TAG	</name>
+2821	TOK	at		at\P
+##	TAG	<name>
+2822	TOK	London		London\N46
+##	TAG	</name>
+2823	TOK	that		that\RW63N6
+2824	TOK	suggest		suggest\VMF6R66
+2825	TOK	the		the\AT---6
+2826	TOK	following		following\JA
+2827	TOK	risks		risk\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="-">
+##	TAG	<s>
+2828	TOK	Brothers	BOS	brother\N5P
+##	TAG	<num>
+2829	TOK	34		34\X
+##	TAG	</num>
+---	DLD	%	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+2831	TOK	Sisters	BOS	sister\N5P
+##	TAG	<num>
+2832	TOK	14		14\X
+##	TAG	</num>
+---	DLD	%	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+2834	TOK	Nephews	BOS	nephew\N5P
+##	TAG	<num>
+2835	TOK	42		42\X
+##	TAG	</num>
+---	DLD	%	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+2837	TOK	Nieces	BOS	niece\N5P
+##	TAG	<num>
+2838	TOK	9		9\X
+##	TAG	</num>
+---	DLD	%	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+2840	TOK	First	BOS	first\MOS
+2841	TOK	cousins		cousin\N5P
+##	TAG	<num>
+2842	TOK	40		40\X
+##	TAG	</num>
+---	DLD	%	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="-">
+##	TAG	<s>
+2844	TOK	First	BOS	first\MOS
+2845	TOK	cousin		cousin\N5S
+##	TAG	<num>
+2846	TOK	2		2\X
+##	TAG	</num>
+---	DLD	%	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2848	TOK	These	BOS	this\AD---P
+2849	TOK	risks		risk\N5P
+2850	TOK	can		can\VOFDR66
+2851	TOK	be		be\VMI----
+2852	TOK	modified		modify\VMC----
+2853	TOK	taking		take\VMG----
+2854	TOK	the		the\AT---6
+2855	TOK	penetrance		penetrance\N5S
+2856	TOK	in		in\P
+2857	TOK	relation		relation\N5S
+2858	TOK	with		with\P
+2859	TOK	the		the\AT---6
+2860	TOK	average		average\JA
+2861	TOK	age		age\N5S
+2862	TOK	of		of\P
+2863	TOK	beginning		begin\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2864	TOK	For	BOS	for\P
+2865	TOK	the		the\AT---6
+##	TAG	<num>
+2866	TOK	three		three\X
+##	TAG	</num>
+2867	TOK	most		most\DDS7
+2868	TOK	important		important\JA
+2869	TOK	mutations		mutation\N5P
+2870	TOK	is		be\V6FDRS3
+2871	TOK	of		of\P
+2872	TOK	approximately		approximately\DGA7
+##	TAG	<num>
+2873	TOK	20		20\X
+##	TAG	</num>
+2874	TOK	years		year\N5P
+2875	TOK	for		for\P
+2876	TOK	males		male\N5P
+2877	TOK	and		and\CC
+##	TAG	<num>
+2878	TOK	28		28\X
+##	TAG	</num>
+2879	TOK	for		for\P
+2880	TOK	females		female\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2881	TOK	Multiple	BOS	multiple\JA
+2882	TOK	studies		study\N5P
+2883	TOK	for		for\P
+2884	TOK	other		other\JA
+2885	TOK	mutations		mutation\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2886	TOK	14484		14484\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2887	TOK	also		also\DGA7
+2888	TOK	show		show\VMF6R66
+2889	TOK	a		a\AI---S
+2890	TOK	big		big\JA
+2891	TOK	difference		difference\N5S
+2892	TOK	in		in\P
+2893	TOK	the		the\AT---6
+2894	TOK	recurrence		recurrence\N5S
+2895	TOK	risk		risk\N5S
+2896	TOK	between		between\P
+2897	TOK	males		male\N5P
+2898	TOK	and		and\CC
+2899	TOK	females		female\N5P
+2900	TOK	of		of\P
+2901	TOK	different		different\JA
+2902	TOK	relationship		relationship\N5S
+2903	TOK	degrees		degree\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2904	TOK	The	BOS	the\AT---6
+2905	TOK	previously		previously\DGA7
+2906	TOK	referred		refer\VMC----
+2907	TOK	difficulties		difficulty\N5P
+2908	TOK	about		about\P
+2909	TOK	the		the\AT---6
+2910	TOK	use		use\N5S
+2911	TOK	of		of\P
+##	TAG	<abbr>
+2912	TOK	DNAmit.		DNAmit.\N5S
+##	TAG	</abbr>
+2913	TOK	molecular		molecular\JA
+2914	TOK	analysis		analysis\N5S
+2915	TOK	in		in\P
+2916	TOK	risk		risk\N5S
+2917	TOK	relatives		relative\N5P
+---	DLD	,		=\DELIM
+2918	TOK	have		have\V6F6R66
+2919	TOK	also		also\DGA7
+2920	TOK	appliance		appliance\N5S
+2921	TOK	in		in\P
+2922	TOK	the		the\AT---6
+2923	TOK	molecular		molecular\JA
+2924	TOK	prenatal		prenatal\JA
+2925	TOK	diagnostic		diagnostic\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2926	TOK	Due	BOS	due\JA
+2927	TOK	to		to\P
+2928	TOK	the		the\AT---6
+2929	TOK	fact		fact\N5S
+2930	TOK	that		that\CS
+2931	TOK	it		it\RPS3N6
+2932	TOK	is		be\V6FDRS3
+2933	TOK	not		not\DGA7
+2934	TOK	known		know\VMC----
+2935	TOK	the		the\AT---6
+2936	TOK	proportion		proportion\N5S
+2937	TOK	of		of\P
+2938	TOK	mutant		mutant\N5S
+##	TAG	<abbr>
+2939	TOK	DNAmit.		DNAmit.\N5P
+##	TAG	</abbr>
+2940	TOK	in		in\P
+2941	TOK	chorionic		chorionic\JA
+2942	TOK	vellous		vellous\JA
+2943	TOK	that		that\CS
+2944	TOK	reduces		reduce\VMFDRS3
+2945	TOK	the		the\AT---6
+2946	TOK	genetic		genetic\JA
+2947	TOK	risk		risk\N5S
+---	DLD	,		=\DELIM
+2948	TOK	or		or\CC
+2949	TOK	how		how\DGAW
+2950	TOK	this		this\AD---S
+2951	TOK	proportion		proportion\N5S
+2952	TOK	can		can\VOFDR66
+2953	TOK	change		change\VMI----
+2954	TOK	during		during\P
+2955	TOK	the		the\AT---6
+2956	TOK	pre		pre\N5S
+2957	TOK	and		and\CC
+2958	TOK	post		post\VMI----
+2959	TOK	natal		natal\JA
+2960	TOK	development		development\N5S
+---	DLD	,		=\DELIM
+2961	TOK	the		the\AT---6
+2962	TOK	only		only\JA
+2963	TOK	option		option\N5S
+2964	TOK	in		in\P
+2965	TOK	women		woman\N5P
+2966	TOK	carrier		carrier\N5S
+2967	TOK	of		of\P
+2968	TOK	this		this\RDS3N-
+2969	TOK	altered		alter\VMC----
+##	TAG	<abbr>
+2970	TOK	DNAmit.		DNAmit.\N5P
+##	TAG	</abbr>
+2971	TOK	that		that\RW63N6
+2972	TOK	desire		desire\VMF6R66
+2973	TOK	to		to\P
+2974	TOK	avoid		avoid\VMI----
+2975	TOK	a		a\AI---S
+2976	TOK	high		high\JA
+2977	TOK	risk		risk\N5S
+2978	TOK	pregnancy		pregnancy\N5S
+2979	TOK	is		be\V6FDRS3
+2980	TOK	the		the\AT---6
+2981	TOK	abortion		abortion\N5S
+2982	TOK	of		of\P
+2983	TOK	male		male\N5S
+2984	TOK	fetuses		fetus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2985	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+2986	TOK	their		their\APP3N6
+2987	TOK	daughters		daughter\N5P
+2988	TOK	have		have\V6F6R66
+2989	TOK	also		also\DGA7
+2990	TOK	high		high\JA
+2991	TOK	risk		risk\N5S
+2992	TOK	of		of\P
+2993	TOK	being		be\VMG----
+2994	TOK	affected		affect\VMF6A66
+---	DLD	,		=\DELIM
+2995	TOK	that		that\CS
+2996	TOK	is		be\V6FDRS3
+2997	TOK	to		to\P
+2998	TOK	say		say\VMI----
+2999	TOK	that		that\CS
+3000	TOK	up		up\P
+3001	TOK	to		to\P
+3002	TOK	the		the\AT---6
+3003	TOK	moment		moment\N5S
+3004	TOK	it		it\RPS3N6
+3005	TOK	is		be\V6FDRS3
+3006	TOK	not		not\DGA7
+3007	TOK	possible		possible\JA
+3008	TOK	the		the\AT---6
+3009	TOK	control		control\N5S
+3010	TOK	of		of\P
+3011	TOK	a		a\AI---S
+3012	TOK	normal		normal\JA
+3013	TOK	pregnancy		pregnancy\N5S
+3014	TOK	to		to\P
+3015	TOK	guarantee		guarantee\N5S
+3016	TOK	that		that\RW63N6
+3017	TOK	do		do\V6FDR66
+3018	TOK	not		not\DGA7
+3019	TOK	exist		exist\VMI----
+3020	TOK	this		this\AD---S
+3021	TOK	kind		kind\N5S
+3022	TOK	of		of\P
+3023	TOK	problem		problem\N5S
+3024	TOK	in		in\P
+3025	TOK	the		the\AT---6
+3026	TOK	descent		descent\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3027	TOK	In	BOS	in\P
+3028	TOK	an		an\AI---S
+3029	TOK	alternative		alternative\JA
+3030	TOK	way		way\N5S
+3031	TOK	there		there\DGA7
+3032	TOK	could		can\VOFDA66
+3033	TOK	be		be\VMI----
+3034	TOK	used		use\VMC----
+3035	TOK	techniques		technique\N5P
+3036	TOK	of		of\P
+3037	TOK	assisted		assist\VMC----
+3038	TOK	reproduction		reproduction\N5S
+---	DLD	,		=\DELIM
+3039	TOK	but		but\CC
+3040	TOK	we		we\RPP1NN
+3041	TOK	are		be\V6FDR66
+3042	TOK	dealing		deal\VMG----
+3043	TOK	with		with\P
+3044	TOK	a		a\AI---S
+3045	TOK	field		field\N5S
+3046	TOK	that		that\RW63N6
+3047	TOK	hasn		have\V6FDRS3
+3048	PGR	't		not\DGA7
+3049	TOK	been		be\VMC----
+3050	TOK	still		still\DGA7
+3051	TOK	explored		explore\VMC----
+3052	TOK	in		in\P
+3053	TOK	these		this\AD---P
+3054	TOK	entities		entity\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+3055	TOK	LHON	BOS	LHON\N46
+##	TAG	</name>
+3056	TOK	and		and\CC
+3057	TOK	life		life\N5S
+3058	TOK	stiles		stile\N5P
+3059	TOK	and		and\CC
+3060	TOK	habits	EOS	habit\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3062	TOK	The	BOS	the\AT---6
+3063	TOK	existence		existence\N5S
+3064	TOK	in		in\P
+3065	TOK	the		the\AT---6
+3066	TOK	patients		patient\N5P
+3067	TOK	with		with\P
+3068	TOK	the		the\AT---6
+3069	TOK	entity		entity\N5S
+3070	TOK	of		of\P
+3071	TOK	toxic		toxic\JA
+3072	TOK	noxious		noxious\JA
+3073	TOK	habits		habit\N5P
+3074	TOK	as		as\P
+3075	TOK	alcoholism		alcoholism\N5S
+3076	TOK	and		and\CC
+3077	TOK	the		the\AT---6
+3078	TOK	smoking		smoke\VMG----
+3079	TOK	habit		habit\N5S
+3080	TOK	have		have\V6F6R66
+3081	TOK	propitiated		propitiate\VMC----
+3082	TOK	epidemiological		epidemiological\JA
+3083	TOK	studies		study\N5P
+3084	TOK	in		in\P
+3085	TOK	this		this\AD---S
+3086	TOK	sense		sense\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3087	TOK	It	BOS	it\RPS3N6
+3088	TOK	is		be\V6FDRS3
+3089	TOK	suggested		suggest\VMC----
+3090	TOK	that		that\CS
+##	TAG	<loc pos="CS">
+3091	TOK	even if		even_if\CS
+##	TAG	</loc>
+3092	TOK	these		this\AD---P
+3093	TOK	habits		habit\N5P
+3094	TOK	are		be\V6FDR66
+3095	TOK	not		not\DGA7
+3096	TOK	present		present\JA
+3097	TOK	in		in\P
+3098	TOK	many		many\RIP3N-
+3099	TOK	of		of\P
+3100	TOK	the		the\AT---6
+3101	TOK	cases		case\N5P
+3102	TOK	in		in\P
+3103	TOK	the		the\AT---6
+3104	TOK	disease		disease\N5S
+3105	TOK	debut		debut\N5S
+##	TAG	<loc pos="P">
+3106	TOK	because of		because_of\P
+##	TAG	</loc>
+3107	TOK	its		its\APS3N6
+3108	TOK	early		early\JA
+3109	TOK	occurrence		occurrence\N5S
+3110	TOK	and		and\CC
+3111	TOK	they		they\RPP3NN
+3112	TOK	can		can\V6FDR66
+3113	PGR	't		not\DGA7
+3114	TOK	be		be\VMI----
+3115	TOK	consequently		consequently\DGA7
+3116	TOK	associated		associate\VMC----
+3117	TOK	with		with\P
+3118	TOK	the		the\AT---6
+3119	TOK	occurrence		occurrence\N5S
+3120	TOK	age		age\N5S
+---	DLD	,		=\DELIM
+3121	TOK	it		it\RPS3N6
+3122	TOK	is		be\V6FDRS3
+3123	TOK	statistically		statistically\DGA7
+3124	TOK	significant		significant\JA
+3125	TOK	their		their\APP3N6
+3126	TOK	association		association\N5S
+3127	TOK	with		with\P
+3128	TOK	other		other\JA
+3129	TOK	variables		variable\N5P
+3130	TOK	like		like\P
+3131	TOK	the		the\AT---6
+3132	TOK	progressive		progressive\JA
+3133	TOK	worsening		worsen\VMG----
+3134	TOK	of		of\P
+3135	TOK	the		the\AT---6
+3136	TOK	symptoms		symptom\N5P
+3137	TOK	and		and\CC
+3138	TOK	the		the\AT---6
+3139	TOK	non		non\N5P
+---	DLI	-		=\DELIM
+3140	TOK	regression		regression\N5S
+3141	TOK	of		of\P
+3142	TOK	them		them\RPP3NA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3143	TOK	The	BOS	the\AT---6
+3144	TOK	biologically		biologically\DGA7
+3145	TOK	plausible		plausible\JA
+3146	TOK	explanation		explanation\N5S
+3147	TOK	is		be\V6FDRS3
+3148	TOK	that		that\RDS3N-
+3149	TOK	for		for\P
+3150	TOK	the		the\AT---6
+3151	TOK	consumption		consumption\N5S
+3152	TOK	of		of\P
+3153	TOK	these		this\AD---P
+3154	TOK	toxics		toxic\N5P
+3155	TOK	there		there\DGA7
+3156	TOK	are		be\V6FDR66
+3157	TOK	produced		produce\VMC----
+3158	TOK	substances		substance\N5P
+3159	TOK	called		call\VMF6A66
+3160	TOK	exogenous		exogenous\JA
+3161	TOK	toxins		toxin\N5P
+3162	TOK	that		that\RW63N6
+3163	TOK	are		be\V6FDR66
+3164	TOK	able		able\JA
+3165	TOK	of		of\P
+3166	TOK	moving		move\VMG----
+3167	TOK	forward		forward\DGA7
+3168	TOK	and		and\CC
+3169	TOK	getting		get\VMG----
+3170	TOK	worse		bad\JC
+3171	TOK	the		the\AT---6
+3172	TOK	clinical		clinical\JA
+3173	TOK	course		course\N5S
+3174	TOK	of		of\P
+3175	TOK	numerous		numerous\JA
+3176	TOK	mitochondrial		mitochondrial\JA
+3177	TOK	diseases		disease\N5P
+##	TAG	<loc pos="P">
+3178	TOK	because of		because_of\P
+##	TAG	</loc>
+3179	TOK	the		the\AT---6
+3180	TOK	overload		overload\N5S
+3181	TOK	of		of\P
+3182	TOK	the		the\AT---6
+3183	TOK	mitochondria		mitochondrion\N5P
+3184	TOK	function		function\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3185	TOK	The	BOS	the\AT---6
+3186	TOK	diet		diet\N5S
+3187	TOK	of		of\P
+3188	TOK	the		the\AT---6
+3189	TOK	patients		patient\N5P
+3190	TOK	is		be\V6FDRS3
+3191	TOK	another		another\JA
+3192	TOK	of		of\P
+3193	TOK	the		the\AT---6
+3194	TOK	topics		topic\N5P
+3195	TOK	of		of\P
+3196	TOK	difficult		difficult\JA
+3197	TOK	valorization		valorization\N5S
+3198	TOK	due		due\JA
+3199	TOK	to		to\P
+3200	TOK	its		its\APS3N6
+3201	TOK	heterogeneity		heterogeneity\N5S
+3202	TOK	in		in\P
+3203	TOK	the		the\AT---6
+3204	TOK	diverse		diverse\JA
+3205	TOK	geographic		geographic\JA
+3206	TOK	zones		zone\N5P
+3207	TOK	that		that\RW63N6
+3208	TOK	were		be\V6F-A66
+3209	TOK	studied		study\VMC----
+---	DLD	,		=\DELIM
+3210	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+3211	TOK	there		there\DGA7
+3212	TOK	is		be\V6FDRS3
+3213	TOK	a		a\AI---S
+3214	TOK	consensus		consensus\N5S
+3215	TOK	that		that\CS
+3216	TOK	the		the\AT---6
+3217	TOK	foodstuffs		foodstuff\N5P
+3218	TOK	rich		rich\JA
+3219	TOK	thyocianates		thyocianates\N5P
+3220	TOK	must		must\VOFDR66
+3221	TOK	be		be\VMI----
+3222	TOK	avoid		avoid\VMI----
+3223	TOK	in		in\P
+3224	TOK	excess		excess\N5S
+3225	TOK	and		and\CC
+3226	TOK	to		to\P
+3227	TOK	complement		complement\VMI----
+3228	TOK	the		the\AT---6
+3229	TOK	alimentation		alimentation\N5S
+3230	TOK	with		with\P
+3231	TOK	a		a\AI---S
+3232	TOK	vitamin		vitamin\N5S
+3233	TOK	supplement		supplement\N5S
+3234	TOK	that		that\RW63N6
+3235	TOK	includes		include\VMFDRS3
+3236	TOK	the		the\AT---6
+3237	TOK	ubiquinone		ubiquinone\N5S
+---	DLE	(		=\DELIM
+3238	TOK	Q		q\N5S
+3239	TOK	coenzyme		coenzyme\N5S
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+3240	TOK	what		what\RW63N-
+3241	TOK	theoretically		theoretically\DGA7
+3242	TOK	must		must\VOFDR66
+3243	TOK	improve		improve\VMI----
+3244	TOK	the		the\AT---6
+3245	TOK	progression		progression\N5S
+3246	TOK	of		of\P
+3247	TOK	the		the\AT---6
+3248	TOK	symptoms		symptom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3249	TOK	Nevertheless	BOS	nevertheless\DGA7
+---	DLD	,		=\DELIM
+3250	TOK	since		since\CS
+3251	TOK	we		we\RPP1NN
+3252	TOK	are		be\V6FDR66
+3253	TOK	dealing		deal\VMG----
+3254	TOK	with		with\P
+3255	TOK	a		a\AI---S
+3256	TOK	topic		topic\N5S
+3257	TOK	little		little\N5S
+3258	TOK	explored		explore\VMC----
+3259	TOK	there		there\DGA7
+3260	TOK	are		be\V6FDR66
+3261	TOK	detractors		detractor\N5P
+3262	TOK	of		of\P
+3263	TOK	the		the\AT---6
+3264	TOK	utility		utility\N5S
+3265	TOK	of		of\P
+3266	TOK	this		this\AD---S
+3267	TOK	last		last\JA
+3268	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3269	TOK	Molecular	BOS	molecular\JA
+3270	TOK	analisis	EOS	analisis\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3272	TOK	With	BOS	with\P
+3273	TOK	respect		respect\N5S
+3274	TOK	to		to\P
+3275	TOK	the		the\AT---6
+3276	TOK	molecular		molecular\JA
+3277	TOK	analysis		analysis\N5S
+3278	TOK	properly		properly\DGA7
+3279	TOK	said		say\VMF6A66
+3280	TOK	many		many\AI---P
+3281	TOK	techniques		technique\N5P
+3282	TOK	have		have\V6F6R66
+3283	TOK	been		be\VMC----
+3284	TOK	used		use\VMC----
+3285	TOK	to		to\P
+3286	TOK	study		study\N5S
+##	TAG	<abbr>
+3287	TOK	DNAmit.		DNAmit.\N5S
+##	TAG	</abbr>
+3288	TOK	mutations		mutation\N5P
+3289	TOK	and		and\CC
+3290	TOK	we		we\RPP1NN
+3291	TOK	have		have\V6F6R66
+3292	TOK	among		among\P
+3293	TOK	them		them\RPP3NA
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+3294	TOK	PCR	BOS	PCR\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3295	TOK	Southern		Southern\N46
+##	TAG	</name>
+3296	TOK	blotting		blot\VMG----
+3297	TOK	and		and\CC
+3298	TOK	cloning		clone\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3299	TOK	In	BOS	in\P
+3300	TOK	particular		particular\JA
+3301	TOK	for		for\P
+3302	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+3303	TOK	LHON		LHON\N46
+##	TAG	</name>
+3304	TOK	where		where\CS
+3305	TOK	the		the\AT---6
+3306	TOK	mutations		mutation\N5P
+3307	TOK	that		that\RW63N6
+3308	TOK	are		be\V6FDR66
+3309	TOK	presented		present\VMC----
+3310	TOK	are		be\V6FDR66
+3311	TOK	punctual		punctual\JA
+---	DLD	,		=\DELIM
+3312	TOK	with		with\P
+3313	TOK	better		good\JC
+3314	TOK	predominance		predominance\N5S
+3315	TOK	of		of\P
+3316	TOK	the		the\AT---6
+3317	TOK	transitions		transition\N5P
+3318	TOK	than		than\CS
+3319	TOK	transvertions		transvertions\N5P
+---	DLD	,		=\DELIM
+3320	TOK	the		the\AT---6
+3321	TOK	procedures		procedure\N5P
+3322	TOK	more		more\DDC7
+3323	TOK	used		use\VMC----
+3324	TOK	in		in\P
+3325	TOK	the		the\AT---6
+3326	TOK	routine		routine\N5S
+3327	TOK	testing		testing\N5S
+3328	TOK	for		for\P
+3329	TOK	the		the\AT---6
+3330	TOK	diagnostic		diagnostic\N5S
+3331	TOK	is		be\V6FDRS3
+3332	TOK	the		the\AT---6
+3333	TOK	amplification		amplification\N5S
+3334	TOK	by		by\P
+3335	TOK	means		mean\N56
+3336	TOK	of		of\P
+3337	TOK	chain		chain\N5S
+3338	TOK	reaction		reaction\N5S
+3339	TOK	of		of\P
+3340	TOK	polymerase		polymerase\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3341	TOK	CRP		CRP\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+3342	TOK	and		and\CC
+3343	TOK	digestion		digestion\N5S
+3344	TOK	with		with\P
+3345	TOK	specific		specific\JA
+3346	TOK	restriction		restriction\N5S
+3347	TOK	enzymes		enzyme\N5P
+3348	TOK	that		that\RW63N6
+3349	TOK	create		create\VMF6R66
+3350	TOK	a		a\AI---S
+3351	TOK	new		new\JA
+3352	TOK	site		site\N5S
+3353	TOK	or		or\CC
+3354	TOK	a		a\AI---S
+3355	TOK	site		site\N5S
+3356	TOK	already		already\DGA7
+3357	TOK	in		in\P
+3358	TOK	existence		existence\N5S
+3359	TOK	for		for\P
+3360	TOK	the		the\AT---6
+3361	TOK	enzyme		enzyme\N5S
+3362	TOK	in		in\P
+3363	TOK	the		the\AT---6
+3364	TOK	presence		presence\N5S
+3365	TOK	of		of\P
+3366	TOK	a		a\AI---S
+3367	TOK	mutation		mutation\N5S
+3368	TOK	disappear		disappear\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3369	TOK	The	BOS	the\AT---6
+3370	TOK	results		result\N5P
+3371	TOK	get		get\VMF6R66
+3372	TOK	visualized		visualize\VMC----
+3373	TOK	with		with\P
+3374	TOK	a		a\AI---S
+##	TAG	<name>
+3375	TOK	DNA		DNA\N46
+##	TAG	</name>
+3376	TOK	electrophoresis		electrophoresis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3377	TOK	It	BOS	it\RPS3N6
+3378	TOK	calls		call\VMFDRS3
+3379	TOK	the		the\AT---6
+3380	TOK	attention		attention\N5S
+3381	TOK	a		a\AI---S
+3382	TOK	specific		specific\JA
+3383	TOK	situation		situation\N5S
+3384	TOK	with		with\P
+3385	TOK	respect		respect\N5S
+3386	TOK	to		to\P
+3387	TOK	the		the\AT---6
+3388	TOK	healthy		healthy\JA
+3389	TOK	individuals		individual\N5P
+3390	TOK	of		of\P
+3391	TOK	families		family\N5P
+3392	TOK	with		with\P
+##	TAG	<name pos="N46" expansion="leber hereditary optic neuropathy">
+3393	TOK	LHON		LHON\N46
+##	TAG	</name>
+3394	TOK	in		in\P
+3395	TOK	which		which\RW63N-
+3396	TOK	the		the\AT---6
+3397	TOK	molecular		molecular\JA
+3398	TOK	studies		study\N5P
+3399	TOK	bring		bring\VMF6R66
+3400	TOK	forth		forth\DGA7
+3401	TOK	homoplasmy		homoplasmy\JA
+3402	TOK	to		to\P
+3403	TOK	the		the\AT---6
+3404	TOK	mutated		mutate\VMC----
+##	TAG	<abbr>
+3405	TOK	DNAmit.		DNAmit.\N5P
+##	TAG	</abbr>
+3406	TOK	without		without\P
+3407	TOK	the		the\AT---6
+3408	TOK	most		most\DDS7
+3409	TOK	slight		slight\JA
+3410	TOK	vestige		vestige\N5S
+3411	TOK	of		of\P
+3412	TOK	healthy		healthy\JA
+##	TAG	<name>
+3413	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+3414	TOK	independently		independently\DGA7
+3415	TOK	from		from\P
+3416	TOK	the		the\AT---6
+3417	TOK	type		type\N5S
+3418	TOK	of		of\P
+3419	TOK	study		study\N5S
+3420	TOK	that		that\RW63N6
+3421	TOK	was		be\V6F-A66
+3422	TOK	applied		apply\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3423	TOK	To	BOS	to\P
+3424	TOK	corroborate		corroborate\VMI----
+3425	TOK	the		the\AT---6
+3426	TOK	result		result\N5S
+3427	TOK	it		it\RPS3N6
+3428	TOK	has		have\V6FDRS3
+3429	TOK	been		be\VMC----
+3430	TOK	used		use\VMC----
+3431	TOK	the		the\AT---6
+3432	TOK	heteroplasmy		heteroplasmy\JA
+3433	TOK	quantification		quantification\N5S
+3434	TOK	using		use\VMG----
+3435	TOK	the		the\AT---6
+3436	TOK	SSCP(single		SSCP(single\N5S
+3437	TOK	strand		strand\N5S
+3438	TOK	conformation		conformation\N5S
+3439	TOK	polymorphism		polymorphism\N5S
+3440	TOK	analysis		analysis\N5S
+---	DLD	)		=\DELIM
+3441	TOK	or		or\CC
+3442	TOK	a		a\AI---S
+##	TAG	<name>
+3443	TOK	Southern Blot		Southern_Blot\N46
+##	TAG	</name>
+3444	TOK	post		post\VMF6R66
+##	TAG	<name>
+3445	TOK	PCR		PCR\N46
+##	TAG	</name>
+3446	TOK	or		or\CC
+3447	TOK	even		even\DGA7
+3448	TOK	methods		method\N5P
+3449	TOK	of		of\P
+3450	TOK	radioactive		radioactive\JA
+3451	TOK	scoring		score\VMG----
+3452	TOK	that		that\RW63N6
+3453	TOK	sensitize		sensitize\VMF6R66
+3454	TOK	the		the\AT---6
+3455	TOK	technique		technique\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3456	TOK	In	BOS	in\P
+3457	TOK	consequence		consequence\N5S
+---	DLD	,		=\DELIM
+3458	TOK	this		this\AD---S
+3459	TOK	result		result\N5S
+3460	TOK	of		of\P
+3461	TOK	heteroplasmy		heteroplasmy\JA
+3462	TOK	absence		absence\N5S
+3463	TOK	in		in\P
+3464	TOK	peripheral		peripheral\JA
+3465	TOK	blood		blood\N5S
+3466	TOK	in		in\P
+3467	TOK	sufficiently		sufficiently\DGA7
+3468	TOK	high		high\JA
+3469	TOK	levels		level\N5P
+3470	TOK	for		for\P
+3471	TOK	being		be\VMG----
+3472	TOK	detectable		detectable\JA
+---	DLD	,		=\DELIM
+3473	TOK	it		it\RPS3N6
+3474	TOK	is		be\V6FDRS3
+3475	TOK	not		not\DGA7
+3476	TOK	explained		explain\VMC----
+3477	TOK	by		by\P
+3478	TOK	the		the\AT---6
+3479	TOK	test		test\N5S
+3480	TOK	sensitivity		sensitivity\N5S
+---	DLD	,		=\DELIM
+3481	TOK	especially		especially\DGA7
+3482	TOK	if		if\CS
+3483	TOK	we		we\RPP1NN
+3484	TOK	take		take\VMF6R66
+3485	TOK	into		into\P
+3486	TOK	account		account\VMI----
+3487	TOK	the		the\AT---6
+3488	TOK	uniformity		uniformity\N5S
+3489	TOK	of		of\P
+3490	TOK	multiple		multiple\JA
+3491	TOK	results		result\N5P
+3492	TOK	in		in\P
+3493	TOK	this		this\AD---S
+3494	TOK	sense		sense\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+3495	TOK	According to	BOS	According_to\P
+##	TAG	</loc>
+3496	TOK	some		some\AG---6
+3497	TOK	molecular		molecular\JA
+3498	TOK	biologists		biologist\N5P
+3499	TOK	data		data\N56
+3500	TOK	that		that\RW63N6
+3501	TOK	work		work\VMF6R66
+3502	TOK	in		in\P
+3503	TOK	this		this\AD---S
+3504	TOK	investigative		investigative\JA
+3505	TOK	line		line\N5S
+3506	TOK	this		this\RDS3N-
+3507	TOK	is		be\V6FDRS3
+3508	TOK	a		a\AI---S
+3509	TOK	common		common\JA
+3510	TOK	and		and\CC
+3511	TOK	non		non\N5P
+---	DLI	-		=\DELIM
+3512	TOK	explained		explain\VMC----
+3513	TOK	phenomenon		phenomenon\N5S
+3514	TOK	that		that\RW63N6
+3515	TOK	is		be\V6FDRS3
+3516	TOK	presented		present\VMC----
+##	TAG	<loc pos="DGA7">
+3517	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+3518	TOK	in		in\P
+3519	TOK	all		all\AG---6
+3520	TOK	the		the\AT---6
+3521	TOK	families		family\N5P
+3522	TOK	studied		study\VMC----
+3523	TOK	in		in\P
+##	TAG	<name>
+3524	TOK	Canada		Canada\N46
+##	TAG	</name>
+3525	TOK	to		to\P
+3526	TOK	the		the\AT---6
+3527	TOK	mutation		mutation\N5S
+##	TAG	<num>
+3528	TOK	14484		14484\X
+##	TAG	</num>
+3529	TOK	in		in\P
+3530	TOK	which		which\RW63N-
+3531	TOK	was		be\V6F-A66
+3532	TOK	used		use\VMC----
+3533	TOK	initially		initially\DGA7
+3534	TOK	a		a\AI---S
+3535	TOK	routine		routine\N5S
+3536	TOK	procedure		procedure\N5S
+3537	TOK	and		and\CC
+3538	TOK	later		late\JC
+3539	TOK	there		there\DGA7
+3540	TOK	were		be\V6F-A66
+3541	TOK	used		use\VMC----
+3542	TOK	others		other\RIP3N-
+3543	TOK	more		more\DDC7
+3544	TOK	specific		specific\JA
+3545	TOK	from		from\P
+3546	TOK	the		the\AT---6
+3547	TOK	ones		one\N5P
+3548	TOK	already		already\DGA7
+3549	TOK	referred		refer\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3550	TOK	There	BOS	there\DGA7
+3551	TOK	have		have\V6F6R66
+3552	TOK	been		be\VMC----
+3553	TOK	proposed		propose\VMC----
+3554	TOK	numerous		numerous\JA
+3555	TOK	hypothesis		hypothesis\N5S
+3556	TOK	that		that\RW63N6
+3557	TOK	try		try\VMF6R66
+3558	TOK	to		to\P
+3559	TOK	explain		explain\VMI----
+3560	TOK	this		this\AD---S
+3561	TOK	finding		finding\N5S
+3562	TOK	but		but\CC
+3563	TOK	the		the\AT---6
+3564	TOK	most		most\DDS7
+3565	TOK	accepted		accept\VMC----
+3566	TOK	are		be\V6FDR66
+3567	TOK	based		base\VMC----
+3568	TOK	on		on\P
+##	TAG	<num>
+3569	TOK	two		two\X
+##	TAG	</num>
+3570	TOK	different		different\JA
+3571	TOK	mechanisms		mechanism\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3572	TOK	In	BOS	in\P
+3573	TOK	one		one\MCS
+3574	TOK	of		of\P
+3575	TOK	them		them\RPP3NA
+3576	TOK	it		it\RPS3N6
+3577	TOK	is		be\V6FDRS3
+3578	TOK	stated		state\VMC----
+3579	TOK	the		the\AT---6
+3580	TOK	genetic		genetic\JA
+3581	TOK	segregation		segregation\N5S
+3582	TOK	at		at\P
+3583	TOK	random		random\N5S
+3584	TOK	which		which\RW63N-
+3585	TOK	takes		take\VMFDRS3
+3586	TOK	place		place\N5S
+3587	TOK	during		during\P
+3588	TOK	the		the\AT---6
+3589	TOK	early		early\JA
+3590	TOK	ovogenesis		ovogenesis\N5S
+3591	TOK	that		that\RW63N6
+3592	TOK	propitiate		propitiate\VMF6R66
+3593	TOK	the		the\AT---6
+3594	TOK	occurrence		occurrence\N5S
+3595	TOK	of		of\P
+3596	TOK	homoplasmic		homoplasmic\JA
+3597	TOK	lines		line\N5P
+3598	TOK	in		in\P
+3599	TOK	the		the\AT---6
+3600	TOK	descent		descent\N5S
+3601	TOK	of		of\P
+3602	TOK	heteroplasmic		heteroplasmic\JA
+3603	TOK	progenitors		progenitor\N5P
+3604	TOK	making		make\VMG----
+3605	TOK	this		this\AD---S
+3606	TOK	phenomenon		phenomenon\N5S
+3607	TOK	common		common\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3608	TOK	In	BOS	in\P
+3609	TOK	the		the\AT---6
+3610	TOK	second		second\MOS
+3611	TOK	one		one\MCS
+3612	TOK	it		it\RPS3N6
+3613	TOK	was		be\V6F-A66
+3614	TOK	stated		state\VMC----
+3615	TOK	the		the\AT---6
+3616	TOK	finding		finding\N5S
+3617	TOK	of		of\P
+3618	TOK	a		a\AI---S
+3619	TOK	negative		negative\JA
+3620	TOK	selection		selection\N5S
+3621	TOK	against		against\P
+3622	TOK	cells		cell\N5P
+3623	TOK	of		of\P
+3624	TOK	peripheral		peripheral\JA
+3625	TOK	blood		blood\N5S
+3626	TOK	mutated		mutate\VMF6A66
+3627	TOK	in		in\P
+3628	TOK	their		their\APP3N6
+##	TAG	<abbr>
+3629	TOK	DNAmit.		DNAmit.\N5P
+##	TAG	</abbr>
+3630	TOK	in		in\P
+3631	TOK	the		the\AT---6
+3632	TOK	position		position\N5S
+##	TAG	<num>
+3633	TOK	3460		3460\X
+##	TAG	</num>
+3634	TOK	that		that\CS
+3635	TOK	propitiated		propitiate\VMC----
+3636	TOK	the		the\AT---6
+3637	TOK	gradual		gradual\JA
+3638	TOK	diminishment		diminishment\N5S
+3639	TOK	of		of\P
+3640	TOK	the		the\AT---6
+3641	TOK	heteroplasmy		heteroplasmy\JA
+3642	TOK	rate		rate\N5S
+3643	TOK	to		to\P
+3644	TOK	this		this\AD---S
+3645	TOK	level		level\N5S
+3646	TOK	in		in\P
+3647	TOK	a		a\AI---S
+3648	TOK	study		study\N5S
+3649	TOK	of		of\P
+##	TAG	<num>
+3650	TOK	six		six\X
+##	TAG	</num>
+3651	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3652	TOK	We	BOS	we\RPP1NN
+3653	TOK	can		can\V6FDR66
+3654	PGR	't		not\DGA7
+3655	TOK	affirm		affirm\VMF6R66
+3656	TOK	that		that\CS
+3657	TOK	in		in\P
+3658	TOK	such		such\JA
+3659	TOK	patients		patient\N5P
+3660	TOK	have		have\V6F6R66
+3661	TOK	occurred		occur\VMC----
+3662	TOK	a		a\AI---S
+3663	TOK	negative		negative\JA
+3664	TOK	selection		selection\N5S
+3665	TOK	against		against\P
+3666	TOK	blood		blood\N5S
+3667	TOK	cell		cell\N5S
+3668	TOK	non		non\N5P
+3669	TOK	mutated		mutate\VMF6A66
+3670	TOK	in		in\P
+3671	TOK	their		their\APP3N6
+##	TAG	<name>
+3672	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3673	TOK	which		which\RW63N-
+3674	TOK	would		will\VOFDA66
+3675	TOK	be		be\VMI----
+3676	TOK	little		little\DGA7
+3677	TOK	probable		probable\JA
+---	DLD	,		=\DELIM
+3678	TOK	but		but\CC
+3679	TOK	it		it\RPS3N6
+3680	TOK	would		will\VOFDA66
+3681	TOK	be		be\VMI----
+3682	TOK	of		of\P
+3683	TOK	benefit		benefit\N5S
+3684	TOK	in		in\P
+3685	TOK	future		future\N5S
+3686	TOK	investigations		investigation\N5P
+3687	TOK	to		to\P
+3688	TOK	count		count\N5S
+3689	TOK	with		with\P
+3690	TOK	samples		sample\N5P
+3691	TOK	of		of\P
+3692	TOK	other		other\JA
+3693	TOK	tissues		tissue\N5P
+3694	TOK	from		from\P
+3695	TOK	the		the\AT---6
+3696	TOK	patient		patient\N5S
+---	DLD	,		=\DELIM
+3697	TOK	like		like\P
+3698	TOK	hair		hair\N5S
+---	DLD	,		=\DELIM
+3699	TOK	skin		skin\N5S
+---	DLD	,		=\DELIM
+3700	TOK	mucosas		mucosa\N5P
+---	DLD	,		=\DELIM
+3701	TOK	fluids		fluid\N5P
+3702	TOK	as		as\P
+3703	TOK	saliva		saliva\N5S
+3704	TOK	and		and\CC
+3705	TOK	urine		urine\N5S
+3706	TOK	or		or\CC
+3707	TOK	even		even\DGA7
+##	TAG	<foreign lang="LA" pos="JA">
+3708	TOK	post mortem		post_mortem\JA
+##	TAG	</foreign>
+3709	TOK	samples		sample\N5P
+3710	TOK	of		of\P
+3711	TOK	tissues		tissue\N5P
+3712	TOK	from		from\P
+3713	TOK	the		the\AT---6
+3714	TOK	optic		optic\JA
+3715	TOK	nervous		nervous\JA
+3716	TOK	that		that\CS
+3717	TOK	when		when\CS
+3718	TOK	being		be\VMG----
+3719	TOK	studied		study\VMF6A66
+3720	TOK	together		together\DGA7
+3721	TOK	they		they\RPP3NN
+3722	TOK	give		give\VMF6R66
+3723	TOK	a		a\AI---S
+3724	TOK	complete		complete\JA
+3725	TOK	information		information\N5S
+3726	TOK	about		about\P
+3727	TOK	the		the\AT---6
+3728	TOK	heteroplasmy		heteroplasmy\JA
+3729	TOK	behavior		behavior\N5S
+3730	TOK	in		in\P
+3731	TOK	these		this\AD---P
+3732	TOK	families		family\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3733	TOK	Such	BOS	such\JA
+3734	TOK	samples		sample\N5P
+3735	TOK	in		in\P
+3736	TOK	their		their\APP3N6
+3737	TOK	study		study\N5S
+3738	TOK	would		will\VOFDA66
+3739	TOK	give		give\VMI----
+3740	TOK	elements		element\N5P
+3741	TOK	that		that\RW63N6
+3742	TOK	would		will\VOFDA66
+3743	TOK	clear		clear\VMI----
+3744	TOK	in		in\P
+3745	TOK	the		the\AT---6
+##	TAG	<name>
+3746	TOK	LHNO		LHNO\N46
+##	TAG	</name>
+3747	TOK	a		a\AI---S
+3748	TOK	finding		finding\N5S
+3749	TOK	verified		verify\VMC----
+3750	TOK	in		in\P
+3751	TOK	other		other\JA
+3752	TOK	entities		entity\N5P
+3753	TOK	like		like\P
+##	TAG	<name>
+3754	TOK	MERRF		MERRF\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3755	TOK	MELAS		MELAS\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3756	TOK	Kearns Sayre		Kearns_Sayre\N46
+##	TAG	</name>
+3757	TOK	in		in\P
+3758	TOK	which		which\RW63N-
+3759	TOK	it		it\RPS3N6
+3760	PGR	's		be\V6FDRS3
+3761	TOK	stated		state\VMC----
+3762	TOK	a		a\AI---S
+3763	TOK	specific		specific\JA
+3764	TOK	selection		selection\N5S
+3765	TOK	of		of\P
+3766	TOK	tissues		tissue\N5P
+3767	TOK	as		as\P
+3768	TOK	a		a\AI---S
+3769	TOK	modulator		modulator\N5S
+3770	TOK	element		element\N5S
+3771	TOK	in		in\P
+3772	TOK	the		the\AT---6
+3773	TOK	pathogenesis		pathogenesis\N5S
+3774	TOK	of		of\P
+##	TAG	<name>
+3775	TOK	DNAmit		DNAmit\N46
+##	TAG	</name>
+3776	TOK	mutations		mutation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

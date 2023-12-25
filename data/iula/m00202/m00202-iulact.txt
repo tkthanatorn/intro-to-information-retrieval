@@ -1,0 +1,5066 @@
+##	TAG	<div1>
+##	TAG	<p>
+##	TAG	<s>
+1	TOK	Cell	BOS	cell\N5S
+##	TAG	<name>
+2	TOK	Communication		Communication\N46
+##	TAG	</name>
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+5	TOK	Inside Story	EOS	Inside_Story\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+7	TOK	The	BOS	the\AT---6
+8	TOK	tiny		tiny\JA
+9	TOK	cells		cell\N5P
+10	TOK	in		in\P
+11	TOK	our		our\APP1N6
+12	TOK	bodies		body\N5P
+13	TOK	harbor		harbor\VMF6R66
+14	TOK	amazing		amazing\JA
+15	TOK	internal		internal\JA
+16	TOK	communication		communication\N5S
+17	TOK	networks		network\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+18	TOK	Understanding	BOS	understand\VMG----
+19	TOK	how		how\DGAW
+20	TOK	those		that\AD---P
+21	TOK	circuits		circuit\N5P
+22	TOK	are		be\V6FDR66
+23	TOK	organized		organize\VMC----
+24	TOK	could		can\VOFDA66
+25	TOK	help		help\VMI----
+26	TOK	scientists		scientist\N5P
+27	TOK	develop		develop\VMF6R66
+28	TOK	new		new\JA
+29	TOK	therapies		therapy\N5P
+30	TOK	for		for\P
+31	TOK	many		many\AI---P
+32	TOK	serious		serious\JA
+33	TOK	disorders		disorder\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+34	TOK	As	BOS	as\P
+35	TOK	anyone		anyone\RIS3N-
+36	TOK	familiar		familiar\JA
+37	TOK	with		with\P
+38	TOK	the		the\AT---6
+39	TOK	party		party\N5S
+40	TOK	game		game\N5S
+---	DLE	«		=\DELIM
+41	TOK	telephone		telephone\N5S
+---	DLD	»		=\DELIM
+42	TOK	knows		know\VMFDRS3
+---	DLD	,		=\DELIM
+43	TOK	when		when\CS
+44	TOK	people		people\N56
+45	TOK	try		try\VMF6R66
+46	TOK	to		to\P
+47	TOK	pass		pass\VMI----
+48	TOK	a		a\AI---S
+49	TOK	message		message\N5S
+50	TOK	from		from\P
+51	TOK	one		one\MCS
+52	TOK	individual		individual\N5S
+53	TOK	to		to\P
+54	TOK	another		another\RIS3N-
+55	TOK	in		in\P
+56	TOK	a		a\AI---S
+57	TOK	line		line\N5S
+---	DLD	,		=\DELIM
+58	TOK	they		they\RPP3NN
+59	TOK	usually		usually\DGA7
+60	TOK	garble		garble\VMF6R66
+61	TOK	the		the\AT---6
+62	TOK	words		word\N5P
+63	TOK	beyond		beyond\P
+64	TOK	recognition		recognition\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+65	TOK	It	BOS	it\RPS3N6
+66	TOK	might		may\VOFDR66
+67	TOK	seem		seem\VMI----
+68	TOK	surprising		surprise\VMG----
+---	DLD	,		=\DELIM
+69	TOK	then		then\DGA7
+---	DLD	,		=\DELIM
+70	TOK	that		that\CS
+71	TOK	mere		mere\JA
+72	TOK	molecules		molecule\N5P
+73	TOK	inside		inside\P
+74	TOK	our		our\APP1N6
+75	TOK	cells		cell\N5P
+76	TOK	constantly		constantly\DGA7
+77	TOK	enact		enact\VMF6R66
+78	TOK	their		their\APP3N6
+79	TOK	own		own\JA
+80	TOK	version		version\N5S
+81	TOK	of		of\P
+82	TOK	telephone		telephone\N5S
+83	TOK	without		without\P
+84	TOK	distorting		distort\VMG----
+85	TOK	the		the\AT---6
+86	TOK	relayed		relay\VMC----
+87	TOK	information		information\N5S
+88	TOK	in		in\P
+89	TOK	the		the\AT---6
+90	TOK	least		least\DDS7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+91	TOK	Actually	BOS	actually\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="RIS3N-">
+92	TOK	no one		no_one\RIS3N-
+##	TAG	</loc>
+93	TOK	could		can\VOFDA66
+94	TOK	survive		survive\VMI----
+95	TOK	without		without\P
+96	TOK	such		such\JA
+97	TOK	precise		precise\JA
+98	TOK	signaling		signal\VMG----
+99	TOK	in		in\P
+100	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+101	TOK	The	BOS	the\AT---6
+102	TOK	body		body\N5S
+103	TOK	functions		function\N5P
+104	TOK	properly		properly\DGA7
+105	TOK	only		only\DGA7
+106	TOK	because		because\CS
+107	TOK	cells		cell\N5P
+108	TOK	communicate		communicate\VMF6R66
+109	TOK	with		with\P
+##	TAG	<loc pos="DGA7">
+110	TOK	one another		one_another\DGA7
+##	TAG	</loc>
+111	TOK	constantly		constantly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+112	TOK	Pancreatic	BOS	pancreatic\JA
+113	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+114	TOK	for instance		for_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+115	TOK	release		release\N5S
+116	TOK	insulin		insulin\N5S
+117	TOK	to		to\P
+118	TOK	tell		tell\VMI----
+119	TOK	muscle		muscle\N5S
+120	TOK	cells		cell\N5P
+121	TOK	to		to\P
+122	TOK	take		take\VMI----
+123	TOK	up		up\P
+124	TOK	sugar		sugar\N5S
+125	TOK	from		from\P
+126	TOK	the		the\AT---6
+127	TOK	blood		blood\N5S
+128	TOK	for		for\P
+129	TOK	energy		energy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+130	TOK	Cells	BOS	cell\N5P
+131	TOK	of		of\P
+132	TOK	the		the\AT---6
+133	TOK	immune		immune\JA
+134	TOK	system		system\N5S
+135	TOK	instruct		instruct\VMF6R66
+136	TOK	their		their\APP3N6
+137	TOK	cousins		cousin\N5P
+138	TOK	to		to\P
+139	TOK	attack		attack\N5S
+140	TOK	invaders		invader\N5P
+---	DLD	,		=\DELIM
+141	TOK	and		and\CC
+142	TOK	cells		cell\N5P
+143	TOK	of		of\P
+144	TOK	the		the\AT---6
+145	TOK	nervous		nervous\JA
+146	TOK	system		system\N5S
+147	TOK	rapidly		rapidly\DGA7
+148	TOK	fire		fire\N5S
+149	TOK	messages		message\N5P
+150	TOK	to		to\P
+151	TOK	and		and\CC
+152	TOK	from		from\P
+153	TOK	the		the\AT---6
+154	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+155	TOK	Those	BOS	that\AD---P
+156	TOK	messages		message\N5P
+157	TOK	elicit		elicit\VMF6R66
+158	TOK	the		the\AT---6
+159	TOK	right		right\JA
+160	TOK	responses		response\N5P
+161	TOK	only		only\DGA7
+162	TOK	because		because\CS
+163	TOK	they		they\RPP3NN
+164	TOK	are		be\V6FDR66
+165	TOK	transmitted		transmit\VMC----
+166	TOK	accurately		accurately\DGA7
+167	TOK	far		far\DGA7
+168	TOK	into		into\P
+169	TOK	a		a\AI---S
+170	TOK	recipient		recipient\N5S
+171	TOK	cell		cell\N5S
+172	TOK	and		and\CC
+173	TOK	to		to\P
+174	TOK	the		the\AT---6
+175	TOK	exact		exact\JA
+176	TOK	molecules		molecule\N5P
+177	TOK	able		able\JA
+178	TOK	to		to\P
+179	TOK	carry		carry\VMI----
+180	TOK	out		out\DGA7
+181	TOK	the		the\AT---6
+182	TOK	directives		directive\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+183	TOK	But		but\N5S
+184	TOK	how		how\DGAW
+185	TOK	do		do\V6FDR66
+186	TOK	circuits		circuit\N5P
+187	TOK	within		within\P
+188	TOK	cells		cell\N5P
+189	TOK	achieve		achieve\VMF6R66
+190	TOK	this		this\AD---S
+191	TOK	high		high\JA
+---	DLI	-		=\DELIM
+192	TOK	fidelity		fidelity\N5S
+193	TOK	transmission		transmission\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+194	TOK	For	BOS	for\P
+195	TOK	a		a\AI---S
+196	TOK	long		long\JA
+197	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+198	TOK	biologists		biologist\N5P
+199	TOK	had		have\V6F6A66
+200	TOK	only		only\DGA7
+201	TOK	rudimentary		rudimentary\JA
+202	TOK	explanations		explanation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+203	TOK	In	BOS	in\P
+204	TOK	the		the\AT---6
+205	TOK	past		past\JA
+##	TAG	<num>
+206	TOK	15		15\X
+##	TAG	</num>
+207	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+208	TOK	though		though\CS
+---	DLD	,		=\DELIM
+209	TOK	they		they\RPP3NN
+210	TOK	have		have\V6F6R66
+211	TOK	made		make\VMC----
+212	TOK	great		great\JA
+213	TOK	progress		progress\N5S
+214	TOK	in		in\P
+215	TOK	unlocking		unlock\VMG----
+216	TOK	the		the\AT---6
+217	TOK	code		code\N5S
+218	TOK	that		that\CS
+219	TOK	cells		cell\N5P
+220	TOK	use		use\VMF6R66
+221	TOK	for		for\P
+222	TOK	their		their\APP3N6
+223	TOK	internal		internal\JA
+224	TOK	communications		communication\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+225	TOK	The	BOS	the\AT---6
+226	TOK	ongoing		ongoing\JA
+227	TOK	advances		advance\N5P
+228	TOK	are		be\V6FDR66
+229	TOK	suggesting		suggest\VMG----
+230	TOK	radically		radically\DGA7
+231	TOK	new		new\JA
+232	TOK	strategies		strategy\N5P
+233	TOK	for		for\P
+234	TOK	attacking		attack\VMG----
+235	TOK	diseases		disease\N5P
+236	TOK	that		that\RW63N6
+237	TOK	are		be\V6FDR66
+238	TOK	caused		cause\VMC----
+239	TOK	or		or\CC
+240	TOK	exacerbated		exacerbate\VMC----
+241	TOK	by		by\P
+242	TOK	faulty		faulty\JA
+243	TOK	signaling		signal\VMG----
+244	TOK	in		in\P
+245	TOK	cells		cell\N5P
+---	DLE	-		=\DELIM
+246	TOK	among		among\P
+247	TOK	them		them\RPP3NA
+248	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+249	TOK	diabetes		diabetes\N56
+250	TOK	and		and\CC
+251	TOK	disorders		disorder\N5P
+252	TOK	of		of\P
+253	TOK	the		the\AT---6
+254	TOK	immune		immune\JA
+255	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+256	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+257	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+259	TOK	SIGNAL	BOS	signal\N5S
+##	TAG	<name>
+260	TOK	TRANSMISSION		TRANSMISSION\N46
+##	TAG	</name>
+261	TOK	in		in\P
+262	TOK	a		a\AI---S
+263	TOK	cell		cell\N5S
+264	TOK	begins		begin\VMFDRS3
+265	TOK	when		when\CS
+266	TOK	messenger		messenger\N5S
+267	TOK	molecules		molecule\N5P
+---	DLD	,		=\DELIM
+268	TOK	such		such\JA
+269	TOK	as		as\P
+270	TOK	hormones		hormone\N5P
+---	DLD	,		=\DELIM
+271	TOK	dock		dock\N5S
+272	TOK	with		with\P
+273	TOK	receptor		receptor\N5S
+274	TOK	molecules		molecule\N5P
+275	TOK	on		on\P
+276	TOK	the		the\AT---6
+277	TOK	cell		cell\N5S
+278	TOK	surface	EOS	surface\N5S
+##	TAG	</head>
+##	TAG	<head>
+279	TOK	Refining	BOS	Refining\N5S
+280	TOK	the		the\AT---6
+##	TAG	<name>
+281	TOK	Question	EOS	Question\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+283	TOK	The	BOS	the\AT---6
+284	TOK	earliest		early\JS
+285	TOK	insights		insight\N5P
+286	TOK	into		into\P
+287	TOK	information		information\N5S
+288	TOK	transfer		transfer\N5S
+289	TOK	in		in\P
+290	TOK	cells		cell\N5P
+291	TOK	emerged		emerge\VMF6A66
+292	TOK	in		in\P
+293	TOK	the		the\AT---6
+294	TOK	late		late\JA
+##	TAG	<na type="code">
+295	TOK	1950s		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+296	TOK	when		when\CS
+##	TAG	<name>
+297	TOK	Edwin G. Krebs		Edwin_G._Krebs\N46
+##	TAG	</name>
+298	TOK	and		and\CC
+##	TAG	<name>
+299	TOK	Edmond H. Fischer		Edmond_H._Fischer\N46
+##	TAG	</name>
+300	TOK	of		of\P
+301	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+302	TOK	University of Washington		University_of_Washington\N46
+##	TAG	</name>
+303	TOK	and		and\CC
+304	TOK	the		the\AT---6
+305	TOK	late		late\JA
+##	TAG	<name>
+306	TOK	Earl W. Sutherland		Earl_W._Sutherland\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr pos="N5S" expansion="junior">
+307	TOK	Jr.		Jr.\N5S
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+308	TOK	of		of\P
+##	TAG	<name pos="N46" type="organization">
+309	TOK	Vanderbilt University		Vanderbilt_University\N46
+##	TAG	</name>
+310	TOK	identified		identify\VMF6A66
+311	TOK	the		the\AT---6
+312	TOK	first		first\MOS
+313	TOK	known		know\VMC----
+314	TOK	signal		signal\VMF6R66
+---	DLI	-		=\DELIM
+315	TOK	relaying		relay\VMG----
+316	TOK	molecules		molecule\N5P
+317	TOK	in		in\P
+318	TOK	the		the\AT---6
+319	TOK	cytoplasm		cytoplasm\N5S
+---	DLE	(		=\DELIM
+320	TOK	the		the\AT---6
+321	TOK	material		material\N5S
+322	TOK	between		between\P
+323	TOK	the		the\AT---6
+324	TOK	nucleus		nucleus\N5S
+325	TOK	and		and\CC
+326	TOK	a		a\AI---S
+327	TOK	cell		cell\N5S
+328	PGR	's		genmark\GENMARK
+329	TOK	outer		outer\JA
+330	TOK	membrane		membrane\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+331	TOK	All	BOS	all\N56
+##	TAG	<num>
+332	TOK	three		three\X
+##	TAG	</num>
+333	TOK	received		receive\VMC----
+##	TAG	<name>
+334	TOK	Nobel Prizes		Nobel_Prizes\N46
+##	TAG	</name>
+335	TOK	for		for\P
+336	TOK	their		their\APP3N6
+337	TOK	discoveries		discovery\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+338	TOK	By	BOS	by\P
+339	TOK	the		the\AT---6
+340	TOK	early		early\JA
+##	TAG	<na type="code">
+341	TOK	1980s		noanat\W
+##	TAG	</na>
+342	TOK	researchers		researcher\N5P
+343	TOK	had		have\V6F6A66
+344	TOK	gathered		gather\VMC----
+345	TOK	many		many\AI---P
+346	TOK	details		detail\N5P
+347	TOK	of		of\P
+348	TOK	how		how\DGAW
+349	TOK	signal		signal\N5S
+350	TOK	transmission		transmission\N5S
+351	TOK	occurs		occur\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+352	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+353	TOK	it		it\RPS3N6
+354	TOK	usually		usually\DGA7
+355	TOK	begins		begin\VMFDRS3
+356	TOK	after		after\P
+357	TOK	a		a\AI---S
+358	TOK	messenger		messenger\N5S
+359	TOK	responsible		responsible\JA
+360	TOK	for		for\P
+361	TOK	carrying		carry\VMG----
+362	TOK	information		information\N5S
+363	TOK	between		between\P
+364	TOK	cells		cell\N5P
+---	DLE	(		=\DELIM
+365	TOK	often		often\DGA7
+366	TOK	a		a\AI---S
+367	TOK	hormone		hormone\N5S
+---	DLD	)		=\DELIM
+368	TOK	docks		dock\N5P
+369	TOK	temporarily		temporarily\DGA7
+---	DLD	,		=\DELIM
+370	TOK	in		in\DGA7
+371	TOK	lock		lock\VMF6R66
+---	DLI	-		=\DELIM
+372	TOK	and		and\CC
+---	DLI	-		=\DELIM
+373	TOK	key		key\N5S
+374	TOK	fashion		fashion\VMF6R66
+---	DLD	,		=\DELIM
+375	TOK	with		with\P
+376	TOK	a		a\AI---S
+377	TOK	specific		specific\JA
+378	TOK	receptor		receptor\N5S
+379	TOK	on		on\P
+380	TOK	a		a\AI---S
+381	TOK	recipient		recipient\N5S
+382	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+383	TOK	Such	BOS	such\JA
+384	TOK	receptors		receptor\N5P
+---	DLD	,		=\DELIM
+385	TOK	the		the\AT---6
+386	TOK	functional		functional\JA
+387	TOK	equivalent		equivalent\JA
+388	TOK	of		of\P
+389	TOK	antennae		antenna\N5P
+---	DLD	,		=\DELIM
+390	TOK	are		be\V6FDR66
+391	TOK	able		able\JA
+392	TOK	to		to\P
+393	TOK	relay		relay\VMI----
+394	TOK	a		a\AI---S
+395	TOK	messenger		messenger\N5S
+396	PGR	's		genmark\GENMARK
+397	TOK	command		command\N5S
+398	TOK	into		into\P
+399	TOK	a		a\AI---S
+400	TOK	cell		cell\N5S
+401	TOK	because		because\CS
+402	TOK	they		they\RPP3NN
+403	TOK	are		be\V6FDR66
+404	TOK	physically		physically\DGA7
+405	TOK	connected		connect\VMC----
+406	TOK	to		to\P
+407	TOK	the		the\AT---6
+408	TOK	cytoplasm		cytoplasm\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+409	TOK	The	BOS	the\AT---6
+410	TOK	typical		typical\JA
+411	TOK	receptor		receptor\N5S
+412	TOK	is		be\V6FDRS3
+413	TOK	a		a\AI---S
+414	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+415	TOK	a		a\AI---S
+416	TOK	folded		fold\VMC----
+417	TOK	chain		chain\N5S
+418	TOK	of		of\P
+419	TOK	amino		amino\N5S
+420	TOK	acids		acid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+421	TOK	It	BOS	it\RPS3N6
+422	TOK	includes		include\VMFDRS3
+##	TAG	<loc pos="DGA7">
+423	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+##	TAG	<num>
+424	TOK	three		three\X
+##	TAG	</num>
+425	TOK	domains		domain\N5P
+---	DLD	:		=\DELIM
+426	TOK	an		an\AI---S
+427	TOK	external		external\JA
+428	TOK	docking		dock\VMG----
+429	TOK	region		region\N5S
+430	TOK	for		for\P
+431	TOK	a		a\AI---S
+432	TOK	hormone		hormone\N5S
+433	TOK	or		or\CC
+434	TOK	other		other\JA
+435	TOK	messenger		messenger\N5S
+---	DLD	,		=\DELIM
+436	TOK	a		a\AI---S
+437	TOK	component		component\N5S
+438	TOK	that		that\RW63N6
+439	TOK	spans		span\VMFDRS3
+440	TOK	the		the\AT---6
+441	TOK	cell		cell\N5S
+442	PGR	's		genmark\GENMARK
+443	TOK	outer		outer\JA
+444	TOK	membrane		membrane\N5S
+---	DLD	,		=\DELIM
+445	TOK	and		and\CC
+446	TOK	a		a\AI---S
+---	DLE	«		=\DELIM
+447	TOK	tail		tail\N5S
+---	DLD	»		=\DELIM
+448	TOK	that		that\CS
+449	TOK	extends		extend\VMFDRS3
+450	TOK	a		a\AI---S
+451	TOK	distance		distance\N5S
+452	TOK	into		into\P
+453	TOK	the		the\AT---6
+454	TOK	cytoplasm		cytoplasm\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+455	TOK	When	BOS	when\CS
+456	TOK	a		a\AI---S
+457	TOK	messenger		messenger\N5S
+458	TOK	binds		bind\VMFDRS3
+459	TOK	to		to\P
+460	TOK	the		the\AT---6
+461	TOK	external		external\JA
+462	TOK	site		site\N5S
+---	DLD	,		=\DELIM
+463	TOK	this		this\AD---S
+464	TOK	linkage		linkage\N5S
+465	TOK	induces		induce\VMFDRS3
+466	TOK	a		a\AI---S
+467	TOK	change		change\N5S
+468	TOK	in		in\P
+469	TOK	the		the\AT---6
+470	TOK	shape		shape\N5S
+471	TOK	of		of\P
+472	TOK	the		the\AT---6
+473	TOK	cytoplasmic		cytoplasmic\JA
+474	TOK	tail		tail\N5S
+---	DLD	,		=\DELIM
+475	TOK	thereby		thereby\DGA7
+476	TOK	facilitating		facilitate\VMG----
+477	TOK	the		the\AT---6
+478	TOK	tail		tail\N5S
+479	PGR	's		genmark\GENMARK
+480	TOK	interaction		interaction\N5S
+481	TOK	with		with\P
+##	TAG	<loc pos="DGA7">
+482	TOK	one or more		one_or_more\DGA7
+##	TAG	</loc>
+483	TOK	information		information\N5S
+---	DLI	-		=\DELIM
+484	TOK	relaying		relay\VMG----
+485	TOK	molecules		molecule\N5P
+486	TOK	in		in\P
+487	TOK	the		the\AT---6
+488	TOK	cytoplasm		cytoplasm\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+489	TOK	These	BOS	this\AD---P
+490	TOK	interactions		interaction\N5P
+491	TOK	in		in\P
+492	TOK	turn		turn\N5S
+493	TOK	initiate		initiate\VMF6R66
+494	TOK	cascades		cascade\N5P
+495	TOK	of		of\P
+496	TOK	further		further\JA
+497	TOK	intracellular		intracellular\JA
+498	TOK	signaling		signal\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+499	TOK	Yet	BOS	yet\DGA7
+##	TAG	<loc pos="RIS3N-">
+500	TOK	no one		no_one\RIS3N-
+##	TAG	</loc>
+501	TOK	had		have\V6F6A66
+502	TOK	a		a\AI---S
+503	TOK	good		good\JA
+504	TOK	explanation		explanation\N5S
+505	TOK	for		for\P
+506	TOK	how		how\DGAW
+507	TOK	communiqués		communiqués\N5P
+508	TOK	reached		reach\VMF6A66
+509	TOK	their		their\APP3N6
+510	TOK	destinations		destination\N5P
+511	TOK	without		without\P
+512	TOK	being		be\VMG----
+513	TOK	diverted		divert\VMC----
+514	TOK	along		along\P
+515	TOK	the		the\AT---6
+516	TOK	way		way\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+517	TOK	At	BOS	at\P
+518	TOK	that		that\AD---S
+519	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+520	TOK	cells		cell\N5P
+521	TOK	were		be\V6F-A66
+522	TOK	viewed		view\VMC----
+523	TOK	as		as\P
+524	TOK	balloonlike		balloonlike\JA
+525	TOK	bags		bag\N5P
+526	TOK	filled		fill\VMC----
+527	TOK	with		with\P
+528	TOK	a		a\AI---S
+529	TOK	soupy		soupy\JA
+530	TOK	cytoplasm		cytoplasm\N5S
+531	TOK	containing		contain\VMG----
+532	TOK	floating		floating\JA
+533	TOK	proteins		protein\N5P
+534	TOK	and		and\CC
+535	TOK	organelles		organelle\N5P
+---	DLE	(		=\DELIM
+536	TOK	membrane		membrane\N5S
+---	DLI	-		=\DELIM
+537	TOK	bound		bound\JA
+538	TOK	compartments		compartment\N5P
+---	DLD	,		=\DELIM
+539	TOK	such		such\JA
+540	TOK	as		as\P
+541	TOK	the		the\AT---6
+542	TOK	nucleus		nucleus\N5S
+543	TOK	and		and\CC
+544	TOK	mitochondria		mitochondrion\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+545	TOK	It	BOS	it\RPS3N6
+546	TOK	was		be\V6F-A66
+547	TOK	hard		hard\JA
+548	TOK	to		to\P
+549	TOK	see		see\VMI----
+550	TOK	how		how\DGAW
+---	DLD	,		=\DELIM
+551	TOK	in		in\P
+552	TOK	such		such\JA
+553	TOK	an		an\AI---S
+554	TOK	unstructured		unstructured\JA
+555	TOK	milieu		milieu\N5S
+---	DLD	,		=\DELIM
+556	TOK	any		any\AG---6
+557	TOK	given		give\VMC----
+558	TOK	internal		internal\JA
+559	TOK	messenger		messenger\N5S
+560	TOK	molecule		molecule\N5S
+561	TOK	could		can\VOFDA66
+562	TOK	consistently		consistently\DGA7
+563	TOK	and		and\CC
+564	TOK	quickly		quickly\DGA7
+565	TOK	find		find\VMF6R66
+566	TOK	exactly		exactly\DGA7
+567	TOK	the		the\AT---6
+568	TOK	right		right\JA
+569	TOK	tag		tag\N5S
+570	TOK	team		team\N5S
+571	TOK	needed		need\VMC----
+572	TOK	to		to\P
+573	TOK	convey		convey\VMI----
+574	TOK	a		a\AI---S
+575	TOK	directive		directive\N5S
+576	TOK	to		to\P
+577	TOK	the		the\AT---6
+578	TOK	laborers		laborer\N5P
+579	TOK	deep		deep\DGA7
+580	TOK	within		within\P
+581	TOK	the		the\AT---6
+582	TOK	cell		cell\N5S
+583	TOK	that		that\RW63N6
+584	TOK	could		can\VOFDA66
+585	TOK	execute		execute\VMI----
+586	TOK	the		the\AT---6
+587	TOK	order		order\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+588	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+589	TOK	Role of Modules		Role_of_Modules\N46
+##	TAG	</name>
+590	TOK	in		in\P
+##	TAG	<name>
+591	TOK	Signaling	EOS	Signaling\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+593	TOK	The	BOS	the\AT---6
+594	TOK	molecules		molecule\N5P
+595	TOK	that		that\RW63N6
+596	TOK	form		form\VMF6R66
+597	TOK	signaling		signal\VMG----
+598	TOK	circuits		circuit\N5P
+599	TOK	in		in\P
+600	TOK	cells		cell\N5P
+601	TOK	are		be\V6FDR66
+602	TOK	often		often\DGA7
+603	TOK	modular		modular\JA
+---	DLI	-		=\DELIM
+604	TOK	built		build\VMC----
+605	TOK	from		from\P
+606	TOK	components		component\N5P
+607	TOK	that		that\RW63N6
+608	TOK	carry		carry\VMF6R66
+609	TOK	out		out\DGA7
+610	TOK	distinct		distinct\JA
+611	TOK	tasks		task\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+612	TOK	This	BOS	this\AD---S
+613	TOK	discovery		discovery\N5S
+614	TOK	emerged		emerge\VMF6A66
+615	TOK	in		in\P
+616	TOK	part		part\N5S
+617	TOK	from		from\P
+618	TOK	studies		study\N5P
+619	TOK	of		of\P
+620	TOK	molecules		molecule\N5P
+621	TOK	known		know\VMC----
+622	TOK	as		as\P
+623	TOK	receptor		receptor\N5S
+624	TOK	tyrosine		tyrosine\N5S
+625	TOK	kinases		kinase\N5P
+---	DLE	(		=\DELIM
+626	TOK	pogo		pogo\VMF6R66
+---	DLI	-		=\DELIM
+627	TOK	stick		stick\N5S
+628	TOK	shape		shape\N5S
+629	TOK	in		in\P
+630	TOK	first		first\MOS
+631	TOK	panel		panel\N5S
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+633	TOK	When	BOS	when\CS
+634	TOK	a		a\AI---S
+635	TOK	hormone		hormone\N5S
+636	TOK	docks		dock\N5P
+637	TOK	with		with\P
+638	TOK	those		that\AD---P
+639	TOK	molecules		molecule\N5P
+640	TOK	at		at\P
+641	TOK	the		the\AT---6
+642	TOK	surface		surface\N5S
+643	TOK	of		of\P
+644	TOK	a		a\AI---S
+645	TOK	cell		cell\N5S
+---	DLE	(		=\DELIM
+646	TOK	second		second\MOS
+647	TOK	panel		panel\N5S
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+648	TOK	the		the\AT---6
+649	TOK	receptors		receptor\N5P
+650	TOK	pair		pair\VMF6R66
+651	TOK	up		up\P
+652	TOK	and		and\CC
+653	TOK	add		add\VMI----
+654	TOK	phosphates		phosphate\N5P
+655	TOK	to		to\P
+656	TOK	tyrosine		tyrosine\N5S
+---	DLD	,		=\DELIM
+657	TOK	an		an\AI---S
+658	TOK	amino		amino\N5S
+659	TOK	acid		acid\N5S
+---	DLD	,		=\DELIM
+660	TOK	on		on\P
+##	TAG	<loc pos="RPP3N-">
+661	TOK	each other		each_other\RPP3N-
+##	TAG	</loc>
+662	PGR	's		genmark\GENMARK
+663	TOK	cytoplasmic		cytoplasmic\JA
+664	TOK	tails		tail\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+665	TOK	Then	BOS	then\DGA7
+666	TOK	so		so\DGA7
+---	DLI	-		=\DELIM
+667	TOK	called		call\VMC----
+##	TAG	<name>
+668	TOK	SH2		SH2\N46
+##	TAG	</name>
+669	TOK	modules		module\N5P
+670	TOK	in		in\P
+671	TOK	certain		certain\JA
+672	TOK	proteins		protein\N5P
+673	TOK	hook		hook\VMF6R66
+674	TOK	onto		onto\P
+675	TOK	the		the\AT---6
+676	TOK	altered		alter\VMC----
+677	TOK	tyrosines		tyrosine\N5P
+---	DLE	(		=\DELIM
+678	TOK	last		last\JA
+679	TOK	panel		panel\N5S
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+681	TOK	This	BOS	this\AD---S
+682	TOK	linkage		linkage\N5S
+683	TOK	enables		enable\VMFDRS3
+---	DLE	«		=\DELIM
+684	TOK	talkative		talkative\JA
+---	DLD	»		=\DELIM
+685	TOK	enzymatic		enzymatic\JA
+686	TOK	modules		module\N5P
+687	TOK	in		in\P
+688	TOK	the		the\AT---6
+689	TOK	proteins		protein\N5P
+690	TOK	to		to\P
+691	TOK	pick		pick\VMI----
+692	TOK	up		up\P
+693	TOK	the		the\AT---6
+694	TOK	messenger		messenger\N5S
+695	PGR	's		genmark\GENMARK
+696	TOK	order		order\N5S
+697	TOK	and		and\CC
+698	TOK	pass		pass\VMF6R66
+699	TOK	it		it\RPS3N6
+700	TOK	along		along\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+701	TOK	On	BOS	on\P
+702	TOK	the		the\AT---6
+##	TAG	<name>
+703	TOK	Importance of Lego Blocks	EOS	Importance_of_Lego_Blocks\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+705	TOK	Today	BOS	today\N5S
+706	PGR	's		genmark\GENMARK
+707	TOK	fuller		full\JC
+708	TOK	understanding		understanding\N5S
+709	TOK	grew		grow\VMF6A66
+710	TOK	in		in\P
+711	TOK	part		part\N5S
+712	TOK	from		from\P
+713	TOK	efforts		effort\N5P
+714	TOK	to		to\P
+715	TOK	identify		identify\VMI----
+716	TOK	the		the\AT---6
+717	TOK	first		first\MOS
+718	TOK	cytoplasmic		cytoplasmic\JA
+719	TOK	proteins		protein\N5P
+720	TOK	that		that\RW63N6
+721	TOK	are		be\V6FDR66
+722	TOK	contacted		contact\VMC----
+723	TOK	by		by\P
+724	TOK	activated		activate\VMC----
+---	DLE	(		=\DELIM
+725	TOK	messenger		messenger\N5S
+---	DLI	-		=\DELIM
+726	TOK	bound		bind\VMF6A66
+---	DLD	)		=\DELIM
+727	TOK	receptors		receptor\N5P
+728	TOK	in		in\P
+729	TOK	a		a\AI---S
+730	TOK	large		large\JA
+731	TOK	and		and\CC
+732	TOK	important		important\JA
+733	TOK	family		family\N5S
+---	DLD	:		=\DELIM
+734	TOK	the		the\AT---6
+735	TOK	receptor		receptor\N5S
+736	TOK	tyrosine		tyrosine\N5S
+737	TOK	kinases		kinase\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+738	TOK	These	BOS	this\AD---P
+739	TOK	vital		vital\JA
+740	TOK	receptors		receptor\N5P
+741	TOK	transmit		transmit\VMF6R66
+742	TOK	the		the\AT---6
+743	TOK	commands		command\N5P
+744	TOK	of		of\P
+745	TOK	many		many\AI---P
+746	TOK	hormones		hormone\N5P
+747	TOK	that		that\RW63N6
+748	TOK	regulate		regulate\VMF6R66
+749	TOK	cellular		cellular\JA
+750	TOK	replication		replication\N5S
+---	DLD	,		=\DELIM
+751	TOK	specialization		specialization\N5S
+752	TOK	or		or\CC
+753	TOK	metabolism		metabolism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+754	TOK	They	BOS	they\RPP3NN
+755	TOK	are		be\V6FDR66
+756	TOK	so		so\DGA7
+757	TOK	named		name\VMC----
+758	TOK	because		because\CS
+759	TOK	they		they\RPP3NN
+760	TOK	are		be\V6FDR66
+761	TOK	kinases		kinase\N5P
+---	DLI	-		=\DELIM
+762	TOK	enzymes		enzyme\N5P
+763	TOK	that		that\RW63N6
+764	TOK	add		add\VMF6R66
+765	TOK	phosphate		phosphate\N5S
+766	TOK	groups		group\N5P
+767	TOK	to		to\P
+---	DLE	(		=\DELIM
+---	DLE	«		=\DELIM
+768	TOK	phosphorylate		phosphorylate\VMF6R66
+---	DLD	»		=\DELIM
+---	DLD	)		=\DELIM
+769	TOK	selected		select\VMC----
+770	TOK	amino		amino\N5S
+771	TOK	acids		acid\N5P
+772	TOK	in		in\P
+773	TOK	a		a\AI---S
+774	TOK	protein		protein\N5S
+775	TOK	chain		chain\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+776	TOK	And	BOS	and\CC
+---	DLD	,		=\DELIM
+777	TOK	as		as\P
+##	TAG	<name>
+778	TOK	Tony R		Tony_R\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+779	TOK	Hunter	BOS	hunter\N5S
+780	TOK	of		of\P
+781	TOK	the		the\AT---6
+##	TAG	<name>
+782	TOK	Salk Institute for Biological Studies		Salk_Institute_for_Biological_Studies\N46
+##	TAG	</name>
+783	TOK	in		in\P
+##	TAG	<name>
+784	TOK	La Jolla		La_Jolla\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+785	TOK	Calif.		Calif.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+786	TOK	demonstrated		demonstrate\VMF6A66
+---	DLD	,		=\DELIM
+787	TOK	they		they\RPP3NN
+788	TOK	specifically		specifically\DGA7
+789	TOK	put		put\VMF6R66
+790	TOK	phosphates		phosphate\N5P
+791	TOK	onto		onto\P
+792	TOK	the		the\AT---6
+793	TOK	amino		amino\N5S
+794	TOK	acid		acid\N5S
+795	TOK	tyrosine		tyrosine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+796	TOK	In	BOS	in\P
+797	TOK	the		the\AT---6
+##	TAG	<na type="code">
+798	TOK	1980s		noanat\W
+##	TAG	</na>
+799	TOK	work		work\N5S
+800	TOK	by		by\P
+##	TAG	<name pos="N46" type="organization">
+801	TOK	Joseph Schlessinger of New York University		Joseph_Schlessinger_of_New_York_University\N46
+##	TAG	</name>
+802	TOK	and		and\CC
+803	TOK	others		other\RIP3N-
+804	TOK	indicated		indicate\VMF6A66
+805	TOK	that		that\CS
+806	TOK	the		the\AT---6
+807	TOK	binding		binding\N5S
+808	TOK	of		of\P
+809	TOK	hormones		hormone\N5P
+810	TOK	to		to\P
+811	TOK	receptor		receptor\N5S
+812	TOK	tyrosine		tyrosine\N5S
+813	TOK	kinases		kinase\N5P
+814	TOK	at		at\P
+815	TOK	the		the\AT---6
+816	TOK	cell		cell\N5S
+817	TOK	surface		surface\N5S
+818	TOK	causes		cause\VMFDRS3
+819	TOK	the		the\AT---6
+820	TOK	individual		individual\JA
+821	TOK	receptor		receptor\N5S
+822	TOK	molecules		molecule\N5P
+823	TOK	to		to\P
+824	TOK	cluster		cluster\N5S
+825	TOK	into		into\P
+826	TOK	pairs		pair\N5P
+827	TOK	and		and\CC
+828	TOK	to		to\P
+829	TOK	attach		attach\VMI----
+830	TOK	phosphates		phosphate\N5P
+831	TOK	to		to\P
+832	TOK	the		the\AT---6
+833	TOK	tyrosines		tyrosine\N5P
+834	TOK	on		on\P
+##	TAG	<loc pos="RPP3N-">
+835	TOK	each other		each_other\RPP3N-
+##	TAG	</loc>
+836	PGR	's		genmark\GENMARK
+837	TOK	cytoplasmic		cytoplasmic\JA
+838	TOK	tails		tail\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+839	TOK	In	BOS	in\P
+840	TOK	trying		try\VMG----
+841	TOK	to		to\P
+842	TOK	figure		figure\VMI----
+843	TOK	out		out\DGA7
+844	TOK	what		what\RW63N-
+845	TOK	happens		happen\VMFDRS3
+846	TOK	next		next\DGA7
+---	DLD	,		=\DELIM
+847	TOK	one		one\RIS3N-
+848	TOK	of		of\P
+849	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+850	TOK	Pawson		Pawson\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+851	TOK	and		and\CC
+852	TOK	his		his\APS3M6
+853	TOK	colleagues		colleague\N5P
+854	TOK	found		find\VMF6A66
+855	TOK	that		that\CS
+856	TOK	the		the\AT---6
+857	TOK	altered		alter\VMC----
+858	TOK	receptors		receptor\N5P
+859	TOK	interact		interact\VMF6R66
+860	TOK	directly		directly\DGA7
+861	TOK	with		with\P
+862	TOK	proteins		protein\N5P
+863	TOK	that		that\RW63N6
+864	TOK	contain		contain\VMF6R66
+865	TOK	a		a\AI---S
+866	TOK	module		module\N5S
+867	TOK	they		they\RPP3NN
+868	TOK	called		call\VMF6A66
+869	TOK	an		an\AI---S
+##	TAG	<name>
+870	TOK	SH2		SH2\N46
+##	TAG	</name>
+871	TOK	domain		domain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+872	TOK	The	BOS	the\AT---6
+873	TOK	term		term\N5S
+---	DLE	«		=\DELIM
+874	TOK	domain		domain\N5S
+---	DLD	»		=\DELIM
+875	TOK	or		or\CC
+---	DLE	«		=\DELIM
+876	TOK	module		module\N5S
+---	DLD	»		=\DELIM
+877	TOK	refers		refer\VMFDRS3
+878	TOK	to		to\P
+879	TOK	a		a\AI---S
+880	TOK	relatively		relatively\DGA7
+881	TOK	short		short\JA
+882	TOK	sequence		sequence\N5S
+883	TOK	of		of\P
+884	TOK	about		about\DGA7
+##	TAG	<num>
+885	TOK	100		100\X
+##	TAG	</num>
+886	TOK	amino		amino\N5S
+887	TOK	acids		acid\N5P
+888	TOK	that		that\RW63N6
+889	TOK	adopts		adopt\VMFDRS3
+890	TOK	a		a\AI---S
+891	TOK	defined		define\VMC----
+892	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+893	TOK	dimensional		dimensional\JA
+894	TOK	structure		structure\N5S
+895	TOK	within		within\P
+896	TOK	a		a\AI---S
+897	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+898	TOK	At	BOS	at\P
+899	TOK	the		the\AT---6
+900	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+901	TOK	prevailing		prevail\VMG----
+902	TOK	wisdom		wisdom\N5S
+903	TOK	held		hold\VMF6A66
+904	TOK	that		that\CS
+905	TOK	messages		message\N5P
+906	TOK	were		be\V6F-A66
+907	TOK	transmitted		transmit\VMC----
+908	TOK	within		within\P
+909	TOK	cells		cell\N5P
+910	TOK	primarily		primarily\DGA7
+911	TOK	through		through\P
+912	TOK	enzymatic		enzymatic\JA
+913	TOK	reactions		reaction\N5P
+---	DLD	,		=\DELIM
+914	TOK	in		in\P
+915	TOK	which		which\RW63N-
+916	TOK	one		one\MCS
+917	TOK	molecule		molecule\N5S
+918	TOK	alters		alter\VMFDRS3
+919	TOK	a		a\AI---S
+920	TOK	second		second\MOS
+921	TOK	without		without\P
+922	TOK	tightly		tightly\DGA7
+923	TOK	binding		bind\VMG----
+924	TOK	to		to\P
+925	TOK	it		it\RPS3N6
+926	TOK	and		and\CC
+927	TOK	without		without\P
+928	TOK	itself		itself\RXS3N-
+929	TOK	being		be\VMG----
+930	TOK	altered		alter\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+931	TOK	Surprisingly	BOS	surprisingly\DGA7
+---	DLD	,		=\DELIM
+932	TOK	though		though\CS
+---	DLD	,		=\DELIM
+933	TOK	the		the\AT---6
+934	TOK	phosphorylated		phosphorylate\VMC----
+935	TOK	receptors		receptor\N5P
+936	TOK	did		do\V6FDA66
+937	TOK	not		not\DGA7
+938	TOK	necessarily		necessarily\DGA7
+939	TOK	alter		alter\VMI----
+940	TOK	the		the\AT---6
+941	TOK	chemistry		chemistry\N5S
+942	TOK	of		of\P
+943	TOK	the		the\AT---6
+##	TAG	<name>
+944	TOK	SH2		SH2\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+945	TOK	containing		contain\VMG----
+946	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+947	TOK	Instead	BOS	instead\DGA7
+948	TOK	many		many\AI---P
+949	TOK	simply		simply\DGA7
+950	TOK	induced		induce\VMF6A66
+951	TOK	the		the\AT---6
+##	TAG	<name>
+952	TOK	SH2		SH2\N46
+##	TAG	</name>
+953	TOK	domains		domain\N5P
+954	TOK	to		to\P
+955	TOK	latch		latch\VMI----
+956	TOK	onto		onto\P
+957	TOK	the		the\AT---6
+958	TOK	phosphate		phosphate\N5S
+---	DLI	-		=\DELIM
+959	TOK	decorated		decorated\JA
+960	TOK	tyrosines		tyrosine\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="CS">
+961	TOK	as if		as_if\CS
+##	TAG	</loc>
+962	TOK	the		the\AT---6
+##	TAG	<name>
+963	TOK	SH2		SH2\N46
+##	TAG	</name>
+964	TOK	domains		domain\N5P
+965	TOK	and		and\CC
+966	TOK	the		the\AT---6
+967	TOK	tyrosines		tyrosine\N5P
+968	TOK	were		be\V6F-A66
+##	TAG	<name>
+969	TOK	Lego		Lego\N46
+##	TAG	</name>
+970	TOK	blocks		block\N5P
+971	TOK	being		be\VMG----
+972	TOK	snapped		snap\VMC----
+973	TOK	together		together\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+974	TOK	By	BOS	by\P
+975	TOK	the		the\AT---6
+976	TOK	mid		mid\JA
+---	DLD	-		=\DELIM
+##	TAG	<na type="code">
+977	TOK	1990s		noanat\W
+##	TAG	</na>
+978	TOK	groups		group\N5P
+979	TOK	led		lead\VMC----
+980	TOK	by		by\P
+##	TAG	<name>
+981	TOK	Pawson		Pawson\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+982	TOK	Hidesaburo Hanafusa		Hidesaburo_Hanafusa\N46
+##	TAG	</name>
+983	TOK	of		of\P
+984	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+985	TOK	Rockefeller University		Rockefeller_University\N46
+##	TAG	</name>
+986	TOK	and		and\CC
+987	TOK	others		other\RIP3N-
+988	TOK	had		have\V6F6A66
+989	TOK	revealed		reveal\VMC----
+990	TOK	that		that\CS
+991	TOK	many		many\RIP3N-
+992	TOK	of		of\P
+993	TOK	the		the\AT---6
+994	TOK	proteins		protein\N5P
+995	TOK	involved		involve\VMC----
+996	TOK	in		in\P
+997	TOK	internal		internal\JA
+998	TOK	communications		communication\N5P
+999	TOK	consist		consist\VMF6R66
+1000	TOK	of		of\P
+1001	TOK	strings		string\N5P
+1002	TOK	of		of\P
+1003	TOK	modules		module\N5P
+---	DLD	,		=\DELIM
+1004	TOK	some		some\AG---6
+1005	TOK	of		of\P
+1006	TOK	which		which\RW63N-
+1007	TOK	serve		serve\VMF6R66
+1008	TOK	primarily		primarily\DGA7
+1009	TOK	to		to\P
+1010	TOK	connect		connect\VMI----
+1011	TOK	one		one\MCS
+1012	TOK	protein		protein\N5S
+1013	TOK	to		to\P
+1014	TOK	another		another\RIS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1015	TOK	At	BOS	at\P
+1016	TOK	times		time\N5P
+---	DLD	,		=\DELIM
+1017	TOK	whole		whole\JA
+1018	TOK	proteins		protein\N5P
+1019	TOK	in		in\P
+1020	TOK	signaling		signal\VMG----
+1021	TOK	pathways		pathway\N5P
+1022	TOK	contain		contain\VMF6R66
+1023	TOK	nothing		nothing\RIS3N-
+1024	TOK	but		but\CC
+1025	TOK	linker		linker\N5S
+1026	TOK	modules		module\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+1027	TOK	But		but\N5S
+1028	TOK	how		how\DGAW
+1029	TOK	did		do\V6FDA66
+1030	TOK	those		that\AD---P
+1031	TOK	nonenzymatic		nonenzymatic\JA
+1032	TOK	modules		module\N5P
+1033	TOK	contribute		contribute\VMF6R66
+1034	TOK	to		to\P
+1035	TOK	swift		swift\JA
+1036	TOK	and		and\CC
+1037	TOK	specific		specific\JA
+1038	TOK	communication		communication\N5S
+1039	TOK	in		in\P
+1040	TOK	cells		cell\N5P
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1041	TOK	One	BOS	one\MCS
+1042	TOK	answer		answer\N5S
+1043	TOK	is		be\V6FDRS3
+1044	TOK	that		that\CS
+1045	TOK	they		they\RPP3NN
+1046	TOK	help		help\VMF6R66
+1047	TOK	enzymatic		enzymatic\JA
+1048	TOK	domains		domain\N5P
+1049	TOK	transmit		transmit\VMF6R66
+1050	TOK	information		information\N5S
+1051	TOK	efficiently		efficiently\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1052	TOK	When	BOS	when\CS
+1053	TOK	a		a\AI---S
+1054	TOK	protein		protein\N5S
+1055	TOK	that		that\RW63N6
+1056	TOK	bears		bear\VMFDRS3
+1057	TOK	a		a\AI---S
+1058	TOK	linker		linker\N5S
+1059	TOK	also		also\DGA7
+1060	TOK	includes		include\VMFDRS3
+1061	TOK	an		an\AI---S
+1062	TOK	enzymatic		enzymatic\JA
+1063	TOK	module		module\N5S
+---	DLD	,		=\DELIM
+1064	TOK	attachment		attachment\N5S
+1065	TOK	of		of\P
+1066	TOK	the		the\AT---6
+1067	TOK	linker		linker\N5S
+1068	TOK	region		region\N5S
+1069	TOK	to		to\P
+1070	TOK	another		another\JA
+1071	TOK	protein		protein\N5S
+1072	TOK	can		can\VOFDR66
+1073	TOK	position		position\VMI----
+1074	TOK	the		the\AT---6
+1075	TOK	enzymatic		enzymatic\JA
+1076	TOK	module		module\N5S
+1077	TOK	where		where\CS
+1078	TOK	it		it\RPS3N6
+1079	TOK	most		most\DDS7
+1080	TOK	needs		need\N5P
+1081	TOK	to		to\P
+1082	TOK	be		be\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1083	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1084	TOK	the		the\AT---6
+1085	TOK	act		act\N5S
+1086	TOK	of		of\P
+1087	TOK	binding		binding\N5S
+1088	TOK	can		can\VOFDR66
+1089	TOK	simultaneously		simultaneously\DGA7
+1090	TOK	bring		bring\VMI----
+1091	TOK	the		the\AT---6
+1092	TOK	enzymatic		enzymatic\JA
+1093	TOK	region		region\N5S
+1094	TOK	close		close\DGA7
+1095	TOK	to		to\P
+1096	TOK	factors		factor\N5P
+1097	TOK	that		that\RW63N6
+1098	TOK	switch		switch\VMF6R66
+1099	TOK	it		it\RPS3N6
+1100	TOK	on		on\P
+1101	TOK	and		and\CC
+1102	TOK	into		into\P
+1103	TOK	immediate		immediate\JA
+1104	TOK	contact		contact\N5S
+1105	TOK	with		with\P
+1106	TOK	the		the\AT---6
+1107	TOK	enzyme		enzyme\N5S
+1108	PGR	's		be\V6FDRS3
+1109	TOK	intended		intend\VMC----
+1110	TOK	target		target\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1111	TOK	In	BOS	in\P
+1112	TOK	the		the\AT---6
+1113	TOK	case		case\N5S
+1114	TOK	of		of\P
+1115	TOK	certain		certain\JA
+##	TAG	<name>
+1116	TOK	SH2		SH2\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1117	TOK	containing		contain\VMG----
+1118	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+1119	TOK	the		the\AT---6
+1120	TOK	linker		linker\N5S
+1121	TOK	module		module\N5S
+1122	TOK	may		may\VOFDR66
+1123	TOK	originally		originally\DGA7
+1124	TOK	be		be\VMI----
+1125	TOK	folded		fold\VMC----
+1126	TOK	around		around\P
+1127	TOK	the		the\AT---6
+1128	TOK	enzymatic		enzymatic\JA
+1129	TOK	domain		domain\N5S
+1130	TOK	in		in\P
+1131	TOK	a		a\AI---S
+1132	TOK	way		way\N5S
+1133	TOK	that		that\RW63N6
+1134	TOK	blocks		block\VMFDRS3
+1135	TOK	the		the\AT---6
+1136	TOK	enzyme		enzyme\N5S
+1137	PGR	's		genmark\GENMARK
+1138	TOK	activity		activity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1139	TOK	When	BOS	when\CS
+1140	TOK	the		the\AT---6
+##	TAG	<name>
+1141	TOK	SH2		SH2\N46
+##	TAG	</name>
+1142	TOK	domain		domain\N5S
+1143	TOK	unfurls		unfurl\VMFDRS3
+1144	TOK	to		to\P
+1145	TOK	engage		engage\VMI----
+1146	TOK	an		an\AI---S
+1147	TOK	activated		activate\VMC----
+1148	TOK	receptor		receptor\N5S
+---	DLD	,		=\DELIM
+1149	TOK	the		the\AT---6
+1150	TOK	move		move\N5S
+1151	TOK	liberates		liberate\VMFDRS3
+1152	TOK	the		the\AT---6
+1153	TOK	enzyme		enzyme\N5S
+1154	TOK	to		to\P
+1155	TOK	work		work\N5S
+1156	TOK	on		on\P
+1157	TOK	its		its\APS3N6
+1158	TOK	target		target\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1159	TOK	Even	BOS	even\DGA7
+1160	TOK	when		when\CS
+1161	TOK	a		a\AI---S
+1162	TOK	full		full\JA
+1163	TOK	protein		protein\N5S
+1164	TOK	is		be\V6FDRS3
+1165	TOK	formed		form\VMC----
+1166	TOK	from		from\P
+1167	TOK	nothing		nothing\RIS3N-
+1168	TOK	but		but\CC
+1169	TOK	protein		protein\N5S
+---	DLI	-		=\DELIM
+1170	TOK	binding		binding\N5S
+1171	TOK	modules		module\N5P
+---	DLD	,		=\DELIM
+1172	TOK	it		it\RPS3N6
+1173	TOK	can		can\VOFDR66
+1174	TOK	function		function\VMI----
+1175	TOK	as		as\P
+1176	TOK	an		an\AI---S
+1177	TOK	indispensable		indispensable\JA
+1178	TOK	adapter		adapter\N5S
+---	DLD	,		=\DELIM
+1179	TOK	akin		akin\JA
+1180	TOK	to		to\P
+1181	TOK	a		a\AI---S
+1182	TOK	power		power\N5S
+1183	TOK	strip		strip\N5S
+1184	TOK	plugged		plug\VMC----
+1185	TOK	into		into\P
+1186	TOK	a		a\AI---S
+1187	TOK	single		single\JA
+1188	TOK	socket		socket\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1189	TOK	One	BOS	one\MCS
+1190	TOK	module		module\N5S
+1191	TOK	in		in\P
+1192	TOK	the		the\AT---6
+1193	TOK	adapter		adapter\N5S
+1194	TOK	plugs		plug\N5P
+1195	TOK	into		into\P
+1196	TOK	a		a\AI---S
+1197	TOK	developing		developing\JA
+1198	TOK	signaling		signal\VMG----
+1199	TOK	complex		complex\JA
+---	DLD	,		=\DELIM
+1200	TOK	and		and\CC
+1201	TOK	the		the\AT---6
+1202	TOK	other		other\JA
+1203	TOK	modules		module\N5P
+1204	TOK	allow		allow\VMF6R66
+1205	TOK	still		still\DGA7
+1206	TOK	more		many\JC
+1207	TOK	proteins		protein\N5P
+1208	TOK	to		to\P
+1209	TOK	join		join\VMI----
+1210	TOK	the		the\AT---6
+1211	TOK	network		network\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1212	TOK	An	BOS	an\AI---S
+1213	TOK	important		important\JA
+1214	TOK	benefit		benefit\N5S
+1215	TOK	of		of\P
+1216	TOK	these		this\AD---P
+1217	TOK	molecular		molecular\JA
+1218	TOK	adapters		adapter\N5P
+1219	TOK	is		be\V6FDRS3
+1220	TOK	that		that\CS
+1221	TOK	they		they\RPP3NN
+1222	TOK	enable		enable\VMF6R66
+1223	TOK	cells		cell\N5P
+1224	TOK	to		to\P
+1225	TOK	make		make\VMI----
+1226	TOK	use		use\N5S
+1227	TOK	of		of\P
+1228	TOK	enzymes		enzyme\N5P
+1229	TOK	that		that\RW63N6
+1230	TOK	otherwise		otherwise\DGA7
+1231	TOK	might		may\VOFDR66
+1232	TOK	not		not\DGA7
+1233	TOK	fit		fit\VMI----
+1234	TOK	into		into\P
+1235	TOK	a		a\AI---S
+1236	TOK	particular		particular\JA
+1237	TOK	signaling		signal\VMG----
+1238	TOK	circuit		circuit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1239	TOK	Nonenzymatic	BOS	Nonenzymatic\N46
+##	TAG	</name>
+1240	TOK	modules		module\N5P
+1241	TOK	can		can\VOFDR66
+1242	TOK	support		support\VMI----
+1243	TOK	communication		communication\N5S
+1244	TOK	in		in\P
+1245	TOK	other		other\JA
+1246	TOK	ways		way\N5P
+---	DLD	,		=\DELIM
+1247	TOK	too		too\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1248	TOK	Certain	BOS	certain\JA
+1249	TOK	molecules		molecule\N5P
+1250	TOK	in		in\P
+1251	TOK	signaling		signal\VMG----
+1252	TOK	pathways		pathway\N5P
+1253	TOK	feature		feature\VMF6R66
+1254	TOK	a		a\AI---S
+1255	TOK	protein		protein\N5S
+---	DLI	-		=\DELIM
+1256	TOK	binding		binding\N5S
+1257	TOK	module		module\N5S
+1258	TOK	and		and\CC
+1259	TOK	a		a\AI---S
+##	TAG	<name>
+1260	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1261	TOK	binding		binding\N5S
+1262	TOK	module		module\N5S
+1263	TOK	that		that\RW63N6
+1264	TOK	meshes		mesh\VMFDRS3
+1265	TOK	with		with\P
+---	DLD	,		=\DELIM
+1266	TOK	or		or\CC
+---	DLE	«		=\DELIM
+1267	TOK	recognizes		recognize\VMFDRS3
+---	DLD	»		=\DELIM
+---	DLD	,		=\DELIM
+1268	TOK	a		a\AI---S
+1269	TOK	specific		specific\JA
+1270	TOK	sequence		sequence\N5S
+1271	TOK	of		of\P
+##	TAG	<name>
+1272	TOK	DNA		DNA\N46
+##	TAG	</name>
+1273	TOK	nucleotides		nucleotide\N5P
+1274	TOK	in		in\P
+1275	TOK	a		a\AI---S
+##	TAG	<abbr>
+1276	TOK	gene.		gene.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1277	TOK	Nucleotides		Nucleotides\N46
+##	TAG	</name>
+1278	TOK	are		be\V6FDR66
+1279	TOK	the		the\AT---6
+1280	TOK	building		building\N5S
+1281	TOK	blocks		block\N5P
+1282	TOK	of		of\P
+1283	TOK	genes		gene\N5P
+---	DLD	,		=\DELIM
+1284	TOK	which		which\RW63N-
+1285	TOK	specify		specify\VMF6R66
+1286	TOK	the		the\AT---6
+1287	TOK	amino		amino\N5S
+1288	TOK	acid		acid\N5S
+1289	TOK	sequences		sequence\N5P
+1290	TOK	of		of\P
+1291	TOK	proteins		protein\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1292	TOK	James E. Darnell	BOS	James_E._Darnell\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr pos="N5S" expansion="junior">
+1293	TOK	Jr.		Jr.\N5S
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+1294	TOK	of		of\P
+##	TAG	<name>
+1295	TOK	Rockefeller		Rockefeller\N46
+##	TAG	</name>
+1296	TOK	showed		show\VMF6A66
+1297	TOK	that		that\CS
+1298	TOK	when		when\CS
+1299	TOK	one		one\MCS
+1300	TOK	of		of\P
+1301	TOK	these		this\AD---P
+1302	TOK	proteins		protein\N5P
+1303	TOK	attaches		attach\VMFDRS3
+---	DLD	,		=\DELIM
+1304	TOK	through		through\P
+1305	TOK	its		its\APS3N6
+1306	TOK	linker		linker\N5S
+1307	TOK	module		module\N5S
+---	DLD	,		=\DELIM
+1308	TOK	to		to\P
+1309	TOK	an		an\AI---S
+1310	TOK	activated		activate\VMC----
+1311	TOK	receptor		receptor\N5S
+1312	TOK	kinase		kinase\N5S
+---	DLD	,		=\DELIM
+1313	TOK	the		the\AT---6
+1314	TOK	interaction		interaction\N5S
+1315	TOK	spurs		spur\VMFDRS3
+1316	TOK	the		the\AT---6
+1317	TOK	bound		bind\VMC----
+1318	TOK	protein		protein\N5S
+1319	TOK	to		to\P
+1320	TOK	detach		detach\VMI----
+---	DLD	,		=\DELIM
+1321	TOK	move		move\N5S
+1322	TOK	to		to\P
+1323	TOK	the		the\AT---6
+1324	TOK	nucleus		nucleus\N5S
+1325	TOK	and		and\CC
+1326	TOK	bind		bind\VMF6R66
+1327	TOK	to		to\P
+1328	TOK	a		a\AI---S
+1329	TOK	particular		particular\JA
+1330	TOK	gene		gene\N5S
+---	DLD	,		=\DELIM
+1331	TOK	thus		thus\DGA7
+1332	TOK	inducing		induce\VMG----
+1333	TOK	the		the\AT---6
+1334	TOK	synthesis		synthesis\N5S
+1335	TOK	of		of\P
+1336	TOK	a		a\AI---S
+1337	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1338	TOK	In	BOS	in\P
+1339	TOK	this		this\AD---S
+1340	TOK	instance		instance\VMF6R66
+---	DLD	,		=\DELIM
+1341	TOK	the		the\AT---6
+1342	TOK	only		only\JA
+1343	TOK	enzyme		enzyme\N5S
+1344	TOK	in		in\P
+1345	TOK	the		the\AT---6
+1346	TOK	signaling		signal\VMG----
+1347	TOK	chain		chain\N5S
+1348	TOK	is		be\V6FDRS3
+1349	TOK	the		the\AT---6
+1350	TOK	receptor		receptor\N5S
+1351	TOK	itself		itself\RXS3N-
+---	DLD	;		=\DELIM
+1352	TOK	everything		everything\RIS3N-
+1353	TOK	that		that\RW63N6
+1354	TOK	happens		happen\VMFDRS3
+1355	TOK	after		after\P
+1356	TOK	the		the\AT---6
+1357	TOK	receptor		receptor\N5S
+1358	TOK	becomes		become\VMFDRS3
+1359	TOK	activated		activate\VMC----
+1360	TOK	occurs		occur\VMFDRS3
+1361	TOK	through		through\P
+1362	TOK	proteins		protein\N5P
+---	DLD	'		=\DELIM
+1363	TOK	recognition		recognition\N5S
+1364	TOK	of		of\P
+1365	TOK	other		other\JA
+1366	TOK	proteins		protein\N5P
+1367	TOK	or		or\CC
+##	TAG	<name>
+1368	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1369	TOK	As	BOS	as\P
+1370	TOK	these		this\AD---P
+1371	TOK	various		various\JA
+1372	TOK	discoveries		discovery\N5P
+1373	TOK	were		be\V6F-A66
+1374	TOK	being		be\VMG----
+1375	TOK	made		make\VMF6A66
+---	DLD	,		=\DELIM
+1376	TOK	work		work\N5S
+1377	TOK	in		in\P
+1378	TOK	other		other\JA
+1379	TOK	areas		area\N5P
+1380	TOK	demonstrated		demonstrate\VMF6A66
+1381	TOK	that		that\CS
+1382	TOK	the		the\AT---6
+1383	TOK	cytoplasm		cytoplasm\N5S
+1384	TOK	is		be\V6FDRS3
+1385	TOK	not		not\DGA7
+1386	TOK	really		really\DGA7
+1387	TOK	amorphous		amorphous\JA
+1388	TOK	after		after\P
+1389	TOK	all		all\AG---6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1390	TOK	It	BOS	it\RPS3N6
+1391	TOK	is		be\V6FDRS3
+1392	TOK	packed		pack\VMC----
+1393	TOK	densely		densely\DGA7
+1394	TOK	with		with\P
+1395	TOK	organelles		organelle\N5P
+1396	TOK	and		and\CC
+1397	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1398	TOK	Together	BOS	together\DGA7
+1399	TOK	such		such\JA
+1400	TOK	findings		finding\N5P
+1401	TOK	indicate		indicate\VMF6R66
+1402	TOK	that		that\CS
+1403	TOK	high		high\JA
+---	DLI	-		=\DELIM
+1404	TOK	fidelity		fidelity\N5S
+1405	TOK	signaling		signal\VMG----
+1406	TOK	within		within\P
+1407	TOK	cells		cell\N5P
+1408	TOK	depends		depend\VMFDRS3
+1409	TOK	profoundly		profoundly\DGA7
+1410	TOK	on		on\P
+1411	TOK	the		the\AT---6
+##	TAG	<name>
+1412	TOK	Lego		Lego\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1413	TOK	like		like\P
+1414	TOK	interlocking		interlock\VMG----
+1415	TOK	of		of\P
+1416	TOK	selected		select\VMC----
+1417	TOK	proteins		protein\N5P
+1418	TOK	through		through\P
+1419	TOK	dedicated		dedicate\VMC----
+1420	TOK	linker		linker\N5S
+1421	TOK	modules		module\N5P
+1422	TOK	and		and\CC
+1423	TOK	adapter		adapter\N5S
+1424	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1425	TOK	These	BOS	this\AD---P
+1426	TOK	complexes		complex\N5P
+1427	TOK	assure		assure\VMF6R66
+1428	TOK	that		that\CS
+1429	TOK	enzymes		enzyme\N5P
+1430	TOK	or		or\CC
+##	TAG	<name>
+1431	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1432	TOK	binding		binding\N5S
+1433	TOK	modules		module\N5P
+1434	TOK	and		and\CC
+1435	TOK	their		their\APP3N6
+1436	TOK	targets		target\N5P
+1437	TOK	are		be\V6FDR66
+1438	TOK	brought		bring\VMC----
+1439	TOK	together		together\DGA7
+1440	TOK	promptly		promptly\DGA7
+1441	TOK	and		and\CC
+1442	TOK	in		in\P
+1443	TOK	the		the\AT---6
+1444	TOK	correct		correct\JA
+1445	TOK	sequence		sequence\N5S
+1446	TOK	as		as\CS
+1447	TOK	soon		soon\DGA7
+1448	TOK	as		as\P
+1449	TOK	a		a\AI---S
+1450	TOK	receptor		receptor\N5S
+1451	TOK	at		at\P
+1452	TOK	the		the\AT---6
+1453	TOK	cell		cell\N5S
+1454	TOK	surface		surface\N5S
+1455	TOK	is		be\V6FDRS3
+1456	TOK	activated		activate\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1457	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+1458	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+1460	TOK	SH2 DOMAIN	BOS	SH2_DOMAIN\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+1461	TOK	globular		globular\JA
+1462	TOK	structure		structure\N5S
+---	DLD	)		=\DELIM
+1463	TOK	in		in\P
+1464	TOK	a		a\AI---S
+1465	TOK	signaling		signal\VMG----
+1466	TOK	molecule		molecule\N5S
+1467	TOK	is		be\V6FDRS3
+1468	TOK	bound		bind\VMC----
+1469	TOK	to		to\P
+1470	TOK	a		a\AI---S
+1471	TOK	segment		segment\N5S
+1472	TOK	of		of\P
+1473	TOK	a		a\AI---S
+1474	TOK	receptor		receptor\N5S
+---	DLE	(		=\DELIM
+1475	TOK	stick		stick\N5S
+1476	TOK	model		model\N5S
+---	DLD	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1477	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+1478	TOK	two		two\X
+##	TAG	</num>
+1479	TOK	fit		fit\VMC----
+1480	TOK	together		together\DGA7
+1481	TOK	in		in\P
+1482	TOK	part		part\N5S
+1483	TOK	because		because\CS
+1484	TOK	a		a\AI---S
+1485	TOK	positively		positively\DGA7
+1486	TOK	charged		charge\VMC----
+1487	TOK	pocket		pocket\N5S
+1488	TOK	in		in\P
+##	TAG	<name>
+1489	TOK	SH2		SH2\N46
+##	TAG	</name>
+1490	TOK	is		be\V6FDRS3
+1491	TOK	attracted		attract\VMC----
+1492	TOK	to		to\P
+1493	TOK	a		a\AI---S
+1494	TOK	negatively		negatively\DGA7
+1495	TOK	charged		charge\VMC----
+1496	TOK	phosphate		phosphate\N5S
+1497	TOK	that		that\RW63N6
+1498	TOK	has		have\V6FDRS3
+1499	TOK	been		be\VMC----
+1500	TOK	added		add\VMC----
+1501	TOK	to		to\P
+1502	TOK	the		the\AT---6
+1503	TOK	amino		amino\N5S
+1504	TOK	acid		acid\N5S
+1505	TOK	tyrosine		tyrosine\N5S
+1506	TOK	in		in\P
+1507	TOK	the		the\AT---6
+1508	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1509	TOK	Also	BOS	also\DGA7
+---	DLD	,		=\DELIM
+1510	TOK	the		the\AT---6
+1511	TOK	nearby		nearby\JA
+1512	TOK	amino		amino\N5S
+1513	TOK	acids		acid\N5P
+1514	TOK	in		in\P
+1515	TOK	the		the\AT---6
+1516	TOK	receptor		receptor\N5S
+1517	TOK	fit		fit\VMF6A66
+1518	TOK	snugly		snugly\DGA7
+1519	TOK	into		into\P
+1520	TOK	a		a\AI---S
+1521	TOK	hydrophobic		hydrophobic\JA
+---	DLE	(		=\DELIM
+1522	TOK	water		water\N5S
+---	DLI	-		=\DELIM
+1523	TOK	hating)groove		hating)groove\N5S
+1524	TOK	on		on\P
+##	TAG	<name>
+1525	TOK	SH2		SH2\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1526	TOK	All	BOS	all\AG---6
+##	TAG	<name>
+1527	TOK	SH2		SH2\N46
+##	TAG	</name>
+1528	TOK	domains		domain\N5P
+1529	TOK	can		can\VOFDR66
+1530	TOK	bind		bind\VMI----
+1531	TOK	to		to\P
+1532	TOK	phosphate		phosphate\N5S
+---	DLI	-		=\DELIM
+1533	TOK	bearing		bear\VMG----
+1534	TOK	tyrosines		tyrosine\N5P
+---	DLD	,		=\DELIM
+1535	TOK	but		but\CC
+1536	TOK	they		they\RPP3NN
+1537	TOK	differ		differ\VMF6R66
+1538	TOK	in		in\P
+1539	TOK	their		their\APP3N6
+1540	TOK	binding		binding\N5S
+1541	TOK	partners		partner\N5P
+1542	TOK	because		because\CS
+1543	TOK	they		they\RPP3NN
+1544	TOK	vary		vary\VMF6R66
+1545	TOK	in		in\P
+1546	TOK	their		their\APP3N6
+1547	TOK	ability		ability\N5S
+1548	TOK	to		to\P
+1549	TOK	lock		lock\N5S
+1550	TOK	onto		onto\P
+1551	TOK	the		the\AT---6
+1552	TOK	amino		amino\N5S
+1553	TOK	acids		acid\N5P
+1554	TOK	that		that\RW63N6
+1555	TOK	lie		lie\VMF6R66
+##	TAG	<loc pos="DGA7">
+1556	TOK	next to		next_to\DGA7
+##	TAG	</loc>
+1557	TOK	tyrosine		tyrosine\N5S
+1558	TOK	in		in\P
+1559	TOK	a		a\AI---S
+1560	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1561	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1562	TOK	Advantages of Adapters	EOS	Advantages_of_Adapters\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1564	TOK	Adapter	BOS	adapter\N5S
+1565	TOK	molecules		molecule\N5P
+---	DLD	,		=\DELIM
+1566	TOK	which		which\RW63N-
+1567	TOK	consist		consist\VMF6R66
+1568	TOK	entirely		entirely\DGA7
+1569	TOK	of		of\P
+1570	TOK	linker		linker\N5S
+1571	TOK	modules		module\N5P
+1572	TOK	such		such\RIS3N-
+1573	TOK	as		as\P
+##	TAG	<name>
+1574	TOK	SH2		SH2\N46
+##	TAG	</name>
+1575	TOK	and		and\CC
+##	TAG	<name>
+1576	TOK	SH3		SH3\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1577	TOK	turn		turn\N5S
+1578	TOK	out		out\DGA7
+1579	TOK	to		to\P
+1580	TOK	be		be\VMI----
+1581	TOK	important		important\JA
+1582	TOK	players		player\N5P
+1583	TOK	in		in\P
+1584	TOK	many		many\RIP3N-
+1585	TOK	signaling		signal\VMG----
+1586	TOK	pathways		pathway\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1587	TOK	They	BOS	they\RPP3NN
+1588	TOK	enable		enable\VMF6R66
+1589	TOK	cells		cell\N5P
+1590	TOK	to		to\P
+1591	TOK	make		make\VMI----
+1592	TOK	use		use\N5S
+1593	TOK	of		of\P
+1594	TOK	proteins		protein\N5P
+1595	TOK	that		that\RW63N6
+1596	TOK	would		will\VOFDA66
+1597	TOK	otherwise		otherwise\DGA7
+1598	TOK	be		be\VMI----
+1599	TOK	unable		unable\JA
+1600	TOK	to		to\P
+1601	TOK	hook		hook\N5S
+1602	TOK	into		into\P
+1603	TOK	a		a\AI---S
+1604	TOK	given		give\VMC----
+1605	TOK	communication		communication\N5S
+1606	TOK	circuit		circuit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1607	TOK	Here	BOS	here\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1608	TOK	for instance		for_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1609	TOK	the		the\AT---6
+1610	TOK	adapter		adapter\N5S
+1611	TOK	protein		protein\N5S
+##	TAG	<name>
+1612	TOK	Grb2		Grb2\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+1613	TOK	red		red\JA
+---	DLE	)		=\DELIM
+1614	TOK	draws		draw\VMFDRS3
+1615	TOK	an		an\AI---S
+1616	TOK	enzymatic		enzymatic\JA
+1617	TOK	protein		protein\N5S
+---	DLE	-		=\DELIM
+##	TAG	<name>
+1618	TOK	Sos		Sos\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1619	TOK	into		into\P
+1620	TOK	a		a\AI---S
+1621	TOK	pathway		pathway\N5S
+1622	TOK	headed		head\VMC----
+1623	TOK	by		by\P
+1624	TOK	a		a\AI---S
+1625	TOK	receptor		receptor\N5S
+1626	TOK	that		that\RW63N6
+1627	TOK	itself		itself\RXS3N-
+1628	TOK	has		have\V6FDRS3
+1629	TOK	no		no\AI---6
+1630	TOK	means		mean\N56
+1631	TOK	of		of\P
+1632	TOK	interlocking		interlock\VMG----
+1633	TOK	with		with\P
+##	TAG	<name>
+1634	TOK	Sos		Sos\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+1635	TOK	Fail-Safe Features Aid Specificity	BOS	Fail-Safe_Features_Aid_Specificity\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1637	TOK	Studies	BOS	study\N5P
+1638	TOK	of		of\P
+1639	TOK	receptor		receptor\N5S
+1640	TOK	tyrosine		tyrosine\N5S
+1641	TOK	kinases		kinase\N5P
+1642	TOK	and		and\CC
+1643	TOK	of		of\P
+##	TAG	<name>
+1644	TOK	SH2		SH2\N46
+##	TAG	</name>
+1645	TOK	domains		domain\N5P
+1646	TOK	have		have\V6F6R66
+1647	TOK	also		also\DGA7
+1648	TOK	helped		help\VMC----
+1649	TOK	clarify		clarify\VMF6R66
+1650	TOK	how		how\DGAW
+1651	TOK	cells		cell\N5P
+1652	TOK	guarantee		guarantee\VMF6R66
+1653	TOK	that		that\CS
+1654	TOK	only		only\DGA7
+1655	TOK	the		the\AT---6
+1656	TOK	right		right\JA
+1657	TOK	proteins		protein\N5P
+1658	TOK	combine		combine\VMF6R66
+1659	TOK	to		to\P
+1660	TOK	form		form\VMI----
+1661	TOK	any		any\AG---6
+1662	TOK	chosen		choose\VMC----
+1663	TOK	signaling		signal\VMG----
+1664	TOK	pathway		pathway\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1665	TOK	Soon	BOS	soon\DGA7
+1666	TOK	after		after\P
+##	TAG	<name>
+1667	TOK	SH2		SH2\N46
+##	TAG	</name>
+1668	TOK	domains		domain\N5P
+1669	TOK	were		be\V6F-A66
+1670	TOK	identified		identify\VMC----
+---	DLD	,		=\DELIM
+1671	TOK	investigators		investigator\N5P
+1672	TOK	realized		realize\VMC----
+1673	TOK	that		that\CS
+1674	TOK	these		this\AD---P
+1675	TOK	modules		module\N5P
+1676	TOK	are		be\V6FDR66
+1677	TOK	present		present\JA
+1678	TOK	in		in\P
+1679	TOK	well		well\DGA7
+1680	TOK	over		over\P
+##	TAG	<num>
+1681	TOK	100		100\X
+##	TAG	</num>
+1682	TOK	separate		separate\JA
+1683	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+1684	TOK	What		What\N5S
+1685	TOK	prevented		prevent\VMF6A66
+1686	TOK	different		different\JA
+1687	TOK	activated		activate\VMC----
+1688	TOK	receptors		receptor\N5P
+1689	TOK	from		from\P
+1690	TOK	attracting		attract\VMG----
+1691	TOK	the		the\AT---6
+1692	TOK	same		same\JA
+##	TAG	<name>
+1693	TOK	SH2		SH2\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1694	TOK	containing		contain\VMG----
+1695	TOK	proteins		protein\N5P
+1696	TOK	and		and\CC
+1697	TOK	thereby		thereby\DGA7
+1698	TOK	producing		produce\VMG----
+1699	TOK	identical		identical\JA
+1700	TOK	effects		effect\N5P
+1701	TOK	in		in\P
+1702	TOK	cells		cell\N5P
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1703	TOK	For	BOS	for\P
+1704	TOK	the		the\AT---6
+1705	TOK	body		body\N5S
+1706	TOK	to		to\P
+1707	TOK	operate		operate\VMI----
+1708	TOK	properly		properly\DGA7
+---	DLD	,		=\DELIM
+1709	TOK	it		it\RPS3N6
+1710	TOK	is		be\V6FDRS3
+1711	TOK	crucial		crucial\JA
+1712	TOK	that		that\CS
+1713	TOK	diverse		diverse\JA
+1714	TOK	hormones		hormone\N5P
+1715	TOK	and		and\CC
+1716	TOK	receptors		receptor\N5P
+1717	TOK	produce		produce\VMF6R66
+1718	TOK	distinct		distinct\JA
+1719	TOK	effects		effect\N5P
+1720	TOK	on		on\P
+1721	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1722	TOK	To	BOS	to\P
+1723	TOK	achieve		achieve\VMI----
+1724	TOK	such		such\JA
+1725	TOK	specificity		specificity\N5S
+---	DLD	,		=\DELIM
+1726	TOK	receptors		receptor\N5P
+1727	TOK	must		must\VOFDR66
+1728	TOK	engage		engage\VMI----
+1729	TOK	somewhat		somewhat\DGA7
+1730	TOK	different		different\JA
+1731	TOK	communication		communication\N5S
+1732	TOK	pathways		pathway\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1733	TOK	The	BOS	the\AT---6
+1734	TOK	answer		answer\N5S
+1735	TOK	turns		turn\VMFDRS3
+1736	TOK	out		out\DGA7
+1737	TOK	to		to\P
+1738	TOK	be		be\VMI----
+1739	TOK	quite		quite\DGA7
+1740	TOK	simple		simple\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1741	TOK	Every	BOS	every\AG---S
+##	TAG	<name>
+1742	TOK	SH2		SH2\N46
+##	TAG	</name>
+1743	TOK	domain		domain\N5S
+1744	TOK	includes		include\VMFDRS3
+1745	TOK	a		a\AI---S
+1746	TOK	region		region\N5S
+1747	TOK	that		that\RW63N6
+1748	TOK	fits		fit\VMFDRS3
+1749	TOK	snugly		snugly\DGA7
+1750	TOK	over		over\P
+1751	TOK	a		a\AI---S
+1752	TOK	phosphate		phosphate\N5S
+---	DLI	-		=\DELIM
+1753	TOK	bearing		bear\VMG----
+1754	TOK	tyrosine		tyrosine\N5S
+---	DLE	(		=\DELIM
+1755	TOK	a		a\AI---S
+1756	TOK	phosphotyrosine		phosphotyrosine\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1757	TOK	But	BOS	but\CC
+1758	TOK	each		each\RIS3N-
+1759	TOK	also		also\DGA7
+1760	TOK	includes		include\VMFDRS3
+1761	TOK	a		a\AI---S
+1762	TOK	second		second\MOS
+1763	TOK	region		region\N5S
+---	DLD	,		=\DELIM
+1764	TOK	which		which\RW63N-
+1765	TOK	differs		differ\VMFDRS3
+1766	TOK	from		from\P
+1767	TOK	one		one\MCS
+##	TAG	<name>
+1768	TOK	SH2		SH2\N46
+##	TAG	</name>
+1769	TOK	domain		domain\N5S
+1770	TOK	to		to\P
+1771	TOK	another		another\RIS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1772	TOK	That	BOS	that\AD---S
+1773	TOK	second		second\MOS
+1774	TOK	region		region\N5S
+---	DLE	-		=\DELIM
+1775	TOK	as		as\P
+##	TAG	<name>
+1776	TOK	Lewis C. Cantley of Harvard University Revealed		Lewis_C._Cantley_of_Harvard_University_Revealed\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1777	TOK	recognizes		recognize\VMFDRS3
+1778	TOK	a		a\AI---S
+1779	TOK	particular		particular\JA
+1780	TOK	sequence		sequence\N5S
+1781	TOK	of		of\P
+##	TAG	<num>
+1782	TOK	three		three\X
+##	TAG	</num>
+1783	TOK	or		or\CC
+1784	TOK	so		so\RI-3N-
+1785	TOK	amino		amino\N5S
+1786	TOK	acids		acid\N5P
+##	TAG	<loc pos="DGA7">
+1787	TOK	next to		next_to\DGA7
+##	TAG	</loc>
+1788	TOK	the		the\AT---6
+1789	TOK	phosphotyrosine		phosphotyrosine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1790	TOK	Hence	BOS	hence\DGA7
+---	DLD	,		=\DELIM
+1791	TOK	all		all\AG---6
+##	TAG	<name>
+1792	TOK	SH2		SH2\N46
+##	TAG	</name>
+1793	TOK	domains		domain\N5P
+1794	TOK	can		can\VOFDR66
+1795	TOK	bind		bind\VMI----
+1796	TOK	to		to\P
+1797	TOK	phosphorylated		phosphorylate\VMC----
+1798	TOK	tyrosine		tyrosine\N5S
+---	DLD	,		=\DELIM
+1799	TOK	but		but\CC
+1800	TOK	these		this\AD---P
+1801	TOK	modules		module\N5P
+1802	TOK	vary		vary\VMF6R66
+1803	TOK	in		in\P
+1804	TOK	their		their\APP3N6
+1805	TOK	preference		preference\N5S
+1806	TOK	for		for\P
+1807	TOK	the		the\AT---6
+1808	TOK	adjacent		adjacent\JA
+1809	TOK	amino		amino\N5S
+1810	TOK	acids		acid\N5P
+1811	TOK	in		in\P
+1812	TOK	a		a\AI---S
+1813	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1814	TOK	The	BOS	the\AT---6
+1815	TOK	amino		amino\N5S
+1816	TOK	acids		acid\N5P
+1817	TOK	around		around\P
+1818	TOK	the		the\AT---6
+1819	TOK	tyrosine		tyrosine\N5S
+1820	TOK	thereby		thereby\DGA7
+1821	TOK	serve		serve\VMF6R66
+1822	TOK	as		as\P
+1823	TOK	a		a\AI---S
+1824	TOK	code		code\N5S
+1825	TOK	to		to\P
+1826	TOK	specify		specify\VMI----
+1827	TOK	which		which\AW---6
+1828	TOK	version		version\N5S
+1829	TOK	of		of\P
+1830	TOK	the		the\AT---6
+##	TAG	<name>
+1831	TOK	SH2		SH2\N46
+##	TAG	</name>
+1832	TOK	domain		domain\N5S
+1833	TOK	can		can\VOFDR66
+1834	TOK	attach		attach\VMI----
+1835	TOK	to		to\P
+1836	TOK	a		a\AI---S
+1837	TOK	given		give\VMC----
+1838	TOK	phosphotyrosine		phosphotyrosine\N5S
+---	DLI	-		=\DELIM
+1839	TOK	bearing		bear\VMG----
+1840	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1841	TOK	Because	BOS	because\CS
+1842	TOK	each		each\AG---S
+##	TAG	<name>
+1843	TOK	SH2		SH2\N46
+##	TAG	</name>
+1844	TOK	domain		domain\N5S
+1845	TOK	is		be\V6FDRS3
+1846	TOK	itself		itself\RXS3N-
+1847	TOK	attached		attach\VMC----
+1848	TOK	to		to\P
+1849	TOK	a		a\AI---S
+1850	TOK	different		different\JA
+1851	TOK	enzymatic		enzymatic\JA
+1852	TOK	domain		domain\N5S
+1853	TOK	or		or\CC
+1854	TOK	linker		linker\N5S
+1855	TOK	module		module\N5S
+---	DLD	,		=\DELIM
+1856	TOK	this		this\AD---S
+1857	TOK	code		code\N5S
+1858	TOK	also		also\DGA7
+1859	TOK	dictates		dictate\VMFDRS3
+1860	TOK	which		which\AW---6
+1861	TOK	pathways		pathway\N5P
+1862	TOK	will		will\VOFDR66
+1863	TOK	be		be\VMI----
+1864	TOK	activated		activate\VMC----
+1865	TOK	downstream		downstream\DGA7
+1866	TOK	of		of\P
+1867	TOK	the		the\AT---6
+1868	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1869	TOK	Other	BOS	other\JA
+1870	TOK	kinds		kind\N5P
+1871	TOK	of		of\P
+1872	TOK	linker		linker\N5S
+1873	TOK	modules		module\N5P
+1874	TOK	operate		operate\VMF6R66
+1875	TOK	analogously		analogously\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1876	TOK	A	BOS	a\AI---S
+1877	TOK	pathway		pathway\N5S
+1878	TOK	activated		activate\VMC----
+1879	TOK	by		by\P
+1880	TOK	a		a\AI---S
+1881	TOK	protein		protein\N5S
+1882	TOK	called		call\VMF6A66
+1883	TOK	platelet		platelet\N5S
+---	DLI	-		=\DELIM
+1884	TOK	derived		derive\VMC----
+1885	TOK	growth		growth\N5S
+1886	TOK	factor		factor\N5S
+1887	TOK	illustrates		illustrate\VMFDRS3
+1888	TOK	the		the\AT---6
+1889	TOK	principles		principle\N5P
+1890	TOK	we		we\RPP1NN
+1891	TOK	have		have\V6F6R66
+1892	TOK	described		describe\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1893	TOK	This	BOS	this\AD---S
+1894	TOK	factor		factor\N5S
+1895	TOK	is		be\V6FDRS3
+1896	TOK	often		often\DGA7
+1897	TOK	released		release\VMC----
+1898	TOK	after		after\P
+1899	TOK	a		a\AI---S
+1900	TOK	blood		blood\N5S
+1901	TOK	vessel		vessel\N5S
+1902	TOK	is		be\V6FDRS3
+1903	TOK	injured		injure\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1904	TOK	Its	BOS	its\APS3N6
+1905	TOK	attachment		attachment\N5S
+1906	TOK	to		to\P
+1907	TOK	a		a\AI---S
+1908	TOK	unique		unique\JA
+1909	TOK	receptor		receptor\N5S
+1910	TOK	tyrosine		tyrosine\N5S
+1911	TOK	kinase		kinase\N5S
+1912	TOK	on		on\P
+1913	TOK	a		a\AI---S
+1914	TOK	smooth		smooth\JA
+1915	TOK	muscle		muscle\N5S
+1916	TOK	cell		cell\N5S
+1917	TOK	in		in\P
+1918	TOK	the		the\AT---6
+1919	TOK	blood		blood\N5S
+1920	TOK	vessel		vessel\N5S
+1921	TOK	wall		wall\N5S
+1922	TOK	causes		cause\VMFDRS3
+1923	TOK	such		such\JA
+1924	TOK	receptors		receptor\N5P
+1925	TOK	to		to\P
+1926	TOK	cluster		cluster\N5S
+1927	TOK	and		and\CC
+1928	TOK	become		become\VMI----
+1929	TOK	phosphorylated		phosphorylate\VMC----
+1930	TOK	on		on\P
+1931	TOK	tyrosine		tyrosine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1932	TOK	This	BOS	this\AD---S
+1933	TOK	change		change\N5S
+1934	TOK	draws		draw\VMFDRS3
+1935	TOK	to		to\P
+1936	TOK	the		the\AT---6
+1937	TOK	receptor		receptor\N5S
+1938	TOK	a		a\AI---S
+1939	TOK	protein		protein\N5S
+1940	TOK	called		call\VMF6A66
+##	TAG	<name>
+1941	TOK	Grb2		Grb2\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1942	TOK	which		which\RW63N-
+1943	TOK	consists		consist\VMFDRS3
+1944	TOK	of		of\P
+1945	TOK	a		a\AI---S
+1946	TOK	specific		specific\JA
+##	TAG	<name>
+1947	TOK	SH2		SH2\N46
+##	TAG	</name>
+1948	TOK	domain		domain\N5S
+1949	TOK	flanked		flank\VMC----
+1950	TOK	on		on\P
+1951	TOK	either		either\AG---6
+1952	TOK	side		side\N5S
+1953	TOK	by		by\P
+1954	TOK	another		another\JA
+1955	TOK	linker		linker\N5S
+1956	TOK	domain		domain\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1957	TOK	SH3		SH3\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1958	TOK	Grb2	BOS	Grb2\N46
+##	TAG	</name>
+1959	TOK	is		be\V6FDRS3
+1960	TOK	a		a\AI---S
+1961	TOK	classic		classic\JA
+1962	TOK	adapter		adapter\N5S
+---	DLD	;		=\DELIM
+1963	TOK	it		it\RPS3N6
+1964	TOK	has		have\V6FDRS3
+1965	TOK	no		no\AI---6
+1966	TOK	enzymatic		enzymatic\JA
+1967	TOK	power		power\N5S
+1968	TOK	at		at\P
+1969	TOK	all		all\AG---6
+---	DLD	,		=\DELIM
+1970	TOK	but		but\CC
+1971	TOK	its		its\APS3N6
+##	TAG	<name>
+1972	TOK	SH3		SH3\N46
+##	TAG	</name>
+1973	TOK	domains		domain\N5P
+---	DLE	(		=\DELIM
+1974	TOK	which		which\RW63N-
+1975	TOK	like		like\P
+1976	TOK	to		to\P
+1977	TOK	bind		bind\VMI----
+1978	TOK	to		to\P
+1979	TOK	the		the\AT---6
+1980	TOK	amino		amino\N5S
+1981	TOK	acid		acid\N5S
+1982	TOK	proline		proline\N5S
+---	DLD	)		=\DELIM
+1983	TOK	hook		hook\VMF6R66
+1984	TOK	an		an\AI---S
+1985	TOK	enzyme		enzyme\N5S
+---	DLI	-		=\DELIM
+1986	TOK	containing		contain\VMG----
+1987	TOK	protein		protein\N5S
+1988	TOK	called		call\VMF6A66
+##	TAG	<name>
+1989	TOK	Sos		Sos\N46
+##	TAG	</name>
+1990	TOK	to		to\P
+1991	TOK	the		the\AT---6
+1992	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1993	TOK	There	BOS	there\DGA7
+##	TAG	<name>
+1994	TOK	Sos		Sos\N46
+##	TAG	</name>
+1995	TOK	activates		activate\VMFDRS3
+1996	TOK	a		a\AI---S
+1997	TOK	membrane		membrane\N5S
+---	DLI	-		=\DELIM
+1998	TOK	associated		associate\VMC----
+1999	TOK	protein		protein\N5S
+2000	TOK	known		know\VMC----
+2001	TOK	as		as\P
+##	TAG	<name>
+2002	TOK	Ras		Ras\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2003	TOK	which		which\RW63N-
+2004	TOK	triggers		trigger\VMFDRS3
+2005	TOK	a		a\AI---S
+2006	TOK	series		series\N56
+2007	TOK	of		of\P
+2008	TOK	enzymatic		enzymatic\JA
+2009	TOK	events		event\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2010	TOK	These	BOS	this\AD---P
+2011	TOK	reactions		reaction\N5P
+2012	TOK	ultimately		ultimately\DGA7
+2013	TOK	stimulate		stimulate\VMF6R66
+2014	TOK	proteins		protein\N5P
+2015	TOK	in		in\P
+2016	TOK	the		the\AT---6
+2017	TOK	nucleus		nucleus\N5S
+2018	TOK	to		to\P
+2019	TOK	activate		activate\VMI----
+2020	TOK	genes		gene\N5P
+2021	TOK	that		that\RW63N6
+2022	TOK	cause		cause\VMF6R66
+2023	TOK	the		the\AT---6
+2024	TOK	cells		cell\N5P
+2025	TOK	to		to\P
+2026	TOK	divide		divide\VMI----
+---	DLD	,		=\DELIM
+2027	TOK	an		an\AI---S
+2028	TOK	action		action\N5S
+2029	TOK	that		that\RW63N6
+2030	TOK	promotes		promote\VMFDRS3
+2031	TOK	wound		wound\N5S
+2032	TOK	healing		heal\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2033	TOK	The	BOS	the\AT---6
+2034	TOK	signaling		signal\VMG----
+2035	TOK	networks		network\N5P
+2036	TOK	headed		head\VMC----
+2037	TOK	by		by\P
+2038	TOK	receptor		receptor\N5S
+2039	TOK	tyrosine		tyrosine\N5S
+2040	TOK	kinases		kinase\N5P
+2041	TOK	seem		seem\VMF6R66
+2042	TOK	to		to\P
+2043	TOK	rely		rely\VMI----
+2044	TOK	on		on\P
+2045	TOK	relatively		relatively\DGA7
+2046	TOK	small		small\JA
+2047	TOK	adapter		adapter\N5S
+2048	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2049	TOK	Analyses	BOS	analysis\N5P
+2050	TOK	of		of\P
+2051	TOK	communication		communication\N5S
+2052	TOK	circuits		circuit\N5P
+2053	TOK	in		in\P
+2054	TOK	nerve		nerve\N5S
+2055	TOK	cells		cell\N5P
+---	DLE	(		=\DELIM
+2056	TOK	neurons		neuron\N5P
+---	DLD	)		=\DELIM
+2057	TOK	of		of\P
+2058	TOK	the		the\AT---6
+2059	TOK	brain		brain\N5S
+2060	TOK	show		show\VMF6R66
+2061	TOK	that		that\CS
+2062	TOK	some		some\AG---6
+2063	TOK	proteins		protein\N5P
+2064	TOK	in		in\P
+2065	TOK	neuronal		neuronal\JA
+2066	TOK	pathways		pathway\N5P
+2067	TOK	have		have\V6F6R66
+2068	TOK	an		an\AI---S
+2069	TOK	incredibly		incredibly\DGA7
+2070	TOK	large		large\JA
+2071	TOK	number		number\N5S
+2072	TOK	of		of\P
+2073	TOK	linker		linker\N5S
+2074	TOK	domains		domain\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2075	TOK	These	BOS	this\AD---P
+2076	TOK	proteins		protein\N5P
+2077	TOK	are		be\V6FDR66
+2078	TOK	often		often\DGA7
+2079	TOK	called		call\VMC----
+2080	TOK	scaffolding		scaffolding\N5S
+2081	TOK	molecules		molecule\N5P
+---	DLD	,		=\DELIM
+2082	TOK	as		as\CS
+2083	TOK	they		they\RPP3NN
+2084	TOK	permanently		permanently\DGA7
+2085	TOK	hold		hold\VMF6R66
+2086	TOK	groups		group\N5P
+2087	TOK	of		of\P
+2088	TOK	signaling		signal\VMG----
+2089	TOK	proteins		protein\N5P
+2090	TOK	together		together\DGA7
+2091	TOK	in		in\P
+2092	TOK	one		one\MCS
+2093	TOK	place		place\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2094	TOK	The	BOS	the\AT---6
+2095	TOK	existence		existence\N5S
+2096	TOK	of		of\P
+2097	TOK	such		such\JA
+2098	TOK	scaffolds		scaffold\N5P
+2099	TOK	means		mean\VMFDRS3
+2100	TOK	that		that\CS
+2101	TOK	certain		certain\JA
+2102	TOK	signaling		signal\VMG----
+2103	TOK	networks		network\N5P
+2104	TOK	are		be\V6FDR66
+2105	TOK	hardwired		hardwired\JA
+2106	TOK	into		into\P
+2107	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2108	TOK	That	BOS	that\CS
+2109	TOK	hardwiring		hardwiring\N5S
+2110	TOK	can		can\VOFDR66
+2111	TOK	enhance		enhance\VMI----
+2112	TOK	the		the\AT---6
+2113	TOK	speed		speed\N5S
+2114	TOK	and		and\CC
+2115	TOK	accuracy		accuracy\N5S
+2116	TOK	of		of\P
+2117	TOK	information		information\N5S
+2118	TOK	transfer		transfer\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2119	TOK	Scaffolds	BOS	scaffold\N5P
+##	TAG	<name>
+2120	TOK	Abound	EOS	Abound\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2122	TOK	One	BOS	one\MCS
+2123	TOK	well		well\DGA7
+---	DLI	-		=\DELIM
+2124	TOK	studied		study\VMC----
+2125	TOK	scaffolding		scaffolding\N5S
+2126	TOK	protein		protein\N5S
+2127	TOK	goes		go\VMFDRS3
+2128	TOK	by		by\P
+2129	TOK	the		the\AT---6
+2130	TOK	name		name\N5S
+##	TAG	<name>
+2131	TOK	PSD		PSD\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2132	TOK	95		95\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2133	TOK	It	BOS	it\RPS3N6
+2134	TOK	operates		operate\VMFDRS3
+2135	TOK	primarily		primarily\DGA7
+2136	TOK	in		in\P
+2137	TOK	neurons		neuron\N5P
+2138	TOK	involved		involve\VMC----
+2139	TOK	in		in\P
+2140	TOK	learning		learn\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2141	TOK	In	BOS	in\P
+2142	TOK	nerve		nerve\N5S
+2143	TOK	tissue		tissue\N5S
+---	DLD	,		=\DELIM
+2144	TOK	signals		signal\N5P
+2145	TOK	pass		pass\VMF6R66
+2146	TOK	from		from\P
+2147	TOK	one		one\MCS
+2148	TOK	neuron		neuron\N5S
+2149	TOK	to		to\P
+2150	TOK	another		another\RIS3N-
+2151	TOK	at		at\P
+2152	TOK	contact		contact\N5S
+2153	TOK	points		point\N5P
+2154	TOK	called		call\VMC----
+2155	TOK	synapses		synapse\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2156	TOK	The	BOS	the\AT---6
+2157	TOK	first		first\MOS
+2158	TOK	neuron		neuron\N5S
+2159	TOK	releases		release\VMFDRS3
+2160	TOK	a		a\AI---S
+2161	TOK	chemical		chemical\JA
+2162	TOK	messenger		messenger\N5S
+---	DLE	-		=\DELIM
+2163	TOK	a		a\AI---S
+2164	TOK	neurotransmitter		neurotransmitter\N5S
+---	DLD	-		=\DELIM
+2165	TOK	into		into\P
+2166	TOK	a		a\AI---S
+2167	TOK	narrow		narrow\JA
+2168	TOK	cleft		cleft\N5S
+2169	TOK	between		between\P
+2170	TOK	the		the\AT---6
+2171	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2172	TOK	Receptors	BOS	receptor\N5P
+2173	TOK	on		on\P
+2174	TOK	the		the\AT---6
+2175	TOK	second		second\MOS
+2176	TOK	cell		cell\N5S
+2177	TOK	grab		grab\VMI----
+2178	TOK	the		the\AT---6
+2179	TOK	neurotransmitter		neurotransmitter\N5S
+2180	TOK	and		and\CC
+2181	TOK	then		then\DGA7
+2182	TOK	cause		cause\VMF6R66
+2183	TOK	ion		ion\N5S
+2184	TOK	channels		channel\N5P
+2185	TOK	in		in\P
+2186	TOK	the		the\AT---6
+2187	TOK	membrane		membrane\N5S
+2188	TOK	to		to\P
+2189	TOK	open		open\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2190	TOK	This	BOS	this\AD---S
+2191	TOK	influx		influx\N5S
+2192	TOK	of		of\P
+2193	TOK	ions		ion\N5P
+2194	TOK	activates		activate\VMFDRS3
+2195	TOK	enzymes		enzyme\N5P
+2196	TOK	that		that\RW63N6
+2197	TOK	are		be\V6FDR66
+2198	TOK	needed		need\VMC----
+2199	TOK	to		to\P
+2200	TOK	propagate		propagate\VMI----
+2201	TOK	an		an\AI---S
+2202	TOK	electrical		electrical\JA
+2203	TOK	impulse		impulse\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2204	TOK	Once	BOS	once\DGA7
+2205	TOK	generated		generate\VMF6A66
+---	DLD	,		=\DELIM
+2206	TOK	the		the\AT---6
+2207	TOK	impulse		impulse\N5S
+2208	TOK	travels		travel\VMFDRS3
+2209	TOK	down		down\DGA7
+2210	TOK	the		the\AT---6
+2211	TOK	axon		axon\N5S
+---	DLD	,		=\DELIM
+2212	TOK	a		a\AI---S
+2213	TOK	long		long\JA
+2214	TOK	projection		projection\N5S
+---	DLD	,		=\DELIM
+2215	TOK	to		to\P
+2216	TOK	the		the\AT---6
+2217	TOK	axon		axon\N5S
+2218	PGR	's		genmark\GENMARK
+2219	TOK	abundant		abundant\JA
+2220	TOK	tiny		tiny\JA
+2221	TOK	branches		branch\N5P
+---	DLD	,		=\DELIM
+2222	TOK	inducing		induce\VMG----
+2223	TOK	them		them\RPP3NA
+2224	TOK	to		to\P
+2225	TOK	release		release\VMI----
+2226	TOK	more		many\JC
+2227	TOK	neurotransmitter		neurotransmitter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2228	TOK	For	BOS	for\P
+2229	TOK	the		the\AT---6
+2230	TOK	impulse		impulse\N5S
+2231	TOK	to		to\P
+2232	TOK	be		be\VMI----
+2233	TOK	produced		produce\VMF6A66
+---	DLD	,		=\DELIM
+2234	TOK	many		many\AI---P
+2235	TOK	components		component\N5P
+2236	TOK	of		of\P
+2237	TOK	the		the\AT---6
+2238	TOK	signaling		signal\VMG----
+2239	TOK	system		system\N5S
+2240	TOK	must		must\VOFDR66
+2241	TOK	jump		jump\VMI----
+2242	TOK	into		into\P
+2243	TOK	action		action\N5S
+2244	TOK	virtually		virtually\DGA7
+2245	TOK	simultaneously		simultaneously\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2246	TOK	Among	BOS	among\P
+2247	TOK	the		the\AT---6
+2248	TOK	multiple		multiple\JA
+2249	TOK	linker		linker\N5S
+2250	TOK	modules		module\N5P
+2251	TOK	in		in\P
+##	TAG	<name>
+2252	TOK	PSD		PSD\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2253	TOK	95		95\X
+##	TAG	</num>
+2254	TOK	are		be\V6FDR66
+##	TAG	<num>
+2255	TOK	three		three\X
+##	TAG	</num>
+2256	TOK	so		so\CC
+---	DLI	-		=\DELIM
+2257	TOK	called		call\VMC----
+##	TAG	<name>
+2258	TOK	PDZ		PDZ\N46
+##	TAG	</name>
+2259	TOK	domains		domain\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2260	TOK	One	BOS	one\RIS3N-
+2261	TOK	binds		bind\VMFDRS3
+2262	TOK	to		to\P
+2263	TOK	the		the\AT---6
+2264	TOK	cytoplasmic		cytoplasmic\JA
+2265	TOK	tail		tail\N5S
+2266	TOK	of		of\P
+2267	TOK	the		the\AT---6
+2268	TOK	receptor		receptor\N5S
+2269	TOK	for		for\P
+2270	TOK	the		the\AT---6
+2271	TOK	neurotransmitter		neurotransmitter\N5S
+2272	TOK	glutamate		glutamate\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2273	TOK	A	BOS	a\AI---S
+2274	TOK	second		second\N5S
+2275	TOK	grabs		grab\VMFDRS3
+2276	TOK	onto		onto\P
+2277	TOK	a		a\AI---S
+2278	TOK	membrane		membrane\N5S
+---	DLI	-		=\DELIM
+2279	TOK	spanning		span\VMG----
+2280	TOK	ion		ion\N5S
+2281	TOK	channel		channel\N5S
+---	DLE	(		=\DELIM
+2282	TOK	which		which\RW63N-
+2283	TOK	controls		control\VMFDRS3
+2284	TOK	the		the\AT---6
+2285	TOK	inflow		inflow\N5S
+2286	TOK	of		of\P
+2287	TOK	potassium		potassium\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2288	TOK	and		and\CC
+2289	TOK	a		a\AI---S
+2290	TOK	third		third\N5S
+2291	TOK	clasps		clasp\VMFDRS3
+2292	TOK	proteins		protein\N5P
+2293	TOK	in		in\P
+2294	TOK	the		the\AT---6
+2295	TOK	cytoplasm		cytoplasm\N5S
+---	DLE	(		=\DELIM
+2296	TOK	as		as\DGA7
+2297	TOK	does		do\V6FDRS3
+2298	TOK	an		an\AI---S
+2299	TOK	additional		additional\JA
+2300	TOK	module		module\N5S
+2301	TOK	in		in\P
+2302	TOK	the		the\AT---6
+2303	TOK	scaffold		scaffold\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2304	TOK	PSD	BOS	PSD\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+2305	TOK	95		95\X
+##	TAG	</num>
+2306	TOK	thus		thus\DGA7
+2307	TOK	yokes		yoke\VMFDRS3
+2308	TOK	together		together\DGA7
+2309	TOK	several		several\JA
+2310	TOK	signaling		signal\VMG----
+2311	TOK	components		component\N5P
+##	TAG	<loc pos="DGA7">
+2312	TOK	at once		at_once\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2313	TOK	enabling		enable\VMG----
+2314	TOK	them		them\RPP3NA
+2315	TOK	to		to\P
+2316	TOK	coordinate		coordinate\VMI----
+2317	TOK	their		their\APP3N6
+2318	TOK	activities		activity\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2319	TOK	The	BOS	the\AT---6
+2320	TOK	eye		eye\N5S
+2321	TOK	of		of\P
+2322	TOK	a		a\AI---S
+2323	TOK	fruit		fruit\N5S
+2324	TOK	fly		fly\N5S
+2325	TOK	also		also\DGA7
+2326	TOK	relies		rely\VMFDRS3
+2327	TOK	on		on\P
+2328	TOK	a		a\AI---S
+##	TAG	<name>
+2329	TOK	PDZ		PDZ\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2330	TOK	containing		contain\VMG----
+2331	TOK	scaffolding		scaffolding\N5S
+2332	TOK	protein		protein\N5S
+---	DLE	-		=\DELIM
+##	TAG	<name>
+2333	TOK	InaD		InaD\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2334	TOK	for		for\P
+2335	TOK	the		the\AT---6
+2336	TOK	efficient		efficient\JA
+2337	TOK	relay		relay\N5S
+2338	TOK	of		of\P
+2339	TOK	visual		visual\JA
+2340	TOK	information		information\N5S
+2341	TOK	from		from\P
+2342	TOK	the		the\AT---6
+2343	TOK	eye		eye\N5S
+2344	TOK	to		to\P
+2345	TOK	the		the\AT---6
+2346	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2347	TOK	Yet	BOS	yet\DGA7
+2348	TOK	another		another\JA
+2349	TOK	preformed		preform\VMC----
+2350	TOK	signaling		signal\VMG----
+2351	TOK	complex		complex\JA
+2352	TOK	has		have\V6FDRS3
+2353	TOK	been		be\VMC----
+2354	TOK	found		find\VMC----
+2355	TOK	only		only\DGA7
+2356	TOK	recently		recently\DGA7
+---	DLD	,		=\DELIM
+2357	TOK	in		in\P
+2358	TOK	mammalian		mammalian\JA
+2359	TOK	neurons		neuron\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2360	TOK	The	BOS	the\AT---6
+2361	TOK	core		core\N5S
+2362	TOK	is		be\V6FDRS3
+2363	TOK	a		a\AI---S
+2364	TOK	scaffolding		scaffolding\N5S
+2365	TOK	protein		protein\N5S
+2366	TOK	named		name\VMC----
+2367	TOK	yotiao		yotiao\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2368	TOK	As	BOS	as\P
+2369	TOK	one		one\MCS
+2370	TOK	of		of\P
+2371	TOK	us		us\RPP1NA
+2372	TOK	and		and\CC
+2373	TOK	his		his\APS3M6
+2374	TOK	colleagues		colleague\N5P
+2375	TOK	have		have\V6F6R66
+2376	TOK	shown		show\VMC----
+---	DLD	,		=\DELIM
+2377	TOK	this		this\AD---S
+2378	TOK	molecule		molecule\N5S
+2379	TOK	grasps		grasp\VMFDRS3
+2380	TOK	a		a\AI---S
+2381	TOK	dual		dual\JA
+---	DLI	-		=\DELIM
+2382	TOK	purpose		purpose\N5S
+---	DLD	,		=\DELIM
+2383	TOK	membrane		membrane\N5S
+---	DLI	-		=\DELIM
+2384	TOK	spanning		span\VMG----
+2385	TOK	protein		protein\N5S
+2386	TOK	that		that\RW63N6
+2387	TOK	is		be\V6FDRS3
+2388	TOK	both		both\RIP3N-
+2389	TOK	a		a\AI---S
+2390	TOK	glutamate		glutamate\N5S
+2391	TOK	receptor		receptor\N5S
+2392	TOK	and		and\CC
+2393	TOK	an		an\AI---S
+2394	TOK	ion		ion\N5S
+2395	TOK	channel		channel\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2396	TOK	It	BOS	it\RPS3N6
+2397	TOK	also		also\DGA7
+2398	TOK	clasps		clasp\VMFDRS3
+2399	TOK	a		a\AI---S
+2400	TOK	kinase		kinase\N5S
+2401	TOK	that		that\RW63N6
+2402	TOK	adds		add\VMFDRS3
+2403	TOK	phosphate		phosphate\N5S
+2404	TOK	to		to\P
+---	DLD	,		=\DELIM
+2405	TOK	and		and\CC
+2406	TOK	thereby		thereby\DGA7
+2407	TOK	opens		open\VMFDRS3
+---	DLD	,		=\DELIM
+2408	TOK	the		the\AT---6
+2409	TOK	ion		ion\N5S
+2410	TOK	channel		channel\N5S
+2411	TOK	when		when\CS
+2412	TOK	the		the\AT---6
+2413	TOK	receptor		receptor\N5S
+2414	TOK	is		be\V6FDRS3
+2415	TOK	activated		activate\VMC----
+2416	TOK	by		by\P
+2417	TOK	glutamate		glutamate\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2418	TOK	And	BOS	and\CC
+2419	TOK	it		it\RPS3N6
+2420	TOK	anchors		anchor\VMFDRS3
+2421	TOK	a		a\AI---S
+2422	TOK	phosphatase		phosphatase\N5S
+---	DLD	,		=\DELIM
+2423	TOK	an		an\AI---S
+2424	TOK	enzyme		enzyme\N5S
+2425	TOK	that		that\RW63N6
+2426	TOK	removes		remove\VMFDRS3
+2427	TOK	phosphates		phosphate\N5P
+2428	TOK	from		from\P
+2429	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2430	TOK	The	BOS	the\AT---6
+2431	TOK	bound		bind\VMC----
+2432	TOK	phosphatase		phosphatase\N5S
+2433	TOK	closes		close\VMFDRS3
+2434	TOK	the		the\AT---6
+2435	TOK	ion		ion\N5S
+2436	TOK	channel		channel\N5S
+2437	TOK	whenever		whenever\CS
+2438	TOK	glutamate		glutamate\N5S
+2439	TOK	is		be\V6FDRS3
+2440	TOK	absent		absent\JA
+2441	TOK	from		from\P
+2442	TOK	the		the\AT---6
+2443	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2444	TOK	This	BOS	this\AD---S
+2445	TOK	elegant		elegant\JA
+2446	TOK	arrangement		arrangement\N5S
+2447	TOK	ensures		ensure\VMFDRS3
+2448	TOK	that		that\CS
+2449	TOK	ions		ion\N5P
+2450	TOK	flow		flow\VMF6R66
+2451	TOK	through		through\P
+2452	TOK	the		the\AT---6
+2453	TOK	channel		channel\N5S
+2454	TOK	only		only\DGA7
+2455	TOK	when		when\CS
+2456	TOK	glutamate		glutamate\N5S
+2457	TOK	is		be\V6FDRS3
+2458	TOK	docked		dock\VMC----
+2459	TOK	with		with\P
+2460	TOK	the		the\AT---6
+2461	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2462	TOK	Kinases	BOS	kinase\N5P
+2463	TOK	and		and\CC
+2464	TOK	phosphatases		phosphatase\N5P
+2465	TOK	control		control\VMF6R66
+2466	TOK	most		most\AG---6
+2467	TOK	activities		activity\N5P
+2468	TOK	in		in\P
+2469	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2470	TOK	If	BOS	if\CS
+2471	TOK	one		one\MCS
+2472	TOK	kinase		kinase\N5S
+2473	TOK	activates		activate\VMFDRS3
+2474	TOK	a		a\AI---S
+2475	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+2476	TOK	some		some\AG---6
+2477	TOK	phosphatase		phosphatase\N5S
+2478	TOK	will		will\VOFDR66
+2479	TOK	be		be\VMI----
+2480	TOK	charged		charge\VMC----
+2481	TOK	with		with\P
+2482	TOK	inactivating		inactivate\VMG----
+2483	TOK	that		that\AD---S
+2484	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+2485	TOK	or		or\CC
+##	TAG	<foreign lang="LA" pos="DGA7">
+2486	TOK	vice versa		vice_versa\DGA7
+##	TAG	</foreign>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2487	TOK	Yet	BOS	yet\DGA7
+2488	TOK	human		human\JA
+2489	TOK	cells		cell\N5P
+2490	TOK	manufacture		manufacture\VMF6R66
+2491	TOK	hundreds		hundred\N5P
+2492	TOK	of		of\P
+2493	TOK	different		different\JA
+2494	TOK	kinases		kinase\N5P
+2495	TOK	and		and\CC
+2496	TOK	phosphatases		phosphatase\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2497	TOK	Scaffolding	BOS	scaffolding\N5S
+2498	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+2499	TOK	it		it\RPS3N6
+2500	TOK	appears		appear\VMFDRS3
+---	DLD	,		=\DELIM
+2501	TOK	are		be\V6FDR66
+2502	TOK	a		a\AI---S
+2503	TOK	common		common\JA
+2504	TOK	strategy		strategy\N5S
+2505	TOK	for		for\P
+2506	TOK	preventing		prevent\VMG----
+2507	TOK	the		the\AT---6
+2508	TOK	wrong		wrong\JA
+2509	TOK	kinases		kinase\N5P
+2510	TOK	and		and\CC
+2511	TOK	phosphatases		phosphatase\N5P
+2512	TOK	from		from\P
+2513	TOK	acting		act\VMG----
+2514	TOK	on		on\P
+2515	TOK	a		a\AI---S
+2516	TOK	target		target\N5S
+---	DLD	;		=\DELIM
+2517	TOK	they		they\RPP3NN
+2518	TOK	facilitate		facilitate\VMF6R66
+2519	TOK	the		the\AT---6
+2520	TOK	proper		proper\JA
+2521	TOK	reactions		reaction\N5P
+2522	TOK	by		by\P
+2523	TOK	holding		hold\VMG----
+2524	TOK	selected		select\VMC----
+2525	TOK	kinases		kinase\N5P
+2526	TOK	and		and\CC
+2527	TOK	phosphatases		phosphatase\N5P
+2528	TOK	near		near\P
+2529	TOK	the		the\AT---6
+2530	TOK	precise		precise\JA
+2531	TOK	proteins		protein\N5P
+2532	TOK	they		they\RPP3NN
+2533	TOK	are		be\V6FDR66
+2534	TOK	supposed		suppose\VMC----
+2535	TOK	to		to\P
+2536	TOK	regulate		regulate\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2537	TOK	Getting	BOS	get\VMG----
+2538	TOK	a		a\AI---S
+##	TAG	<name>
+2539	TOK	Line		Line\N46
+##	TAG	</name>
+2540	TOK	on		on\P
+##	TAG	<name>
+2541	TOK	Human Diseases	EOS	Human_Diseases\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2543	TOK	A	BOS	a\AI---S
+2544	TOK	surprising		surprising\JA
+2545	TOK	number		number\N5S
+2546	TOK	of		of\P
+2547	TOK	human		human\JA
+2548	TOK	disorders		disorder\N5P
+2549	TOK	involve		involve\VMF6R66
+2550	TOK	aberrant		aberrant\JA
+2551	TOK	signaling		signal\VMG----
+2552	TOK	in		in\P
+2553	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2554	TOK	Cancer	BOS	cancer\N5S
+---	DLD	,		=\DELIM
+2555	TOK	marked		mark\VMC----
+2556	TOK	by		by\P
+2557	TOK	uncontrolled		uncontrolled\JA
+2558	TOK	cell		cell\N5S
+2559	TOK	proliferation		proliferation\N5S
+2560	TOK	and		and\CC
+2561	TOK	migration		migration\N5S
+---	DLD	,		=\DELIM
+2562	TOK	is		be\V6FDRS3
+2563	TOK	a		a\AI---S
+2564	TOK	prime		prime\N5S
+2565	TOK	example		example\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2566	TOK	At	BOS	at\P
+2567	TOK	its		its\APS3N6
+2568	TOK	root		root\N5S
+---	DLD	,		=\DELIM
+2569	TOK	cancer		cancer\N5S
+2570	TOK	results		result\N5P
+2571	TOK	from		from\P
+2572	TOK	genetic		genetic\JA
+2573	TOK	mutations		mutation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2574	TOK	Certain	BOS	certain\JA
+2575	TOK	of		of\P
+2576	TOK	those		that\AD---P
+2577	TOK	mutations		mutation\N5P
+2578	TOK	work		work\VMF6R66
+2579	TOK	their		their\APP3N6
+2580	TOK	mischief		mischief\N5S
+2581	TOK	by		by\P
+2582	TOK	leading		lead\VMG----
+2583	TOK	to		to\P
+2584	TOK	the		the\AT---6
+2585	TOK	overactivity		overactivity\N5S
+2586	TOK	of		of\P
+2587	TOK	proteins		protein\N5P
+2588	TOK	in		in\P
+2589	TOK	signal		signal\VMI----
+---	DLD	-		=\DELIM
+2590	TOK	relaying		relay\VMG----
+2591	TOK	pathways		pathway\N5P
+2592	TOK	within		within\P
+2593	TOK	cells		cell\N5P
+---	DLE	-		=\DELIM
+2594	TOK	notably		notably\DGA7
+---	DLD	,		=\DELIM
+2595	TOK	in		in\P
+2596	TOK	pathways		pathway\N5P
+2597	TOK	that		that\RW63N6
+2598	TOK	normally		normally\DGA7
+2599	TOK	induce		induce\VMF6R66
+2600	TOK	the		the\AT---6
+2601	TOK	cells		cell\N5P
+2602	TOK	to		to\P
+2603	TOK	divide		divide\VMI----
+2604	TOK	in		in\P
+2605	TOK	response		response\N5S
+2606	TOK	to		to\P
+2607	TOK	external		external\JA
+2608	TOK	commands		command\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2609	TOK	The	BOS	the\AT---6
+2610	TOK	affected		affect\VMC----
+2611	TOK	proteins		protein\N5P
+2612	TOK	cause		cause\VMF6R66
+2613	TOK	cells		cell\N5P
+2614	TOK	to		to\P
+2615	TOK	behave		behave\VMI----
+##	TAG	<loc pos="CS">
+2616	TOK	as if		as_if\CS
+##	TAG	</loc>
+2617	TOK	other		other\JA
+2618	TOK	cells		cell\N5P
+2619	TOK	were		be\V6F-A66
+2620	TOK	constantly		constantly\DGA7
+2621	TOK	telling		tell\VMG----
+2622	TOK	them		them\RPP3NA
+2623	TOK	to		to\P
+2624	TOK	reproduce		reproduce\VMI----
+2625	TOK	even		even\DGA7
+2626	TOK	when		when\CS
+##	TAG	<loc pos="AG---6">
+2627	TOK	no such		no_such\AG---6
+##	TAG	</loc>
+2628	TOK	orders		order\N5P
+2629	TOK	were		be\V6F-A66
+2630	TOK	sent		send\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2631	TOK	Signal	BOS	signal\N5S
+2632	TOK	blockers		blocker\N5P
+2633	TOK	are		be\V6FDR66
+2634	TOK	already		already\DGA7
+2635	TOK	in		in\P
+2636	TOK	use		use\N5S
+2637	TOK	against		against\P
+2638	TOK	breast		breast\N5S
+2639	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+2640	TOK	and		and\CC
+2641	TOK	more		more\N5S
+2642	TOK	are		be\V6FDR66
+2643	TOK	under		under\P
+2644	TOK	development		development\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2645	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2646	TOK	recent		recent\JA
+2647	TOK	clinical		clinical\JA
+2648	TOK	trials		trial\N5P
+2649	TOK	suggest		suggest\VMF6R66
+2650	TOK	that		that\CS
+2651	TOK	a		a\AI---S
+2652	TOK	drug		drug\N5S
+2653	TOK	able		able\JA
+2654	TOK	to		to\P
+2655	TOK	halt		halt\VMI----
+2656	TOK	excessive		excessive\JA
+---	DLE	«		=\DELIM
+2657	TOK	talk		talk\VMI----
+---	DLD	»		=\DELIM
+2658	TOK	by		by\P
+2659	TOK	an		an\AI---S
+2660	TOK	enzyme		enzyme\N5S
+2661	TOK	called		call\VMF6A66
+##	TAG	<name>
+2662	TOK	Abelson		Abelson\N46
+##	TAG	</name>
+2663	TOK	tyrosine		tyrosine\N5S
+2664	TOK	kinase		kinase\N5S
+2665	TOK	might		may\VOFDR66
+2666	TOK	help		help\VMI----
+2667	TOK	treat		treat\VMI----
+2668	TOK	particular		particular\JA
+2669	TOK	forms		form\N5P
+2670	TOK	of		of\P
+2671	TOK	leukemia		leukemia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2672	TOK	Overzealous	BOS	overzealous\JA
+2673	TOK	signaling		signal\VMG----
+2674	TOK	is		be\V6FDRS3
+2675	TOK	similarly		similarly\DGA7
+2676	TOK	destructive		destructive\JA
+2677	TOK	in		in\P
+2678	TOK	an		an\AI---S
+2679	TOK	inherited		inherit\VMC----
+2680	TOK	syndrome		syndrome\N5S
+2681	TOK	known		know\VMC----
+2682	TOK	as		as\P
+##	TAG	<name>
+2683	TOK	X-linked		X-linked\N46
+##	TAG	</name>
+2684	TOK	lymphoproliferative		lymphoproliferative\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2685	TOK	XLP		XLP\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2686	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2687	TOK	In	BOS	in\P
+##	TAG	<name>
+2688	TOK	XLP		XLP\N46
+##	TAG	</name>
+2689	TOK	patients		patient\N5P
+---	DLD	,		=\DELIM
+2690	TOK	the		the\AT---6
+2691	TOK	normally		normally\DGA7
+2692	TOK	benign		benign\JA
+##	TAG	<name>
+2693	TOK	Epstein-Barr		Epstein-Barr\N46
+##	TAG	</name>
+2694	TOK	virus		virus\N5S
+2695	TOK	sparks		spark\VMFDRS3
+2696	TOK	a		a\AI---S
+2697	TOK	deadly		deadly\JA
+2698	TOK	runaway		runaway\JA
+2699	TOK	response		response\N5S
+2700	TOK	by		by\P
+---	DLE	«		=\DELIM
+2701	TOK	killer		killer\N5S
+---	DLD	»		=\DELIM
+2702	TOK	T		t\N5S
+2703	TOK	cells		cell\N5P
+2704	TOK	of		of\P
+2705	TOK	the		the\AT---6
+2706	TOK	immune		immune\JA
+2707	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+2708	TOK	Two	BOS	Two\X
+##	TAG	</num>
+2709	TOK	years		year\N5P
+2710	TOK	ago		ago\DGA7
+2711	TOK	investigators		investigator\N5P
+2712	TOK	found		find\VMF6A66
+2713	TOK	the		the\AT---6
+2714	TOK	reason		reason\N5S
+2715	TOK	for		for\P
+2716	TOK	that		that\AD---S
+2717	TOK	lethal		lethal\JA
+2718	TOK	overreaction		overreaction\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2719	TOK	People	BOS	people\N56
+2720	TOK	with		with\P
+##	TAG	<name>
+2721	TOK	XLP		XLP\N46
+##	TAG	</name>
+2722	TOK	turn		turn\N5S
+2723	TOK	out		out\DGA7
+2724	TOK	to		to\P
+2725	TOK	be		be\VMI----
+2726	TOK	missing		miss\VMG----
+2727	TOK	a		a\AI---S
+2728	TOK	small		small\JA
+2729	TOK	protein		protein\N5S
+2730	TOK	termed		term\VMF6A66
+##	TAG	<name>
+2731	TOK	SAP		SAP\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2732	TOK	which		which\RW63N-
+2733	TOK	consists		consist\VMFDRS3
+2734	TOK	of		of\P
+2735	TOK	a		a\AI---S
+2736	TOK	single		single\JA
+##	TAG	<name>
+2737	TOK	SH2		SH2\N46
+##	TAG	</name>
+2738	TOK	domain		domain\N5S
+---	DLE	(		=\DELIM
+2739	TOK	related		relate\VMC----
+2740	TOK	to		to\P
+2741	TOK	the		the\AT---6
+##	TAG	<name>
+2742	TOK	SH2		SH2\N46
+##	TAG	</name>
+2743	TOK	domains		domain\N5P
+2744	TOK	mentioned		mention\VMC----
+2745	TOK	in		in\P
+2746	TOK	the		the\AT---6
+2747	TOK	main		main\JA
+2748	TOK	article		article\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2749	TOK	When	BOS	when\CS
+2750	TOK	killer		killer\N5S
+2751	TOK	T		t\N5S
+2752	TOK	cells		cell\N5P
+2753	TOK	detect		detect\VMF6R66
+2754	TOK	that		that\CS
+2755	TOK	other		other\JA
+2756	TOK	cells		cell\N5P
+2757	TOK	have		have\V6F6R66
+2758	TOK	become		become\VMC----
+2759	TOK	infected		infect\VMC----
+2760	TOK	by		by\P
+2761	TOK	the		the\AT---6
+##	TAG	<name>
+2762	TOK	Epstein-Barr		Epstein-Barr\N46
+##	TAG	</name>
+2763	TOK	virus		virus\N5S
+---	DLD	,		=\DELIM
+2764	TOK	they		they\RPP3NN
+2765	TOK	switch		switch\VMF6R66
+2766	TOK	on		on\P
+2767	TOK	an		an\AI---S
+2768	TOK	internal		internal\JA
+2769	TOK	signaling		signal\VMG----
+2770	TOK	cascade		cascade\N5S
+2771	TOK	that		that\RW63N6
+2772	TOK	enables		enable\VMFDRS3
+2773	TOK	them		them\RPP3NA
+2774	TOK	to		to\P
+2775	TOK	attack		attack\VMI----
+2776	TOK	the		the\AT---6
+2777	TOK	infected		infect\VMC----
+2778	TOK	ones		one\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2779	TOK	Usually	BOS	usually\DGA7
+##	TAG	<name>
+2780	TOK	SAP		SAP\N46
+##	TAG	</name>
+2781	TOK	keeps		keep\VMFDRS3
+2782	TOK	the		the\AT---6
+2783	TOK	attack		attack\N5S
+2784	TOK	under		under\P
+2785	TOK	control		control\VMI----
+---	DLD	-		=\DELIM
+2786	TOK	by		by\P
+2787	TOK	sheathing		sheathe\VMG----
+2788	TOK	interactive		interactive\JA
+2789	TOK	sites		site\N5P
+2790	TOK	on		on\P
+2791	TOK	some		some\AG---6
+2792	TOK	of		of\P
+2793	TOK	the		the\AT---6
+2794	TOK	signaling		signal\VMG----
+2795	TOK	components		component\N5P
+2796	TOK	and		and\CC
+2797	TOK	thus		thus\DGA7
+2798	TOK	breaking		break\VMG----
+2799	TOK	the		the\AT---6
+2800	TOK	signaling		signal\VMG----
+2801	TOK	chain		chain\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2802	TOK	But	BOS	but\CC
+2803	TOK	without		without\P
+##	TAG	<name>
+2804	TOK	SAP		SAP\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2805	TOK	XLP		XLP\N46
+##	TAG	</name>
+2806	TOK	patients		patient\N5P
+2807	TOK	lack		lack\VMF6R66
+2808	TOK	an		an\AI---S
+2809	TOK	important		important\JA
+2810	TOK	inhibitor		inhibitor\N5S
+2811	TOK	of		of\P
+2812	TOK	T		t\N5S
+2813	TOK	cell		cell\N5S
+2814	TOK	hyperactivity		hyperactivity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2815	TOK	Disease	BOS	disease\N5S
+2816	TOK	can		can\VOFDR66
+2817	TOK	also		also\DGA7
+2818	TOK	arise		arise\VMI----
+2819	TOK	when		when\CS
+2820	TOK	intracellular		intracellular\JA
+2821	TOK	signaling		signal\VMG----
+2822	TOK	systems		system\N5P
+2823	TOK	that		that\RW63N6
+2824	TOK	should		shall\VOFDA66
+2825	TOK	be		be\VMI----
+2826	TOK	busy		busy\JA
+2827	TOK	are		be\V6FDR66
+2828	TOK	too		too\DGA7
+2829	TOK	quiet		quiet\JA
+---	DLD	,		=\DELIM
+2830	TOK	as		as\DGA7
+2831	TOK	happens		happen\VMFDRS3
+2832	TOK	in		in\P
+2833	TOK	various		various\JA
+2834	TOK	disorders		disorder\N5P
+2835	TOK	involving		involve\VMG----
+2836	TOK	inadequate		inadequate\JA
+2837	TOK	immune		immune\JA
+2838	TOK	responses		response\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2839	TOK	Insufficient	BOS	insufficient\JA
+2840	TOK	signaling		signal\VMG----
+2841	TOK	occurs		occur\VMFDRS3
+2842	TOK	as		as\CS
+2843	TOK	well		well\DGA7
+2844	TOK	in		in\P
+2845	TOK	type		type\N5S
+##	TAG	<num>
+2846	TOK	2		2\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+2847	TOK	maturity		maturity\N5S
+---	DLI	-		=\DELIM
+2848	TOK	onset		onset\N5S
+---	DLD	)		=\DELIM
+2849	TOK	diabetes		diabetes\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2850	TOK	Muscle	BOS	muscle\N5S
+2851	TOK	and		and\CC
+2852	TOK	fat		fat\N5S
+2853	TOK	cells		cell\N5P
+2854	TOK	of		of\P
+2855	TOK	the		the\AT---6
+2856	TOK	body		body\N5S
+2857	TOK	take		take\VMF6R66
+2858	TOK	up		up\P
+2859	TOK	sugar		sugar\N5S
+2860	TOK	from		from\P
+2861	TOK	the		the\AT---6
+2862	TOK	blood		blood\N5S
+2863	TOK	only		only\DGA7
+2864	TOK	after		after\P
+2865	TOK	being		be\VMG----
+2866	TOK	told		tell\VMC----
+2867	TOK	to		to\P
+2868	TOK	do		do\VMI----
+2869	TOK	so		so\DGA7
+2870	TOK	by		by\P
+2871	TOK	insulin		insulin\N5S
+2872	TOK	sent		send\VMC----
+2873	TOK	from		from\P
+2874	TOK	the		the\AT---6
+2875	TOK	pancreas		pancreas\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2876	TOK	If	BOS	if\CS
+2877	TOK	insulin		insulin\N5S
+2878	TOK	receptors		receptor\N5P
+2879	TOK	on		on\P
+2880	TOK	those		that\AD---P
+2881	TOK	cells		cell\N5P
+2882	TOK	fail		fail\VMF6R66
+2883	TOK	to		to\P
+2884	TOK	deliver		deliver\VMI----
+2885	TOK	insulin		insulin\N5S
+2886	PGR	's		genmark\GENMARK
+2887	TOK	message		message\N5S
+2888	TOK	to		to\P
+2889	TOK	relay		relay\VMI----
+2890	TOK	molecules		molecule\N5P
+2891	TOK	inside		inside\P
+---	DLD	,		=\DELIM
+2892	TOK	diabetes		diabetes\N56
+---	DLE	(		=\DELIM
+2893	TOK	abnormally		abnormally\DGA7
+2894	TOK	high		high\JA
+2895	TOK	blood		blood\N5S
+2896	TOK	sugar		sugar\N5S
+2897	TOK	levels		level\N5P
+---	DLD	)		=\DELIM
+2898	TOK	can		can\VOFDR66
+2899	TOK	result		result\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2900	TOK	Oral	BOS	oral\JA
+2901	TOK	medications		medication\N5P
+2902	TOK	designed		design\VMC----
+2903	TOK	to		to\P
+2904	TOK	increase		increase\VMI----
+2905	TOK	the		the\AT---6
+2906	TOK	activity		activity\N5S
+2907	TOK	either		either\CC
+2908	TOK	of		of\P
+2909	TOK	the		the\AT---6
+2910	TOK	insulin		insulin\N5S
+2911	TOK	receptor		receptor\N5S
+2912	TOK	or		or\CC
+2913	TOK	of		of\P
+2914	TOK	later		late\JC
+2915	TOK	players		player\N5P
+2916	TOK	in		in\P
+2917	TOK	the		the\AT---6
+2918	TOK	signaling		signal\VMG----
+2919	TOK	cascade		cascade\N5S
+2920	TOK	could		can\VOFDA66
+2921	TOK	potentially		potentially\DGA7
+2922	TOK	replace		replace\VMI----
+2923	TOK	therapeutic		therapeutic\JA
+2924	TOK	insulin		insulin\N5S
+2925	TOK	injections		injection\N5P
+2926	TOK	for		for\P
+2927	TOK	some		some\AG---6
+2928	TOK	diabetics		diabetic\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2929	TOK	One	BOS	one\RIS3N-
+2930	TOK	such		such\JA
+2931	TOK	compound		compound\N5S
+---	DLD	,		=\DELIM
+2932	TOK	which		which\RW63N-
+2933	TOK	stimulates		stimulate\VMFDRS3
+2934	TOK	the		the\AT---6
+2935	TOK	insulin		insulin\N5S
+2936	TOK	receptor		receptor\N5S
+---	DLD	,		=\DELIM
+2937	TOK	has		have\V6FDRS3
+2938	TOK	been		be\VMC----
+2939	TOK	tested		test\VMC----
+2940	TOK	successfully		successfully\DGA7
+2941	TOK	in		in\P
+2942	TOK	mice		mouse\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2943	TOK	Bacteria	BOS	bacteria\N5P
+2944	TOK	and		and\CC
+2945	TOK	viruses		virus\N5P
+2946	TOK	are		be\V6FDR66
+2947	TOK	experts		expert\N5P
+2948	TOK	at		at\P
+2949	TOK	exploiting		exploit\VMG----
+2950	TOK	the		the\AT---6
+2951	TOK	signaling		signal\VMG----
+2952	TOK	systems		system\N5P
+2953	TOK	of		of\P
+2954	TOK	human		human\JA
+2955	TOK	cells		cell\N5P
+2956	TOK	to		to\P
+2957	TOK	spread		spread\VMI----
+2958	TOK	and		and\CC
+2959	TOK	reproduce		reproduce\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2960	TOK	This	BOS	this\AD---S
+2961	TOK	capacity		capacity\N5S
+2962	TOK	is		be\V6FDRS3
+2963	TOK	especially		especially\DGA7
+2964	TOK	evident		evident\JA
+2965	TOK	in		in\P
+2966	TOK	such		such\JA
+2967	TOK	bacteria		bacteria\N5P
+2968	TOK	as		as\P
+##	TAG	<name>
+2969	TOK	Yersinia		Yersinia\N46
+##	TAG	</name>
+2970	TOK	pestis		pestis\N5P
+---	DLE	,		=\DELIM
+2971	TOK	which		which\RW63N-
+2972	TOK	caused		cause\VMF6A66
+2973	TOK	the		the\AT---6
+---	DLE	«		=\DELIM
+2974	TOK	black		black\JA
+2975	TOK	death		death\N5S
+---	DLD	»		=\DELIM
+2976	TOK	plague		plague\N5S
+2977	TOK	of		of\P
+2978	TOK	the		the\AT---6
+##	TAG	<num>
+2979	TOK	14th		14th\X
+##	TAG	</num>
+2980	TOK	century		century\N5S
+---	DLD	,		=\DELIM
+2981	TOK	and		and\CC
+2982	TOK	in		in\P
+2983	TOK	disease		disease\N5S
+2984	TOK	causing		cause\VMG----
+2985	TOK	strains		strain\N5P
+2986	TOK	of		of\P
+##	TAG	<name>
+2987	TOK	Escherichia		Escherichia\N46
+##	TAG	</name>
+2988	TOK	coli		coli\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2989	TOK	The	BOS	the\AT---6
+2990	TOK	microbes		microbe\N5P
+2991	TOK	inject		inject\VMF6R66
+2992	TOK	their		their\APP3N6
+2993	TOK	own		own\JA
+2994	TOK	proteins		protein\N5P
+2995	TOK	into		into\P
+2996	TOK	human		human\JA
+2997	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2998	TOK	Some	BOS	some\AG---6
+2999	TOK	of		of\P
+3000	TOK	these		this\AD---P
+3001	TOK	proteins		protein\N5P
+3002	TOK	alter		alter\VMF6R66
+3003	TOK	signaling		signal\VMG----
+3004	TOK	pathways		pathway\N5P
+3005	TOK	in		in\P
+3006	TOK	ways		way\N5P
+3007	TOK	that		that\RW63N6
+3008	TOK	can		can\VOFDR66
+3009	TOK	both		both\RIP3N-
+3010	TOK	promote		promote\VMF6R66
+3011	TOK	the		the\AT---6
+3012	TOK	association		association\N5S
+3013	TOK	of		of\P
+3014	TOK	the		the\AT---6
+3015	TOK	bacteria		bacteria\N5P
+3016	TOK	with		with\P
+3017	TOK	a		a\AI---S
+3018	TOK	host		host\N5S
+3019	PGR	's		genmark\GENMARK
+3020	TOK	cells		cell\N5P
+3021	TOK	and		and\CC
+3022	TOK	disarm		disarm\VMI----
+3023	TOK	the		the\AT---6
+3024	TOK	cells		cell\N5P
+---	DLD	'		=\DELIM
+3025	TOK	anti		anti\JA
+---	DLI	-		=\DELIM
+3026	TOK	bacterial		bacterial\JA
+3027	TOK	defenses		defense\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3028	TOK	Viruses	BOS	virus\N5P
+---	DLD	,		=\DELIM
+3029	TOK	for		for\P
+3030	TOK	their		their\APP3N6
+3031	TOK	part		part\N5S
+---	DLD	,		=\DELIM
+3032	TOK	often		often\DGA7
+3033	TOK	gain		gain\VMF6R66
+3034	TOK	entry		entry\N5S
+3035	TOK	into		into\P
+3036	TOK	human		human\JA
+3037	TOK	cells		cell\N5P
+3038	TOK	by		by\P
+3039	TOK	attaching		attach\VMG----
+3040	TOK	to		to\P
+3041	TOK	receptors		receptor\N5P
+3042	TOK	that		that\CS
+3043	TOK	head		head\N5S
+3044	TOK	signaling		signal\VMG----
+3045	TOK	circuits		circuit\N5P
+---	DLD	;		=\DELIM
+3046	TOK	then		then\DGA7
+3047	TOK	they		they\RPP3NN
+3048	TOK	may		may\VOFDR66
+3049	TOK	modify		modify\VMI----
+3050	TOK	a		a\AI---S
+3051	TOK	cell		cell\N5S
+3052	PGR	's		genmark\GENMARK
+3053	TOK	internal		internal\JA
+3054	TOK	communication		communication\N5S
+3055	TOK	networks		network\N5P
+3056	TOK	to		to\P
+3057	TOK	enhance		enhance\VMI----
+3058	TOK	their		their\APP3N6
+3059	TOK	own		own\JA
+3060	TOK	replication		replication\N5S
+3061	TOK	and		and\CC
+3062	TOK	release		release\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3063	TOK	The	BOS	the\AT---6
+3064	TOK	human		human\JA
+3065	TOK	immunodeficiency		immunodeficiency\N5S
+3066	TOK	virus		virus\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3067	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+3068	TOK	the		the\AT---6
+3069	TOK	cause		cause\N5S
+3070	TOK	of		of\P
+##	TAG	<name>
+3071	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3072	TOK	is		be\V6FDRS3
+3073	TOK	one		one\MCS
+3074	TOK	of		of\P
+3075	TOK	many		many\AI---P
+3076	TOK	viruses		virus\N5P
+3077	TOK	that		that\RW63N6
+3078	TOK	act		act\VMF6R66
+3079	TOK	in		in\P
+3080	TOK	these		this\AD---P
+3081	TOK	nefarious		nefarious\JA
+3082	TOK	ways		way\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3083	TOK	As	BOS	as\P
+3084	TOK	the		the\AT---6
+3085	TOK	links		link\N5P
+3086	TOK	between		between\P
+3087	TOK	signaling		signal\VMG----
+3088	TOK	abnormalities		abnormality\N5P
+3089	TOK	and		and\CC
+3090	TOK	disease		disease\N5S
+3091	TOK	become		become\VMF6R66
+3092	TOK	clearer		clear\JC
+---	DLD	,		=\DELIM
+3093	TOK	therapies		therapy\N5P
+3094	TOK	that		that\RW63N6
+3095	TOK	repair		repair\VMF6R66
+3096	TOK	or		or\CC
+3097	TOK	compensate		compensate\VMF6R66
+3098	TOK	for		for\P
+3099	TOK	those		that\AD---P
+3100	TOK	disruptions		disruption\N5P
+3101	TOK	should		shall\VOFDA66
+3102	TOK	become		become\VMI----
+3103	TOK	increasingly		increasingly\DGA7
+3104	TOK	commonplace		commonplace\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLE	«	BOS	=\DELIM
+3105	TOK	BLACK		black\N5S
+##	TAG	<name>
+3106	TOK	DEATH		DEATH\N46
+##	TAG	</name>
+---	DLE	»		=\DELIM
+3107	TOK	epidemic		epidemic\N5S
+3108	TOK	of		of\P
+3109	TOK	the		the\AT---6
+##	TAG	<num>
+3110	TOK	14th		14th\X
+##	TAG	</num>
+3111	TOK	century		century\N5S
+3112	TOK	was		be\V6F-A66
+3113	TOK	caused		cause\VMC----
+3114	TOK	by		by\P
+##	TAG	<name>
+3115	TOK	Yersinia		Yersinia\N46
+##	TAG	</name>
+3116	TOK	pestis		pestis\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3117	TOK	That	BOS	that\CS
+3118	TOK	bacterium		bacterium\N5S
+3119	TOK	makes		make\VMFDRS3
+3120	TOK	use		use\N5S
+3121	TOK	of		of\P
+3122	TOK	signaling		signal\VMG----
+3123	TOK	pathways		pathway\N5P
+3124	TOK	in		in\P
+3125	TOK	host		host\N5S
+3126	TOK	cells		cell\N5P
+3127	TOK	to		to\P
+3128	TOK	promote		promote\VMI----
+3129	TOK	its		its\APS3N6
+3130	TOK	own		own\JA
+3131	TOK	spread		spread\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3132	TOK	Scaffolds	BOS	scaffold\N5P
+##	TAG	<name>
+3133	TOK	Speed Signal Transmission	EOS	Speed_Signal_Transmission\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3135	TOK	Scaffolding	BOS	scaffolding\N5S
+3136	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+3137	TOK	which		which\RW63N-
+3138	TOK	hold		hold\VMF6R66
+3139	TOK	onto		onto\P
+3140	TOK	several		several\JA
+3141	TOK	other		other\JA
+3142	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+3143	TOK	can		can\VOFDR66
+3144	TOK	ensure		ensure\VMI----
+3145	TOK	that		that\CS
+3146	TOK	multiple		multiple\JA
+3147	TOK	signaling		signal\VMG----
+3148	TOK	molecules		molecule\N5P
+3149	TOK	act		act\VMF6R66
+3150	TOK	almost		almost\DGA7
+3151	TOK	simultaneously		simultaneously\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3152	TOK	One	BOS	one\MCS
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3153	TOK	InaD		InaD\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+3154	TOK	diagram		diagram\N5S
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+3155	TOK	operates		operate\VMFDRS3
+3156	TOK	in		in\P
+3157	TOK	cells		cell\N5P
+3158	TOK	of		of\P
+3159	TOK	the		the\AT---6
+3160	TOK	fruit		fruit\N5S
+---	DLE	-		=\DELIM
+3161	TOK	fly		fly\N5S
+3162	TOK	eye		eye\VMF6R66
+---	DLE	-		=\DELIM
+3163	TOK	a		a\AI---S
+3164	TOK	compound		compound\N5S
+3165	TOK	structure		structure\N5S
+3166	TOK	containing		contain\VMG----
+3167	TOK	many		many\AI---P
+3168	TOK	smaller		small\JC
+3169	TOK	eyes		eye\N5P
+---	DLE	(		=\DELIM
+3170	TOK	photograph		photograph\VMF6R66
+---	DLE	)		=\DELIM
+---	DLD	-		=\DELIM
+3171	TOK	and		and\CC
+3172	TOK	participates		participate\VMFDRS3
+3173	TOK	in		in\P
+3174	TOK	sending		send\VMG----
+3175	TOK	visual		visual\JA
+3176	TOK	messages		message\N5P
+3177	TOK	to		to\P
+3178	TOK	the		the\AT---6
+3179	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+3180	TOK	Three	BOS	Three\X
+##	TAG	</num>
+3181	TOK	of		of\P
+3182	TOK	the		the\AT---6
+3183	TOK	scaffold		scaffold\N5S
+3184	PGR	's		genmark\GENMARK
+##	TAG	<num>
+3185	TOK	five		five\X
+##	TAG	</num>
+---	DLE	«		=\DELIM
+##	TAG	<name>
+3186	TOK	PDZ		PDZ\N46
+##	TAG	</name>
+---	DLE	»		=\DELIM
+3187	TOK	linker		linker\N5S
+3188	TOK	domains		domain\N5P
+3189	TOK	separately		separately\DGA7
+3190	TOK	grasp		grasp\VMF6R66
+3191	TOK	an		an\AI---S
+3192	TOK	ion		ion\N5S
+3193	TOK	channel		channel\N5S
+---	DLD	,		=\DELIM
+3194	TOK	an		an\AI---S
+3195	TOK	enzyme		enzyme\N5S
+3196	TOK	that		that\RW63N6
+3197	TOK	opens		open\VMFDRS3
+3198	TOK	the		the\AT---6
+3199	TOK	channel		channel\N5S
+3200	TOK	when		when\CS
+3201	TOK	light		light\N5S
+3202	TOK	hits		hit\VMFDRS3
+3203	TOK	a		a\AI---S
+3204	TOK	nearby		nearby\JA
+3205	TOK	light		light\N5S
+3206	TOK	receptor		receptor\N5S
+---	DLE	(		=\DELIM
+3207	TOK	rhodopsin		rhodopsin\N5S
+---	DLD	)		=\DELIM
+3208	TOK	and		and\CC
+3209	TOK	an		an\AI---S
+3210	TOK	enzyme		enzyme\N5S
+3211	TOK	that		that\RW63N6
+3212	TOK	closes		close\VMFDRS3
+3213	TOK	the		the\AT---6
+3214	TOK	channel		channel\N5S
+3215	TOK	promptly		promptly\DGA7
+3216	TOK	thereafter		thereafter\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+3217	TOK	Two	BOS	Two\X
+##	TAG	</num>
+3218	TOK	more		many\JC
+##	TAG	<name>
+3219	TOK	PDZ		PDZ\N46
+##	TAG	</name>
+3220	TOK	domains		domain\N5P
+3221	TOK	help		help\VMF6R66
+3222	TOK	to		to\P
+3223	TOK	relay		relay\VMI----
+3224	TOK	information		information\N5S
+3225	TOK	by		by\P
+3226	TOK	holding		hold\VMG----
+3227	TOK	other		other\JA
+3228	TOK	signaling		signal\VMG----
+3229	TOK	molecules		molecule\N5P
+3230	TOK	in		in\P
+3231	TOK	place		place\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3232	TOK	Many	BOS	many\AI---P
+##	TAG	<name>
+3233	TOK	Payoffs	EOS	Payoffs\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3235	TOK	From	BOS	from\P
+3236	TOK	an		an\AI---S
+3237	TOK	evolutionary		evolutionary\JA
+3238	TOK	perspective		perspective\N5S
+---	DLD	,		=\DELIM
+3239	TOK	the		the\AT---6
+3240	TOK	advent		advent\N5S
+3241	TOK	of		of\P
+3242	TOK	a		a\AI---S
+3243	TOK	modular		modular\JA
+3244	TOK	signaling		signal\VMG----
+3245	TOK	system		system\N5S
+3246	TOK	would		will\VOFDA66
+3247	TOK	be		be\VMI----
+3248	TOK	very		very\JA
+3249	TOK	useful		useful\JA
+3250	TOK	to		to\P
+3251	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3252	TOK	By	BOS	by\P
+3253	TOK	mixing		mix\VMG----
+3254	TOK	and		and\CC
+3255	TOK	matching		match\VMG----
+3256	TOK	existing		existing\JA
+3257	TOK	modules		module\N5P
+---	DLD	,		=\DELIM
+3258	TOK	a		a\AI---S
+3259	TOK	cell		cell\N5S
+3260	TOK	can		can\VOFDR66
+3261	TOK	generate		generate\VMI----
+3262	TOK	many		many\AI---P
+3263	TOK	molecules		molecule\N5P
+3264	TOK	and		and\CC
+3265	TOK	combinations		combination\N5P
+3266	TOK	of		of\P
+3267	TOK	molecules		molecule\N5P
+3268	TOK	and		and\CC
+3269	TOK	can		can\VOFDR66
+3270	TOK	build		build\VMI----
+3271	TOK	an		an\AI---S
+3272	TOK	array		array\N5S
+3273	TOK	of		of\P
+3274	TOK	interconnected		interconnect\VMC----
+3275	TOK	pathways		pathway\N5P
+3276	TOK	without		without\P
+3277	TOK	having		have\VMG----
+3278	TOK	to		to\P
+3279	TOK	invent		invent\VMI----
+3280	TOK	a		a\AI---S
+3281	TOK	huge		huge\JA
+3282	TOK	repertoire		repertoire\N5S
+3283	TOK	of		of\P
+3284	TOK	building		building\N5S
+3285	TOK	blocks		block\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3286	TOK	What	BOS	what\RW63N-
+3287	TOK	is		be\V6FDRS3
+3288	TOK	more		more\DDC7
+---	DLD	,		=\DELIM
+3289	TOK	when		when\CS
+3290	TOK	a		a\AI---S
+3291	TOK	new		new\JA
+3292	TOK	module		module\N5S
+3293	TOK	does		do\V6FDRS3
+3294	TOK	arise		arise\VMI----
+---	DLD	,		=\DELIM
+3295	TOK	its		its\APS3N6
+3296	TOK	combination		combination\N5S
+3297	TOK	with		with\P
+3298	TOK	existing		existing\JA
+3299	TOK	modules		module\N5P
+3300	TOK	can		can\VOFDR66
+3301	TOK	increase		increase\VMI----
+3302	TOK	versatility		versatility\N5S
+3303	TOK	tremendously		tremendously\DGA7
+---	DLE	-		=\DELIM
+3304	TOK	just		just\DGA7
+3305	TOK	as		as\P
+3306	TOK	adding		add\VMG----
+3307	TOK	a		a\AI---S
+3308	TOK	new		new\JA
+3309	TOK	area		area\N5S
+3310	TOK	code		code\N5S
+3311	TOK	to		to\P
+3312	TOK	a		a\AI---S
+3313	TOK	city		city\N5S
+3314	TOK	turns		turn\VMFDRS3
+3315	TOK	already		already\DGA7
+3316	TOK	assigned		assign\VMC----
+3317	TOK	phone		phone\N5S
+3318	TOK	numbers		number\N5P
+3319	TOK	into		into\P
+3320	TOK	entirely		entirely\DGA7
+3321	TOK	new		new\JA
+3322	TOK	ones		one\N5P
+3323	TOK	for		for\P
+3324	TOK	added		add\VMC----
+3325	TOK	customers		customer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3326	TOK	For	BOS	for\P
+3327	TOK	cell		cell\N5S
+3328	TOK	biologists		biologist\N5P
+---	DLD	,		=\DELIM
+3329	TOK	merely		merely\DGA7
+3330	TOK	chipping		chip\VMG----
+3331	TOK	away		away\DGA7
+3332	TOK	at		at\P
+3333	TOK	the		the\AT---6
+3334	TOK	mystery		mystery\N5S
+3335	TOK	of		of\P
+3336	TOK	how		how\DGAW
+3337	TOK	cells		cell\N5P
+3338	TOK	carry		carry\VMF6R66
+3339	TOK	out		out\DGA7
+3340	TOK	their		their\APP3N6
+3341	TOK	myriad		myriad\N5S
+3342	TOK	tasks		task\N5P
+3343	TOK	is		be\V6FDRS3
+3344	TOK	often		often\DGA7
+3345	TOK	reward		reward\VMI----
+3346	TOK	enough		enough\DGA7
+3347	TOK	for		for\P
+3348	TOK	their		their\APP3N6
+3349	TOK	efforts		effort\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3350	TOK	But	BOS	but\CC
+3351	TOK	the		the\AT---6
+3352	TOK	new		new\JA
+3353	TOK	findings		finding\N5P
+3354	TOK	have		have\V6F6R66
+3355	TOK	a		a\AI---S
+3356	TOK	significance		significance\N5S
+3357	TOK	far		far\DGA7
+3358	TOK	beyond		beyond\P
+3359	TOK	intellectual		intellectual\JA
+3360	TOK	satisfaction		satisfaction\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3361	TOK	The	BOS	the\AT---6
+3362	TOK	much		much\DGA7
+3363	TOK	publicized		publicize\VMC----
+##	TAG	<name pos="N46" type="other">
+3364	TOK	Human Genome Project		Human_Genome_Project\N46
+##	TAG	</name>
+3365	TOK	will		will\VOFDR66
+3366	TOK	soon		soon\DGA7
+3367	TOK	reveal		reveal\VMI----
+3368	TOK	the		the\AT---6
+3369	TOK	nucleotide		nucleotide\N5S
+3370	TOK	sequence		sequence\N5S
+3371	TOK	of		of\P
+3372	TOK	every		every\AG---S
+3373	TOK	gene		gene\N5S
+3374	TOK	in		in\P
+3375	TOK	the		the\AT---6
+3376	TOK	human		human\JA
+3377	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3378	TOK	To	BOS	to\P
+3379	TOK	translate		translate\VMI----
+3380	TOK	that		that\AD---S
+3381	TOK	information		information\N5S
+3382	TOK	into		into\P
+3383	TOK	improved		improve\VMC----
+3384	TOK	understanding		understanding\N5S
+3385	TOK	of		of\P
+3386	TOK	human		human\JA
+3387	TOK	diseases		disease\N5P
+---	DLD	,		=\DELIM
+3388	TOK	those		that\RDP3N-
+3389	TOK	of		of\P
+3390	TOK	us		us\RPP1NA
+3391	TOK	who		who\RW63N-
+3392	TOK	study		study\VMF6R66
+3393	TOK	the		the\AT---6
+3394	TOK	functioning		function\VMG----
+3395	TOK	of		of\P
+3396	TOK	cells		cell\N5P
+3397	TOK	will		will\VOFDR66
+3398	TOK	have		have\VMI----
+3399	TOK	to		to\P
+3400	TOK	discern		discern\VMI----
+3401	TOK	the		the\AT---6
+3402	TOK	biological		biological\JA
+3403	TOK	roles		role\N5P
+3404	TOK	of		of\P
+3405	TOK	any		any\AG---6
+3406	TOK	newly		newly\DGA7
+3407	TOK	discovered		discover\VMF6A66
+3408	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3409	TOK	That	BOS	that\CS
+3410	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+3411	TOK	we		we\RPP1NN
+3412	TOK	will		will\VOFDR66
+3413	TOK	need		need\VMI----
+3414	TOK	to		to\P
+3415	TOK	find		find\VMI----
+3416	TOK	out		out\DGA7
+3417	TOK	what		what\RW63N-
+3418	TOK	the		the\AT---6
+3419	TOK	corresponding		corresponding\JA
+3420	TOK	proteins		protein\N5P
+3421	TOK	do		do\V6FDR66
+3422	TOK	and		and\CC
+3423	TOK	what		what\RW63N-
+3424	TOK	happens		happen\VMFDRS3
+3425	TOK	when		when\CS
+3426	TOK	they		they\RPP3NN
+3427	TOK	are		be\V6FDR66
+3428	TOK	overproduced		overproduce\VMC----
+---	DLD	,		=\DELIM
+3429	TOK	underproduced		underproduce\VMC----
+3430	TOK	or		or\CC
+3431	TOK	made		make\VMC----
+3432	TOK	incorrectly		incorrectly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3433	TOK	We	BOS	we\RPP1NN
+3434	TOK	already		already\DGA7
+3435	TOK	know		know\VMF6R66
+3436	TOK	the		the\AT---6
+3437	TOK	amino		amino\N5S
+3438	TOK	acid		acid\N5S
+3439	TOK	sequences		sequence\N5P
+3440	TOK	and		and\CC
+3441	TOK	the		the\AT---6
+3442	TOK	functions		function\N5P
+3443	TOK	of		of\P
+3444	TOK	many		many\AI---P
+3445	TOK	modules		module\N5P
+3446	TOK	in		in\P
+3447	TOK	signaling		signal\VMG----
+3448	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3449	TOK	Hence	BOS	hence\DGA7
+---	DLD	,		=\DELIM
+3450	TOK	we		we\RPP1NN
+3451	TOK	have		have\V6F6R66
+3452	TOK	something		something\RIS3N-
+3453	TOK	of		of\P
+3454	TOK	a		a\AI---S
+3455	TOK	key		key\N5S
+3456	TOK	for		for\P
+3457	TOK	determining		determine\VMG----
+3458	TOK	whether		whether\CS
+3459	TOK	the		the\AT---6
+3460	TOK	nucleotide		nucleotide\N5S
+3461	TOK	sequence		sequence\N5S
+3462	TOK	of		of\P
+3463	TOK	a		a\AI---S
+3464	TOK	previously		previously\DGA7
+3465	TOK	unknown		unknown\JA
+3466	TOK	gene		gene\N5S
+3467	TOK	codes		code\N5P
+3468	TOK	for		for\P
+3469	TOK	a		a\AI---S
+3470	TOK	signaling		signal\VMG----
+3471	TOK	protein		protein\N5S
+3472	TOK	and		and\CC
+---	DLD	,		=\DELIM
+3473	TOK	if		if\CS
+3474	TOK	it		it\RPS3N6
+3475	TOK	does		do\V6FDRS3
+---	DLD	,		=\DELIM
+3476	TOK	which		which\RW63N-
+3477	TOK	molecules		molecule\N5P
+3478	TOK	the		the\AT---6
+3479	TOK	protein		protein\N5S
+3480	TOK	interacts		interact\VMFDRS3
+3481	TOK	with		with\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3482	TOK	When	BOS	when\CS
+3483	TOK	we		we\RPP1NN
+3484	TOK	have		have\V6F6R66
+3485	TOK	enough		enough\DGA7
+3486	TOK	of		of\P
+3487	TOK	those		that\AD---P
+3488	TOK	interactions		interaction\N5P
+3489	TOK	plotted		plot\VMF6A66
+---	DLD	,		=\DELIM
+3490	TOK	we		we\RPP1NN
+3491	TOK	may		may\VOFDR66
+3492	TOK	be		be\VMI----
+3493	TOK	able		able\JA
+3494	TOK	to		to\P
+3495	TOK	draw		draw\VMI----
+3496	TOK	a		a\AI---S
+3497	TOK	wiring		wiring\N5S
+3498	TOK	diagram		diagram\N5S
+3499	TOK	of		of\P
+3500	TOK	every		every\AG---S
+3501	TOK	cell		cell\N5S
+3502	TOK	type		type\N5S
+3503	TOK	in		in\P
+3504	TOK	the		the\AT---6
+3505	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3506	TOK	Even	BOS	even\DGA7
+3507	TOK	with		with\P
+3508	TOK	only		only\DGA7
+3509	TOK	a		a\AI---S
+3510	TOK	partial		partial\JA
+3511	TOK	diagram		diagram\N5S
+---	DLD	,		=\DELIM
+3512	TOK	we		we\RPP1NN
+3513	TOK	may		may\VOFDR66
+3514	TOK	uncover		uncover\VMI----
+3515	TOK	ways		way\N5P
+3516	TOK	to		to\P
+---	DLE	«		=\DELIM
+3517	TOK	rewire		rewire\N5P
+---	DLD	»		=\DELIM
+3518	TOK	cells		cell\N5P
+3519	TOK	when		when\CS
+3520	TOK	something		something\RIS3N-
+3521	TOK	goes		go\VMFDRS3
+3522	TOK	wrong		wrong\JA
+---	DLI	-		=\DELIM
+3523	TOK	halting		halt\VMG----
+3524	TOK	aberrant		aberrant\JA
+3525	TOK	signals		signal\N5P
+3526	TOK	or		or\CC
+3527	TOK	rerouting		reroute\VMG----
+3528	TOK	them		them\RPP3NA
+3529	TOK	to		to\P
+3530	TOK	targets		target\N5P
+3531	TOK	of		of\P
+3532	TOK	our		our\APP1N6
+3533	TOK	own		own\JA
+3534	TOK	choosing		choose\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3535	TOK	We	BOS	we\RPP1NN
+3536	TOK	might		may\VOFDR66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+3537	TOK	for instance		for_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+3538	TOK	funnel		funnel\N5S
+3539	TOK	proliferative		proliferative\JA
+3540	TOK	commands		command\N5P
+3541	TOK	in		in\P
+3542	TOK	cancer		cancer\N5S
+3543	TOK	cells		cell\N5P
+3544	TOK	into		into\P
+3545	TOK	pathways		pathway\N5P
+3546	TOK	that		that\RW63N6
+3547	TOK	instruct		instruct\VMF6R66
+3548	TOK	the		the\AT---6
+3549	TOK	cells		cell\N5P
+3550	TOK	to		to\P
+3551	TOK	kill		kill\VMI----
+3552	TOK	themselves		themselves\RXP3N-
+##	TAG	<loc pos="CS">
+3553	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+3554	TOK	dividing		divide\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3555	TOK	By	BOS	by\P
+3556	TOK	learning		learn\VMG----
+3557	TOK	the		the\AT---6
+3558	TOK	language		language\N5S
+3559	TOK	that		that\CS
+3560	TOK	cells		cell\N5P
+3561	TOK	use		use\VMF6R66
+3562	TOK	to		to\P
+3563	TOK	speak		speak\VMI----
+3564	TOK	to		to\P
+##	TAG	<loc pos="DGA7">
+3565	TOK	one another		one_another\DGA7
+##	TAG	</loc>
+3566	TOK	and		and\CC
+3567	TOK	to		to\P
+3568	TOK	their		their\APP3N6
+3569	TOK	internal		internal\JA
+---	DLE	«		=\DELIM
+3570	TOK	workers		worker\N5P
+---	DLD	»		=\DELIM
+---	DLD	,		=\DELIM
+3571	TOK	we		we\RPP1NN
+3572	TOK	will		will\VOFDR66
+3573	TOK	be		be\VMI----
+3574	TOK	able		able\JA
+3575	TOK	to		to\P
+3576	TOK	listen		listen\VMI----
+3577	TOK	in		in\P
+3578	TOK	on		on\P
+3579	TOK	their		their\APP3N6
+3580	TOK	conversations		conversation\N5P
+3581	TOK	and		and\CC
+---	DLD	,		=\DELIM
+3582	TOK	ideally		ideally\DGA7
+---	DLD	,		=\DELIM
+3583	TOK	find		find\VMF6R66
+3584	TOK	ways		way\N5P
+3585	TOK	to		to\P
+3586	TOK	intervene		intervene\VMI----
+3587	TOK	when		when\CS
+3588	TOK	the		the\AT---6
+3589	TOK	communications		communication\N5P
+3590	TOK	go		go\VMF6R66
+3591	TOK	awry		awry\DGA7
+3592	TOK	and		and\CC
+3593	TOK	cause		cause\VMI----
+3594	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3595	TOK	We	BOS	we\RPP1NN
+3596	TOK	may		may\VOFDR66
+3597	TOK	yet		yet\DGA7
+3598	TOK	reduce		reduce\VMI----
+---	DLE	«		=\DELIM
+3599	TOK	body		body\N5S
+3600	TOK	language		language\N5S
+---	DLD	»		=\DELIM
+3601	TOK	to		to\P
+3602	TOK	a		a\AI---S
+3603	TOK	precise		precise\JA
+3604	TOK	science		science\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3605	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3606	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<num>
+3608	TOK	TWO	BOS	TWO\X
+##	TAG	</num>
+3609	TOK	SCAFFOLDING		scaffolding\N5S
+##	TAG	<name>
+3610	TOK	PROTEINS		PROTEINS\N46
+##	TAG	</name>
+3611	TOK	are		be\V6FDR66
+3612	TOK	highlighted		highlight\VMC----
+3613	TOK	in		in\P
+3614	TOK	the		the\AT---6
+3615	TOK	larger		large\JC
+3616	TOK	nerve		nerve\N5S
+3617	TOK	cell		cell\N5S
+---	DLE	(		=\DELIM
+3618	TOK	neuron		neuron\N5S
+---	DLD	)		=\DELIM
+3619	TOK	in		in\P
+3620	TOK	this		this\AD---S
+3621	TOK	micrograph	EOS	micrograph\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3622	TOK	One	BOS	one\MCS
+---	DLD	,		=\DELIM
+3623	TOK	yotiao		yotiao\N5P
+---	DLD	,		=\DELIM
+3624	TOK	tethers		tether\N5P
+3625	TOK	signal		signal\VMF6R66
+---	DLI	-		=\DELIM
+3626	TOK	relaying		relay\VMG----
+3627	TOK	enzymes		enzyme\N5P
+##	TAG	<loc pos="DGA7">
+3628	TOK	next to		next_to\DGA7
+##	TAG	</loc>
+3629	TOK	an		an\AI---S
+3630	TOK	ion		ion\N5S
+3631	TOK	channel		channel\N5S
+3632	TOK	involved		involve\VMC----
+3633	TOK	in		in\P
+3634	TOK	signal		signal\N5S
+3635	TOK	transmission		transmission\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3636	TOK	The	BOS	the\AT---6
+3637	TOK	other		other\RIS3N-
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3638	TOK	PSD		PSD\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+3639	TOK	95		95\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+3640	TOK	clusters		cluster\VMFDRS3
+3641	TOK	a		a\AI---S
+3642	TOK	receptor		receptor\N5S
+3643	TOK	and		and\CC
+3644	TOK	a		a\AI---S
+3645	TOK	different		different\JA
+3646	TOK	ion		ion\N5S
+3647	TOK	channel		channel\N5S
+3648	TOK	at		at\P
+3649	TOK	selected		select\VMC----
+3650	TOK	synapses		synapse\N5P
+---	DLD	,		=\DELIM
+3651	TOK	the		the\AT---6
+3652	TOK	contact		contact\N5S
+3653	TOK	points		point\VMFDRS3
+3654	TOK	between		between\P
+3655	TOK	neurons		neuron\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3656	TOK	The	BOS	the\AT---6
+3657	TOK	blue		blue\JA
+3658	TOK	in		in\P
+3659	TOK	both		both\RIP3N-
+3660	TOK	neurons		neuron\N5P
+3661	TOK	marks		mark\N5P
+3662	TOK	the		the\AT---6
+3663	TOK	location		location\N5S
+3664	TOK	of		of\P
+3665	TOK	a		a\AI---S
+3666	TOK	specific		specific\JA
+3667	TOK	signaling		signal\VMG----
+3668	TOK	enzyme		enzyme\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3669	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3670	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3672	TOK	FLOW	BOS	flow\N5S
+##	TAG	<name>
+3673	TOK	OF MESSAGE		OF_MESSAGE\N46
+##	TAG	</name>
+3674	TOK	in		in\P
+3675	TOK	a		a\AI---S
+3676	TOK	skin		skin\N5S
+3677	TOK	cell		cell\N5S
+3678	TOK	was		be\V6F-A66
+3679	TOK	made		make\VMC----
+3680	TOK	visible		visible\JA
+3681	TOK	by		by\P
+3682	TOK	coloring		color\VMG----
+##	TAG	<num>
+3683	TOK	two		two\X
+##	TAG	</num>
+3684	TOK	components		component\N5P
+3685	TOK	of		of\P
+3686	TOK	a		a\AI---S
+3687	TOK	signaling		signal\VMG----
+3688	TOK	pathway		pathway\N5S
+---	DLD	:		=\DELIM
+3689	TOK	a		a\AI---S
+3690	TOK	scaffolding		scaffolding\N5S
+3691	TOK	protein		protein\N5S
+---	DLE	(		=\DELIM
+3692	TOK	green		green\JA
+---	DLD	)		=\DELIM
+3693	TOK	and		and\CC
+3694	TOK	one		one\RIS3N-
+3695	TOK	of		of\P
+##	TAG	<num>
+3696	TOK	two		two\X
+##	TAG	</num>
+3697	TOK	enzymes		enzyme\N5P
+3698	TOK	tethered		tether\VMC----
+3699	TOK	to		to\P
+3700	TOK	that		that\AD---S
+3701	TOK	scaffold		scaffold\N5S
+---	DLE	(		=\DELIM
+3702	TOK	blue		blue\JA
+---	DLD	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3703	TOK	Actin	BOS	actin\N5S
+---	DLD	,		=\DELIM
+3704	TOK	a		a\AI---S
+3705	TOK	structured		structure\VMC----
+3706	TOK	element		element\N5S
+3707	TOK	in		in\P
+3708	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+3709	TOK	is		be\V6FDRS3
+3710	TOK	red		red\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3711	TOK	The	BOS	the\AT---6
+3712	TOK	top		top\N5S
+3713	TOK	cell		cell\N5S
+3714	TOK	is		be\V6FDRS3
+3715	TOK	quiet		quiet\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3716	TOK	Soon	BOS	soon\DGA7
+3717	TOK	after		after\P
+3718	TOK	an		an\AI---S
+3719	TOK	external		external\JA
+3720	TOK	messenger		messenger\N5S
+3721	TOK	activated		activate\VMC----
+3722	TOK	a		a\AI---S
+3723	TOK	signaling		signal\VMG----
+3724	TOK	pathway		pathway\N5S
+3725	TOK	in		in\P
+3726	TOK	the		the\AT---6
+3727	TOK	bottom		bottom\N5S
+3728	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+3729	TOK	the		the\AT---6
+3730	TOK	scaffolding		scaffolding\N5S
+3731	TOK	protein		protein\N5S
+3732	TOK	moved		move\VMF6A66
+3733	TOK	its		its\APS3N6
+3734	TOK	bound		bound\JA
+3735	TOK	enzymes		enzyme\N5P
+3736	TOK	to		to\P
+3737	TOK	their		their\APP3N6
+3738	TOK	targets		target\N5P
+3739	TOK	deeper		deep\JC
+3740	TOK	in		in\P
+3741	TOK	the		the\AT---6
+3742	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3743	TOK	That	BOS	that\CS
+3744	TOK	movement		movement\N5S
+3745	TOK	is		be\V6FDRS3
+3746	TOK	revealed		reveal\VMC----
+3747	TOK	by		by\P
+3748	TOK	the		the\AT---6
+3749	TOK	yellow		yellow\JA
+3750	TOK	hue		hue\N5S
+---	DLD	,		=\DELIM
+3751	TOK	which		which\RW63N-
+3752	TOK	derives		derive\VMFDRS3
+3753	TOK	from		from\P
+3754	TOK	the		the\AT---6
+3755	TOK	overlap		overlap\N5S
+3756	TOK	of		of\P
+3757	TOK	the		the\AT---6
+3758	TOK	colored		color\VMC----
+3759	TOK	signaling		signal\VMG----
+3760	TOK	components		component\N5P
+3761	TOK	with		with\P
+3762	TOK	actin		actin\N5S
+---	DLE	(		=\DELIM
+3763	TOK	to		to\P
+3764	TOK	which		which\RW63N-
+3765	TOK	the		the\AT---6
+3766	TOK	enzymes		enzyme\N5P
+---	DLD	'		=\DELIM
+3767	TOK	targets		target\N5P
+3768	TOK	were		be\V6F-A66
+3769	TOK	bound		bind\VMC----
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3770	TOK	The	BOS	the\AT---6
+3771	TOK	blue		blue\JA
+3772	TOK	mass		mass\N5S
+3773	TOK	at		at\P
+3774	TOK	the		the\AT---6
+3775	TOK	center		center\N5S
+3776	TOK	reflects		reflect\VMFDRS3
+3777	TOK	extra		extra\JA
+3778	TOK	copies		copy\N5P
+3779	TOK	of		of\P
+3780	TOK	the		the\AT---6
+3781	TOK	colored		color\VMC----
+3782	TOK	enzyme		enzyme\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

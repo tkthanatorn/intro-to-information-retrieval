@@ -1,0 +1,4784 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	Genetics	BOS	genetics\N56
+2	TOK	and		and\CC
+##	TAG	<name>
+3	TOK	Cancer	EOS	Cancer\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+5	TOK	CHAPTER	BOS	chapter\N5S
+6	TOK	CONCEPTS	EOS	concept\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+8	TOK	Cancer	BOS	cancer\N5S
+9	TOK	is		be\V6FDRS3
+10	TOK	now		now\DGA7
+11	TOK	recognized		recognize\VMC----
+12	TOK	as		as\P
+13	TOK	a		a\AI---S
+14	TOK	genetic		genetic\JA
+15	TOK	disorder		disorder\N5S
+16	TOK	at		at\P
+17	TOK	the		the\AT---6
+18	TOK	cellular		cellular\JA
+19	TOK	level		level\N5S
+20	TOK	that		that\RW63N6
+21	TOK	involves		involve\VMFDRS3
+22	TOK	the		the\AT---6
+23	TOK	mutation		mutation\N5S
+24	TOK	of		of\P
+25	TOK	a		a\AI---S
+26	TOK	small		small\JA
+27	TOK	number		number\N5S
+28	TOK	of		of\P
+29	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+30	TOK	Many	BOS	many\AI---P
+31	TOK	of		of\P
+32	TOK	there		there\DGA7
+33	TOK	genes		gene\N5P
+34	TOK	normally		normally\DGA7
+35	TOK	act		act\VMF6R66
+36	TOK	to		to\P
+37	TOK	suppress		suppress\VMI----
+38	TOK	or		or\CC
+39	TOK	stimulate		stimulate\VMI----
+40	TOK	progression		progression\N5S
+41	TOK	through		through\P
+42	TOK	the		the\AT---6
+43	TOK	cell		cell\N5S
+44	TOK	cycle		cycle\N5S
+---	DLD	,		=\DELIM
+45	TOK	and		and\CC
+46	TOK	loss		loss\N5S
+47	TOK	or		or\CC
+48	TOK	inactivation		inactivation\N5S
+49	TOK	of		of\P
+50	TOK	these		this\AD---P
+51	TOK	genes		gene\N5P
+52	TOK	causes		cause\VMFDRS3
+53	TOK	uncontrolled		uncontrolled\JA
+54	TOK	cell		cell\N5S
+55	TOK	division		division\N5S
+56	TOK	and		and\CC
+57	TOK	tumor		tumor\N5S
+58	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+59	TOK	Environmental	BOS	environmental\JA
+60	TOK	factors		factor\N5P
+61	TOK	and		and\CC
+62	TOK	viruses		virus\N5P
+63	TOK	also		also\DGA7
+64	TOK	play		play\VMF6R66
+65	TOK	a		a\AI---S
+66	TOK	role		role\N5S
+67	TOK	in		in\P
+68	TOK	the		the\AT---6
+69	TOK	genetic		genetic\JA
+70	TOK	alterations		alteration\N5P
+71	TOK	that		that\RW63N6
+72	TOK	are		be\V6FDR66
+73	TOK	necessary		necessary\JA
+74	TOK	to		to\P
+75	TOK	transform		transform\VMI----
+76	TOK	normal		normal\JA
+77	TOK	cells		cell\N5P
+78	TOK	into		into\P
+79	TOK	cancerous		cancerous\JA
+80	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+81	TOK	Although	BOS	although\CS
+82	TOK	often		often\DGA7
+83	TOK	viewed		view\VMC----
+84	TOK	as		as\P
+85	TOK	a		a\AI---S
+86	TOK	single		single\JA
+87	TOK	disease		disease\N5S
+---	DLD	,		=\DELIM
+88	TOK	cancer		cancer\N5S
+89	TOK	is		be\V6FDRS3
+90	TOK	actually		actually\DGA7
+91	TOK	a		a\AI---S
+92	TOK	complex		complex\JA
+93	TOK	group		group\N5S
+94	TOK	of		of\P
+95	TOK	diseases		disease\N5P
+96	TOK	affecting		affect\VMG----
+97	TOK	a		a\AI---S
+98	TOK	wide		wide\JA
+99	TOK	range		range\N5S
+100	TOK	of		of\P
+101	TOK	cells		cell\N5P
+102	TOK	and		and\CC
+103	TOK	tissues		tissue\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+104	TOK	A	BOS	a\AI---S
+105	TOK	genetic		genetic\JA
+106	TOK	link		link\N5S
+107	TOK	to		to\P
+108	TOK	cancer		cancer\N5S
+109	TOK	was		be\V6F-A66
+110	TOK	first		first\DGA7
+111	TOK	proposed		propose\VMC----
+112	TOK	early		early\DGA7
+113	TOK	in		in\P
+114	TOK	the		the\AT---6
+115	TOK	twentieth		twentieth\MOS
+116	TOK	century		century\N5S
+---	DLD	,		=\DELIM
+117	TOK	and		and\CC
+118	TOK	this		this\AD---S
+119	TOK	idea		idea\N5S
+120	TOK	has		have\V6FDRS3
+121	TOK	served		serve\VMC----
+122	TOK	as		as\P
+123	TOK	one		one\MCS
+124	TOK	of		of\P
+125	TOK	the		the\AT---6
+126	TOK	foundations		foundation\N5P
+127	TOK	of		of\P
+128	TOK	cancer		cancer\N5S
+129	TOK	research		research\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+130	TOK	Mutations	BOS	mutation\N5P
+131	TOK	that		that\RW63N6
+132	TOK	alter		alter\VMF6R66
+133	TOK	the		the\AT---6
+134	TOK	genome		genome\N5S
+135	TOK	or		or\CC
+136	TOK	gene		gene\N5S
+137	TOK	expression		expression\N5S
+138	TOK	are		be\V6FDR66
+139	TOK	now		now\DGA7
+140	TOK	regarded		regard\VMC----
+141	TOK	as		as\P
+142	TOK	a		a\AI---S
+143	TOK	common		common\JA
+144	TOK	feature		feature\N5S
+145	TOK	of		of\P
+146	TOK	all		all\AG---6
+147	TOK	cancers		cancer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+148	TOK	In	BOS	in\P
+149	TOK	some		some\AG---6
+150	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+151	TOK	such		such\JA
+152	TOK	mutations		mutation\N5P
+153	TOK	are		be\V6FDR66
+154	TOK	part		part\N5S
+155	TOK	of		of\P
+156	TOK	the		the\AT---6
+157	TOK	germ		germ\N5S
+158	TOK	line		line\N5S
+159	TOK	and		and\CC
+160	TOK	are		be\V6FDR66
+161	TOK	inherited		inherit\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+162	TOK	More	BOS	more\DDC7
+163	TOK	often		often\DGA7
+---	DLD	,		=\DELIM
+164	TOK	mutations		mutation\N5P
+165	TOK	arise		arise\VMF6R66
+166	TOK	in		in\P
+167	TOK	somatic		somatic\JA
+168	TOK	cells		cell\N5P
+169	TOK	and		and\CC
+170	TOK	are		be\V6FDR66
+171	TOK	not		not\DGA7
+172	TOK	passed		pass\VMC----
+173	TOK	on		on\P
+174	TOK	to		to\P
+175	TOK	future		future\N5S
+176	TOK	generations		generation\N5P
+177	TOK	through		through\P
+178	TOK	the		the\AT---6
+179	TOK	germ		germ\N5S
+180	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+181	TOK	Sometimes	BOS	sometimes\DGA7
+---	DLD	,		=\DELIM
+182	TOK	the		the\AT---6
+183	TOK	inherited		inherit\VMC----
+184	TOK	mutation		mutation\N5S
+185	TOK	must		must\VOFDR66
+186	TOK	be		be\VMI----
+187	TOK	accompanied		accompany\VMC----
+188	TOK	by		by\P
+189	TOK	a		a\AI---S
+190	TOK	somatic		somatic\JA
+191	TOK	mutation		mutation\N5S
+192	TOK	at		at\P
+193	TOK	the		the\AT---6
+194	TOK	homologous		homologous\JA
+195	TOK	locus		locus\N5S
+---	DLD	,		=\DELIM
+196	TOK	creating		create\VMG----
+197	TOK	homozygosity		homozygosity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+198	TOK	Whichever	BOS	whichever\JA
+199	TOK	the		the\AT---6
+200	TOK	case		case\N5S
+---	DLD	,		=\DELIM
+201	TOK	cancer		cancer\N5S
+202	TOK	is		be\V6FDRS3
+203	TOK	now		now\DGA7
+204	TOK	considered		consider\VMC----
+205	TOK	a		a\AI---S
+206	TOK	genetic		genetic\JA
+207	TOK	disorder		disorder\N5S
+208	TOK	at		at\P
+209	TOK	the		the\AT---6
+210	TOK	cellular		cellular\JA
+211	TOK	1eve1		1eve1\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+212	TOK	Genomic	BOS	genomic\JA
+213	TOK	alterations		alteration\N5P
+214	TOK	associated		associate\VMC----
+215	TOK	with		with\P
+216	TOK	cancer		cancer\N5S
+217	TOK	can		can\VOFDR66
+218	TOK	involve		involve\VMI----
+219	TOK	small		small\JA
+---	DLI	-		=\DELIM
+220	TOK	scale		scale\N5S
+221	TOK	changes		change\N5P
+222	TOK	such		such\RIS3N-
+223	TOK	as		as\P
+224	TOK	a		a\AI---S
+225	TOK	single		single\JA
+226	TOK	nucleotide		nucleotide\N5S
+227	TOK	substitution		substitution\N5S
+228	TOK	or		or\CC
+229	TOK	large		large\JA
+---	DLI	-		=\DELIM
+230	TOK	scale		scale\N5S
+231	TOK	events		event\N5P
+232	TOK	that		that\RW63N6
+233	TOK	include		include\VMF6R66
+234	TOK	chromosome		chromosome\N5S
+235	TOK	rearrangement		rearrangement\N5S
+---	DLD	,		=\DELIM
+236	TOK	chromosome		chromosome\N5S
+237	TOK	gain		gain\N5S
+238	TOK	or		or\CC
+239	TOK	loss		loss\N5S
+---	DLD	,		=\DELIM
+240	TOK	or		or\CC
+241	TOK	even		even\DGA7
+242	TOK	the		the\AT---6
+243	TOK	integration		integration\N5S
+244	TOK	of		of\P
+245	TOK	viral		viral\JA
+246	TOK	genomes		genome\N5P
+247	TOK	into		into\P
+248	TOK	chromosomal		chromosomal\JA
+249	TOK	sites		site\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+250	TOK	Large	BOS	large\JA
+---	DLI	-		=\DELIM
+251	TOK	scale		scale\N5S
+252	TOK	genomic		genomic\JA
+253	TOK	alterations		alteration\N5P
+254	TOK	are		be\V6FDR66
+255	TOK	a		a\AI---S
+256	TOK	common		common\JA
+257	TOK	feature		feature\N5S
+258	TOK	of		of\P
+259	TOK	cancer		cancer\N5S
+---	DLD	;		=\DELIM
+260	TOK	the		the\AT---6
+261	TOK	majority		majority\N5S
+262	TOK	of		of\P
+263	TOK	human		human\JA
+264	TOK	tumors		tumor\N5P
+265	TOK	are		be\V6FDR66
+266	TOK	characterized		characterize\VMC----
+267	TOK	by		by\P
+268	TOK	visible		visible\JA
+269	TOK	chromosomal		chromosomal\JA
+270	TOK	changes		change\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+271	TOK	Some	BOS	some\AG---6
+272	TOK	of		of\P
+273	TOK	these		this\AD---P
+274	TOK	chromosomal		chromosomal\JA
+275	TOK	changes		change\N5P
+---	DLD	,		=\DELIM
+276	TOK	particularly		particularly\DGA7
+277	TOK	in		in\P
+278	TOK	leukemia		leukemia\N5S
+---	DLD	,		=\DELIM
+279	TOK	are		be\V6FDR66
+280	TOK	so		so\DGA7
+281	TOK	characteristic		characteristic\JA
+282	TOK	they		they\RPP3NN
+283	TOK	can		can\VOFDR66
+284	TOK	be		be\VMI----
+285	TOK	used		use\VMC----
+286	TOK	to		to\P
+287	TOK	diagnose		diagnose\VMI----
+288	TOK	and		and\CC
+289	TOK	classify		classify\VMI----
+290	TOK	the		the\AT---6
+291	TOK	disorder		disorder\N5S
+292	TOK	and		and\CC
+293	TOK	to		to\P
+294	TOK	make		make\VMI----
+295	TOK	accurate		accurate\JA
+296	TOK	predictions		prediction\N5P
+297	TOK	about		about\P
+298	TOK	the		the\AT---6
+299	TOK	severity		severity\N5S
+300	TOK	and		and\CC
+301	TOK	course		course\N5S
+302	TOK	of		of\P
+303	TOK	the		the\AT---6
+304	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+305	TOK	Familial	BOS	familial\JA
+306	TOK	forms		form\N5P
+307	TOK	of		of\P
+308	TOK	cancer		cancer\N5S
+309	TOK	have		have\V6F6R66
+310	TOK	been		be\VMC----
+311	TOK	known		know\VMC----
+312	TOK	for		for\P
+313	TOK	over		over\P
+##	TAG	<num>
+314	TOK	two hundred		two_hundred\X
+##	TAG	</num>
+315	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+316	TOK	In	BOS	in\P
+317	TOK	many		many\RIP3N-
+318	TOK	of		of\P
+319	TOK	these		this\AD---P
+320	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+321	TOK	no		no\N5S
+322	TOK	well		well\DGA7
+---	DLD	-		=\DELIM
+323	TOK	defined		define\VMC----
+324	TOK	pattern		pattern\N5S
+325	TOK	of		of\P
+326	TOK	inheritance		inheritance\N5S
+327	TOK	can		can\VOFDR66
+328	TOK	be		be\VMI----
+329	TOK	established		establish\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+330	TOK	In	BOS	in\P
+331	TOK	a		a\AI---S
+332	TOK	small		small\JA
+333	TOK	number		number\N5S
+334	TOK	of		of\P
+335	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+336	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+337	TOK	a		a\AI---S
+##	TAG	<loc pos="JA">
+338	TOK	Mendelian		mendelian\JA
+##	TAG	</loc>
+339	TOK	pattern		pattern\N5S
+340	TOK	of		of\P
+341	TOK	dominant		dominant\JA
+342	TOK	or		or\CC
+343	TOK	recessive		recessive\JA
+344	TOK	inheritance		inheritance\N5S
+345	TOK	can		can\VOFDR66
+346	TOK	be		be\VMI----
+347	TOK	established		establish\VMC----
+---	DLD	,		=\DELIM
+348	TOK	indicating		indicate\VMG----
+349	TOK	the		the\AT---6
+350	TOK	hereditary		hereditary\JA
+351	TOK	nature		nature\N5S
+352	TOK	of		of\P
+353	TOK	the		the\AT---6
+354	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+355	TOK	Because	BOS	because\CS
+356	TOK	mutation		mutation\N5S
+357	TOK	is		be\V6FDRS3
+358	TOK	the		the\AT---6
+359	TOK	underlying		underlying\JA
+360	TOK	cause		cause\N5S
+361	TOK	of		of\P
+362	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+363	TOK	there		there\DGA7
+364	TOK	will		will\VOFDR66
+365	TOK	always		always\DGA7
+366	TOK	be		be\VMI----
+367	TOK	a		a\AI---S
+368	TOK	baseline		baseline\N5S
+369	TOK	rate		rate\N5S
+370	TOK	of		of\P
+371	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+372	TOK	because		because\CS
+373	TOK	there		there\DGA7
+374	TOK	is		be\V6FDRS3
+375	TOK	a		a\AI---S
+376	TOK	background		background\N5S
+377	TOK	rate		rate\N5S
+378	TOK	of		of\P
+379	TOK	spontaneous		spontaneous\JA
+380	TOK	mutation		mutation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+381	TOK	Over	BOS	over\DGA7
+382	TOK	and		and\CC
+383	TOK	above		above\DGA7
+384	TOK	this		this\AD---S
+385	TOK	baseline		baseline\N5S
+386	TOK	rate		rate\N5S
+---	DLD	,		=\DELIM
+387	TOK	environmental		environmental\JA
+388	TOK	agents		agent\N5P
+389	TOK	that		that\RW63N6
+390	TOK	promote		promote\VMF6R66
+391	TOK	mutation		mutation\N5S
+392	TOK	also		also\DGA7
+393	TOK	play		play\VMF6R66
+394	TOK	a		a\AI---S
+395	TOK	role		role\N5S
+396	TOK	in		in\P
+397	TOK	the		the\AT---6
+398	TOK	development		development\N5S
+399	TOK	of		of\P
+400	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+401	TOK	Environmental	BOS	environmental\JA
+402	TOK	factors		factor\N5P
+403	TOK	such		such\RIS3N-
+404	TOK	as		as\P
+405	TOK	ionizing		ionize\VMG----
+406	TOK	radiation		radiation\N5S
+---	DLD	,		=\DELIM
+407	TOK	chemicals		chemical\N5P
+---	DLD	,		=\DELIM
+408	TOK	and		and\CC
+409	TOK	viruses		virus\N5P
+410	TOK	are		be\V6FDR66
+411	TOK	cancer		cancer\N5S
+---	DLI	-		=\DELIM
+412	TOK	causing		cause\VMG----
+413	TOK	agents		agent\N5P
+---	DLD	,		=\DELIM
+414	TOK	and		and\CC
+415	TOK	almost		almost\DGA7
+416	TOK	all		all\AG---6
+417	TOK	of		of\P
+418	TOK	these		this\AD---P
+419	TOK	act		act\N5S
+420	TOK	by		by\P
+421	TOK	generating		generate\VMG----
+422	TOK	mutations		mutation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+423	TOK	Given	BOS	give\VMC----
+424	TOK	that		that\CS
+425	TOK	mutations		mutation\N5P
+426	TOK	play		play\VMF6R66
+427	TOK	a		a\AI---S
+428	TOK	role		role\N5S
+429	TOK	in		in\P
+430	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+431	TOK	this		this\AD---S
+432	TOK	chapter		chapter\N5S
+433	TOK	will		will\VOFDR66
+434	TOK	explore		explore\VMI----
+435	TOK	answers		answer\N5P
+436	TOK	to		to\P
+437	TOK	a		a\AI---S
+438	TOK	series		series\N56
+439	TOK	of		of\P
+440	TOK	questions		question\N5P
+441	TOK	about		about\P
+442	TOK	how		how\DGAW
+443	TOK	mutations		mutation\N5P
+444	TOK	convert		convert\VMF6R66
+445	TOK	normal		normal\JA
+446	TOK	cells		cell\N5P
+447	TOK	into		into\P
+448	TOK	malignant		malignant\JA
+449	TOK	tumors		tumor\N5P
+---	DLD	,		=\DELIM
+450	TOK	which		which\AW---6
+451	TOK	mutant		mutant\N5S
+452	TOK	genes		gene\N5P
+453	TOK	are		be\V6FDR66
+454	TOK	most		most\DDS7
+455	TOK	likely		likely\JA
+456	TOK	to		to\P
+457	TOK	result		result\N5S
+458	TOK	in		in\P
+459	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+460	TOK	and		and\CC
+461	TOK	how		how\DGAW
+462	TOK	many		many\AI---P
+463	TOK	mutations		mutation\N5P
+464	TOK	are		be\V6FDR66
+465	TOK	required		require\VMC----
+466	TOK	to		to\P
+467	TOK	cause		cause\VMI----
+468	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+469	TOK	One	BOS	one\MCS
+470	TOK	approach		approach\N5S
+471	TOK	to		to\P
+472	TOK	answering		answer\VMG----
+473	TOK	these		this\AD---P
+474	TOK	questions		question\N5P
+475	TOK	is		be\V6FDRS3
+476	TOK	to		to\P
+477	TOK	consider		consider\VMI----
+478	TOK	what		what\AW---6
+479	TOK	properties		property\N5P
+480	TOK	of		of\P
+481	TOK	cancer		cancer\N5S
+482	TOK	cells		cell\N5P
+483	TOK	distinguish		distinguish\VMF6R66
+484	TOK	them		them\RPP3NA
+485	TOK	from		from\P
+486	TOK	normal		normal\JA
+487	TOK	cells		cell\N5P
+488	TOK	and		and\CC
+489	TOK	to		to\P
+490	TOK	ask		ask\VMI----
+491	TOK	what		what\AW---6
+492	TOK	genes		gene\N5P
+493	TOK	control		control\VMF6R66
+494	TOK	these		this\AD---P
+495	TOK	properties		property\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+496	TOK	Cancer	BOS	cancer\N5S
+497	TOK	cells		cell\N5P
+498	TOK	have		have\V6F6R66
+##	TAG	<num>
+499	TOK	two		two\X
+##	TAG	</num>
+500	TOK	properties		property\N5P
+501	TOK	in		in\P
+502	TOK	common		common\JA
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+503	TOK	1		1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+504	TOK	uncontrolled		uncontrolled\JA
+505	TOK	growth		growth\N5S
+506	TOK	and		and\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+507	TOK	2		2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+508	TOK	the		the\AT---6
+509	TOK	ability		ability\N5S
+510	TOK	to		to\P
+511	TOK	spread		spread\VMI----
+512	TOK	or		or\CC
+513	TOK	metastasize		metastasize\VMI----
+514	TOK	from		from\P
+515	TOK	their		their\APP3N6
+516	TOK	original		original\JA
+517	TOK	site		site\N5S
+518	TOK	to		to\P
+519	TOK	other		other\JA
+520	TOK	locations		location\N5P
+521	TOK	in		in\P
+522	TOK	the		the\AT---6
+523	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+524	TOK	Cell	BOS	cell\N5S
+525	TOK	division		division\N5S
+526	TOK	is		be\V6FDRS3
+527	TOK	the		the\AT---6
+528	TOK	result		result\N5S
+529	TOK	of		of\P
+530	TOK	cells		cell\N5P
+531	TOK	traversing		traverse\VMG----
+532	TOK	the		the\AT---6
+533	TOK	cell		cell\N5S
+534	TOK	cycle		cycle\N5S
+---	DLD	;		=\DELIM
+535	TOK	in		in\P
+536	TOK	cancer		cancer\N5S
+537	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+538	TOK	control		control\N5S
+539	TOK	over		over\P
+540	TOK	the		the\AT---6
+541	TOK	cell		cell\N5S
+542	TOK	cycle		cycle\N5S
+543	TOK	is		be\V6FDRS3
+544	TOK	lost		lose\VMC----
+---	DLD	,		=\DELIM
+545	TOK	and		and\CC
+546	TOK	cells		cell\N5P
+547	TOK	proliferate		proliferate\VMF6R66
+548	TOK	rapidly		rapidly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+549	TOK	Investigations	BOS	investigation\N5P
+550	TOK	into		into\P
+551	TOK	the		the\AT---6
+552	TOK	genetic		genetic\JA
+553	TOK	control		control\N5S
+554	TOK	of		of\P
+555	TOK	the		the\AT---6
+556	TOK	cell		cell\N5S
+557	TOK	cycle		cycle\N5S
+558	TOK	are		be\V6FDR66
+559	TOK	now		now\DGA7
+560	TOK	providing		provide\VMG----
+561	TOK	in		in\P
+---	DLD	-		=\DELIM
+562	TOK	sights		sight\N5P
+563	TOK	into		into\P
+564	TOK	the		the\AT---6
+565	TOK	origins		origin\N5P
+566	TOK	of		of\P
+567	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+568	TOK	The	BOS	the\AT---6
+569	TOK	metastasis		metastasis\N5S
+570	TOK	of		of\P
+571	TOK	cancer		cancer\N5S
+572	TOK	cells		cell\N5P
+573	TOK	is		be\V6FDRS3
+574	TOK	controlled		control\VMC----
+575	TOK	by		by\P
+576	TOK	gene		gene\N5S
+577	TOK	products		product\N5P
+578	TOK	that		that\RW63N6
+579	TOK	become		become\VMF6R66
+580	TOK	localized		localize\VMC----
+581	TOK	on		on\P
+582	TOK	the		the\AT---6
+583	TOK	cell		cell\N5S
+584	TOK	surface		surface\VMF6R66
+---	DLD	,		=\DELIM
+585	TOK	and		and\CC
+586	TOK	the		the\AT---6
+587	TOK	genetics		genetics\N56
+588	TOK	of		of\P
+589	TOK	metastasis		metastasis\N5S
+590	TOK	is		be\V6FDRS3
+591	TOK	related		relate\VMC----
+592	TOK	to		to\P
+593	TOK	an		an\AI---S
+594	TOK	understanding		understanding\N5S
+595	TOK	of		of\P
+596	TOK	how		how\DGAW
+597	TOK	cells		cell\N5P
+598	TOK	interact		interact\VMF6R66
+599	TOK	with		with\P
+600	TOK	the		the\AT---6
+601	TOK	extracellular		extracellular\JA
+602	TOK	matrix		matrix\N5S
+603	TOK	and		and\CC
+604	TOK	with		with\P
+605	TOK	other		other\JA
+606	TOK	cells		cell\N5P
+607	TOK	through		through\P
+608	TOK	cell		cell\N5S
+609	TOK	surface		surface\N5S
+610	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+611	TOK	Though	BOS	though\CS
+612	TOK	this		this\AD---S
+613	TOK	field		field\N5S
+614	TOK	is		be\V6FDRS3
+615	TOK	less		less\DDC7
+616	TOK	well		well\DGA7
+617	TOK	developed		develop\VMF6A66
+618	TOK	than		than\CS
+619	TOK	the		the\AT---6
+620	TOK	study		study\N5S
+621	TOK	of		of\P
+622	TOK	the		the\AT---6
+623	TOK	cell		cell\N5S
+624	TOK	cycle		cycle\N5S
+---	DLD	,		=\DELIM
+625	TOK	it		it\RPS3N6
+626	TOK	is		be\V6FDRS3
+627	TOK	beginning		begin\VMG----
+628	TOK	to		to\P
+629	TOK	provide		provide\VMI----
+630	TOK	some		some\AG---6
+631	TOK	insights		insight\N5P
+632	TOK	into		into\P
+633	TOK	the		the\AT---6
+634	TOK	secondary		secondary\JA
+635	TOK	events		event\N5P
+636	TOK	in		in\P
+637	TOK	tumor		tumor\N5S
+638	TOK	progression		progression\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+639	TOK	This	BOS	this\AD---S
+640	TOK	chapter		chapter\N5S
+641	TOK	will		will\VOFDR66
+642	TOK	consider		consider\VMI----
+643	TOK	the		the\AT---6
+644	TOK	relationship		relationship\N5S
+645	TOK	between		between\P
+646	TOK	genes		gene\N5P
+647	TOK	and		and\CC
+648	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+649	TOK	with		with\P
+650	TOK	emphasis		emphasis\N5S
+651	TOK	on		on\P
+652	TOK	the		the\AT---6
+653	TOK	relationship		relationship\N5S
+654	TOK	between		between\P
+655	TOK	the		the\AT---6
+656	TOK	cell		cell\N5S
+657	TOK	cycle		cycle\N5S
+658	TOK	and		and\CC
+659	TOK	genetic		genetic\JA
+660	TOK	disorders		disorder\N5P
+661	TOK	associated		associate\VMC----
+662	TOK	with		with\P
+663	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+664	TOK	We	BOS	we\RPP1NN
+665	TOK	will		will\VOFDR66
+666	TOK	also		also\DGA7
+667	TOK	examine		examine\VMI----
+668	TOK	the		the\AT---6
+669	TOK	relationship		relationship\N5S
+670	TOK	between		between\P
+671	TOK	mutation		mutation\N5S
+672	TOK	and		and\CC
+673	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+674	TOK	the		the\AT---6
+675	TOK	identification		identification\N5S
+676	TOK	of		of\P
+677	TOK	genes		gene\N5P
+678	TOK	that		that\CS
+679	TOK	when		when\CS
+680	TOK	mutated		mutate\VMF6A66
+---	DLD	,		=\DELIM
+681	TOK	initiate		initiate\VMF6R66
+682	TOK	the		the\AT---6
+683	TOK	transformation		transformation\N5S
+684	TOK	of		of\P
+685	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+686	TOK	and		and\CC
+687	TOK	estimate		estimate\VMI----
+688	TOK	the		the\AT---6
+689	TOK	number		number\N5S
+690	TOK	of		of\P
+691	TOK	mutations		mutation\N5P
+692	TOK	involved		involve\VMC----
+693	TOK	in		in\P
+694	TOK	tumor		tumor\N5S
+695	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+696	TOK	We	BOS	we\RPP1NN
+697	TOK	will		will\VOFDR66
+698	TOK	also		also\DGA7
+699	TOK	discuss		discuss\VMI----
+700	TOK	the		the\AT---6
+701	TOK	relationship		relationship\N5S
+702	TOK	between		between\P
+703	TOK	chromosomal		chromosomal\JA
+704	TOK	changes		change\N5P
+705	TOK	and		and\CC
+706	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+707	TOK	and		and\CC
+708	TOK	the		the\AT---6
+709	TOK	role		role\N5S
+710	TOK	of		of\P
+711	TOK	environmental		environmental\JA
+712	TOK	agents		agent\N5P
+713	TOK	in		in\P
+714	TOK	the		the\AT---6
+715	TOK	genesis		genesis\N5S
+716	TOK	of		of\P
+717	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+718	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+719	TOK	Cell Cycle		Cell_Cycle\N46
+##	TAG	</name>
+720	TOK	and		and\CC
+##	TAG	<name>
+721	TOK	Cancer	EOS	Cancer\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+723	TOK	As	BOS	as\CS
+724	TOK	described		describe\VMC----
+725	TOK	in		in\P
+##	TAG	<name>
+726	TOK	Chapter		Chapter\N46
+##	TAG	</name>
+##	TAG	<num>
+727	TOK	2		2\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+728	TOK	the		the\AT---6
+729	TOK	cell		cell\N5S
+730	TOK	cycle		cycle\N5S
+731	TOK	represents		represent\VMFDRS3
+732	TOK	the		the\AT---6
+733	TOK	sequence		sequence\N5S
+734	TOK	of		of\P
+735	TOK	events		event\N5P
+736	TOK	occurring		occur\VMG----
+737	TOK	between		between\P
+738	TOK	mitotic		mitotic\JA
+739	TOK	divisions		division\N5P
+740	TOK	in		in\P
+741	TOK	a		a\AI---S
+742	TOK	eukaryotic		eukaryotic\JA
+743	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+744	TOK	In	BOS	in\P
+745	TOK	years		year\N5P
+746	TOK	past		past\P
+---	DLD	,		=\DELIM
+747	TOK	work		work\N5S
+748	TOK	on		on\P
+749	TOK	control		control\N5S
+750	TOK	of		of\P
+751	TOK	the		the\AT---6
+752	TOK	cell		cell\N5S
+753	TOK	cycle		cycle\N5S
+754	TOK	has		have\V6FDRS3
+755	TOK	been		be\VMC----
+756	TOK	conducted		conduct\VMC----
+757	TOK	mainly		mainly\DGA7
+758	TOK	by		by\P
+##	TAG	<num>
+759	TOK	two		two\X
+##	TAG	</num>
+760	TOK	groups		group\N5P
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+761	TOK	1		1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+762	TOK	geneticists		geneticist\N5P
+763	TOK	working		work\VMG----
+764	TOK	with		with\P
+765	TOK	yeasts		yeast\N5P
+---	DLD	,		=\DELIM
+766	TOK	especially		especially\DGA7
+##	TAG	<name>
+767	TOK	Saccharomyces		Saccharomyces\N46
+##	TAG	</name>
+768	TOK	cerevisiae		cerevisiae\N5P
+769	TOK	and		and\CC
+##	TAG	<name>
+770	TOK	Schizosaccharomyces		Schizosaccharomyces\N46
+##	TAG	</name>
+771	TOK	pombe		pombe\N5S
+---	DLD	;		=\DELIM
+772	TOK	and		and\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+773	TOK	2		2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+774	TOK	develop		develop\VMF6R66
+---	DLD	-		=\DELIM
+775	TOK	mental		mental\JA
+776	TOK	biologists		biologist\N5P
+---	DLD	,		=\DELIM
+777	TOK	studying		study\VMG----
+778	TOK	the		the\AT---6
+779	TOK	newly		newly\DGA7
+780	TOK	fertilized		fertilize\VMC----
+781	TOK	eggs		egg\N5P
+782	TOK	of		of\P
+783	TOK	organisms		organism\N5P
+784	TOK	such		such\RIS3N-
+785	TOK	as		as\P
+786	TOK	frogs		frog\N5P
+---	DLD	,		=\DELIM
+787	TOK	sea		sea\N5S
+788	TOK	urchins		urchin\N5P
+---	DLD	,		=\DELIM
+789	TOK	and		and\CC
+790	TOK	newts		newt\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+791	TOK	In	BOS	in\P
+792	TOK	the		the\AT---6
+793	TOK	last		last\JA
+794	TOK	few		few\JA
+795	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+796	TOK	these		this\AD---P
+797	TOK	groups		group\N5P
+798	TOK	have		have\V6F6R66
+799	TOK	succeeded		succeed\VMC----
+800	TOK	in		in\P
+801	TOK	identifying		identify\VMG----
+802	TOK	and		and\CC
+803	TOK	characterizing		characterize\VMG----
+804	TOK	genes		gene\N5P
+805	TOK	involved		involve\VMC----
+806	TOK	in		in\P
+807	TOK	the		the\AT---6
+808	TOK	cell		cell\N5S
+809	TOK	cycle		cycle\N5S
+---	DLD	,		=\DELIM
+810	TOK	and		and\CC
+811	TOK	their		their\APP3N6
+812	TOK	work		work\N5S
+813	TOK	is		be\V6FDRS3
+814	TOK	now		now\DGA7
+815	TOK	converging		converge\VMG----
+816	TOK	and		and\CC
+817	TOK	overlapping		overlap\VMG----
+818	TOK	with		with\P
+819	TOK	important		important\JA
+820	TOK	areas		area\N5P
+821	TOK	of		of\P
+822	TOK	cancer		cancer\N5S
+823	TOK	biology		biology\N5S
+---	DLD	,		=\DELIM
+824	TOK	particularly		particularly\DGA7
+825	TOK	studies		study\N5P
+826	TOK	on		on\P
+827	TOK	growth		growth\N5S
+828	TOK	factors		factor\N5P
+829	TOK	and		and\CC
+830	TOK	the		the\AT---6
+831	TOK	genes		gene\N5P
+832	TOK	that		that\RW63N6
+833	TOK	suppress		suppress\VMF6R66
+834	TOK	or		or\CC
+835	TOK	promote		promote\VMF6R66
+836	TOK	tumor		tumor\N5S
+837	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+838	TOK	This	BOS	this\AD---S
+839	TOK	convergence		convergence\N5S
+840	TOK	has		have\V6FDRS3
+841	TOK	had		have\VMC----
+842	TOK	a		a\AI---S
+843	TOK	synergistic		synergistic\JA
+844	TOK	effect		effect\N5S
+---	DLD	,		=\DELIM
+845	TOK	resulting		result\VMG----
+846	TOK	in		in\P
+847	TOK	new		new\JA
+848	TOK	insights		insight\N5P
+849	TOK	into		into\P
+850	TOK	the		the\AT---6
+851	TOK	processes		process\N5P
+852	TOK	that		that\RW63N6
+853	TOK	control		control\VMF6R66
+854	TOK	cell		cell\N5S
+855	TOK	division		division\N5S
+856	TOK	and		and\CC
+857	TOK	how		how\DGAW
+858	TOK	regulation		regulation\N5S
+859	TOK	of		of\P
+860	TOK	the		the\AT---6
+861	TOK	cell		cell\N5S
+862	TOK	cycle		cycle\N5S
+863	TOK	is		be\V6FDRS3
+864	TOK	coupled		couple\VMC----
+865	TOK	to		to\P
+866	TOK	the		the\AT---6
+867	TOK	transcription		transcription\N5S
+868	TOK	of		of\P
+869	TOK	selected		select\VMC----
+870	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+871	TOK	Because of	BOS	Because_of\P
+##	TAG	</loc>
+872	TOK	these		this\AD---P
+873	TOK	recent		recent\JA
+874	TOK	developments		development\N5P
+---	DLD	,		=\DELIM
+875	TOK	it		it\RPS3N6
+876	TOK	is		be\V6FDRS3
+877	TOK	necessary		necessary\JA
+878	TOK	to		to\P
+879	TOK	spend		spend\VMI----
+880	TOK	some		some\AG---6
+881	TOK	time		time\N5S
+882	TOK	describing		describe\VMG----
+883	TOK	what		what\RW63N-
+884	TOK	is		be\V6FDRS3
+885	TOK	known		know\VMC----
+886	TOK	about		about\P
+887	TOK	the		the\AT---6
+888	TOK	steps		step\N5P
+889	TOK	of		of\P
+890	TOK	the		the\AT---6
+891	TOK	cell		cell\N5S
+892	TOK	cycle		cycle\N5S
+893	TOK	and		and\CC
+894	TOK	the		the\AT---6
+895	TOK	genes		gene\N5P
+896	TOK	that		that\RW63N6
+897	TOK	regulate		regulate\VMF6R66
+898	TOK	progression		progression\N5S
+899	TOK	through		through\P
+900	TOK	the		the\AT---6
+901	TOK	cycle		cycle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+902	TOK	We	BOS	we\RPP1NN
+903	TOK	will		will\VOFDR66
+904	TOK	then		then\DGA7
+905	TOK	undertake		undertake\VMI----
+906	TOK	a		a\AI---S
+907	TOK	discussion		discussion\N5S
+908	TOK	of		of\P
+909	TOK	the		the\AT---6
+910	TOK	genetics		genetics\N56
+911	TOK	of		of\P
+912	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+913	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+914	TOK	Cell Cycle	EOS	Cell_Cycle\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+916	TOK	Stripped	BOS	strip\VMC----
+917	TOK	to		to\P
+918	TOK	its		its\APS3N6
+919	TOK	essentials		essential\N5P
+---	DLD	,		=\DELIM
+920	TOK	the		the\AT---6
+921	TOK	cell		cell\N5S
+922	TOK	cycle		cycle\N5S
+923	TOK	progresses		progress\VMFDRS3
+924	TOK	from		from\P
+925	TOK	a		a\AI---S
+926	TOK	period		period\N5S
+927	TOK	of		of\P
+928	TOK	chromosomal		chromosomal\JA
+##	TAG	<name>
+929	TOK	DNA		DNA\N46
+##	TAG	</name>
+930	TOK	replication		replication\N5S
+---	DLE	(		=\DELIM
+931	TOK	S		s\N5S
+932	TOK	phase		phase\N5S
+---	DLD	)		=\DELIM
+933	TOK	to		to\P
+934	TOK	the		the\AT---6
+935	TOK	segregation		segregation\N5S
+936	TOK	of		of\P
+937	TOK	chromosomes		chromosome\N5P
+938	TOK	into		into\P
+##	TAG	<num>
+939	TOK	two		two\X
+##	TAG	</num>
+940	TOK	nuclei		nucleus\N5P
+941	TOK	during		during\P
+942	TOK	mitosis		mitosis\N5S
+---	DLE	(		=\DELIM
+943	TOK	M		m\N5S
+944	TOK	phase		phase\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+945	TOK	Interspersed	BOS	intersperse\VMC----
+946	TOK	between		between\P
+947	TOK	these		this\AD---P
+948	TOK	stages		stage\N5P
+949	TOK	are		be\V6FDR66
+##	TAG	<num>
+950	TOK	two		two\X
+##	TAG	</num>
+951	TOK	gaps		gap\N5P
+---	DLD	,		=\DELIM
+952	TOK	called		call\VMC----
+##	TAG	<name>
+953	TOK	G1		G1\N46
+##	TAG	</name>
+954	TOK	and		and\CC
+##	TAG	<name>
+955	TOK	G2		G2\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+956	TOK	Together	BOS	together\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+957	TOK	G1		G1\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+958	TOK	S		S\N5P
+---	DLD	,		=\DELIM
+959	TOK	and		and\CC
+##	TAG	<name>
+960	TOK	G2		G2\N46
+##	TAG	</name>
+961	TOK	make		make\VMF6R66
+962	TOK	up		up\P
+963	TOK	the		the\AT---6
+964	TOK	interphase		interphase\N5S
+965	TOK	portion		portion\N5S
+966	TOK	of		of\P
+967	TOK	the		the\AT---6
+968	TOK	cell		cell\N5S
+969	TOK	cycle		cycle\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+970	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+971	TOK	21.1		21.1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+972	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+973	TOK	Gl		Gl\N46
+##	TAG	</name>
+974	TOK	stage		stage\N5S
+975	TOK	begins		begin\VMFDRS3
+976	TOK	after		after\P
+977	TOK	mitosis		mitosis\N5S
+---	DLD	;		=\DELIM
+978	TOK	synthesis		synthesis\N5S
+979	TOK	of		of\P
+980	TOK	many		many\AI---P
+981	TOK	cytoplasmic		cytoplasmic\JA
+982	TOK	elements		element\N5P
+983	TOK	including		including\P
+984	TOK	ribosomes		ribosome\N5P
+---	DLD	,		=\DELIM
+985	TOK	enzymes		enzyme\N5P
+---	DLD	,		=\DELIM
+986	TOK	and		and\CC
+987	TOK	membrane		membrane\N5S
+---	DLI	-		=\DELIM
+988	TOK	derived		derive\VMC----
+989	TOK	organelles		organelle\N5P
+990	TOK	occurs		occur\VMFDRS3
+991	TOK	at		at\P
+992	TOK	this		this\AD---S
+993	TOK	time		time\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+994	TOK	In	BOS	in\P
+995	TOK	the		the\AT---6
+996	TOK	S		s\N5S
+997	TOK	phase		phase\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+998	TOK	DNA		DNA\N46
+##	TAG	</name>
+999	TOK	replication		replication\N5S
+1000	TOK	takes		take\VMFDRS3
+1001	TOK	place		place\VMF6R66
+---	DLD	,		=\DELIM
+1002	TOK	producing		produce\VMG----
+1003	TOK	a		a\AI---S
+1004	TOK	duplicate		duplicate\N5S
+1005	TOK	copy		copy\N5S
+1006	TOK	of		of\P
+1007	TOK	each		each\AG---S
+1008	TOK	chromosome		chromosome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1009	TOK	Then	BOS	then\DGA7
+1010	TOK	a		a\AI---S
+1011	TOK	second		second\MOS
+1012	TOK	period		period\N5S
+1013	TOK	of		of\P
+1014	TOK	growth		growth\N5S
+1015	TOK	and		and\CC
+1016	TOK	synthesis		synthesis\N5S
+1017	TOK	known		know\VMC----
+1018	TOK	as		as\P
+##	TAG	<name>
+1019	TOK	G2		G2\N46
+##	TAG	</name>
+1020	TOK	occurs		occur\VMFDRS3
+1021	TOK	as		as\CS
+1022	TOK	a		a\AI---S
+1023	TOK	prelude		prelude\N5S
+1024	TOK	to		to\P
+1025	TOK	mitosis		mitosis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1026	TOK	Because	BOS	because\CS
+1027	TOK	mitosis		mitosis\N5S
+1028	TOK	occurs		occur\VMFDRS3
+1029	TOK	rapidly		rapidly\DGA7
+---	DLD	,		=\DELIM
+1030	TOK	usually		usually\DGA7
+1031	TOK	lasting		last\VMG----
+1032	TOK	less		less\DDC7
+1033	TOK	than		than\CS
+1034	TOK	an		an\AI---S
+1035	TOK	hour		hour\N5S
+---	DLD	,		=\DELIM
+1036	TOK	cells		cell\N5P
+1037	TOK	spend		spend\VMF6R66
+1038	TOK	most		most\DDS7
+1039	TOK	of		of\P
+1040	TOK	the		the\AT---6
+1041	TOK	cell		cell\N5S
+1042	TOK	cycle		cycle\N5S
+1043	TOK	in		in\P
+1044	TOK	interphase		interphase\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1045	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1046	TOK	the		the\AT---6
+1047	TOK	duration		duration\N5S
+1048	TOK	of		of\P
+1049	TOK	the		the\AT---6
+1050	TOK	cell		cell\N5S
+1051	TOK	cycle		cycle\N5S
+---	DLE	(		=\DELIM
+1052	TOK	the		the\AT---6
+1053	TOK	time		time\N5S
+1054	TOK	between		between\P
+1055	TOK	mitotic		mitotic\JA
+1056	TOK	divisions		division\N5P
+---	DLD	)		=\DELIM
+1057	TOK	can		can\VOFDR66
+1058	TOK	vary		vary\VMI----
+1059	TOK	widely		widely\DGA7
+1060	TOK	among		among\P
+1061	TOK	cells		cell\N5P
+1062	TOK	in		in\P
+1063	TOK	the		the\AT---6
+1064	TOK	life		life\N5S
+1065	TOK	cycle		cycle\N5S
+1066	TOK	of		of\P
+1067	TOK	an		an\AI---S
+1068	TOK	organism		organism\N5S
+1069	TOK	and		and\CC
+1070	TOK	among		among\P
+1071	TOK	different		different\JA
+1072	TOK	cell		cell\N5S
+1073	TOK	types		type\N5P
+1074	TOK	in		in\P
+1075	TOK	the		the\AT---6
+1076	TOK	same		same\JA
+1077	TOK	organism		organism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1078	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1079	TOK	animal		animal\N5S
+1080	TOK	cells		cell\N5P
+1081	TOK	exhibit		exhibit\VMF6R66
+##	TAG	<foreign lang="LA" pos="JA">
+1082	TOK	in vivo		in_vivo\JA
+##	TAG	</foreign>
+1083	TOK	cycles		cycle\N5P
+1084	TOK	ranging		range\VMG----
+1085	TOK	from		from\P
+##	TAG	<loc pos="RP63N-">
+1086	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+1087	TOK	minutes		minute\N5P
+1088	TOK	to		to\P
+1089	TOK	several		several\JA
+1090	TOK	months		month\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1091	TOK	Most	BOS	most\DDS7
+1092	TOK	of		of\P
+1093	TOK	this		this\AD---S
+1094	TOK	variation		variation\N5S
+1095	TOK	can		can\VOFDR66
+1096	TOK	be		be\VMI----
+1097	TOK	traced		trace\VMC----
+1098	TOK	to		to\P
+1099	TOK	the		the\AT---6
+1100	TOK	time		time\N5S
+1101	TOK	spent		spend\VMC----
+1102	TOK	in		in\P
+##	TAG	<name>
+1103	TOK	G1		G1\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1104	TOK	The	BOS	the\AT---6
+1105	TOK	time		time\N5S
+1106	TOK	necessary		necessary\JA
+1107	TOK	to		to\P
+1108	TOK	complete		complete\JA
+1109	TOK	S		S\N5P
+1110	TOK	and		and\CC
+##	TAG	<name>
+1111	TOK	G2		G2\N46
+##	TAG	</name>
+1112	TOK	remains		remain\VMFDRS3
+1113	TOK	relatively		relatively\DGA7
+1114	TOK	constant		constant\JA
+1115	TOK	in		in\P
+1116	TOK	most		most\AG---6
+1117	TOK	cell		cell\N5S
+1118	TOK	types		type\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1119	TOK	While	BOS	while\CS
+1120	TOK	some		some\AG---6
+1121	TOK	cells		cell\N5P
+1122	TOK	such		such\RIS3N-
+1123	TOK	as		as\P
+1124	TOK	meristematic		meristematic\JA
+1125	TOK	cells		cell\N5P
+1126	TOK	in		in\P
+1127	TOK	plants		plant\N5P
+1128	TOK	and		and\CC
+1129	TOK	dermal		dermal\JA
+1130	TOK	cells		cell\N5P
+1131	TOK	in		in\P
+1132	TOK	human		human\JA
+1133	TOK	skin		skin\N5S
+1134	TOK	cycle		cycle\N5S
+1135	TOK	continuously		continuously\DGA7
+---	DLD	,		=\DELIM
+1136	TOK	other		other\JA
+1137	TOK	cell		cell\N5S
+1138	TOK	types		type\N5P
+---	DLD	,		=\DELIM
+1139	TOK	including		including\P
+1140	TOK	many		many\AI---P
+1141	TOK	nerve		nerve\N5S
+1142	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+1143	TOK	withdraw		withdraw\VMF6R66
+1144	TOK	from		from\P
+1145	TOK	the		the\AT---6
+##	TAG	<name>
+1146	TOK	Gl		Gl\N46
+##	TAG	</name>
+1147	TOK	phase		phase\N5S
+---	DLD	,		=\DELIM
+1148	TOK	and		and\CC
+1149	TOK	permanently		permanently\DGA7
+1150	TOK	enter		enter\VMF6R66
+1151	TOK	a		a\AI---S
+1152	TOK	nondividing		nondividing\JA
+1153	TOK	state		state\N5S
+1154	TOK	known		know\VMC----
+1155	TOK	as		as\P
+##	TAG	<name>
+1156	TOK	G0		G0\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1157	TOK	Still	BOS	still\DGA7
+1158	TOK	other		other\JA
+1159	TOK	cell		cell\N5S
+1160	TOK	types		type\N5P
+1161	TOK	such		such\RIS3N-
+1162	TOK	as		as\P
+1163	TOK	white		white\JA
+1164	TOK	blood		blood\N5S
+1165	TOK	cells		cell\N5P
+1166	TOK	can		can\VOFDR66
+1167	TOK	be		be\VMI----
+1168	TOK	recruited		recruit\VMC----
+1169	TOK	to		to\P
+1170	TOK	return		return\VMI----
+1171	TOK	from		from\P
+##	TAG	<name>
+1172	TOK	G0		G0\N46
+##	TAG	</name>
+1173	TOK	and		and\CC
+1174	TOK	reenter		reenter\VMI----
+1175	TOK	the		the\AT---6
+1176	TOK	cell		cell\N5S
+1177	TOK	cycle		cycle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1178	TOK	Taken	BOS	take\VMC----
+1179	TOK	together		together\DGA7
+---	DLD	,		=\DELIM
+1180	TOK	these		this\AD---P
+1181	TOK	observations		observation\N5P
+1182	TOK	suggest		suggest\VMF6R66
+1183	TOK	that		that\CS
+1184	TOK	the		the\AT---6
+1185	TOK	cell		cell\N5S
+1186	TOK	cycle		cycle\N5S
+1187	TOK	is		be\V6FDRS3
+1188	TOK	tightly		tightly\DGA7
+1189	TOK	regulated		regulate\VMC----
+1190	TOK	and		and\CC
+1191	TOK	is		be\V6FDRS3
+1192	TOK	dependent		dependent\JA
+1193	TOK	on		on\P
+1194	TOK	the		the\AT---6
+1195	TOK	life		life\N5S
+1196	TOK	history		history\N5S
+1197	TOK	and		and\CC
+1198	TOK	differentiated		differentiate\VMC----
+1199	TOK	state		state\N5S
+1200	TOK	of		of\P
+1201	TOK	a		a\AI---S
+1202	TOK	given		give\VMC----
+1203	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1204	TOK	A	BOS	a\AI---S
+1205	TOK	great		great\JA
+1206	TOK	deal		deal\N5S
+1207	TOK	of		of\P
+1208	TOK	information		information\N5S
+1209	TOK	about		about\P
+1210	TOK	the		the\AT---6
+1211	TOK	regulation		regulation\N5S
+1212	TOK	of		of\P
+1213	TOK	the		the\AT---6
+1214	TOK	cell		cell\N5S
+1215	TOK	cycle		cycle\N5S
+1216	TOK	has		have\V6FDRS3
+1217	TOK	become		become\VMC----
+1218	TOK	available		available\JA
+1219	TOK	in		in\P
+1220	TOK	the		the\AT---6
+1221	TOK	last		last\JA
+1222	TOK	few		few\JA
+1223	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1224	TOK	A	BOS	a\AI---S
+1225	TOK	summary		summary\N5S
+1226	TOK	of		of\P
+1227	TOK	what		what\RW63N-
+1228	TOK	is		be\V6FDRS3
+1229	TOK	currently		currently\DGA7
+1230	TOK	known		know\VMC----
+1231	TOK	about		about\P
+1232	TOK	the		the\AT---6
+1233	TOK	genetic		genetic\JA
+1234	TOK	regulation		regulation\N5S
+1235	TOK	of		of\P
+1236	TOK	the		the\AT---6
+1237	TOK	cell		cell\N5S
+1238	TOK	cycle		cycle\N5S
+1239	TOK	will		will\VOFDR66
+1240	TOK	serve		serve\VMI----
+1241	TOK	as		as\P
+1242	TOK	a		a\AI---S
+1243	TOK	prelude		prelude\N5S
+1244	TOK	to		to\P
+1245	TOK	an		an\AI---S
+1246	TOK	overview		overview\N5S
+1247	TOK	of		of\P
+1248	TOK	the		the\AT---6
+1249	TOK	genetics		genetics\N56
+1250	TOK	of		of\P
+1251	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1252	TOK	Checkpoints	BOS	checkpoint\N5P
+1253	TOK	and		and\CC
+##	TAG	<name>
+1254	TOK	Control		Control\N46
+##	TAG	</name>
+1255	TOK	of		of\P
+1256	TOK	the		the\AT---6
+##	TAG	<name>
+1257	TOK	Cell Cycle	EOS	Cell_Cycle\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1259	TOK	As	BOS	as\CS
+1260	TOK	work		work\N5S
+1261	TOK	on		on\P
+1262	TOK	the		the\AT---6
+1263	TOK	cell		cell\N5S
+1264	TOK	cycle		cycle\N5S
+1265	TOK	in		in\P
+1266	TOK	several		several\JA
+1267	TOK	organisms		organism\N5P
+1268	TOK	has		have\V6FDRS3
+1269	TOK	con		con\DGA7
+---	DLD	-		=\DELIM
+1270	TOK	verged		verge\VMF6A66
+---	DLD	,		=\DELIM
+1271	TOK	a		a\AI---S
+1272	TOK	universal		universal\JA
+1273	TOK	model		model\N5S
+1274	TOK	of		of\P
+1275	TOK	the		the\AT---6
+1276	TOK	cell		cell\N5S
+1277	TOK	cycle		cycle\N5S
+1278	TOK	and		and\CC
+1279	TOK	its		its\APS3N6
+1280	TOK	regulation		regulation\N5S
+1281	TOK	is		be\V6FDRS3
+1282	TOK	beginning		begin\VMG----
+1283	TOK	to		to\P
+1284	TOK	emerge		emerge\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1285	TOK	Although	BOS	although\CS
+1286	TOK	details		detail\N5P
+1287	TOK	of		of\P
+1288	TOK	all		all\AG---6
+1289	TOK	molecular		molecular\JA
+1290	TOK	events		event\N5P
+1291	TOK	or		or\CC
+1292	TOK	even		even\DGA7
+1293	TOK	the		the\AT---6
+1294	TOK	exact		exact\JA
+1295	TOK	number		number\N5S
+1296	TOK	and		and\CC
+1297	TOK	sequence		sequence\N5S
+1298	TOK	of		of\P
+1299	TOK	steps		step\N5P
+1300	TOK	are		be\V6FDR66
+1301	TOK	not		not\DGA7
+1302	TOK	yet		yet\DGA7
+1303	TOK	known		know\VMC----
+---	DLD	,		=\DELIM
+1304	TOK	all		all\AG---6
+1305	TOK	eukaryotic		eukaryotic\JA
+1306	TOK	cells		cell\N5P
+1307	TOK	probably		probably\DGA7
+1308	TOK	employ		employ\VMF6R66
+1309	TOK	a		a\AI---S
+1310	TOK	common		common\JA
+1311	TOK	series		series\N56
+1312	TOK	of		of\P
+1313	TOK	biochemical		biochemical\JA
+1314	TOK	pathways		pathway\N5P
+1315	TOK	to		to\P
+1316	TOK	regulate		regulate\VMI----
+1317	TOK	events		event\N5P
+1318	TOK	in		in\P
+1319	TOK	the		the\AT---6
+1320	TOK	cell		cell\N5S
+1321	TOK	cycle		cycle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1322	TOK	If	BOS	if\CS
+1323	TOK	the		the\AT---6
+1324	TOK	universal		universal\JA
+1325	TOK	aspect		aspect\N5S
+1326	TOK	of		of\P
+1327	TOK	the		the\AT---6
+1328	TOK	current		current\JA
+1329	TOK	model		model\N5S
+1330	TOK	of		of\P
+1331	TOK	the		the\AT---6
+1332	TOK	cell		cell\N5S
+1333	TOK	cycle		cycle\N5S
+1334	TOK	is		be\V6FDRS3
+1335	TOK	upheld		uphold\VMF6A66
+---	DLD	,		=\DELIM
+1336	TOK	results		result\N5P
+1337	TOK	gathered		gather\VMC----
+1338	TOK	from		from\P
+1339	TOK	the		the\AT---6
+1340	TOK	study		study\N5S
+1341	TOK	of		of\P
+1342	TOK	yeasts		yeast\N5P
+1343	TOK	or		or\CC
+1344	TOK	clam		clam\N5S
+1345	TOK	eggs		egg\N5P
+1346	TOK	can		can\VOFDR66
+1347	TOK	be		be\VMI----
+1348	TOK	used		use\VMC----
+1349	TOK	to		to\P
+1350	TOK	understand		understand\VMI----
+1351	TOK	and		and\CC
+1352	TOK	predict		predict\VMI----
+1353	TOK	events		event\N5P
+1354	TOK	in		in\P
+1355	TOK	normal		normal\JA
+1356	TOK	human		human\JA
+1357	TOK	cells		cell\N5P
+1358	TOK	and		and\CC
+1359	TOK	in		in\P
+1360	TOK	mutated		mutate\VMC----
+1361	TOK	cells		cell\N5P
+1362	TOK	that		that\RW63N6
+1363	TOK	have		have\V6F6R66
+1364	TOK	become		become\VMC----
+1365	TOK	cancerous		cancerous\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1366	TOK	As	BOS	as\P
+1367	TOK	a		a\AI---S
+1368	TOK	result		result\N5S
+---	DLD	,		=\DELIM
+1369	TOK	discoveries		discovery\N5P
+1370	TOK	in		in\P
+1371	TOK	cell		cell\N5S
+1372	TOK	cycle		cycle\N5S
+1373	TOK	research		research\N5S
+1374	TOK	will		will\VOFDR66
+1375	TOK	probably		probably\DGA7
+1376	TOK	continue		continue\VMI----
+1377	TOK	to		to\P
+1378	TOK	be		be\VMI----
+1379	TOK	fast		fast\DGA7
+---	DLI	-		=\DELIM
+1380	TOK	moving		moving\JA
+1381	TOK	and		and\CC
+1382	TOK	spectacular		spectacular\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1383	TOK	The	BOS	the\AT---6
+1384	TOK	emerging		emerging\JA
+1385	TOK	picture		picture\N5S
+1386	TOK	indicates		indicate\VMFDRS3
+1387	TOK	that		that\CS
+1388	TOK	the		the\AT---6
+1389	TOK	cell		cell\N5S
+1390	TOK	cycle		cycle\N5S
+1391	TOK	is		be\V6FDRS3
+1392	TOK	regulated		regulate\VMC----
+1393	TOK	at		at\P
+1394	TOK	the		the\AT---6
+##	TAG	<na type="function">
+1395	TOK	G2/M		noanat\W
+##	TAG	</na>
+1396	TOK	transition		transition\N5S
+1397	TOK	and		and\CC
+1398	TOK	at		at\P
+1399	TOK	a		a\AI---S
+1400	TOK	point		point\N5S
+1401	TOK	within		within\P
+##	TAG	<name>
+1402	TOK	G1		G1\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1403	TOK	Events	BOS	event\N5P
+1404	TOK	at		at\P
+1405	TOK	the		the\AT---6
+##	TAG	<name>
+1406	TOK	G2tM		G2tM\N46
+##	TAG	</name>
+1407	TOK	transition		transition\N5S
+1408	TOK	have		have\V6F6R66
+1409	TOK	been		be\VMC----
+1410	TOK	well		well\DGA7
+1411	TOK	documented		document\VMF6A66
+---	DLD	,		=\DELIM
+1412	TOK	but		but\CC
+1413	TOK	the		the\AT---6
+1414	TOK	regulatory		regulatory\JA
+1415	TOK	point		point\N5S
+1416	TOK	within		within\P
+1417	TOK	late		late\JA
+##	TAG	<name>
+1418	TOK	G1		G1\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1419	TOK	several		several\JA
+1420	TOK	hours		hour\N5P
+1421	TOK	before		before\P
+1422	TOK	the		the\AT---6
+1423	TOK	initiation		initiation\N5S
+1424	TOK	of		of\P
+1425	TOK	S		s\N5S
+1426	TOK	phase		phase\N5S
+---	DLD	,		=\DELIM
+1427	TOK	is		be\V6FDRS3
+1428	TOK	not		not\DGA7
+1429	TOK	yet		yet\DGA7
+1430	TOK	well		well\DGA7
+1431	TOK	characterized		characterize\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1432	TOK	At	BOS	at\P
+1433	TOK	each		each\RIS3N-
+1434	TOK	of		of\P
+1435	TOK	these		this\AD---P
+1436	TOK	points		point\N5P
+---	DLD	,		=\DELIM
+1437	TOK	a		a\AI---S
+1438	TOK	decision		decision\N5S
+1439	TOK	is		be\V6FDRS3
+1440	TOK	made		make\VMC----
+1441	TOK	to		to\P
+1442	TOK	proceed		proceed\VMI----
+1443	TOK	or		or\CC
+1444	TOK	halt		halt\VMI----
+1445	TOK	progression		progression\N5S
+1446	TOK	through		through\P
+1447	TOK	the		the\AT---6
+1448	TOK	cell		cell\N5S
+1449	TOK	cycle		cycle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1450	TOK	This	BOS	this\AD---S
+1451	TOK	decision		decision\N5S
+1452	TOK	is		be\V6FDRS3
+1453	TOK	controlled		control\VMC----
+1454	TOK	through		through\P
+1455	TOK	the		the\AT---6
+1456	TOK	interaction		interaction\N5S
+1457	TOK	of		of\P
+##	TAG	<num>
+1458	TOK	two		two\X
+##	TAG	</num>
+1459	TOK	classes		class\N5P
+1460	TOK	of		of\P
+1461	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1462	TOK	One	BOS	one\RIS3N-
+1463	TOK	is		be\V6FDRS3
+1464	TOK	a		a\AI---S
+1465	TOK	group		group\N5S
+1466	TOK	of		of\P
+1467	TOK	enzymes		enzyme\N5P
+1468	TOK	called		call\VMC----
+1469	TOK	protein		protein\N5S
+1470	TOK	kinases		kinase\N5P
+1471	TOK	that		that\RW63N6
+1472	TOK	selectively		selectively\DGA7
+1473	TOK	phosphorylate		phosphorylate\VMF6R66
+1474	TOK	target		target\N5S
+1475	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1476	TOK	Although	BOS	although\CS
+1477	TOK	a		a\AI---S
+1478	TOK	large		large\JA
+1479	TOK	number		number\N5S
+1480	TOK	of		of\P
+1481	TOK	different		different\JA
+1482	TOK	protein		protein\N5S
+1483	TOK	kinases		kinase\N5P
+1484	TOK	exist		exist\VMF6R66
+1485	TOK	in		in\P
+1486	TOK	the		the\AT---6
+1487	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+1488	TOK	only		only\DGA7
+##	TAG	<loc pos="RP63N-">
+1489	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+1490	TOK	are		be\V6FDR66
+1491	TOK	involved		involve\VMC----
+1492	TOK	in		in\P
+1493	TOK	regulation		regulation\N5S
+1494	TOK	of		of\P
+1495	TOK	the		the\AT---6
+1496	TOK	cell		cell\N5S
+1497	TOK	cycle		cycle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1498	TOK	In	BOS	in\P
+1499	TOK	the		the\AT---6
+1500	TOK	second		second\MOS
+1501	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+1502	TOK	proteins		protein\N5P
+1503	TOK	involved		involve\VMC----
+1504	TOK	in		in\P
+1505	TOK	controlling		control\VMG----
+1506	TOK	progression		progression\N5S
+1507	TOK	through		through\P
+1508	TOK	the		the\AT---6
+1509	TOK	cell		cell\N5S
+1510	TOK	cycle		cycle\N5S
+1511	TOK	are		be\V6FDR66
+1512	TOK	called		call\VMC----
+1513	TOK	cyclins		cyclin\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1514	TOK	These	BOS	this\AD---P
+1515	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+1516	TOK	first		first\MOS
+1517	TOK	identified		identify\VMC----
+1518	TOK	in		in\P
+1519	TOK	the		the\AT---6
+1520	TOK	embryos		embryo\N5P
+1521	TOK	of		of\P
+1522	TOK	developing		developing\JA
+1523	TOK	invertebrates		invertebrate\N5P
+---	DLD	,		=\DELIM
+1524	TOK	are		be\V6FDR66
+1525	TOK	synthesized		synthesize\VMC----
+1526	TOK	and		and\CC
+1527	TOK	degraded		degrade\VMC----
+1528	TOK	in		in\P
+1529	TOK	a		a\AI---S
+1530	TOK	synchronous		synchronous\JA
+1531	TOK	pattern		pattern\N5S
+1532	TOK	throughout		throughout\P
+1533	TOK	the		the\AT---6
+1534	TOK	cell		cell\N5S
+1535	TOK	cycle		cycle\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1536	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1537	TOK	21.2		21.2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1538	TOK	Several	BOS	several\JA
+1539	TOK	cyclins		cyclin\N5P
+---	DLD	,		=\DELIM
+1540	TOK	including		including\P
+1541	TOK	C		C\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1542	TOK	D1		D1\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1543	TOK	D2		D2\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1544	TOK	and		and\CC
+1545	TOK	E		E\N5P
+---	DLD	,		=\DELIM
+1546	TOK	accumulate		accumulate\VMF6R66
+1547	TOK	during		during\P
+1548	TOK	the		the\AT---6
+##	TAG	<name>
+1549	TOK	G1		G1\N46
+##	TAG	</name>
+1550	TOK	phase		phase\N5S
+---	DLD	,		=\DELIM
+1551	TOK	with		with\P
+1552	TOK	only		only\JA
+##	TAG	<name>
+1553	TOK	D1		D1\N46
+##	TAG	</name>
+1554	TOK	persisting		persist\VMG----
+1555	TOK	after		after\P
+1556	TOK	the		the\AT---6
+1557	TOK	S		s\N5S
+1558	TOK	phase		phase\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1559	TOK	Cyclin	BOS	cyclin\N5S
+1560	TOK	A		a\N5S
+1561	TOK	accumulates		accumulate\VMFDRS3
+1562	TOK	during		during\P
+1563	TOK	late		late\JA
+1564	TOK	S		S\N5P
+1565	TOK	and		and\CC
+1566	TOK	persists		persist\VMFDRS3
+1567	TOK	until		until\CS
+1568	TOK	the		the\AT---6
+##	TAG	<na type="function">
+1569	TOK	G2/M		noanat\W
+##	TAG	</na>
+1570	TOK	transition		transition\N5S
+---	DLD	;		=\DELIM
+1571	TOK	cyclin		cyclin\N5S
+1572	TOK	B		b\N5S
+1573	TOK	accumulates		accumulate\VMFDRS3
+1574	TOK	during		during\P
+##	TAG	<name>
+1575	TOK	G2		G2\N46
+##	TAG	</name>
+1576	TOK	and		and\CC
+1577	TOK	persists		persist\VMFDRS3
+1578	TOK	until		until\CS
+1579	TOK	the		the\AT---6
+1580	TOK	end		end\N5S
+1581	TOK	of		of\P
+1582	TOK	M		M\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1583	TOK	Coupling	BOS	coupling\N5S
+1584	TOK	of		of\P
+1585	TOK	a		a\AI---S
+1586	TOK	kinase		kinase\N5S
+1587	TOK	and		and\CC
+1588	TOK	a		a\AI---S
+1589	TOK	cyclin		cyclin\N5S
+1590	TOK	produces		produce\VMFDRS3
+1591	TOK	a		a\AI---S
+1592	TOK	regulatory		regulatory\JA
+1593	TOK	molecule		molecule\N5S
+1594	TOK	that		that\RW63N6
+1595	TOK	controls		control\VMFDRS3
+1596	TOK	the		the\AT---6
+1597	TOK	movement		movement\N5S
+1598	TOK	of		of\P
+1599	TOK	the		the\AT---6
+1600	TOK	cell		cell\N5S
+1601	TOK	from		from\P
+##	TAG	<name>
+1602	TOK	G2		G2\N46
+##	TAG	</name>
+1603	TOK	into		into\P
+1604	TOK	M		M\N5P
+1605	TOK	and		and\CC
+1606	TOK	from		from\P
+##	TAG	<name>
+1607	TOK	G1		G1\N46
+##	TAG	</name>
+1608	TOK	into		into\P
+1609	TOK	S		S\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1610	TOK	The	BOS	the\AT---6
+1611	TOK	onset		onset\N5S
+1612	TOK	of		of\P
+1613	TOK	M		M\N5P
+1614	TOK	in		in\P
+1615	TOK	most		most\AG---6
+1616	TOK	enkaryotic		enkaryotic\JA
+1617	TOK	cells		cell\N5P
+1618	TOK	is		be\V6FDRS3
+1619	TOK	controlled		control\VMC----
+1620	TOK	by		by\P
+1621	TOK	a		a\AI---S
+1622	TOK	kinase		kinase\N5S
+1623	TOK	called		call\VMF6A66
+##	TAG	<name>
+1624	TOK	CDK1		CDK1\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+1625	TOK	cyclin		cyclin\N5S
+---	DLI	-		=\DELIM
+1626	TOK	dependent		dependent\JA
+1627	TOK	kinase		kinase\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1628	TOK	which		which\RW63N-
+1629	TOK	was		be\V6F-A66
+1630	TOK	biochemically		biochemically\DGA7
+1631	TOK	characterized		characterize\VMC----
+1632	TOK	in		in\P
+1633	TOK	maturing		mature\VMG----
+1634	TOK	amphibian		amphibian\JA
+1635	TOK	eggs		egg\N5P
+1636	TOK	and		and\CC
+1637	TOK	genetically		genetically\DGA7
+1638	TOK	identified		identify\VMC----
+1639	TOK	in		in\P
+1640	TOK	yeast		yeast\N5S
+1641	TOK	as		as\P
+1642	TOK	the		the\AT---6
+1643	TOK	product		product\N5S
+1644	TOK	of		of\P
+1645	TOK	the		the\AT---6
+1646	TOK	cdc2		cdc2\N5S
+1647	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1648	TOK	This	BOS	this\AD---S
+1649	TOK	protein		protein\N5S
+1650	TOK	has		have\V6FDRS3
+1651	TOK	a		a\AI---S
+1652	TOK	highly		highly\DGA7
+1653	TOK	conserved		conserve\VMC----
+1654	TOK	sequence		sequence\N5S
+1655	TOK	in		in\P
+1656	TOK	all		all\AG---6
+1657	TOK	enkaryotes		enkaryotes\N5P
+1658	TOK	examined		examine\VMF6A66
+---	DLD	;		=\DELIM
+1659	TOK	its		its\APS3N6
+1660	TOK	function		function\N5S
+1661	TOK	is		be\V6FDRS3
+1662	TOK	necessary		necessary\JA
+1663	TOK	for		for\P
+1664	TOK	entry		entry\N5S
+1665	TOK	into		into\P
+1666	TOK	M		m\N5S
+1667	TOK	phase		phase\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1668	TOK	Several	BOS	several\JA
+1669	TOK	events		event\N5P
+1670	TOK	mark		mark\VMF6R66
+1671	TOK	the		the\AT---6
+1672	TOK	entry		entry\N5S
+1673	TOK	from		from\P
+##	TAG	<name>
+1674	TOK	G2		G2\N46
+##	TAG	</name>
+1675	TOK	into		into\P
+1676	TOK	mitosis		mitosis\N5S
+---	DLE	(		=\DELIM
+1677	TOK	M		M\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+1678	TOK	including		including\P
+1679	TOK	condensation		condensation\N5S
+1680	TOK	of		of\P
+1681	TOK	the		the\AT---6
+1682	TOK	chromatin		chromatin\N5S
+1683	TOK	to		to\P
+1684	TOK	form		form\N5S
+1685	TOK	chromosomes		chromosome\N5P
+---	DLD	,		=\DELIM
+1686	TOK	breakdown		breakdown\N5S
+1687	TOK	of		of\P
+1688	TOK	the		the\AT---6
+1689	TOK	nuclear		nuclear\JA
+1690	TOK	membrane		membrane\N5S
+---	DLD	,		=\DELIM
+1691	TOK	and		and\CC
+1692	TOK	reorganization		reorganization\N5S
+1693	TOK	of		of\P
+1694	TOK	the		the\AT---6
+1695	TOK	cytoskeleton		cytoskeleton\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1696	TOK	Major	BOS	major\JA
+1697	TOK	events		event\N5P
+1698	TOK	in		in\P
+1699	TOK	this		this\AD---S
+1700	TOK	transition		transition\N5S
+1701	TOK	are		be\V6FDR66
+1702	TOK	regulated		regulate\VMC----
+1703	TOK	by		by\P
+1704	TOK	the		the\AT---6
+1705	TOK	formation		formation\N5S
+1706	TOK	of		of\P
+1707	TOK	an		an\AI---S
+1708	TOK	active		active\JA
+##	TAG	<name>
+1709	TOK	CDKl/cyclin B		CDKl/cyclin_B\N46
+##	TAG	</name>
+1710	TOK	complex		complex\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1711	TOK	When	BOS	when\CS
+1712	TOK	bound		bind\VMC----
+1713	TOK	to		to\P
+1714	TOK	cyclin		cyclin\N5S
+1715	TOK	B		B\N5P
+---	DLD	,		=\DELIM
+1716	TOK	the		the\AT---6
+##	TAG	<name>
+1717	TOK	CDK1		CDK1\N46
+##	TAG	</name>
+1718	TOK	component		component\N5S
+1719	TOK	catalyzes		catalyze\VMFDRS3
+1720	TOK	phosphorylation		phosphorylation\N5S
+---	DLD	,		=\DELIM
+1721	TOK	which		which\RW63N-
+1722	TOK	brings		bring\VMFDRS3
+1723	TOK	about		about\P
+1724	TOK	nuclear		nuclear\JA
+1725	TOK	membrane		membrane\N5S
+1726	TOK	breakdown		breakdown\N5S
+1727	TOK	and		and\CC
+1728	TOK	rearrangement		rearrangement\N5S
+1729	TOK	of		of\P
+1730	TOK	the		the\AT---6
+1731	TOK	cytoskeleton		cytoskeleton\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1732	TOK	It	BOS	it\RPS3N6
+1733	TOK	also		also\DGA7
+1734	TOK	phosphorylates		phosphorylate\VMFDRS3
+1735	TOK	histone		histone\N5S
+##	TAG	<name>
+1736	TOK	H1		H1\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1737	TOK	which		which\RW63N-
+1738	TOK	may		may\VOFDR66
+1739	TOK	play		play\VMI----
+1740	TOK	a		a\AI---S
+1741	TOK	role		role\N5S
+1742	TOK	in		in\P
+1743	TOK	chromatin		chromatin\N5S
+1744	TOK	condensation		condensation\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1745	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+1746	TOK	21.3		21.3\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1748	TOK	The	BOS	the\AT---6
+1749	TOK	function		function\N5S
+1750	TOK	of		of\P
+1751	TOK	cyclin		cyclin\N5S
+1752	TOK	B		B\N5P
+1753	TOK	in		in\P
+1754	TOK	this		this\AD---S
+1755	TOK	complex		complex\N5S
+1756	TOK	is		be\V6FDRS3
+1757	TOK	not		not\DGA7
+1758	TOK	clear		clear\JA
+---	DLD	,		=\DELIM
+1759	TOK	but		but\CC
+1760	TOK	it		it\RPS3N6
+1761	TOK	may		may\VOFDR66
+1762	TOK	control		control\VMI----
+1763	TOK	the		the\AT---6
+1764	TOK	cellular		cellular\JA
+1765	TOK	localization		localization\N5S
+1766	TOK	or		or\CC
+1767	TOK	target		target\N5S
+1768	TOK	molecule		molecule\N5S
+1769	TOK	specificity		specificity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1770	TOK	Although	BOS	although\CS
+1771	TOK	several		several\JA
+1772	TOK	lines		line\N5P
+1773	TOK	of		of\P
+1774	TOK	experiments		experiment\N5P
+1775	TOK	suggest		suggest\VMF6R66
+1776	TOK	that		that\CS
+1777	TOK	cyclin		cyclin\N5S
+1778	TOK	A		a\N5S
+1779	TOK	is		be\V6FDRS3
+1780	TOK	also		also\DGA7
+1781	TOK	involved		involve\VMC----
+1782	TOK	in		in\P
+1783	TOK	the		the\AT---6
+1784	TOK	progression		progression\N5S
+1785	TOK	from		from\P
+##	TAG	<name>
+1786	TOK	G2		G2\N46
+##	TAG	</name>
+1787	TOK	to		to\P
+1788	TOK	M		M\N5P
+---	DLD	,		=\DELIM
+1789	TOK	its		its\APS3N6
+1790	TOK	functions		function\N5P
+1791	TOK	are		be\V6FDR66
+1792	TOK	not		not\DGA7
+1793	TOK	clearly		clearly\DGA7
+1794	TOK	understood		understand\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1795	TOK	While	BOS	while\CS
+1796	TOK	the		the\AT---6
+1797	TOK	action		action\N5S
+1798	TOK	of		of\P
+1799	TOK	the		the\AT---6
+1800	TOK	B		b\N5S
+1801	TOK	cyclin		cyclin\N5S
+1802	TOK	and		and\CC
+##	TAG	<name>
+1803	TOK	CDK1		CDK1\N46
+##	TAG	</name>
+1804	TOK	are		be\V6FDR66
+1805	TOK	responsible		responsible\JA
+1806	TOK	for		for\P
+1807	TOK	passage		passage\N5S
+1808	TOK	into		into\P
+1809	TOK	M		M\N5P
+---	DLD	,		=\DELIM
+1810	TOK	it		it\RPS3N6
+1811	TOK	appears		appear\VMFDRS3
+1812	TOK	that		that\CS
+1813	TOK	several		several\JA
+1814	TOK	cyclins		cyclin\N5P
+---	DLD	,		=\DELIM
+1815	TOK	including		including\P
+1816	TOK	D		D\N5P
+1817	TOK	and		and\CC
+1818	TOK	E		E\N5P
+---	DLD	,		=\DELIM
+1819	TOK	can		can\VOFDR66
+1820	TOK	move		move\VMI----
+1821	TOK	cells		cell\N5P
+1822	TOK	from		from\P
+##	TAG	<name>
+1823	TOK	G1		G1\N46
+##	TAG	</name>
+1824	TOK	into		into\P
+1825	TOK	S		S\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1826	TOK	Experiments	BOS	experiment\N5P
+1827	TOK	indicate		indicate\VMF6R66
+1828	TOK	that		that\CS
+1829	TOK	the		the\AT---6
+##	TAG	<name>
+1830	TOK	CDK1		CDK1\N46
+##	TAG	</name>
+1831	TOK	kinase		kinase\N5S
+1832	TOK	is		be\V6FDRS3
+1833	TOK	also		also\DGA7
+1834	TOK	active		active\JA
+1835	TOK	in		in\P
+1836	TOK	phosphorylation		phosphorylation\N5S
+1837	TOK	in		in\P
+##	TAG	<name>
+1838	TOK	G1		G1\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1839	TOK	but		but\CC
+1840	TOK	that		that\CS
+##	TAG	<loc pos="CS">
+1841	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+1842	TOK	combining		combine\VMG----
+1843	TOK	with		with\P
+1844	TOK	cyclin		cyclin\N5S
+1845	TOK	B		B\N5P
+---	DLE	(		=\DELIM
+1846	TOK	which		which\RW63N-
+1847	TOK	is		be\V6FDRS3
+1848	TOK	not		not\DGA7
+1849	TOK	present		present\JA
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1850	TOK	CDK1		CDK1\N46
+##	TAG	</name>
+1851	TOK	combines		combine\VMFDRS3
+1852	TOK	with		with\P
+##	TAG	<name>
+1853	TOK	G1		G1\N46
+##	TAG	</name>
+1854	TOK	cyclins		cyclin\N5P
+---	DLD	,		=\DELIM
+1855	TOK	directing		direct\VMG----
+1856	TOK	the		the\AT---6
+1857	TOK	phosphorylation		phosphorylation\N5S
+1858	TOK	of		of\P
+##	TAG	<name>
+1859	TOK	G1		G1\N46
+##	TAG	</name>
+1860	TOK	stage		stage\VMF6R66
+---	DLI	-		=\DELIM
+1861	TOK	specific		specific\JA
+1862	TOK	protein		protein\N5S
+1863	TOK	substrates		substrate\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1864	TOK	Altogether	BOS	altogether\DGA7
+---	DLD	,		=\DELIM
+1865	TOK	almost		almost\DGA7
+1866	TOK	a		a\AI---S
+1867	TOK	dozen		dozen\N56
+1868	TOK	different		different\JA
+1869	TOK	cyclins		cyclin\N5P
+1870	TOK	have		have\V6F6R66
+1871	TOK	been		be\VMC----
+1872	TOK	identified		identify\VMC----
+---	DLD	,		=\DELIM
+1873	TOK	and		and\CC
+1874	TOK	a		a\AI---S
+1875	TOK	growing		growing\JA
+1876	TOK	number		number\N5S
+1877	TOK	of		of\P
+1878	TOK	cyclin		cyclin\N5S
+---	DLI	-		=\DELIM
+1879	TOK	dependent		dependent\JA
+1880	TOK	kinases		kinase\N5P
+1881	TOK	are		be\V6FDR66
+1882	TOK	being		be\VMG----
+1883	TOK	described		describe\VMF6A66
+---	DLD	,		=\DELIM
+1884	TOK	indicating		indicate\VMG----
+1885	TOK	that		that\CS
+1886	TOK	multiple		multiple\JA
+1887	TOK	control		control\N5S
+1888	TOK	points		point\N5P
+1889	TOK	in		in\P
+1890	TOK	the		the\AT---6
+1891	TOK	cell		cell\N5S
+1892	TOK	cycle		cycle\N5S
+1893	TOK	exist		exist\VMF6R66
+---	DLD	,		=\DELIM
+1894	TOK	or		or\CC
+1895	TOK	that		that\CS
+1896	TOK	these		this\AD---P
+1897	TOK	kinases		kinase\N5P
+1898	TOK	and		and\CC
+1899	TOK	cyclins		cyclin\N5P
+1900	TOK	have		have\V6F6R66
+1901	TOK	multiple		multiple\JA
+1902	TOK	functions		function\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+1903	TOK	Cell-Cycle Regulation	BOS	Cell-Cycle_Regulation\N46
+##	TAG	</name>
+1904	TOK	and		and\CC
+##	TAG	<name>
+1905	TOK	Cancer	EOS	Cancer\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1907	TOK	Mutations	BOS	mutation\N5P
+1908	TOK	that		that\RW63N6
+1909	TOK	disrupt		disrupt\VMF6R66
+1910	TOK	any		any\AG---6
+1911	TOK	step		step\N5S
+1912	TOK	in		in\P
+1913	TOK	cell		cell\N5S
+1914	TOK	cycle		cycle\N5S
+1915	TOK	regulation		regulation\N5S
+1916	TOK	are		be\V6FDR66
+1917	TOK	candidates		candidate\N5P
+1918	TOK	for		for\P
+1919	TOK	the		the\AT---6
+1920	TOK	study		study\N5S
+1921	TOK	of		of\P
+1922	TOK	cancer		cancer\N5S
+---	DLI	-		=\DELIM
+1923	TOK	causing		cause\VMG----
+1924	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1925	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1926	TOK	mutations		mutation\N5P
+1927	TOK	in		in\P
+1928	TOK	genes		gene\N5P
+1929	TOK	that		that\RW63N6
+1930	TOK	encode		encode\VMF6R66
+1931	TOK	the		the\AT---6
+1932	TOK	kinases		kinase\N5P
+1933	TOK	and		and\CC
+1934	TOK	cyclins		cyclin\N5P
+1935	TOK	may		may\VOFDR66
+1936	TOK	be		be\VMI----
+1937	TOK	important		important\JA
+1938	TOK	in		in\P
+1939	TOK	generating		generate\VMG----
+1940	TOK	malignant		malignant\JA
+1941	TOK	transformation		transformation\N5S
+1942	TOK	in		in\P
+1943	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1944	TOK	Evidence	BOS	evidence\N5S
+1945	TOK	is		be\V6FDRS3
+1946	TOK	accumulating		accumulate\VMG----
+1947	TOK	that		that\CS
+1948	TOK	the		the\AT---6
+##	TAG	<name>
+1949	TOK	Gl		Gl\N46
+##	TAG	</name>
+1950	TOK	checkpoint		checkpoint\N5S
+1951	TOK	is		be\V6FDRS3
+1952	TOK	aberrant		aberrant\JA
+1953	TOK	in		in\P
+1954	TOK	many		many\AI---P
+1955	TOK	forms		form\N5P
+1956	TOK	of		of\P
+1957	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+1958	TOK	and		and\CC
+1959	TOK	mutant		mutant\N5S
+##	TAG	<name>
+1960	TOK	G1		G1\N46
+##	TAG	</name>
+1961	TOK	cyclins		cyclin\N5P
+1962	TOK	and		and\CC
+1963	TOK	kinases		kinase\N5P
+1964	TOK	are		be\V6FDR66
+1965	TOK	thought		think\VMC----
+1966	TOK	to		to\P
+1967	TOK	be		be\VMI----
+1968	TOK	the		the\AT---6
+1969	TOK	best		good\JS
+1970	TOK	candidates		candidate\N5P
+1971	TOK	for		for\P
+1972	TOK	cancer		cancer\N5S
+---	DLI	-		=\DELIM
+1973	TOK	promoting		promote\VMG----
+1974	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1975	TOK	Recently	BOS	recently\DGA7
+---	DLD	,		=\DELIM
+1976	TOK	a		a\AI---S
+1977	TOK	form		form\N5S
+1978	TOK	of		of\P
+1979	TOK	cyclin		cyclin\N5S
+1980	TOK	D		D\N5P
+1981	TOK	called		call\VMF6A66
+##	TAG	<name>
+1982	TOK	D1		D1\N46
+##	TAG	</name>
+1983	TOK	has		have\V6FDRS3
+1984	TOK	been		be\VMC----
+1985	TOK	shown		show\VMC----
+1986	TOK	to		to\P
+1987	TOK	be		be\VMI----
+1988	TOK	identical		identical\JA
+1989	TOK	to		to\P
+1990	TOK	a		a\AI---S
+1991	TOK	gene		gene\N5S
+1992	TOK	product		product\N5S
+1993	TOK	that		that\RW63N6
+1994	TOK	is		be\V6FDRS3
+1995	TOK	overexpressed		overexpressed\JA
+1996	TOK	in		in\P
+1997	TOK	certain		certain\JA
+1998	TOK	forms		form\N5P
+1999	TOK	of		of\P
+2000	TOK	leukemia		leukemia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2001	TOK	The	BOS	the\AT---6
+2002	TOK	next		next\JA
+2003	TOK	section		section\N5S
+2004	TOK	summarizes		summarize\VMFDRS3
+2005	TOK	what		what\RW63N-
+2006	TOK	is		be\V6FDRS3
+2007	TOK	known		know\VMC----
+2008	TOK	about		about\P
+2009	TOK	the		the\AT---6
+2010	TOK	genetics		genetics\N56
+2011	TOK	of		of\P
+2012	TOK	selected		select\VMC----
+2013	TOK	cancers		cancer\N5P
+2014	TOK	and		and\CC
+---	DLD	,		=\DELIM
+2015	TOK	wherever		wherever\CS
+2016	TOK	possible		possible\JA
+---	DLD	,		=\DELIM
+2017	TOK	relates		relate\VMFDRS3
+2018	TOK	this		this\RDS3N-
+2019	TOK	in		in\P
+2020	TOK	formation		formation\N5S
+2021	TOK	to		to\P
+2022	TOK	what		what\RW63N-
+2023	TOK	has		have\V6FDRS3
+2024	TOK	been		be\VMC----
+2025	TOK	discovered		discover\VMC----
+2026	TOK	about		about\P
+2027	TOK	the		the\AT---6
+2028	TOK	cell		cell\N5S
+2029	TOK	cycle		cycle\N5S
+2030	TOK	and		and\CC
+2031	TOK	its		its\APS3N6
+2032	TOK	regulation		regulation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2033	TOK	Genes	BOS	gene\N5P
+2034	TOK	and		and\CC
+2035	TOK	cancer	EOS	cancer\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2037	TOK	Genetic	BOS	genetic\JA
+2038	TOK	studies		study\N5P
+2039	TOK	of		of\P
+2040	TOK	several		several\JA
+2041	TOK	different		different\JA
+2042	TOK	cancers		cancer\N5P
+2043	TOK	have		have\V6F6R66
+2044	TOK	identified		identify\VMC----
+2045	TOK	a		a\AI---S
+2046	TOK	small		small\JA
+2047	TOK	number		number\N5S
+2048	TOK	of		of\P
+2049	TOK	genes		gene\N5P
+2050	TOK	that		that\RW63N6
+2051	TOK	must		must\VOFDR66
+2052	TOK	be		be\VMI----
+2053	TOK	mutated		mutate\VMC----
+##	TAG	<loc pos="P">
+2054	TOK	in order to		in_order_to\P
+##	TAG	</loc>
+2055	TOK	trigger		trigger\VMI----
+2056	TOK	the		the\AT---6
+2057	TOK	development		development\N5S
+2058	TOK	of		of\P
+2059	TOK	cancer		cancer\N5S
+2060	TOK	or		or\CC
+2061	TOK	maintain		maintain\VMI----
+2062	TOK	the		the\AT---6
+2063	TOK	growth		growth\N5S
+2064	TOK	of		of\P
+2065	TOK	malignant		malignant\JA
+2066	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2067	TOK	It	BOS	it\RPS3N6
+2068	TOK	is		be\V6FDRS3
+2069	TOK	clear		clear\JA
+2070	TOK	that		that\CS
+2071	TOK	the		the\AT---6
+##	TAG	<num>
+2072	TOK	two		two\X
+##	TAG	</num>
+2073	TOK	main		main\JA
+2074	TOK	properties		property\N5P
+2075	TOK	of		of\P
+2076	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+2077	TOK	uncontrolled		uncontrolled\JA
+2078	TOK	cell		cell\N5S
+2079	TOK	division		division\N5S
+2080	TOK	and		and\CC
+2081	TOK	the		the\AT---6
+2082	TOK	ability		ability\N5S
+2083	TOK	to		to\P
+2084	TOK	spread		spread\VMI----
+2085	TOK	or		or\CC
+2086	TOK	metastasize		metastasize\VMI----
+---	DLD	,		=\DELIM
+2087	TOK	are		be\V6FDR66
+2088	TOK	the		the\AT---6
+2089	TOK	result		result\N5S
+2090	TOK	of		of\P
+2091	TOK	genetic		genetic\JA
+2092	TOK	alterations		alteration\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2093	TOK	As	BOS	as\DGA7
+2094	TOK	mentioned		mention\VMC----
+2095	TOK	previously		previously\DGA7
+---	DLD	,		=\DELIM
+2096	TOK	these		this\AD---P
+2097	TOK	alterations		alteration\N5P
+2098	TOK	can		can\VOFDR66
+2099	TOK	involve		involve\VMI----
+2100	TOK	large		large\JA
+---	DLI	-		=\DELIM
+2101	TOK	scale		scale\N5S
+2102	TOK	genomic		genomic\JA
+2103	TOK	instability		instability\N5S
+---	DLD	,		=\DELIM
+2104	TOK	resulting		result\VMG----
+2105	TOK	in		in\P
+2106	TOK	chromosome		chromosome\N5S
+2107	TOK	loss		loss\N5S
+---	DLD	,		=\DELIM
+2108	TOK	rearrangement		rearrangement\N5S
+---	DLD	,		=\DELIM
+2109	TOK	or		or\CC
+2110	TOK	the		the\AT---6
+2111	TOK	insertion		insertion\N5S
+2112	TOK	of		of\P
+2113	TOK	foreign		foreign\JA
+---	DLE	(		=\DELIM
+2114	TOK	often		often\DGA7
+2115	TOK	viral		viral\JA
+---	DLD	)		=\DELIM
+##	TAG	<name>
+2116	TOK	DNA		DNA\N46
+##	TAG	</name>
+2117	TOK	sequences		sequence\N5P
+2118	TOK	into		into\P
+2119	TOK	loci		locus\N5P
+2120	TOK	on		on\P
+2121	TOK	human		human\JA
+2122	TOK	chromosomes		chromosome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2123	TOK	Smaller	BOS	small\JC
+---	DLI	-		=\DELIM
+2124	TOK	scale		scale\N5S
+2125	TOK	alterations		alteration\N5P
+---	DLD	,		=\DELIM
+2126	TOK	such		such\JA
+2127	TOK	as		as\P
+2128	TOK	changes		change\N5P
+2129	TOK	in		in\P
+2130	TOK	a		a\AI---S
+2131	TOK	nucleotide		nucleotide\N5S
+2132	TOK	sequence		sequence\N5S
+---	DLD	,		=\DELIM
+2133	TOK	or		or\CC
+2134	TOK	more		more\DDC7
+2135	TOK	subtle		subtle\JA
+2136	TOK	modifications		modification\N5P
+2137	TOK	that		that\RW63N6
+2138	TOK	alter		alter\VMF6R66
+2139	TOK	only		only\DGA7
+2140	TOK	the		the\AT---6
+2141	TOK	amount		amount\N5S
+2142	TOK	of		of\P
+2143	TOK	a		a\AI---S
+2144	TOK	gene		gene\N5S
+2145	TOK	product		product\N5S
+2146	TOK	that		that\RW63N6
+2147	TOK	is		be\V6FDRS3
+2148	TOK	present		present\JA
+2149	TOK	or		or\CC
+2150	TOK	the		the\AT---6
+2151	TOK	time		time\N5S
+2152	TOK	over		over\P
+2153	TOK	which		which\RW63N-
+2154	TOK	the		the\AT---6
+2155	TOK	gene		gene\N5S
+2156	TOK	product		product\N5S
+2157	TOK	is		be\V6FDRS3
+2158	TOK	active		active\JA
+2159	TOK	may		may\VOFDR66
+2160	TOK	also		also\DGA7
+2161	TOK	be		be\VMI----
+2162	TOK	involved		involve\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2163	TOK	Two	BOS	Two\X
+##	TAG	</num>
+2164	TOK	interrelated		interrelate\VMC----
+2165	TOK	questions		question\N5P
+2166	TOK	arise		arise\VMF6R66
+2167	TOK	from		from\P
+2168	TOK	considering		consider\VMG----
+2169	TOK	cancer		cancer\N5S
+2170	TOK	as		as\P
+2171	TOK	a		a\AI---S
+2172	TOK	genetic		genetic\JA
+2173	TOK	disorder		disorder\N5S
+2174	TOK	at		at\P
+2175	TOK	the		the\AT---6
+2176	TOK	cellular		cellular\JA
+2177	TOK	level		level\VMF6R66
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2178	TOK	1		1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2179	TOK	Are		Are\N5P
+2180	TOK	there		there\DGA7
+2181	TOK	mutant		mutant\N5S
+2182	TOK	alleles		allele\N5P
+2183	TOK	that		that\RW63N6
+2184	TOK	predispose		predispose\VMF6R66
+2185	TOK	an		an\AI---S
+2186	TOK	organism		organism\N5S
+2187	TOK	or		or\CC
+2188	TOK	specific		specific\JA
+2189	TOK	cell		cell\N5S
+2190	TOK	types		type\N5P
+2191	TOK	to		to\P
+2192	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+2193	TOK	and		and\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2194	TOK	2		2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2195	TOK	if		if\CS
+2196	TOK	so		so\DGA7
+---	DLD	,		=\DELIM
+2197	TOK	how		how\DGAW
+2198	TOK	many		many\AI---P
+2199	TOK	mutational		mutational\JA
+2200	TOK	events		event\N5P
+2201	TOK	are		be\V6FDR66
+2202	TOK	necessary		necessary\JA
+2203	TOK	to		to\P
+2204	TOK	cause		cause\VMI----
+2205	TOK	cancer		cancer\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2206	TOK	Genes	BOS	gene\N5P
+##	TAG	<name>
+2207	TOK	That Predispose		That_Predispose\N46
+##	TAG	</name>
+2208	TOK	to		to\P
+##	TAG	<name>
+2209	TOK	Cancer	EOS	Cancer\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2211	TOK	Single	BOS	single\JA
+2212	TOK	genes		gene\N5P
+2213	TOK	do		do\V6FDR66
+2214	TOK	indeed		indeed\DGA7
+2215	TOK	predispose		predispose\VMI----
+2216	TOK	cells		cell\N5P
+2217	TOK	to		to\P
+2218	TOK	becoming		become\VMG----
+2219	TOK	malignant		malignant\JA
+---	DLD	,		=\DELIM
+2220	TOK	and		and\CC
+2221	TOK	it		it\RPS3N6
+2222	TOK	is		be\V6FDRS3
+2223	TOK	possible		possible\JA
+2224	TOK	to		to\P
+2225	TOK	identify		identify\VMI----
+2226	TOK	families		family\N5P
+2227	TOK	in		in\P
+2228	TOK	which		which\RW63N-
+2229	TOK	certain		certain\JA
+2230	TOK	forms		form\N5P
+2231	TOK	of		of\P
+2232	TOK	cancer		cancer\N5S
+2233	TOK	are		be\V6FDR66
+2234	TOK	inherited		inherit\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2235	TOK	Many	BOS	many\AI---P
+2236	TOK	studies		study\N5P
+2237	TOK	have		have\V6F6R66
+2238	TOK	documented		document\VMC----
+2239	TOK	families		family\N5P
+2240	TOK	with		with\P
+2241	TOK	high		high\JA
+2242	TOK	frequencies		frequency\N5P
+2243	TOK	of		of\P
+2244	TOK	certain		certain\JA
+2245	TOK	types		type\N5P
+2246	TOK	of		of\P
+2247	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+2248	TOK	such		such\JA
+2249	TOK	as		as\P
+2250	TOK	breast		breast\N5S
+---	DLD	,		=\DELIM
+2251	TOK	colon		colon\N5S
+---	DLD	,		=\DELIM
+2252	TOK	or		or\CC
+2253	TOK	kidney		kidney\N5S
+2254	TOK	cancers		cancer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2255	TOK	In	BOS	in\P
+2256	TOK	most		most\AG---6
+2257	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+2258	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+2259	TOK	it		it\RPS3N6
+2260	TOK	is		be\V6FDRS3
+2261	TOK	difficult		difficult\JA
+2262	TOK	to		to\P
+2263	TOK	identify		identify\VMI----
+2264	TOK	a		a\AI---S
+2265	TOK	clear		clear\JA
+---	DLD	,		=\DELIM
+2266	TOK	simple		simple\JA
+2267	TOK	pattern		pattern\N5S
+2268	TOK	of		of\P
+2269	TOK	inheritance		inheritance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2270	TOK	One	BOS	one\MCS
+2271	TOK	example		example\N5S
+2272	TOK	of		of\P
+2273	TOK	such		such\JA
+2274	TOK	a		a\AI---S
+2275	TOK	predisposition		predisposition\N5S
+2276	TOK	is		be\V6FDRS3
+2277	TOK	the		the\AT---6
+2278	TOK	inheritance		inheritance\N5S
+2279	TOK	of		of\P
+2280	TOK	retinoblastoma		retinoblastoma\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2281	TOK	RB		RB\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLE	,		=\DELIM
+2282	TOK	a		a\AI---S
+2283	TOK	cancer		cancer\N5S
+2284	TOK	of		of\P
+2285	TOK	the		the\AT---6
+2286	TOK	retinal		retinal\JA
+2287	TOK	cells		cell\N5P
+2288	TOK	of		of\P
+2289	TOK	the		the\AT---6
+2290	TOK	eye		eye\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2291	TOK	Retinoblastoma	BOS	retinoblastoma\N5S
+2292	TOK	occurs		occur\VMFDRS3
+2293	TOK	with		with\P
+2294	TOK	a		a\AI---S
+2295	TOK	frequency		frequency\N5S
+2296	TOK	that		that\RW63N6
+2297	TOK	ranges		range\VMFDRS3
+2298	TOK	from		from\P
+##	TAG	<num>
+2299	TOK	1		1\X
+##	TAG	</num>
+2300	TOK	in		in\P
+##	TAG	<num>
+2301	TOK	14,000		14,000\X
+##	TAG	</num>
+2302	TOK	to		to\P
+##	TAG	<num>
+2303	TOK	1		1\X
+##	TAG	</num>
+2304	TOK	in		in\P
+##	TAG	<num>
+2305	TOK	20,000		20,000\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+2306	TOK	and		and\CC
+2307	TOK	most		most\DDS7
+2308	TOK	often		often\DGA7
+2309	TOK	appears		appear\VMFDRS3
+2310	TOK	between		between\P
+2311	TOK	the		the\AT---6
+2312	TOK	ages		age\N5P
+2313	TOK	of		of\P
+##	TAG	<num>
+2314	TOK	1		1\X
+##	TAG	</num>
+2315	TOK	and		and\CC
+##	TAG	<num>
+2316	TOK	3		3\X
+##	TAG	</num>
+2317	TOK	years		year\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+2318	TOK	Two	BOS	Two\X
+##	TAG	</num>
+2319	TOK	forms		form\N5P
+2320	TOK	of		of\P
+2321	TOK	retinoblastoma		retinoblastoma\N5S
+2322	TOK	are		be\V6FDR66
+2323	TOK	known		know\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2324	TOK	One	BOS	one\RIS3N-
+2325	TOK	is		be\V6FDRS3
+2326	TOK	a		a\AI---S
+2327	TOK	familial		familial\JA
+2328	TOK	form		form\VMF6R66
+---	DLE	(		=\DELIM
+2329	TOK	about		about\P
+##	TAG	<num>
+2330	TOK	40		40\X
+##	TAG	</num>
+2331	TOK	percent		percent\N56
+2332	TOK	of		of\P
+2333	TOK	all		all\AG---6
+2334	TOK	cases		case\N5P
+---	DLD	)		=\DELIM
+2335	TOK	inherited		inherit\VMC----
+2336	TOK	as		as\P
+2337	TOK	an		an\AI---S
+2338	TOK	autosomal		autosomal\JA
+2339	TOK	dominant		dominant\JA
+2340	TOK	trait		trait\N5S
+---	DLD	,		=\DELIM
+2341	TOK	though		though\CS
+2342	TOK	the		the\AT---6
+2343	TOK	mutation		mutation\N5S
+2344	TOK	itself		itself\RXS3N-
+2345	TOK	is		be\V6FDRS3
+2346	TOK	recessive		recessive\JA
+---	DLD	,		=\DELIM
+2347	TOK	which		which\RW63N-
+2348	TOK	will		will\VOFDR66
+2349	TOK	be		be\VMI----
+2350	TOK	explained		explain\VMC----
+2351	TOK	below		below\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2352	TOK	Because	BOS	because\CS
+2353	TOK	the		the\AT---6
+2354	TOK	trait		trait\N5S
+2355	TOK	is		be\V6FDRS3
+2356	TOK	dominant		dominant\JA
+---	DLD	,		=\DELIM
+2357	TOK	those		that\RDP3N-
+2358	TOK	who		who\RW63N-
+2359	TOK	inherit		inherit\VMF6R66
+2360	TOK	the		the\AT---6
+2361	TOK	mutant		mutant\N5S
+##	TAG	<name>
+2362	TOK	RB		RB\N46
+##	TAG	</name>
+2363	TOK	allele		allele\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2364	TOK	50		50\X
+##	TAG	</num>
+2365	TOK	percent		percent\N56
+2366	TOK	of		of\P
+2367	TOK	family		family\N5S
+2368	TOK	members		member\N5P
+---	DLD	)		=\DELIM
+2369	TOK	are		be\V6FDR66
+2370	TOK	predisposed		predispose\VMC----
+2371	TOK	to		to\P
+2372	TOK	develop		develop\VMI----
+2373	TOK	eye		eye\N5S
+2374	TOK	tumors		tumor\N5P
+---	DLD	,		=\DELIM
+2375	TOK	and		and\CC
+2376	TOK	in		in\P
+2377	TOK	fact		fact\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+2378	TOK	90		90\X
+##	TAG	</num>
+2379	TOK	percent		percent\N56
+2380	TOK	of		of\P
+2381	TOK	these		this\AD---P
+2382	TOK	individuals		individual\N5P
+2383	TOK	will		will\VOFDR66
+2384	TOK	develop		develop\VMI----
+2385	TOK	retinal		retinal\JA
+2386	TOK	tumors		tumor\N5P
+---	DLD	,		=\DELIM
+2387	TOK	usually		usually\DGA7
+2388	TOK	in		in\P
+2389	TOK	both		both\RIP3N-
+2390	TOK	eyes		eye\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2391	TOK	In	BOS	in\P
+2392	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+2393	TOK	those		that\AD---P
+2394	TOK	family		family\N5S
+2395	TOK	members		member\N5P
+2396	TOK	who		who\RW63N-
+2397	TOK	inherit		inherit\VMF6R66
+2398	TOK	the		the\AT---6
+2399	TOK	mutant		mutant\N5S
+2400	TOK	allele		allele\N5S
+2401	TOK	are		be\V6FDR66
+2402	TOK	predisposed		predispose\VMC----
+2403	TOK	to		to\P
+2404	TOK	developing		developing\JA
+2405	TOK	other		other\JA
+2406	TOK	forms		form\N5P
+2407	TOK	of		of\P
+2408	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+2409	TOK	such		such\JA
+2410	TOK	as		as\P
+2411	TOK	osteosarcoma		osteosarcoma\N5S
+---	DLD	,		=\DELIM
+2412	TOK	a		a\AI---S
+2413	TOK	bone		bone\N5S
+2414	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="CS">
+2415	TOK	even if		even_if\CS
+##	TAG	</loc>
+2416	TOK	they		they\RPP3NN
+2417	TOK	do		do\V6FDR66
+2418	TOK	not		not\DGA7
+2419	TOK	develop		develop\VMI----
+2420	TOK	retinoblastoma		retinoblastoma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2421	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+2422	TOK	21.1	EOS	21.1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2424	TOK	Dominantly	BOS	dominantly\DGA7
+##	TAG	<name>
+2425	TOK	Inherited Predispositions		Inherited_Predispositions\N46
+##	TAG	</name>
+2426	TOK	to		to\P
+##	TAG	<name>
+2427	TOK	Tumors	EOS	Tumors\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2429	TOK	Tumor	BOS	tumor\N5S
+##	TAG	<name>
+2430	TOK	Predisposition Gene		Predisposition_Gene\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2431	TOK	Chromosome	BOS	chromosome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2433	TOK	Early	BOS	early\JA
+2434	TOK	onset		onset\N5S
+2435	TOK	familial		familial\JA
+2436	TOK	breast		breast\N5S
+2437	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="17q.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2438	TOK	Familial	BOS	familial\JA
+2439	TOK	adenomatous		adenomatous\JA
+2440	TOK	polyposis		polyposis\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="5q.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2441	TOK	Familial	BOS	familial\JA
+2442	TOK	melanoma		melanoma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="9p.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2443	TOK	Gorlin	BOS	Gorlin\N46
+##	TAG	</name>
+2444	TOK	syndrome		syndrome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="9p.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2445	TOK	Heredirary	BOS	Heredirary\N46
+##	TAG	</name>
+2446	TOK	nonpolyposis		nonpolyposis\JA
+2447	TOK	colon		colon\N5S
+2448	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="2p.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2449	TOK	Li-Fraumeni	BOS	Li-Fraumeni\N46
+##	TAG	</name>
+2450	TOK	syndrome		syndrome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="17p.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2451	TOK	Multiple	BOS	multiple\JA
+2452	TOK	endocrine		endocrine\N5S
+2453	TOK	neoplasia		neoplasia\N5S
+---	DLD	,		=\DELIM
+2454	TOK	type		type\N5S
+##	TAG	<num>
+2455	TOK	1		1\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="11q.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2456	TOK	Multiple	BOS	multiple\JA
+2457	TOK	endocrine		endocrine\N5S
+2458	TOK	neoplasia		neoplasia\N5S
+---	DLD	,		=\DELIM
+2459	TOK	type		type\N5S
+##	TAG	<num>
+2460	TOK	2		2\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="22q.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2461	TOK	Neurofibromatous	BOS	Neurofibromatous\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2462	TOK	type		type\N5S
+##	TAG	<num>
+2463	TOK	1		1\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="17q.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2464	TOK	Neurofibromatous	BOS	Neurofibromatous\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2465	TOK	type		type\N5S
+##	TAG	<num>
+2466	TOK	2		2\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="22q.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2467	TOK	Retinoblastoma	BOS	retinoblastoma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="13q.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2468	TOK	von	BOS	von\N5S
+##	TAG	<name>
+2469	TOK	Hippel-Lindau		Hippel-Lindau\N46
+##	TAG	</name>
+2470	TOK	syndrome		syndrome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="3p.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2471	TOK	Wilms	BOS	Wilms\N46
+##	TAG	</name>
+##	TAG	<abbr>
+2472	TOK	tumor.		tumor.\N5S
+##	TAG	</abbr>
+2473	TOK	llp		llp\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2474	TOK	A	BOS	a\AI---S
+2475	TOK	second		second\MOS
+2476	TOK	form		form\N5S
+2477	TOK	of		of\P
+2478	TOK	retinoblastoma		retinoblastoma\N5S
+2479	TOK	is		be\V6FDRS3
+2480	TOK	also		also\DGA7
+2481	TOK	known		know\VMC----
+---	DLD	,		=\DELIM
+2482	TOK	amounting		amount\VMG----
+2483	TOK	to		to\P
+##	TAG	<num>
+2484	TOK	60		60\X
+##	TAG	</num>
+2485	TOK	percent		percent\N56
+2486	TOK	of		of\P
+2487	TOK	all		all\AG---6
+2488	TOK	cases		case\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2489	TOK	This	BOS	this\AD---S
+2490	TOK	form		form\N5S
+2491	TOK	is		be\V6FDRS3
+2492	TOK	not		not\DGA7
+2493	TOK	familial		familial\JA
+---	DLD	,		=\DELIM
+2494	TOK	and		and\CC
+2495	TOK	tumors		tumor\N5P
+2496	TOK	develop		develop\VMF6R66
+2497	TOK	spontaneously		spontaneously\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2498	TOK	The	BOS	the\AT---6
+2499	TOK	sporadic		sporadic\JA
+2500	TOK	form		form\N5S
+2501	TOK	is		be\V6FDRS3
+2502	TOK	characterized		characterize\VMC----
+2503	TOK	by		by\P
+2504	TOK	the		the\AT---6
+2505	TOK	appearance		appearance\N5S
+2506	TOK	of		of\P
+2507	TOK	tumors		tumor\N5P
+2508	TOK	only		only\DGA7
+2509	TOK	in		in\P
+2510	TOK	one		one\MCS
+2511	TOK	eye		eye\N5S
+---	DLD	,		=\DELIM
+2512	TOK	and		and\CC
+2513	TOK	onset		onset\N5S
+2514	TOK	occurs		occur\VMFDRS3
+2515	TOK	at		at\P
+2516	TOK	a		a\AI---S
+2517	TOK	much		much\DGA7
+2518	TOK	later		late\JC
+2519	TOK	age		age\N5S
+2520	TOK	than		than\CS
+2521	TOK	in		in\P
+2522	TOK	the		the\AT---6
+2523	TOK	familial		familial\JA
+2524	TOK	form		form\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2525	TOK	Other	BOS	other\JA
+2526	TOK	types		type\N5P
+2527	TOK	of		of\P
+2528	TOK	dominantly		dominantly\DGA7
+2529	TOK	inherited		inherit\VMC----
+2530	TOK	familial		familial\JA
+2531	TOK	cancer		cancer\N5S
+2532	TOK	are		be\V6FDR66
+2533	TOK	also		also\DGA7
+2534	TOK	known		know\VMC----
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2535	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+2536	TOK	21.1		21.1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2538	TOK	These	BOS	this\AD---P
+2539	TOK	include		include\VMF6R66
+##	TAG	<name>
+2540	TOK	Wilms		Wilms\N46
+##	TAG	</name>
+2541	TOK	tumor		tumor\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2542	TOK	WT		WT\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLE	,		=\DELIM
+2543	TOK	a		a\AI---S
+2544	TOK	cancer		cancer\N5S
+2545	TOK	of		of\P
+2546	TOK	the		the\AT---6
+2547	TOK	kidney		kidney\N5S
+2548	TOK	inherited		inherit\VMC----
+2549	TOK	as		as\P
+2550	TOK	an		an\AI---S
+2551	TOK	autosomal		autosomal\JA
+2552	TOK	dominant		dominant\JA
+2553	TOK	condition		condition\N5S
+---	DLD	,		=\DELIM
+2554	TOK	and		and\CC
+##	TAG	<name>
+2555	TOK	Li-Fraumeni		Li-Fraumeni\N46
+##	TAG	</name>
+2556	TOK	syndrome		syndrome\N5S
+---	DLE	,		=\DELIM
+2557	TOK	a		a\AI---S
+2558	TOK	rare		rare\JA
+2559	TOK	autosomal		autosomal\JA
+2560	TOK	dominant		dominant\JA
+2561	TOK	condition		condition\N5S
+2562	TOK	that		that\RW63N6
+2563	TOK	predisposes		predispose\VMFDRS3
+2564	TOK	to		to\P
+2565	TOK	a		a\AI---S
+2566	TOK	number		number\N5S
+2567	TOK	of		of\P
+2568	TOK	different		different\JA
+2569	TOK	cancers		cancer\N5P
+---	DLD	,		=\DELIM
+2570	TOK	including		including\P
+2571	TOK	breast		breast\N5S
+2572	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2573	TOK	How	BOS	how\DGAW
+##	TAG	<name>
+2574	TOK	Many Mutations Are Needed		Many_Mutations_Are_Needed\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2576	TOK	The	BOS	the\AT---6
+2577	TOK	study		study\N5S
+2578	TOK	of		of\P
+2579	TOK	genes		gene\N5P
+2580	TOK	that		that\RW63N6
+2581	TOK	predispose		predispose\VMF6R66
+2582	TOK	an		an\AI---S
+2583	TOK	individual		individual\N5S
+2584	TOK	to		to\P
+2585	TOK	cancer		cancer\N5S
+2586	TOK	has		have\V6FDRS3
+2587	TOK	allowed		allow\VMC----
+2588	TOK	scientists		scientist\N5P
+2589	TOK	to		to\P
+2590	TOK	estimate		estimate\VMI----
+2591	TOK	the		the\AT---6
+2592	TOK	number		number\N5S
+2593	TOK	and		and\CC
+2594	TOK	sequence		sequence\N5S
+2595	TOK	of		of\P
+2596	TOK	mutational		mutational\JA
+2597	TOK	events		event\N5P
+2598	TOK	necessary		necessary\JA
+2599	TOK	to		to\P
+2600	TOK	trigger		trigger\VMI----
+2601	TOK	different		different\JA
+2602	TOK	forms		form\N5P
+2603	TOK	of		of\P
+2604	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2605	TOK	By	BOS	by\P
+2606	TOK	studying		study\VMG----
+2607	TOK	the		the\AT---6
+##	TAG	<num>
+2608	TOK	two		two\X
+##	TAG	</num>
+2609	TOK	different		different\JA
+2610	TOK	types		type\N5P
+2611	TOK	of		of\P
+2612	TOK	retinoblastoma		retinoblastoma\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2613	TOK	Alfred Knudson		Alfred_Knudson\N46
+##	TAG	</name>
+2614	TOK	and		and\CC
+2615	TOK	his		his\APS3M6
+2616	TOK	colleagues		colleague\N5P
+2617	TOK	developed		develop\VMF6A66
+2618	TOK	a		a\AI---S
+2619	TOK	model		model\N5S
+2620	TOK	that		that\RW63N6
+2621	TOK	requires		require\VMFDRS3
+2622	TOK	the		the\AT---6
+2623	TOK	presence		presence\N5S
+2624	TOK	of		of\P
+##	TAG	<num>
+2625	TOK	two		two\X
+##	TAG	</num>
+2626	TOK	mutated		mutate\VMF6A66
+2627	TOK	copies		copy\N5P
+2628	TOK	of		of\P
+2629	TOK	the		the\AT---6
+##	TAG	<name>
+2630	TOK	RB		RB\N46
+##	TAG	</name>
+2631	TOK	gene		gene\N5S
+2632	TOK	in		in\P
+2633	TOK	the		the\AT---6
+2634	TOK	same		same\JA
+2635	TOK	retinal		retinal\JA
+2636	TOK	cell		cell\N5S
+2637	TOK	for		for\P
+2638	TOK	tumor		tumor\N5S
+##	TAG	<abbr>
+2639	TOK	development.		development.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<abbr>
+2640	TOK	i.e.		i.e.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+2641	TOK	the		the\AT---6
+2642	TOK	mutant		mutant\N5S
+2643	TOK	allele		allele\N5S
+2644	TOK	is		be\V6FDRS3
+2645	TOK	recessive		recessive\JA
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2646	TOK	In	BOS	in\P
+2647	TOK	the		the\AT---6
+2648	TOK	familial		familial\JA
+2649	TOK	form		form\VMF6R66
+---	DLD	,		=\DELIM
+2650	TOK	one		one\MCS
+2651	TOK	mutant		mutant\N5S
+##	TAG	<name>
+2652	TOK	RB		RB\N46
+##	TAG	</name>
+2653	TOK	allele		allele\N5S
+2654	TOK	is		be\V6FDRS3
+2655	TOK	inherited		inherit\VMF6A66
+---	DLD	,		=\DELIM
+2656	TOK	and		and\CC
+2657	TOK	is		be\V6FDRS3
+2658	TOK	carried		carry\VMC----
+2659	TOK	by		by\P
+2660	TOK	all		all\AG---6
+2661	TOK	cells		cell\N5P
+2662	TOK	of		of\P
+2663	TOK	the		the\AT---6
+2664	TOK	body		body\N5S
+---	DLD	,		=\DELIM
+2665	TOK	including		including\P
+2666	TOK	cells		cell\N5P
+2667	TOK	of		of\P
+2668	TOK	the		the\AT---6
+2669	TOK	retina		retina\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2670	TOK	Figure		Figure\N46
+##	TAG	</name>
+##	TAG	<num>
+2671	TOK	21.4		21.4\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2672	TOK	If	BOS	if\CS
+2673	TOK	the		the\AT---6
+2674	TOK	normal		normal\JA
+2675	TOK	allele		allele\N5S
+2676	TOK	of		of\P
+2677	TOK	the		the\AT---6
+##	TAG	<name>
+2678	TOK	RB		RB\N46
+##	TAG	</name>
+2679	TOK	gene		gene\N5S
+2680	TOK	becomes		become\VMFDRS3
+2681	TOK	mutated		mutate\VMC----
+2682	TOK	in		in\P
+2683	TOK	a		a\AI---S
+2684	TOK	retinal		retinal\JA
+2685	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+2686	TOK	formation		formation\N5S
+2687	TOK	of		of\P
+2688	TOK	retinal		retinal\JA
+2689	TOK	tumors		tumor\N5P
+2690	TOK	will		will\VOFDR66
+2691	TOK	result		result\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2692	TOK	Individuals	BOS	individual\N5P
+2693	TOK	carrying		carry\VMG----
+2694	TOK	an		an\AI---S
+2695	TOK	inherited		inherit\VMC----
+2696	TOK	mutation		mutation\N5S
+2697	TOK	of		of\P
+2698	TOK	the		the\AT---6
+##	TAG	<name>
+2699	TOK	RB		RB\N46
+##	TAG	</name>
+2700	TOK	gene		gene\N5S
+2701	TOK	are		be\V6FDR66
+2702	TOK	predisposed		predispose\VMC----
+2703	TOK	to		to\P
+2704	TOK	develop		develop\VMI----
+2705	TOK	retinoblastoma		retinoblastoma\N5S
+---	DLD	,		=\DELIM
+2706	TOK	as		as\P
+2707	TOK	only		only\DGA7
+2708	TOK	one		one\MCS
+2709	TOK	additional		additional\JA
+2710	TOK	mutational		mutational\JA
+2711	TOK	event		event\N5S
+2712	TOK	is		be\V6FDRS3
+2713	TOK	required		require\VMC----
+2714	TOK	to		to\P
+2715	TOK	cause		cause\VMI----
+2716	TOK	tumor		tumor\N5S
+2717	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2718	TOK	This	BOS	this\RDS3N-
+2719	TOK	does		do\V6FDRS3
+2720	TOK	not		not\DGA7
+2721	TOK	happen		happen\VMI----
+2722	TOK	in		in\P
+2723	TOK	all		all\AG---6
+2724	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+2725	TOK	however		however\DGA7
+---	DLD	;		=\DELIM
+2726	TOK	some		some\AG---6
+##	TAG	<num>
+2727	TOK	10		10\X
+##	TAG	</num>
+2728	TOK	percent		percent\N56
+2729	TOK	of		of\P
+2730	TOK	those		that\RDP3N-
+2731	TOK	inheriting		inherit\VMG----
+2732	TOK	a		a\AI---S
+2733	TOK	mutant		mutant\N5S
+##	TAG	<name>
+2734	TOK	RB		RB\N46
+##	TAG	</name>
+2735	TOK	gene		gene\N5S
+2736	TOK	do		do\V6FDR66
+2737	TOK	not		not\DGA7
+2738	TOK	develop		develop\VMI----
+2739	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2740	TOK	This	BOS	this\AD---S
+2741	TOK	model		model\N5S
+2742	TOK	explains		explain\VMFDRS3
+2743	TOK	how		how\DGAW
+2744	TOK	the		the\AT---6
+2745	TOK	mutation		mutation\N5S
+2746	TOK	itself		itself\RXS3N-
+2747	TOK	can		can\VOFDR66
+2748	TOK	act		act\VMI----
+2749	TOK	as		as\P
+2750	TOK	a		a\AI---S
+2751	TOK	recessive		recessive\JA
+2752	TOK	trait		trait\N5S
+---	DLE	(		=\DELIM
+2753	TOK	both		both\RIP3N-
+2754	TOK	alleles		allele\N5P
+2755	TOK	must		must\VOFDR66
+2756	TOK	be		be\VMI----
+2757	TOK	inactive		inactive\JA
+2758	TOK	to		to\P
+2759	TOK	see		see\VMI----
+2760	TOK	the		the\AT---6
+2761	TOK	mutant		mutant\N5S
+2762	TOK	phenotype		phenotype\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2763	TOK	and		and\CC
+2764	TOK	how		how\DGAW
+2765	TOK	carrying		carry\VMG----
+2766	TOK	one		one\MCS
+2767	TOK	mutant		mutant\N5S
+2768	TOK	allele		allele\N5S
+2769	TOK	acts		act\VMFDRS3
+2770	TOK	as		as\CS
+2771	TOK	a		a\AI---S
+2772	TOK	dominant		dominant\JA
+2773	TOK	trait		trait\N5S
+2774	TOK	in		in\P
+2775	TOK	predisposing		predispose\VMG----
+2776	TOK	an		an\AI---S
+2777	TOK	individual		individual\N5S
+2778	TOK	to		to\P
+2779	TOK	cancer		cancer\N5S
+---	DLE	(		=\DELIM
+2780	TOK	they		they\RPP3NN
+2781	TOK	need		need\V6F6R66
+2782	TOK	only		only\DGA7
+2783	TOK	one		one\MCS
+2784	TOK	additional		additional\JA
+2785	TOK	mutation		mutation\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2786	TOK	In	BOS	in\P
+2787	TOK	sporadic		sporadic\JA
+2788	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+##	TAG	<num>
+2789	TOK	two		two\X
+##	TAG	</num>
+2790	TOK	independent		independent\JA
+2791	TOK	mutations		mutation\N5P
+2792	TOK	of		of\P
+2793	TOK	the		the\AT---6
+##	TAG	<name>
+2794	TOK	RB		RB\N46
+##	TAG	</name>
+2795	TOK	gene		gene\N5S
+2796	TOK	must		must\VOFDR66
+2797	TOK	occur		occur\VMI----
+2798	TOK	in		in\P
+2799	TOK	the		the\AT---6
+2800	TOK	same		same\JA
+2801	TOK	retinal		retinal\JA
+2802	TOK	cell		cell\N5S
+2803	TOK	for		for\P
+2804	TOK	a		a\AI---S
+2805	TOK	tumor		tumor\N5S
+2806	TOK	to		to\P
+2807	TOK	develop		develop\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2808	TOK	As	BOS	as\DGA7
+2809	TOK	might		may\VOFDR66
+2810	TOK	be		be\VMI----
+2811	TOK	expected		expect\VMC----
+---	DLD	,		=\DELIM
+2812	TOK	these		this\AD---P
+2813	TOK	events		event\N5P
+2814	TOK	are		be\V6FDR66
+2815	TOK	less		less\DDC7
+2816	TOK	frequent		frequent\JA
+2817	TOK	and		and\CC
+2818	TOK	occur		occur\VMF6R66
+2819	TOK	at		at\P
+2820	TOK	a		a\AI---S
+2821	TOK	later		late\JC
+2822	TOK	age		age\N5S
+---	DLD	,		=\DELIM
+2823	TOK	so		so\CC
+2824	TOK	that		that\CS
+2825	TOK	sporadic		sporadic\JA
+2826	TOK	forms		form\N5P
+2827	TOK	of		of\P
+2828	TOK	retinoblastoma		retinoblastoma\N5S
+2829	TOK	are		be\V6FDR66
+2830	TOK	more		more\DDC7
+2831	TOK	likely		likely\JA
+2832	TOK	to		to\P
+2833	TOK	occur		occur\VMI----
+2834	TOK	in		in\P
+2835	TOK	a		a\AI---S
+2836	TOK	single		single\JA
+2837	TOK	eye		eye\N5S
+---	DLD	,		=\DELIM
+2838	TOK	and		and\CC
+2839	TOK	at		at\P
+2840	TOK	a		a\AI---S
+2841	TOK	later		late\JC
+2842	TOK	age		age\N5S
+2843	TOK	than		than\CS
+2844	TOK	familial		familial\JA
+2845	TOK	forms		form\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2846	TOK	Similar	BOS	similar\JA
+2847	TOK	studies		study\N5P
+2848	TOK	on		on\P
+2849	TOK	the		the\AT---6
+2850	TOK	predisposition		predisposition\N5S
+2851	TOK	to		to\P
+2852	TOK	other		other\JA
+2853	TOK	cancers		cancer\N5P
+2854	TOK	have		have\V6F6R66
+2855	TOK	led		lead\VMC----
+2856	TOK	to		to\P
+2857	TOK	the		the\AT---6
+2858	TOK	conclusion		conclusion\N5S
+2859	TOK	that		that\CS
+2860	TOK	the		the\AT---6
+2861	TOK	number		number\N5S
+2862	TOK	of		of\P
+2863	TOK	mutations		mutation\N5P
+2864	TOK	necessary		necessary\JA
+2865	TOK	for		for\P
+2866	TOK	the		the\AT---6
+2867	TOK	development		development\N5S
+2868	TOK	of		of\P
+2869	TOK	cancer		cancer\N5S
+2870	TOK	ranges		range\N5P
+2871	TOK	from		from\P
+##	TAG	<num>
+2872	TOK	2		2\X
+##	TAG	</num>
+2873	TOK	to		to\P
+2874	TOK	perhaps		perhaps\DGA7
+2875	TOK	as		as\DGA7
+2876	TOK	many		many\AI---P
+2877	TOK	as		as\P
+##	TAG	<num>
+2878	TOK	20		20\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2879	TOK	Table		Table\N46
+##	TAG	</name>
+##	TAG	<num>
+2880	TOK	21.2		21.2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2882	TOK	Table	BOS	table\VMF6R66
+##	TAG	<num>
+2883	TOK	21.2	EOS	21.2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+2885	TOK	Number	BOS	number\N5S
+2886	TOK	of		of\P
+##	TAG	<name>
+2887	TOK	Mutations Associated		Mutations_Associated\N46
+##	TAG	</name>
+2888	TOK	with		with\P
+##	TAG	<name>
+2889	TOK	Some Cancers	EOS	Some_Cancers\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2891	TOK	Cancer	BOS	cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2892	TOK	Chromosome	BOS	chromosome\N5S
+##	TAG	<name>
+2893	TOK	Sires		Sires\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2894	TOK	Minimum	BOS	minimum\N5S
+##	TAG	<name>
+2895	TOK	Number of Mutations Required		Number_of_Mutations_Required\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2896	TOK	Retinoblastoma	BOS	retinoblastoma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="13q.">
+##	TAG	</item>
+##	TAG	<item label="2.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2897	TOK	Wilms	BOS	Wilms\N46
+##	TAG	</name>
+2898	TOK	tumor		tumor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="11p.">
+##	TAG	</item>
+##	TAG	<item label="2.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2899	TOK	Colon	BOS	colon\N5S
+2900	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2901	TOK	5p	BOS	5p\N5P
+---	DLD	,		=\DELIM
+##	TAG	<na type="code">
+2902	TOK	12p		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+##	TAG	<na type="code">
+2903	TOK	17p		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+##	TAG	<na type="code">
+2904	TOK	18q		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="4-5.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+2905	TOK	Small	BOS	small\JA
+---	DLI	-		=\DELIM
+2906	TOK	cell		cell\N5S
+2907	TOK	lung		lung\N5S
+2908	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2909	TOK	3p	BOS	3p\N5P
+---	DLD	,		=\DELIM
+2910	TOK	llp		llp\N5P
+---	DLD	,		=\DELIM
+##	TAG	<na type="code">
+2911	TOK	13q		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+##	TAG	<na type="code">
+2912	TOK	17p		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="10-15.">
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<head>
+2913	TOK	Tumor	BOS	tumor\N5S
+##	TAG	<name>
+2914	TOK	Suppressor Genes	EOS	Suppressor_Genes\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+---	DLE	(	BOS	=\DELIM
+##	TAG	<num>
+2916	TOK	1		1\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2917	TOK	by		by\P
+2918	TOK	genes		gene\N5P
+2919	TOK	that		that\RW63N6
+2920	TOK	normally		normally\DGA7
+2921	TOK	function		function\VMF6R66
+2922	TOK	to		to\P
+2923	TOK	suppress		suppress\VMI----
+2924	TOK	cell		cell\N5S
+2925	TOK	division		division\N5S
+---	DLD	,		=\DELIM
+2926	TOK	and		and\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+2927	TOK	2		2\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+2928	TOK	by		by\P
+2929	TOK	genes		gene\N5P
+2930	TOK	that		that\RW63N6
+2931	TOK	normally		normally\DGA7
+2932	TOK	function		function\VMF6R66
+2933	TOK	to		to\P
+2934	TOK	promote		promote\VMI----
+2935	TOK	cell		cell\N5S
+2936	TOK	division	EOS	division\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2937	TOK	The	BOS	the\AT---6
+2938	TOK	first		first\MOS
+2939	TOK	class		class\N5S
+---	DLD	,		=\DELIM
+2940	TOK	called		call\VMC----
+2941	TOK	tumor		tumor\N5S
+2942	TOK	suppressor		suppressor\N5S
+2943	TOK	genes		gene\N5P
+---	DLE	,		=\DELIM
+2944	TOK	inactivates		inactivate\VMFDRS3
+2945	TOK	or		or\CC
+2946	TOK	represses		repress\VMFDRS3
+2947	TOK	passage		passage\N5S
+2948	TOK	through		through\P
+2949	TOK	the		the\AT---6
+2950	TOK	cell		cell\N5S
+2951	TOK	cycle		cycle\N5S
+2952	TOK	and		and\CC
+2953	TOK	the		the\AT---6
+2954	TOK	resulting		result\VMG----
+2955	TOK	cell		cell\N5S
+2956	TOK	division		division\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2957	TOK	These	BOS	this\AD---P
+2958	TOK	genes		gene\N5P
+2959	TOK	and/or		and/or\N5S
+2960	TOK	their		their\APP3N6
+2961	TOK	gene		gene\N5S
+2962	TOK	products		product\N5P
+2963	TOK	must		must\VOFDR66
+2964	TOK	be		be\VMI----
+2965	TOK	absent		absent\JA
+2966	TOK	or		or\CC
+2967	TOK	inactive		inactive\JA
+2968	TOK	for		for\P
+2969	TOK	cell		cell\N5S
+2970	TOK	division		division\N5S
+2971	TOK	to		to\P
+2972	TOK	take		take\VMI----
+2973	TOK	place		place\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2974	TOK	If	BOS	if\CS
+2975	TOK	these		this\AD---P
+2976	TOK	genes		gene\N5P
+2977	TOK	become		become\VMF6R66
+2978	TOK	permanently		permanently\DGA7
+2979	TOK	inactivated		inactivate\VMC----
+2980	TOK	or		or\CC
+2981	TOK	lost		lose\VMC----
+2982	TOK	through		through\P
+2983	TOK	mutation		mutation\N5S
+---	DLD	,		=\DELIM
+2984	TOK	control		control\N5S
+2985	TOK	over		over\P
+2986	TOK	cell		cell\N5S
+2987	TOK	division		division\N5S
+2988	TOK	is		be\V6FDRS3
+2989	TOK	lost		lose\VMC----
+---	DLD	,		=\DELIM
+2990	TOK	and		and\CC
+2991	TOK	the		the\AT---6
+2992	TOK	cell		cell\N5S
+2993	TOK	begins		begin\VMFDRS3
+2994	TOK	to		to\P
+2995	TOK	proliferate		proliferate\VMI----
+2996	TOK	in		in\P
+2997	TOK	an		an\AI---S
+2998	TOK	uncontrollable		uncontrollable\JA
+2999	TOK	fashion		fashion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3000	TOK	Genes	BOS	gene\N5P
+3001	TOK	of		of\P
+3002	TOK	the		the\AT---6
+3003	TOK	second		second\MOS
+3004	TOK	class		class\N5S
+---	DLD	,		=\DELIM
+3005	TOK	called		call\VMC----
+3006	TOK	proto		proto\N5P
+---	DLI	-		=\DELIM
+3007	TOK	oncogenes		oncogene\N5P
+---	DLE	,		=\DELIM
+3008	TOK	normally		normally\DGA7
+3009	TOK	function		function\VMF6R66
+3010	TOK	to		to\P
+3011	TOK	promote		promote\VMI----
+3012	TOK	cell		cell\N5S
+3013	TOK	division		division\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3014	TOK	These	BOS	this\AD---P
+3015	TOK	genes		gene\N5P
+3016	TOK	can		can\VOFDR66
+3017	TOK	be		be\VMI----
+---	DLE	"		=\DELIM
+3018	TOK	off		off\P
+---	DLD	"		=\DELIM
+3019	TOK	or		or\CC
+---	DLE	"		=\DELIM
+3020	TOK	on		on\P
+---	DLD	,		=\DELIM
+---	DLD	"		=\DELIM
+3021	TOK	and		and\CC
+3022	TOK	when		when\CS
+3023	TOK	they		they\RPP3NN
+3024	TOK	are		be\V6FDR66
+---	DLE	"		=\DELIM
+3025	TOK	on		on\P
+---	DLD	,		=\DELIM
+---	DLD	"		=\DELIM
+3026	TOK	they		they\RPP3NN
+3027	TOK	promote		promote\VMF6R66
+3028	TOK	cell		cell\N5S
+3029	TOK	division		division\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3030	TOK	To	BOS	to\P
+3031	TOK	halt		halt\VMI----
+3032	TOK	cell		cell\N5S
+3033	TOK	division		division\N5S
+---	DLD	,		=\DELIM
+3034	TOK	these		this\AD---P
+3035	TOK	genes		gene\N5P
+3036	TOK	and/or		and/or\N5S
+3037	TOK	their		their\APP3N6
+3038	TOK	gene		gene\N5S
+3039	TOK	products		product\N5P
+3040	TOK	must		must\VOFDR66
+3041	TOK	be		be\VMI----
+3042	TOK	inactivated		inactivate\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3043	TOK	If	BOS	if\CS
+3044	TOK	proto		proto\N5P
+---	DLI	-		=\DELIM
+3045	TOK	oncogenes		oncogene\N5P
+3046	TOK	become		become\VMF6R66
+3047	TOK	permanently		permanently\DGA7
+3048	TOK	switched		switch\VMC----
+3049	TOK	on		on\P
+---	DLD	,		=\DELIM
+3050	TOK	then		then\DGA7
+3051	TOK	uncontrolled		uncontrolled\JA
+3052	TOK	cell		cell\N5S
+3053	TOK	division		division\N5S
+3054	TOK	occurs		occur\VMFDRS3
+---	DLD	,		=\DELIM
+3055	TOK	leading		leading\JA
+3056	TOK	to		to\P
+3057	TOK	tumor		tumor\N5S
+3058	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3059	TOK	The	BOS	the\AT---6
+3060	TOK	mutant		mutant\N5S
+3061	TOK	forms		form\N5P
+3062	TOK	of		of\P
+3063	TOK	proto		proto\N5P
+---	DLI	-		=\DELIM
+3064	TOK	oncogenes		oncogene\N5P
+3065	TOK	are		be\V6FDR66
+3066	TOK	known		know\VMC----
+3067	TOK	as		as\P
+3068	TOK	oncogenes		oncogene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3070	TOK	We	BOS	we\RPP1NN
+3071	TOK	shall		shall\VOFDR66
+3072	TOK	consider		consider\VMI----
+3073	TOK	some		some\AG---6
+3074	TOK	examples		example\N5P
+3075	TOK	of		of\P
+3076	TOK	how		how\DGAW
+3077	TOK	mutations		mutation\N5P
+3078	TOK	in		in\P
+3079	TOK	tumor		tumor\N5S
+3080	TOK	suppressor		suppressor\N5S
+3081	TOK	genes		gene\N5P
+3082	TOK	can		can\VOFDR66
+3083	TOK	lead		lead\VMI----
+3084	TOK	to		to\P
+3085	TOK	a		a\AI---S
+3086	TOK	loss		loss\N5S
+3087	TOK	of		of\P
+3088	TOK	control		control\N5S
+3089	TOK	over		over\P
+3090	TOK	cell		cell\N5S
+3091	TOK	division		division\N5S
+3092	TOK	and		and\CC
+3093	TOK	the		the\AT---6
+3094	TOK	development		development\N5S
+3095	TOK	of		of\P
+3096	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3097	TOK	Following	BOS	following\JA
+3098	TOK	that		that\CS
+3099	TOK	discussion		discussion\N5S
+---	DLD	,		=\DELIM
+3100	TOK	we		we\RPP1NN
+3101	TOK	will		will\VOFDR66
+3102	TOK	consider		consider\VMI----
+3103	TOK	proto		proto\N5P
+---	DLI	-		=\DELIM
+3104	TOK	oncogenes		oncogene\N5P
+3105	TOK	and		and\CC
+3106	TOK	oncogenes		oncogene\N5P
+---	DLD	,		=\DELIM
+3107	TOK	how		how\DGAW
+3108	TOK	the		the\AT---6
+3109	TOK	normal		normal\JA
+3110	TOK	alleles		allele\N5P
+3111	TOK	act		act\VMF6R66
+3112	TOK	to		to\P
+3113	TOK	regulate		regulate\VMI----
+3114	TOK	cell		cell\N5S
+3115	TOK	division		division\N5S
+---	DLD	,		=\DELIM
+3116	TOK	and		and\CC
+3117	TOK	how		how\DGAW
+3118	TOK	the		the\AT---6
+3119	TOK	mutant		mutant\N5S
+3120	TOK	oncogenes		oncogene\N5P
+3121	TOK	work		work\VMF6R66
+3122	TOK	to		to\P
+3123	TOK	promote		promote\VMI----
+3124	TOK	tumor		tumor\N5S
+3125	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3126	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3127	TOK	21.1	EOS	21.1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3129	TOK	The	BOS	the\AT---6
+3130	TOK	cell		cell\N5S
+3131	TOK	cycle		cycle\N5S
+3132	TOK	is		be\V6FDRS3
+3133	TOK	controlled		control\VMC----
+3134	TOK	at		at\P
+##	TAG	<num>
+3135	TOK	two		two\X
+##	TAG	</num>
+3136	TOK	and		and\CC
+3137	TOK	possibly		possibly\DGA7
+3138	TOK	more		many\JC
+3139	TOK	checkpoints		checkpoint\N5P
+---	DLD	,		=\DELIM
+3140	TOK	one		one\RIS3N-
+3141	TOK	at		at\P
+3142	TOK	the		the\AT---6
+##	TAG	<na type="function">
+3143	TOK	G2/M		noanat\W
+##	TAG	</na>
+3144	TOK	transition		transition\N5S
+---	DLD	,		=\DELIM
+3145	TOK	and		and\CC
+3146	TOK	another		another\RIS3N-
+3147	TOK	in		in\P
+3148	TOK	late		late\JA
+##	TAG	<name>
+3149	TOK	GI		GI\N46
+##	TAG	</name>
+3150	TOK	phase		phase\N5S
+3151	TOK	before		before\P
+3152	TOK	entry		entry\N5S
+3153	TOK	into		into\P
+3154	TOK	S		s\N5S
+3155	TOK	phase	EOS	phase\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3156	TOK	These	BOS	this\AD---P
+3157	TOK	checkpoints		checkpoint\N5P
+3158	TOK	involve		involve\VMF6R66
+3159	TOK	interaction		interaction\N5S
+3160	TOK	between		between\P
+3161	TOK	transitory		transitory\JA
+3162	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+3163	TOK	called		call\VMC----
+3164	TOK	cyclins		cyclin\N5P
+---	DLD	,		=\DELIM
+3165	TOK	and		and\CC
+3166	TOK	kinases		kinase\N5P
+3167	TOK	that		that\RW63N6
+3168	TOK	add		add\VMF6R66
+3169	TOK	phosphate		phosphate\N5S
+3170	TOK	groups		group\N5P
+3171	TOK	to		to\P
+3172	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3173	TOK	Phosphorylation	BOS	phosphorylation\N5S
+3174	TOK	of		of\P
+3175	TOK	target		target\N5S
+3176	TOK	proteins		protein\N5P
+3177	TOK	triggers		trigger\VMFDRS3
+3178	TOK	a		a\AI---S
+3179	TOK	cascade		cascade\N5S
+3180	TOK	of		of\P
+3181	TOK	events		event\N5P
+3182	TOK	allowing		allow\VMG----
+3183	TOK	progress		progress\N5S
+3184	TOK	through		through\P
+3185	TOK	the		the\AT---6
+3186	TOK	cell		cell\N5S
+3187	TOK	cycle		cycle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3188	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3189	TOK	21.2	EOS	21.2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3191	TOK	Relative	BOS	relative\JA
+3192	TOK	expression		expression\N5S
+3193	TOK	times		time\N5P
+3194	TOK	and		and\CC
+3195	TOK	amounts		amount\N5P
+3196	TOK	of		of\P
+3197	TOK	cyclins		cyclin\N5P
+3198	TOK	during		during\P
+3199	TOK	the		the\AT---6
+3200	TOK	cell		cell\N5S
+3201	TOK	cycle	EOS	cycle\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3203	TOK	D1	BOS	D1\N46
+##	TAG	</name>
+3204	TOK	accumulates		accumulate\VMFDRS3
+3205	TOK	early		early\JA
+3206	TOK	in		in\P
+##	TAG	<name>
+3207	TOK	G1		G1\N46
+##	TAG	</name>
+3208	TOK	and		and\CC
+3209	TOK	is		be\V6FDRS3
+3210	TOK	expressed		express\VMC----
+3211	TOK	at		at\P
+3212	TOK	a		a\AI---S
+3213	TOK	constant		constant\JA
+3214	TOK	level		level\N5S
+3215	TOK	through		through\P
+3216	TOK	most		most\AG---6
+3217	TOK	of		of\P
+3218	TOK	the		the\AT---6
+3219	TOK	cycle		cycle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3220	TOK	Cyclin	BOS	cyclin\N5S
+3221	TOK	C		c\N5S
+3222	TOK	accumulates		accumulate\VMFDRS3
+3223	TOK	in		in\P
+##	TAG	<name>
+3224	TOK	G1		G1\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3225	TOK	reaches		reach\VMFDRS3
+3226	TOK	a		a\AI---S
+3227	TOK	peak		peak\N5S
+---	DLD	,		=\DELIM
+3228	TOK	and		and\CC
+3229	TOK	declines		decline\VMFDRS3
+3230	TOK	by		by\P
+3231	TOK	mid		mid\JA
+3232	TOK	S		s\N5S
+3233	TOK	phase		phase\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3234	TOK	Cyclins	BOS	cyclin\N5P
+##	TAG	<name>
+3235	TOK	D2		D2\N46
+##	TAG	</name>
+3236	TOK	and		and\CC
+3237	TOK	E		E\N5P
+3238	TOK	begin		begin\VMF6R66
+3239	TOK	accumulating		accumulate\VMG----
+3240	TOK	in		in\P
+3241	TOK	the		the\AT---6
+3242	TOK	last		last\JA
+3243	TOK	half		half\N5S
+3244	TOK	of		of\P
+3245	TOK	G		G\N5P
+##	TAG	<num>
+3246	TOK	1		1\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+3247	TOK	reach		reach\VMF6R66
+3248	TOK	a		a\AI---S
+3249	TOK	peak		peak\N5S
+3250	TOK	just		just\DGA7
+3251	TOK	after		after\P
+3252	TOK	the		the\AT---6
+3253	TOK	beginning		beginning\N5S
+3254	TOK	of		of\P
+3255	TOK	S		S\N5P
+---	DLD	,		=\DELIM
+3256	TOK	and		and\CC
+3257	TOK	then		then\DGA7
+3258	TOK	decline		decline\VMF6R66
+3259	TOK	by		by\P
+3260	TOK	early		early\JA
+##	TAG	<name>
+3261	TOK	G2		G2\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3262	TOK	Cyclin	BOS	cyclin\N5S
+3263	TOK	A		a\N5S
+3264	TOK	appears		appear\VMFDRS3
+3265	TOK	in		in\P
+3266	TOK	late		late\JA
+##	TAG	<name>
+3267	TOK	G1		G1\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3268	TOK	accumulates		accumulate\VMFDRS3
+3269	TOK	through		through\P
+3270	TOK	S		S\N5P
+---	DLD	,		=\DELIM
+3271	TOK	reaches		reach\VMFDRS3
+3272	TOK	a		a\AI---S
+3273	TOK	peak		peak\N5S
+3274	TOK	in		in\P
+##	TAG	<name>
+3275	TOK	G2		G2\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3276	TOK	and		and\CC
+3277	TOK	is		be\V6FDRS3
+3278	TOK	degraded		degrade\VMC----
+3279	TOK	rapidiy		rapidiy\N5P
+3280	TOK	as		as\P
+3281	TOK	M		m\N5S
+3282	TOK	phase		phase\N5S
+3283	TOK	begins		begin\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3284	TOK	Cyclin	BOS	cyclin\N5S
+3285	TOK	B		b\N5S
+3286	TOK	appears		appear\VMFDRS3
+3287	TOK	in		in\P
+3288	TOK	mid		mid\JA
+3289	TOK	S		s\N5S
+3290	TOK	phase		phase\N5S
+---	DLD	,		=\DELIM
+3291	TOK	peaks		peak\N5P
+3292	TOK	at		at\P
+3293	TOK	the		the\AT---6
+##	TAG	<na type="function">
+3294	TOK	G2/M		noanat\W
+##	TAG	</na>
+3295	TOK	transition		transition\N5S
+---	DLD	,		=\DELIM
+3296	TOK	and		and\CC
+3297	TOK	is		be\V6FDRS3
+3298	TOK	rapidly		rapidly\DGA7
+3299	TOK	degraded		degrade\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3300	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3301	TOK	21.3	EOS	21.3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3303	TOK	FIGURE	BOS	figure\N5S
+##	TAG	<num>
+3304	TOK	21.3		21.3\X
+##	TAG	</num>
+##	TAG	<name>
+3305	TOK	Transition		Transition\N46
+##	TAG	</name>
+3306	TOK	to		to\P
+3307	TOK	M		M\N5P
+3308	TOK	from		from\P
+##	TAG	<name>
+3309	TOK	G2		G2\N46
+##	TAG	</name>
+3310	TOK	is		be\V6FDRS3
+3311	TOK	controlled		control\VMC----
+3312	TOK	by		by\P
+##	TAG	<name>
+3313	TOK	CDKI		CDKI\N46
+##	TAG	</name>
+3314	TOK	and		and\CC
+3315	TOK	cyclin		cyclin\N5S
+3316	TOK	B	EOS	B\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3318	TOK	These	BOS	this\AD---P
+3319	TOK	molecules		molecule\N5P
+3320	TOK	interact		interact\VMF6R66
+3321	TOK	to		to\P
+3322	TOK	form		form\VMI----
+3323	TOK	a		a\AI---S
+3324	TOK	complex		complex\N5S
+3325	TOK	that		that\RW63N6
+3326	TOK	adds		add\VMFDRS3
+3327	TOK	phosphate		phosphate\N5S
+3328	TOK	groups		group\N5P
+3329	TOK	to		to\P
+3330	TOK	cellular		cellular\JA
+3331	TOK	components		component\N5P
+3332	TOK	that		that\RW63N6
+3333	TOK	break		break\VMF6R66
+3334	TOK	down		down\DGA7
+3335	TOK	the		the\AT---6
+3336	TOK	nuclear		nuclear\JA
+3337	TOK	membrane		membrane\N5S
+---	DLE	(		=\DELIM
+3338	TOK	lamins		lamins\N5P
+3339	TOK	A		A\N5P
+---	DLD	,		=\DELIM
+3340	TOK	B		B\N5P
+---	DLD	,		=\DELIM
+3341	TOK	and		and\CC
+3342	TOK	C		C\N5P
+---	DLD	)		=\DELIM
+---	DLD	.		=\DELIM
+3343	TOK	reorganize		reorganize\VMF6R66
+3344	TOK	the		the\AT---6
+3345	TOK	cytoskeleton		cytoskeleton\N5S
+---	DLE	(		=\DELIM
+3346	TOK	caldesmon		caldesmon\N56
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3347	TOK	and		and\CC
+3348	TOK	initiate		initiate\VMF6R66
+3349	TOK	chromosome		chromosome\N5S
+3350	TOK	condensation		condensation\N5S
+---	DLE	(		=\DELIM
+3351	TOK	histone		histone\N5S
+##	TAG	<name>
+3352	TOK	H1		H1\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3353	TOK	Cyclin	BOS	cyclin\N5S
+3354	TOK	B		B\N5P
+3355	TOK	may		may\VOFDR66
+3356	TOK	specify		specify\VMI----
+3357	TOK	cellular		cellular\JA
+3358	TOK	localization		localization\N5S
+3359	TOK	o		o\N5S
+3360	TOK	r		r\N5S
+3361	TOK	target		target\N5S
+3362	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3363	TOK	Other	BOS	other\JA
+3364	TOK	cyclins		cyclin\N5P
+---	DLE	(		=\DELIM
+3365	TOK	especially		especially\DGA7
+3366	TOK	cyclin		cyclin\N5S
+3367	TOK	A		A\N5P
+---	DLD	)		=\DELIM
+3368	TOK	are		be\V6FDR66
+3369	TOK	thought		think\VMC----
+3370	TOK	to		to\P
+3371	TOK	be		be\VMI----
+3372	TOK	involved		involve\VMC----
+3373	TOK	at		at\P
+3374	TOK	this		this\AD---S
+3375	TOK	stage		stage\N5S
+---	DLD	,		=\DELIM
+3376	TOK	but		but\CC
+3377	TOK	these		this\AD---P
+3378	TOK	functions		function\N5P
+3379	TOK	are		be\V6FDR66
+3380	TOK	not		not\DGA7
+3381	TOK	known		know\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3382	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3383	TOK	21.4	EOS	21.4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+3385	TOK	In	BOS	in\P
+3386	TOK	spontaneous		spontaneous\JA
+3387	TOK	cases		case\N5P
+3388	TOK	of		of\P
+3389	TOK	retinoblastoma		retinoblastoma\N5S
+---	DLE	(		=\DELIM
+3390	TOK	left		leave\VMF6A66
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<num>
+3391	TOK	two		two\X
+##	TAG	</num>
+3392	TOK	mutations		mutation\N5P
+3393	TOK	in		in\P
+3394	TOK	the		the\AT---6
+3395	TOK	retinablastoma		retinablastoma\N5S
+3396	TOK	gene		gene\N5S
+3397	TOK	are		be\V6FDR66
+3398	TOK	acquired		acquire\VMC----
+3399	TOK	in		in\P
+3400	TOK	a		a\AI---S
+3401	TOK	single		single\JA
+3402	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+3403	TOK	causing		cause\VMG----
+3404	TOK	uncontrolled		uncontrolled\JA
+3405	TOK	cell		cell\N5S
+3406	TOK	growth		growth\N5S
+3407	TOK	and		and\CC
+3408	TOK	division		division\N5S
+---	DLE	,		=\DELIM
+3409	TOK	resulting		result\VMG----
+3410	TOK	in		in\P
+3411	TOK	tumor		tumor\N5S
+3412	TOK	formation	EOS	formation\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3413	TOK	In	BOS	in\P
+3414	TOK	familial		familial\JA
+3415	TOK	cases		case\N5P
+3416	TOK	of		of\P
+3417	TOK	retinoblastoma		retinoblastoma\N5S
+---	DLE	(		=\DELIM
+3418	TOK	at		at\P
+3419	TOK	right		right\I
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3420	TOK	one		one\MCS
+3421	TOK	mutation		mutation\N5S
+3422	TOK	is		be\V6FDRS3
+3423	TOK	inherited		inherit\VMC----
+3424	TOK	and		and\CC
+3425	TOK	present		present\JA
+3426	TOK	in		in\P
+3427	TOK	all		all\AG---6
+3428	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3429	TOK	A	BOS	a\AI---S
+3430	TOK	second		second\MOS
+3431	TOK	mutation		mutation\N5S
+3432	TOK	at		at\P
+3433	TOK	the		the\AT---6
+3434	TOK	retinoblastoma		retinoblastoma\N5S
+##	TAG	<foreign lang="LA" pos="N5S">
+3435	TOK	locus		locus\N5S
+##	TAG	</foreign>
+3436	TOK	in		in\P
+3437	TOK	any		any\AG---6
+3438	TOK	retinal		retinal\JA
+3439	TOK	cell		cell\N5S
+3440	TOK	will		will\VOFDR66
+3441	TOK	result		result\VMI----
+3442	TOK	in		in\P
+3443	TOK	uncontrolled		uncontrolled\JA
+3444	TOK	cell		cell\N5S
+3445	TOK	growth		growth\N5S
+3446	TOK	and		and\CC
+3447	TOK	tumor		tumor\N5S
+3448	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

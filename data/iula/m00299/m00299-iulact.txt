@@ -1,0 +1,4923 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	HOW	BOS	how\DGAW
+2	TOK	CELLS		cell\N5P
+3	TOK	ABSORB		ABSORB\N5S
+4	TOK	GLUCOSE	EOS	glucose\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+6	TOK	Glucose	BOS	glucose\N5S
+---	DLD	,		=\DELIM
+7	TOK	a		a\AI---S
+8	TOK	crucial		crucial\JA
+9	TOK	nutrient		nutrient\JA
+---	DLD	,		=\DELIM
+10	TOK	must		must\VOFDR66
+11	TOK	enter		enter\VMI----
+12	TOK	cells		cell\N5P
+13	TOK	with		with\P
+14	TOK	the		the\AT---6
+15	TOK	aid		aid\N5S
+16	TOK	of		of\P
+17	TOK	a		a\AI---S
+18	TOK	special		special\JA
+19	TOK	transporter		transporter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+20	TOK	Recent	BOS	recent\JA
+21	TOK	research		research\N5S
+22	TOK	elucidates		elucidate\VMFDRS3
+23	TOK	the		the\AT---6
+24	TOK	structure		structure\N5S
+25	TOK	and		and\CC
+26	TOK	function		function\N5S
+27	TOK	of		of\P
+28	TOK	the		the\AT---6
+29	TOK	transporter		transporter\N5S
+30	TOK	and		and\CC
+31	TOK	how		how\DGAW
+32	TOK	insulin		insulin\N5S
+33	TOK	regulates		regulate\VMFDRS3
+34	TOK	it		it\RPS3N6
+##	TAG	<name>
+35	TOK	Glucose		Glucose\N46
+##	TAG	</name>
+36	TOK	is		be\V6FDRS3
+37	TOK	the		the\AT---6
+38	TOK	common		common\JA
+39	TOK	currency		currency\N5S
+40	TOK	of		of\P
+41	TOK	metabolism		metabolism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+42	TOK	Absorbed	BOS	absorb\VMC----
+43	TOK	in		in\P
+44	TOK	the		the\AT---6
+45	TOK	intestine		intestine\N5S
+46	TOK	or		or\CC
+47	TOK	produced		produce\VMC----
+48	TOK	by		by\P
+49	TOK	the		the\AT---6
+50	TOK	liver		liver\N5S
+---	DLD	,		=\DELIM
+51	TOK	the		the\AT---6
+52	TOK	sugar		sugar\N5S
+53	TOK	travels		travel\VMFDRS3
+54	TOK	in		in\P
+55	TOK	the		the\AT---6
+56	TOK	blood		blood\N5S
+57	TOK	to		to\P
+58	TOK	all		all\AG---6
+59	TOK	the		the\AT---6
+60	TOK	tissues		tissue\N5P
+61	TOK	of		of\P
+62	TOK	the		the\AT---6
+63	TOK	body		body\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+64	TOK	There	BOS	there\DGA7
+65	TOK	it		it\RPS3N6
+66	TOK	serves		serve\VMFDRS3
+67	TOK	as		as\CS
+68	TOK	a		a\AI---S
+69	TOK	source		source\N5S
+70	TOK	of		of\P
+71	TOK	energy		energy\N5S
+72	TOK	and		and\CC
+73	TOK	as		as\P
+74	TOK	a		a\AI---S
+75	TOK	primordial		primordial\JA
+76	TOK	precursor		precursor\N5S
+77	TOK	for		for\P
+78	TOK	other		other\JA
+79	TOK	carbon		carbon\N5S
+---	DLI	-		=\DELIM
+80	TOK	containing		contain\VMG----
+81	TOK	compounds		compound\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+82	TOK	Yet	BOS	yet\DGA7
+83	TOK	the		the\AT---6
+84	TOK	passage		passage\N5S
+85	TOK	of		of\P
+86	TOK	glucose		glucose\N5S
+87	TOK	into		into\P
+88	TOK	a		a\AI---S
+89	TOK	cell		cell\N5S
+90	TOK	is		be\V6FDRS3
+91	TOK	quite		quite\DGA7
+92	TOK	intricate		intricate\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+93	TOK	It	BOS	it\RPS3N6
+94	TOK	must		must\VOFDR66
+95	TOK	be		be\VMI----
+96	TOK	ferried		ferry\VMC----
+97	TOK	inside		inside\N5S
+98	TOK	by		by\P
+99	TOK	a		a\AI---S
+100	TOK	special		special\JA
+101	TOK	protein		protein\N5S
+102	TOK	embedded		embed\VMC----
+103	TOK	in		in\P
+104	TOK	the		the\AT---6
+105	TOK	membrane		membrane\N5S
+106	TOK	of		of\P
+107	TOK	the		the\AT---6
+108	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+109	TOK	Over	BOS	over\P
+110	TOK	the		the\AT---6
+111	TOK	past		past\JA
+112	TOK	decade		decade\N5S
+---	DLD	,		=\DELIM
+113	TOK	studies		study\N5P
+114	TOK	in		in\P
+115	TOK	several		several\JA
+116	TOK	laboratories		laboratory\N5P
+---	DLD	,		=\DELIM
+117	TOK	including		including\P
+118	TOK	our		our\APP1N6
+119	TOK	own		own\JA
+---	DLD	,		=\DELIM
+120	TOK	have		have\V6F6R66
+121	TOK	greatly		greatly\DGA7
+122	TOK	clarified		clarify\VMC----
+123	TOK	the		the\AT---6
+124	TOK	structure		structure\N5S
+125	TOK	of		of\P
+126	TOK	the		the\AT---6
+127	TOK	protein		protein\N5S
+128	TOK	and		and\CC
+129	TOK	the		the\AT---6
+130	TOK	remarkable		remarkable\JA
+131	TOK	way		way\N5S
+132	TOK	in		in\P
+133	TOK	which		which\RW63N-
+134	TOK	it		it\RPS3N6
+135	TOK	works		work\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+136	TOK	Five	BOS	Five\X
+##	TAG	</num>
+137	TOK	molecular		molecular\JA
+138	TOK	forms		form\N5P
+139	TOK	of		of\P
+140	TOK	the		the\AT---6
+141	TOK	transporter		transporter\N5S
+142	TOK	have		have\V6F6R66
+143	TOK	been		be\VMC----
+144	TOK	discovered		discover\VMC----
+##	TAG	<loc pos="DGA7">
+145	TOK	so far		so_far\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+146	TOK	each		each\RIS3N-
+147	TOK	adapted		adapt\VMC----
+148	TOK	to		to\P
+149	TOK	the		the\AT---6
+150	TOK	metabolic		metabolic\JA
+151	TOK	needs		need\N5P
+152	TOK	of		of\P
+153	TOK	the		the\AT---6
+154	TOK	tissue		tissue\N5S
+155	TOK	in		in\P
+156	TOK	which		which\RW63N-
+157	TOK	it		it\RPS3N6
+158	TOK	is		be\V6FDRS3
+159	TOK	found		find\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+160	TOK	The	BOS	the\AT---6
+161	TOK	events		event\N5P
+162	TOK	that		that\CS
+163	TOK	these		this\AD---P
+164	TOK	vital		vital\JA
+165	TOK	molecules		molecule\N5P
+166	TOK	mediate		mediate\VMF6R66
+167	TOK	begin		begin\VMI----
+168	TOK	when		when\CS
+169	TOK	one		one\RIS3N-
+170	TOK	eats		eat\VMFDRS3
+171	TOK	carbohydrates		carbohydrate\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+172	TOK	The	BOS	the\AT---6
+173	TOK	intestine		intestine\N5S
+174	TOK	digests		digest\VMFDRS3
+175	TOK	the		the\AT---6
+176	TOK	carbohydrates		carbohydrate\N5P
+177	TOK	into		into\P
+178	TOK	glucose		glucose\N5S
+---	DLD	,		=\DELIM
+179	TOK	which		which\RW63N-
+180	TOK	it		it\RPS3N6
+181	TOK	transfers		transfer\VMFDRS3
+182	TOK	to		to\P
+183	TOK	the		the\AT---6
+184	TOK	bloodstream		bloodstream\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+185	TOK	The	BOS	the\AT---6
+186	TOK	resulting		result\VMG----
+187	TOK	rise		rise\N5S
+188	TOK	in		in\P
+189	TOK	blood		blood\N5S
+190	TOK	glucose		glucose\N5S
+191	TOK	stimulates		stimulate\VMFDRS3
+192	TOK	the		the\AT---6
+193	TOK	beta		beta\N5S
+194	TOK	cells		cell\N5P
+195	TOK	of		of\P
+196	TOK	the		the\AT---6
+197	TOK	pancreas		pancreas\N5S
+198	TOK	to		to\P
+199	TOK	release		release\N5S
+200	TOK	insulin		insulin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+201	TOK	Insulin	BOS	insulin\N5S
+202	TOK	clears		clear\VMFDRS3
+203	TOK	glucose		glucose\N5S
+204	TOK	from		from\P
+205	TOK	the		the\AT---6
+206	TOK	blood		blood\N5S
+207	TOK	in		in\P
+##	TAG	<num>
+208	TOK	two		two\X
+##	TAG	</num>
+209	TOK	ways		way\N5P
+---	DLD	:		=\DELIM
+210	TOK	it		it\RPS3N6
+211	TOK	prevents		prevent\VMFDRS3
+212	TOK	the		the\AT---6
+213	TOK	liver		liver\N5S
+214	TOK	from		from\P
+215	TOK	releasing		release\VMG----
+216	TOK	additional		additional\JA
+217	TOK	glucose		glucose\N5S
+---	DLD	,		=\DELIM
+218	TOK	and		and\CC
+219	TOK	it		it\RPS3N6
+220	TOK	causes		cause\VMFDRS3
+221	TOK	muscle		muscle\N5S
+222	TOK	and		and\CC
+223	TOK	fat		fat\N5S
+224	TOK	cells		cell\N5P
+225	TOK	to		to\P
+226	TOK	absorb		absorb\VMI----
+227	TOK	more		more\DDC7
+228	TOK	of		of\P
+229	TOK	the		the\AT---6
+230	TOK	sugar		sugar\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+231	TOK	Muscle	BOS	muscle\N5S
+232	TOK	cells		cell\N5P
+233	TOK	convert		convert\VMF6R66
+234	TOK	the		the\AT---6
+235	TOK	glucose		glucose\N5S
+236	TOK	into		into\P
+237	TOK	glycogen		glycogen\N5S
+---	DLD	,		=\DELIM
+238	TOK	a		a\AI---S
+239	TOK	polymerized		polymerize\VMC----
+240	TOK	carbohydrate		carbohydrate\N5S
+241	TOK	that		that\RW63N6
+242	TOK	can		can\VOFDR66
+243	TOK	be		be\VMI----
+244	TOK	quickly		quickly\DGA7
+245	TOK	reconverted		reconvert\VMC----
+246	TOK	into		into\P
+247	TOK	glucose		glucose\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+248	TOK	Fat	BOS	fat\JA
+249	TOK	cells		cell\N5P
+250	TOK	convert		convert\VMF6R66
+251	TOK	glucose		glucose\N5S
+252	TOK	into		into\P
+253	TOK	droplets		droplet\N5P
+254	TOK	of		of\P
+255	TOK	fat		fat\N5S
+256	TOK	for		for\P
+257	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+258	TOK	term		term\N5S
+259	TOK	storage		storage\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+260	TOK	As	BOS	as\P
+261	TOK	blood		blood\N5S
+262	TOK	glucose		glucose\N5S
+263	TOK	levels		level\N5P
+264	TOK	drop		drop\VMF6R66
+---	DLD	,		=\DELIM
+265	TOK	the		the\AT---6
+266	TOK	beta		beta\N5S
+267	TOK	cells		cell\N5P
+268	TOK	stop		stop\VMF6R66
+269	TOK	secreting		secrete\VMG----
+270	TOK	insulin		insulin\N5S
+---	DLD	,		=\DELIM
+271	TOK	and		and\CC
+272	TOK	the		the\AT---6
+273	TOK	body		body\N5S
+274	PGR	's		genmark\GENMARK
+275	TOK	metabolism		metabolism\N5S
+276	TOK	returns		return\N5P
+277	TOK	to		to\P
+278	TOK	the		the\AT---6
+279	TOK	basal		basal\JA
+280	TOK	state		state\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+281	TOK	Too	BOS	too\DGA7
+282	TOK	much		much\JA
+283	TOK	insulin		insulin\N5S
+284	TOK	lowers		lower\VMFDRS3
+285	TOK	blood		blood\N5S
+286	TOK	sugar		sugar\N5S
+---	DLD	,		=\DELIM
+287	TOK	producing		produce\VMG----
+288	TOK	hypoglycemia		hypoglycemia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+289	TOK	Because	BOS	because\CS
+290	TOK	this		this\AD---S
+291	TOK	condition		condition\N5S
+292	TOK	starves		starve\VMFDRS3
+293	TOK	the		the\AT---6
+294	TOK	brain		brain\N5S
+---	DLD	,		=\DELIM
+295	TOK	an		an\AI---S
+296	TOK	organ		organ\N5S
+297	TOK	that		that\RW63N6
+298	TOK	lives		live\VMFDRS3
+299	TOK	chiefly		chiefly\DGA7
+300	TOK	on		on\P
+301	TOK	glucose		glucose\N5S
+---	DLD	,		=\DELIM
+302	TOK	it		it\RPS3N6
+303	TOK	can		can\VOFDR66
+304	TOK	mean		mean\VMI----
+305	TOK	death		death\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+306	TOK	On	BOS	on\P
+307	TOK	the		the\AT---6
+308	TOK	other		other\JA
+309	TOK	hand		hand\N5S
+---	DLD	,		=\DELIM
+310	TOK	when		when\CS
+311	TOK	there		there\DGA7
+312	TOK	is		be\V6FDRS3
+313	TOK	too		too\DGA7
+314	TOK	little		little\JA
+315	TOK	insulin		insulin\N5S
+---	DLE	-		=\DELIM
+---	DLE	-		=\DELIM
+316	TOK	or		or\CC
+317	TOK	when		when\CS
+318	TOK	muscle		muscle\N5S
+319	TOK	and		and\CC
+320	TOK	fat		fat\N5S
+321	TOK	cells		cell\N5P
+322	TOK	resist		resist\VMF6R66
+323	TOK	its		its\APS3N6
+324	TOK	effect		effect\N5S
+---	DLI	-		=\DELIM
+325	TOK	blood		blood\N5S
+326	TOK	sugar		sugar\N5S
+327	TOK	rises		rise\VMFDRS3
+---	DLD	,		=\DELIM
+328	TOK	producing		produce\VMG----
+329	TOK	hyperglycemia		hyperglycemia\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+330	TOK	The	BOS	the\AT---6
+331	TOK	high		high\JA
+332	TOK	concentration		concentration\N5S
+333	TOK	of		of\P
+334	TOK	sugar		sugar\N5S
+335	TOK	molecules		molecule\N5P
+336	TOK	creates		create\VMFDRS3
+337	TOK	an		an\AI---S
+338	TOK	osmotic		osmotic\JA
+339	TOK	imbalance		imbalance\N5S
+---	DLD	,		=\DELIM
+340	TOK	so		so\CC
+341	TOK	the		the\AT---6
+342	TOK	blood		blood\N5S
+343	TOK	draws		draw\VMFDRS3
+344	TOK	water		water\N5S
+345	TOK	from		from\P
+346	TOK	the		the\AT---6
+347	TOK	tissues		tissue\N5P
+348	TOK	and		and\CC
+349	TOK	the		the\AT---6
+350	TOK	kidneys		kidney\N5P
+351	TOK	excrete		excrete\VMF6R66
+352	TOK	the		the\AT---6
+353	TOK	water		water\N5S
+354	TOK	in		in\P
+355	TOK	the		the\AT---6
+356	TOK	urine		urine\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="P">
+357	TOK	along with		along_with\P
+##	TAG	</loc>
+358	TOK	an		an\AI---S
+359	TOK	excess		excess\N5S
+360	TOK	of		of\P
+361	TOK	salts		salt\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+362	TOK	Dehydration	BOS	dehydration\N5S
+363	TOK	and		and\CC
+364	TOK	salt		salt\N5S
+365	TOK	loss		loss\N5S
+366	TOK	brought		bring\VMC----
+367	TOK	on		on\P
+368	TOK	by		by\P
+369	TOK	severe		severe\JA
+370	TOK	hyperglycemia		hyperglycemia\N5S
+371	TOK	can		can\VOFDR66
+372	TOK	lead		lead\VMI----
+373	TOK	to		to\P
+374	TOK	coma		coma\N5S
+375	TOK	and		and\CC
+376	TOK	death		death\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+377	TOK	Milder	BOS	mild\JC
+378	TOK	hyperglycemia		hyperglycemia\N5S
+379	TOK	probably		probably\DGA7
+380	TOK	contributes		contribute\VMFDRS3
+381	TOK	to		to\P
+382	TOK	such		such\RIS3N-
+383	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+384	TOK	term		term\N5S
+385	TOK	complications		complication\N5P
+386	TOK	of		of\P
+387	TOK	diabetes		diabetes\N56
+388	TOK	mellitus		mellitus\N5S
+389	TOK	as		as\P
+390	TOK	heart		heart\N5S
+391	TOK	attacks		attack\N5P
+---	DLD	,		=\DELIM
+392	TOK	strokes		stroke\N5P
+---	DLD	,		=\DELIM
+393	TOK	blindness		blindness\N5S
+---	DLD	,		=\DELIM
+394	TOK	kidney		kidney\N5S
+395	TOK	failure		failure\N5S
+396	TOK	and		and\CC
+397	TOK	gangrene		gangrene\N5S
+398	TOK	of		of\P
+399	TOK	the		the\AT---6
+400	TOK	extremities		extremity\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+401	TOK	A	BOS	a\AI---S
+402	TOK	lack		lack\N5S
+403	TOK	of		of\P
+404	TOK	insulin		insulin\N5S
+405	TOK	causes		cause\VMFDRS3
+406	TOK	insulin		insulin\N5S
+---	DLI	-		=\DELIM
+407	TOK	dependent		dependent\JA
+408	TOK	diabetes		diabetes\N56
+409	TOK	mellitus		mellitus\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+410	TOK	IDDM		IDDM\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+411	TOK	or		or\CC
+412	TOK	type		type\N5S
+413	TOK	I		i\N5S
+414	TOK	diabetes		diabetes\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+415	TOK	It	BOS	it\RPS3N6
+416	TOK	generally		generally\DGA7
+417	TOK	develops		develop\VMFDRS3
+418	TOK	in		in\P
+419	TOK	children		child\N5P
+420	TOK	or		or\CC
+421	TOK	adolescents		adolescent\N5P
+422	TOK	when		when\CS
+423	TOK	an		an\AI---S
+424	TOK	autoimmune		autoimmune\JA
+425	TOK	reaction		reaction\N5S
+426	TOK	destroys		destroy\VMFDRS3
+427	TOK	beta		beta\N5S
+428	TOK	cells		cell\N5P
+429	TOK	in		in\P
+430	TOK	the		the\AT---6
+431	TOK	pancreas		pancreas\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+432	TOK	Non	BOS	Non\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+433	TOK	insulin		insulin\N5S
+---	DLI	-		=\DELIM
+434	TOK	dependent		dependent\JA
+435	TOK	diabetes		diabetes\N56
+---	DLE	(		=\DELIM
+##	TAG	<name>
+436	TOK	NIDDM		NIDDM\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+437	TOK	or		or\CC
+438	TOK	type		type\VMF6R66
+##	TAG	<num>
+439	TOK	II		II\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+440	TOK	usually		usually\DGA7
+441	TOK	appears		appear\VMFDRS3
+442	TOK	later		later\DGC7
+443	TOK	in		in\P
+444	TOK	life		life\N5S
+445	TOK	and		and\CC
+446	TOK	is		be\V6FDRS3
+447	TOK	by		by\P
+448	TOK	far		far\DGA7
+449	TOK	the		the\AT---6
+450	TOK	more		more\DDC7
+451	TOK	prevalent		prevalent\JA
+452	TOK	form		form\VMF6R66
+---	DLD	,		=\DELIM
+453	TOK	afflicting		afflict\VMG----
+454	TOK	about		about\P
+##	TAG	<num>
+455	TOK	5		5\X
+##	TAG	</num>
+456	TOK	percent		percent\N56
+457	TOK	of		of\P
+458	TOK	the		the\AT---6
+##	TAG	<abbr>
+459	TOK	U.S.		U.S.\N5S
+##	TAG	</abbr>
+460	TOK	population		population\N5S
+461	TOK	who		who\RW63N-
+462	TOK	are		be\V6FDR66
+463	TOK	more		more\DDC7
+464	TOK	than		than\CS
+##	TAG	<num>
+465	TOK	40		40\X
+##	TAG	</num>
+##	TAG	<loc pos="N5P">
+466	TOK	years old		years_old\N5P
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+467	TOK	Early	BOS	early\JA
+468	TOK	in		in\P
+469	TOK	the		the\AT---6
+470	TOK	disease		disease\N5S
+471	TOK	some		some\AG---6
+##	TAG	<name>
+472	TOK	NIDDM		NIDDM\N46
+##	TAG	</name>
+473	TOK	patients		patient\N5P
+474	TOK	do		do\V6FDR66
+475	TOK	not		not\DGA7
+476	TOK	lack		lack\VMI----
+477	TOK	insulin		insulin\N5S
+---	DLD	,		=\DELIM
+478	TOK	and		and\CC
+479	TOK	so		so\DGA7
+480	TOK	the		the\AT---6
+481	TOK	disease		disease\N5S
+482	TOK	may		may\VOFDR66
+483	TOK	come		come\VMI----
+484	TOK	from		from\P
+485	TOK	an		an\AI---S
+486	TOK	insufficient		insufficient\JA
+487	TOK	hormonal		hormonal\JA
+488	TOK	effect		effect\N5S
+489	TOK	in		in\P
+490	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+491	TOK	fat		fat\N5S
+492	TOK	and		and\CC
+493	TOK	liver		liver\N5S
+494	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+495	TOK	The	BOS	the\AT---6
+496	TOK	absorption		absorption\N5S
+497	TOK	of		of\P
+498	TOK	glucose		glucose\N5S
+499	TOK	is		be\V6FDRS3
+500	TOK	more		more\DDC7
+501	TOK	complex		complex\JA
+502	TOK	than		than\CS
+503	TOK	might		may\VOFDR66
+504	TOK	be		be\VMI----
+505	TOK	supposed		suppose\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+506	TOK	A	BOS	a\AI---S
+507	TOK	cell		cell\N5S
+508	TOK	can		can\VOFDR66
+509	TOK	survive		survive\VMI----
+510	TOK	only		only\DGA7
+511	TOK	by		by\P
+512	TOK	preventing		prevent\VMG----
+513	TOK	its		its\APS3N6
+514	TOK	interior		interior\N5S
+515	TOK	from		from\P
+516	TOK	mixing		mix\VMG----
+517	TOK	with		with\P
+518	TOK	the		the\AT---6
+519	TOK	watery		watery\JA
+520	TOK	environment		environment\N5S
+521	TOK	outside		outside\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+522	TOK	Such	BOS	such\JA
+523	TOK	isolation		isolation\N5S
+524	TOK	is		be\V6FDRS3
+525	TOK	provided		provide\VMC----
+526	TOK	by		by\P
+527	TOK	the		the\AT---6
+528	TOK	cell		cell\N5S
+529	TOK	membrane		membrane\N5S
+---	DLD	,		=\DELIM
+530	TOK	a		a\AI---S
+531	TOK	double		double\JA
+532	TOK	sheet		sheet\N5S
+533	TOK	of		of\P
+534	TOK	lipid		lipid\N5S
+535	TOK	molecules		molecule\N5P
+536	TOK	that		that\RW63N6
+537	TOK	repels		repel\VMFDRS3
+538	TOK	water		water\N5S
+539	TOK	and		and\CC
+540	TOK	those		that\AD---P
+541	TOK	substances		substance\N5P
+---	DLI	-		=\DELIM
+542	TOK	such		such\JA
+543	TOK	as		as\P
+544	TOK	glucose		glucose\N5S
+---	DLI	-		=\DELIM
+545	TOK	that		that\CS
+546	TOK	readily		readily\DGA7
+547	TOK	dissolve		dissolve\VMF6R66
+548	TOK	in		in\P
+##	TAG	<abbr>
+549	TOK	water.		water.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+550	TOK	Lipids		Lipids\N46
+##	TAG	</name>
+551	TOK	are		be\V6FDR66
+552	TOK	thus		thus\DGA7
+553	TOK	said		say\VMC----
+554	TOK	to		to\P
+555	TOK	be		be\VMI----
+556	TOK	hydrophobic		hydrophobic\JA
+---	DLD	,		=\DELIM
+557	TOK	whereas		whereas\CS
+558	TOK	glucose		glucose\N5S
+559	TOK	is		be\V6FDRS3
+##	TAG	<abbr>
+560	TOK	hydrophilic.		hydrophilic.\JS
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+##	TAG	<loc pos="P">
+561	TOK	Because of		Because_of\P
+##	TAG	</loc>
+562	TOK	this		this\AD---S
+563	TOK	arrangement		arrangement\N5S
+---	DLD	,		=\DELIM
+564	TOK	the		the\AT---6
+565	TOK	cell		cell\N5S
+566	TOK	can		can\V6FDR66
+567	PGR	not		not\DGA7
+568	TOK	absorb		absorb\VMF6R66
+569	TOK	glucose		glucose\N5S
+570	TOK	by		by\P
+571	TOK	simple		simple\JA
+572	TOK	diffusion		diffusion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+573	TOK	It	BOS	it\RPS3N6
+574	TOK	must		must\VOFDR66
+575	TOK	instead		instead\DGA7
+576	TOK	employ		employ\VMI----
+577	TOK	a		a\AI---S
+578	TOK	special		special\JA
+579	TOK	protein		protein\N5S
+---	DLD	:		=\DELIM
+580	TOK	the		the\AT---6
+581	TOK	transporter		transporter\N5S
+582	TOK	molecule		molecule\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+583	TOK	The	BOS	the\AT---6
+584	TOK	first		first\MOS
+585	TOK	glucose		glucose\N5S
+586	TOK	transporter		transporter\N5S
+587	TOK	was		be\V6F-A66
+588	TOK	isolated		isolate\VMC----
+589	TOK	in		in\P
+##	TAG	<num>
+590	TOK	1977		1977\X
+##	TAG	</num>
+591	TOK	from		from\P
+592	TOK	human		human\JA
+593	TOK	erythrocytes		erythrocyte\N5P
+---	DLE	(		=\DELIM
+594	TOK	red		red\JA
+595	TOK	blood		blood\N5S
+596	TOK	cells		cell\N5P
+---	DLD	)		=\DELIM
+597	TOK	by		by\P
+##	TAG	<name>
+598	TOK	Michihiro Kasahara		Michihiro_Kasahara\N46
+##	TAG	</name>
+599	TOK	and		and\CC
+##	TAG	<name>
+600	TOK	Peter		Peter\N46
+##	TAG	</name>
+##	TAG	<abbr>
+601	TOK	C.		C.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name pos="N46" type="organization">
+602	TOK	Hinkle of Cornell University		Hinkle_of_Cornell_University\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+603	TOK	Eight	BOS	Eight\X
+##	TAG	</num>
+604	TOK	years		year\N5P
+605	TOK	later		later\DGC7
+606	TOK	a		a\AI---S
+607	TOK	collaborative		collaborative\JA
+608	TOK	project		project\N5S
+---	DLD	,		=\DELIM
+609	TOK	led		lead\VMC----
+610	TOK	by		by\P
+611	TOK	one		one\MCS
+612	TOK	of		of\P
+613	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+614	TOK	Mueckler		Mueckler\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+615	TOK	and		and\CC
+##	TAG	<name>
+616	TOK	Harvey		Harvey\N46
+##	TAG	</name>
+##	TAG	<abbr>
+617	TOK	F.		F.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+618	TOK	Lodish		Lodish\N46
+##	TAG	</name>
+619	TOK	of		of\P
+620	TOK	the		the\AT---6
+##	TAG	<name>
+621	TOK	Whitehead Institute for Biomedical Research		Whitehead_Institute_for_Biomedical_Research\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+622	TOK	elucidated		elucidate\VMC----
+623	TOK	the		the\AT---6
+624	TOK	transporter		transporter\N5S
+625	PGR	's		genmark\GENMARK
+626	TOK	amino		amino\N5S
+627	TOK	acid		acid\N5S
+628	TOK	sequence		sequence\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+629	TOK	The	BOS	the\AT---6
+630	TOK	investigators		investigator\N5P
+631	TOK	worked		work\VMF6A66
+632	TOK	backward		backward\JA
+---	DLD	,		=\DELIM
+633	TOK	in		in\P
+634	TOK	this		this\AD---S
+635	TOK	case		case\N5S
+636	TOK	the		the\AT---6
+637	TOK	easiest		easy\JS
+638	TOK	strategy		strategy\N5S
+---	DLD	,		=\DELIM
+639	TOK	by		by\P
+640	TOK	isolating		isolate\VMG----
+641	TOK	the		the\AT---6
+##	TAG	<name>
+642	TOK	DNA		DNA\N46
+##	TAG	</name>
+643	TOK	that		that\RW63N6
+644	TOK	encodes		encode\VMFDRS3
+645	TOK	the		the\AT---6
+646	TOK	protein		protein\N5S
+647	TOK	and		and\CC
+648	TOK	determining		determine\VMG----
+649	TOK	the		the\AT---6
+650	TOK	sequence		sequence\N5S
+651	TOK	of		of\P
+652	TOK	its		its\APS3N6
+653	TOK	nucleic		nucleic\JA
+654	TOK	acid		acid\N5S
+655	TOK	bases		base\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+656	TOK	They	BOS	they\RPP3NN
+657	TOK	then		then\DGA7
+658	TOK	applied		apply\VMF6A66
+659	TOK	the		the\AT---6
+660	TOK	genetic		genetic\JA
+661	TOK	code		code\N5S
+662	TOK	to		to\P
+663	TOK	translate		translate\VMI----
+664	TOK	this		this\AD---S
+665	TOK	sequence		sequence\N5S
+666	TOK	into		into\P
+667	TOK	a		a\AI---S
+668	TOK	sequence		sequence\N5S
+669	TOK	of		of\P
+670	TOK	amino		amino\N5S
+671	TOK	acids		acid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+672	TOK	The	BOS	the\AT---6
+673	TOK	protein		protein\N5S
+674	TOK	described		describe\VMC----
+675	TOK	by		by\P
+676	TOK	this		this\AD---S
+677	TOK	method		method\N5S
+678	TOK	consists		consist\VMFDRS3
+679	TOK	of		of\P
+680	TOK	a		a\AI---S
+681	TOK	chain		chain\N5S
+682	TOK	of		of\P
+##	TAG	<num>
+683	TOK	492		492\X
+##	TAG	</num>
+684	TOK	amino		amino\N5S
+685	TOK	acids		acid\N5P
+686	TOK	that		that\RW63N6
+687	TOK	can		can\VOFDR66
+688	TOK	be		be\VMI----
+689	TOK	viewed		view\VMC----
+690	TOK	as		as\P
+691	TOK	being		be\VMG----
+692	TOK	organized		organize\VMC----
+693	TOK	into		into\P
+##	TAG	<num>
+694	TOK	25		25\X
+##	TAG	</num>
+695	TOK	segments		segment\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+696	TOK	Thirteen	BOS	Thirteen\X
+##	TAG	</num>
+697	TOK	segments		segment\N5P
+698	TOK	are		be\V6FDR66
+699	TOK	largely		largely\DGA7
+700	TOK	hydrophilic		hydrophilic\JA
+701	TOK	and		and\CC
+702	TOK	so		so\DGA7
+703	TOK	are		be\V6FDR66
+704	TOK	likely		likely\JA
+705	TOK	to		to\P
+706	TOK	prefer		prefer\VMI----
+707	TOK	the		the\AT---6
+708	TOK	aqueous		aqueous\JA
+709	TOK	extracellular		extracellular\JA
+710	TOK	and		and\CC
+711	TOK	intracellular		intracellular\JA
+712	TOK	environments		environment\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+713	TOK	They	BOS	they\RPP3NN
+714	TOK	alternate		alternate\VMF6R66
+715	TOK	with		with\P
+##	TAG	<num>
+716	TOK	12		12\X
+##	TAG	</num>
+717	TOK	primarily		primarily\DGA7
+718	TOK	hydrophobic		hydrophobic\JA
+719	TOK	segments		segment\N5P
+720	TOK	that		that\RW63N6
+721	TOK	are		be\V6FDR66
+722	TOK	likely		likely\JA
+723	TOK	to		to\P
+724	TOK	prefer		prefer\VMI----
+725	TOK	the		the\AT---6
+726	TOK	lipid		lipid\N5S
+727	TOK	environment		environment\N5S
+728	TOK	of		of\P
+729	TOK	the		the\AT---6
+730	TOK	cell		cell\N5S
+731	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+732	TOK	This	BOS	this\AD---S
+733	TOK	arrangement		arrangement\N5S
+---	DLD	,		=\DELIM
+734	TOK	together		together\DGA7
+735	TOK	with		with\P
+736	TOK	some		some\AG---6
+737	TOK	direct		direct\JA
+738	TOK	chemical		chemical\JA
+739	TOK	information		information\N5S
+740	TOK	about		about\P
+741	TOK	those		that\AD---P
+742	TOK	parts		part\N5P
+743	TOK	of		of\P
+744	TOK	the		the\AT---6
+745	TOK	protein		protein\N5S
+746	TOK	that		that\RW63N6
+747	TOK	face		face\VMF6R66
+748	TOK	in		in\P
+749	TOK	and		and\CC
+##	TAG	<loc pos="P">
+750	TOK	out of		out_of\P
+##	TAG	</loc>
+751	TOK	the		the\AT---6
+752	TOK	erythrocyte		erythrocyte\N5S
+---	DLD	,		=\DELIM
+753	TOK	suggests		suggest\VMFDRS3
+754	TOK	that		that\CS
+755	TOK	the		the\AT---6
+756	TOK	protein		protein\N5S
+757	TOK	weaves		weave\VMFDRS3
+##	TAG	<loc pos="DGA7">
+758	TOK	back and forth		back_and_forth\DGA7
+##	TAG	</loc>
+759	TOK	across		across\P
+760	TOK	the		the\AT---6
+761	TOK	membrane		membrane\N5S
+##	TAG	<num>
+762	TOK	12		12\X
+##	TAG	</num>
+763	TOK	times		time\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+764	TOK	How	BOS	how\DGAW
+765	TOK	might		may\VOFDR66
+766	TOK	such		such\JA
+767	TOK	a		a\AI---S
+768	TOK	structure		structure\N5S
+769	TOK	convey		convey\VMF6R66
+770	TOK	glucose		glucose\N5S
+771	TOK	into		into\P
+772	TOK	the		the\AT---6
+773	TOK	cell		cell\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+774	TOK	It	BOS	it\RPS3N6
+775	TOK	must		must\VOFDR66
+776	TOK	somehow		somehow\DGA7
+777	TOK	create		create\VMI----
+778	TOK	a		a\AI---S
+779	TOK	pore		pore\N5S
+780	TOK	through		through\P
+781	TOK	the		the\AT---6
+782	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+783	TOK	The	BOS	the\AT---6
+784	TOK	architecture		architecture\N5S
+785	TOK	of		of\P
+786	TOK	such		such\JA
+787	TOK	a		a\AI---S
+788	TOK	pore		pore\N5S
+789	TOK	is		be\V6FDRS3
+790	TOK	suggested		suggest\VMC----
+791	TOK	by		by\P
+792	TOK	the		the\AT---6
+793	TOK	folding		folding\JA
+794	TOK	arrangement		arrangement\N5S
+795	TOK	of		of\P
+796	TOK	the		the\AT---6
+797	TOK	polypeptide		polypeptide\N5S
+798	TOK	chain		chain\N5S
+799	TOK	and		and\CC
+800	TOK	by		by\P
+801	TOK	the		the\AT---6
+802	TOK	pattern		pattern\N5S
+803	TOK	of		of\P
+804	TOK	amino		amino\N5S
+805	TOK	acids		acid\N5P
+806	TOK	in		in\P
+807	TOK	the		the\AT---6
+808	TOK	transmembrane		transmembrane\JA
+809	TOK	segments		segment\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+810	TOK	Spectroscopic	BOS	spectroscopic\JA
+811	TOK	evidence		evidence\N5S
+812	TOK	implies		imply\VMFDRS3
+813	TOK	that		that\CS
+814	TOK	each		each\AG---S
+815	TOK	segment		segment\N5S
+816	TOK	is		be\V6FDRS3
+817	TOK	coiled		coil\VMC----
+818	TOK	into		into\P
+819	TOK	a		a\AI---S
+820	TOK	helix		helix\N5S
+---	DLI	-		=\DELIM
+821	TOK	indeed		indeed\DGA7
+---	DLD	,		=\DELIM
+822	TOK	up		up\N5S
+823	TOK	to		to\P
+##	TAG	<num>
+824	TOK	80		80\X
+##	TAG	</num>
+825	TOK	percent		percent\N56
+826	TOK	of		of\P
+827	TOK	the		the\AT---6
+828	TOK	entire		entire\JA
+829	TOK	polypeptide		polypeptide\N5S
+830	TOK	chain		chain\N5S
+831	TOK	appears		appear\VMFDRS3
+832	TOK	to		to\P
+833	TOK	be		be\VMI----
+834	TOK	helical		helical\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+835	TOK	Because	BOS	because\CS
+836	TOK	a		a\AI---S
+837	TOK	helix		helix\N5S
+838	TOK	takes		take\VMFDRS3
+839	TOK	the		the\AT---6
+840	TOK	overall		overall\JA
+841	TOK	shape		shape\N5S
+842	TOK	of		of\P
+843	TOK	a		a\AI---S
+844	TOK	cylinder		cylinder\N5S
+---	DLD	,		=\DELIM
+845	TOK	the		the\AT---6
+846	TOK	chemically		chemically\DGA7
+847	TOK	reactive		reactive\JA
+848	TOK	groups		group\N5P
+849	TOK	of		of\P
+850	TOK	the		the\AT---6
+851	TOK	amino		amino\N5S
+852	TOK	acids		acid\N5P
+853	TOK	will		will\VOFDR66
+854	TOK	be		be\VMI----
+855	TOK	arrayed		array\VMC----
+856	TOK	periodically		periodically\DGA7
+857	TOK	along		along\P
+858	TOK	the		the\AT---6
+859	TOK	surface		surface\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+860	TOK	It	BOS	it\RPS3N6
+861	TOK	turns		turn\VMFDRS3
+862	TOK	out		out\DGA7
+863	TOK	that		that\CS
+864	TOK	in		in\P
+##	TAG	<num>
+865	TOK	five		five\X
+##	TAG	</num>
+866	TOK	transmembrane		transmembrane\JA
+867	TOK	segments		segment\N5P
+---	DLI	-		=\DELIM
+868	TOK	numbers		number\N5P
+##	TAG	<num>
+869	TOK	3		3\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+870	TOK	5		5\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+871	TOK	7		7\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+872	TOK	8		8\X
+##	TAG	</num>
+873	TOK	and		and\CC
+##	TAG	<num>
+874	TOK	11		11\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+875	TOK	the		the\AT---6
+876	TOK	groups		group\N5P
+877	TOK	are		be\V6FDR66
+878	TOK	hydrophilic		hydrophilic\JA
+879	TOK	on		on\P
+880	TOK	one		one\MCS
+881	TOK	side		side\N5S
+882	TOK	of		of\P
+883	TOK	the		the\AT---6
+884	TOK	cylinder		cylinder\N5S
+885	TOK	and		and\CC
+886	TOK	hydrophobic		hydrophobic\JA
+887	TOK	on		on\P
+888	TOK	the		the\AT---6
+889	TOK	other		other\RIS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+890	TOK	Bound	BOS	bind\VMC----
+891	TOK	together		together\DGA7
+892	TOK	with		with\P
+893	TOK	their		their\APP3N6
+894	TOK	hydrophobic		hydrophobic\JA
+895	TOK	sides		side\N5P
+896	TOK	facing		face\VMG----
+897	TOK	away		away\DGA7
+898	TOK	from		from\P
+899	TOK	their		their\APP3N6
+900	TOK	common		common\JA
+901	TOK	axis		axis\N5S
+---	DLI	-		=\DELIM
+902	TOK	toward		toward\P
+903	TOK	the		the\AT---6
+904	TOK	remaining		remain\VMG----
+905	TOK	transmembrane		transmembrane\JA
+906	TOK	segments		segment\N5P
+907	TOK	and		and\CC
+908	TOK	the		the\AT---6
+909	TOK	lipid		lipid\N5S
+910	TOK	environment		environment\N5S
+911	TOK	of		of\P
+912	TOK	the		the\AT---6
+913	TOK	membrane		membrane\N5S
+---	DLI	-		=\DELIM
+914	TOK	the		the\AT---6
+##	TAG	<num>
+915	TOK	five		five\X
+##	TAG	</num>
+916	TOK	segments		segment\N5P
+917	TOK	would		will\VOFDA66
+918	TOK	form		form\VMI----
+919	TOK	a		a\AI---S
+920	TOK	pore		pore\N5S
+921	TOK	whose		whose\AW---6
+922	TOK	inner		inner\N5S
+923	TOK	surface		surface\N5S
+924	TOK	could		can\VOFDA66
+925	TOK	bind		bind\VMI----
+926	TOK	glucose		glucose\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+927	TOK	We	BOS	we\RPP1NN
+928	TOK	emphasize		emphasize\VMF6R66
+929	TOK	that		that\CS
+930	TOK	this		this\AD---S
+931	TOK	model		model\N5S
+932	TOK	for		for\P
+933	TOK	the		the\AT---6
+934	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+935	TOK	dimensional		dimensional\JA
+936	TOK	structure		structure\N5S
+937	TOK	of		of\P
+938	TOK	the		the\AT---6
+939	TOK	glucose		glucose\N5S
+940	TOK	transporter		transporter\N5S
+941	TOK	is		be\V6FDRS3
+942	TOK	speculative		speculative\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+943	TOK	To	BOS	to\P
+944	TOK	determine		determine\VMI----
+945	TOK	the		the\AT---6
+946	TOK	real		real\JA
+947	TOK	structure		structure\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+948	TOK	X-ray		X-ray\N46
+##	TAG	</name>
+949	TOK	crystallographers		crystallographer\N5P
+950	TOK	will		will\VOFDR66
+951	TOK	have		have\VMI----
+952	TOK	to		to\P
+953	TOK	learn		learn\VMI----
+954	TOK	how		how\DGAW
+955	TOK	to		to\P
+956	TOK	make		make\VMI----
+957	TOK	the		the\AT---6
+958	TOK	transporters		transporter\N5P
+959	TOK	into		into\P
+960	TOK	well		well\DGA7
+---	DLD	-		=\DELIM
+961	TOK	ordered		order\VMC----
+962	TOK	crystals		crystal\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+963	TOK	So far	BOS	So_far\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+964	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+965	TOK	the		the\AT---6
+966	TOK	lipid		lipid\N5S
+---	DLI	-		=\DELIM
+967	TOK	loving		loving\N5S
+968	TOK	nature		nature\N5S
+969	TOK	of		of\P
+970	TOK	these		this\AD---P
+971	TOK	proteins		protein\N5P
+972	TOK	has		have\V6FDRS3
+973	TOK	made		make\VMC----
+974	TOK	them		them\RPP3NA
+975	TOK	resist		resist\VMF6R66
+##	TAG	<loc pos="RDP3N-">
+976	TOK	all such		all_such\RDP3N-
+##	TAG	</loc>
+977	TOK	efforts		effort\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+978	TOK	We	BOS	we\RPP1NN
+979	TOK	therefore		therefore\DGA7
+980	TOK	modeled		model\VMC----
+981	TOK	the		the\AT---6
+982	TOK	transporter		transporter\N5S
+983	TOK	in		in\P
+984	TOK	part		part\N5S
+985	TOK	on		on\P
+986	TOK	the		the\AT---6
+987	TOK	examples		example\N5P
+988	TOK	furnished		furnish\VMC----
+989	TOK	by		by\P
+990	TOK	the		the\AT---6
+991	TOK	handful		handful\N5S
+992	TOK	of		of\P
+993	TOK	membrane		membrane\N5S
+994	TOK	proteins		protein\N5P
+995	TOK	that		that\RW63N6
+996	TOK	lend		lend\VMF6R66
+997	TOK	themselves		themselves\RXP3N-
+998	TOK	to		to\P
+999	TOK	crystallization		crystallization\N5S
+1000	TOK	and		and\CC
+1001	TOK	have		have\V6F6R66
+1002	TOK	thus		thus\DGA7
+1003	TOK	been		be\VMC----
+1004	TOK	imaged		image\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1005	TOK	One	BOS	one\RIS3N-
+1006	TOK	of		of\P
+1007	TOK	them		them\RPP3NA
+---	DLD	,		=\DELIM
+1008	TOK	called		call\VMF6A66
+1009	TOK	the		the\AT---6
+1010	TOK	bacterial		bacterial\JA
+1011	TOK	photosynthetic		photosynthetic\JA
+1012	TOK	reaction		reaction\N5S
+1013	TOK	center		center\VMF6R66
+---	DLD	,		=\DELIM
+1014	TOK	incorporates		incorporate\VMFDRS3
+##	TAG	<num>
+1015	TOK	three		three\X
+##	TAG	</num>
+1016	TOK	separate		separate\JA
+1017	TOK	protein		protein\N5S
+1018	TOK	chains		chain\N5P
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1019	TOK	two		two\X
+##	TAG	</num>
+1020	TOK	crossing		crossing\N5S
+1021	TOK	the		the\AT---6
+1022	TOK	membrane		membrane\N5S
+##	TAG	<num>
+1023	TOK	five		five\X
+##	TAG	</num>
+1024	TOK	times		time\N5P
+1025	TOK	and		and\CC
+1026	TOK	another		another\JA
+1027	TOK	crossing		crossing\N5S
+1028	TOK	it		it\RPS3N6
+1029	TOK	once		once\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1030	TOK	Each	BOS	each\RIS3N-
+1031	TOK	of		of\P
+1032	TOK	the		the\AT---6
+##	TAG	<num>
+1033	TOK	11		11\X
+##	TAG	</num>
+1034	TOK	transmembrane		transmembrane\JA
+1035	TOK	segments		segment\N5P
+1036	TOK	has		have\V6FDRS3
+1037	TOK	a		a\AI---S
+1038	TOK	helical		helical\JA
+1039	TOK	structure		structure\N5S
+1040	TOK	resembling		resemble\VMG----
+1041	TOK	the		the\AT---6
+1042	TOK	one		one\RIS3N-
+1043	TOK	we		we\RPP1NN
+1044	TOK	propose		propose\VMF6R66
+1045	TOK	for		for\P
+1046	TOK	the		the\AT---6
+1047	TOK	glucose		glucose\N5S
+1048	TOK	transporter		transporter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1049	TOK	The	BOS	the\AT---6
+1050	TOK	detailed		detail\VMC----
+1051	TOK	molecular		molecular\JA
+1052	TOK	events		event\N5P
+1053	TOK	that		that\RW63N6
+1054	TOK	bring		bring\VMF6R66
+1055	TOK	glucose		glucose\N5S
+1056	TOK	into		into\P
+1057	TOK	the		the\AT---6
+1058	TOK	cell		cell\N5S
+1059	TOK	are		be\V6FDR66
+1060	TOK	even		even\DGA7
+1061	TOK	more		more\DDC7
+1062	TOK	complicated		complicate\VMC----
+1063	TOK	than		than\CS
+1064	TOK	our		our\APP1N6
+1065	TOK	structural		structural\JA
+1066	TOK	description		description\N5S
+1067	TOK	suggests		suggest\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1068	TOK	The	BOS	the\AT---6
+1069	TOK	transporter		transporter\N5S
+1070	TOK	is		be\V6FDRS3
+1071	TOK	believed		believe\VMC----
+1072	TOK	to		to\P
+1073	TOK	manipulate		manipulate\VMI----
+1074	TOK	glucose		glucose\N5S
+1075	TOK	by		by\P
+1076	TOK	holding		hold\VMG----
+1077	TOK	it		it\RPS3N6
+1078	TOK	in		in\P
+1079	TOK	weak		weak\JA
+---	DLD	,		=\DELIM
+1080	TOK	and		and\CC
+1081	TOK	therefore		therefore\DGA7
+1082	TOK	transient		transient\JA
+---	DLD	,		=\DELIM
+1083	TOK	hydrogen		hydrogen\N5S
+1084	TOK	bonds		bond\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1085	TOK	Such	BOS	such\JA
+1086	TOK	a		a\AI---S
+1087	TOK	bond		bond\N5S
+1088	TOK	stretches		stretch\VMFDRS3
+1089	TOK	a		a\AI---S
+1090	TOK	hydrogen		hydrogen\N5S
+1091	TOK	atom		atom\N5S
+1092	TOK	between		between\P
+1093	TOK	an		an\AI---S
+1094	TOK	atom		atom\N5S
+1095	TOK	of		of\P
+1096	TOK	nitrogen		nitrogen\N5S
+1097	TOK	or		or\CC
+1098	TOK	oxygen		oxygen\N5S
+1099	TOK	in		in\P
+1100	TOK	one		one\MCS
+1101	TOK	compound		compound\N5S
+1102	TOK	and		and\CC
+1103	TOK	the		the\AT---6
+1104	TOK	unpaired		unpaired\JA
+1105	TOK	electrons		electron\N5P
+1106	TOK	on		on\P
+1107	TOK	an		an\AI---S
+1108	TOK	oxygen		oxygen\N5S
+1109	TOK	or		or\CC
+1110	TOK	nitrogen		nitrogen\N5S
+1111	TOK	atom		atom\N5S
+1112	TOK	of		of\P
+1113	TOK	another		another\JA
+1114	TOK	compound		compound\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1115	TOK	Transmembrane	BOS	transmembrane\JA
+1116	TOK	segments		segment\N5P
+##	TAG	<num>
+1117	TOK	3		3\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1118	TOK	5		5\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1119	TOK	7		7\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1120	TOK	8		8\X
+##	TAG	</num>
+1121	TOK	and		and\CC
+##	TAG	<num>
+1122	TOK	11		11\X
+##	TAG	</num>
+1123	TOK	contain		contain\VMF6R66
+1124	TOK	many		many\AI---P
+1125	TOK	amino		amino\N5S
+1126	TOK	acids		acid\N5P
+1127	TOK	having		have\VMG----
+1128	TOK	hydroxyl		hydroxyl\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1129	TOK	OH		OH\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1130	TOK	and		and\CC
+1131	TOK	carbamida		carbamida\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1132	TOK	CONH2		CONH2\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1133	TOK	groups		group\N5P
+1134	TOK	that		that\RW63N6
+1135	TOK	can		can\VOFDR66
+1136	TOK	participate		participate\VMI----
+1137	TOK	in		in\P
+1138	TOK	hydrogen		hydrogen\N5S
+1139	TOK	bonding		bond\VMG----
+1140	TOK	with		with\P
+1141	TOK	the		the\AT---6
+1142	TOK	many		many\AI---P
+1143	TOK	hydroxyl		hydroxyl\N5S
+1144	TOK	groups		group\N5P
+1145	TOK	on		on\P
+1146	TOK	glucose		glucose\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1147	TOK	Moreover	BOS	moreover\DGA7
+---	DLD	,		=\DELIM
+1148	TOK	the		the\AT---6
+1149	TOK	transporter		transporter\N5S
+1150	TOK	protein		protein\N5S
+1151	TOK	takes		take\VMFDRS3
+##	TAG	<num>
+1152	TOK	two		two\X
+##	TAG	</num>
+1153	TOK	shapes		shape\N5P
+---	DLD	:		=\DELIM
+1154	TOK	one		one\RIS3N-
+1155	TOK	binds		bind\VMFDRS3
+1156	TOK	glucose		glucose\N5S
+1157	TOK	on		on\P
+1158	TOK	the		the\AT---6
+1159	TOK	extracellular		extracellular\JA
+1160	TOK	side		side\N5S
+1161	TOK	of		of\P
+1162	TOK	the		the\AT---6
+1163	TOK	membrane		membrane\N5S
+1164	TOK	the		the\AT---6
+1165	TOK	other		other\JA
+1166	TOK	binds		bind\VMFDRS3
+1167	TOK	it		it\RPS3N6
+1168	TOK	on		on\P
+1169	TOK	the		the\AT---6
+1170	TOK	intracellular		intracellular\JA
+1171	TOK	side		side\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1172	TOK	Considerable	BOS	considerable\JA
+1173	TOK	experimental		experimental\JA
+1174	TOK	evidence		evidence\N5S
+1175	TOK	suggests		suggest\VMFDRS3
+1176	TOK	that		that\CS
+1177	TOK	a		a\AI---S
+1178	TOK	glucose		glucose\N5S
+1179	TOK	molecule		molecule\N5S
+1180	TOK	enters		enter\VMFDRS3
+1181	TOK	the		the\AT---6
+1182	TOK	cell		cell\N5S
+1183	TOK	in		in\P
+##	TAG	<num>
+1184	TOK	four		four\X
+##	TAG	</num>
+1185	TOK	steps		step\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1186	TOK	First	BOS	first\MOS
+---	DLD	,		=\DELIM
+1187	TOK	it		it\RPS3N6
+1188	TOK	occupies		occupy\VMFDRS3
+1189	TOK	the		the\AT---6
+1190	TOK	outward		outward\JA
+---	DLI	-		=\DELIM
+1191	TOK	facing		face\VMG----
+1192	TOK	binding		binding\N5S
+1193	TOK	site		site\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1194	TOK	Second	BOS	second\MOS
+---	DLD	,		=\DELIM
+1195	TOK	the		the\AT---6
+1196	TOK	complex		complex\JA
+1197	TOK	of		of\P
+1198	TOK	transporter		transporter\N5S
+1199	TOK	and		and\CC
+1200	TOK	glucose		glucose\N5S
+1201	TOK	changes		change\N5P
+1202	TOK	conformation		conformation\N5S
+---	DLD	,		=\DELIM
+1203	TOK	so		so\CC
+1204	TOK	that		that\CS
+1205	TOK	the		the\AT---6
+1206	TOK	glucose		glucose\N5S
+1207	TOK	now		now\DGA7
+1208	TOK	occupies		occupy\VMFDRS3
+1209	TOK	the		the\AT---6
+1210	TOK	binding		binding\N5S
+1211	TOK	site		site\N5S
+1212	TOK	that		that\RW63N6
+1213	TOK	faces		face\VMFDRS3
+1214	TOK	into		into\P
+1215	TOK	the		the\AT---6
+1216	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1217	TOK	Third	BOS	third\MOS
+---	DLD	,		=\DELIM
+1218	TOK	the		the\AT---6
+1219	TOK	transporter		transporter\N5S
+1220	TOK	releases		release\VMFDRS3
+1221	TOK	the		the\AT---6
+1222	TOK	glucose		glucose\N5S
+1223	TOK	into		into\P
+1224	TOK	the		the\AT---6
+1225	TOK	cytoplasm		cytoplasm\N5S
+1226	TOK	of		of\P
+1227	TOK	the		the\AT---6
+1228	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1229	TOK	Fourth	BOS	fourth\MOS
+---	DLD	,		=\DELIM
+1230	TOK	the		the\AT---6
+1231	TOK	unoccupied		unoccupied\JA
+1232	TOK	transporter		transporter\N5S
+1233	TOK	changes		change\N5P
+1234	TOK	to		to\P
+1235	TOK	the		the\AT---6
+1236	TOK	conformation		conformation\N5S
+1237	TOK	in		in\P
+1238	TOK	which		which\RW63N-
+1239	TOK	the		the\AT---6
+1240	TOK	binding		binding\N5S
+1241	TOK	site		site\N5S
+1242	TOK	for		for\P
+1243	TOK	glucose		glucose\N5S
+1244	TOK	faces		face\VMFDRS3
+1245	TOK	outward		outward\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1246	TOK	This	BOS	this\AD---S
+1247	TOK	final		final\JA
+1248	TOK	step		step\N5S
+1249	TOK	returns		return\VMFDRS3
+1250	TOK	the		the\AT---6
+1251	TOK	transporter		transporter\N5S
+1252	TOK	to		to\P
+1253	TOK	its		its\APS3N6
+1254	TOK	initial		initial\JA
+1255	TOK	shape		shape\N5S
+---	DLD	,		=\DELIM
+1256	TOK	enabling		enable\VMG----
+1257	TOK	it		it\RPS3N6
+1258	TOK	to		to\P
+1259	TOK	transport		transport\VMI----
+1260	TOK	another		another\JA
+1261	TOK	molecule		molecule\N5S
+1262	TOK	of		of\P
+1263	TOK	glucose		glucose\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1264	TOK	The	BOS	the\AT---6
+1265	TOK	structures		structure\N5P
+1266	TOK	of		of\P
+1267	TOK	the		the\AT---6
+##	TAG	<num>
+1268	TOK	two		two\X
+##	TAG	</num>
+1269	TOK	conformations		conformation\N5P
+1270	TOK	are		be\V6FDR66
+1271	TOK	not		not\DGA7
+1272	TOK	known		know\VMC----
+---	DLD	,		=\DELIM
+1273	TOK	but		but\CC
+1274	TOK	it		it\RPS3N6
+1275	TOK	seems		seem\VMFDRS3
+1276	TOK	likely		likely\JA
+1277	TOK	that		that\CS
+1278	TOK	in		in\P
+1279	TOK	each		each\AG---S
+1280	TOK	conformation		conformation\N5S
+1281	TOK	the		the\AT---6
+1282	TOK	pore		pore\N5S
+1283	TOK	is		be\V6FDRS3
+1284	TOK	open		open\JA
+1285	TOK	at		at\P
+1286	TOK	one		one\MCS
+1287	TOK	end		end\N5S
+1288	TOK	and		and\CC
+1289	TOK	constricted		constrict\VMC----
+1290	TOK	at		at\P
+1291	TOK	the		the\AT---6
+1292	TOK	other		other\JA
+1293	TOK	and		and\CC
+1294	TOK	that		that\CS
+1295	TOK	glucose		glucose\N5S
+1296	TOK	binds		bind\VMFDRS3
+1297	TOK	in		in\P
+1298	TOK	the		the\AT---6
+1299	TOK	pocket		pocket\N5S
+1300	TOK	at		at\P
+1301	TOK	the		the\AT---6
+1302	TOK	open		open\JA
+1303	TOK	end		end\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1304	TOK	Glucose	BOS	glucose\N5S
+1305	TOK	would		will\VOFDA66
+1306	TOK	then		then\DGA7
+1307	TOK	move		move\VMI----
+1308	TOK	as		as\CS
+1309	TOK	the		the\AT---6
+1310	TOK	open		open\JA
+1311	TOK	end		end\N5S
+1312	TOK	closes		close\VMFDRS3
+1313	TOK	behind		behind\P
+1314	TOK	it		it\RPS3N6
+1315	TOK	and		and\CC
+1316	TOK	the		the\AT---6
+1317	TOK	constricted		constrict\VMC----
+1318	TOK	end		end\N5S
+1319	TOK	opens		open\VMFDRS3
+1320	TOK	in		in\P
+1321	TOK	front		front\N5S
+1322	TOK	of		of\P
+1323	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1324	TOK	We	BOS	we\RPP1NN
+1325	TOK	thus		thus\DGA7
+1326	TOK	envision		envision\VMI----
+1327	TOK	the		the\AT---6
+1328	TOK	transporter		transporter\N5S
+1329	TOK	as		as\P
+1330	TOK	a		a\AI---S
+1331	TOK	conformational		conformational\JA
+1332	TOK	oscillator		oscillator\N5S
+1333	TOK	that		that\RW63N6
+1334	TOK	shifts		shift\VMFDRS3
+1335	TOK	the		the\AT---6
+1336	TOK	binding		binding\N5S
+1337	TOK	pocket		pocket\N5S
+1338	TOK	for		for\P
+1339	TOK	glucose		glucose\N5S
+1340	TOK	between		between\P
+1341	TOK	opposite		opposite\JA
+1342	TOK	sides		side\N5P
+1343	TOK	of		of\P
+1344	TOK	the		the\AT---6
+1345	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1346	TOK	Kinetic	BOS	kinetic\JA
+1347	TOK	studies		study\N5P
+---	DLD	,		=\DELIM
+1348	TOK	including		including\P
+1349	TOK	several		several\JA
+1350	TOK	performed		perform\VMC----
+1351	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+1352	TOK	Dartmouth Medical School		Dartmouth_Medical_School\N46
+##	TAG	</name>
+1353	TOK	by		by\P
+##	TAG	<name>
+1354	TOK	James		James\N46
+##	TAG	</name>
+##	TAG	<abbr>
+1355	TOK	R.		R.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1356	TOK	Appleman		Appleman\N46
+##	TAG	</name>
+1357	TOK	and		and\CC
+1358	TOK	one		one\MCS
+1359	TOK	of		of\P
+1360	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1361	TOK	Lienhard		Lienhard\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+1362	TOK	indicate		indicate\VMF6R66
+1363	TOK	that		that\CS
+1364	TOK	such		such\JA
+1365	TOK	oscillation		oscillation\N5S
+1366	TOK	is		be\V6FDRS3
+1367	TOK	extraordinarily		extraordinarily\DGA7
+1368	TOK	rapid		rapid\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1369	TOK	When	BOS	when\CS
+1370	TOK	glucose		glucose\N5S
+1371	TOK	is		be\V6FDRS3
+1372	TOK	not		not\DGA7
+1373	TOK	present		present\JA
+---	DLD	,		=\DELIM
+1374	TOK	each		each\AG---S
+1375	TOK	transporter		transporter\N5S
+1376	TOK	molecule		molecule\N5S
+1377	TOK	in		in\P
+1378	TOK	the		the\AT---6
+1379	TOK	membrane		membrane\N5S
+1380	TOK	of		of\P
+1381	TOK	an		an\AI---S
+1382	TOK	erythrocyte		erythrocyte\N5S
+1383	TOK	converts		convert\VMFDRS3
+1384	TOK	between		between\P
+1385	TOK	the		the\AT---6
+##	TAG	<num>
+1386	TOK	two		two\X
+##	TAG	</num>
+1387	TOK	states		state\N5P
+1388	TOK	about		about\P
+##	TAG	<num>
+1389	TOK	100		100\X
+##	TAG	</num>
+1390	TOK	times		time\N5P
+1391	TOK	per		per\P
+1392	TOK	second		second\N5S
+1393	TOK	at		at\P
+##	TAG	<num>
+1394	TOK	20		20\X
+##	TAG	</num>
+1395	TOK	degrees		degree\N5P
+##	TAG	<name>
+1396	TOK	Celsius		Celsius\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1397	TOK	When	BOS	when\CS
+1398	TOK	glucose		glucose\N5S
+1399	TOK	is		be\V6FDRS3
+1400	TOK	bound		bind\VMC----
+1401	TOK	to		to\P
+1402	TOK	the		the\AT---6
+1403	TOK	transporter		transporter\N5S
+---	DLD	,		=\DELIM
+1404	TOK	the		the\AT---6
+1405	TOK	rate		rate\N5S
+1406	TOK	is		be\V6FDRS3
+1407	TOK	even		even\DGA7
+1408	TOK	greater		great\JC
+---	DLD	,		=\DELIM
+1409	TOK	about		about\P
+##	TAG	<num>
+1410	TOK	900		900\X
+##	TAG	</num>
+1411	TOK	times		time\N5P
+1412	TOK	per		per\P
+1413	TOK	second		second\MOS
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1414	TOK	Glucose	BOS	glucose\N5S
+1415	TOK	speeds		speed\VMFDRS3
+1416	TOK	the		the\AT---6
+1417	TOK	oscillation		oscillation\N5S
+1418	TOK	by		by\P
+1419	TOK	lowering		lower\VMG----
+1420	TOK	the		the\AT---6
+1421	TOK	energy		energy\N5S
+1422	TOK	barrier		barrier\N5S
+1423	TOK	between		between\P
+1424	TOK	the		the\AT---6
+##	TAG	<num>
+1425	TOK	two		two\X
+##	TAG	</num>
+1426	TOK	conformations		conformation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1427	TOK	The	BOS	the\AT---6
+1428	TOK	question		question\N5S
+1429	TOK	arises		arise\VMFDRS3
+1430	TOK	why		why\CS
+1431	TOK	the		the\AT---6
+1432	TOK	glucose		glucose\N5S
+1433	TOK	transporter		transporter\N5S
+1434	TOK	works		work\VMFDRS3
+1435	TOK	in		in\P
+1436	TOK	such		such\JA
+1437	TOK	a		a\AI---S
+1438	TOK	complicated		complicate\VMC----
+1439	TOK	way		way\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1440	TOK	One	BOS	one\RIS3N-
+1441	TOK	can		can\VOFDR66
+1442	TOK	imagine		imagine\VMI----
+1443	TOK	simpler		simple\JC
+1444	TOK	strategies		strategy\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1445	TOK	The	BOS	the\AT---6
+1446	TOK	transporter		transporter\N5S
+1447	TOK	protein		protein\N5S
+1448	TOK	might		may\VOFDR66
+1449	TOK	have		have\VMI----
+1450	TOK	maintained		maintain\VMC----
+1451	TOK	a		a\AI---S
+1452	TOK	permanently		permanently\DGA7
+1453	TOK	open		open\JA
+1454	TOK	pore		pore\N5S
+---	DLD	,		=\DELIM
+1455	TOK	or		or\CC
+1456	TOK	it		it\RPS3N6
+1457	TOK	might		may\VOFDR66
+1458	TOK	have		have\VMI----
+1459	TOK	fluctuated		fluctuate\VMC----
+1460	TOK	between		between\P
+1461	TOK	such		such\JA
+1462	TOK	a		a\AI---S
+1463	TOK	conformation		conformation\N5S
+1464	TOK	and		and\CC
+1465	TOK	another		another\JA
+1466	TOK	in		in\P
+1467	TOK	which		which\RW63N-
+1468	TOK	the		the\AT---6
+1469	TOK	pore		pore\N5S
+1470	TOK	is		be\V6FDRS3
+1471	TOK	closed		close\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1472	TOK	The	BOS	the\AT---6
+1473	TOK	explanation		explanation\N5S
+1474	TOK	probably		probably\DGA7
+1475	TOK	lies		lie\VMFDRS3
+1476	TOK	in		in\P
+1477	TOK	the		the\AT---6
+1478	TOK	cell		cell\N5S
+1479	PGR	's		genmark\GENMARK
+1480	TOK	need		need\N5S
+1481	TOK	to		to\P
+1482	TOK	maintain		maintain\VMI----
+1483	TOK	chemical		chemical\JA
+1484	TOK	imbalances		imbalance\N5P
+1485	TOK	with		with\P
+1486	TOK	respect		respect\N5S
+1487	TOK	to		to\P
+1488	TOK	the		the\AT---6
+1489	TOK	extracellular		extracellular\JA
+1490	TOK	medium		medium\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1491	TOK	Sodium	BOS	sodium\N5S
+1492	TOK	ions		ion\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1493	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1494	TOK	are		be\V6FDR66
+1495	TOK	typically		typically\DGA7
+##	TAG	<num>
+1496	TOK	10		10\X
+##	TAG	</num>
+1497	TOK	times		time\N5P
+1498	TOK	more		more\DDC7
+1499	TOK	concentrated		concentrate\VMC----
+1500	TOK	outside		outside\P
+1501	TOK	than		than\CS
+1502	TOK	inside		inside\P
+1503	TOK	a		a\AI---S
+1504	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1505	TOK	Because	BOS	because\CS
+1506	TOK	a		a\AI---S
+1507	TOK	glucose		glucose\N5S
+1508	TOK	molecule		molecule\N5S
+1509	TOK	is		be\V6FDRS3
+1510	TOK	of		of\P
+1511	TOK	comparable		comparable\JA
+1512	TOK	size		size\N5S
+---	DLD	,		=\DELIM
+1513	TOK	a		a\AI---S
+1514	TOK	permanent		permanent\JA
+1515	TOK	pore		pore\N5S
+1516	TOK	for		for\P
+1517	TOK	glucose		glucose\N5S
+1518	TOK	might		may\VOFDR66
+1519	TOK	allow		allow\VMI----
+1520	TOK	sodium		sodium\N5S
+1521	TOK	ions		ion\N5P
+1522	TOK	to		to\P
+1523	TOK	leak		leak\N5S
+1524	TOK	in		in\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1525	TOK	Of course	BOS	Of_course\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1526	TOK	a		a\AI---S
+1527	TOK	sodium		sodium\N5S
+1528	TOK	ion		ion\N5S
+1529	TOK	may		may\VOFDR66
+1530	TOK	occasionally		occasionally\DGA7
+1531	TOK	hitch		hitch\VMI----
+1532	TOK	a		a\AI---S
+1533	TOK	ride		ride\N5S
+1534	TOK	into		into\P
+1535	TOK	the		the\AT---6
+1536	TOK	cell		cell\N5S
+1537	TOK	on		on\P
+1538	TOK	the		the\AT---6
+1539	TOK	transporter		transporter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1540	TOK	But	BOS	but\CC
+1541	TOK	such		such\JA
+1542	TOK	leakage		leakage\N5S
+1543	TOK	would		will\VOFDA66
+1544	TOK	be		be\VMI----
+1545	TOK	insignificant		insignificant\JA
+---	DLD	:		=\DELIM
+1546	TOK	cells		cell\N5P
+1547	TOK	have		have\V6F6R66
+1548	TOK	special		special\JA
+1549	TOK	transmembrane		transmembrane\JA
+1550	TOK	channels		channel\N5P
+1551	TOK	that		that\RW63N6
+---	DLD	,		=\DELIM
+1552	TOK	when		when\CS
+1553	TOK	open		open\JA
+---	DLD	,		=\DELIM
+1554	TOK	pass		pass\N5S
+1555	TOK	about		about\P
+##	TAG	<num>
+1556	TOK	10 million		10_million\X
+##	TAG	</num>
+1557	TOK	sodium		sodium\N5S
+1558	TOK	ions		ion\N5P
+1559	TOK	a		a\AI---S
+1560	TOK	second		second\MOS
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1561	TOK	100,000		100,000\X
+##	TAG	</num>
+1562	TOK	times		time\N5P
+1563	TOK	faster		fast\JC
+1564	TOK	than		than\CS
+1565	TOK	the		the\AT---6
+1566	TOK	glucose		glucose\N5S
+1567	TOK	transporter		transporter\N5S
+1568	TOK	operates		operate\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1569	TOK	Because	BOS	because\CS
+1570	TOK	each		each\AG---S
+1571	TOK	tissue		tissue\N5S
+1572	TOK	has		have\V6FDRS3
+1573	TOK	its		its\APS3N6
+1574	TOK	own		own\JA
+1575	TOK	glucose		glucose\N5S
+1576	TOK	requirements		requirement\N5P
+---	DLD	,		=\DELIM
+1577	TOK	one		one\RIS3N-
+1578	TOK	might		may\VOFDR66
+1579	TOK	suppose		suppose\VMI----
+1580	TOK	that		that\CS
+1581	TOK	each		each\RIS3N-
+1582	TOK	would		will\VOFDA66
+1583	TOK	also		also\DGA7
+1584	TOK	have		have\VMI----
+1585	TOK	a		a\AI---S
+1586	TOK	different		different\JA
+1587	TOK	glucose		glucose\N5S
+1588	TOK	transporter		transporter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1589	TOK	Considerable	BOS	considerable\JA
+1590	TOK	evidence		evidence\N5S
+1591	TOK	for		for\P
+1592	TOK	this		this\AD---S
+1593	TOK	hypothesis		hypothesis\N5S
+1594	TOK	accumulated		accumulate\VMC----
+1595	TOK	by		by\P
+1596	TOK	the		the\AT---6
+1597	TOK	early		early\JA
+##	TAG	<na type="code">
+1598	TOK	1980s		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1599	TOK	Transporters	BOS	transporter\N5P
+1600	TOK	reacted		react\VMC----
+1601	TOK	differently		differently\DGA7
+1602	TOK	to		to\P
+1603	TOK	chemical		chemical\JA
+1604	TOK	inhibitors		inhibitor\N5P
+---	DLD	,		=\DELIM
+1605	TOK	and		and\CC
+1606	TOK	they		they\RPP3NN
+1607	TOK	were		be\V6F-A66
+##	TAG	<loc pos="DGA7">
+1608	TOK	more or less		more_or_less\DGA7
+##	TAG	</loc>
+1609	TOK	efficient		efficient\JA
+1610	TOK	at		at\P
+1611	TOK	transporting		transport\VMG----
+1612	TOK	glucose		glucose\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1613	TOK	That	BOS	that\CS
+1614	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+1615	TOK	although		although\CS
+1616	TOK	they		they\RPP3NN
+1617	TOK	all		all\DGA7
+1618	TOK	transported		transport\VMC----
+1619	TOK	glucose		glucose\N5S
+1620	TOK	at		at\P
+1621	TOK	increasing		increase\VMG----
+1622	TOK	rates		rate\N5P
+1623	TOK	as		as\P
+1624	TOK	the		the\AT---6
+1625	TOK	concentration		concentration\N5S
+1626	TOK	rose		rise\VMF6A66
+1627	TOK	from		from\P
+##	TAG	<num>
+1628	TOK	zero		zero\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1629	TOK	their		their\APP3N6
+1630	TOK	rates		rate\N5P
+1631	TOK	topped		top\VMF6A66
+1632	TOK	out		out\DGA7
+---	DLD	,		=\DELIM
+1633	TOK	or		or\CC
+1634	TOK	saturated		saturate\VMF6A66
+---	DLD	,		=\DELIM
+1635	TOK	at		at\P
+1636	TOK	different		different\JA
+1637	TOK	glucose		glucose\N5S
+1638	TOK	concentrations		concentration\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1639	TOK	Workers	BOS	worker\N5P
+1640	TOK	characterize		characterize\VMF6R66
+1641	TOK	transport		transport\N5S
+1642	TOK	systems		system\N5P
+1643	TOK	by		by\P
+1644	TOK	the		the\AT---6
+1645	TOK	glucose		glucose\N5S
+1646	TOK	concentration		concentration\N5S
+1647	TOK	at		at\P
+1648	TOK	which		which\RW63N-
+1649	TOK	the		the\AT---6
+1650	TOK	transport		transport\N5S
+1651	TOK	rate		rate\N5S
+1652	TOK	equals		equal\VMFDRS3
+1653	TOK	half		half\N5S
+1654	TOK	the		the\AT---6
+1655	TOK	saturation		saturation\N5S
+1656	TOK	rate		rate\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1657	TOK	The	BOS	the\AT---6
+1658	TOK	half		half\N5S
+---	DLI	-		=\DELIM
+1659	TOK	saturation		saturation\N5S
+1660	TOK	concentration		concentration\N5S
+1661	TOK	for		for\P
+1662	TOK	the		the\AT---6
+1663	TOK	transporter		transporter\N5S
+1664	TOK	in		in\P
+1665	TOK	liver		liver\N5S
+1666	TOK	cells		cell\N5P
+1667	TOK	is		be\V6FDRS3
+1668	TOK	high		high\JA
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1669	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1670	TOK	whereas		whereas\CS
+1671	TOK	that		that\RDS3N-
+1672	TOK	for		for\P
+1673	TOK	the		the\AT---6
+1674	TOK	transporter		transporter\N5S
+1675	TOK	in		in\P
+1676	TOK	brain		brain\N5S
+1677	TOK	cells		cell\N5P
+1678	TOK	is		be\V6FDRS3
+1679	TOK	low		low\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1680	TOK	Proof	BOS	proof\N5S
+1681	TOK	that		that\CS
+1682	TOK	transporters		transporter\N5P
+1683	TOK	differed		differ\VMF6A66
+1684	TOK	came		come\VMF6A66
+1685	TOK	after		after\P
+##	TAG	<num>
+1686	TOK	1985		1985\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1687	TOK	when		when\CS
+1688	TOK	researchers		researcher\N5P
+1689	TOK	found		find\VMF6A66
+1690	TOK	the		the\AT---6
+##	TAG	<name>
+1691	TOK	DNA		DNA\N46
+##	TAG	</name>
+1692	TOK	sequence		sequence\N5S
+1693	TOK	encoding		encode\VMG----
+1694	TOK	the		the\AT---6
+1695	TOK	human		human\JA
+1696	TOK	erythrocyte		erythrocyte\N5S
+1697	TOK	glucose		glucose\N5S
+1698	TOK	transporter		transporter\N5S
+1699	TOK	and		and\CC
+1700	TOK	used		use\VMF6A66
+1701	TOK	it		it\RPS3N6
+1702	TOK	as		as\DGA7
+1703	TOK	a		a\AI---S
+1704	TOK	probe		probe\N5S
+1705	TOK	to		to\P
+1706	TOK	isolate		isolate\VMI----
+##	TAG	<name>
+1707	TOK	DNA		DNA\N46
+##	TAG	</name>
+1708	TOK	encoding		encode\VMG----
+1709	TOK	transporters		transporter\N5P
+1710	TOK	from		from\P
+1711	TOK	other		other\JA
+1712	TOK	tissues		tissue\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1713	TOK	This	BOS	this\AD---S
+1714	TOK	approach		approach\N5S
+1715	TOK	has		have\V6FDRS3
+1716	TOK	been		be\VMC----
+1717	TOK	pursued		pursue\VMC----
+1718	TOK	vigorously		vigorously\DGA7
+1719	TOK	by		by\P
+1720	TOK	many		many\AI---P
+1721	TOK	investigators		investigator\N5P
+---	DLD	,		=\DELIM
+1722	TOK	most		most\DDS7
+1723	TOK	notably		notably\DGA7
+##	TAG	<name>
+1724	TOK	Graeme		Graeme\N46
+##	TAG	</name>
+##	TAG	<abbr>
+1725	TOK	I.		I.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1726	TOK	Bell		Bell\N46
+##	TAG	</name>
+1727	TOK	of		of\P
+1728	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+1729	TOK	University of Chicago		University_of_Chicago\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1730	TOK	Morris		Morris\N46
+##	TAG	</name>
+##	TAG	<abbr>
+1731	TOK	J.		J.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name pos="N46" type="organization">
+1732	TOK	Birnbaum of Harvard Medical School		Birnbaum_of_Harvard_Medical_School\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1733	TOK	Lodish		Lodish\N46
+##	TAG	</name>
+1734	TOK	and		and\CC
+##	TAG	<num>
+1735	TOK	two		two\X
+##	TAG	</num>
+1736	TOK	of		of\P
+1737	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1738	TOK	Mueckler		Mueckler\N46
+##	TAG	</name>
+1739	TOK	and		and\CC
+##	TAG	<name>
+1740	TOK	James		James\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1741	TOK	A	BOS	a\AI---S
+1742	TOK	total		total\JA
+1743	TOK	of		of\P
+##	TAG	<num>
+1744	TOK	five		five\X
+##	TAG	</num>
+1745	TOK	glucose		glucose\N5S
+1746	TOK	transporters		transporter\N5P
+1747	TOK	have		have\V6F6R66
+1748	TOK	been		be\VMC----
+1749	TOK	discovered		discover\VMC----
+##	TAG	<loc pos="DGA7">
+1750	TOK	so far		so_far\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1751	TOK	The	BOS	the\AT---6
+1752	TOK	transporters		transporter\N5P
+1753	TOK	form		form\VMF6R66
+1754	TOK	a		a\AI---S
+1755	TOK	family		family\N5S
+1756	TOK	whose		whose\AW---6
+1757	TOK	members		member\N5P
+1758	TOK	are		be\V6FDR66
+1759	TOK	broadly		broadly\DGA7
+1760	TOK	alike		alike\JA
+1761	TOK	in		in\P
+1762	TOK	structure		structure\N5S
+1763	TOK	and		and\CC
+1764	TOK	function		function\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1765	TOK	Each	BOS	each\RIS3N-
+1766	TOK	consists		consist\VMFDRS3
+1767	TOK	of		of\P
+1768	TOK	a		a\AI---S
+1769	TOK	polypeptide		polypeptide\N5S
+1770	TOK	chain		chain\N5S
+1771	TOK	of		of\P
+1772	TOK	about		about\DGA7
+##	TAG	<num>
+1773	TOK	500		500\X
+##	TAG	</num>
+1774	TOK	amino		amino\N5S
+1775	TOK	acids		acid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1776	TOK	The	BOS	the\AT---6
+1777	TOK	amino		amino\N5S
+1778	TOK	acid		acid\N5S
+1779	TOK	residues		residue\N5P
+1780	TOK	at		at\P
+1781	TOK	about		about\DGA7
+1782	TOK	half		half\N5S
+1783	TOK	the		the\AT---6
+1784	TOK	positions		position\N5P
+1785	TOK	in		in\P
+1786	TOK	the		the\AT---6
+##	TAG	<num>
+1787	TOK	five		five\X
+##	TAG	</num>
+1788	TOK	sequences		sequence\N5P
+1789	TOK	are		be\V6FDR66
+1790	TOK	the		the\AT---6
+1791	TOK	same		same\JA
+1792	TOK	or		or\CC
+1793	TOK	very		very\JA
+1794	TOK	similar		similar\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1795	TOK	Moreover	BOS	moreover\DGA7
+---	DLD	,		=\DELIM
+1796	TOK	the		the\AT---6
+1797	TOK	predicted		predict\VMC----
+1798	TOK	pattern		pattern\N5S
+1799	TOK	of		of\P
+1800	TOK	folding		fold\VMG----
+1801	TOK	for		for\P
+1802	TOK	each		each\AG---S
+1803	TOK	transporter		transporter\N5S
+1804	TOK	consists		consist\VMFDRS3
+1805	TOK	of		of\P
+##	TAG	<num>
+1806	TOK	12		12\X
+##	TAG	</num>
+1807	TOK	membranespanning		membranespanning\N5S
+1808	TOK	segments		segment\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1809	TOK	Each	BOS	each\AG---S
+1810	TOK	glucose		glucose\N5S
+1811	TOK	transporter		transporter\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1812	TOK	GluT		GluT\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1813	TOK	is		be\V6FDRS3
+1814	TOK	numbered		number\VMC----
+1815	TOK	in		in\P
+1816	TOK	the		the\AT---6
+1817	TOK	order		order\N5S
+1818	TOK	of		of\P
+1819	TOK	its		its\APS3N6
+1820	TOK	discovery		discovery\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<label pos="B">
+1821	TOK	-	BOS	=\B
+##	TAG	</label>
+1822	TOK	The		the\AT---6
+1823	TOK	first		first\MOS
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1824	TOK	GluTl		GluTl\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1825	TOK	is		be\V6FDRS3
+1826	TOK	expressed		express\VMC----
+1827	TOK	in		in\P
+1828	TOK	high		high\JA
+1829	TOK	levels		level\N5P
+1830	TOK	in		in\P
+1831	TOK	the		the\AT---6
+1832	TOK	endothelial		endothelial\JA
+1833	TOK	cells		cell\N5P
+1834	TOK	that		that\RW63N6
+1835	TOK	line		line\VMF6R66
+1836	TOK	the		the\AT---6
+1837	TOK	blood		blood\N5S
+1838	TOK	vessels		vessel\N5P
+1839	TOK	and		and\CC
+1840	TOK	that		that\CS
+1841	TOK	form		form\VMF6R66
+1842	TOK	the		the\AT---6
+1843	TOK	barrier		barrier\N5S
+1844	TOK	between		between\P
+1845	TOK	brain		brain\N5S
+1846	TOK	and		and\CC
+1847	TOK	blood		blood\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1848	TOK	It	BOS	it\RPS3N6
+1849	TOK	seems		seem\VMFDRS3
+1850	TOK	to		to\P
+1851	TOK	be		be\VMI----
+1852	TOK	specialized		specialize\VMC----
+1853	TOK	to		to\P
+1854	TOK	provide		provide\VMI----
+1855	TOK	the		the\AT---6
+1856	TOK	steady		steady\JA
+1857	TOK	flow		flow\N5S
+1858	TOK	of		of\P
+1859	TOK	glucose		glucose\N5S
+1860	TOK	that		that\CS
+1861	TOK	the		the\AT---6
+1862	TOK	brain		brain\N5S
+1863	TOK	requires		require\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1864	TOK	Smaller	BOS	small\JC
+1865	TOK	amounts		amount\N5P
+1866	TOK	of		of\P
+##	TAG	<name>
+1867	TOK	GluTl		GluTl\N46
+##	TAG	</name>
+1868	TOK	are		be\V6FDR66
+1869	TOK	found		find\VMC----
+1870	TOK	in		in\P
+1871	TOK	many		many\AI---P
+1872	TOK	other		other\JA
+1873	TOK	tissues		tissue\N5P
+---	DLD	,		=\DELIM
+1874	TOK	suggesting		suggest\VMG----
+1875	TOK	that		that\CS
+1876	TOK	it		it\RPS3N6
+1877	TOK	supplies		supply\VMFDRS3
+1878	TOK	all		all\AG---6
+1879	TOK	the		the\AT---6
+1880	TOK	glucose		glucose\N5S
+1881	TOK	they		they\RPP3NN
+1882	TOK	need		need\V6F6R66
+1883	TOK	when		when\CS
+1884	TOK	their		their\APP3N6
+1885	TOK	cells		cell\N5P
+1886	TOK	are		be\V6FDR66
+1887	TOK	in		in\P
+1888	TOK	a		a\AI---S
+1889	TOK	comparatively		comparatively\DGA7
+1890	TOK	inactive		inactive\JA
+1891	TOK	state		state\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<label pos="B">
+1892	TOK	-	BOS	=\B
+##	TAG	</label>
+##	TAG	<name>
+1893	TOK	GluT2		GluT2\N46
+##	TAG	</name>
+1894	TOK	appears		appear\VMFDRS3
+1895	TOK	in		in\P
+1896	TOK	organs		organ\N5P
+1897	TOK	that		that\RW63N6
+1898	TOK	release		release\VMF6R66
+1899	TOK	glucose		glucose\N5S
+1900	TOK	into		into\P
+1901	TOK	the		the\AT---6
+1902	TOK	blood		blood\N5S
+---	DLD	,		=\DELIM
+1903	TOK	such		such\JA
+1904	TOK	as		as\P
+1905	TOK	the		the\AT---6
+1906	TOK	intestine		intestine\N5S
+---	DLD	,		=\DELIM
+1907	TOK	the		the\AT---6
+1908	TOK	liver		liver\N5S
+1909	TOK	and		and\CC
+1910	TOK	the		the\AT---6
+1911	TOK	kidney		kidney\N5S
+---	DLD	,		=\DELIM
+1912	TOK	and		and\CC
+1913	TOK	in		in\P
+1914	TOK	the		the\AT---6
+1915	TOK	beta		beta\N5S
+1916	TOK	cells		cell\N5P
+1917	TOK	of		of\P
+1918	TOK	the		the\AT---6
+1919	TOK	pancreas		pancreas\N5S
+---	DLD	,		=\DELIM
+1920	TOK	which		which\RW63N-
+1921	TOK	secrete		secrete\VMF6R66
+1922	TOK	insulin		insulin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1923	TOK	The	BOS	the\AT---6
+1924	TOK	high		high\JA
+1925	TOK	glucose		glucose\N5S
+1926	TOK	concentration		concentration\N5S
+1927	TOK	required		require\VMC----
+1928	TOK	for		for\P
+1929	TOK	half		half\N5S
+---	DLD	-		=\DELIM
+1930	TOK	saturation		saturation\N5S
+1931	TOK	of		of\P
+##	TAG	<name>
+1932	TOK	GluT2		GluT2\N46
+##	TAG	</name>
+1933	TOK	means		mean\VMFDRS3
+1934	TOK	that		that\CS
+1935	TOK	it		it\RPS3N6
+1936	TOK	transports		transport\VMFDRS3
+1937	TOK	glucose		glucose\N5S
+1938	TOK	in		in\P
+1939	TOK	proportion		proportion\N5S
+1940	TOK	to		to\P
+1941	TOK	the		the\AT---6
+1942	TOK	sugar		sugar\N5S
+1943	PGR	's		genmark\GENMARK
+1944	TOK	concentration		concentration\N5S
+1945	TOK	in		in\P
+1946	TOK	the		the\AT---6
+1947	TOK	blood		blood\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1948	TOK	Consequently	BOS	consequently\DGA7
+---	DLD	,		=\DELIM
+1949	TOK	changes		change\N5P
+1950	TOK	in		in\P
+1951	TOK	the		the\AT---6
+1952	TOK	blood		blood\N5S
+1953	TOK	glucose		glucose\N5S
+1954	TOK	level		level\N5S
+1955	TOK	during		during\P
+1956	TOK	meals		meal\N5P
+1957	TOK	or		or\CC
+1958	TOK	exercise		exercise\N5S
+1959	TOK	are		be\V6FDR66
+1960	TOK	effectively		effectively\DGA7
+1961	TOK	transmitted		transmit\VMC----
+1962	TOK	to		to\P
+1963	TOK	the		the\AT---6
+1964	TOK	liver		liver\N5S
+1965	TOK	and		and\CC
+1966	TOK	beta		beta\N5S
+1967	TOK	cells		cell\N5P
+1968	TOK	by		by\P
+##	TAG	<name>
+1969	TOK	GluT2		GluT2\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<label pos="B">
+1970	TOK	-	BOS	=\B
+##	TAG	</label>
+##	TAG	<name>
+1971	TOK	GluT3		GluT3\N46
+##	TAG	</name>
+1972	TOK	is		be\V6FDRS3
+1973	TOK	found		find\VMC----
+1974	TOK	in		in\P
+1975	TOK	the		the\AT---6
+1976	TOK	neuronal		neuronal\JA
+1977	TOK	cells		cell\N5P
+1978	TOK	of		of\P
+1979	TOK	the		the\AT---6
+1980	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1981	TOK	Because	BOS	because\CS
+1982	TOK	it		it\RPS3N6
+1983	TOK	has		have\V6FDRS3
+1984	TOK	a		a\AI---S
+1985	TOK	higher		high\JC
+1986	TOK	affinity		affinity\N5S
+1987	TOK	for		for\P
+1988	TOK	glucose		glucose\N5S
+1989	TOK	than		than\CS
+##	TAG	<name>
+1990	TOK	GluTl		GluTl\N46
+##	TAG	</name>
+1991	TOK	does		do\V6FDRS3
+---	DLD	,		=\DELIM
+1992	TOK	this		this\AD---S
+1993	TOK	transporter		transporter\N5S
+1994	TOK	ensures		ensure\VMFDRS3
+1995	TOK	a		a\AI---S
+1996	TOK	constant		constant\JA
+1997	TOK	movement		movement\N5S
+1998	TOK	of		of\P
+1999	TOK	the		the\AT---6
+2000	TOK	sugar		sugar\N5S
+2001	TOK	into		into\P
+2002	TOK	these		this\AD---P
+2003	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2004	TOK	One	BOS	one\MCS
+2005	TOK	glucose		glucose\N5S
+2006	TOK	transporter		transporter\N5S
+2007	TOK	thus		thus\DGA7
+2008	TOK	cooperates		cooperate\VMFDRS3
+2009	TOK	with		with\P
+2010	TOK	another		another\RIS3N-
+---	DLD	,		=\DELIM
+2011	TOK	assuring		assure\VMG----
+2012	TOK	the		the\AT---6
+2013	TOK	flow		flow\N5S
+2014	TOK	of		of\P
+2015	TOK	this		this\AD---S
+2016	TOK	vital		vital\JA
+2017	TOK	nutrient		nutrient\JA
+2018	TOK	into		into\P
+2019	TOK	brain		brain\N5S
+2020	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<label pos="B">
+2021	TOK	-	BOS	=\B
+##	TAG	</label>
+##	TAG	<name>
+2022	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2023	TOK	is		be\V6FDRS3
+2024	TOK	the		the\AT---6
+2025	TOK	major		major\JA
+2026	TOK	transporter		transporter\N5S
+2027	TOK	in		in\P
+2028	TOK	muscle		muscle\N5S
+2029	TOK	and		and\CC
+2030	TOK	fat		fat\N5S
+2031	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+2032	TOK	which		which\RW63N-
+2033	TOK	take		take\VMF6R66
+2034	TOK	up		up\P
+2035	TOK	glucose		glucose\N5S
+2036	TOK	in		in\P
+2037	TOK	great		great\JA
+2038	TOK	spurts		spurt\N5P
+2039	TOK	and		and\CC
+2040	TOK	convert		convert\VMF6R66
+2041	TOK	it		it\RPS3N6
+2042	TOK	to		to\P
+2043	TOK	other		other\JA
+2044	TOK	energy		energy\N5S
+---	DLI	-		=\DELIM
+2045	TOK	yielding		yielding\JA
+2046	TOK	compounds		compound\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2047	TOK	This	BOS	this\AD---S
+2048	TOK	transporter		transporter\N5S
+2049	TOK	is		be\V6FDRS3
+2050	TOK	distinguished		distinguish\VMC----
+2051	TOK	by		by\P
+2052	TOK	its		its\APS3N6
+2053	TOK	extraordinary		extraordinary\JA
+2054	TOK	ability		ability\N5S
+2055	TOK	to		to\P
+2056	TOK	move		move\VMI----
+##	TAG	<loc pos="DGA7">
+2057	TOK	back and forth		back_and_forth\DGA7
+##	TAG	</loc>
+2058	TOK	between		between\P
+2059	TOK	internal		internal\JA
+2060	TOK	reservoirs		reservoir\N5P
+2061	TOK	and		and\CC
+2062	TOK	the		the\AT---6
+2063	TOK	surface		surface\N5S
+2064	TOK	of		of\P
+2065	TOK	the		the\AT---6
+2066	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<label pos="B">
+2067	TOK	-	BOS	=\B
+##	TAG	</label>
+##	TAG	<name>
+2068	TOK	GluT5		GluT5\N46
+##	TAG	</name>
+2069	TOK	is		be\V6FDRS3
+2070	TOK	found		find\VMC----
+2071	TOK	mainly		mainly\DGA7
+2072	TOK	in		in\P
+2073	TOK	the		the\AT---6
+2074	TOK	small		small\JA
+2075	TOK	intestine		intestine\N5S
+2076	TOK	and		and\CC
+2077	TOK	kidney		kidney\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2078	TOK	Its	BOS	its\APS3N6
+2079	TOK	function		function\N5S
+2080	TOK	has		have\V6FDRS3
+2081	TOK	not		not\DGA7
+2082	TOK	yet		yet\DGA7
+2083	TOK	been		be\VMC----
+2084	TOK	described		describe\VMC----
+2085	TOK	in		in\P
+2086	TOK	detail		detail\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2087	TOK	These	BOS	this\AD---P
+##	TAG	<num>
+2088	TOK	five		five\X
+##	TAG	</num>
+##	TAG	<name>
+2089	TOK	GluTs		GluTs\N46
+##	TAG	</name>
+2090	TOK	all		all\DGA7
+2091	TOK	move		move\VMF6R66
+2092	TOK	glucose		glucose\N5S
+2093	TOK	across		across\P
+2094	TOK	the		the\AT---6
+2095	TOK	membrane		membrane\N5S
+2096	TOK	along		along\P
+2097	TOK	its		its\APS3N6
+2098	TOK	concentration		concentration\N5S
+2099	TOK	gradient		gradient\N5S
+---	DLD	,		=\DELIM
+2100	TOK	that		that\CS
+2101	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+2102	TOK	from		from\P
+2103	TOK	the		the\AT---6
+2104	TOK	higher		high\JC
+2105	TOK	to		to\P
+2106	TOK	the		the\AT---6
+2107	TOK	lower		low\JC
+2108	TOK	glucose		glucose\N5S
+2109	TOK	concentration		concentration\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2110	TOK	The	BOS	the\AT---6
+2111	TOK	family		family\N5S
+2112	TOK	is		be\V6FDRS3
+2113	TOK	distinct		distinct\JA
+2114	TOK	from		from\P
+2115	TOK	another		another\JA
+2116	TOK	transporter		transporter\N5S
+2117	TOK	that		that\RW63N6
+2118	TOK	pulls		pull\VMFDRS3
+2119	TOK	glucose		glucose\N5S
+2120	TOK	against		against\P
+2121	TOK	this		this\AD---S
+2122	TOK	gradient		gradient\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2123	TOK	It	BOS	it\RPS3N6
+2124	TOK	is		be\V6FDRS3
+2125	TOK	called		call\VMC----
+2126	TOK	a		a\AI---S
+2127	TOK	cotransporter		cotransporter\N5S
+2128	TOK	because		because\CS
+2129	TOK	it		it\RPS3N6
+2130	TOK	couples		couple\VMFDRS3
+2131	TOK	the		the\AT---6
+2132	TOK	transport		transport\N5S
+2133	TOK	of		of\P
+2134	TOK	a		a\AI---S
+2135	TOK	glucose		glucose\N5S
+2136	TOK	molecule		molecule\N5S
+2137	TOK	with		with\P
+2138	TOK	that		that\RDS3N-
+2139	TOK	of		of\P
+2140	TOK	a		a\AI---S
+2141	TOK	sodium		sodium\N5S
+2142	TOK	ion		ion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2143	TOK	The	BOS	the\AT---6
+2144	TOK	energy		energy\N5S
+2145	TOK	needed		need\VMC----
+2146	TOK	to		to\P
+2147	TOK	pull		pull\VMI----
+2148	TOK	the		the\AT---6
+2149	TOK	glucose		glucose\N5S
+2150	TOK	comes		come\VMFDRS3
+2151	TOK	from		from\P
+2152	TOK	the		the\AT---6
+2153	TOK	movement		movement\N5S
+2154	TOK	of		of\P
+2155	TOK	sodium		sodium\N5S
+2156	TOK	along		along\P
+2157	TOK	its		its\APS3N6
+2158	TOK	own		own\JA
+2159	TOK	gradient		gradient\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2160	TOK	The	BOS	the\AT---6
+2161	TOK	cotransporter		cotransporter\N5S
+2162	TOK	enables		enable\VMFDRS3
+2163	TOK	cells		cell\N5P
+2164	TOK	lining		line\VMG----
+2165	TOK	the		the\AT---6
+2166	TOK	lumen		lumen\N5S
+2167	TOK	of		of\P
+2168	TOK	the		the\AT---6
+2169	TOK	intestine		intestine\N5S
+2170	TOK	and		and\CC
+2171	TOK	kidney		kidney\N5S
+2172	TOK	to		to\P
+2173	TOK	absorb		absorb\VMI----
+2174	TOK	even		even\DGA7
+2175	TOK	quite		quite\DGA7
+2176	TOK	small		small\JA
+2177	TOK	traces		trace\N5P
+2178	TOK	of		of\P
+2179	TOK	glucose		glucose\N5S
+2180	TOK	from		from\P
+2181	TOK	food		food\N5S
+2182	TOK	and		and\CC
+2183	TOK	urine		urine\N5S
+---	DLD	,		=\DELIM
+2184	TOK	respectively		respectively\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2185	TOK	GluT2	BOS	GluT2\N46
+##	TAG	</name>
+2186	TOK	then		then\DGA7
+2187	TOK	releases		release\VMFDRS3
+2188	TOK	that		that\CS
+2189	TOK	sugar		sugar\N5S
+2190	TOK	into		into\P
+2191	TOK	the		the\AT---6
+2192	TOK	blood		blood\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2193	TOK	The	BOS	the\AT---6
+2194	TOK	transporters		transporter\N5P
+2195	TOK	also		also\DGA7
+2196	TOK	vary		vary\VMF6R66
+2197	TOK	in		in\P
+2198	TOK	the		the\AT---6
+2199	TOK	way		way\N5S
+2200	TOK	they		they\RPP3NN
+2201	TOK	respond		respond\VMF6R66
+2202	TOK	to		to\P
+2203	TOK	insulin		insulin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2204	TOK	Such	BOS	such\JA
+2205	TOK	specializations		specialization\N5P
+2206	TOK	are		be\V6FDR66
+2207	TOK	what		what\RW63N-
+2208	TOK	one		one\RIS3N-
+2209	TOK	would		will\VOFDA66
+2210	TOK	expect		expect\VMI----
+2211	TOK	to		to\P
+2212	TOK	find		find\VMI----
+2213	TOK	in		in\P
+2214	TOK	tissues		tissue\N5P
+2215	TOK	having		have\VMG----
+2216	TOK	markedly		markedly\DGA7
+2217	TOK	different		different\JA
+2218	TOK	metabolic		metabolic\JA
+2219	TOK	needs		need\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2220	TOK	The	BOS	the\AT---6
+2221	TOK	most		most\DDS7
+2222	TOK	marked		mark\VMC----
+2223	TOK	response		response\N5S
+2224	TOK	is		be\V6FDRS3
+2225	TOK	found		find\VMC----
+2226	TOK	in		in\P
+##	TAG	<name>
+2227	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2228	TOK	an		an\AI---S
+2229	TOK	isotype		isotype\N5S
+2230	TOK	first		first\DGA7
+2231	TOK	identified		identify\VMC----
+2232	TOK	in		in\P
+##	TAG	<num>
+2233	TOK	1988		1988\X
+##	TAG	</num>
+2234	TOK	by		by\P
+##	TAG	<name>
+2235	TOK	James		James\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2236	TOK	then		then\DGA7
+2237	TOK	at		at\P
+2238	TOK	the		the\AT---6
+##	TAG	<name>
+2239	TOK	Boston University School of Medicine		Boston_University_School_of_Medicine\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2240	TOK	and		and\CC
+2241	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+2242	TOK	worker		worker\N5S
+##	TAG	<name>
+2243	TOK	Paul		Paul\N46
+##	TAG	</name>
+##	TAG	<abbr>
+2244	TOK	F.		F.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2245	TOK	Pilch		Pilch\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2246	TOK	The	BOS	the\AT---6
+2247	TOK	effect		effect\N5S
+2248	TOK	of		of\P
+2249	TOK	insulin		insulin\N5S
+2250	TOK	on		on\P
+2251	TOK	glucose		glucose\N5S
+2252	TOK	transport		transport\N5S
+2253	TOK	is		be\V6FDRS3
+2254	TOK	dramatic		dramatic\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2255	TOK	We	BOS	we\RPP1NN
+2256	TOK	commonly		commonly\DGA7
+2257	TOK	work		work\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+2258	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2259	TOK	with		with\P
+2260	TOK	a		a\AI---S
+2261	TOK	mouse		mouse\N5S
+2262	TOK	fat		fat\N5S
+2263	TOK	cell		cell\N5S
+2264	TOK	in		in\P
+2265	TOK	culture		culture\N5S
+---	DLD	,		=\DELIM
+2266	TOK	called		call\VMF6A66
+2267	TOK	the		the\AT---6
+##	TAG	<na type="function">
+2268	TOK	3T3-Ll		noanat\W
+##	TAG	</na>
+2269	TOK	adipocyte		adipocyte\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2270	TOK	The	BOS	the\AT---6
+2271	TOK	addition		addition\N5S
+2272	TOK	of		of\P
+2273	TOK	insulin		insulin\N5S
+2274	TOK	to		to\P
+2275	TOK	such		such\JA
+2276	TOK	a		a\AI---S
+2277	TOK	culture		culture\N5S
+---	DLD	,		=\DELIM
+2278	TOK	held		hold\VMC----
+2279	TOK	at		at\P
+##	TAG	<num>
+2280	TOK	37		37\X
+##	TAG	</num>
+2281	TOK	degrees		degree\N5P
+2282	TOK	C		C\N5P
+---	DLD	,		=\DELIM
+2283	TOK	increases		increase\VMFDRS3
+2284	TOK	glucose		glucose\N5S
+2285	TOK	uptake		uptake\N5S
+##	TAG	<num>
+2286	TOK	15		15\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+2287	TOK	fold		fold\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2288	TOK	The	BOS	the\AT---6
+2289	TOK	peak		peak\N5S
+2290	TOK	rate		rate\N5S
+2291	TOK	is		be\V6FDRS3
+2292	TOK	attained		attain\VMC----
+2293	TOK	within		within\P
+##	TAG	<num>
+2294	TOK	10		10\X
+##	TAG	</num>
+2295	TOK	minutes		minute\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2296	TOK	How	BOS	how\DGAW
+2297	TOK	insulin		insulin\N5S
+2298	TOK	works		work\N5P
+2299	TOK	was		be\V6F-A66
+2300	TOK	a		a\AI---S
+2301	TOK	mystery		mystery\N5S
+2302	TOK	until		until\P
+##	TAG	<num>
+2303	TOK	1980		1980\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+2304	TOK	when		when\CS
+##	TAG	<name>
+2305	TOK	Lawrence Wardzala		Lawrence_Wardzala\N46
+##	TAG	</name>
+2306	TOK	and		and\CC
+##	TAG	<name>
+2307	TOK	Samuel		Samuel\N46
+##	TAG	</name>
+##	TAG	<abbr>
+2308	TOK	W.		W.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2309	TOK	Cushman		Cushman\N46
+##	TAG	</name>
+2310	TOK	of		of\P
+2311	TOK	the		the\AT---6
+##	TAG	<name>
+2312	TOK	National Institutes of Health		National_Institutes_of_Health\N46
+##	TAG	</name>
+2313	TOK	and		and\CC
+##	TAG	<name>
+2314	TOK	Kazuo Suzuki		Kazuo_Suzuki\N46
+##	TAG	</name>
+2315	TOK	and		and\CC
+##	TAG	<name>
+2316	TOK	Tetsuro Kono of Vanderbilt University School of Medicine		Tetsuro_Kono_of_Vanderbilt_University_School_of_Medicine\N46
+##	TAG	</name>
+2317	TOK	simultaneously		simultaneously\DGA7
+2318	TOK	and		and\CC
+2319	TOK	independently		independently\DGA7
+2320	TOK	discovered		discover\VMF6A66
+2321	TOK	the		the\AT---6
+2322	TOK	phenomenon		phenomenon\N5S
+2323	TOK	of		of\P
+2324	TOK	transporter		transporter\N5S
+2325	TOK	recruitment		recruitment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2326	TOK	They	BOS	they\RPP3NN
+2327	TOK	found		find\VMF6A66
+2328	TOK	that		that\CS
+2329	TOK	cells		cell\N5P
+2330	TOK	maintain		maintain\VMF6R66
+2331	TOK	a		a\AI---S
+2332	TOK	pool		pool\N5S
+2333	TOK	of		of\P
+2334	TOK	extra		extra\JA
+2335	TOK	glucose		glucose\N5S
+2336	TOK	transporters		transporter\N5P
+---	DLE	(		=\DELIM
+2337	TOK	now		now\DGA7
+2338	TOK	known		know\VMC----
+2339	TOK	to		to\P
+2340	TOK	be		be\VMI----
+##	TAG	<name>
+2341	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2342	TOK	and		and\CC
+2343	TOK	move		move\VMF6R66
+2344	TOK	some		some\AG---6
+2345	TOK	of		of\P
+2346	TOK	them		them\RPP3NA
+2347	TOK	to		to\P
+2348	TOK	the		the\AT---6
+2349	TOK	membrane		membrane\N5S
+2350	TOK	in		in\P
+2351	TOK	response		response\N5S
+2352	TOK	to		to\P
+2353	TOK	insulin		insulin\N5S
+##	TAG	<name>
+2354	TOK	Later		Later\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2355	TOK	when		when\CS
+2356	TOK	blood		blood\N5S
+2357	TOK	glucose		glucose\N5S
+2358	TOK	drops		drop\N5P
+2359	TOK	and		and\CC
+2360	TOK	insulin		insulin\N5S
+2361	TOK	secretion		secretion\N5S
+2362	TOK	drops		drop\VMFDRS3
+2363	TOK	with		with\P
+2364	TOK	it		it\RPS3N6
+---	DLD	,		=\DELIM
+2365	TOK	the		the\AT---6
+2366	TOK	recruitment		recruitment\N5S
+2367	TOK	is		be\V6FDRS3
+2368	TOK	reversed		reverse\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2369	TOK	Recruitment	BOS	recruitment\N5S
+2370	TOK	can		can\VOFDR66
+2371	TOK	be		be\VMI----
+2372	TOK	followed		follow\VMC----
+2373	TOK	by		by\P
+2374	TOK	microscopic		microscopic\JA
+2375	TOK	methods		method\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2376	TOK	In	BOS	in\P
+2377	TOK	one		one\MCS
+2378	TOK	technique		technique\N5S
+2379	TOK	the		the\AT---6
+##	TAG	<name>
+2380	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2381	TOK	in		in\P
+##	TAG	<na type="function">
+2382	TOK	3T3-Ll		noanat\W
+##	TAG	</na>
+2383	TOK	adipocytes		adipocyte\N5P
+2384	TOK	was		be\V6F-A66
+2385	TOK	tagged		tag\VMC----
+2386	TOK	with		with\P
+2387	TOK	antibodies		antibody\N5P
+2388	TOK	that		that\RW63N6
+2389	TOK	fluoresce		fluoresce\VMF6R66
+2390	TOK	in		in\P
+2391	TOK	the		the\AT---6
+2392	TOK	green		green\JA
+2393	TOK	wavelengths		wavelength\N5P
+2394	TOK	when		when\CS
+2395	TOK	exposed		expose\VMC----
+2396	TOK	to		to\P
+2397	TOK	blue		blue\JA
+2398	TOK	light		light\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2399	TOK	The	BOS	the\AT---6
+2400	TOK	cells		cell\N5P
+2401	TOK	not		not\DGA7
+2402	TOK	stimulated		stimulate\VMC----
+2403	TOK	with		with\P
+2404	TOK	insulin		insulin\N5S
+2405	TOK	showed		show\VMF6A66
+2406	TOK	many		many\AI---P
+2407	TOK	points		point\N5P
+2408	TOK	of		of\P
+2409	TOK	the		the\AT---6
+2410	TOK	emitted		emit\VMC----
+2411	TOK	green		green\JA
+2412	TOK	light		light\N5S
+2413	TOK	inside		inside\P
+2414	TOK	the		the\AT---6
+2415	TOK	cell		cell\N5S
+2416	TOK	and		and\CC
+2417	TOK	almost		almost\DGA7
+2418	TOK	none		none\RIS3N-
+2419	TOK	at		at\P
+2420	TOK	the		the\AT---6
+2421	TOK	cell		cell\N5S
+2422	TOK	surface		surface\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2423	TOK	But	BOS	but\CC
+2424	TOK	after		after\P
+2425	TOK	insulin		insulin\N5S
+2426	TOK	treatment		treatment\N5S
+---	DLD	,		=\DELIM
+2427	TOK	the		the\AT---6
+2428	TOK	cell		cell\N5S
+2429	PGR	's		genmark\GENMARK
+2430	TOK	surface		surface\N5S
+2431	TOK	glowed		glow\VMF6A66
+2432	TOK	green		green\JA
+---	DLD	:		=\DELIM
+2433	TOK	a		a\AI---S
+2434	TOK	large		large\JA
+2435	TOK	number		number\N5S
+2436	TOK	of		of\P
+##	TAG	<name>
+2437	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2438	TOK	molecules		molecule\N5P
+2439	TOK	must		must\VOFDR66
+2440	TOK	have		have\VMI----
+2441	TOK	moved		move\VMC----
+2442	TOK	there		there\DGA7
+2443	TOK	from		from\P
+2444	TOK	the		the\AT---6
+2445	TOK	interior		interior\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2446	TOK	These	BOS	this\AD---P
+2447	TOK	results		result\N5P
+2448	TOK	were		be\V6F-A66
+2449	TOK	confirmed		confirm\VMC----
+2450	TOK	and		and\CC
+2451	TOK	quantified		quantify\VMC----
+2452	TOK	by		by\P
+2453	TOK	a		a\AI---S
+2454	TOK	study		study\N5S
+2455	TOK	that		that\RW63N6
+2456	TOK	used		use\VMF6A66
+2457	TOK	a		a\AI---S
+2458	TOK	different		different\JA
+2459	TOK	tag		tag\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2460	TOK	In	BOS	in\P
+2461	TOK	thin		thin\JA
+2462	TOK	slices		slice\N5P
+2463	TOK	of		of\P
+2464	TOK	tissue		tissue\N5S
+---	DLD	,		=\DELIM
+2465	TOK	antibodies		antibody\N5P
+2466	TOK	were		be\V6F-A66
+2467	TOK	specifically		specifically\DGA7
+2468	TOK	attached		attach\VMC----
+2469	TOK	to		to\P
+##	TAG	<name>
+2470	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2471	TOK	The	BOS	the\AT---6
+2472	TOK	workers		worker\N5P
+2473	TOK	then		then\DGA7
+2474	TOK	treated		treat\VMF6A66
+2475	TOK	the		the\AT---6
+2476	TOK	slices		slice\N5P
+2477	TOK	with		with\P
+2478	TOK	tiny		tiny\JA
+2479	TOK	gold		gold\N5S
+2480	TOK	particles		particle\N5P
+2481	TOK	linked		link\VMC----
+2482	TOK	to		to\P
+2483	TOK	a		a\AI---S
+2484	TOK	protein		protein\N5S
+2485	TOK	that		that\RW63N6
+2486	TOK	binds		bind\VMFDRS3
+2487	TOK	to		to\P
+2488	TOK	the		the\AT---6
+2489	TOK	antibodies		antibody\N5P
+---	DLD	,		=\DELIM
+2490	TOK	specifically		specifically\DGA7
+2491	TOK	marking		mark\VMG----
+2492	TOK	the		the\AT---6
+##	TAG	<name>
+2493	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2494	TOK	The	BOS	the\AT---6
+2495	TOK	particles		particle\N5P
+2496	TOK	can		can\VOFDR66
+2497	TOK	easily		easily\DGA7
+2498	TOK	be		be\VMI----
+2499	TOK	seen		see\VMC----
+2500	TOK	under		under\P
+2501	TOK	the		the\AT---6
+2502	TOK	electron		electron\N5S
+2503	TOK	microscope		microscope\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2504	TOK	One	BOS	one\RIS3N-
+2505	TOK	of		of\P
+2506	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2507	TOK	Slot		Slot\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2508	TOK	has		have\V6FDRS3
+2509	TOK	used		use\VMC----
+2510	TOK	this		this\AD---S
+2511	TOK	technique		technique\N5S
+2512	TOK	to		to\P
+2513	TOK	locate		locate\VMI----
+2514	TOK	and		and\CC
+2515	TOK	count		count\VMI----
+##	TAG	<name>
+2516	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2517	TOK	molecules		molecule\N5P
+2518	TOK	in		in\P
+2519	TOK	insulin		insulin\N5S
+---	DLI	-		=\DELIM
+2520	TOK	sensitive		sensitive\JA
+2521	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2522	TOK	Before	BOS	before\P
+2523	TOK	insulin		insulin\N5S
+2524	TOK	stimulation		stimulation\N5S
+---	DLD	,		=\DELIM
+2525	TOK	only		only\DGA7
+##	TAG	<num>
+2526	TOK	1		1\X
+##	TAG	</num>
+2527	TOK	percent		percent\N56
+2528	TOK	of		of\P
+2529	TOK	the		the\AT---6
+2530	TOK	tagged		tag\VMC----
+##	TAG	<name>
+2531	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2532	TOK	molecules		molecule\N5P
+2533	TOK	was		be\V6F-A66
+2534	TOK	on		on\P
+2535	TOK	the		the\AT---6
+2536	TOK	cell		cell\N5S
+2537	TOK	surface		surface\VMF6R66
+---	DLD	;		=\DELIM
+2538	TOK	after		after\P
+2539	TOK	stimulation		stimulation\N5S
+---	DLD	,		=\DELIM
+2540	TOK	the		the\AT---6
+2541	TOK	proportion		proportion\N5S
+2542	TOK	had		have\V6F6A66
+2543	TOK	risen		rise\VMC----
+2544	TOK	to		to\P
+2545	TOK	about		about\DGA7
+##	TAG	<num>
+2546	TOK	40		40\X
+##	TAG	</num>
+2547	TOK	percent		percent\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2548	TOK	How	BOS	how\DGAW
+2549	TOK	does		do\V6FDRS3
+2550	TOK	the		the\AT---6
+2551	TOK	cell		cell\N5S
+2552	TOK	shuttle		shuttle\N5S
+##	TAG	<name>
+2553	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2554	TOK	to		to\P
+2555	TOK	and		and\CC
+2556	TOK	from		from\P
+2557	TOK	the		the\AT---6
+2558	TOK	cell		cell\N5S
+2559	TOK	membrane		membrane\N5S
+2560	TOK	in		in\P
+2561	TOK	response		response\N5S
+2562	TOK	to		to\P
+2563	TOK	insulin		insulin\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2564	TOK	The	BOS	the\AT---6
+2565	TOK	answers		answer\N5P
+2566	TOK	are		be\V6FDR66
+2567	TOK	still		still\DGA7
+2568	TOK	sketchy		sketchy\JA
+---	DLD	,		=\DELIM
+2569	TOK	and		and\CC
+2570	TOK	many		many\AI---P
+2571	TOK	researchers		researcher\N5P
+2572	TOK	are		be\V6FDR66
+2573	TOK	trying		try\VMG----
+2574	TOK	to		to\P
+2575	TOK	fill		fill\VMI----
+2576	TOK	in		in\P
+2577	TOK	the		the\AT---6
+2578	TOK	details		detail\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2579	TOK	Because	BOS	because\CS
+2580	TOK	the		the\AT---6
+2581	TOK	glucose		glucose\N5S
+2582	TOK	transporter		transporter\N5S
+2583	TOK	is		be\V6FDRS3
+2584	TOK	a		a\AI---S
+2585	TOK	protein		protein\N5S
+2586	TOK	embedded		embed\VMC----
+2587	TOK	in		in\P
+2588	TOK	the		the\AT---6
+2589	TOK	membrane		membrane\N5S
+2590	TOK	both		both\RIP3N-
+2591	TOK	inside		inside\P
+2592	TOK	the		the\AT---6
+2593	TOK	cell		cell\N5S
+2594	TOK	and		and\CC
+2595	TOK	at		at\P
+2596	TOK	the		the\AT---6
+2597	TOK	cell		cell\N5S
+2598	TOK	surface		surface\VMF6R66
+---	DLD	,		=\DELIM
+2599	TOK	it		it\RPS3N6
+2600	TOK	surely		surely\DGA7
+2601	TOK	migrates		migrate\VMFDRS3
+2602	TOK	as		as\P
+2603	TOK	part		part\N5S
+2604	TOK	of		of\P
+2605	TOK	a		a\AI---S
+2606	TOK	membranous		membranous\JA
+2607	TOK	vesicle		vesicle\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2608	TOK	Insulin	BOS	insulin\N5S
+2609	TOK	probably		probably\DGA7
+2610	TOK	induces		induce\VMFDRS3
+2611	TOK	intracellular		intracellular\JA
+2612	TOK	vesicles		vesicle\N5P
+2613	TOK	containing		contain\VMG----
+##	TAG	<name>
+2614	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2615	TOK	to		to\P
+2616	TOK	move		move\VMI----
+2617	TOK	to		to\P
+2618	TOK	the		the\AT---6
+2619	TOK	inner		inner\JC
+2620	TOK	surface		surface\N5S
+2621	TOK	of		of\P
+2622	TOK	the		the\AT---6
+2623	TOK	cell		cell\N5S
+2624	TOK	membrane		membrane\N5S
+2625	TOK	and		and\CC
+2626	TOK	fuse		fuse\VMF6R66
+2627	TOK	with		with\P
+2628	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2629	TOK	The	BOS	the\AT---6
+2630	TOK	reverse		reverse\JA
+2631	TOK	process		process\N5S
+2632	TOK	appears		appear\VMFDRS3
+2633	TOK	to		to\P
+2634	TOK	be		be\VMI----
+2635	TOK	more		more\DDC7
+2636	TOK	complicated		complicate\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2637	TOK	In	BOS	in\P
+2638	TOK	a		a\AI---S
+2639	TOK	sequence		sequence\N5S
+2640	TOK	of		of\P
+2641	TOK	events		event\N5P
+---	DLD	,		=\DELIM
+2642	TOK	the		the\AT---6
+2643	TOK	details		detail\N5P
+2644	TOK	of		of\P
+2645	TOK	which		which\RW63N-
+2646	TOK	are		be\V6FDR66
+2647	TOK	not		not\DGA7
+2648	TOK	yet		yet\DGA7
+2649	TOK	understood		understand\VMF6A66
+---	DLD	,		=\DELIM
+2650	TOK	small		small\JA
+2651	TOK	vesicles		vesicle\N5P
+2652	TOK	containing		contain\VMG----
+##	TAG	<name>
+2653	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2654	TOK	pinch		pinch\N5S
+2655	TOK	off		off\DGA7
+2656	TOK	from		from\P
+2657	TOK	the		the\AT---6
+2658	TOK	inner		inner\JC
+2659	TOK	side		side\N5S
+2660	TOK	of		of\P
+2661	TOK	the		the\AT---6
+2662	TOK	membrane		membrane\N5S
+2663	TOK	and		and\CC
+2664	TOK	then		then\DGA7
+2665	TOK	fuse		fuse\VMF6R66
+2666	TOK	with		with\P
+2667	TOK	larger		large\JC
+2668	TOK	membranous		membranous\JA
+2669	TOK	sacs		sac\N5P
+---	DLD	,		=\DELIM
+2670	TOK	called		call\VMC----
+2671	TOK	endosomes		endosome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2672	TOK	Within	BOS	within\P
+2673	TOK	the		the\AT---6
+2674	TOK	endosomes		endosome\N5P
+2675	TOK	the		the\AT---6
+##	TAG	<name>
+2676	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2677	TOK	molecules		molecule\N5P
+2678	TOK	somehow		somehow\DGA7
+2679	TOK	segregate		segregate\VMF6R66
+2680	TOK	into		into\P
+2681	TOK	tubular		tubular\JA
+2682	TOK	extensions		extension\N5P
+---	DLD	,		=\DELIM
+2683	TOK	which		which\RW63N-
+2684	TOK	repackage		repackage\VMF6R66
+2685	TOK	themselves		themselves\RXP3N-
+2686	TOK	into		into\P
+2687	TOK	vesicles		vesicle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2688	TOK	This	BOS	this\AD---S
+2689	TOK	removal		removal\N5S
+2690	TOK	of		of\P
+##	TAG	<name>
+2691	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2692	TOK	to		to\P
+2693	TOK	the		the\AT---6
+2694	TOK	cell		cell\N5S
+2695	PGR	's		genmark\GENMARK
+2696	TOK	interior		interior\N5S
+2697	TOK	occurs		occur\VMFDRS3
+##	TAG	<loc pos="DGA7">
+2698	TOK	all the time		all_the_time\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2699	TOK	but		but\CC
+2700	TOK	when		when\CS
+2701	TOK	insulin		insulin\N5S
+2702	TOK	is		be\V6FDRS3
+2703	TOK	present		present\JA
+---	DLD	,		=\DELIM
+2704	TOK	the		the\AT---6
+2705	TOK	vesicles		vesicle\N5P
+2706	TOK	immediately		immediately\DGA7
+2707	TOK	re		re\P
+---	DLI	-		=\DELIM
+2708	TOK	fuse		fuse\VMF6R66
+2709	TOK	with		with\P
+2710	TOK	the		the\AT---6
+2711	TOK	cell		cell\N5S
+2712	TOK	surface		surface\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2713	TOK	Withdrawal	BOS	withdrawal\N5S
+2714	TOK	of		of\P
+2715	TOK	insulin		insulin\N5S
+2716	TOK	breaks		break\VMFDRS3
+2717	TOK	the		the\AT---6
+2718	TOK	cycle		cycle\N5S
+---	DLD	,		=\DELIM
+2719	TOK	causing		cause\VMG----
+2720	TOK	vesicles		vesicle\N5P
+2721	TOK	to		to\P
+2722	TOK	accumulate		accumulate\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2723	TOK	Because	BOS	because\CS
+##	TAG	<name>
+2724	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2725	TOK	is		be\V6FDRS3
+2726	TOK	the		the\AT---6
+2727	TOK	main		main\JA
+2728	TOK	isotype		isotype\N5S
+2729	TOK	that		that\RW63N6
+2730	TOK	moves		move\VMFDRS3
+---	DLD	,		=\DELIM
+2731	TOK	and		and\CC
+2732	TOK	because		because\CS
+2733	TOK	it		it\RPS3N6
+2734	TOK	normally		normally\DGA7
+2735	TOK	redeploys		redeploy\VMFDRS3
+2736	TOK	from		from\P
+2737	TOK	the		the\AT---6
+2738	TOK	interior		interior\N5S
+2739	TOK	of		of\P
+2740	TOK	the		the\AT---6
+2741	TOK	cell		cell\N5S
+2742	TOK	to		to\P
+2743	TOK	the		the\AT---6
+2744	TOK	surface		surface\N5S
+---	DLE	(		=\DELIM
+2745	TOK	and		and\CC
+##	TAG	<foreign lang="LA" pos="DGA7">
+2746	TOK	vice versa		vice_versa\DGA7
+##	TAG	</foreign>
+---	DLE	,		=\DELIM
+2747	TOK	depending		depend\VMG----
+2748	TOK	on		on\P
+2749	TOK	the		the\AT---6
+2750	TOK	insulin		insulin\N5S
+2751	TOK	level		level\VMF6R66
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2752	TOK	we		we\RPP1NN
+2753	TOK	suspect		suspect\VMF6R66
+2754	TOK	that		that\CS
+2755	TOK	it		it\RPS3N6
+2756	TOK	has		have\V6FDRS3
+2757	TOK	a		a\AI---S
+2758	TOK	guidance		guidance\N5S
+2759	TOK	mechanism		mechanism\N5S
+2760	TOK	possessed		possess\VMF6A66
+2761	TOK	by		by\P
+2762	TOK	no		no\AI---6
+2763	TOK	other		other\JA
+2764	TOK	isotype		isotype\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2765	TOK	The	BOS	the\AT---6
+2766	TOK	key		key\N5S
+2767	TOK	feature		feature\N5S
+2768	TOK	of		of\P
+2769	TOK	this		this\AD---S
+2770	TOK	mechanism		mechanism\N5S
+2771	TOK	would		will\VOFDA66
+2772	TOK	be		be\VMI----
+2773	TOK	the		the\AT---6
+2774	TOK	placement		placement\N5S
+2775	TOK	of		of\P
+##	TAG	<name>
+2776	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2777	TOK	in		in\P
+2778	TOK	intracellular		intracellular\JA
+2779	TOK	vesicles		vesicle\N5P
+2780	TOK	when		when\CS
+2781	TOK	insulin		insulin\N5S
+2782	TOK	is		be\V6FDRS3
+2783	TOK	absent		absent\JA
+---	DLD	;		=\DELIM
+2784	TOK	the		the\AT---6
+##	TAG	<name>
+2785	TOK	GluTs		GluTs\N46
+##	TAG	</name>
+2786	TOK	in		in\P
+2787	TOK	the		the\AT---6
+2788	TOK	other		other\JA
+2789	TOK	tissues		tissue\N5P
+2790	TOK	reside		reside\VMF6R66
+2791	TOK	mainly		mainly\DGA7
+2792	TOK	at		at\P
+2793	TOK	the		the\AT---6
+2794	TOK	cell		cell\N5S
+2795	TOK	surface		surface\N5S
+##	TAG	<loc pos="CS">
+2796	TOK	whether or not		whether_or_not\CS
+##	TAG	</loc>
+2797	TOK	insulin		insulin\N5S
+2798	TOK	is		be\V6FDRS3
+2799	TOK	present		present\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2800	TOK	Such	BOS	such\JA
+2801	TOK	a		a\AI---S
+2802	TOK	mechanism		mechanism\N5S
+2803	TOK	must		must\VOFDR66
+2804	TOK	depend		depend\VMI----
+2805	TOK	on		on\P
+2806	TOK	a		a\AI---S
+2807	TOK	unique		unique\JA
+2808	TOK	segment		segment\N5S
+2809	TOK	of		of\P
+2810	TOK	amino		amino\N5S
+2811	TOK	acids		acid\N5P
+2812	TOK	in		in\P
+##	TAG	<name>
+2813	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2814	TOK	one		one\RIS3N-
+2815	TOK	that		that\RW63N6
+2816	TOK	might		may\VOFDR66
+2817	TOK	direct		direct\VMI----
+2818	TOK	the		the\AT---6
+2819	TOK	transporter		transporter\N5S
+2820	TOK	to		to\P
+2821	TOK	vesicles		vesicle\N5P
+2822	TOK	by		by\P
+2823	TOK	interacting		interact\VMG----
+2824	TOK	with		with\P
+2825	TOK	other		other\JA
+2826	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2827	TOK	The	BOS	the\AT---6
+2828	TOK	segment		segment\N5S
+2829	TOK	would		will\VOFDA66
+2830	TOK	thus		thus\DGA7
+2831	TOK	function		function\VMI----
+2832	TOK	as		as\CS
+2833	TOK	a		a\AI---S
+2834	TOK	ticket		ticket\N5S
+2835	TOK	stamped		stamp\VMC----
+2836	TOK	with		with\P
+2837	TOK	a		a\AI---S
+2838	TOK	destination		destination\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2839	TOK	Workers	BOS	worker\N5P
+2840	TOK	are		be\V6FDR66
+2841	TOK	examining		examine\VMG----
+2842	TOK	this		this\AD---S
+2843	TOK	hypothesis		hypothesis\N5S
+2844	TOK	by		by\P
+2845	TOK	using		use\VMG----
+2846	TOK	molecular		molecular\JA
+2847	TOK	biological		biological\JA
+2848	TOK	techniques		technique\N5P
+2849	TOK	to		to\P
+2850	TOK	produce		produce\VMI----
+2851	TOK	mutant		mutant\N5S
+2852	TOK	forms		form\N5P
+2853	TOK	of		of\P
+##	TAG	<name>
+2854	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+2855	TOK	that		that\RW63N6
+2856	TOK	can		can\VOFDR66
+2857	TOK	be		be\VMI----
+2858	TOK	expressed		express\VMC----
+2859	TOK	in		in\P
+2860	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2861	TOK	If	BOS	if\CS
+2862	TOK	such		such\JA
+2863	TOK	a		a\AI---S
+2864	TOK	mutant		mutant\N5S
+2865	TOK	can		can\VOFDR66
+2866	TOK	be		be\VMI----
+2867	TOK	found		find\VMC----
+2868	TOK	residing		reside\VMG----
+2869	TOK	at		at\P
+2870	TOK	the		the\AT---6
+2871	TOK	surface		surface\N5S
+2872	TOK	of		of\P
+2873	TOK	a		a\AI---S
+2874	TOK	cell		cell\N5S
+2875	TOK	in		in\P
+2876	TOK	the		the\AT---6
+2877	TOK	basal		basal\JA
+2878	TOK	state		state\N5S
+---	DLD	,		=\DELIM
+2879	TOK	then		then\DGA7
+2880	TOK	the		the\AT---6
+2881	TOK	site		site\N5S
+2882	TOK	where		where\CS
+2883	TOK	the		the\AT---6
+2884	TOK	mutation		mutation\N5S
+2885	TOK	occurred		occur\VMC----
+2886	TOK	will		will\VOFDR66
+2887	TOK	probably		probably\DGA7
+2888	TOK	coincide		coincide\VMI----
+2889	TOK	with		with\P
+2890	TOK	the		the\AT---6
+2891	TOK	ticket		ticket\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2892	TOK	When	BOS	when\CS
+2893	TOK	insulin		insulin\N5S
+2894	TOK	binds		bind\VMFDRS3
+2895	TOK	to		to\P
+2896	TOK	the		the\AT---6
+2897	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+2898	TOK	it		it\RPS3N6
+2899	TOK	triggers		trigger\VMFDRS3
+2900	TOK	a		a\AI---S
+2901	TOK	cascade		cascade\N5S
+2902	TOK	of		of\P
+2903	TOK	molecular		molecular\JA
+2904	TOK	events		event\N5P
+2905	TOK	that		that\RW63N6
+2906	TOK	ultimately		ultimately\DGA7
+2907	TOK	redistributes		redistribute\VMFDRS3
+2908	TOK	the		the\AT---6
+2909	TOK	glucose		glucose\N5S
+2910	TOK	transporters		transporter\N5P
+2911	TOK	to		to\P
+2912	TOK	the		the\AT---6
+2913	TOK	cell		cell\N5S
+2914	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2915	TOK	Only	BOS	only\DGA7
+2916	TOK	the		the\AT---6
+2917	TOK	beginning		beginning\N5S
+2918	TOK	and		and\CC
+2919	TOK	the		the\AT---6
+2920	TOK	end		end\N5S
+2921	TOK	of		of\P
+2922	TOK	this		this\AD---S
+2923	TOK	cascade		cascade\N5S
+2924	TOK	are		be\V6FDR66
+2925	TOK	known		know\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2926	TOK	It	BOS	it\RPS3N6
+2927	TOK	starts		start\VMFDRS3
+2928	TOK	when		when\CS
+2929	TOK	insulin		insulin\N5S
+2930	TOK	from		from\P
+2931	TOK	the		the\AT---6
+2932	TOK	blood		blood\N5S
+2933	TOK	binds		bind\VMFDRS3
+2934	TOK	to		to\P
+2935	TOK	a		a\AI---S
+2936	TOK	specific		specific\JA
+2937	TOK	protein		protein\N5S
+2938	TOK	embedded		embed\VMC----
+2939	TOK	in		in\P
+2940	TOK	the		the\AT---6
+2941	TOK	cell		cell\N5S
+2942	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2943	TOK	The	BOS	the\AT---6
+2944	TOK	protein		protein\N5S
+2945	TOK	projects		project\N5P
+2946	TOK	from		from\P
+2947	TOK	either		either\AG---6
+2948	TOK	side		side\N5S
+2949	TOK	of		of\P
+2950	TOK	the		the\AT---6
+2951	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2952	TOK	When	BOS	when\CS
+2953	TOK	insulin		insulin\N5S
+2954	TOK	binds		bind\VMFDRS3
+2955	TOK	to		to\P
+2956	TOK	the		the\AT---6
+2957	TOK	outer		outer\JA
+2958	TOK	projection		projection\N5S
+---	DLD	,		=\DELIM
+2959	TOK	the		the\AT---6
+2960	TOK	receptor		receptor\N5S
+2961	TOK	reconforms		reconforms\N5P
+---	DLD	,		=\DELIM
+2962	TOK	enabling		enable\VMG----
+2963	TOK	the		the\AT---6
+2964	TOK	inner		inner\JC
+2965	TOK	projection		projection\N5S
+2966	TOK	to		to\P
+2967	TOK	put		put\VMI----
+2968	TOK	a		a\AI---S
+2969	TOK	phosphoryl		phosphoryl\N5S
+2970	TOK	group		group\N5S
+2971	TOK	on		on\P
+2972	TOK	the		the\AT---6
+2973	TOK	amino		amino\N5S
+2974	TOK	acid		acid\N5S
+2975	TOK	tyrosine		tyrosine\N5S
+2976	TOK	at		at\P
+2977	TOK	specific		specific\JA
+2978	TOK	locations		location\N5P
+2979	TOK	within		within\P
+2980	TOK	specific		specific\JA
+2981	TOK	target		target\N5S
+2982	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2983	TOK	No	BOS	no\N5S
+2984	TOK	target		target\N5S
+2985	TOK	protein		protein\N5S
+2986	TOK	known		know\VMC----
+2987	TOK	to		to\P
+2988	TOK	be		be\VMI----
+2989	TOK	involved		involve\VMC----
+2990	TOK	in		in\P
+2991	TOK	signaling		signal\VMG----
+2992	TOK	the		the\AT---6
+2993	TOK	recruitment		recruitment\N5S
+2994	TOK	of		of\P
+2995	TOK	the		the\AT---6
+2996	TOK	glucose		glucose\N5S
+2997	TOK	transporter		transporter\N5S
+2998	TOK	has		have\V6FDRS3
+2999	TOK	yet		yet\DGA7
+3000	TOK	been		be\VMC----
+3001	TOK	found		find\VMF6A66
+---	DLD	,		=\DELIM
+3002	TOK	although		although\CS
+3003	TOK	one		one\MCS
+3004	TOK	obvious		obvious\JA
+3005	TOK	candidate		candidate\N5S
+---	DLI	-		=\DELIM
+3006	TOK	the		the\AT---6
+3007	TOK	glucose		glucose\N5S
+3008	TOK	transporter		transporter\N5S
+3009	TOK	itself		itself\RXS3N-
+---	DLI	-		=\DELIM
+3010	TOK	has		have\V6FDRS3
+3011	TOK	been		be\VMC----
+3012	TOK	ruled		rule\VMC----
+3013	TOK	out		out\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3014	TOK	Workers	BOS	worker\N5P
+3015	TOK	are		be\V6FDR66
+3016	TOK	following		follow\VMG----
+##	TAG	<num>
+3017	TOK	two		two\X
+##	TAG	</num>
+3018	TOK	approaches		approach\N5P
+3019	TOK	to		to\P
+3020	TOK	understand		understand\VMI----
+3021	TOK	the		the\AT---6
+3022	TOK	chain		chain\N5S
+3023	TOK	of		of\P
+3024	TOK	events		event\N5P
+3025	TOK	initiated		initiate\VMC----
+3026	TOK	by		by\P
+3027	TOK	the		the\AT---6
+3028	TOK	insulin		insulin\N5S
+3029	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3030	TOK	One	BOS	one\MCS
+3031	TOK	approach		approach\N5S
+3032	TOK	is		be\V6FDRS3
+3033	TOK	to		to\P
+3034	TOK	find		find\VMI----
+3035	TOK	the		the\AT---6
+3036	TOK	target		target\N5S
+3037	TOK	by		by\P
+3038	TOK	isolating		isolate\VMG----
+3039	TOK	and		and\CC
+3040	TOK	characterizing		characterize\VMG----
+3041	TOK	proteins		protein\N5P
+3042	TOK	that		that\RW63N6
+3043	TOK	have		have\V6F6R66
+3044	TOK	tyrosines		tyrosine\N5P
+3045	TOK	that		that\RW63N6
+3046	TOK	are		be\V6FDR66
+3047	TOK	phosphorylated		phosphorylate\VMC----
+3048	TOK	in		in\P
+3049	TOK	response		response\N5S
+3050	TOK	to		to\P
+3051	TOK	insulin		insulin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3052	TOK	A	BOS	a\AI---S
+3053	TOK	complementary		complementary\JA
+3054	TOK	approach		approach\N5S
+3055	TOK	focuses		focus\N5P
+3056	TOK	on		on\P
+3057	TOK	other		other\JA
+3058	TOK	proteins		protein\N5P
+3059	TOK	present		present\VMF6R66
+3060	TOK	in		in\P
+3061	TOK	the		the\AT---6
+##	TAG	<name>
+3062	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+3063	TOK	storage		storage\N5S
+3064	TOK	vesicles		vesicle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3065	TOK	Insulin	BOS	insulin\N5S
+3066	TOK	may		may\VOFDR66
+3067	TOK	change		change\VMI----
+3068	TOK	one		one\MCS
+3069	TOK	of		of\P
+3070	TOK	these		this\AD---P
+3071	TOK	proteins		protein\N5P
+3072	TOK	in		in\P
+3073	TOK	a		a\AI---S
+3074	TOK	way		way\N5S
+3075	TOK	that		that\RW63N6
+3076	TOK	accelerates		accelerate\VMFDRS3
+3077	TOK	the		the\AT---6
+3078	TOK	movement		movement\N5S
+3079	TOK	of		of\P
+3080	TOK	the		the\AT---6
+3081	TOK	vesicle		vesicle\N5S
+3082	TOK	to		to\P
+3083	TOK	the		the\AT---6
+3084	TOK	cell		cell\N5S
+3085	TOK	surface		surface\N5S
+3086	TOK	or		or\CC
+3087	TOK	that		that\RW63N6
+3088	TOK	induces		induce\VMFDRS3
+3089	TOK	it		it\RPS3N6
+3090	TOK	to		to\P
+3091	TOK	fuse		fuse\N5S
+3092	TOK	with		with\P
+3093	TOK	the		the\AT---6
+3094	TOK	surface		surface\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3095	TOK	Other	BOS	other\JA
+3096	TOK	proteins		protein\N5P
+3097	TOK	may		may\VOFDR66
+3098	TOK	also		also\DGA7
+3099	TOK	be		be\VMI----
+3100	TOK	moved		move\VMC----
+3101	TOK	by		by\P
+3102	TOK	the		the\AT---6
+3103	TOK	vesicle		vesicle\N5S
+3104	TOK	to		to\P
+3105	TOK	subserve		subserve\VMI----
+3106	TOK	functions		function\N5P
+3107	TOK	that		that\RW63N6
+3108	TOK	are		be\V6FDR66
+3109	TOK	not		not\DGA7
+3110	TOK	yet		yet\DGA7
+3111	TOK	imagined		imagine\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3112	TOK	Such	BOS	such\JA
+3113	TOK	possibilities		possibility\N5P
+3114	TOK	are		be\V6FDR66
+3115	TOK	suggested		suggest\VMC----
+3116	TOK	by		by\P
+3117	TOK	the		the\AT---6
+3118	TOK	vesicular		vesicular\JA
+3119	TOK	mechanism		mechanism\N5S
+3120	TOK	itself		itself\RXS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3121	TOK	Although	BOS	although\CS
+3122	TOK	it		it\RPS3N6
+3123	TOK	seems		seem\VMFDRS3
+3124	TOK	a		a\AI---S
+3125	TOK	cumbersome		cumbersome\JA
+3126	TOK	way		way\N5S
+3127	TOK	to		to\P
+3128	TOK	regulate		regulate\VMI----
+3129	TOK	the		the\AT---6
+3130	TOK	rate		rate\N5S
+3131	TOK	of		of\P
+3132	TOK	glucose		glucose\N5S
+3133	TOK	transport		transport\N5S
+3134	TOK	into		into\P
+3135	TOK	the		the\AT---6
+3136	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+3137	TOK	it		it\RPS3N6
+3138	TOK	would		will\VOFDA66
+3139	TOK	be		be\VMI----
+3140	TOK	quite		quite\DGA7
+3141	TOK	efficient		efficient\JA
+3142	TOK	for		for\P
+3143	TOK	moving		move\VMG----
+3144	TOK	several		several\JA
+3145	TOK	different		different\JA
+3146	TOK	proteins		protein\N5P
+3147	TOK	to		to\P
+3148	TOK	and		and\CC
+3149	TOK	from		from\P
+3150	TOK	the		the\AT---6
+3151	TOK	cell		cell\N5S
+3152	TOK	surface		surface\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3153	TOK	These	BOS	this\AD---P
+3154	TOK	findings		finding\N5P
+3155	TOK	imply		imply\VMF6R66
+3156	TOK	no		no\AI---6
+3157	TOK	cause		cause\N5S
+3158	TOK	for		for\P
+3159	TOK	the		the\AT---6
+3160	TOK	insulin		insulin\N5S
+---	DLI	-		=\DELIM
+3161	TOK	dependent		dependent\JA
+3162	TOK	form		form\N5S
+3163	TOK	of		of\P
+3164	TOK	diabetes		diabetes\N56
+3165	TOK	mellitus		mellitus\N5P
+---	DLD	,		=\DELIM
+3166	TOK	but		but\CC
+3167	TOK	they		they\RPP3NN
+3168	TOK	are		be\V6FDR66
+3169	TOK	relevant		relevant\JA
+3170	TOK	for		for\P
+3171	TOK	the		the\AT---6
+3172	TOK	second		second\MOS
+3173	TOK	form		form\VMF6R66
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+3174	TOK	NIDDM	BOS	NIDDM\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3175	TOK	Because	BOS	because\CS
+3176	TOK	the		the\AT---6
+3177	TOK	propensity		propensity\N5S
+3178	TOK	to		to\P
+3179	TOK	acquire		acquire\VMI----
+##	TAG	<name>
+3180	TOK	NIDDM		NIDDM\N46
+##	TAG	</name>
+3181	TOK	is		be\V6FDRS3
+3182	TOK	certainly		certainly\DGA7
+3183	TOK	inherited		inherit\VMF6A66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+3184	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+3185	TOK	one		one\MCS
+3186	TOK	gene		gene\N5S
+3187	TOK	must		must\VOFDR66
+3188	TOK	predispose		predispose\VMI----
+3189	TOK	individuals		individual\N5P
+3190	TOK	to		to\P
+3191	TOK	the		the\AT---6
+3192	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3193	TOK	One	BOS	one\MCS
+3194	TOK	possibility		possibility\N5S
+3195	TOK	is		be\V6FDRS3
+3196	TOK	that		that\CS
+3197	TOK	a		a\AI---S
+3198	TOK	defective		defective\JA
+3199	TOK	gene		gene\N5S
+3200	TOK	affects		affect\VMFDRS3
+3201	TOK	the		the\AT---6
+3202	TOK	way		way\N5S
+3203	TOK	insulin		insulin\N5S
+3204	TOK	regulates		regulate\VMFDRS3
+##	TAG	<name>
+3205	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3206	TOK	One	BOS	one\RIS3N-
+3207	TOK	of		of\P
+3208	TOK	the		the\AT---6
+3209	TOK	earliest		early\JS
+3210	TOK	manifestations		manifestation\N5P
+3211	TOK	of		of\P
+##	TAG	<name>
+3212	TOK	NIDDM		NIDDM\N46
+##	TAG	</name>
+3213	TOK	is		be\V6FDRS3
+3214	TOK	insulin		insulin\N5S
+3215	TOK	resistance		resistance\N5S
+---	DLD	:		=\DELIM
+3216	TOK	the		the\AT---6
+3217	TOK	inability		inability\N5S
+3218	TOK	of		of\P
+3219	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+3220	TOK	fat		fat\N5S
+3221	TOK	or		or\CC
+3222	TOK	liver		liver\N5S
+3223	TOK	to		to\P
+3224	TOK	respond		respond\VMI----
+3225	TOK	appropriately		appropriately\DGA7
+3226	TOK	to		to\P
+3227	TOK	elevated		elevate\VMC----
+3228	TOK	blood		blood\N5S
+3229	TOK	insulin		insulin\N5S
+3230	TOK	levels		level\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3231	TOK	The	BOS	the\AT---6
+3232	TOK	pancreas		pancreas\N5S
+3233	TOK	responds		respond\VMFDRS3
+3234	TOK	to		to\P
+3235	TOK	such		such\JA
+3236	TOK	resistance		resistance\N5S
+3237	TOK	by		by\P
+3238	TOK	oversecreting		oversecreting\JA
+3239	TOK	insulin		insulin\N5S
+---	DLD	,		=\DELIM
+3240	TOK	so		so\CC
+3241	TOK	that		that\CS
+3242	TOK	some		some\AG---6
+3243	TOK	patients		patient\N5P
+3244	TOK	in		in\P
+3245	TOK	the		the\AT---6
+3246	TOK	early		early\JA
+3247	TOK	stages		stage\N5P
+3248	TOK	of		of\P
+##	TAG	<name>
+3249	TOK	NIDDM		NIDDM\N46
+##	TAG	</name>
+3250	TOK	exhibit		exhibit\VMF6R66
+3251	TOK	both		both\RIP3N-
+3252	TOK	transient		transient\JA
+3253	TOK	hyperglycemia		hyperglycemia\N5S
+3254	TOK	after		after\P
+3255	TOK	a		a\AI---S
+3256	TOK	carbohydrate		carbohydrate\N5S
+3257	TOK	meal		meal\N5S
+3258	TOK	and		and\CC
+3259	TOK	consistently		consistently\DGA7
+3260	TOK	elevated		elevate\VMC----
+3261	TOK	blood		blood\N5S
+3262	TOK	insulin		insulin\N5S
+3263	TOK	levels		level\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3264	TOK	As	BOS	as\P
+3265	TOK	the		the\AT---6
+3266	TOK	disease		disease\N5S
+3267	TOK	progresses		progress\VMFDRS3
+---	DLD	,		=\DELIM
+3268	TOK	the		the\AT---6
+3269	TOK	pancreas		pancreas\N5S
+3270	TOK	often		often\DGA7
+3271	TOK	loses		lose\VMFDRS3
+3272	TOK	the		the\AT---6
+3273	TOK	ability		ability\N5S
+3274	TOK	to		to\P
+3275	TOK	secrete		secrete\VMI----
+3276	TOK	enough		enough\JA
+3277	TOK	insulin		insulin\N5S
+3278	TOK	to		to\P
+3279	TOK	compensate		compensate\VMI----
+3280	TOK	for		for\P
+3281	TOK	insulin		insulin\N5S
+3282	TOK	resistance		resistance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3283	TOK	By	BOS	by\P
+3284	TOK	the		the\AT---6
+3285	TOK	time		time\N5S
+3286	TOK	that		that\RW63N6
+3287	TOK	happens		happen\VMFDRS3
+---	DLD	,		=\DELIM
+3288	TOK	hyperglycemia		hyperglycemia\N5S
+3289	TOK	persists		persist\VMFDRS3
+3290	TOK	between		between\P
+3291	TOK	meals		meal\N5P
+---	DLD	,		=\DELIM
+3292	TOK	and		and\CC
+3293	TOK	the		the\AT---6
+3294	TOK	patient		patient\N5S
+3295	TOK	may		may\VOFDR66
+3296	TOK	require		require\VMI----
+3297	TOK	the		the\AT---6
+3298	TOK	administration		administration\N5S
+3299	TOK	of		of\P
+3300	TOK	insulin		insulin\N5S
+3301	TOK	or		or\CC
+3302	TOK	other		other\JA
+3303	TOK	drugs		drug\N5P
+3304	TOK	to		to\P
+3305	TOK	lower		low\JC
+3306	TOK	blood		blood\N5S
+3307	TOK	glucose		glucose\N5S
+3308	TOK	levels		level\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3309	TOK	A	BOS	a\AI---S
+3310	TOK	basis		basis\N5S
+3311	TOK	for		for\P
+3312	TOK	this		this\AD---S
+3313	TOK	development		development\N5S
+3314	TOK	is		be\V6FDRS3
+3315	TOK	suggested		suggest\VMC----
+3316	TOK	by		by\P
+3317	TOK	recent		recent\JA
+3318	TOK	results		result\N5P
+3319	TOK	by		by\P
+##	TAG	<name>
+3320	TOK	Lodish		Lodish\N46
+##	TAG	</name>
+3321	TOK	and		and\CC
+##	TAG	<name>
+3322	TOK	Bernard Thorens		Bernard_Thorens\N46
+##	TAG	</name>
+3323	TOK	of		of\P
+3324	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+3325	TOK	Whitehead Institute		Whitehead_Institute\N46
+##	TAG	</name>
+3326	TOK	and		and\CC
+##	TAG	<name>
+3327	TOK	Roger H. Unger		Roger_H._Unger\N46
+##	TAG	</name>
+3328	TOK	of		of\P
+3329	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+3330	TOK	University of Texas Southwestem Medical School		University_of_Texas_Southwestem_Medical_School\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3331	TOK	Using	BOS	use\VMG----
+##	TAG	<num>
+3332	TOK	two		two\X
+##	TAG	</num>
+3333	TOK	different		different\JA
+3334	TOK	animal		animal\N5S
+3335	TOK	models		model\N5P
+3336	TOK	of		of\P
+##	TAG	<name>
+3337	TOK	NIDDM		NIDDM\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3338	TOK	these		this\AD---P
+3339	TOK	workers		worker\N5P
+3340	TOK	found		find\VMF6A66
+3341	TOK	that		that\CS
+3342	TOK	the		the\AT---6
+3343	TOK	beta		beta\N5S
+3344	TOK	cells		cell\N5P
+3345	TOK	of		of\P
+3346	TOK	the		the\AT---6
+3347	TOK	pancreas		pancreas\N5S
+3348	TOK	have		have\V6F6R66
+3349	TOK	a		a\AI---S
+3350	TOK	reduced		reduce\VMC----
+3351	TOK	amount		amount\N5S
+3352	TOK	of		of\P
+##	TAG	<name>
+3353	TOK	GluT2		GluT2\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3354	TOK	their		their\APP3N6
+3355	TOK	isotype		isotype\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3356	TOK	The	BOS	the\AT---6
+3357	TOK	reduction		reduction\N5S
+3358	TOK	correlates		correlate\VMFDRS3
+3359	TOK	with		with\P
+3360	TOK	the		the\AT---6
+3361	TOK	decreased		decrease\VMC----
+3362	TOK	secretion		secretion\N5S
+3363	TOK	of		of\P
+3364	TOK	insulin		insulin\N5S
+3365	TOK	in		in\P
+3366	TOK	response		response\N5S
+3367	TOK	to		to\P
+3368	TOK	elevated		elevate\VMC----
+3369	TOK	blood		blood\N5S
+3370	TOK	glucose		glucose\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3371	TOK	Because	BOS	because\CS
+3372	TOK	the		the\AT---6
+3373	TOK	transport		transport\N5S
+3374	TOK	of		of\P
+3375	TOK	more		many\JC
+3376	TOK	glucose		glucose\N5S
+3377	TOK	into		into\P
+3378	TOK	the		the\AT---6
+3379	TOK	beta		beta\N5S
+3380	TOK	cells		cell\N5P
+3381	TOK	normally		normally\DGA7
+3382	TOK	triggers		trigger\VMFDRS3
+3383	TOK	insulin		insulin\N5S
+3384	TOK	release		release\VMF6R66
+---	DLD	,		=\DELIM
+3385	TOK	the		the\AT---6
+3386	TOK	reduction		reduction\N5S
+3387	TOK	of		of\P
+##	TAG	<name>
+3388	TOK	GluT2		GluT2\N46
+##	TAG	</name>
+3389	TOK	could		can\VOFDA66
+3390	TOK	be		be\VMI----
+3391	TOK	a		a\AI---S
+3392	TOK	cause		cause\N5S
+3393	TOK	of		of\P
+3394	TOK	inadequate		inadequate\JA
+3395	TOK	insulin		insulin\N5S
+3396	TOK	secretion		secretion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3397	TOK	The	BOS	the\AT---6
+3398	TOK	key		key\N5S
+3399	TOK	to		to\P
+3400	TOK	insulin		insulin\N5S
+3401	TOK	resistance		resistance\N5S
+3402	TOK	may		may\VOFDR66
+3403	TOK	well		well\DGA7
+3404	TOK	reside		reside\VMI----
+3405	TOK	in		in\P
+3406	TOK	skeletal		skeletal\JA
+3407	TOK	muscle		muscle\N5S
+---	DLD	,		=\DELIM
+3408	TOK	which		which\RW63N-
+3409	TOK	accounts		account\VMFDRS3
+3410	TOK	for		for\P
+##	TAG	<num>
+3411	TOK	80		80\X
+##	TAG	</num>
+3412	TOK	percent		percent\N56
+3413	TOK	of		of\P
+3414	TOK	the		the\AT---6
+3415	TOK	body		body\N5S
+3416	PGR	's		genmark\GENMARK
+3417	TOK	glucose		glucose\N5S
+3418	TOK	use		use\N5S
+3419	TOK	in		in\P
+3420	TOK	the		the\AT---6
+3421	TOK	period		period\N5S
+3422	TOK	after		after\P
+3423	TOK	a		a\AI---S
+3424	TOK	carbohydrate		carbohydrate\N5S
+##	TAG	<abbr>
+3425	TOK	meal.		meal.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+3426	TOK	At		At\N5P
+3427	TOK	other		other\JA
+3428	TOK	times		time\N5P
+---	DLD	,		=\DELIM
+3429	TOK	when		when\CS
+3430	TOK	body		body\N5S
+3431	TOK	metabolism		metabolism\N5S
+3432	TOK	is		be\V6FDRS3
+3433	TOK	in		in\P
+3434	TOK	the		the\AT---6
+3435	TOK	basal		basal\JA
+3436	TOK	state		state\N5S
+---	DLD	,		=\DELIM
+3437	TOK	the		the\AT---6
+3438	TOK	brain		brain\N5S
+3439	TOK	consumes		consume\VMFDRS3
+3440	TOK	fully		fully\DGA7
+##	TAG	<num>
+3441	TOK	60		60\X
+##	TAG	</num>
+3442	TOK	percent		percent\N56
+3443	TOK	of		of\P
+3444	TOK	the		the\AT---6
+##	TAG	<abbr>
+3445	TOK	sugar.		sugar.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+##	TAG	<name>
+3446	TOK	Muscle		Muscle\N46
+##	TAG	</name>
+3447	TOK	cells		cell\N5P
+3448	TOK	convert		convert\VMF6R66
+3449	TOK	excess		excess\N5S
+3450	TOK	blood		blood\N5S
+3451	TOK	glucose		glucose\N5S
+3452	TOK	into		into\P
+3453	TOK	glycogen		glycogen\N5S
+3454	TOK	at		at\P
+3455	TOK	a		a\AI---S
+3456	TOK	rate		rate\N5S
+3457	TOK	that		that\RW63N6
+3458	TOK	is		be\V6FDRS3
+3459	TOK	limited		limit\VMC----
+3460	TOK	by		by\P
+3461	TOK	glucose		glucose\N5S
+3462	TOK	transport		transport\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3463	TOK	Because	BOS	because\CS
+##	TAG	<name>
+3464	TOK	NIDDM		NIDDM\N46
+##	TAG	</name>
+3465	TOK	patients		patient\N5P
+3466	TOK	deposit		deposit\VMF6R66
+3467	TOK	glycogen		glycogen\N5S
+3468	TOK	in		in\P
+3469	TOK	their		their\APP3N6
+3470	TOK	muscles		muscle\N5P
+3471	TOK	at		at\P
+3472	TOK	about		about\DGA7
+3473	TOK	half		half\N5S
+3474	TOK	the		the\AT---6
+3475	TOK	normal		normal\JA
+3476	TOK	rate		rate\N5S
+---	DLD	,		=\DELIM
+3477	TOK	they		they\RPP3NN
+3478	TOK	probably		probably\DGA7
+3479	TOK	have		have\V6F6R66
+3480	TOK	a		a\AI---S
+3481	TOK	defect		defect\N5S
+3482	TOK	in		in\P
+##	TAG	<loc pos="DGA7">
+3483	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+3484	TOK	one		one\MCS
+3485	TOK	of		of\P
+3486	TOK	the		the\AT---6
+3487	TOK	proteins		protein\N5P
+3488	TOK	that		that\RW63N6
+3489	TOK	regulate		regulate\VMF6R66
+3490	TOK	transport		transport\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3491	TOK	Another	BOS	another\JA
+3492	TOK	consideration		consideration\N5S
+3493	TOK	narrows		narrow\VMFDRS3
+3494	TOK	the		the\AT---6
+3495	TOK	scope		scope\N5S
+3496	TOK	of		of\P
+3497	TOK	the		the\AT---6
+3498	TOK	quest		quest\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3499	TOK	Insulin	BOS	insulin\N5S
+3500	TOK	resistance		resistance\N5S
+3501	TOK	can		can\V6FDR66
+3502	PGR	not		not\DGA7
+3503	TOK	come		come\VMC----
+3504	TOK	from		from\P
+3505	TOK	a		a\AI---S
+3506	TOK	lack		lack\N5S
+3507	TOK	in		in\P
+3508	TOK	the		the\AT---6
+3509	TOK	total		total\JA
+3510	TOK	amount		amount\N5S
+3511	TOK	of		of\P
+##	TAG	<name>
+3512	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+3513	TOK	protein		protein\N5S
+3514	TOK	in		in\P
+3515	TOK	muscle		muscle\N5S
+3516	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3517	TOK	Recent	BOS	recent\JA
+3518	TOK	measurements		measurement\N5P
+3519	TOK	of		of\P
+##	TAG	<name>
+3520	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+3521	TOK	in		in\P
+3522	TOK	biopsies		biopsy\N5P
+3523	TOK	of		of\P
+3524	TOK	muscle		muscle\N5S
+3525	TOK	from		from\P
+3526	TOK	normal		normal\JA
+3527	TOK	and		and\CC
+3528	TOK	diabetic		diabetic\JA
+3529	TOK	individuals		individual\N5P
+3530	TOK	indicate		indicate\VMF6R66
+3531	TOK	that		that\CS
+3532	TOK	those		that\RDP3N-
+3533	TOK	with		with\P
+##	TAG	<name>
+3534	TOK	NIDDM		NIDDM\N46
+##	TAG	</name>
+3535	TOK	have		have\V6F6R66
+3536	TOK	normal		normal\JA
+3537	TOK	or		or\CC
+3538	TOK	only		only\DGA7
+3539	TOK	slightly		slightly\DGA7
+3540	TOK	decreased		decrease\VMC----
+3541	TOK	amounts		amount\N5P
+3542	TOK	of		of\P
+3543	TOK	this		this\AD---S
+3544	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3545	TOK	But	BOS	but\CC
+##	TAG	<name>
+3546	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+3547	TOK	might		may\VOFDR66
+3548	TOK	cause		cause\VMI----
+3549	TOK	insulin		insulin\N5S
+3550	TOK	resistance		resistance\N5S
+3551	TOK	by		by\P
+3552	TOK	another		another\JA
+3553	TOK	route		route\N5S
+---	DLD	,		=\DELIM
+3554	TOK	perhaps		perhaps\DGA7
+3555	TOK	by		by\P
+3556	TOK	being		be\VMG----
+3557	TOK	targeted		target\VMC----
+3558	TOK	to		to\P
+3559	TOK	the		the\AT---6
+3560	TOK	wrong		wrong\JA
+3561	TOK	intracellular		intracellular\JA
+3562	TOK	compartment		compartment\N5S
+---	DLI	-		=\DELIM
+3563	TOK	one		one\RIS3N-
+3564	TOK	from		from\P
+3565	TOK	which		which\RW63N-
+3566	TOK	it		it\RPS3N6
+3567	TOK	can		can\V6FDR66
+3568	PGR	not		not\DGA7
+3569	TOK	be		be\VMI----
+3570	TOK	recruited		recruit\VMC----
+3571	TOK	to		to\P
+3572	TOK	the		the\AT---6
+3573	TOK	cell		cell\N5S
+3574	TOK	surface		surface\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3575	TOK	Alternatively	BOS	alternatively\DGA7
+---	DLD	,		=\DELIM
+3576	TOK	there		there\DGA7
+3577	TOK	may		may\VOFDR66
+3578	TOK	be		be\VMI----
+3579	TOK	a		a\AI---S
+3580	TOK	lesion		lesion\N5S
+3581	TOK	in		in\P
+3582	TOK	some		some\AG---6
+3583	TOK	other		other\JA
+3584	TOK	part		part\N5S
+3585	TOK	of		of\P
+3586	TOK	the		the\AT---6
+3587	TOK	signaling		signal\VMG----
+3588	TOK	pathway		pathway\N5S
+3589	TOK	through		through\P
+3590	TOK	which		which\RW63N-
+3591	TOK	insulin		insulin\N5S
+3592	TOK	promotes		promote\VMFDRS3
+3593	TOK	recruitment		recruitment\N5S
+3594	TOK	of		of\P
+##	TAG	<name>
+3595	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3596	TOK	Such	BOS	such\JA
+3597	TOK	a		a\AI---S
+3598	TOK	lesion		lesion\N5S
+3599	TOK	might		may\VOFDR66
+3600	TOK	involve		involve\VMI----
+3601	TOK	the		the\AT---6
+3602	TOK	insulin		insulin\N5S
+3603	TOK	receptor		receptor\N5S
+3604	TOK	on		on\P
+3605	TOK	the		the\AT---6
+3606	TOK	cell		cell\N5S
+3607	TOK	surface		surface\N5S
+3608	TOK	or		or\CC
+3609	TOK	one		one\MCS
+3610	TOK	of		of\P
+3611	TOK	the		the\AT---6
+3612	TOK	unknown		unknown\JA
+3613	TOK	proteins		protein\N5P
+3614	TOK	that		that\RW63N6
+3615	TOK	transduce		transduce\VMF6R66
+3616	TOK	the		the\AT---6
+3617	TOK	signal		signal\N5S
+3618	TOK	from		from\P
+3619	TOK	the		the\AT---6
+3620	TOK	receptor		receptor\N5S
+3621	TOK	to		to\P
+3622	TOK	the		the\AT---6
+##	TAG	<name>
+3623	TOK	GluT4		GluT4\N46
+##	TAG	</name>
+3624	TOK	vesicles		vesicle\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3625	TOK	The	BOS	the\AT---6
+3626	TOK	big		big\JA
+3627	TOK	question		question\N5S
+---	DLD	,		=\DELIM
+3628	TOK	then		then\DGA7
+---	DLD	,		=\DELIM
+3629	TOK	is		be\V6FDRS3
+3630	TOK	whether		whether\CS
+3631	TOK	recruitment		recruitment\N5S
+3632	TOK	is		be\V6FDRS3
+3633	TOK	impaired		impair\VMC----
+3634	TOK	in		in\P
+3635	TOK	the		the\AT---6
+3636	TOK	muscle		muscle\N5S
+3637	TOK	cells		cell\N5P
+3638	TOK	of		of\P
+3639	TOK	diabetic		diabetic\JA
+3640	TOK	patients		patient\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3641	TOK	If	BOS	if\CS
+3642	TOK	it		it\RPS3N6
+3643	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+3644	TOK	then		then\DGA7
+3645	TOK	the		the\AT---6
+3646	TOK	elucidation		elucidation\N5S
+3647	TOK	of		of\P
+3648	TOK	the		the\AT---6
+3649	TOK	events		event\N5P
+3650	TOK	beginning		begin\VMG----
+3651	TOK	at		at\P
+3652	TOK	the		the\AT---6
+3653	TOK	insulin		insulin\N5S
+3654	TOK	receptor		receptor\N5S
+3655	TOK	and		and\CC
+3656	TOK	ending		end\VMG----
+3657	TOK	in		in\P
+3658	TOK	recruitment		recruitment\N5S
+3659	TOK	will		will\VOFDR66
+3660	TOK	surely		surely\DGA7
+3661	TOK	show		show\VMI----
+3662	TOK	how		how\DGAW
+3663	TOK	insulin		insulin\N5S
+3664	PGR	's		genmark\GENMARK
+3665	TOK	message		message\N5S
+3666	TOK	is		be\V6FDRS3
+3667	TOK	misaddressed		misaddressed\JA
+3668	TOK	or		or\CC
+3669	TOK	mislaid		mislay\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

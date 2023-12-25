@@ -1,0 +1,265 @@
+
+April 1996 / Special Report / Better Connections in Windows 
+
+Better Connections in Windows
+
+Windows 95's built-in communications makes you wonder if you need add-on comm software 
+
+Paul Korzeniowski
+
+Unlike its predecessors, Windows 95 was designed from the start with communications and network computing in mind.
+The operating system has many of the basic functions a user needs to connect to on-line services, LANs, and the Internet.
+Many tasks, such as transferring files, are now simpler, and you can switch more easily between background and foreground.
+
+The OS includes capabilities that users could previously find only in separate, add-on packages.
+So, with Windows 95, you must ask whether you need a third-party communications package, or will you be content with HyperTerminal, Exchange, Internet Explorer, Briefcase, and dial-up/direct cable networking?
+
+A Win 95 Communications Feast
+
+HyperTerminal, a big improvement over Windows 3.1's Terminal applet, lets you transmit and receive files, and you can dial up E-mail and on-line services simply by clicking on icons.
+Of course, you have to enter needed information for specific services, while the third-party products come configured ready to use these services.
+Microsoft Exchange enables you to view a fax and set up a fax cover page, but it doesn't let you preview a fax before sending it--a capability found in Delrina's WinFax Pro.
+
+Microsoft's Internet Wizard walks you through setting up an Internet connection using either the Microsoft Network or another Internet service provider.
+The Windows 95 Plus package includes a World Wide Web browser (Internet Explorer).
+But a user who wants to do something else on the Internet (setting up a chat session, for instance), or wants to use a Web browser with more or different capabilities, will need add-on software, such as Delrina's Cyberjack that's included with CommSuite.
+
+Win 95's Briefcase lets you designate files to be used on a different computer and simplifies the process of updating the originals later on.
+And file transfers between two computers are handled through dial-up networking and direct cable connection utilities.
+Windows 95 incorporates extensive support for telephone-based activities through the telephony API, or TAPI.
+
+Who Needs What?
+
+The casual communications user may well find Windows 95 all he or she ever needs.
+The frequent communicator, however, is more likely to discover the limitations and rough edges and want something better.
+For that user, add-on comm packages are often simpler to manipulate, are easier to customize, and support wider ranges of communications options.
+
+The three packages we look at in this article are designed for different types of communications users, and each bundles a different set of features.
+CommSuite from Delrina (now a division of Symantec) tries to include virtually everything, but the package seems aimed primarily at those people with heavy faxing needs.
+Traveling Software's LapLink 7.0 for Windows 95 is designed for the mobile worker or executive who may be using multiple computers and needs heavy-duty file transfer and remote access.
+Mustang Software's QmodemPro for Windows 95 is more like the communications programs we have seen in the past, and it seems designed around the needs of those who run or access computer bulletin boards.
+These communications packages have clearly evolved from different directions and different strengths.
+
+Because of these different feature sets and target users--for example, one package emphasizes desktop faxing, while the other two don't have that capability--making apples-to-apples comparisons among the different communications products is difficult.
+Plus, when we began our testing for this article, there were only a few products available.
+Even though Windows 95 began shipping last August, few vendors have ported their communications software to Microsoft's new OS.
+
+These are all 32-bit applications, rather than 16-bit, and thus users should see improved performance for I/O-intensive chores, such as downloading large files.
+We tested these packages with 32-bit device drivers.
+The vendors take advantage of Windows 95 features, such as Tab bars.
+Overall, the products represent a good first step toward exploiting the new OS.
+
+In general, these applications offer a variety of options.
+Setting up routine communications tasks usually means following fill-in-the-blank prompts, and the process generates icons for later use.
+The applications include scripting features that allow power users to automate more sophisticated calling sequences.
+
+Jack of All Cyber Trades
+
+Delrina's CommSuite bundles four different communications products into a single package.
+The strongest module is WinFax Pro, for sending and receiving faxes from a PC.
+Cyberjack features Internet access tools, such as Gopher software and a Web browser.
+WinComm Pro lets users dial into on-line data services and bulletin boards.
+The TalkWorks module adds voice-mail functionality.
+
+CommSuite, which was the only product actually shipping when we did our testing, includes the most comprehensive set of tools for novice users.
+Help menus are available on any screen, and a user can click on an icon to see a brief description of any function.
+An on-line tutorial walks through all the product's different modules and capabilities.
+The documentation was comprehensive and simple to follow.
+
+The package supports the Windows 95 toolbar, and power users can customize the bar to automate repetitive tasks.
+Let's now take a look at the different modules in CommSuite.
+
+WinFax Pro. 
+This module is designed for heavy-duty faxing.
+A simple conversion program converts phonebooks, logs, and folders from earlier versions of WinFax Pro into Windows 95 formats.
+Once the changes are made, however, those files won't run under Windows 3.1.
+
+The package makes it simple to send and customize faxes.
+WinFax Pro includes 100 cover-page samples to choose from or customize.
+Most cover pages also allow the user to include short messages. 
+
+Because many people move faxes via their E-mail systems, the product supports Microsoft's messaging API (MAPI).
+WinFax lets users move faxes to the Microsoft mail system.
+You can drag any fax and drop it into any MAPI-compatible E-mail envelope.
+This capability isn't available with Microsoft Exchange.
+
+The log for WinFax Pro includes a field that says whether a fax was delivered or not.
+Win 95 doesn't include this feature, so the user has to wade through a series of cryptic messages just to determine if a fax was received.
+WinFax Pro also provides a link from an optical character reader to Microsoft Exchange. 
+
+A fax viewer lets you clean up the dark spots on received faxes.
+The product can convert faxes to text with its built-in OCR.
+This release includes a photo capability for sending high-quality graphics in black and white.
+Users have other ways to send documents (e.g., via E-mail), so this feature may have limited appeal. 
+
+WinFax presents users with many different scheduling options.
+You can set faxes for automatic transmission at night when phone costs are lower.
+On the road, you can configure faxes to be sent via different calling-card options.
+
+For the user who has to send out reports on a regular basis, there's a recurring-event feature that will fax a document at a set interval.
+The transmission can be on a particular day of the week (the second Tuesday of the month, for example) or on a specific date.
+The system can produce printed records of each fax transmission.
+
+TalkWorks. 
+In addition to faxing, WinFax Pro includes voice-mail capabilities if a system has an integrated data/fax/voice modem.
+Because Windows 95 supports TAPI, TalkWorks can discriminate among incoming calls and will hand the call to the appropriate communications module.
+Thus, a PC with a Sound Blaster card can become a telephone.
+
+You can set up the voice-mail system to answer a call after a specific number of rings.
+A system manager could set things up to store voice-mail messages in a single inbox or assign a series of mailboxes to specific users.
+
+The program's fax-on-demand feature lets customers call in and request that a document be sent to them.
+This has proved popular for automating technical support, and a small firm taking phone orders could also benefit from this feature.
+
+The TalkWorks fax features do not use the Norton Anti-Virus software, which can be used with the other CommSuite modules.
+Although not necessary, this feature could ensure that unwanted viruses are not transmitted along with a fax during a binary file transfer. 
+
+WinComm Pro. 
+This general-purpose communications program helps users connect to on-line services and BBSes.
+The product comes with integrated scripts for AT'&'T Mail, BIX, GEnie, CompuServe, Delphi, MCI, Dow Jones, and NewNet.
+A user can click on an icon and dial in to one of these services.
+
+The software supports RIPscrip, which provides a graphical front end to bulletin board systems.
+Instead of answering Yes and No questions, a user works with dialog boxes and color.
+There's an image manager for graphics files, including BMP, GIF, JPEG, PCX, and TIF.
+(If you rely on Windows 95's built-in tools, you can view BMP and PCX files with Paintbrush, and GIF and JPEG files with Internet Explorer.
+You're out of luck with TIF files, though.)
+A handy feature called ZIP Manager uncompresses downloaded files.
+
+Delrina includes its own version of the Basic language with which power users can create scripts for WinComm Pro.
+The software can also build a script by recording keystrokes.
+When WinComm Pro downloads a program, it checks it with Norton Anti-Virus. 
+
+Cyberjack. 
+This module is the most recent addition to the CommSuite package.
+It's designed to help people surf the Internet and provides connectivity to five types of Internet services.
+A Wizard feature helps you sort through different connection and setup options.
+
+The Web browser does the things that most pre-Java browsers do.
+It has a pretty interface, and capture and filtering features let you grab and save images.
+How does Cyberjack stack up next to Microsoft Internet Explorer?
+In addition to the basic browsing capabilities, Cyberjack features newsgroups, file transfer capabilities, interactive chat, and Gopher.
+
+The News component lets you post and read messages on newsgroups, as well as sort by fields and filter stories.
+The file transfer capability lets you move files between two computers.
+
+A Cyberjack user can set up an interactive chat session and converse with a number of people.
+A different color for each chatting party helps keep track of who said what.
+Gopher capabilities let you leaf through text documents and enable you to work with multiple file folders.
+Cyberjack uses Microsoft Exchange for sending and receiving Internet E-mail.
+
+If you simply want to browse the Web, then Microsoft Explorer should be sufficient--particularly the version 2.0 upgrade available from http://www.windows.microsoft.com.
+But if you want more advanced Net capabilities, then you should check out Cyberjack.
+
+LapLink 7.0 for Windows 95 
+
+Traveling Software's LapLink made its name as the premier utility for transferring files between computers.
+This heritage is apparent in the new release, but it's augmented with remote-control and other communication capabilities.
+The product will be useful for the mobile executive who often works on the road with a wide range of connections.
+
+In MS-DOS 6.2x, Microsoft incorporated Interlink, a file-transfer utility that operated much like LapLink.
+Windows 95 has even more advanced capabilities.
+Its dial-up networking and direct-cable connection allow a LapLink-like functionality.
+In addition, the Briefcase feature makes it easier to keep a set of files synchronized between two computers.
+The problem is that none of these is very well explained or described in the help system or documentation, and getting them working can be an exercise in frustration.
+
+Also, both computers have to be running Windows 95.
+If one is using Windows 3.1--say it's a 286 machine that flat-out can't run 95--then you're out of luck with built-ins.
+Here, LapLink is not only helpful but necessary because it includes both 32-bit and 16-bit versions.
+It's a lot easier to set up and get going, too.
+
+Traveling Software has revamped LapLink to take advantage of the OS and to look like a Win 95 application, using standard dialog boxes and icons instead of menus.
+Conveniently, the software can pull telephone numbers from the Windows 95 address book.
+You can connect to other machines running Windows applications and Win 95's long filenames will be truncated to DOS's 8.3 format. 
+
+As a dial-up system, LapLink 7 works with three remote servers: Shiva's PPP, LAN Rover, and Windows NT Remote Access Server.
+The new release also lets a user connect to a TCP/IP network.
+Previous versions concentrated on Novell's IPX protocol.
+This was the only product we tested that would support wireless connections.
+LapLink works with the AirShare Radio protocol.
+
+LapLink also has some security capabilities.
+An optional call-back feature will break an incoming connection and then redial the user's system at a preassigned phone number.
+While not foolproof, this makes it harder for a malicious hacker to dial into a system. 
+
+The product includes three basic communications services: file transfer, remote control, and interactive chat.
+The file transfer capability enables you to view or exchange files with a remote PC.
+LapLink's patented SpeedSync feature downloads only changes to a file rather than its entire contents, which cuts time significantly.
+This will be useful to people who regularly access and update specific files.
+
+Remote control enables a user to open a program running on a remote system and transfer information between the two systems.
+An interactive chat facility enables two users to converse by exchanging text messages on-line in real time.
+
+There was no on-line tutorial in the package we tested, but the program does provide help with setting up a communications session.
+This is especially useful because LapLink offers users a variety of connectivity options: a cable connection, dial-up, modem, network, and wireless services.
+
+LapLink's Quickstep walks a user through the process of setting up a PC for different types of connections.
+The Tips section includes hints for setting up a computer--handy if you manage novice users.
+One tip outlines how to set up a parallel port--noting, for example, that standard printer cables don't work.
+Traveling Software includes the special parallel cable you need, plus another cable for connecting to serial ports.
+Yet a third cable, which is designed to speed up data transfer between ECP/EPP ports, can be purchased separately for $69.95.
+
+QmodemPro for Windows 95 
+
+Mustang has focused on bulletin board software.
+The firm's new QmodemPro for Windows 95 enables a user to set up a BBS.
+As part of its tutorial, the company invites users to access Mustang's own user bulletin board system.
+
+The new package focuses on dial-up capabilities and eases users through that set-up process.
+The software includes scripts for CompuServe, MCI Mail, Delphi, and GEnie.
+The process is a simple fill-in-the-blanks scenario; the scripts include the phone numbers and passwords to these systems.
+QmodemPro for Windows 95 comes with its own scripting language, which resembles Basic.
+
+The communications package supports MAPI, so a user can move text from a window to another mail product, such as Microsoft Exchange.
+The picture viewer enables you to work with graphics files in BMP, GIF, and JPEG formats.
+
+If you're moving from an older Windows version of QmodemPro, you have to clean up your old scripts and remove device-specific data because Windows 95 is so much more aware of hardware.
+In other words, for Plug and Play to work, you don't want to confuse the system with parameters and settings for older versions of Windows.
+
+Qmodem Pro includes built-in encryption capabilities.
+It uses the RSA public-key algorithm to preserve the integrity and confidentiality of transmissions.
+
+The product now relies on Windows 95 rather than having a separate fax option, which was available with previous versions of Qmodem.
+Thus it shares the same limitations as Windows 95.
+
+The user manual for QmodemPro for Windows 95 is well-designed and simple to follow.
+However, the product's on-line help was not as easy to navigate as the help systems in the other two packages we've been working with.
+In this regard, QmodemPro for Win 95 assumes a high degree of understanding on the user's part. 
+
+Which One? Or None?
+
+These three communications packages are quite different from one another, reflecting primarily the very different DOS and Windows products of their earlier incarnations.
+Look at your own communications needs and pick one of these products according to what you do most.
+If you're using Win 95, you still need to consider if you need, or want, any of these products.
+
+Windows 95 provides extensive telecomm features for the user who occasionally has to transmit information, read or send a few pieces of E-mail, or go on-line once in a while.
+The communications packages from Delrina, Mustang, and Traveling Software focus on users with specific requirements.
+If you don't fit comfortably into one of those categories, you may want to simply try out the applications that come with Windows 95.
+You'll soon discover what you really need, and that need will guide you to the appropriate third-party product.
+
+PRODUCT INFORMATION 
+CommSuite for Windows 95..........$229 Delrina Division, Symantec Corp. Toronto, Ontario, Canada Phone: (800) 268-6082 or (416) 441-3676 Fax: (416) 441-0333 Internet: http://www.delrina.com Circle 1155 on Inquiry Card.
+LapLink 7.0 for Windows 95........$129 
+Traveling Software, Inc. Bothell, WA Phone: (800) 343-8080 or (206) 483-8088 Internet: http://www.travsoft.com Circle 1156 on Inquiry Card.
+QmodemPro for Windows 95..........$129 Mustang Sofware, Inc. Bakersfield, CA Phone: (805) 873-2500 Internet: http://www.mustang.com Circle 1157 on Inquiry Card.
+
+Traveling Software's LapLink for Win95 
+
+screen_link (118 Kbytes) 
+
+Delrina's WinFax Pro 
+
+screen_link (38 Kbytes) 
+
+Mustang's QmodemPro 
+
+screen_link (96 Kbytes) 
+
+CommSuite's TalkWorks Module 
+
+screen_link (62 Kbytes) 
+
+Paul Korzeniowski is a freelance writer in Malden, Massachusetts.
+You can reach him on the Internet as 0006841944@mcimail.com.
+
+  Copyright © 1994-1996

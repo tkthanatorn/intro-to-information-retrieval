@@ -1,0 +1,121 @@
+
+March 1996 / Reviews / Navigating with a Web Compass
+
+Navigating with a Web Compass
+
+Quarterdeck harnesses leading-edge "metasearch" technology to create a smart agent that searches the Web and organizes the results
+
+Rex Baldazo
+
+Searching for a specific subject or topic on the Internet's World Wide Web is a lot like driving cross-country without a road map: You'd better enjoy the journey because you may never reach your destination.
+Index sites such as Lycos ( http://www.lycos.com ) and OpenText ( http://www.opentext.com ) are a good starting point.
+But no one index can cover everything, nor can any search site always be up to date; you often end up searching several of these services in turn.
+Quarterdeck's new Windows utility called WebCompass greatly simplifies the task of searching multiple indices.
+
+Developed by Limbex Corp., WebCompass is actually not a search tool but a metasearch tool (see the sidebar "Searching from Among Searchers" ).
+That's a fancy way of saying that WebCompass does not perform any searches itself.
+Rather, it runs other search resources such as Lycos and Yahoo ( http://www.yahoo.com ) and the BYTE Site (www.byte.com).
+When the editors of BYTE magazine saw WebCompass demonstrated at Comdex/Fall '95, we were so impressed we gave it our Best of Show award.
+And now that we've had a chance to give it an extended test drive, we are more impressed than ever.
+
+Use Your Own Browser If You Want
+
+The engine that runs WebCompass is a Common Gateway Interface (CGI) application, which means you must have a Web server running on your local machine (WebCompass includes a version of Quarterdeck's WebServer).
+You then use the Web browser of your choice to control WebCompass ( see the screen ).
+Though Quarterdeck's QMosaic is packaged with WebCompass, configuration problems with our Microsoft Network Internet connection prevented its use.
+So we tried the Microsoft Internet Explorer 2.0 as our interface, which proves just how remarkably flexible WebCompass is: It doesn't care which browser you run.
+
+WebCompass also comes with a Microsoft Access 2.0-format database--as well as 32-bit ODBC drivers--to store and index search results.
+When you install WebCompass, you have the option of installing a database that has been prepopulated with various topics to aid in organizing and cross-referencing data.
+
+Add up these components and WebCompass has an imposing footprint.
+Quarterdeck recommends around 30 MB of disk space for a typical installation, about half of which is the prepopulated database.
+Once you start storing and indexing your search results, the database will only get bigger.
+
+Resource Management
+
+The key to WebCompass is its ability to interact with various search engines, which it terms resources .
+The package comes with several resources configured, including CNN, CNN Sports, Yahoo, Lycos, and Excite.
+In turn, each resource is grouped into a category, such as General Resources or Technical Resources.
+
+When you run a WebCompass search, you specify both the search terms and the resources you wish to use.
+WebCompass then goes out across the Web and runs those resources for you.
+Instead of you having to visit each search site in turn, WebCompass does the dirty work of querying the resources, collecting all the responses, and presenting them on a single page ( see the screen ).
+
+You can use resource categories to group similar resources.
+For example, if you're running a query on Montana but you want the quarterback and not the state, you can tell WebCompass to search only the Sports resources.
+If you want to search all the resources for Montana, you can do that as well.
+The search results would then include references to Joe Montana, the Big Sky conference, and perhaps Yellowstone National Park.
+
+If the configured resources don't fit your bill, you can add new resources and reassign existing ones to different categories.
+Adding a new resource is a two-step process.
+You first enter the URL along with descriptive information and the desired category.
+Then, WebCompass reads in the search resource at that URL.
+You must then specify which field on the resource page will be used to enter search text, and you also have to set up the resource page by entering search criteria.
+
+You set up the search page the way you would want to use it if you were running it directly.
+From then on, whenever you choose a WebCompass category that includes this new search resource, WebCompass can automatically run that search page for you.
+
+Undercover Agent
+
+WebCompass has two search modes: interactive and agent-based.
+Interactive is the traditional mode: You type in your search terms, select a resource category, and activate the search.
+WebCompass then does the hunting and gathering and presents all the results, or hits , from the various resources on a single page.
+
+You can investigate each hit in turn and add it to your local database by checking the box next to it.
+You then can add the hit to a topic that is usually related to the search term you used to find the hit.
+The WebCompass Agent will then retrieve and index the document in your local database so you have it for future reference.
+In fact, this local topic database is one of WebCompass' search categories, so you can search it just as you would any other resource category.
+
+The Agent is one of the unique strengths of WebCompass.
+It runs as a separate application outside the browser, though you activate it from the main WebCompass page.
+The Agent has two roles: It retrieves and indexes articles you have selected as a result of a previous search, and it automatically performs searches for you.
+
+Once you've specified which articles to add to the local database, the Agent can go off and retrieve them, index them, and organize the documents for later review.
+The indexing scheme is fairly reliable, usually getting related articles together.
+In our tests using WebCompass, the Agent sometimes put unrelated articles together, but the software generally took a reasonable first stab at grouping the articles it found.
+
+When you run a search interactively, you can add it to a new or existing topic.
+We ran a search on the word Bosnia and created a new topic also called Bosnia.
+(Topics are keywords that help organize data in the local database.)
+If you specify a particular topic as active, the WebCompass Agent will automatically run the searches related to that topic.
+The software then adds these new search results to the local database for later review.
+Agent searches can run while you use your browser to view something else.
+
+A Few Nits Found
+
+Having the Agent repeatedly run the same query every day quickly adds up to a lot of articles indexed in the local database.
+Thankfully, WebCompass comes with tools for managing the database, but since these are also Web-based, they feel clunky at times.
+For example, you can delete a group of articles with a single click, but to delete a single article you have to jump to a separate form.
+And you can move articles from one topic to another, but since the interface is Web-based, no drag-and-drop commands are available.
+You have to step through a Hypertext Markup Language (HTML) form to accomplish the task.
+You also have to use HTML to configure new resources and set up the Agent.
+
+Furthermore, while being able to use different browsers is a strength of WebCompass, it is also a weakness.
+The caching schemes of some browsers can cause a mismatch between what your browser shows and what WebCompass is actually doing.
+For instance, the browser might indicate that the Agent is inactive when in fact it is out there busily running an indexing task.
+You can fix this inconsistency by reloading your browser whenever you suspect it might be out of sync with WebCompass.
+
+What's more annoying is that WebCompass is a single-user application, which means you can't set up an instance of WebCompass on your network and let different people maintain their own topic databases using the common installation.
+
+These are minor flaws, some of which will no doubt be ironed out in the next release.
+What matters is that WebCompass has quickly made itself an invaluable part of our Internet tool set. 
+
+PRODUCT INFORMATION
+
+WebCompass 1.0 - $100 (anticipated street price) Quarterdeck Corp. Marina del Rey, CA Phone: (310) 309-3700 or (800) 683-6696 Fax: (813) 523-2335 Internet: http://www.quarterdeck.com Circle 1049 on Inquiry Card. 
+
+Search from Anywhere 
+
+screen_link (69 Kbytes) 
+
+Quarterdeck's WebCompass search agent lets you launch a search from any Web browser (for example, Microsoft Internet Explorer 2.0). 
+
+Let the Agent Do the Querying 
+
+screen_link (29 Kbytes) 
+
+The agent queries Internet search sites and groups the results on a single page. 
+Rex Baldazo is a technical editor in BYTE's New Media department. 
+You can reach him at rbaldazo@bix.com. 
+  Copyright © 1994-1996

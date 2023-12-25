@@ -1,0 +1,4522 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	BUILDING	BOS	building\N5S
+2	TOK	DOORS		door\N5P
+3	TOK	INTO		INTO\N5S
+4	TOK	CELLS	EOS	cell\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+6	TOK	With	BOS	with\P
+7	TOK	the		the\AT---6
+8	TOK	help		help\N5S
+9	TOK	of		of\P
+10	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+11	TOK	DNA		DNA\N46
+##	TAG	</name>
+12	TOK	technology		technology\N5S
+---	DLD	,		=\DELIM
+13	TOK	researchers		researcher\N5P
+14	TOK	have		have\V6F6R66
+15	TOK	learned		learn\VMC----
+16	TOK	how		how\DGAW
+17	TOK	to		to\P
+18	TOK	create		create\VMI----
+19	TOK	artificial		artificial\JA
+20	TOK	pores		pore\N5P
+21	TOK	that		that\RW63N6
+22	TOK	might		may\VOFDR66
+23	TOK	be		be\VMI----
+24	TOK	used		use\VMC----
+25	TOK	to		to\P
+26	TOK	deliver		deliver\VMI----
+27	TOK	drugs		drug\N5P
+28	TOK	or		or\CC
+29	TOK	act		act\VMF6R66
+30	TOK	as		as\P
+31	TOK	biosensors		biosensor\N5P
+32	TOK	to		to\P
+33	TOK	detect		detect\VMI----
+34	TOK	toxic		toxic\JA
+35	TOK	chemicals		chemical\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+36	TOK	The	BOS	the\AT---6
+37	TOK	outer		outer\JA
+38	TOK	membrane		membrane\N5S
+39	TOK	of		of\P
+40	TOK	a		a\AI---S
+41	TOK	cell		cell\N5S
+42	TOK	does		do\V6FDRS3
+43	TOK	more		more\DDC7
+44	TOK	than		than\CS
+45	TOK	just		just\DGA7
+46	TOK	contain		contain\VMF6R66
+47	TOK	what		what\RW63N-
+48	TOK	is		be\V6FDRS3
+49	TOK	inside		inside\P
+---	DLE	-		=\DELIM
+50	TOK	it		it\RPS3N6
+51	TOK	serves		serve\VMFDRS3
+52	TOK	as		as\CS
+53	TOK	a		a\AI---S
+54	TOK	molecular		molecular\JA
+55	TOK	gatekeeper		gatekeeper\N5S
+---	DLD	,		=\DELIM
+56	TOK	carefully		carefully\DGA7
+57	TOK	regulating		regulate\VMG----
+58	TOK	what		what\RW63N-
+59	TOK	passes		pass\VMFDRS3
+60	TOK	in		in\P
+61	TOK	and		and\CC
+62	TOK	out		out\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+63	TOK	Nutrients	BOS	nutrient\N5P
+64	TOK	and		and\CC
+65	TOK	other		other\JA
+66	TOK	desired		desire\VMC----
+67	TOK	compounds		compound\N5P
+68	TOK	enter		enter\VMF6R66
+---	DLD	;		=\DELIM
+69	TOK	unwanted		unwanted\JA
+70	TOK	molecules		molecule\N5P
+71	TOK	remain		remain\VMF6R66
+72	TOK	outside		outside\P
+---	DLD	;		=\DELIM
+73	TOK	and		and\CC
+74	TOK	waste		waste\N5S
+75	TOK	products		product\N5P
+76	TOK	pass		pass\VMF6R66
+##	TAG	<loc pos="P">
+77	TOK	out of		out_of\P
+##	TAG	</loc>
+78	TOK	the		the\AT---6
+79	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+80	TOK	But	BOS	but\CC
+81	TOK	in		in\P
+82	TOK	the		the\AT---6
+83	TOK	perpetual		perpetual\JA
+84	TOK	warfare		warfare\N5S
+85	TOK	between		between\P
+86	TOK	species		species\N56
+---	DLD	,		=\DELIM
+87	TOK	pathogenic		pathogenic\JA
+88	TOK	bacteria		bacteria\N5P
+89	TOK	have		have\V6F6R66
+90	TOK	developed		develop\VMC----
+91	TOK	the		the\AT---6
+92	TOK	ability		ability\N5S
+93	TOK	quite		quite\DGA7
+94	TOK	literally		literally\DGA7
+95	TOK	to		to\P
+96	TOK	penetrate		penetrate\VMI----
+97	TOK	the		the\AT---6
+98	TOK	cell		cell\N5S
+99	PGR	's		genmark\GENMARK
+100	TOK	defenses		defense\N5P
+101	TOK	and		and\CC
+102	TOK	disrupt		disrupt\VMI----
+103	TOK	the		the\AT---6
+104	TOK	balance		balance\N5S
+105	TOK	of		of\P
+106	TOK	entry		entry\N5S
+107	TOK	and		and\CC
+108	TOK	exit		exit\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+109	TOK	The	BOS	the\AT---6
+110	TOK	weapons		weapon\N5P
+111	TOK	used		use\VMC----
+112	TOK	in		in\P
+113	TOK	battle		battle\N5S
+114	TOK	consist		consist\VMF6R66
+115	TOK	of		of\P
+116	TOK	protein		protein\N5S
+117	TOK	molecules		molecule\N5P
+118	TOK	released		release\VMC----
+119	TOK	by		by\P
+120	TOK	the		the\AT---6
+121	TOK	pathogen		pathogen\N5S
+122	TOK	to		to\P
+123	TOK	bore		bore\N5S
+124	TOK	holes		hole\N5P
+125	TOK	into		into\P
+126	TOK	the		the\AT---6
+127	TOK	cell		cell\N5S
+128	TOK	membrane		membrane\N5S
+---	DLD	,		=\DELIM
+129	TOK	allowing		allow\VMG----
+130	TOK	foreign		foreign\JA
+131	TOK	material		material\N5S
+132	TOK	to		to\P
+133	TOK	rush		rush\N5S
+134	TOK	in		in\P
+135	TOK	and		and\CC
+136	TOK	some		some\AG---6
+137	TOK	of		of\P
+138	TOK	the		the\AT---6
+139	TOK	cell		cell\N5S
+140	PGR	's		genmark\GENMARK
+141	TOK	contents		content\N5P
+142	TOK	to		to\P
+143	TOK	leak		leak\N5S
+144	TOK	out		out\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+145	TOK	Interestingly	BOS	interestingly\DGA7
+---	DLD	,		=\DELIM
+146	TOK	humans		human\N5P
+147	TOK	ward		ward\VMF6R66
+148	TOK	off		off\DGA7
+149	TOK	many		many\AI---P
+150	TOK	of		of\P
+151	TOK	these		this\AD---P
+152	TOK	attacks		attack\N5P
+153	TOK	with		with\P
+154	TOK	a		a\AI---S
+155	TOK	similar		similar\JA
+156	TOK	armory		armory\N5S
+---	DLD	:		=\DELIM
+157	TOK	the		the\AT---6
+158	TOK	immune		immune\JA
+159	TOK	system		system\N5S
+160	TOK	also		also\DGA7
+161	TOK	exploits		exploit\VMFDRS3
+162	TOK	the		the\AT---6
+163	TOK	properties		property\N5P
+164	TOK	of		of\P
+165	TOK	its		its\APS3N6
+166	TOK	own		own\JA
+167	TOK	so		so\CC
+---	DLI	-		=\DELIM
+168	TOK	called		call\VMC----
+169	TOK	pore		pore\VMF6R66
+---	DLI	-		=\DELIM
+170	TOK	forming		form\VMG----
+171	TOK	proteins		protein\N5P
+172	TOK	to		to\P
+173	TOK	destroy		destroy\VMI----
+174	TOK	foreign		foreign\JA
+175	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+176	TOK	In	BOS	in\P
+177	TOK	my		my\APS1N6
+178	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+179	TOK	we		we\RPP1NN
+180	TOK	are		be\V6FDR66
+181	TOK	examining		examine\VMG----
+182	TOK	not		not\DGA7
+183	TOK	only		only\DGA7
+184	TOK	the		the\AT---6
+185	TOK	basic		basic\JA
+186	TOK	science		science\N5S
+187	TOK	of		of\P
+188	TOK	how		how\DGAW
+189	TOK	these		this\AD---P
+190	TOK	proteins		protein\N5P
+191	TOK	work		work\VMF6R66
+192	TOK	but		but\CC
+193	TOK	also		also\DGA7
+194	TOK	their		their\APP3N6
+195	TOK	potential		potential\JA
+196	TOK	applications		application\N5P
+197	TOK	in		in\P
+198	TOK	biotechnology		biotechnology\N5S
+199	TOK	and		and\CC
+200	TOK	medicine		medicine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+201	TOK	Ideally	BOS	ideally\DGA7
+---	DLD	,		=\DELIM
+202	TOK	we		we\RPP1NN
+203	TOK	would		will\VOFDA66
+204	TOK	like		like\VMI----
+205	TOK	to		to\P
+206	TOK	dispatch		dispatch\N5S
+207	TOK	molecular		molecular\JA
+208	TOK	gatekeepers		gatekeeper\N5P
+209	TOK	of		of\P
+210	TOK	our		our\APP1N6
+211	TOK	own		own\JA
+212	TOK	design		design\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+213	TOK	That	BOS	that\CS
+214	TOK	way		way\N5S
+---	DLD	,		=\DELIM
+215	TOK	we		we\RPP1NN
+216	TOK	could		can\VOFDA66
+217	TOK	bombard		bombard\VMI----
+218	TOK	cancer		cancer\N5S
+219	TOK	cells		cell\N5P
+220	TOK	with		with\P
+221	TOK	proteins		protein\N5P
+222	TOK	that		that\RW63N6
+223	TOK	would		will\VOFDA66
+224	TOK	damage		damage\VMI----
+225	TOK	the		the\AT---6
+226	TOK	cells		cell\N5P
+---	DLD	'		=\DELIM
+227	TOK	outer		outer\JA
+228	TOK	membranes		membrane\N5P
+---	DLD	,		=\DELIM
+229	TOK	making		make\VMG----
+230	TOK	them		them\RPP3NA
+231	TOK	more		more\DDC7
+232	TOK	susceptible		susceptible\JA
+233	TOK	to		to\P
+234	TOK	chemotherapy		chemotherapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+235	TOK	Or	BOS	or\CC
+236	TOK	we		we\RPP1NN
+237	TOK	could		can\VOFDA66
+238	TOK	create		create\VMI----
+239	TOK	synthetic		synthetic\JA
+240	TOK	membranes		membrane\N5P
+241	TOK	with		with\P
+242	TOK	artificial		artificial\JA
+243	TOK	pores		pore\N5P
+244	TOK	embedded		embed\VMC----
+245	TOK	in		in\P
+246	TOK	them		them\RPP3NA
+247	TOK	to		to\P
+248	TOK	serve		serve\VMI----
+249	TOK	as		as\CS
+250	TOK	biosensors		biosensor\N5P
+251	TOK	or		or\CC
+252	TOK	drug		drug\N5S
+253	TOK	delivery		delivery\N5S
+254	TOK	agents		agent\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+255	TOK	Bacterial	BOS	bacterial\JA
+256	TOK	pore		pore\N5S
+---	DLI	-		=\DELIM
+257	TOK	forming		form\VMG----
+258	TOK	proteins		protein\N5P
+259	TOK	exhibit		exhibit\VMF6R66
+260	TOK	a		a\AI---S
+261	TOK	range		range\N5S
+262	TOK	of		of\P
+263	TOK	characteristics		characteristic\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+264	TOK	The	BOS	the\AT---6
+265	TOK	protein		protein\N5S
+266	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+267	TOK	hemolysin		hemolysin\N5S
+---	DLD	,		=\DELIM
+268	TOK	which		which\RW63N-
+269	TOK	I		I\N5P
+270	TOK	shall		shall\VOFDR66
+271	TOK	discuss		discuss\VMI----
+272	TOK	in		in\P
+273	TOK	this		this\AD---S
+274	TOK	article		article\N5S
+---	DLD	,		=\DELIM
+275	TOK	is		be\V6FDRS3
+276	TOK	secreted		secrete\VMC----
+277	TOK	by		by\P
+278	TOK	the		the\AT---6
+279	TOK	common		common\JA
+280	TOK	bacterium		bacterium\N5S
+##	TAG	<name>
+281	TOK	Staphylococcus		Staphylococcus\N46
+##	TAG	</name>
+282	TOK	aureus		aureus\N5S
+---	DLE	,		=\DELIM
+283	TOK	which		which\RW63N-
+284	TOK	causes		cause\VMFDRS3
+285	TOK	staph		staph\N5S
+286	TOK	infections		infection\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+287	TOK	The	BOS	the\AT---6
+288	TOK	protein		protein\N5S
+289	TOK	assaults		assault\VMFDRS3
+290	TOK	target		target\N5S
+291	TOK	cells		cell\N5P
+292	TOK	by		by\P
+293	TOK	forming		form\VMG----
+294	TOK	pores		pore\N5P
+295	TOK	approximately		approximately\DGA7
+##	TAG	<num>
+296	TOK	two		two\X
+##	TAG	</num>
+297	TOK	nanometers		nanometer\N5P
+298	TOK	in		in\P
+299	TOK	diameter		diameter\N5S
+---	DLE	-		=\DELIM
+300	TOK	sufficiently		sufficiently\DGA7
+301	TOK	large		large\JA
+302	TOK	to		to\P
+303	TOK	permit		permit\VMI----
+304	TOK	small		small\JA
+305	TOK	molecules		molecule\N5P
+306	TOK	such		such\RIS3N-
+307	TOK	as		as\P
+308	TOK	the		the\AT---6
+309	TOK	sugar		sugar\N5S
+310	TOK	sucrose		sucrose\N5S
+311	TOK	to		to\P
+312	TOK	pass		pass\VMI----
+313	TOK	through		through\DGA7
+314	TOK	but		but\CC
+315	TOK	too		too\DGA7
+316	TOK	small		small\JA
+317	TOK	for		for\P
+318	TOK	larger		large\JC
+319	TOK	molecules		molecule\N5P
+---	DLD	,		=\DELIM
+320	TOK	including		including\P
+321	TOK	most		most\AG---6
+322	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+323	TOK	In	BOS	in\P
+324	TOK	contrast		contrast\VMI----
+---	DLD	,		=\DELIM
+325	TOK	streptolysin		streptolysin\N5S
+---	DLI	-		=\DELIM
+326	TOK	O		O\N5P
+---	DLD	,		=\DELIM
+327	TOK	from		from\P
+328	TOK	the		the\AT---6
+329	TOK	bacterium		bacterium\N5S
+##	TAG	<name>
+330	TOK	Streptococcus		Streptococcus\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+331	TOK	can		can\VOFDR66
+332	TOK	make		make\VMI----
+333	TOK	pores		pore\N5P
+334	TOK	exceeding		exceed\VMG----
+##	TAG	<num>
+335	TOK	30		30\X
+##	TAG	</num>
+336	TOK	nanometers		nanometer\N5P
+337	TOK	in		in\P
+338	TOK	diameter		diameter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+339	TOK	Like	BOS	like\P
+340	TOK	a		a\AI---S
+341	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+342	TOK	hemolysin		hemolysin\N5S
+---	DLD	,		=\DELIM
+343	TOK	streptolysin		streptolysin\N5S
+---	DLI	-		=\DELIM
+344	TOK	O		o\N5S
+345	TOK	causes		cause\VMFDRS3
+346	TOK	cell		cell\N5S
+347	TOK	damage		damage\N5S
+348	TOK	or		or\CC
+349	TOK	death		death\N5S
+350	TOK	by		by\P
+351	TOK	piercing		pierce\VMG----
+352	TOK	the		the\AT---6
+353	TOK	cell		cell\N5S
+354	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+355	TOK	Another	BOS	another\JA
+356	TOK	kind		kind\N5S
+357	TOK	of		of\P
+358	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+359	TOK	known		know\VMC----
+360	TOK	as		as\P
+361	TOK	an		an\AI---S
+##	TAG	<name>
+362	TOK	S-layer		S-layer\N46
+##	TAG	</name>
+363	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+364	TOK	provides		provide\VMFDRS3
+365	TOK	a		a\AI---S
+366	TOK	defensive		defensive\JA
+367	TOK	envelope		envelope\N5S
+368	TOK	for		for\P
+369	TOK	bacteria		bacteria\N5P
+---	DLD	;		=\DELIM
+370	TOK	it		it\RPS3N6
+371	TOK	forms		form\VMFDRS3
+372	TOK	flat		flat\JA
+373	TOK	sheets		sheet\N5P
+374	TOK	with		with\P
+375	TOK	numerous		numerous\JA
+376	TOK	openings		opening\N5P
+377	TOK	of		of\P
+378	TOK	roughly		roughly\DGA7
+379	TOK	uniform		uniform\JA
+380	TOK	size		size\N5S
+---	DLD	,		=\DELIM
+381	TOK	between		between\P
+##	TAG	<num>
+382	TOK	two		two\X
+##	TAG	</num>
+383	TOK	to		to\P
+##	TAG	<num>
+384	TOK	six		six\X
+##	TAG	</num>
+385	TOK	nanometers		nanometer\N5P
+386	TOK	across		across\P
+---	DLD	,		=\DELIM
+387	TOK	depending		depend\VMG----
+388	TOK	on		on\P
+389	TOK	the		the\AT---6
+390	TOK	type		type\N5S
+391	TOK	of		of\P
+392	TOK	bacterium		bacterium\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+393	TOK	The	BOS	the\AT---6
+394	TOK	pores		pore\N5P
+395	TOK	in		in\P
+396	TOK	these		this\AD---P
+397	TOK	sheets		sheet\N5P
+398	TOK	allow		allow\VMF6R66
+399	TOK	selected		select\VMC----
+400	TOK	nutrients		nutrient\N5P
+401	TOK	to		to\P
+402	TOK	reach		reach\VMI----
+403	TOK	the		the\AT---6
+404	TOK	cell		cell\N5S
+405	TOK	membrane		membrane\N5S
+406	TOK	for		for\P
+407	TOK	transport		transport\N5S
+408	TOK	into		into\P
+409	TOK	the		the\AT---6
+410	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+411	TOK	Mushroom-Shaped Pore	BOS	Mushroom-Shaped_Pore\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+413	TOK	In	BOS	in\P
+414	TOK	my		my\APS1N6
+415	TOK	work		work\VMF6R66
+---	DLD	,		=\DELIM
+416	TOK	I		I\N5P
+417	TOK	have		have\V6F6R66
+418	TOK	chosen		choose\VMC----
+419	TOK	to		to\P
+420	TOK	study		study\VMI----
+421	TOK	the		the\AT---6
+422	TOK	protein		protein\N5S
+423	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+424	TOK	hemolysin		hemolysin\N5S
+425	TOK	for		for\P
+426	TOK	several		several\JA
+427	TOK	reasons		reason\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+428	TOK	It	BOS	it\RPS3N6
+429	TOK	can		can\VOFDR66
+430	TOK	be		be\VMI----
+431	TOK	produced		produce\VMC----
+432	TOK	in		in\P
+433	TOK	large		large\JA
+434	TOK	amounts		amount\N5P
+---	DLE	(		=\DELIM
+##	TAG	<loc pos="RP63N-">
+435	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+436	TOK	grams		gram\N5P
+437	TOK	if		if\CS
+438	TOK	necessary		necessary\JA
+---	DLD	)		=\DELIM
+439	TOK	from		from\P
+440	TOK	bacterial		bacterial\JA
+441	TOK	cultures		culture\N5P
+---	DLD	;		=\DELIM
+442	TOK	the		the\AT---6
+443	TOK	structure		structure\N5S
+444	TOK	is		be\V6FDRS3
+445	TOK	fairly		fairly\DGA7
+446	TOK	small		small\JA
+---	DLD	,		=\DELIM
+447	TOK	with		with\P
+448	TOK	only		only\DGA7
+##	TAG	<num>
+449	TOK	293		293\X
+##	TAG	</num>
+450	TOK	amino		amino\N5S
+451	TOK	acid		acid\N5S
+452	TOK	building		building\N5S
+453	TOK	blocks		block\VMFDRS3
+---	DLD	,		=\DELIM
+454	TOK	making		make\VMG----
+455	TOK	it		it\RPS3N6
+456	TOK	simple		simple\JA
+457	TOK	to		to\P
+458	TOK	alter		alter\VMI----
+459	TOK	by		by\P
+460	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+461	TOK	DNA		DNA\N46
+##	TAG	</name>
+462	TOK	technology		technology\N5S
+---	DLD	;		=\DELIM
+463	TOK	and		and\CC
+464	TOK	the		the\AT---6
+465	TOK	molecule		molecule\N5S
+466	TOK	is		be\V6FDRS3
+467	TOK	extremely		extremely\DGA7
+468	TOK	stable		stable\JA
+469	TOK	compared		compare\VMC----
+470	TOK	with		with\P
+471	TOK	other		other\JA
+472	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+473	TOK	The	BOS	the\AT---6
+474	TOK	structure		structure\N5S
+475	TOK	of		of\P
+476	TOK	the		the\AT---6
+477	TOK	gene		gene\N5S
+478	TOK	that		that\RW63N6
+479	TOK	encodes		encode\VMFDRS3
+480	TOK	the		the\AT---6
+481	TOK	protein		protein\N5S
+482	TOK	was		be\V6F-A66
+483	TOK	published		publish\VMC----
+484	TOK	in		in\P
+##	TAG	<num>
+485	TOK	1984		1984\X
+##	TAG	</num>
+486	TOK	by		by\P
+##	TAG	<name>
+487	TOK	Gary S		Gary_S\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+488	TOK	Gray	BOS	gray\JA
+---	DLD	,		=\DELIM
+489	TOK	then		then\DGA7
+490	TOK	at		at\P
+##	TAG	<name>
+491	TOK	Biogen		Biogen\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+492	TOK	and		and\CC
+##	TAG	<name>
+493	TOK	Michael Kehoe		Michael_Kehoe\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+494	TOK	then		then\DGA7
+495	TOK	at		at\P
+496	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+497	TOK	University of Geneva		University_of_Geneva\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+498	TOK	Just	BOS	just\DGA7
+499	TOK	last		last\JA
+500	TOK	year		year\N5S
+##	TAG	<name>
+501	TOK	J. Eric Gouaux		J._Eric_Gouaux\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+502	TOK	now		now\DGA7
+503	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+504	TOK	Columbia University		Columbia_University\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+505	TOK	and		and\CC
+506	TOK	his		his\APS3M6
+507	TOK	research		research\N5S
+508	TOK	group		group\N5S
+509	TOK	determined		determine\VMC----
+510	TOK	the		the\AT---6
+511	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+512	TOK	dimensional		dimensional\JA
+513	TOK	structure		structure\N5S
+514	TOK	of		of\P
+515	TOK	the		the\AT---6
+516	TOK	alphahemolysin		alphahemolysin\N5S
+517	TOK	pore		pore\VMF6R66
+---	DLD	,		=\DELIM
+518	TOK	demonstrating		demonstrate\VMG----
+519	TOK	that		that\CS
+520	TOK	it		it\RPS3N6
+521	TOK	exists		exist\VMFDRS3
+522	TOK	as		as\CS
+523	TOK	a		a\AI---S
+524	TOK	mushroom		mushroom\N5S
+---	DLI	-		=\DELIM
+525	TOK	shaped		shape\VMC----
+526	TOK	complex		complex\JA
+527	TOK	of		of\P
+##	TAG	<num>
+528	TOK	seven		seven\X
+##	TAG	</num>
+529	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+530	TOK	hemolysin		hemolysin\N5S
+531	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+532	TOK	Research	BOS	research\N5S
+533	TOK	by		by\P
+##	TAG	<name>
+534	TOK	Sucharit Bhakdi		Sucharit_Bhakdi\N46
+##	TAG	</name>
+535	PGR	's		genmark\GENMARK
+536	TOK	team		team\N5S
+537	TOK	at		at\P
+538	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+539	TOK	University of Mainz		University_of_Mainz\N46
+##	TAG	</name>
+540	TOK	in		in\P
+##	TAG	<name>
+541	TOK	Germany		Germany\N46
+##	TAG	</name>
+542	TOK	suggests		suggest\VMFDRS3
+543	TOK	that		that\CS
+544	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+545	TOK	hemolysin		hemolysin\N5S
+546	TOK	can		can\VOFDR66
+547	TOK	assemble		assemble\VMI----
+548	TOK	into		into\P
+549	TOK	a		a\AI---S
+550	TOK	pore		pore\N5S
+551	TOK	in		in\P
+##	TAG	<num>
+552	TOK	two		two\X
+##	TAG	</num>
+553	TOK	ways		way\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+554	TOK	Certain	BOS	certain\JA
+555	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+556	TOK	such		such\JA
+557	TOK	as		as\P
+558	TOK	rabbit		rabbit\N56
+559	TOK	red		red\JA
+560	TOK	blood		blood\N5S
+561	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+562	TOK	have		have\VMI----
+563	TOK	on		on\P
+564	TOK	their		their\APP3N6
+565	TOK	surface		surface\N5S
+566	TOK	special		special\JA
+567	TOK	receptors		receptor\N5P
+568	TOK	that		that\RW63N6
+569	TOK	bind		bind\VMF6R66
+570	TOK	to		to\P
+571	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+572	TOK	hemolysin		hemolysin\N5S
+---	DLD	;		=\DELIM
+573	TOK	these		this\AD---P
+574	TOK	receptors		receptor\N5P
+575	TOK	may		may\VOFDR66
+576	TOK	either		either\DGA7
+577	TOK	trigger		trigger\VMI----
+578	TOK	pore		pore\N5S
+579	TOK	formation		formation\N5S
+580	TOK	or		or\CC
+581	TOK	help		help\N5S
+582	TOK	to		to\P
+583	TOK	orient		orient\VMI----
+584	TOK	the		the\AT---6
+585	TOK	hemolysin		hemolysin\N5S
+586	TOK	structure		structure\N5S
+587	TOK	correctly		correctly\DGA7
+588	TOK	on		on\P
+589	TOK	the		the\AT---6
+590	TOK	cell		cell\N5S
+591	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+592	TOK	But	BOS	but\CC
+593	TOK	conveniently		conveniently\DGA7
+---	DLD	,		=\DELIM
+594	TOK	even		even\DGA7
+595	TOK	in		in\P
+596	TOK	the		the\AT---6
+597	TOK	absence		absence\N5S
+598	TOK	of		of\P
+599	TOK	such		such\JA
+600	TOK	receptors		receptor\N5P
+---	DLD	,		=\DELIM
+601	TOK	alpha		alpha\N5S
+---	DLD	-		=\DELIM
+602	TOK	hemolysin		hemolysin\N5S
+603	TOK	molecules		molecule\N5P
+604	TOK	can		can\VOFDR66
+605	TOK	still		still\DGA7
+606	TOK	function		function\VMI----
+---	DLD	;		=\DELIM
+607	TOK	on		on\P
+608	TOK	artificial		artificial\JA
+609	TOK	membranes		membrane\N5P
+---	DLE	(		=\DELIM
+610	TOK	made		make\VMC----
+611	TOK	from		from\P
+612	TOK	a		a\AI---S
+613	TOK	double		double\JA
+614	TOK	layer		layer\N5S
+615	TOK	of		of\P
+616	TOK	molecules		molecule\N5P
+617	TOK	known		know\VMC----
+618	TOK	as		as\P
+619	TOK	lipids		lipid\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+620	TOK	the		the\AT---6
+621	TOK	proteins		protein\N5P
+622	TOK	organize		organize\VMF6R66
+623	TOK	themselves		themselves\RXP3N-
+---	DLD	,		=\DELIM
+624	TOK	or		or\CC
+625	TOK	self		self\VMF6R66
+---	DLI	-		=\DELIM
+626	TOK	assemble		assemble\VMF6R66
+---	DLD	,		=\DELIM
+627	TOK	into		into\P
+628	TOK	pores		pore\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+629	TOK	The	BOS	the\AT---6
+630	TOK	proteins		protein\N5P
+631	TOK	will		will\VOFDR66
+632	TOK	also		also\DGA7
+633	TOK	spontaneously		spontaneously\DGA7
+634	TOK	assemble		assemble\VMI----
+635	TOK	when		when\CS
+636	TOK	mixed		mix\VMC----
+637	TOK	with		with\P
+638	TOK	certain		certain\JA
+639	TOK	laboratory		laboratory\N5S
+640	TOK	chemicals		chemical\N5P
+641	TOK	related		relate\VMC----
+642	TOK	to		to\P
+643	TOK	common		common\JA
+644	TOK	detergents		detergent\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+645	TOK	Self	BOS	self\N5S
+---	DLI	-		=\DELIM
+646	TOK	assembly		assembly\N5S
+647	TOK	offers		offer\VMFDRS3
+648	TOK	real		real\JA
+649	TOK	advantages		advantage\N5P
+650	TOK	to		to\P
+651	TOK	biotechnologists		biotechnologist\N5P
+652	TOK	seeking		seek\VMG----
+653	TOK	to		to\P
+654	TOK	manufacture		manufacture\N5S
+655	TOK	products		product\N5P
+656	TOK	based		base\VMC----
+657	TOK	on		on\P
+658	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+659	TOK	hemolysin		hemolysin\N5S
+---	DLD	,		=\DELIM
+660	TOK	because		because\CS
+661	TOK	otherwise		otherwise\DGA7
+662	TOK	troublesome		troublesome\JA
+663	TOK	aspects		aspect\N5P
+664	TOK	of		of\P
+665	TOK	the		the\AT---6
+666	TOK	production		production\N5S
+667	TOK	process		process\N5S
+668	TOK	will		will\VOFDR66
+669	TOK	take		take\VMI----
+670	TOK	care		care\N5S
+671	TOK	of		of\P
+672	TOK	themselves		themselves\RXP3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+673	TOK	Recent	BOS	recent\JA
+674	TOK	work		work\N5S
+675	TOK	on		on\P
+676	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+677	TOK	hemolysin		hemolysin\N5S
+678	TOK	by		by\P
+679	TOK	my		my\APS1N6
+680	TOK	lab		lab\N5S
+681	TOK	and		and\CC
+682	TOK	by		by\P
+##	TAG	<name>
+683	TOK	Bhakdi		Bhakdi\N46
+##	TAG	</name>
+684	PGR	's		genmark\GENMARK
+685	TOK	and		and\CC
+##	TAG	<name>
+686	TOK	Gouaux		Gouaux\N46
+##	TAG	</name>
+687	PGR	's		genmark\GENMARK
+688	TOK	groups		group\N5P
+689	TOK	has		have\V6FDRS3
+690	TOK	also		also\DGA7
+691	TOK	helped		help\VMC----
+692	TOK	clarify		clarify\VMF6R66
+693	TOK	many		many\AI---P
+694	TOK	details		detail\N5P
+695	TOK	concerning		concerning\P
+696	TOK	how		how\DGAW
+697	TOK	the		the\AT---6
+698	TOK	opening		opening\N5S
+699	TOK	actually		actually\DGA7
+700	TOK	forms		form\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+701	TOK	Once	BOS	once\DGA7
+702	TOK	individual		individual\JA
+703	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+704	TOK	hemolysin		hemolysin\N5S
+705	TOK	molecules		molecule\N5P
+706	TOK	bind		bind\VMF6R66
+707	TOK	to		to\P
+708	TOK	a		a\AI---S
+709	TOK	cell		cell\N5S
+710	TOK	membrane		membrane\N5S
+711	TOK	or		or\CC
+712	TOK	an		an\AI---S
+713	TOK	artificial		artificial\JA
+714	TOK	lipid		lipid\N5S
+715	TOK	membrane		membrane\N5S
+---	DLD	,		=\DELIM
+716	TOK	they		they\RPP3NN
+717	TOK	consolidate		consolidate\VMF6R66
+718	TOK	into		into\P
+719	TOK	groups		group\N5P
+720	TOK	of		of\P
+##	TAG	<num>
+721	TOK	seven		seven\X
+##	TAG	</num>
+722	TOK	in		in\P
+723	TOK	what		what\RW63N-
+724	TOK	is		be\V6FDRS3
+725	TOK	known		know\VMC----
+726	TOK	as		as\P
+727	TOK	a		a\AI---S
+728	TOK	prepore		prepore\JA
+729	TOK	complex		complex\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+730	TOK	The	BOS	the\AT---6
+731	TOK	center		center\N5S
+732	TOK	of		of\P
+733	TOK	each		each\AG---S
+734	TOK	monomer		monomer\N5S
+735	TOK	consists		consist\VMFDRS3
+736	TOK	of		of\P
+737	TOK	a		a\AI---S
+738	TOK	long		long\JA
+739	TOK	strand		strand\N5S
+740	TOK	of		of\P
+741	TOK	approximately		approximately\DGA7
+##	TAG	<num>
+742	TOK	40		40\X
+##	TAG	</num>
+743	TOK	amino		amino\N5S
+744	TOK	acids		acid\N5P
+---	DLD	;		=\DELIM
+745	TOK	investigators		investigator\N5P
+746	TOK	have		have\V6F6R66
+747	TOK	now		now\DGA7
+748	TOK	determined		determine\VMC----
+749	TOK	that		that\CS
+750	TOK	this		this\AD---S
+751	TOK	strand		strand\N5S
+752	TOK	burrows		burrow\N5P
+753	TOK	into		into\P
+754	TOK	the		the\AT---6
+755	TOK	cell		cell\N5S
+756	TOK	membrane		membrane\N5S
+757	TOK	to		to\P
+758	TOK	become		become\VMI----
+759	TOK	part		part\N5S
+760	TOK	of		of\P
+761	TOK	the		the\AT---6
+762	TOK	lining		lining\N5S
+763	TOK	of		of\P
+764	TOK	the		the\AT---6
+765	TOK	channel		channel\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+766	TOK	Open	BOS	open\JA
+##	TAG	<name>
+767	TOK	Sesame	EOS	Sesame\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+769	TOK	My	BOS	my\APS1N6
+770	TOK	goal		goal\N5S
+771	TOK	on		on\P
+772	TOK	starting		start\VMG----
+773	TOK	this		this\AD---S
+774	TOK	research		research\N5S
+775	TOK	was		be\V6F-A66
+776	TOK	to		to\P
+777	TOK	use		use\VMI----
+778	TOK	the		the\AT---6
+779	TOK	techniques		technique\N5P
+780	TOK	of		of\P
+781	TOK	protein		protein\N5S
+782	TOK	engineering		engineering\N5S
+783	TOK	to		to\P
+784	TOK	manipulate		manipulate\VMI----
+##	TAG	<num>
+785	TOK	three		three\X
+##	TAG	</num>
+786	TOK	essential		essential\JA
+787	TOK	properties		property\N5P
+788	TOK	of		of\P
+789	TOK	the		the\AT---6
+790	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+791	TOK	hemolysin		hemolysin\N5S
+792	TOK	pore		pore\VMF6R66
+---	DLD	:		=\DELIM
+793	TOK	the		the\AT---6
+794	TOK	size		size\N5S
+795	TOK	of		of\P
+796	TOK	the		the\AT---6
+797	TOK	opening		open\VMG----
+---	DLD	,		=\DELIM
+798	TOK	the		the\AT---6
+799	TOK	selectivity		selectivity\N5S
+800	TOK	of		of\P
+801	TOK	the		the\AT---6
+802	TOK	channel		channel\N5S
+803	TOK	for		for\P
+804	TOK	letting		let\VMG----
+805	TOK	different		different\JA
+806	TOK	molecules		molecule\N5P
+807	TOK	pass		pass\VMF6R66
+808	TOK	through		through\P
+---	DLD	,		=\DELIM
+809	TOK	and		and\CC
+810	TOK	the		the\AT---6
+811	TOK	pore		pore\N5S
+812	PGR	's		genmark\GENMARK
+813	TOK	ability		ability\N5S
+814	TOK	to		to\P
+815	TOK	open		open\JA
+816	TOK	and		and\CC
+817	TOK	close		close\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+818	TOK	Under	BOS	under\P
+819	TOK	normal		normal\JA
+820	TOK	circumstances		circumstance\N5P
+---	DLD	,		=\DELIM
+821	TOK	the		the\AT---6
+822	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+823	TOK	hemolysin		hemolysin\N5S
+824	TOK	pore		pore\N5S
+825	TOK	is		be\V6FDRS3
+826	TOK	open		open\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+827	TOK	It	BOS	it\RPS3N6
+828	TOK	displays		display\VMFDRS3
+829	TOK	only		only\DGA7
+830	TOK	a		a\AI---S
+831	TOK	slight		slight\JA
+832	TOK	preference		preference\N5S
+833	TOK	for		for\P
+834	TOK	allowing		allow\VMG----
+835	TOK	negatively		negatively\DGA7
+836	TOK	charged		charge\VMC----
+837	TOK	molecules		molecule\N5P
+838	TOK	to		to\P
+839	TOK	pass		pass\VMI----
+840	TOK	through		through\P
+---	DLE	(		=\DELIM
+##	TAG	<loc pos="DDC7">
+841	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+842	TOK	positively		positively\DGA7
+843	TOK	charged		charge\VMC----
+844	TOK	or		or\CC
+845	TOK	neutral		neutral\JA
+846	TOK	molecules		molecule\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+847	TOK	but		but\CC
+848	TOK	this		this\AD---S
+849	TOK	bias		bias\N5S
+850	TOK	is		be\V6FDRS3
+851	TOK	quite		quite\DGA7
+852	TOK	minimal		minimal\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+853	TOK	For	BOS	for\P
+854	TOK	the		the\AT---6
+855	TOK	purposes		purpose\N5P
+856	TOK	of		of\P
+857	TOK	my		my\APS1N6
+858	TOK	work		work\VMF6R66
+---	DLD	,		=\DELIM
+859	TOK	the		the\AT---6
+860	TOK	opening		opening\N5S
+861	TOK	turns		turn\VMFDRS3
+862	TOK	out		out\DGA7
+863	TOK	to		to\P
+864	TOK	be		be\VMI----
+865	TOK	just		just\DGA7
+866	TOK	the		the\AT---6
+867	TOK	right		right\JA
+868	TOK	size		size\N5S
+---	DLE	-		=\DELIM
+869	TOK	a		a\AI---S
+870	TOK	bigger		big\JC
+871	TOK	or		or\CC
+872	TOK	smaller		small\JC
+873	TOK	channel		channel\N5S
+874	TOK	would		will\VOFDA66
+875	TOK	be		be\VMI----
+876	TOK	more		more\DDC7
+877	TOK	difficult		difficult\JA
+878	TOK	to		to\P
+879	TOK	remodel		remodel\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+880	TOK	Therefore	BOS	therefore\DGA7
+---	DLD	,		=\DELIM
+881	TOK	I		I\N5P
+882	TOK	consider		consider\VMF6R66
+883	TOK	the		the\AT---6
+884	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+885	TOK	hemolysin		hemolysin\N5S
+886	TOK	pore		pore\N5S
+887	TOK	to		to\P
+888	TOK	be		be\VMI----
+889	TOK	a		a\AI---S
+890	TOK	blank		blank\N5S
+891	TOK	slate		slate\VMF6R66
+---	DLD	,		=\DELIM
+892	TOK	ready		ready\JA
+893	TOK	to		to\P
+894	TOK	be		be\VMI----
+895	TOK	modified		modify\VMC----
+896	TOK	by		by\P
+897	TOK	protein		protein\N5S
+898	TOK	engineering		engineer\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+899	TOK	Nevertheless	BOS	nevertheless\DGA7
+---	DLD	,		=\DELIM
+900	TOK	when		when\CS
+901	TOK	I		I\N5P
+902	TOK	began		begin\VMF6A66
+---	DLD	,		=\DELIM
+903	TOK	I		I\N5P
+904	TOK	had		have\V6F6A66
+905	TOK	little		little\JA
+906	TOK	idea		idea\N5S
+907	TOK	how		how\DGAW
+908	TOK	opening		opening\N5S
+909	TOK	and		and\CC
+910	TOK	closing		close\VMG----
+911	TOK	the		the\AT---6
+912	TOK	channel		channel\N5S
+---	DLD	,		=\DELIM
+913	TOK	seemingly		seemingly\DGA7
+914	TOK	the		the\AT---6
+915	TOK	most		most\DDS7
+916	TOK	difficult		difficult\JA
+917	TOK	of		of\P
+918	TOK	the		the\AT---6
+##	TAG	<num>
+919	TOK	three		three\X
+##	TAG	</num>
+920	TOK	tasks		task\N5P
+---	DLD	,		=\DELIM
+921	TOK	might		may\VOFDR66
+922	TOK	be		be\VMI----
+923	TOK	achieved		achieve\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+924	TOK	But	BOS	but\CC
+925	TOK	researchers		researcher\N5P
+926	TOK	in		in\P
+927	TOK	my		my\APS1N6
+928	TOK	laboratory		laboratory\N5S
+929	TOK	have		have\V6F6R66
+930	TOK	been		be\VMC----
+931	TOK	able		able\JA
+932	TOK	to		to\P
+933	TOK	place		place\VMI----
+934	TOK	molecular		molecular\JA
+935	TOK	triggers		trigger\N5P
+936	TOK	and		and\CC
+937	TOK	switches		switch\N5P
+938	TOK	into		into\P
+939	TOK	the		the\AT---6
+940	TOK	protein		protein\N5S
+941	TOK	that		that\RW63N6
+942	TOK	prompt		prompt\VMF6R66
+943	TOK	the		the\AT---6
+944	TOK	pore		pore\N5S
+945	TOK	to		to\P
+946	TOK	open		open\JA
+947	TOK	or		or\CC
+948	TOK	close		close\JA
+949	TOK	on		on\P
+950	TOK	command		command\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+951	TOK	Our	BOS	our\APP1N6
+952	TOK	attention		attention\N5S
+953	TOK	has		have\V6FDRS3
+954	TOK	focused		focus\VMC----
+955	TOK	on		on\P
+956	TOK	this		this\AD---S
+957	TOK	aspect		aspect\N5S
+958	TOK	of		of\P
+959	TOK	the		the\AT---6
+960	TOK	work		work\N5S
+##	TAG	<loc pos="P">
+961	TOK	because of		because_of\P
+##	TAG	</loc>
+962	TOK	its		its\APS3N6
+963	TOK	considerable		considerable\JA
+964	TOK	practical		practical\JA
+965	TOK	implications		implication\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+966	TOK	Protein	BOS	protein\N5S
+967	TOK	engineering		engineering\N5S
+968	TOK	has		have\V6FDRS3
+969	TOK	been		be\VMC----
+970	TOK	our		our\APP1N6
+971	TOK	technique		technique\N5S
+972	TOK	of		of\P
+973	TOK	choice		choice\N5S
+974	TOK	because		because\CS
+975	TOK	it		it\RPS3N6
+976	TOK	permits		permit\VMFDRS3
+977	TOK	the		the\AT---6
+978	TOK	amino		amino\N5S
+979	TOK	acids		acid\N5P
+980	TOK	in		in\P
+981	TOK	a		a\AI---S
+982	TOK	protein		protein\N5S
+983	TOK	to		to\P
+984	TOK	be		be\VMI----
+985	TOK	replaced		replace\VMC----
+986	TOK	with		with\P
+987	TOK	other		other\JA
+988	TOK	naturally		naturally\DGA7
+989	TOK	occurring		occur\VMG----
+990	TOK	amino		amino\N5S
+991	TOK	acids		acid\N5P
+992	TOK	or		or\CC
+993	TOK	even		even\DGA7
+994	TOK	with		with\P
+---	DLE	"		=\DELIM
+995	TOK	unnatural		unnatural\JA
+---	DLD	"		=\DELIM
+996	TOK	amino		amino\N5S
+997	TOK	acids		acid\N5P
+998	TOK	made		make\VMC----
+999	TOK	in		in\P
+1000	TOK	the		the\AT---6
+1001	TOK	laboratory		laboratory\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1002	TOK	We	BOS	we\RPP1NN
+1003	TOK	can		can\VOFDR66
+1004	TOK	therefore		therefore\DGA7
+1005	TOK	put		put\VMI----
+1006	TOK	a		a\AI---S
+1007	TOK	variety		variety\N5S
+1008	TOK	of		of\P
+1009	TOK	potential		potential\JA
+1010	TOK	triggers		trigger\N5P
+1011	TOK	and		and\CC
+1012	TOK	switches		switch\N5P
+1013	TOK	into		into\P
+1014	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+1015	TOK	hemolysin		hemolysin\N5S
+1016	TOK	and		and\CC
+1017	TOK	explore		explore\VMF6R66
+1018	TOK	which		which\AW---6
+1019	TOK	ones		one\N5P
+1020	TOK	will		will\VOFDR66
+1021	TOK	work		work\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1022	TOK	In	BOS	in\P
+1023	TOK	principle		principle\N5S
+---	DLD	,		=\DELIM
+1024	TOK	molecular		molecular\JA
+1025	TOK	switches		switch\N5P
+1026	TOK	might		may\VOFDR66
+1027	TOK	be		be\VMI----
+1028	TOK	biochemical		biochemical\JA
+---	DLE	(		=\DELIM
+1029	TOK	activated		activate\VMC----
+1030	TOK	by		by\P
+1031	TOK	enzymes		enzyme\N5P
+---	DLD	)		=\DELIM
+1032	TOK	or		or\CC
+1033	TOK	chemical		chemical\JA
+---	DLE	(		=\DELIM
+1034	TOK	activated		activate\VMC----
+1035	TOK	by		by\P
+1036	TOK	the		the\AT---6
+1037	TOK	binding		binding\N5S
+1038	TOK	of		of\P
+1039	TOK	small		small\JA
+1040	TOK	molecules		molecule\N5P
+1041	TOK	to		to\P
+1042	TOK	the		the\AT---6
+1043	TOK	protein		protein\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1044	TOK	Activation	BOS	activation\N5S
+1045	TOK	by		by\P
+1046	TOK	a		a\AI---S
+1047	TOK	physical		physical\JA
+1048	TOK	stimulus		stimulus\N5S
+---	DLD	,		=\DELIM
+1049	TOK	such		such\JA
+1050	TOK	as		as\P
+1051	TOK	heat		heat\N5S
+1052	TOK	or		or\CC
+1053	TOK	light		light\VMF6R66
+---	DLD	,		=\DELIM
+1054	TOK	is		be\V6FDRS3
+1055	TOK	another		another\JA
+1056	TOK	possibility		possibility\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1057	TOK	As	BOS	as\CS
+1058	TOK	it		it\RPS3N6
+1059	TOK	turns		turn\VMFDRS3
+1060	TOK	out		out\DGA7
+---	DLD	,		=\DELIM
+1061	TOK	all		all\N56
+##	TAG	<num>
+1062	TOK	three		three\X
+##	TAG	</num>
+1063	TOK	approaches		approach\N5P
+1064	TOK	have		have\V6F6R66
+1065	TOK	been		be\VMC----
+1066	TOK	successful		successful\JA
+1067	TOK	with		with\P
+1068	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+1069	TOK	hemolysin		hemolysin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1070	TOK	With	BOS	with\P
+1071	TOK	the		the\AT---6
+1072	TOK	help		help\N5S
+1073	TOK	of		of\P
+##	TAG	<name>
+1074	TOK	Barbara J		Barbara_J\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1075	TOK	Walker	BOS	walker\N5S
+1076	TOK	of		of\P
+1077	TOK	the		the\AT---6
+##	TAG	<name>
+1078	TOK	Worcester Foundation for Experimental Biology		Worcester_Foundation_for_Experimental_Biology\N46
+##	TAG	</name>
+1079	TOK	in		in\P
+##	TAG	<name>
+1080	TOK	Shrewsbury		Shrewsbury\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1081	TOK	Massachusetts		Massachusetts\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1082	TOK	where		where\CS
+1083	TOK	I		I\N5P
+1084	TOK	began		begin\VMF6A66
+1085	TOK	this		this\AD---S
+1086	TOK	research		research\N5S
+---	DLD	,		=\DELIM
+1087	TOK	I		I\N5P
+1088	TOK	have		have\V6F6R66
+1089	TOK	introduced		introduce\VMC----
+1090	TOK	a		a\AI---S
+1091	TOK	biochemical		biochemical\JA
+1092	TOK	trigger		trigger\N5S
+1093	TOK	into		into\P
+1094	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+1095	TOK	hemolysin		hemolysin\N5S
+1096	TOK	by		by\P
+1097	TOK	first		first\DGA7
+1098	TOK	adding		add\VMG----
+1099	TOK	a		a\AI---S
+1100	TOK	small		small\JA
+1101	TOK	polypeptide		polypeptide\N5S
+1102	TOK	chain		chain\VMF6R66
+---	DLE	-		=\DELIM
+1103	TOK	between		between\P
+##	TAG	<num>
+1104	TOK	11		11\X
+##	TAG	</num>
+1105	TOK	and		and\CC
+##	TAG	<num>
+1106	TOK	53		53\X
+##	TAG	</num>
+1107	TOK	amino		amino\N5S
+1108	TOK	acids		acid\N5P
+---	DLD	-		=\DELIM
+1109	TOK	to		to\P
+1110	TOK	the		the\AT---6
+1111	TOK	central		central\JA
+1112	TOK	strand		strand\N5S
+1113	TOK	of		of\P
+1114	TOK	the		the\AT---6
+1115	TOK	protein		protein\N5S
+1116	TOK	that		that\RW63N6
+1117	TOK	ordinarily		ordinarily\DGA7
+1118	TOK	breaks		break\VMFDRS3
+1119	TOK	through		through\P
+1120	TOK	the		the\AT---6
+1121	TOK	cell		cell\N5S
+1122	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1123	TOK	This	BOS	this\AD---S
+1124	TOK	additional		additional\JA
+1125	TOK	segment		segment\N5S
+1126	TOK	blocks		block\VMFDRS3
+1127	TOK	the		the\AT---6
+1128	TOK	opening		opening\N5S
+1129	TOK	of		of\P
+1130	TOK	the		the\AT---6
+1131	TOK	pores		pore\N5P
+---	DLD	;		=\DELIM
+1132	TOK	subsequent		subsequent\JA
+1133	TOK	treatment		treatment\N5S
+1134	TOK	of		of\P
+1135	TOK	the		the\AT---6
+1136	TOK	protein		protein\N5S
+1137	TOK	with		with\P
+1138	TOK	an		an\AI---S
+1139	TOK	enzyme		enzyme\N5S
+1140	TOK	known		know\VMC----
+1141	TOK	as		as\P
+1142	TOK	a		a\AI---S
+1143	TOK	protease		protease\N5S
+1144	TOK	clips		clip\N5P
+1145	TOK	off		off\P
+1146	TOK	this		this\AD---S
+1147	TOK	extra		extra\JA
+1148	TOK	piece		piece\N5S
+---	DLD	,		=\DELIM
+1149	TOK	allowing		allow\VMG----
+1150	TOK	pore		pore\N5S
+1151	TOK	formation		formation\N5S
+1152	TOK	to		to\P
+1153	TOK	proceed		proceed\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1154	TOK	Biochemical	BOS	biochemical\JA
+1155	TOK	triggers		trigger\N5P
+1156	TOK	might		may\VOFDR66
+1157	TOK	be		be\VMI----
+1158	TOK	used		use\VMC----
+1159	TOK	to		to\P
+1160	TOK	make		make\VMI----
+1161	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+1162	TOK	hemolysins		hemolysin\N5P
+1163	TOK	that		that\RW63N6
+1164	TOK	penetrate		penetrate\VMF6R66
+1165	TOK	only		only\DGA7
+1166	TOK	selected		select\VMC----
+1167	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1168	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1169	TOK	specially		specially\DGA7
+1170	TOK	modified		modify\VMC----
+1171	TOK	hemolysins		hemolysin\N5P
+1172	TOK	could		can\VOFDA66
+1173	TOK	be		be\VMI----
+1174	TOK	guided		guide\VMC----
+1175	TOK	to		to\P
+1176	TOK	a		a\AI---S
+1177	TOK	tumor		tumor\N5S
+1178	TOK	with		with\P
+1179	TOK	the		the\AT---6
+1180	TOK	aid		aid\N5S
+1181	TOK	of		of\P
+1182	TOK	antibody		antibody\N5S
+1183	TOK	fragments		fragment\N5P
+---	DLE	(		=\DELIM
+1184	TOK	chosen		choose\VMC----
+1185	TOK	to		to\P
+1186	TOK	recognize		recognize\VMI----
+1187	TOK	cancer		cancer\N5S
+1188	TOK	cells		cell\N5P
+---	DLD	)		=\DELIM
+1189	TOK	built		build\VMC----
+1190	TOK	into		into\P
+1191	TOK	the		the\AT---6
+1192	TOK	protein		protein\N5S
+1193	PGR	's		genmark\GENMARK
+1194	TOK	structure		structure\N5S
+1195	TOK	by		by\P
+1196	TOK	genetic		genetic\JA
+1197	TOK	engineering		engineer\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1198	TOK	When	BOS	when\CS
+1199	TOK	these		this\AD---P
+1200	TOK	hybrid		hybrid\N5S
+1201	TOK	proteins		protein\N5P
+1202	TOK	reach		reach\VMF6R66
+1203	TOK	the		the\AT---6
+1204	TOK	cancer		cancer\N5S
+1205	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+1206	TOK	pore		pore\N5S
+1207	TOK	formation		formation\N5S
+1208	TOK	could		can\VOFDA66
+1209	TOK	be		be\VMI----
+1210	TOK	activated		activate\VMC----
+1211	TOK	by		by\P
+1212	TOK	the		the\AT---6
+1213	TOK	proteases		protease\N5P
+1214	TOK	released		release\VMC----
+1215	TOK	by		by\P
+1216	TOK	the		the\AT---6
+1217	TOK	cancer		cancer\N5S
+##	TAG	<abbr>
+1218	TOK	cells.		cells.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1219	TOK	Metastatic		Metastatic\N46
+##	TAG	</name>
+1220	TOK	cancer		cancer\N5S
+1221	TOK	cells		cell\N5P
+1222	TOK	secrete		secrete\VMF6R66
+1223	TOK	enzymes		enzyme\N5P
+1224	TOK	known		know\VMC----
+1225	TOK	as		as\P
+1226	TOK	tumor		tumor\N5S
+1227	TOK	proteases		protease\N5P
+1228	TOK	that		that\RW63N6
+1229	TOK	assist		assist\VMF6R66
+1230	TOK	the		the\AT---6
+1231	TOK	cells		cell\N5P
+1232	TOK	both		both\RIP3N-
+1233	TOK	in		in\P
+1234	TOK	their		their\APP3N6
+1235	TOK	escape		escape\N5S
+1236	TOK	from		from\P
+1237	TOK	primary		primary\JA
+1238	TOK	tumors		tumor\N5P
+1239	TOK	and		and\CC
+1240	TOK	in		in\P
+1241	TOK	their		their\APP3N6
+1242	TOK	colonization		colonization\N5S
+1243	TOK	of		of\P
+1244	TOK	new		new\JA
+##	TAG	<abbr>
+1245	TOK	sites.		sites.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+1246	TOK	The		The\N5P
+1247	TOK	altered		alter\VMC----
+1248	TOK	hemolysins		hemolysin\N5P
+1249	TOK	would		will\VOFDA66
+1250	TOK	begin		begin\VMI----
+1251	TOK	drilling		drilling\N5S
+1252	TOK	holes		hole\N5P
+1253	TOK	into		into\P
+1254	TOK	the		the\AT---6
+1255	TOK	cancer		cancer\N5S
+1256	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+1257	TOK	thereby		thereby\DGA7
+1258	TOK	enhancing		enhance\VMG----
+1259	TOK	their		their\APP3N6
+1260	TOK	permeability		permeability\N5S
+1261	TOK	and		and\CC
+1262	TOK	hence		hence\DGA7
+1263	TOK	susceptibility		susceptibility\N5S
+1264	TOK	to		to\P
+1265	TOK	various		various\JA
+1266	TOK	cytotoxic		cytotoxic\JA
+1267	TOK	drugs		drug\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1268	TOK	As	BOS	as\P
+1269	TOK	a		a\AI---S
+1270	TOK	step		step\N5S
+1271	TOK	in		in\P
+1272	TOK	this		this\AD---S
+1273	TOK	direction		direction\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1274	TOK	Rekha G. Panchal		Rekha_G._Panchal\N46
+##	TAG	</name>
+1275	TOK	in		in\P
+1276	TOK	my		my\APS1N6
+1277	TOK	group		group\N5S
+1278	TOK	created		create\VMC----
+1279	TOK	mutant		mutant\N5S
+1280	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+1281	TOK	hemolysins		hemolysin\N5P
+1282	TOK	that		that\RW63N6
+1283	TOK	are		be\V6FDR66
+1284	TOK	activated		activate\VMC----
+1285	TOK	by		by\P
+1286	TOK	tumor		tumor\N5S
+1287	TOK	proteases		protease\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1288	TOK	Eventually	BOS	eventually\DGA7
+---	DLD	,		=\DELIM
+1289	TOK	it		it\RPS3N6
+1290	TOK	may		may\VOFDR66
+1291	TOK	be		be\VMI----
+1292	TOK	possible		possible\JA
+1293	TOK	to		to\P
+1294	TOK	insert		insert\VMI----
+1295	TOK	a		a\AI---S
+1296	TOK	biochemical		biochemical\JA
+1297	TOK	switch		switch\N5S
+1298	TOK	that		that\RW63N6
+1299	TOK	could		can\VOFDA66
+1300	TOK	turn		turn\VMI----
+1301	TOK	pore		pore\N5S
+---	DLI	-		=\DELIM
+1302	TOK	forming		form\VMG----
+1303	TOK	activity		activity\N5S
+1304	TOK	both		both\RIP3N-
+1305	TOK	on		on\P
+1306	TOK	and		and\CC
+1307	TOK	off		off\P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DDC7">
+1308	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+1309	TOK	just		just\DGA7
+1310	TOK	turn		turn\VMF6R66
+1311	TOK	it		it\RPS3N6
+1312	TOK	on		on\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1313	TOK	Dan	BOS	dan\N5S
+##	TAG	<name>
+1314	TOK	W. Urry		W._Urry\N46
+##	TAG	</name>
+1315	TOK	of		of\P
+1316	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+1317	TOK	University of Alabama		University_of_Alabama\N46
+##	TAG	</name>
+1318	TOK	at		at\P
+##	TAG	<name>
+1319	TOK	Birmingham		Birmingham\N46
+##	TAG	</name>
+1320	TOK	has		have\V6FDRS3
+1321	TOK	modified		modify\VMC----
+1322	TOK	the		the\AT---6
+1323	TOK	shape		shape\N5S
+1324	TOK	of		of\P
+1325	TOK	a		a\AI---S
+1326	TOK	synthetic		synthetic\JA
+1327	TOK	protein		protein\N5S
+1328	TOK	and		and\CC
+1329	TOK	then		then\DGA7
+1330	TOK	returned		return\VMF6A66
+1331	TOK	it		it\RPS3N6
+1332	TOK	to		to\P
+1333	TOK	its		its\APS3N6
+1334	TOK	original		original\JA
+1335	TOK	configuration		configuration\N5S
+1336	TOK	with		with\P
+1337	TOK	the		the\AT---6
+1338	TOK	help		help\N5S
+1339	TOK	of		of\P
+1340	TOK	enzymes		enzyme\N5P
+1341	TOK	by		by\P
+1342	TOK	exploiting		exploit\VMG----
+1343	TOK	what		what\RW63N-
+1344	TOK	is		be\V6FDRS3
+1345	TOK	called		call\VMC----
+1346	TOK	a		a\AI---S
+1347	TOK	phosphorylation		phosphorylation\N5S
+1348	TOK	reaction		reaction\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1349	TOK	We	BOS	we\RPP1NN
+1350	TOK	have		have\V6F6R66
+1351	TOK	begun		begin\VMC----
+1352	TOK	to		to\P
+1353	TOK	adapt		adapt\VMI----
+##	TAG	<name>
+1354	TOK	Urry		Urry\N46
+##	TAG	</name>
+1355	PGR	's		genmark\GENMARK
+1356	TOK	methods		method\N5P
+1357	TOK	to		to\P
+1358	TOK	create		create\VMI----
+1359	TOK	biochemical		biochemical\JA
+1360	TOK	switches		switch\N5P
+1361	TOK	that		that\RW63N6
+1362	TOK	would		will\VOFDA66
+1363	TOK	enable		enable\VMI----
+1364	TOK	us		us\RPP1NA
+1365	TOK	to		to\P
+1366	TOK	open		open\VMI----
+1367	TOK	and		and\CC
+1368	TOK	close		close\VMI----
+1369	TOK	the		the\AT---6
+1370	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+1371	TOK	hemolysin		hemolysin\N5S
+1372	TOK	pore		pore\N5S
+1373	TOK	repeatedly		repeatedly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1374	TOK	Chemical	BOS	chemical\JA
+##	TAG	<name>
+1375	TOK	Triggers	EOS	Triggers\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1377	TOK	We	BOS	we\RPP1NN
+1378	TOK	have		have\V6F6R66
+1379	TOK	also		also\DGA7
+1380	TOK	introduced		introduce\VMC----
+1381	TOK	a		a\AI---S
+1382	TOK	second		second\MOS
+1383	TOK	type		type\N5S
+1384	TOK	of		of\P
+1385	TOK	trigger		trigger\VMI----
+1386	TOK	into		into\P
+1387	TOK	the		the\AT---6
+1388	TOK	structure		structure\N5S
+1389	TOK	of		of\P
+1390	TOK	alpha		alpha\N5S
+---	DLD	-		=\DELIM
+1391	TOK	hemolysin		hemolysin\N5S
+1392	TOK	that		that\RW63N6
+1393	TOK	is		be\V6FDRS3
+1394	TOK	activated		activate\VMC----
+1395	TOK	by		by\P
+1396	TOK	certain		certain\JA
+1397	TOK	small		small\JA
+---	DLD	,		=\DELIM
+1398	TOK	highly		highly\DGA7
+1399	TOK	reactive		reactive\JA
+1400	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1401	TOK	We	BOS	we\RPP1NN
+1402	TOK	believe		believe\VMF6R66
+1403	TOK	this		this\AD---S
+1404	TOK	technology		technology\N5S
+1405	TOK	can		can\VOFDR66
+1406	TOK	be		be\VMI----
+1407	TOK	adapted		adapt\VMC----
+1408	TOK	to		to\P
+1409	TOK	produce		produce\VMI----
+1410	TOK	sensitive		sensitive\JA
+1411	TOK	artificial		artificial\JA
+1412	TOK	membranes		membrane\N5P
+1413	TOK	for		for\P
+1414	TOK	use		use\N5S
+1415	TOK	in		in\P
+1416	TOK	biosensors		biosensor\N5P
+1417	TOK	that		that\RW63N6
+1418	TOK	detect		detect\VMF6R66
+1419	TOK	toxic		toxic\JA
+1420	TOK	molecules		molecule\N5P
+---	DLD	,		=\DELIM
+1421	TOK	including		including\P
+1422	TOK	pesticides		pesticide\N5P
+1423	TOK	and		and\CC
+1424	TOK	nerve		nerve\N5S
+1425	TOK	gases		gas\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1426	TOK	Investigators	BOS	investigator\N5P
+1427	TOK	in		in\P
+1428	TOK	my		my\APS1N6
+1429	TOK	laboratory		laboratory\N5S
+1430	TOK	have		have\V6F6R66
+1431	TOK	designed		design\VMC----
+1432	TOK	a		a\AI---S
+1433	TOK	mutant		mutant\N5S
+1434	TOK	version		version\N5S
+1435	TOK	of		of\P
+1436	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+1437	TOK	hemolysin		hemolysin\N5S
+1438	TOK	that		that\RW63N6
+1439	TOK	is		be\V6FDRS3
+1440	TOK	embedded		embed\VMC----
+1441	TOK	in		in\P
+1442	TOK	the		the\AT---6
+1443	TOK	surface		surface\N5S
+1444	TOK	of		of\P
+1445	TOK	a		a\AI---S
+1446	TOK	liposome		liposome\N5S
+---	DLE	(		=\DELIM
+1447	TOK	a		a\AI---S
+1448	TOK	microscopic		microscopic\JA
+1449	TOK	sac		sac\N5S
+1450	TOK	made		make\VMC----
+1451	TOK	of		of\P
+1452	TOK	a		a\AI---S
+1453	TOK	lipid		lipid\N5S
+1454	TOK	bilayer		bilayer\N5S
+1455	TOK	membrane		membrane\N5S
+---	DLD	)		=\DELIM
+1456	TOK	and		and\CC
+1457	TOK	assembles		assemble\VMFDRS3
+1458	TOK	into		into\P
+1459	TOK	an		an\AI---S
+1460	TOK	open		open\JA
+1461	TOK	pore		pore\N5S
+1462	TOK	when		when\CS
+1463	TOK	a		a\AI---S
+1464	TOK	highly		highly\DGA7
+1465	TOK	reactive		reactive\JA
+1466	TOK	organic		organic\JA
+1467	TOK	compound		compound\N5S
+1468	TOK	attaches		attach\VMFDRS3
+1469	TOK	permanently		permanently\DGA7
+1470	TOK	to		to\P
+1471	TOK	a		a\AI---S
+1472	TOK	genetically		genetically\DGA7
+1473	TOK	engineered		engineer\VMC----
+1474	TOK	region		region\N5S
+1475	TOK	of		of\P
+1476	TOK	the		the\AT---6
+1477	TOK	structure		structure\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1478	TOK	The	BOS	the\AT---6
+1479	TOK	opening		opening\N5S
+1480	TOK	of		of\P
+1481	TOK	the		the\AT---6
+1482	TOK	channel		channel\N5S
+1483	TOK	can		can\VOFDR66
+1484	TOK	be		be\VMI----
+1485	TOK	detected		detect\VMC----
+1486	TOK	by		by\P
+1487	TOK	the		the\AT---6
+1488	TOK	release		release\N5S
+1489	TOK	through		through\P
+1490	TOK	the		the\AT---6
+1491	TOK	pores		pore\N5P
+1492	TOK	of		of\P
+1493	TOK	fluorescent		fluorescent\JA
+1494	TOK	dye		dye\N5S
+1495	TOK	put		put\VMC----
+1496	TOK	inside		inside\P
+1497	TOK	the		the\AT---6
+1498	TOK	liposome		liposome\N5S
+1499	TOK	when		when\CS
+1500	TOK	it		it\RPS3N6
+1501	TOK	is		be\V6FDRS3
+1502	TOK	assembled		assemble\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1503	TOK	We	BOS	we\RPP1NN
+1504	TOK	have		have\V6F6R66
+1505	TOK	also		also\DGA7
+1506	TOK	developed		develop\VMC----
+1507	TOK	a		a\AI---S
+1508	TOK	chemical		chemical\JA
+1509	TOK	switch		switch\N5S
+1510	TOK	that		that\RW63N6
+1511	TOK	can		can\VOFDR66
+1512	TOK	be		be\VMI----
+1513	TOK	turned		turn\VMC----
+1514	TOK	on		on\DGA7
+1515	TOK	and		and\CC
+1516	TOK	off		off\DGA7
+1517	TOK	repeatedly		repeatedly\DGA7
+1518	TOK	by		by\P
+1519	TOK	the		the\AT---6
+1520	TOK	binding		binding\N5S
+1521	TOK	of		of\P
+1522	TOK	metal		metal\N5S
+1523	TOK	ions		ion\N5P
+1524	TOK	to		to\P
+1525	TOK	the		the\AT---6
+1526	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1527	TOK	Such	BOS	such\JA
+1528	TOK	a		a\AI---S
+1529	TOK	switch		switch\N5S
+1530	TOK	would		will\VOFDA66
+1531	TOK	be		be\VMI----
+1532	TOK	useful		useful\JA
+1533	TOK	for		for\P
+1534	TOK	taking		take\VMG----
+1535	TOK	repeated		repeat\VMC----
+1536	TOK	measurements		measurement\N5P
+1537	TOK	with		with\P
+1538	TOK	biosensors		biosensor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1539	TOK	Replacing	BOS	replace\VMG----
+##	TAG	<num>
+1540	TOK	five		five\X
+##	TAG	</num>
+1541	TOK	assorted		assorted\JA
+1542	TOK	amino		amino\N5S
+1543	TOK	acids		acid\N5P
+1544	TOK	on		on\P
+1545	TOK	the		the\AT---6
+1546	TOK	central		central\JA
+1547	TOK	strand		strand\N5S
+1548	TOK	of		of\P
+1549	TOK	the		the\AT---6
+1550	TOK	protein		protein\N5S
+1551	TOK	with		with\P
+##	TAG	<num>
+1552	TOK	five		five\X
+##	TAG	</num>
+1553	TOK	copies		copy\N5P
+1554	TOK	of		of\P
+1555	TOK	the		the\AT---6
+1556	TOK	amino		amino\N5S
+1557	TOK	acid		acid\N5S
+1558	TOK	histidine		histidine\N5S
+1559	TOK	creates		create\VMFDRS3
+1560	TOK	a		a\AI---S
+1561	TOK	site		site\N5S
+1562	TOK	where		where\CS
+1563	TOK	zinc		zinc\N5S
+1564	TOK	and		and\CC
+1565	TOK	other		other\JA
+1566	TOK	metal		metal\N5S
+1567	TOK	ions		ion\N5P
+1568	TOK	can		can\VOFDR66
+1569	TOK	bind		bind\VMI----
+1570	TOK	to		to\P
+1571	TOK	the		the\AT---6
+1572	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+1573	TOK	thus		thus\DGA7
+1574	TOK	blocking		block\VMG----
+1575	TOK	pore		pore\N5S
+1576	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1577	TOK	Assembly	BOS	assembly\N5S
+1578	TOK	of		of\P
+1579	TOK	the		the\AT---6
+1580	TOK	pore		pore\N5S
+1581	TOK	continues		continue\VMFDRS3
+1582	TOK	when		when\CS
+1583	TOK	the		the\AT---6
+1584	TOK	metal		metal\N5S
+1585	TOK	ion		ion\N5S
+1586	TOK	is		be\V6FDRS3
+1587	TOK	removed		remove\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1588	TOK	Once	BOS	once\DGA7
+1589	TOK	the		the\AT---6
+1590	TOK	hole		hole\N5S
+1591	TOK	opens		open\VMFDRS3
+---	DLD	,		=\DELIM
+1592	TOK	the		the\AT---6
+1593	TOK	ion		ion\N5S
+1594	TOK	can		can\VOFDR66
+1595	TOK	seal		seal\VMI----
+1596	TOK	the		the\AT---6
+1597	TOK	pore		pore\N5S
+1598	TOK	again		again\DGA7
+1599	TOK	by		by\P
+1600	TOK	binding		binding\N5S
+1601	TOK	to		to\P
+1602	TOK	the		the\AT---6
+1603	TOK	central		central\JA
+1604	TOK	channel		channel\N5S
+1605	TOK	and		and\CC
+1606	TOK	obstructing		obstruct\VMG----
+1607	TOK	the		the\AT---6
+1608	TOK	passage		passage\N5S
+1609	TOK	of		of\P
+1610	TOK	other		other\JA
+1611	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1612	TOK	The	BOS	the\AT---6
+1613	TOK	sealing		seal\VMG----
+1614	TOK	and		and\CC
+1615	TOK	resealing		resealing\N5S
+1616	TOK	process		process\N5S
+1617	TOK	can		can\VOFDR66
+1618	TOK	be		be\VMI----
+1619	TOK	repeated		repeat\VMC----
+1620	TOK	numerous		numerous\JA
+1621	TOK	times		time\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1622	TOK	This	BOS	this\AD---S
+1623	TOK	so		so\CC
+---	DLI	-		=\DELIM
+1624	TOK	called		call\VMC----
+##	TAG	<name>
+1625	TOK	H5		H5\N46
+##	TAG	</name>
+1626	TOK	structure		structure\VMF6R66
+---	DLE	(		=\DELIM
+1627	TOK	shorthand		shorthand\N5S
+1628	TOK	for		for\P
+##	TAG	<num>
+1629	TOK	five		five\X
+##	TAG	</num>
+1630	TOK	histidines		histidine\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1631	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+1632	TOK	other		other\RIS3N-
+---	DLD	,		=\DELIM
+1633	TOK	related		relate\VMC----
+1634	TOK	hemolysins		hemolysin\N5P
+1635	TOK	constructed		construct\VMC----
+1636	TOK	by		by\P
+##	TAG	<name>
+1637	TOK	Walker		Walker\N46
+##	TAG	</name>
+1638	TOK	and		and\CC
+##	TAG	<name>
+1639	TOK	Stephen Cheley		Stephen_Cheley\N46
+##	TAG	</name>
+1640	TOK	in		in\P
+1641	TOK	my		my\APS1N6
+##	TAG	<name>
+1642	TOK	Worcester		Worcester\N46
+##	TAG	</name>
+1643	TOK	group		group\VMF6R66
+---	DLD	,		=\DELIM
+1644	TOK	could		can\VOFDA66
+1645	TOK	be		be\VMI----
+1646	TOK	effective		effective\JA
+1647	TOK	as		as\P
+1648	TOK	highly		highly\DGA7
+1649	TOK	responsive		responsive\JA
+1650	TOK	biosensors		biosensor\N5P
+1651	TOK	for		for\P
+1652	TOK	monitoring		monitor\VMG----
+1653	TOK	metal		metal\N5S
+1654	TOK	pollutants		pollutant\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1655	TOK	Indeed	BOS	indeed\DGA7
+---	DLD	,		=\DELIM
+1656	TOK	we		we\RPP1NN
+1657	TOK	have		have\V6F6R66
+1658	TOK	been		be\VMC----
+1659	TOK	developing		developing\JA
+1660	TOK	such		such\JA
+1661	TOK	devices		device\N5P
+1662	TOK	in		in\P
+1663	TOK	collaboration		collaboration\N5S
+1664	TOK	with		with\P
+##	TAG	<name>
+1665	TOK	John J. Kasianowicz		John_J._Kasianowicz\N46
+##	TAG	</name>
+1666	TOK	of		of\P
+1667	TOK	the		the\AT---6
+##	TAG	<name>
+1668	TOK	National Institute of Standards		National_Institute_of_Standards\N46
+##	TAG	</name>
+1669	TOK	and		and\CC
+##	TAG	<name>
+1670	TOK	Technology		Technology\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1671	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1672	TOK	U.S		U.S\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1673	TOK	Navy	BOS	navy\N5S
+1674	TOK	is		be\V6FDRS3
+1675	TOK	also		also\DGA7
+1676	TOK	very		very\JA
+1677	TOK	interested		interest\VMC----
+1678	TOK	in		in\P
+1679	TOK	the		the\AT---6
+1680	TOK	rapid		rapid\JA
+1681	TOK	and		and\CC
+1682	TOK	continuous		continuous\JA
+1683	TOK	measurement		measurement\N5S
+1684	TOK	of		of\P
+1685	TOK	metal		metal\N5S
+1686	TOK	ions		ion\N5P
+1687	TOK	in		in\P
+1688	TOK	seawater		seawater\N5S
+---	DLE	-		=\DELIM
+1689	TOK	it		it\RPS3N6
+1690	TOK	would		will\VOFDA66
+1691	TOK	like		like\VMI----
+1692	TOK	to		to\P
+1693	TOK	devise		devise\VMI----
+1694	TOK	tracking		track\VMG----
+1695	TOK	systems		system\N5P
+1696	TOK	that		that\RW63N6
+1697	TOK	can		can\VOFDR66
+1698	TOK	detect		detect\VMI----
+1699	TOK	trace		trace\N5S
+1700	TOK	amounts		amount\N5P
+1701	TOK	of		of\P
+1702	TOK	metals		metal\N5P
+1703	TOK	leached		leach\VMC----
+1704	TOK	from		from\P
+1705	TOK	enemy		enemy\N5S
+1706	TOK	ships		ship\VMFDRS3
+---	DLD	-		=\DELIM
+1707	TOK	and		and\CC
+1708	TOK	so		so\DGA7
+1709	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+1710	TOK	Office of Naval Research		Office_of_Naval_Research\N46
+##	TAG	</name>
+1711	TOK	has		have\V6FDRS3
+1712	TOK	sponsored		sponsor\VMC----
+1713	TOK	this		this\AD---S
+1714	TOK	aspect		aspect\N5S
+1715	TOK	of		of\P
+1716	TOK	our		our\APP1N6
+1717	TOK	work		work\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1718	TOK	Recent	BOS	recent\JA
+1719	TOK	advances		advance\N5P
+1720	TOK	in		in\P
+1721	TOK	protein		protein\N5S
+---	DLI	-		=\DELIM
+1722	TOK	engineering		engineering\N5S
+1723	TOK	techniques		technique\N5P
+1724	TOK	and		and\CC
+1725	TOK	the		the\AT---6
+1726	TOK	new		new\JA
+1727	TOK	information		information\N5S
+1728	TOK	on		on\P
+1729	TOK	the		the\AT---6
+1730	TOK	structure		structure\N5S
+1731	TOK	of		of\P
+1732	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+1733	TOK	hemolysin		hemolysin\N5S
+1734	TOK	have		have\V6F6R66
+1735	TOK	enabled		enable\VMC----
+##	TAG	<name>
+1736	TOK	Orit Braha		Orit_Braha\N46
+##	TAG	</name>
+1737	TOK	and		and\CC
+1738	TOK	her		her\APS3F6
+1739	TOK	colleagues		colleague\N5P
+1740	TOK	in		in\P
+1741	TOK	my		my\APS1N6
+1742	TOK	lab		lab\N5S
+1743	TOK	to		to\P
+1744	TOK	improve		improve\VMI----
+1745	TOK	on		on\P
+1746	TOK	the		the\AT---6
+##	TAG	<name>
+1747	TOK	H5		H5\N46
+##	TAG	</name>
+1748	TOK	molecule		molecule\N5S
+1749	TOK	by		by\P
+1750	TOK	making		make\VMG----
+1751	TOK	pores		pore\N5P
+1752	TOK	in		in\P
+1753	TOK	which		which\RW63N-
+1754	TOK	not		not\DGA7
+1755	TOK	all		all\AG---6
+1756	TOK	of		of\P
+1757	TOK	the		the\AT---6
+1758	TOK	subunits		subunit\N5P
+1759	TOK	are		be\V6FDR66
+1760	TOK	identical		identical\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1761	TOK	In	BOS	in\P
+1762	TOK	one		one\MCS
+1763	TOK	example		example\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1764	TOK	six		six\X
+##	TAG	</num>
+1765	TOK	of		of\P
+1766	TOK	the		the\AT---6
+1767	TOK	subunits		subunit\N5P
+1768	TOK	are		be\V6FDR66
+1769	TOK	unaltered		unaltered\JA
+---	DLD	,		=\DELIM
+1770	TOK	but		but\CC
+1771	TOK	one		one\RIS3N-
+1772	TOK	contains		contain\VMFDRS3
+1773	TOK	a		a\AI---S
+1774	TOK	site		site\N5S
+1775	TOK	where		where\CS
+1776	TOK	a		a\AI---S
+1777	TOK	metal		metal\N5S
+1778	TOK	ion		ion\N5S
+1779	TOK	can		can\VOFDR66
+1780	TOK	bind		bind\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1781	TOK	When	BOS	when\CS
+1782	TOK	the		the\AT---6
+1783	TOK	metal		metal\N5S
+1784	TOK	ion		ion\N5S
+1785	TOK	binds		bind\VMFDRS3
+---	DLD	,		=\DELIM
+1786	TOK	an		an\AI---S
+1787	TOK	electric		electric\JA
+1788	TOK	current		current\JA
+---	DLE	(		=\DELIM
+1789	TOK	sent		send\VMC----
+1790	TOK	through		through\P
+1791	TOK	the		the\AT---6
+1792	TOK	pore		pore\N5S
+1793	TOK	by		by\P
+1794	TOK	an		an\AI---S
+1795	TOK	applied		apply\VMC----
+1796	TOK	potential		potential\JA
+1797	TOK	field		field\N5S
+---	DLD	)		=\DELIM
+1798	TOK	changes		change\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1799	TOK	The	BOS	the\AT---6
+1800	TOK	fluctuation		fluctuation\N5S
+1801	TOK	in		in\P
+1802	TOK	this		this\AD---S
+1803	TOK	current		current\N5S
+1804	TOK	gives		give\VMFDRS3
+1805	TOK	both		both\RIP3N-
+1806	TOK	the		the\AT---6
+1807	TOK	concentration		concentration\N5S
+1808	TOK	and		and\CC
+1809	TOK	the		the\AT---6
+1810	TOK	identity		identity\N5S
+1811	TOK	of		of\P
+1812	TOK	the		the\AT---6
+1813	TOK	ion		ion\N5S
+1814	TOK	present		present\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1815	TOK	Notably	BOS	notably\DGA7
+---	DLD	,		=\DELIM
+1816	TOK	the		the\AT---6
+1817	TOK	oscillating		oscillate\VMG----
+1818	TOK	signal		signal\N5S
+1819	TOK	from		from\P
+1820	TOK	one		one\MCS
+1821	TOK	pore		pore\N5S
+1822	TOK	can		can\VOFDR66
+1823	TOK	be		be\VMI----
+1824	TOK	used		use\VMC----
+1825	TOK	to		to\P
+1826	TOK	measure		measure\VMI----
+1827	TOK	several		several\JA
+1828	TOK	metals		metal\N5P
+##	TAG	<loc pos="DGA7">
+1829	TOK	at once		at_once\DGA7
+##	TAG	</loc>
+---	DLD	;		=\DELIM
+1830	TOK	an		an\AI---S
+1831	TOK	array		array\N5S
+1832	TOK	of		of\P
+1833	TOK	sensors		sensor\N5P
+1834	TOK	could		can\VOFDA66
+1835	TOK	handle		handle\VMI----
+1836	TOK	a		a\AI---S
+1837	TOK	complex		complex\JA
+1838	TOK	mixture		mixture\N5S
+1839	TOK	of		of\P
+1840	TOK	substances		substance\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1841	TOK	Another	BOS	another\JA
+1842	TOK	advantage		advantage\N5S
+1843	TOK	of		of\P
+1844	TOK	these		this\AD---P
+1845	TOK	sensors		sensor\N5P
+1846	TOK	is		be\V6FDRS3
+1847	TOK	their		their\APP3N6
+1848	TOK	size		size\N5S
+---	DLD	:		=\DELIM
+1849	TOK	because		because\CS
+1850	TOK	binding		binding\N5S
+1851	TOK	at		at\P
+1852	TOK	just		just\DGA7
+1853	TOK	one		one\MCS
+1854	TOK	pore		pore\N5S
+1855	TOK	is		be\V6FDRS3
+1856	TOK	sufficient		sufficient\JA
+1857	TOK	to		to\P
+1858	TOK	obtain		obtain\VMI----
+1859	TOK	a		a\AI---S
+1860	TOK	current		current\JA
+1861	TOK	reading		read\VMG----
+---	DLD	,		=\DELIM
+1862	TOK	these		this\AD---P
+1863	TOK	sensors		sensor\N5P
+1864	TOK	can		can\VOFDR66
+1865	TOK	be		be\VMI----
+1866	TOK	extremely		extremely\DGA7
+1867	TOK	small		small\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1868	TOK	Thousands	BOS	thousand\N5P
+1869	TOK	if		if\CS
+1870	TOK	not		not\DGA7
+1871	TOK	millions		million\N5P
+1872	TOK	of		of\P
+1873	TOK	different		different\JA
+1874	TOK	modifications		modification\N5P
+1875	TOK	can		can\VOFDR66
+1876	TOK	be		be\VMI----
+1877	TOK	made		make\VMC----
+1878	TOK	to		to\P
+1879	TOK	pore		pore\VMI----
+---	DLI	-		=\DELIM
+1880	TOK	forming		form\VMG----
+1881	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+1882	TOK	resulting		result\VMG----
+1883	TOK	in		in\P
+1884	TOK	an		an\AI---S
+1885	TOK	extraordinary		extraordinary\JA
+1886	TOK	array		array\N5S
+1887	TOK	of		of\P
+1888	TOK	potential		potential\JA
+1889	TOK	biosensors		biosensor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1890	TOK	We	BOS	we\RPP1NN
+1891	TOK	are		be\V6FDR66
+1892	TOK	currently		currently\DGA7
+1893	TOK	developing		developing\JA
+1894	TOK	sensors		sensor\N5P
+1895	TOK	for		for\P
+1896	TOK	nonmetallic		nonmetallic\JA
+1897	TOK	substances		substance\N5P
+1898	TOK	as		as\P
+1899	TOK	well		well\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1900	TOK	Kasianowicz	BOS	Kasianowicz\N46
+##	TAG	</name>
+1901	TOK	and		and\CC
+1902	TOK	his		his\APS3M6
+1903	TOK	colleagues		colleague\N5P
+1904	TOK	have		have\V6F6R66
+1905	TOK	shown		show\VMC----
+1906	TOK	recently		recently\DGA7
+1907	TOK	that		that\CS
+1908	TOK	single		single\JA
+1909	TOK	strands		strand\N5P
+1910	TOK	of		of\P
+1911	TOK	large		large\JA
+1912	TOK	molecules		molecule\N5P
+1913	TOK	such		such\RIS3N-
+1914	TOK	as		as\P
+##	TAG	<name>
+1915	TOK	DNA		DNA\N46
+##	TAG	</name>
+1916	TOK	can		can\VOFDR66
+1917	TOK	also		also\DGA7
+1918	TOK	be		be\VMI----
+1919	TOK	detected		detect\VMC----
+1920	TOK	as		as\CS
+1921	TOK	they		they\RPP3NN
+1922	TOK	move		move\VMF6R66
+1923	TOK	through		through\P
+1924	TOK	the		the\AT---6
+1925	TOK	pore		pore\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1926	TOK	The	BOS	the\AT---6
+1927	TOK	findings		finding\N5P
+1928	TOK	with		with\P
+##	TAG	<name>
+1929	TOK	H5		H5\N46
+##	TAG	</name>
+1930	TOK	offer		offer\VMF6R66
+1931	TOK	an		an\AI---S
+1932	TOK	illustration		illustration\N5S
+1933	TOK	of		of\P
+1934	TOK	the		the\AT---6
+1935	TOK	interplay		interplay\N5S
+1936	TOK	between		between\P
+1937	TOK	biotechnology		biotechnology\N5S
+1938	TOK	and		and\CC
+1939	TOK	basic		basic\JA
+1940	TOK	science		science\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1941	TOK	The	BOS	the\AT---6
+1942	TOK	structure		structure\N5S
+1943	TOK	provided		provide\VMC----
+1944	TOK	not		not\DGA7
+1945	TOK	only		only\DGA7
+1946	TOK	a		a\AI---S
+1947	TOK	prototypical		prototypical\JA
+1948	TOK	component		component\N5S
+1949	TOK	for		for\P
+1950	TOK	a		a\AI---S
+1951	TOK	sensor		sensor\N5S
+1952	TOK	but		but\CC
+1953	TOK	also		also\DGA7
+1954	TOK	revealed		reveal\VMF6A66
+1955	TOK	information		information\N5S
+1956	TOK	about		about\P
+1957	TOK	how		how\DGAW
+1958	TOK	the		the\AT---6
+1959	TOK	pore		pore\N5S
+1960	TOK	functions		function\VMFDRS3
+---	DLD	:		=\DELIM
+1961	TOK	the		the\AT---6
+1962	TOK	work		work\N5S
+1963	TOK	with		with\P
+##	TAG	<name>
+1964	TOK	H5		H5\N46
+##	TAG	</name>
+1965	TOK	helped		help\VMF6A66
+1966	TOK	to		to\P
+1967	TOK	demonstrate		demonstrate\VMI----
+1968	TOK	that		that\CS
+1969	TOK	the		the\AT---6
+1970	TOK	central		central\JA
+1971	TOK	strand		strand\N5S
+1972	TOK	of		of\P
+1973	TOK	the		the\AT---6
+1974	TOK	natural		natural\JA
+1975	TOK	protein		protein\N5S
+1976	TOK	lines		line\N5P
+1977	TOK	the		the\AT---6
+1978	TOK	interior		interior\N5S
+1979	TOK	of		of\P
+1980	TOK	the		the\AT---6
+1981	TOK	pore		pore\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1982	TOK	Light	BOS	light\N5S
+##	TAG	<name>
+1983	TOK	Switches	EOS	Switches\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1985	TOK	In	BOS	in\P
+1986	TOK	thinking		thinking\N5S
+1987	TOK	about		about\P
+1988	TOK	designing		design\VMG----
+1989	TOK	an		an\AI---S
+1990	TOK	alphahemolysin		alphahemolysin\N5S
+1991	TOK	that		that\RW63N6
+1992	TOK	would		will\VOFDA66
+1993	TOK	be		be\VMI----
+1994	TOK	activated		activate\VMC----
+1995	TOK	by		by\P
+1996	TOK	a		a\AI---S
+1997	TOK	third		third\MOS
+1998	TOK	type		type\N5S
+1999	TOK	of		of\P
+2000	TOK	switch		switch\VMI----
+---	DLE	-		=\DELIM
+2001	TOK	a		a\AI---S
+2002	TOK	physical		physical\JA
+2003	TOK	stimulus		stimulus\N5S
+---	DLD	-		=\DELIM
+2004	TOK	I		I\N5P
+2005	TOK	noted		note\VMF6A66
+2006	TOK	that		that\CS
+2007	TOK	there		there\DGA7
+2008	TOK	are		be\V6FDR66
+2009	TOK	naturally		naturally\DGA7
+2010	TOK	occurring		occur\VMG----
+2011	TOK	membrane		membrane\N5S
+2012	TOK	channels		channel\N5P
+2013	TOK	that		that\RW63N6
+2014	TOK	can		can\VOFDR66
+2015	TOK	be		be\VMI----
+2016	TOK	physically		physically\DGA7
+2017	TOK	activated		activate\VMC----
+2018	TOK	by		by\P
+2019	TOK	either		either\AG---6
+2020	TOK	mechanical		mechanical\JA
+2021	TOK	impulses		impulse\N5P
+2022	TOK	or		or\CC
+2023	TOK	voltage		voltage\N5S
+2024	TOK	applied		apply\VMC----
+2025	TOK	across		across\P
+2026	TOK	the		the\AT---6
+2027	TOK	cell		cell\N5S
+2028	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2029	TOK	In	BOS	in\P
+2030	TOK	most		most\AG---6
+2031	TOK	circumstances		circumstance\N5P
+---	DLD	,		=\DELIM
+2032	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+2033	TOK	activation		activation\N5S
+2034	TOK	by		by\P
+2035	TOK	light		light\N5S
+2036	TOK	is		be\V6FDRS3
+2037	TOK	a		a\AI---S
+2038	TOK	more		more\DDC7
+2039	TOK	attractive		attractive\JA
+2040	TOK	option		option\N5S
+---	DLD	:		=\DELIM
+2041	TOK	light		light\N5S
+2042	TOK	does		do\V6FDRS3
+2043	TOK	not		not\DGA7
+2044	TOK	interfere		interfere\VMI----
+2045	TOK	with		with\P
+2046	TOK	many		many\AI---P
+2047	TOK	natural		natural\JA
+2048	TOK	processes		process\N5P
+---	DLD	,		=\DELIM
+2049	TOK	and		and\CC
+2050	TOK	it		it\RPS3N6
+2051	TOK	can		can\VOFDR66
+2052	TOK	be		be\VMI----
+2053	TOK	applied		apply\VMC----
+2054	TOK	with		with\P
+2055	TOK	exquisite		exquisite\JA
+2056	TOK	spatial		spatial\JA
+2057	TOK	and		and\CC
+2058	TOK	temporal		temporal\JA
+2059	TOK	control		control\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2060	TOK	Besides	BOS	besides\P
+---	DLD	,		=\DELIM
+2061	TOK	I		I\N5P
+2062	TOK	had		have\V6F6A66
+2063	TOK	spent		spend\VMC----
+2064	TOK	from		from\P
+##	TAG	<num>
+2065	TOK	1974		1974\X
+##	TAG	</num>
+2066	TOK	to		to\P
+##	TAG	<num>
+2067	TOK	1979		1979\X
+##	TAG	</num>
+2068	TOK	as		as\P
+2069	TOK	a		a\AI---S
+2070	TOK	graduate		graduate\JA
+2071	TOK	student		student\N5S
+2072	TOK	in		in\P
+2073	TOK	the		the\AT---6
+2074	TOK	lab		lab\N5S
+2075	TOK	of		of\P
+##	TAG	<name>
+2076	TOK	Jeremy R. Knowles		Jeremy_R._Knowles\N46
+##	TAG	</name>
+2077	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+2078	TOK	Harvard University		Harvard_University\N46
+##	TAG	</name>
+2079	TOK	developing		developing\JA
+2080	TOK	light		light\N5S
+---	DLI	-		=\DELIM
+2081	TOK	sensitive		sensitive\JA
+2082	TOK	chemicals		chemical\N5P
+2083	TOK	for		for\P
+2084	TOK	investigating		investigate\VMG----
+2085	TOK	the		the\AT---6
+2086	TOK	structure		structure\N5S
+2087	TOK	of		of\P
+2088	TOK	membrane		membrane\N5S
+2089	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2090	TOK	Therefore	BOS	therefore\DGA7
+---	DLD	,		=\DELIM
+2091	TOK	I		I\N5P
+2092	TOK	was		be\V6F-A66
+2093	TOK	not		not\DGA7
+2094	TOK	surprised		surprise\VMC----
+2095	TOK	when		when\CS
+2096	TOK	after		after\P
+2097	TOK	an		an\AI---S
+2098	TOK	interval		interval\N5S
+2099	TOK	of		of\P
+2100	TOK	many		many\AI---P
+2101	TOK	years		year\N5P
+---	DLD	,		=\DELIM
+2102	TOK	photochemistry		photochemistry\N5S
+2103	TOK	and		and\CC
+2104	TOK	membrane		membrane\N5S
+2105	TOK	proteins		protein\N5P
+2106	TOK	were		be\V6F-A66
+2107	TOK	reunited		reunite\VMC----
+2108	TOK	in		in\P
+2109	TOK	my		my\APS1N6
+2110	TOK	research		research\N5S
+2111	TOK	group		group\VMF6R66
+---	DLD	,		=\DELIM
+2112	TOK	but		but\CC
+2113	TOK	with		with\P
+2114	TOK	quite		quite\DGA7
+2115	TOK	a		a\AI---S
+2116	TOK	different		different\JA
+2117	TOK	focus		focus\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2118	TOK	Our	BOS	our\APP1N6
+2119	TOK	approach		approach\N5S
+2120	TOK	relied		rely\VMC----
+2121	TOK	on		on\P
+2122	TOK	the		the\AT---6
+2123	TOK	light		light\N5S
+---	DLI	-		=\DELIM
+2124	TOK	sensitive		sensitive\JA
+2125	TOK	structure		structure\N5S
+2126	TOK	of		of\P
+2127	TOK	nitrobenzyl		nitrobenzyl\N5S
+2128	TOK	compounds		compound\VMFDRS3
+---	DLD	,		=\DELIM
+2129	TOK	which		which\RW63N-
+2130	TOK	were		be\V6F-A66
+2131	TOK	first		first\DGA7
+2132	TOK	used		use\VMC----
+2133	TOK	in		in\P
+2134	TOK	organic		organic\JA
+2135	TOK	synthesis		synthesis\N5S
+2136	TOK	in		in\P
+2137	TOK	the		the\AT---6
+##	TAG	<na type="code">
+2138	TOK	1960s		noanat\W
+##	TAG	</na>
+2139	TOK	by		by\P
+##	TAG	<name>
+2140	TOK	Jack A. Barltrop		Jack_A._Barltrop\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2141	TOK	then		then\DGA7
+2142	TOK	at		at\P
+2143	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2144	TOK	University of Oxford		University_of_Oxford\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2145	TOK	and		and\CC
+2146	TOK	later		later\DGC7
+2147	TOK	adapted		adapt\VMC----
+2148	TOK	for		for\P
+2149	TOK	small		small\JA
+2150	TOK	biological		biological\JA
+2151	TOK	molecules		molecule\N5P
+2152	TOK	by		by\P
+##	TAG	<name>
+2153	TOK	Jack H. Kaplan		Jack_H._Kaplan\N46
+##	TAG	</name>
+2154	TOK	and		and\CC
+2155	TOK	his		his\APS3M6
+2156	TOK	colleagues		colleague\N5P
+---	DLD	,		=\DELIM
+2157	TOK	then		then\DGA7
+2158	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+2159	TOK	Yale University		Yale_University\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2160	TOK	We	BOS	we\RPP1NN
+2161	TOK	developed		develop\VMF6A66
+2162	TOK	a		a\AI---S
+2163	TOK	nitrobenzyl		nitrobenzyl\N5S
+2164	TOK	derivative		derivative\N5S
+---	DLD	,		=\DELIM
+2165	TOK	called		call\VMC----
+2166	TOK	bromonitrophenylacetic		bromonitrophenylacetic\JA
+2167	TOK	acid		acid\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2168	TOK	BNPA		BNPA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2169	TOK	that		that\CS
+2170	TOK	after		after\P
+2171	TOK	binding		binding\N5S
+2172	TOK	to		to\P
+2173	TOK	the		the\AT---6
+2174	TOK	protein		protein\N5S
+2175	TOK	will		will\VOFDR66
+2176	TOK	switch		switch\VMI----
+2177	TOK	off		off\DGA7
+2178	TOK	the		the\AT---6
+2179	TOK	pore		pore\N5S
+2180	TOK	formation		formation\N5S
+2181	TOK	process		process\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2182	TOK	To	BOS	to\P
+2183	TOK	accomplish		accomplish\VMI----
+2184	TOK	this		this\AD---S
+---	DLD	,		=\DELIM
+2185	TOK	workers		worker\N5P
+2186	TOK	in		in\P
+2187	TOK	my		my\APS1N6
+2188	TOK	group		group\N5S
+2189	TOK	first		first\DGA7
+2190	TOK	introduced		introduce\VMF6A66
+2191	TOK	a		a\AI---S
+2192	TOK	single		single\JA
+2193	TOK	cysteine		cysteine\N5S
+2194	TOK	amino		amino\N5S
+2195	TOK	acid		acid\N5S
+2196	TOK	at		at\P
+2197	TOK	a		a\AI---S
+2198	TOK	key		key\N5S
+2199	TOK	site		site\N5S
+2200	TOK	in		in\P
+2201	TOK	the		the\AT---6
+2202	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2203	TOK	When	BOS	when\CS
+2204	TOK	the		the\AT---6
+2205	TOK	cysteine		cysteine\N5S
+2206	TOK	reacts		react\VMFDRS3
+2207	TOK	with		with\P
+2208	TOK	the		the\AT---6
+##	TAG	<name>
+2209	TOK	BNPA		BNPA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2210	TOK	the		the\AT---6
+2211	TOK	protein		protein\N5S
+2212	TOK	becomes		become\VMFDRS3
+2213	TOK	inactive		inactive\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2214	TOK	The	BOS	the\AT---6
+2215	TOK	protein		protein\N5S
+2216	PGR	's		genmark\GENMARK
+2217	TOK	activity		activity\N5S
+2218	TOK	could		can\VOFDA66
+2219	TOK	be		be\VMI----
+2220	TOK	regenerated		regenerate\VMC----
+2221	TOK	by		by\P
+2222	TOK	exposing		expose\VMG----
+2223	TOK	it		it\RPS3N6
+2224	TOK	to		to\P
+2225	TOK	ultraviolet		ultraviolet\JA
+2226	TOK	radiation		radiation\N5S
+---	DLE	-		=\DELIM
+2227	TOK	at		at\P
+2228	TOK	wavelengths		wavelength\N5P
+2229	TOK	that		that\RW63N6
+2230	TOK	do		do\V6FDR66
+2231	TOK	little		little\JA
+2232	TOK	damage		damage\N5S
+2233	TOK	to		to\P
+2234	TOK	most		most\AG---6
+2235	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2236	TOK	Eventually	BOS	eventually\DGA7
+---	DLD	,		=\DELIM
+2237	TOK	researchers		researcher\N5P
+2238	TOK	may		may\VOFDR66
+2239	TOK	be		be\VMI----
+2240	TOK	able		able\JA
+2241	TOK	to		to\P
+2242	TOK	make		make\VMI----
+2243	TOK	pore		pore\N5S
+---	DLI	-		=\DELIM
+2244	TOK	forming		form\VMG----
+2245	TOK	molecules		molecule\N5P
+2246	TOK	that		that\RW63N6
+2247	TOK	can		can\VOFDR66
+2248	TOK	be		be\VMI----
+2249	TOK	turned		turn\VMC----
+2250	TOK	on		on\P
+2251	TOK	with		with\P
+2252	TOK	light		light\N5S
+2253	TOK	of		of\P
+2254	TOK	one		one\MCS
+2255	TOK	wavelength		wavelength\N5S
+2256	TOK	and		and\CC
+2257	TOK	off		off\DGA7
+2258	TOK	with		with\P
+2259	TOK	light		light\N5S
+2260	TOK	of		of\P
+2261	TOK	another		another\JA
+2262	TOK	wavelength		wavelength\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2263	TOK	They	BOS	they\RPP3NN
+2264	TOK	might		may\VOFDR66
+2265	TOK	also		also\DGA7
+2266	TOK	build		build\VMI----
+2267	TOK	hybrid		hybrid\N5S
+2268	TOK	switches		switch\VMFDRS3
+2269	TOK	in		in\P
+2270	TOK	which		which\RW63N-
+2271	TOK	a		a\AI---S
+2272	TOK	protein		protein\N5S
+2273	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+2274	TOK	say		say\VMF6R66
+---	DLD	,		=\DELIM
+2275	TOK	turned		turn\VMC----
+2276	TOK	on		on\P
+2277	TOK	with		with\P
+2278	TOK	light		light\N5S
+2279	TOK	and		and\CC
+2280	TOK	off		off\DGA7
+2281	TOK	with		with\P
+2282	TOK	metal		metal\N5S
+2283	TOK	ions		ion\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2284	TOK	The	BOS	the\AT---6
+2285	TOK	present		present\JA
+2286	TOK	technology		technology\N5S
+---	DLD	,		=\DELIM
+2287	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+2288	TOK	has		have\V6FDRS3
+2289	TOK	immediate		immediate\JA
+2290	TOK	applications		application\N5P
+2291	TOK	in		in\P
+2292	TOK	the		the\AT---6
+2293	TOK	laboratory		laboratory\N5S
+---	DLD	:		=\DELIM
+2294	TOK	researchers		researcher\N5P
+2295	TOK	often		often\DGA7
+2296	TOK	need		need\V6F6R66
+2297	TOK	to		to\P
+2298	TOK	make		make\VMI----
+2299	TOK	selected		select\VMC----
+2300	TOK	cells		cell\N5P
+2301	TOK	in		in\P
+2302	TOK	a		a\AI---S
+2303	TOK	tissue		tissue\N5S
+2304	TOK	sample		sample\N5S
+2305	TOK	porous		porous\JA
+2306	TOK	without		without\P
+2307	TOK	altering		alter\VMG----
+2308	TOK	any		any\AG---6
+2309	TOK	of		of\P
+2310	TOK	the		the\AT---6
+2311	TOK	other		other\JA
+2312	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2313	TOK	In	BOS	in\P
+2314	TOK	this		this\AD---S
+2315	TOK	way		way\N5S
+---	DLD	,		=\DELIM
+2316	TOK	small		small\JA
+2317	TOK	molecules		molecule\N5P
+2318	TOK	that		that\RW63N6
+2319	TOK	probe		probe\VMF6R66
+2320	TOK	the		the\AT---6
+2321	TOK	activity		activity\N5S
+2322	TOK	of		of\P
+2323	TOK	the		the\AT---6
+2324	TOK	cell		cell\N5S
+2325	TOK	can		can\VOFDR66
+2326	TOK	be		be\VMI----
+2327	TOK	introduced		introduce\VMC----
+---	DLD	,		=\DELIM
+2328	TOK	while		while\CS
+2329	TOK	crucial		crucial\JA
+2330	TOK	proteins		protein\N5P
+2331	TOK	remain		remain\VMF6R66
+2332	TOK	inside		inside\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2333	TOK	In	BOS	in\P
+2334	TOK	my		my\APS1N6
+2335	TOK	laboratory		laboratory\N5S
+---	DLD	,		=\DELIM
+2336	TOK	we		we\RPP1NN
+2337	TOK	have		have\V6F6R66
+2338	TOK	been		be\VMC----
+2339	TOK	able		able\JA
+2340	TOK	to		to\P
+2341	TOK	make		make\VMI----
+2342	TOK	single		single\JA
+2343	TOK	neurons		neuron\N5P
+2344	TOK	in		in\P
+2345	TOK	a		a\AI---S
+2346	TOK	collection		collection\N5S
+2347	TOK	of		of\P
+2348	TOK	neurons		neuron\N5P
+2349	TOK	permeable		permeable\JA
+2350	TOK	by		by\P
+2351	TOK	shining		shining\JA
+2352	TOK	light		light\N5S
+2353	TOK	on		on\P
+2354	TOK	the		the\AT---6
+2355	TOK	chosen		choose\VMC----
+2356	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2357	TOK	Engineered	BOS	engineer\VMC----
+2358	TOK	hemolysins		hemolysin\N5P
+2359	TOK	exposed		expose\VMC----
+2360	TOK	to		to\P
+2361	TOK	the		the\AT---6
+2362	TOK	light		light\N5S
+2363	TOK	penetrated		penetrate\VMF6A66
+2364	TOK	the		the\AT---6
+2365	TOK	selected		select\VMC----
+2366	TOK	neuron		neuron\N5S
+---	DLD	;		=\DELIM
+2367	TOK	the		the\AT---6
+2368	TOK	rest		rest\N5S
+2369	TOK	of		of\P
+2370	TOK	the		the\AT---6
+2371	TOK	neurons		neuron\N5P
+2372	TOK	remained		remain\VMF6A66
+2373	TOK	intact		intact\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2374	TOK	By	BOS	by\P
+2375	TOK	using		use\VMG----
+2376	TOK	sophisticated		sophisticated\JA
+2377	TOK	optical		optical\JA
+2378	TOK	devices		device\N5P
+---	DLD	,		=\DELIM
+2379	TOK	it		it\RPS3N6
+2380	TOK	will		will\VOFDR66
+2381	TOK	be		be\VMI----
+2382	TOK	possible		possible\JA
+2383	TOK	to		to\P
+2384	TOK	make		make\VMI----
+2385	TOK	just		just\DGA7
+2386	TOK	one		one\MCS
+2387	TOK	region		region\N5S
+2388	TOK	of		of\P
+2389	TOK	a		a\AI---S
+2390	TOK	neuron		neuron\N5S
+2391	TOK	permeable		permeable\JA
+2392	TOK	by		by\P
+2393	TOK	shining		shining\JA
+2394	TOK	light		light\N5S
+2395	TOK	on		on\P
+2396	TOK	that		that\AD---S
+2397	TOK	area		area\N5S
+2398	TOK	of		of\P
+2399	TOK	the		the\AT---6
+2400	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2401	TOK	One	BOS	one\RIS3N-
+2402	TOK	of		of\P
+2403	TOK	the		the\AT---6
+2404	TOK	most		most\DDS7
+2405	TOK	exciting		exciting\JA
+2406	TOK	applications		application\N5P
+2407	TOK	for		for\P
+2408	TOK	pore		pore\VMI----
+---	DLI	-		=\DELIM
+2409	TOK	forming		form\VMG----
+2410	TOK	proteins		protein\N5P
+2411	TOK	lies		lie\VMFDRS3
+2412	TOK	in		in\P
+2413	TOK	the		the\AT---6
+2414	TOK	area		area\N5S
+2415	TOK	of		of\P
+2416	TOK	drug		drug\N5S
+2417	TOK	delivery		delivery\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2418	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2419	TOK	drugs		drug\N5P
+2420	TOK	could		can\VOFDA66
+2421	TOK	be		be\VMI----
+2422	TOK	transported		transport\VMC----
+2423	TOK	inside		inside\P
+2424	TOK	liposomes		liposome\N5P
+2425	TOK	and		and\CC
+---	DLD	,		=\DELIM
+2426	TOK	with		with\P
+2427	TOK	the		the\AT---6
+2428	TOK	help		help\N5S
+2429	TOK	of		of\P
+2430	TOK	any		any\AG---6
+2431	TOK	of		of\P
+2432	TOK	the		the\AT---6
+2433	TOK	triggering		trigger\VMG----
+2434	TOK	techniques		technique\N5P
+2435	TOK	mentioned		mention\VMC----
+2436	TOK	earlier		early\JC
+---	DLD	,		=\DELIM
+2437	TOK	released		release\VMC----
+2438	TOK	on		on\P
+2439	TOK	command		command\N5S
+2440	TOK	through		through\P
+2441	TOK	artificial		artificial\JA
+2442	TOK	pores		pore\N5P
+2443	TOK	implanted		implant\VMC----
+2444	TOK	in		in\P
+2445	TOK	the		the\AT---6
+2446	TOK	membrane		membrane\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2447	TOK	In	BOS	in\P
+2448	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+2449	TOK	biomedical		biomedical\JA
+2450	TOK	researchers		researcher\N5P
+2451	TOK	have		have\V6F6R66
+2452	TOK	considerable		considerable\JA
+2453	TOK	interest		interest\N5S
+2454	TOK	in		in\P
+2455	TOK	encapsulating		encapsulate\VMG----
+2456	TOK	enzymes		enzyme\N5P
+2457	TOK	or		or\CC
+2458	TOK	even		even\DGA7
+2459	TOK	entire		entire\JA
+2460	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+2461	TOK	thereby		thereby\DGA7
+2462	TOK	protecting		protect\VMG----
+2463	TOK	them		them\RPP3NA
+2464	TOK	from		from\P
+2465	TOK	attack		attack\N5S
+2466	TOK	by		by\P
+2467	TOK	a		a\AI---S
+2468	TOK	patient		patient\N5S
+2469	PGR	's		genmark\GENMARK
+2470	TOK	immune		immune\JA
+2471	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2472	TOK	Once	BOS	once\DGA7
+2473	TOK	the		the\AT---6
+2474	TOK	enzymes		enzyme\N5P
+2475	TOK	are		be\V6FDR66
+2476	TOK	shuttled		shuttle\VMC----
+2477	TOK	to		to\P
+2478	TOK	the		the\AT---6
+2479	TOK	desired		desire\VMC----
+2480	TOK	location		location\N5S
+---	DLD	,		=\DELIM
+2481	TOK	they		they\RPP3NN
+2482	TOK	might		may\VOFDR66
+2483	TOK	be		be\VMI----
+2484	TOK	used		use\VMC----
+2485	TOK	to		to\P
+2486	TOK	destroy		destroy\VMI----
+2487	TOK	toxic		toxic\JA
+2488	TOK	substances		substance\N5P
+2489	TOK	that		that\RW63N6
+2490	TOK	build		build\VMF6R66
+2491	TOK	up		up\P
+2492	TOK	in		in\P
+2493	TOK	people		people\N56
+2494	TOK	with		with\P
+2495	TOK	certain		certain\JA
+2496	TOK	genetic		genetic\JA
+2497	TOK	disorders		disorder\N5P
+---	DLD	,		=\DELIM
+2498	TOK	such		such\JA
+2499	TOK	as		as\P
+2500	TOK	phenylketonuria		phenylketonuria\N5S
+---	DLD	,		=\DELIM
+2501	TOK	in		in\P
+2502	TOK	which		which\RW63N-
+2503	TOK	the		the\AT---6
+2504	TOK	body		body\N5S
+2505	TOK	can		can\V6FDR66
+2506	PGR	not		not\DGA7
+2507	TOK	properly		properly\DGA7
+2508	TOK	metabolize		metabolize\VMF6R66
+2509	TOK	the		the\AT---6
+2510	TOK	amino		amino\N5S
+2511	TOK	acid		acid\N5S
+2512	TOK	phenylalanine		phenylalanine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2513	TOK	The	BOS	the\AT---6
+2514	TOK	condition		condition\N5S
+2515	TOK	can		can\VOFDR66
+2516	TOK	ultimately		ultimately\DGA7
+2517	TOK	lead		lead\VMI----
+2518	TOK	to		to\P
+2519	TOK	nerve		nerve\N5S
+2520	TOK	cell		cell\N5S
+2521	TOK	damage		damage\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2522	TOK	Encapsulated	BOS	encapsulate\VMC----
+2523	TOK	cells		cell\N5P
+2524	TOK	could		can\VOFDA66
+2525	TOK	be		be\VMI----
+2526	TOK	used		use\VMC----
+2527	TOK	to		to\P
+2528	TOK	deliver		deliver\VMI----
+2529	TOK	hormones		hormone\N5P
+2530	TOK	lacking		lack\VMG----
+2531	TOK	in		in\P
+2532	TOK	people		people\N56
+2533	TOK	with		with\P
+2534	TOK	diseases		disease\N5P
+2535	TOK	such		such\RIS3N-
+2536	TOK	as		as\P
+2537	TOK	insulin		insulin\N5S
+---	DLI	-		=\DELIM
+2538	TOK	dependent		dependent\JA
+2539	TOK	diabetes		diabetes\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2540	TOK	Drugs	BOS	drug\N5P
+---	DLD	,		=\DELIM
+2541	TOK	enzymes		enzyme\N5P
+2542	TOK	and		and\CC
+2543	TOK	cells		cell\N5P
+2544	TOK	within		within\P
+2545	TOK	membranes		membrane\N5P
+2546	TOK	bearing		bear\VMG----
+2547	TOK	artificial		artificial\JA
+2548	TOK	pores		pore\N5P
+2549	TOK	would		will\VOFDA66
+2550	TOK	provide		provide\VMI----
+2551	TOK	a		a\AI---S
+2552	TOK	level		level\N5S
+2553	TOK	of		of\P
+2554	TOK	control		control\N5S
+2555	TOK	over		over\P
+2556	TOK	where		where\DGAW
+---	DLD	,		=\DELIM
+2557	TOK	when		when\CS
+2558	TOK	and		and\CC
+2559	TOK	how		how\DGAW
+2560	TOK	much		much\DGA7
+2561	TOK	of		of\P
+2562	TOK	the		the\AT---6
+2563	TOK	medication		medication\N5S
+2564	TOK	is		be\V6FDRS3
+2565	TOK	delivered		deliver\VMC----
+2566	TOK	that		that\CS
+2567	TOK	improves		improve\VMFDRS3
+2568	TOK	markedly		markedly\DGA7
+2569	TOK	on		on\P
+2570	TOK	existing		existing\JA
+2571	TOK	technologies		technology\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2572	TOK	Other	BOS	other\JA
+2573	TOK	bacterial		bacterial\JA
+2574	TOK	pore		pore\N5S
+---	DLI	-		=\DELIM
+2575	TOK	forming		form\VMG----
+2576	TOK	proteins		protein\N5P
+2577	TOK	with		with\P
+2578	TOK	quite		quite\DGA7
+2579	TOK	different		different\JA
+2580	TOK	properties		property\N5P
+---	DLE	-		=\DELIM
+2581	TOK	including		including\P
+2582	TOK	the		the\AT---6
+2583	TOK	streptolysin		streptolysin\N5S
+---	DLI	-		=\DELIM
+2584	TOK	O		o\N5S
+2585	TOK	and		and\CC
+##	TAG	<name>
+2586	TOK	S-layer		S-layer\N46
+##	TAG	</name>
+2587	TOK	proteins		protein\N5P
+---	DLD	-		=\DELIM
+2588	TOK	are		be\V6FDR66
+2589	TOK	also		also\DGA7
+2590	TOK	being		be\VMG----
+2591	TOK	reengineered		reengineer\VMC----
+2592	TOK	in		in\P
+2593	TOK	our		our\APP1N6
+2594	TOK	laboratory		laboratory\N5S
+2595	TOK	and		and\CC
+2596	TOK	elsewhere		elsewhere\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2597	TOK	Uwe Sleytr	BOS	Uwe_Sleytr\N46
+##	TAG	</name>
+2598	TOK	and		and\CC
+2599	TOK	his		his\APS3M6
+2600	TOK	colleagues		colleague\N5P
+2601	TOK	at		at\P
+2602	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2603	TOK	University of Agricultural Sciences Vienna		University_of_Agricultural_Sciences_Vienna\N46
+##	TAG	</name>
+2604	TOK	have		have\V6F6R66
+2605	TOK	already		already\DGA7
+2606	TOK	adapted		adapt\VMC----
+2607	TOK	the		the\AT---6
+2608	TOK	naturally		naturally\DGA7
+2609	TOK	occurring		occur\VMG----
+2610	TOK	sheets		sheet\N5P
+2611	TOK	of		of\P
+2612	TOK	pores		pore\N5P
+2613	TOK	created		create\VMC----
+2614	TOK	by		by\P
+##	TAG	<name>
+2615	TOK	S-layer		S-layer\N46
+##	TAG	</name>
+2616	TOK	proteins		protein\N5P
+2617	TOK	for		for\P
+2618	TOK	use		use\N5S
+2619	TOK	in		in\P
+2620	TOK	filtration		filtration\N5S
+2621	TOK	devices		device\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2622	TOK	These	BOS	this\AD---P
+2623	TOK	sheets		sheet\N5P
+2624	TOK	have		have\V6F6R66
+2625	TOK	also		also\DGA7
+2626	TOK	served		serve\VMC----
+2627	TOK	as		as\P
+2628	TOK	templates		template\N5P
+2629	TOK	to		to\P
+2630	TOK	form		form\VMI----
+2631	TOK	nanoscale		nanoscale\JA
+2632	TOK	grids		grid\N5P
+2633	TOK	by		by\P
+2634	TOK	metal		metal\N5S
+2635	TOK	vapor		vapor\N5S
+2636	TOK	deposition		deposition\N5S
+2637	TOK	in		in\P
+2638	TOK	work		work\N5S
+2639	TOK	by		by\P
+##	TAG	<name>
+2640	TOK	Ken Douglas		Ken_Douglas\N46
+##	TAG	</name>
+2641	TOK	and		and\CC
+##	TAG	<name>
+2642	TOK	Noel A. Clark		Noel_A._Clark\N46
+##	TAG	</name>
+2643	TOK	of		of\P
+2644	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2645	TOK	University of Colorado		University_of_Colorado\N46
+##	TAG	</name>
+2646	TOK	in		in\P
+##	TAG	<name>
+2647	TOK	Boulder		Boulder\N46
+##	TAG	</name>
+2648	TOK	and		and\CC
+##	TAG	<name pos="N46" type="organization">
+2649	TOK	Kenneth J. Rothschild of Boston University		Kenneth_J._Rothschild_of_Boston_University\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2650	TOK	In	BOS	in\P
+2651	TOK	my		my\APS1N6
+2652	TOK	lab		lab\N5S
+---	DLD	,		=\DELIM
+2653	TOK	we		we\RPP1NN
+2654	TOK	are		be\V6FDR66
+2655	TOK	attempting		attempt\VMG----
+2656	TOK	to		to\P
+2657	TOK	build		build\VMI----
+2658	TOK	triggers		trigger\N5P
+2659	TOK	and		and\CC
+2660	TOK	switches		switch\N5P
+2661	TOK	into		into\P
+2662	TOK	designer		designer\N5S
+2663	TOK	pores		pore\N5P
+---	DLE	-		=\DELIM
+2664	TOK	polypeptides		polypeptide\N5P
+2665	TOK	based		base\VMC----
+2666	TOK	only		only\DGA7
+2667	TOK	loosely		loosely\DGA7
+2668	TOK	on		on\P
+2669	TOK	natural		natural\JA
+2670	TOK	structures		structure\N5P
+---	DLD	-		=\DELIM
+2671	TOK	as		as\DGA7
+2672	TOK	pioneered		pioneer\VMC----
+2673	TOK	by		by\P
+##	TAG	<name>
+2674	TOK	Maurice Montal		Maurice_Montal\N46
+##	TAG	</name>
+2675	TOK	and		and\CC
+2676	TOK	his		his\APS3M6
+2677	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+2678	TOK	workers		worker\N5P
+2679	TOK	at		at\P
+2680	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2681	TOK	University of California		University_of_California\N46
+##	TAG	</name>
+2682	TOK	at		at\P
+##	TAG	<name pos="N46" type="place">
+2683	TOK	San Diego		San_Diego\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2684	TOK	Designer	BOS	designer\N5S
+2685	TOK	proteins		protein\N5P
+2686	TOK	based		base\VMC----
+2687	TOK	on		on\P
+2688	TOK	the		the\AT---6
+2689	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+2690	TOK	hemolysin		hemolysin\N5S
+2691	TOK	structure		structure\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+2692	TOK	for instance		for_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2693	TOK	might		may\VOFDR66
+2694	TOK	have		have\VMI----
+2695	TOK	additional		additional\JA
+2696	TOK	utility		utility\N5S
+2697	TOK	as		as\P
+2698	TOK	antimicrobial		antimicrobial\JA
+2699	TOK	agents		agent\N5P
+2700	TOK	if		if\CS
+2701	TOK	they		they\RPP3NN
+2702	TOK	could		can\VOFDA66
+2703	TOK	be		be\VMI----
+2704	TOK	made		make\VMC----
+2705	TOK	to		to\P
+2706	TOK	disrupt		disrupt\VMI----
+2707	TOK	the		the\AT---6
+2708	TOK	outer		outer\JA
+2709	TOK	membranes		membrane\N5P
+2710	TOK	of		of\P
+2711	TOK	microbes		microbe\N5P
+2712	TOK	selectively		selectively\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2713	TOK	There	BOS	there\DGA7
+2714	TOK	is		be\V6FDRS3
+2715	TOK	still		still\DGA7
+2716	TOK	much		much\DGA7
+2717	TOK	to		to\P
+2718	TOK	be		be\VMI----
+2719	TOK	done		do\VMC----
+2720	TOK	through		through\P
+2721	TOK	protein		protein\N5S
+2722	TOK	engineering		engineering\N5S
+2723	TOK	of		of\P
+2724	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+2725	TOK	hemolysin		hemolysin\N5S
+2726	TOK	itself		itself\RXS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2727	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2728	TOK	we		we\RPP1NN
+2729	TOK	are		be\V6FDR66
+2730	TOK	currently		currently\DGA7
+2731	TOK	investigating		investigate\VMG----
+2732	TOK	techniques		technique\N5P
+2733	TOK	to		to\P
+2734	TOK	improve		improve\VMI----
+2735	TOK	the		the\AT---6
+2736	TOK	mechanical		mechanical\JA
+2737	TOK	and		and\CC
+2738	TOK	heat		heat\N5S
+2739	TOK	stability		stability\N5S
+2740	TOK	of		of\P
+2741	TOK	alphahemolysin		alphahemolysin\N5S
+2742	TOK	pores		pore\N5P
+2743	TOK	used		use\VMC----
+2744	TOK	as		as\P
+2745	TOK	components		component\N5P
+2746	TOK	of		of\P
+2747	TOK	biosensors		biosensor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2748	TOK	Workers	BOS	worker\N5P
+2749	TOK	are		be\V6FDR66
+2750	TOK	also		also\DGA7
+2751	TOK	examining		examine\VMG----
+2752	TOK	chemical		chemical\JA
+2753	TOK	modifications		modification\N5P
+2754	TOK	to		to\P
+2755	TOK	reduce		reduce\VMI----
+2756	TOK	immunogenicity		immunogenicity\N5S
+2757	TOK	of		of\P
+2758	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+2759	TOK	hemolysin		hemolysin\N5S
+---	DLE	-		=\DELIM
+2760	TOK	its		its\APS3N6
+2761	TOK	tendency		tendency\N5S
+2762	TOK	to		to\P
+2763	TOK	provoke		provoke\VMI----
+2764	TOK	an		an\AI---S
+2765	TOK	attack		attack\N5S
+2766	TOK	by		by\P
+2767	TOK	the		the\AT---6
+2768	TOK	immune		immune\JA
+2769	TOK	system		system\N5S
+---	DLD	-		=\DELIM
+2770	TOK	for		for\P
+2771	TOK	biotherapeutic		biotherapeutic\JA
+2772	TOK	applications		application\N5P
+---	DLD	;		=\DELIM
+2773	TOK	immunogenicity		immunogenicity\N5S
+2774	TOK	now		now\DGA7
+2775	TOK	stands		stand\VMFDRS3
+2776	TOK	as		as\CS
+2777	TOK	a		a\AI---S
+2778	TOK	major		major\JA
+2779	TOK	hurdle		hurdle\N5S
+2780	TOK	for		for\P
+2781	TOK	all		all\AG---6
+2782	TOK	biotherapeutics		biotherapeutics\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2783	TOK	If	BOS	if\CS
+2784	TOK	these		this\AD---P
+2785	TOK	challenges		challenge\N5P
+2786	TOK	can		can\VOFDR66
+2787	TOK	be		be\VMI----
+2788	TOK	addressed		address\VMC----
+---	DLD	,		=\DELIM
+2789	TOK	more		more\DDC7
+2790	TOK	futuristic		futuristic\JA
+2791	TOK	possibilities		possibility\N5P
+2792	TOK	may		may\VOFDR66
+2793	TOK	emerge		emerge\VMI----
+2794	TOK	for		for\P
+2795	TOK	this		this\AD---S
+2796	TOK	technology		technology\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2797	TOK	Pore	BOS	pore\N5S
+---	DLI	-		=\DELIM
+2798	TOK	forming		form\VMG----
+2799	TOK	proteins		protein\N5P
+2800	TOK	might		may\VOFDR66
+2801	TOK	be		be\VMI----
+2802	TOK	used		use\VMC----
+2803	TOK	as		as\P
+2804	TOK	conducting		conduct\VMG----
+2805	TOK	components		component\N5P
+2806	TOK	in		in\P
+2807	TOK	molecular		molecular\JA
+2808	TOK	electronic		electronic\JA
+2809	TOK	devices		device\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2810	TOK	Although	BOS	although\CS
+2811	TOK	proteins		protein\N5P
+2812	TOK	are		be\V6FDR66
+2813	TOK	relatively		relatively\DGA7
+2814	TOK	large		large\JA
+2815	TOK	for		for\P
+2816	TOK	this		this\AD---S
+2817	TOK	role		role\N5S
+2818	TOK	by		by\P
+2819	TOK	present		present\VMI----
+---	DLI	-		=\DELIM
+2820	TOK	day		day\N5S
+2821	TOK	standards		standard\N5P
+---	DLD	,		=\DELIM
+2822	TOK	they		they\RPP3NN
+2823	TOK	do		do\V6FDR66
+2824	TOK	have		have\VMI----
+2825	TOK	sophisticated		sophisticated\JA
+2826	TOK	properties		property\N5P
+---	DLD	,		=\DELIM
+2827	TOK	such		such\JA
+2828	TOK	as		as\P
+2829	TOK	the		the\AT---6
+2830	TOK	ability		ability\N5S
+2831	TOK	to		to\P
+2832	TOK	recognize		recognize\VMI----
+2833	TOK	other		other\JA
+2834	TOK	molecules		molecule\N5P
+---	DLD	,		=\DELIM
+2835	TOK	a		a\AI---S
+2836	TOK	capability		capability\N5S
+2837	TOK	that		that\RW63N6
+2838	TOK	can		can\V6FDR66
+2839	PGR	not		not\DGA7
+2840	TOK	be		be\VMI----
+2841	TOK	built		build\VMC----
+2842	TOK	into		into\P
+2843	TOK	inorganic		inorganic\JA
+2844	TOK	materials		material\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2845	TOK	Two	BOS	two\MCP
+---	DLI	-		=\DELIM
+2846	TOK	dimensional		dimensional\JA
+2847	TOK	crystals		crystal\N5P
+2848	TOK	that		that\RW63N6
+2849	TOK	are		be\V6FDR66
+2850	TOK	formed		form\VMC----
+2851	TOK	readily		readily\DGA7
+2852	TOK	by		by\P
+2853	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+2854	TOK	hemolysin		hemolysin\N5S
+2855	TOK	and		and\CC
+##	TAG	<name>
+2856	TOK	S-layer		S-layer\N46
+##	TAG	</name>
+2857	TOK	proteins		protein\N5P
+2858	TOK	might		may\VOFDR66
+2859	TOK	serve		serve\VMI----
+2860	TOK	as		as\P
+2861	TOK	templates		template\N5P
+2862	TOK	for		for\P
+2863	TOK	ordered		order\VMC----
+2864	TOK	arrays		array\N5P
+2865	TOK	of		of\P
+2866	TOK	molecules		molecule\N5P
+2867	TOK	in		in\P
+2868	TOK	the		the\AT---6
+2869	TOK	emerging		emerging\JA
+2870	TOK	science		science\N5S
+2871	TOK	of		of\P
+2872	TOK	nanotechnology		nanotechnology\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2873	TOK	It	BOS	it\RPS3N6
+2874	TOK	might		may\VOFDR66
+2875	TOK	even		even\DGA7
+2876	TOK	be		be\VMI----
+2877	TOK	possible		possible\JA
+2878	TOK	to		to\P
+2879	TOK	design		design\N5S
+2880	TOK	membranes		membrane\N5P
+2881	TOK	that		that\RW63N6
+---	DLD	,		=\DELIM
+2882	TOK	by		by\P
+2883	TOK	allowing		allow\VMG----
+2884	TOK	only		only\DGA7
+2885	TOK	certain		certain\JA
+2886	TOK	molecules		molecule\N5P
+2887	TOK	to		to\P
+2888	TOK	pass		pass\VMI----
+2889	TOK	through		through\P
+---	DLD	,		=\DELIM
+2890	TOK	could		can\VOFDA66
+2891	TOK	be		be\VMI----
+2892	TOK	used		use\VMC----
+2893	TOK	to		to\P
+2894	TOK	create		create\VMI----
+2895	TOK	highly		highly\DGA7
+2896	TOK	selective		selective\JA
+2897	TOK	filters		filter\N5P
+2898	TOK	to		to\P
+2899	TOK	purify		purify\VMI----
+2900	TOK	such		such\JA
+2901	TOK	substances		substance\N5P
+2902	TOK	as		as\P
+2903	TOK	drugs		drug\N5P
+---	DLD	,		=\DELIM
+2904	TOK	contaminated		contaminate\VMF6A66
+2905	TOK	water		water\N5S
+2906	TOK	or		or\CC
+2907	TOK	blood		blood\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2908	TOK	The	BOS	the\AT---6
+2909	TOK	field		field\N5S
+2910	TOK	of		of\P
+2911	TOK	pore		pore\VMI----
+---	DLD	-		=\DELIM
+2912	TOK	forming		form\VMG----
+2913	TOK	proteins		protein\N5P
+2914	TOK	is		be\V6FDRS3
+2915	TOK	just		just\DGA7
+2916	TOK	beginning		begin\VMG----
+2917	TOK	to		to\P
+2918	TOK	open		open\VMI----
+2919	TOK	up		up\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2920	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2921	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2923	TOK	Puncturing	BOS	puncture\VMG----
+2924	TOK	cancer		cancer\N5S
+2925	TOK	cells		cell\N5P
+2926	TOK	will		will\VOFDR66
+2927	TOK	make		make\VMI----
+2928	TOK	them		them\RPP3NA
+2929	TOK	more		more\DDC7
+2930	TOK	permeable		permeable\JA
+2931	TOK	to		to\P
+2932	TOK	cytotoxic		cytotoxic\JA
+2933	TOK	drugs		drug\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2934	TOK	Researchers	BOS	researcher\N5P
+2935	TOK	are		be\V6FDR66
+2936	TOK	developing		develop\VMG----
+2937	TOK	an		an\AI---S
+2938	TOK	altered		alter\VMC----
+2939	TOK	version		version\N5S
+2940	TOK	of		of\P
+2941	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+2942	TOK	hemolysin		hemolysin\N5S
+2943	TOK	that		that\RW63N6
+2944	TOK	includes		include\VMFDRS3
+2945	TOK	an		an\AI---S
+2946	TOK	antibody		antibody\N5S
+2947	TOK	fragment		fragment\VMF6R66
+2948	TOK	that		that\CS
+2949	TOK	both		both\RIP3N-
+2950	TOK	recognizes		recognize\VMFDRS3
+2951	TOK	receptors		receptor\N5P
+2952	TOK	on		on\P
+2953	TOK	cancer		cancer\N5S
+2954	TOK	cells		cell\N5P
+2955	TOK	and		and\CC
+2956	TOK	prevents		prevent\VMFDRS3
+2957	TOK	pore		pore\N5S
+2958	TOK	formation		formation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2959	TOK	When	BOS	when\CS
+2960	TOK	the		the\AT---6
+2961	TOK	modified		modify\VMC----
+2962	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+2963	TOK	hemolysin		hemolysin\N5S
+2964	TOK	reaches		reach\VMFDRS3
+2965	TOK	the		the\AT---6
+2966	TOK	cancer		cancer\N5S
+2967	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+2968	TOK	tumor		tumor\N5S
+2969	TOK	proteases		protease\N5P
+---	DLE	-		=\DELIM
+2970	TOK	proteins		protein\N5P
+2971	TOK	secreted		secrete\VMC----
+2972	TOK	by		by\P
+2973	TOK	all		all\AG---6
+2974	TOK	tumors		tumor\N5P
+---	DLD	-		=\DELIM
+2975	TOK	will		will\VOFDR66
+2976	TOK	snip		snip\VMI----
+2977	TOK	off		off\DGA7
+2978	TOK	the		the\AT---6
+2979	TOK	antibody		antibody\N5S
+2980	TOK	fragment		fragment\VMF6R66
+---	DLE	(		=\DELIM
+2981	TOK	a		a\AI---S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2982	TOK	After	BOS	after\P
+##	TAG	<num>
+2983	TOK	seven		seven\X
+##	TAG	</num>
+2984	TOK	of		of\P
+2985	TOK	the		the\AT---6
+2986	TOK	protein		protein\N5S
+2987	TOK	subunits		subunit\N5P
+2988	TOK	converge		converge\VMF6R66
+---	DLE	(		=\DELIM
+2989	TOK	b		b\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2990	TOK	the		the\AT---6
+2991	TOK	pore		pore\N5S
+2992	TOK	opens		open\VMFDRS3
+---	DLE	(		=\DELIM
+2993	TOK	c		c\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2994	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2995	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2997	TOK	Doors	BOS	door\N5P
+2998	TOK	into		into\P
+2999	TOK	cells		cell\N5P
+3000	TOK	can		can\VOFDR66
+3001	TOK	be		be\VMI----
+3002	TOK	opened		open\VMC----
+3003	TOK	and		and\CC
+3004	TOK	closed		close\VMC----
+3005	TOK	repeatedly		repeatedly\DGA7
+3006	TOK	on		on\P
+3007	TOK	command		command\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3008	TOK	When	BOS	when\CS
+3009	TOK	metal		metal\N5S
+3010	TOK	ions		ion\N5P
+3011	TOK	bind		bind\VMF6R66
+3012	TOK	to		to\P
+3013	TOK	the		the\AT---6
+3014	TOK	modified		modify\VMC----
+3015	TOK	protein		protein\N5S
+3016	TOK	called		call\VMF6A66
+##	TAG	<name>
+3017	TOK	H5		H5\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3018	TOK	the		the\AT---6
+3019	TOK	channel		channel\N5S
+3020	TOK	can		can\V6FDR66
+3021	PGR	not		not\DGA7
+3022	TOK	form		form\VMF6R66
+---	DLE	(		=\DELIM
+3023	TOK	a		a\AI---S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3024	TOK	Removing	BOS	remove\VMG----
+3025	TOK	the		the\AT---6
+3026	TOK	metal		metal\N5S
+3027	TOK	opens		open\VMFDRS3
+3028	TOK	the		the\AT---6
+3029	TOK	pore		pore\N5S
+---	DLE	(		=\DELIM
+3030	TOK	b		b\N5S
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+3031	TOK	adding		add\VMG----
+3032	TOK	the		the\AT---6
+3033	TOK	metal		metal\N5S
+3034	TOK	reseals		reseals\N5P
+3035	TOK	the		the\AT---6
+3036	TOK	pore		pore\N5S
+---	DLE	(		=\DELIM
+3037	TOK	c		c\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3038	TOK	This	BOS	this\AD---S
+3039	TOK	technique		technique\N5S
+3040	TOK	has		have\V6FDRS3
+3041	TOK	been		be\VMC----
+3042	TOK	used		use\VMC----
+3043	TOK	by		by\P
+##	TAG	<name>
+3044	TOK	Mehmet Toner		Mehmet_Toner\N46
+##	TAG	</name>
+3045	PGR	's		genmark\GENMARK
+3046	TOK	team		team\N5S
+3047	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+3048	TOK	Massachusetts General Hospital		Massachusetts_General_Hospital\N46
+##	TAG	</name>
+3049	TOK	to		to\P
+3050	TOK	introduce		introduce\VMI----
+3051	TOK	cryoprotectant		cryoprotectant\JA
+3052	TOK	chemicals		chemical\N5P
+3053	TOK	into		into\P
+3054	TOK	living		living\JA
+3055	TOK	cells		cell\N5P
+3056	TOK	that		that\RW63N6
+3057	TOK	must		must\VOFDR66
+3058	TOK	be		be\VMI----
+3059	TOK	frozen		freeze\VMC----
+3060	TOK	for		for\P
+3061	TOK	storage		storage\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3062	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3063	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3065	TOK	Biosensors	BOS	biosensor\N5P
+3066	TOK	made		make\VMC----
+3067	TOK	from		from\P
+3068	TOK	artificial		artificial\JA
+3069	TOK	pores		pore\N5P
+3070	TOK	can		can\VOFDR66
+3071	TOK	detect		detect\VMI----
+3072	TOK	a		a\AI---S
+3073	TOK	variety		variety\N5S
+3074	TOK	of		of\P
+3075	TOK	substances		substance\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3076	TOK	A	BOS	a\AI---S
+3077	TOK	carefully		carefully\DGA7
+3078	TOK	modified		modify\VMC----
+3079	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+3080	TOK	hemolysin		hemolysin\N5S
+3081	TOK	protein		protein\N5S
+---	DLE	(		=\DELIM
+3082	TOK	only		only\DGA7
+3083	TOK	one		one\MCS
+3084	TOK	of		of\P
+3085	TOK	the		the\AT---6
+##	TAG	<num>
+3086	TOK	seven		seven\X
+##	TAG	</num>
+3087	TOK	subunits		subunit\N5P
+---	DLD	,		=\DELIM
+3088	TOK	shown		show\VMC----
+3089	TOK	in		in\P
+3090	TOK	pink		pink\JA
+---	DLD	,		=\DELIM
+3091	TOK	has		have\V6FDRS3
+3092	TOK	been		be\VMC----
+3093	TOK	altered		alter\VMC----
+3094	TOK	to		to\P
+3095	TOK	bind		bind\VMI----
+3096	TOK	to		to\P
+3097	TOK	metal		metal\N5S
+3098	TOK	ions		ion\N5P
+---	DLD	)		=\DELIM
+3099	TOK	partly		partly\DGA7
+3100	TOK	closes		close\VMFDRS3
+3101	TOK	when		when\CS
+3102	TOK	a		a\AI---S
+3103	TOK	metal		metal\N5S
+3104	TOK	is		be\V6FDRS3
+3105	TOK	attached		attach\VMC----
+---	DLE	(		=\DELIM
+3106	TOK	a		a\AI---S
+---	DLD	)		=\DELIM
+3107	TOK	and		and\CC
+3108	TOK	opens		open\VMFDRS3
+3109	TOK	when		when\CS
+3110	TOK	the		the\AT---6
+3111	TOK	metal		metal\N5S
+3112	TOK	is		be\V6FDRS3
+3113	TOK	removed		remove\VMF6A66
+---	DLE	(		=\DELIM
+3114	TOK	b		b\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3115	TOK	The	BOS	the\AT---6
+3116	TOK	magnitude		magnitude\N5S
+3117	TOK	and		and\CC
+3118	TOK	duration		duration\N5S
+3119	TOK	of		of\P
+3120	TOK	the		the\AT---6
+3121	TOK	changes		change\N5P
+3122	TOK	in		in\P
+3123	TOK	electric		electric\JA
+3124	TOK	current		current\JA
+3125	TOK	sent		send\VMC----
+3126	TOK	through		through\P
+3127	TOK	single		single\JA
+3128	TOK	pores		pore\N5P
+3129	TOK	identifies		identify\VMFDRS3
+3130	TOK	the		the\AT---6
+3131	TOK	kind		kind\N5S
+3132	TOK	of		of\P
+3133	TOK	metal		metal\N5S
+3134	TOK	present		present\VMF6R66
+---	DLE	(		=\DELIM
+3135	TOK	inset		inset\VMF6A66
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+3136	TOK	the		the\AT---6
+3137	TOK	frequency		frequency\N5S
+3138	TOK	of		of\P
+3139	TOK	the		the\AT---6
+3140	TOK	current		current\JA
+3141	TOK	shifts		shift\N5P
+3142	TOK	reveals		reveal\VMFDRS3
+3143	TOK	the		the\AT---6
+3144	TOK	concentration		concentration\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3145	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3146	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3148	TOK	Beam	BOS	beam\N5S
+3149	TOK	of		of\P
+3150	TOK	light		light\N5S
+3151	TOK	can		can\VOFDR66
+3152	TOK	clear		clear\VMI----
+3153	TOK	a		a\AI---S
+3154	TOK	pathway		pathway\N5S
+3155	TOK	into		into\P
+3156	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3157	TOK	Light	BOS	light\N5S
+3158	TOK	can		can\VOFDR66
+3159	TOK	be		be\VMI----
+3160	TOK	directed		direct\VMC----
+3161	TOK	at		at\P
+3162	TOK	particular		particular\JA
+3163	TOK	cells		cell\N5P
+---	DLE	-		=\DELIM
+3164	TOK	for		for\P
+3165	TOK	example		example\N5S
+---	DLD	,		=\DELIM
+3166	TOK	in		in\P
+3167	TOK	a		a\AI---S
+3168	TOK	neuron		neuron\N5S
+---	DLE	(		=\DELIM
+3169	TOK	inset		inset\VMF6A66
+---	DLD	)		=\DELIM
+---	DLD	-		=\DELIM
+3170	TOK	very		very\JA
+3171	TOK	precisely		precisely\DGA7
+---	DLD	,		=\DELIM
+3172	TOK	so		so\JA
+3173	TOK	researchers		researcher\N5P
+3174	TOK	can		can\VOFDR66
+3175	TOK	use		use\VMI----
+3176	TOK	this		this\AD---S
+3177	TOK	method		method\N5S
+3178	TOK	to		to\P
+3179	TOK	control		control\N5S
+3180	TOK	which		which\RW63N-
+3181	TOK	cells		cell\N5P
+3182	TOK	they		they\RPP3NN
+3183	TOK	will		will\VOFDR66
+3184	TOK	make		make\VMI----
+3185	TOK	permeable		permeable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3186	TOK	Light	BOS	light\N5S
+---	DLI	-		=\DELIM
+3187	TOK	sensitive		sensitive\JA
+3188	TOK	molecules		molecule\N5P
+3189	TOK	attached		attach\VMC----
+3190	TOK	to		to\P
+3191	TOK	the		the\AT---6
+3192	TOK	modified		modify\VMC----
+3193	TOK	alpha		alpha\N5S
+---	DLD	-		=\DELIM
+3194	TOK	hemolysin		hemolysin\N5S
+3195	TOK	protein		protein\N5S
+3196	TOK	prevent		prevent\VMF6R66
+3197	TOK	a		a\AI---S
+3198	TOK	pore		pore\N5S
+3199	TOK	from		from\P
+3200	TOK	forming		form\VMG----
+---	DLE	(		=\DELIM
+3201	TOK	a		a\AI---S
+---	DLD	)		=\DELIM
+3202	TOK	until		until\CS
+3203	TOK	they		they\RPP3NN
+3204	TOK	are		be\V6FDR66
+3205	TOK	removed		remove\VMC----
+3206	TOK	with		with\P
+3207	TOK	light		light\JA
+---	DLE	(		=\DELIM
+3208	TOK	b		b\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3209	TOK	Once	BOS	once\DGA7
+3210	TOK	the		the\AT---6
+3211	TOK	molecules		molecule\N5P
+3212	TOK	are		be\V6FDR66
+3213	TOK	gone		go\VMC----
+---	DLD	,		=\DELIM
+3214	TOK	the		the\AT---6
+3215	TOK	pore		pore\N5S
+3216	TOK	will		will\VOFDR66
+3217	TOK	open		open\VMI----
+---	DLE	(		=\DELIM
+3218	TOK	c		c\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3219	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3220	TOK	5	EOS	5\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3222	TOK	Artificial	BOS	artificial\JA
+3223	TOK	pore		pore\N5S
+3224	TOK	can		can\VOFDR66
+3225	TOK	penetrate		penetrate\VMI----
+3226	TOK	a		a\AI---S
+3227	TOK	cell		cell\N5S
+3228	TOK	membrane		membrane\N5S
+3229	TOK	or		or\CC
+3230	TOK	an		an\AI---S
+3231	TOK	artificial		artificial\JA
+3232	TOK	membrane		membrane\N5S
+3233	TOK	made		make\VMC----
+3234	TOK	of		of\P
+3235	TOK	a		a\AI---S
+3236	TOK	double		double\JA
+3237	TOK	layer		layer\N5S
+3238	TOK	of		of\P
+3239	TOK	fats		fat\N5P
+---	DLD	,		=\DELIM
+3240	TOK	or		or\CC
+3241	TOK	lipids		lipid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3242	TOK	Such	BOS	such\JA
+3243	TOK	channels		channel\N5P
+---	DLD	,		=\DELIM
+3244	TOK	formed		form\VMC----
+3245	TOK	from		from\P
+3246	TOK	modified		modify\VMC----
+3247	TOK	versions		version\N5P
+3248	TOK	of		of\P
+3249	TOK	the		the\AT---6
+3250	TOK	bacterial		bacterial\JA
+3251	TOK	protein		protein\N5S
+3252	TOK	alpha		alpha\N5S
+---	DLD	-		=\DELIM
+3253	TOK	hemolysin		hemolysin\N5S
+---	DLD	,		=\DELIM
+3254	TOK	can		can\VOFDR66
+3255	TOK	be		be\VMI----
+3256	TOK	designed		design\VMC----
+3257	TOK	to		to\P
+3258	TOK	control		control\VMI----
+3259	TOK	the		the\AT---6
+3260	TOK	passage		passage\N5S
+3261	TOK	of		of\P
+3262	TOK	drugs		drug\N5P
+3263	TOK	or		or\CC
+3264	TOK	other		other\JA
+3265	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3266	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3267	TOK	6	EOS	6\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3269	TOK	Microscopic	BOS	microscopic\JA
+3270	TOK	pores		pore\N5P
+3271	TOK	are		be\V6FDR66
+3272	TOK	made		make\VMC----
+3273	TOK	by		by\P
+3274	TOK	a		a\AI---S
+3275	TOK	variety		variety\N5S
+3276	TOK	of		of\P
+3277	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3278	TOK	The	BOS	the\AT---6
+3279	TOK	author		author\N5S
+3280	TOK	has		have\V6FDRS3
+3281	TOK	studied		study\VMC----
+3282	TOK	derivatives		derivative\N5P
+3283	TOK	of		of\P
+3284	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+3285	TOK	hemolysin		hemolysin\N5S
+3286	TOK	that		that\RW63N6
+3287	TOK	generally		generally\DGA7
+3288	TOK	form		form\VMF6R66
+3289	TOK	openings		opening\N5P
+3290	TOK	roughly		roughly\DGA7
+##	TAG	<num>
+3291	TOK	two		two\X
+##	TAG	</num>
+3292	TOK	nanometers		nanometer\N5P
+3293	TOK	in		in\P
+3294	TOK	diameter		diameter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3295	TOK	Certain	BOS	certain\JA
+3296	TOK	versions		version\N5P
+3297	TOK	can		can\VOFDR66
+3298	TOK	be		be\VMI----
+3299	TOK	larger		large\JC
+---	DLD	,		=\DELIM
+3300	TOK	though		though\CS
+---	DLD	,		=\DELIM
+3301	TOK	up		up\N5S
+3302	TOK	to		to\P
+##	TAG	<num>
+3303	TOK	six		six\X
+##	TAG	</num>
+3304	TOK	nanometers		nanometer\N5P
+3305	TOK	in		in\P
+3306	TOK	diameter		diameter\N5S
+---	DLE	(		=\DELIM
+3307	TOK	a		a\AI---S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3308	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3309	TOK	7	EOS	7\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3311	TOK	The	BOS	the\AT---6
+3312	TOK	protein		protein\N5S
+3313	TOK	streptolysin		streptolysin\N5S
+---	DLI	-		=\DELIM
+3314	TOK	O		O\N5P
+3315	TOK	can		can\VOFDR66
+3316	TOK	make		make\VMI----
+3317	TOK	pores		pore\N5P
+3318	TOK	exceeding		exceed\VMG----
+##	TAG	<num>
+3319	TOK	30		30\X
+##	TAG	</num>
+3320	TOK	nanometers		nanometer\N5P
+3321	TOK	across		across\P
+---	DLE	(		=\DELIM
+3322	TOK	b		b\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3323	TOK	A	BOS	a\AI---S
+3324	TOK	third		third\MOS
+3325	TOK	type		type\N5S
+3326	TOK	of		of\P
+3327	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+3328	TOK	an		an\AI---S
+##	TAG	<name>
+3329	TOK	S-layer		S-layer\N46
+##	TAG	</name>
+3330	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+3331	TOK	forms		form\N5P
+3332	TOK	sheets		sheet\N5P
+3333	TOK	of		of\P
+3334	TOK	pores		pore\N5P
+3335	TOK	of		of\P
+3336	TOK	uniform		uniform\JA
+3337	TOK	size		size\N5S
+---	DLD	;		=\DELIM
+3338	TOK	the		the\AT---6
+3339	TOK	pores		pore\N5P
+3340	TOK	shown		show\VMC----
+3341	TOK	in		in\P
+3342	TOK	c		c\N5S
+3343	TOK	are		be\V6FDR66
+3344	TOK	about		about\DGA7
+##	TAG	<num>
+3345	TOK	three		three\X
+##	TAG	</num>
+3346	TOK	nanometers		nanometer\N5P
+3347	TOK	in		in\P
+3348	TOK	diameter		diameter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3349	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3350	TOK	8	EOS	8\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3352	TOK	Parts	BOS	part\N5P
+3353	TOK	become		become\VMF6R66
+3354	TOK	a		a\AI---S
+3355	TOK	hole		hole\N5S
+3356	TOK	as		as\P
+3357	TOK	individual		individual\JA
+3358	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+3359	TOK	hemolysin		hemolysin\N5S
+3360	TOK	molecules		molecule\N5P
+---	DLE	(		=\DELIM
+3361	TOK	a		a\AI---S
+---	DLD	)		=\DELIM
+3362	TOK	attach		attach\VMF6R66
+3363	TOK	to		to\P
+3364	TOK	the		the\AT---6
+3365	TOK	surface		surface\N5S
+3366	TOK	of		of\P
+3367	TOK	a		a\AI---S
+3368	TOK	membrane		membrane\N5S
+---	DLE	(		=\DELIM
+3369	TOK	b		b\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3370	TOK	Once	BOS	once\DGA7
+##	TAG	<num>
+3371	TOK	seven		seven\X
+##	TAG	</num>
+3372	TOK	of		of\P
+3373	TOK	the		the\AT---6
+3374	TOK	molecules		molecule\N5P
+3375	TOK	converge		converge\VMF6R66
+---	DLE	(		=\DELIM
+3376	TOK	c		c\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3377	TOK	the		the\AT---6
+3378	TOK	thin		thin\JA
+3379	TOK	strand		strand\N5S
+3380	TOK	of		of\P
+3381	TOK	amino		amino\N5S
+3382	TOK	acids		acid\N5P
+3383	TOK	in		in\P
+3384	TOK	the		the\AT---6
+3385	TOK	center		center\N5S
+3386	TOK	of		of\P
+3387	TOK	each		each\AG---S
+3388	TOK	subunit		subunit\N5S
+3389	TOK	burrows		burrow\N5P
+3390	TOK	into		into\P
+3391	TOK	the		the\AT---6
+3392	TOK	membrane		membrane\N5S
+3393	TOK	to		to\P
+3394	TOK	form		form\VMI----
+3395	TOK	the		the\AT---6
+3396	TOK	channel		channel\N5S
+---	DLE	(		=\DELIM
+3397	TOK	d		d\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3398	TOK	The	BOS	the\AT---6
+3399	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+3400	TOK	dimensional		dimensional\JA
+3401	TOK	structure		structure\N5S
+3402	TOK	of		of\P
+3403	TOK	the		the\AT---6
+3404	TOK	mushroom		mushroom\N5S
+---	DLI	-		=\DELIM
+3405	TOK	shaped		shape\VMC----
+3406	TOK	pore		pore\N5S
+3407	TOK	was		be\V6F-A66
+3408	TOK	only		only\DGA7
+3409	TOK	recently		recently\DGA7
+3410	TOK	determined		determine\VMC----
+3411	TOK	by		by\P
+3412	TOK	x-ray		x-ray\N5S
+3413	TOK	crystallography		crystallography\N5S
+---	DLE	(		=\DELIM
+3414	TOK	far		far\DGA7
+3415	TOK	left		leave\VMF6A66
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+3416	TOK	each		each\AG---S
+3417	TOK	color		color\N5S
+3418	TOK	represents		represent\VMFDRS3
+3419	TOK	a		a\AI---S
+3420	TOK	different		different\JA
+3421	TOK	alpha		alpha\N5S
+---	DLI	-		=\DELIM
+3422	TOK	hemolysm		hemolysm\N5S
+3423	TOK	subunit		subunit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

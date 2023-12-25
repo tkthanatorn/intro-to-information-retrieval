@@ -1,0 +1,5937 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	Evidence	BOS	evidence\N5S
+2	TOK	for		for\P
+3	TOK	a		a\AI---S
+##	TAG	<name>
+4	TOK	Biological Influence		Biological_Influence\N46
+##	TAG	</name>
+5	TOK	in		in\P
+##	TAG	<name>
+6	TOK	Male Homosexuality	EOS	Male_Homosexuality\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+8	TOK	Two	BOS	Two\X
+##	TAG	</num>
+9	TOK	pieces		piece\N5P
+10	TOK	of		of\P
+11	TOK	evidence		evidence\N5S
+---	DLD	,		=\DELIM
+12	TOK	a		a\AI---S
+13	TOK	structure		structure\N5S
+14	TOK	within		within\P
+15	TOK	the		the\AT---6
+16	TOK	human		human\JA
+17	TOK	brain		brain\N5S
+18	TOK	and		and\CC
+19	TOK	a		a\AI---S
+20	TOK	genetic		genetic\JA
+21	TOK	link		link\N5S
+---	DLD	,		=\DELIM
+22	TOK	point		point\N5S
+23	TOK	to		to\P
+24	TOK	a		a\AI---S
+25	TOK	biological		biological\JA
+26	TOK	component		component\N5S
+27	TOK	for		for\P
+28	TOK	male		male\N5S
+29	TOK	homosexuality		homosexuality\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+30	TOK	Most	BOS	most\AG---6
+31	TOK	men		man\N5P
+32	TOK	are		be\V6FDR66
+33	TOK	sexually		sexually\DGA7
+34	TOK	attracted		attract\VMC----
+35	TOK	to		to\P
+36	TOK	women		woman\N5P
+---	DLD	,		=\DELIM
+37	TOK	most		most\AG---6
+38	TOK	women		woman\N5P
+39	TOK	to		to\P
+40	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+41	TOK	To	BOS	to\P
+42	TOK	many		many\AI---P
+43	TOK	people		people\N56
+---	DLD	,		=\DELIM
+44	TOK	this		this\RDS3N-
+45	TOK	seems		seem\VMFDRS3
+46	TOK	only		only\DGA7
+47	TOK	the		the\AT---6
+48	TOK	natural		natural\JA
+49	TOK	order		order\N5S
+50	TOK	of		of\P
+51	TOK	things		thing\N5P
+---	DLD	-		=\DELIM
+52	TOK	the		the\AT---6
+53	TOK	appropriate		appropriate\JA
+54	TOK	manifestation		manifestation\N5S
+55	TOK	of		of\P
+56	TOK	biological		biological\JA
+57	TOK	instinct		instinct\JA
+---	DLD	,		=\DELIM
+58	TOK	reinforced		reinforce\VMC----
+59	TOK	by		by\P
+60	TOK	education		education\N5S
+---	DLD	,		=\DELIM
+61	TOK	religion		religion\N5S
+62	TOK	and		and\CC
+63	TOK	the		the\AT---6
+64	TOK	law		law\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+65	TOK	Yet	BOS	yet\DGA7
+66	TOK	a		a\AI---S
+67	TOK	significant		significant\JA
+68	TOK	minority		minority\N5S
+69	TOK	of		of\P
+70	TOK	men		man\N5P
+71	TOK	and		and\CC
+72	TOK	women		woman\N5P
+---	DLE	-		=\DELIM
+73	TOK	estimates		estimate\N5P
+74	TOK	range		range\VMF6R66
+75	TOK	from		from\P
+##	TAG	<num>
+76	TOK	1		1\X
+##	TAG	</num>
+77	TOK	to		to\P
+##	TAG	<num>
+78	TOK	5		5\X
+##	TAG	</num>
+79	TOK	percent		percent\N56
+80	TOK	are		be\V6FDR66
+81	TOK	attracted		attract\VMC----
+82	TOK	exclusively		exclusively\DGA7
+83	TOK	to		to\P
+84	TOK	members		member\N5P
+85	TOK	of		of\P
+86	TOK	their		their\APP3N6
+87	TOK	own		own\JA
+88	TOK	sex		sex\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+89	TOK	Many	BOS	many\AI---P
+90	TOK	others		other\RIP3N-
+91	TOK	are		be\V6FDR66
+92	TOK	drawn		draw\VMC----
+---	DLD	,		=\DELIM
+93	TOK	in		in\P
+94	TOK	varying		vary\VMG----
+95	TOK	degrees		degree\N5P
+---	DLD	,		=\DELIM
+96	TOK	to		to\P
+97	TOK	both		both\RIP3N-
+98	TOK	men		man\N5P
+99	TOK	and		and\CC
+100	TOK	women		woman\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+101	TOK	How		how\N5S
+102	TOK	are		be\V6FDR66
+103	TOK	we		we\RPP1NN
+104	TOK	to		to\P
+105	TOK	understand		understand\VMI----
+106	TOK	such		such\JA
+107	TOK	diversity		diversity\N5S
+108	TOK	in		in\P
+109	TOK	sexual		sexual\JA
+110	TOK	orientation		orientation\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+111	TOK	Does		doe\N5P
+112	TOK	it		it\RPS3N6
+113	TOK	derive		derive\VMF6R66
+114	TOK	from		from\P
+115	TOK	variations		variation\N5P
+116	TOK	in		in\P
+117	TOK	our		our\APP1N6
+118	TOK	genes		gene\N5P
+119	TOK	or		or\CC
+120	TOK	our		our\APP1N6
+121	TOK	physiology		physiology\N5S
+---	DLD	,		=\DELIM
+122	TOK	from		from\P
+123	TOK	the		the\AT---6
+124	TOK	intricacies		intricacy\N5P
+125	TOK	of		of\P
+126	TOK	our		our\APP1N6
+127	TOK	personal		personal\JA
+128	TOK	history		history\N5S
+129	TOK	or		or\CC
+130	TOK	from		from\P
+131	TOK	some		some\AG---6
+132	TOK	confluence		confluence\N5S
+133	TOK	of		of\P
+134	TOK	these		this\AD---P
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+135	TOK	Is		i\N5P
+136	TOK	it		it\RPS3N6
+137	TOK	for		for\P
+138	TOK	that		that\AD---S
+139	TOK	matter		matter\N5S
+140	TOK	a		a\AI---S
+141	TOK	choice		choice\N5S
+##	TAG	<loc pos="DDC7">
+142	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+143	TOK	a		a\AI---S
+144	TOK	compulsion		compulsion\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+145	TOK	Probably	BOS	probably\DGA7
+##	TAG	<loc pos="RIS3N-">
+146	TOK	no one		no_one\RIS3N-
+##	TAG	</loc>
+147	TOK	factor		factor\N5S
+148	TOK	alone		alone\DGA7
+149	TOK	can		can\VOFDR66
+150	TOK	elucidate		elucidate\VMI----
+151	TOK	so		so\DGA7
+152	TOK	complex		complex\JA
+153	TOK	and		and\CC
+154	TOK	variable		variable\JA
+155	TOK	a		a\AI---S
+156	TOK	trait		trait\N5S
+157	TOK	as		as\P
+158	TOK	sexual		sexual\JA
+159	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+160	TOK	But	BOS	but\CC
+161	TOK	recent		recent\JA
+162	TOK	laboratory		laboratory\N5S
+163	TOK	studies		study\N5P
+---	DLD	,		=\DELIM
+164	TOK	including		including\P
+165	TOK	our		our\APP1N6
+166	TOK	own		own\JA
+---	DLD	,		=\DELIM
+167	TOK	indicate		indicate\VMF6R66
+168	TOK	that		that\CS
+169	TOK	genes		gene\N5P
+170	TOK	and		and\CC
+171	TOK	brain		brain\N5S
+172	TOK	development		development\N5S
+173	TOK	play		play\VMF6R66
+174	TOK	a		a\AI---S
+175	TOK	significant		significant\JA
+176	TOK	role		role\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+177	TOK	How	BOS	how\DGAW
+---	DLD	,		=\DELIM
+178	TOK	we		we\RPP1NN
+179	TOK	do		do\V6FDR66
+180	TOK	not		not\DGA7
+181	TOK	yet		yet\DGA7
+182	TOK	know		know\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+183	TOK	It	BOS	it\RPS3N6
+184	TOK	may		may\VOFDR66
+185	TOK	be		be\VMI----
+186	TOK	that		that\CS
+187	TOK	genes		gene\N5P
+188	TOK	influence		influence\VMF6R66
+189	TOK	the		the\AT---6
+190	TOK	sexual		sexual\JA
+191	TOK	differentiation		differentiation\N5S
+192	TOK	of		of\P
+193	TOK	the		the\AT---6
+194	TOK	brain		brain\N5S
+195	TOK	and		and\CC
+196	TOK	its		its\APS3N6
+197	TOK	interaction		interaction\N5S
+198	TOK	with		with\P
+199	TOK	the		the\AT---6
+200	TOK	outside		outside\N5S
+201	TOK	world		world\N5S
+---	DLD	,		=\DELIM
+202	TOK	thus		thus\DGA7
+203	TOK	diversifying		diversify\VMG----
+204	TOK	its		its\APS3N6
+205	TOK	already		already\DGA7
+206	TOK	vast		vast\JA
+207	TOK	range		range\N5S
+208	TOK	of		of\P
+209	TOK	responses		response\N5P
+210	TOK	to		to\P
+211	TOK	sexual		sexual\JA
+212	TOK	stimuli		stimulus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+213	TOK	The	BOS	the\AT---6
+214	TOK	search		search\N5S
+215	TOK	for		for\P
+216	TOK	biological		biological\JA
+217	TOK	roots		root\N5P
+218	TOK	of		of\P
+219	TOK	sexual		sexual\JA
+220	TOK	orientation		orientation\N5S
+221	TOK	has		have\V6FDRS3
+222	TOK	run		run\VMC----
+223	TOK	along		along\P
+##	TAG	<num>
+224	TOK	two		two\X
+##	TAG	</num>
+225	TOK	broad		broad\JA
+226	TOK	lines		line\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+227	TOK	The	BOS	the\AT---6
+228	TOK	first		first\MOS
+229	TOK	draws		draw\VMFDRS3
+230	TOK	on		on\P
+231	TOK	observations		observation\N5P
+232	TOK	made		make\VMC----
+233	TOK	in		in\P
+234	TOK	yet		yet\DGA7
+235	TOK	another		another\JA
+236	TOK	hunt		hunt\VMF6R66
+---	DLD	-		=\DELIM
+237	TOK	that		that\CS
+238	TOK	for		for\P
+239	TOK	physical		physical\JA
+240	TOK	differences		difference\N5P
+241	TOK	between		between\P
+242	TOK	men		man\N5P
+243	PGR	's		genmark\GENMARK
+244	TOK	and		and\CC
+245	TOK	women		woman\N5P
+246	PGR	's		genmark\GENMARK
+247	TOK	brains		brain\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+248	TOK	As	BOS	as\CS
+249	TOK	we		we\RPP1NN
+250	TOK	shall		shall\VOFDR66
+251	TOK	see		see\VMI----
+---	DLD	,		=\DELIM
+---	DLE	«		=\DELIM
+252	TOK	gay		gay\JA
+---	DLD	»		=\DELIM
+253	TOK	and		and\CC
+---	DLE	«		=\DELIM
+254	TOK	straight		straight\JA
+---	DLD	»		=\DELIM
+255	TOK	brains		brain\N5P
+256	TOK	may		may\VOFDR66
+257	TOK	be		be\VMI----
+258	TOK	differentiated		differentiate\VMC----
+259	TOK	in		in\P
+260	TOK	curiously		curiously\DGA7
+261	TOK	analogous		analogous\JA
+262	TOK	fashion		fashion\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+263	TOK	The	BOS	the\AT---6
+264	TOK	second		second\MOS
+265	TOK	approach		approach\N5S
+266	TOK	is		be\V6FDRS3
+267	TOK	to		to\P
+268	TOK	scout		scout\VMI----
+269	TOK	out		out\DGA7
+270	TOK	genes		gene\N5P
+271	TOK	by		by\P
+272	TOK	studying		study\VMG----
+273	TOK	the		the\AT---6
+274	TOK	patterns		pattern\N5P
+275	TOK	in		in\P
+276	TOK	which		which\RW63N-
+277	TOK	homosexuality		homosexuality\N5S
+278	TOK	occurs		occur\VMFDRS3
+279	TOK	in		in\P
+280	TOK	families		family\N5P
+281	TOK	and		and\CC
+282	TOK	by		by\P
+283	TOK	directly		directly\DGA7
+284	TOK	examining		examine\VMG----
+285	TOK	the		the\AT---6
+286	TOK	hereditary		hereditary\JA
+287	TOK	material		material\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+288	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+289	TOK	Researchers	BOS	researcher\N5P
+290	TOK	have		have\V6F6R66
+291	TOK	long		long\DGA7
+292	TOK	sought		seek\VMC----
+293	TOK	within		within\P
+294	TOK	the		the\AT---6
+295	TOK	human		human\JA
+296	TOK	brain		brain\N5S
+297	TOK	some		some\AG---6
+298	TOK	manifestation		manifestation\N5S
+299	TOK	of		of\P
+300	TOK	the		the\AT---6
+301	TOK	most		most\DDS7
+302	TOK	obvious		obvious\JA
+303	TOK	classes		class\N5P
+304	TOK	into		into\P
+305	TOK	which		which\RW63N-
+306	TOK	we		we\RPP1NN
+307	TOK	are		be\V6FDR66
+308	TOK	divided		divide\VMC----
+---	DLD	-		=\DELIM
+309	TOK	male		male\N5S
+310	TOK	and		and\CC
+311	TOK	female		female\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+312	TOK	Such	BOS	such\JA
+313	TOK	sex		sex\N5S
+314	TOK	differentiation		differentiation\N5S
+315	TOK	of		of\P
+316	TOK	the		the\AT---6
+317	TOK	brain		brain\N5S
+318	PGR	's		genmark\GENMARK
+319	TOK	structure		structure\N5S
+---	DLD	,		=\DELIM
+320	TOK	called		call\VMC----
+321	TOK	sexual		sexual\JA
+322	TOK	dimorphism		dimorphism\N5S
+---	DLD	,		=\DELIM
+323	TOK	proved		prove\VMC----
+324	TOK	hard		hard\DGA7
+325	TOK	to		to\P
+326	TOK	establish		establish\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+327	TOK	On	BOS	on\P
+328	TOK	average		average\JA
+---	DLD	,		=\DELIM
+329	TOK	a		a\AI---S
+330	TOK	man		man\N5S
+331	PGR	's		genmark\GENMARK
+332	TOK	brain		brain\N5S
+333	TOK	has		have\V6FDRS3
+334	TOK	a		a\AI---S
+335	TOK	slightly		slightly\DGA7
+336	TOK	larger		large\JC
+337	TOK	size		size\N5S
+338	TOK	that		that\RW63N6
+339	TOK	goes		go\VMFDRS3
+##	TAG	<loc pos="P">
+340	TOK	along with		along_with\P
+##	TAG	</loc>
+341	TOK	his		his\APS3M6
+342	TOK	larger		large\JC
+343	TOK	body		body\N5S
+---	DLD	;		=\DELIM
+344	TOK	other		other\JA
+345	TOK	than		than\CS
+346	TOK	that		that\AD---S
+---	DLD	,		=\DELIM
+347	TOK	casual		casual\JA
+348	TOK	inspection		inspection\N5S
+349	TOK	does		do\V6FDRS3
+350	TOK	not		not\DGA7
+351	TOK	reveal		reveal\VMI----
+352	TOK	any		any\AG---6
+353	TOK	obvious		obvious\JA
+354	TOK	dissimilarity		dissimilarity\N5S
+355	TOK	between		between\P
+356	TOK	the		the\AT---6
+357	TOK	sexes		sex\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+358	TOK	Even	BOS	even\DGA7
+359	TOK	under		under\P
+360	TOK	a		a\AI---S
+361	TOK	microscope		microscope\N5S
+---	DLD	,		=\DELIM
+362	TOK	the		the\AT---6
+363	TOK	architecture		architecture\N5S
+364	TOK	of		of\P
+365	TOK	men		man\N5P
+366	PGR	's		genmark\GENMARK
+367	TOK	and		and\CC
+368	TOK	women		woman\N5P
+369	PGR	's		genmark\GENMARK
+370	TOK	brains		brain\N5P
+371	TOK	is		be\V6FDRS3
+372	TOK	very		very\JA
+373	TOK	similar		similar\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+374	TOK	Not	BOS	not\DGA7
+375	TOK	surprisingly		surprisingly\DGA7
+---	DLD	,		=\DELIM
+376	TOK	the		the\AT---6
+377	TOK	first		first\MOS
+378	TOK	signifcant		signifcant\N5S
+379	TOK	observations		observation\N5P
+380	TOK	of		of\P
+381	TOK	sexual		sexual\JA
+382	TOK	dimorphism		dimorphism\N5S
+383	TOK	were		be\V6F-A66
+384	TOK	made		make\VMC----
+385	TOK	in		in\P
+386	TOK	laboratory		laboratory\N5S
+387	TOK	animals		animal\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+388	TOK	Of	BOS	of\P
+389	TOK	particular		particular\JA
+390	TOK	importance		importance\N5S
+391	TOK	is		be\V6FDRS3
+392	TOK	a		a\AI---S
+393	TOK	study		study\N5S
+394	TOK	of		of\P
+395	TOK	rats		rat\N5P
+396	TOK	conducted		conduct\VMC----
+397	TOK	by		by\P
+##	TAG	<name>
+398	TOK	Roger		Roger\N46
+##	TAG	</name>
+##	TAG	<abbr>
+399	TOK	A.		A.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+400	TOK	Gorski		Gorski\N46
+##	TAG	</name>
+401	TOK	of		of\P
+402	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+403	TOK	University of California		University_of_California\N46
+##	TAG	</name>
+404	TOK	at		at\P
+##	TAG	<name>
+405	TOK	Los Angeles		Los_Angeles\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+406	TOK	In	BOS	in\P
+##	TAG	<num>
+407	TOK	1978		1978\X
+##	TAG	</num>
+##	TAG	<name>
+408	TOK	Gorski		Gorski\N46
+##	TAG	</name>
+409	TOK	was		be\V6F-A66
+410	TOK	inspecting		inspect\VMG----
+411	TOK	the		the\AT---6
+412	TOK	rat		rat\N5S
+413	PGR	's		genmark\GENMARK
+414	TOK	hypothalamus		hypothalamus\N5S
+---	DLD	,		=\DELIM
+415	TOK	a		a\AI---S
+416	TOK	region		region\N5S
+417	TOK	at		at\P
+418	TOK	the		the\AT---6
+419	TOK	base		base\N5S
+420	TOK	of		of\P
+421	TOK	its		its\APS3N6
+422	TOK	brain		brain\N5S
+423	TOK	that		that\RW63N6
+424	TOK	is		be\V6FDRS3
+425	TOK	involved		involve\VMC----
+426	TOK	in		in\P
+427	TOK	instinctive		instinctive\JA
+428	TOK	behaviors		behavior\N5P
+429	TOK	and		and\CC
+430	TOK	the		the\AT---6
+431	TOK	regulation		regulation\N5S
+432	TOK	of		of\P
+433	TOK	metabolism		metabolism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+434	TOK	He	BOS	he\RPS3MN
+435	TOK	found		find\VMF6A66
+436	TOK	that		that\CS
+437	TOK	one		one\MCS
+438	TOK	group		group\N5S
+439	TOK	of		of\P
+440	TOK	cells		cell\N5P
+441	TOK	near		near\P
+442	TOK	the		the\AT---6
+443	TOK	front		front\N5S
+444	TOK	of		of\P
+445	TOK	the		the\AT---6
+446	TOK	hypothalamus		hypothalamus\N5S
+447	TOK	is		be\V6FDRS3
+448	TOK	several		several\JA
+449	TOK	times		time\N5P
+450	TOK	larger		large\JC
+451	TOK	in		in\P
+452	TOK	male		male\N5S
+453	TOK	than		than\CS
+454	TOK	in		in\P
+455	TOK	female		female\N5S
+456	TOK	rats		rat\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+457	TOK	Although	BOS	although\CS
+458	TOK	this		this\AD---S
+459	TOK	cell		cell\N5S
+460	TOK	group		group\N5S
+461	TOK	is		be\V6FDRS3
+462	TOK	very		very\JA
+463	TOK	small		small\JA
+---	DLD	,		=\DELIM
+464	TOK	less		less\DDC7
+465	TOK	than		than\CS
+466	TOK	a		a\AI---S
+467	TOK	millimeter		millimeter\N5S
+468	TOK	across		across\P
+469	TOK	even		even\DGA7
+470	TOK	in		in\P
+471	TOK	males		male\N5P
+---	DLD	,		=\DELIM
+472	TOK	the		the\AT---6
+473	TOK	difference		difference\N5S
+474	TOK	between		between\P
+475	TOK	the		the\AT---6
+476	TOK	sexes		sex\N5P
+477	TOK	is		be\V6FDRS3
+478	TOK	quite		quite\DGA7
+479	TOK	visible		visible\JA
+480	TOK	in		in\P
+481	TOK	appropriately		appropriately\DGA7
+482	TOK	stained		stain\VMC----
+483	TOK	slices		slice\N5P
+484	TOK	of		of\P
+485	TOK	tissue		tissue\N5S
+---	DLD	,		=\DELIM
+486	TOK	even		even\DGA7
+487	TOK	without		without\P
+488	TOK	the		the\AT---6
+489	TOK	aid		aid\N5S
+490	TOK	of		of\P
+491	TOK	a		a\AI---S
+492	TOK	microscope		microscope\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+493	TOK	Gorski	BOS	Gorski\N46
+##	TAG	</name>
+494	PGR	's		genmark\GENMARK
+495	TOK	finding		finding\N5S
+496	TOK	was		be\V6F-A66
+497	TOK	especially		especially\DGA7
+498	TOK	interesting		interesting\JA
+499	TOK	because		because\CS
+500	TOK	the		the\AT---6
+501	TOK	general		general\JA
+502	TOK	region		region\N5S
+503	TOK	of		of\P
+504	TOK	the		the\AT---6
+505	TOK	hypothalamus		hypothalamus\N5S
+506	TOK	in		in\P
+507	TOK	which		which\RW63N-
+508	TOK	this		this\AD---S
+509	TOK	cell		cell\N5S
+510	TOK	group		group\N5S
+511	TOK	occurs		occur\VMFDRS3
+---	DLD	,		=\DELIM
+512	TOK	known		know\VMC----
+513	TOK	as		as\P
+514	TOK	the		the\AT---6
+515	TOK	medial		medial\JA
+516	TOK	preoptic		preoptic\JA
+517	TOK	area		area\N5S
+---	DLD	,		=\DELIM
+518	TOK	has		have\V6FDRS3
+519	TOK	been		be\VMC----
+520	TOK	implicated		implicate\VMC----
+521	TOK	in		in\P
+522	TOK	the		the\AT---6
+523	TOK	generation		generation\N5S
+524	TOK	of		of\P
+525	TOK	sexual		sexual\JA
+526	TOK	behavior		behavior\N5S
+---	DLD	-		=\DELIM
+527	TOK	in		in\P
+528	TOK	particular		particular\JA
+---	DLD	,		=\DELIM
+529	TOK	behaviors		behavior\N5P
+530	TOK	typically		typically\DGA7
+531	TOK	displayed		display\VMF6A66
+532	TOK	by		by\P
+533	TOK	males		male\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+534	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+535	TOK	male		male\N5S
+536	TOK	monkeys		monkey\N5P
+537	TOK	with		with\P
+538	TOK	damaged		damage\VMC----
+539	TOK	medial		medial\JA
+540	TOK	preoptic		preoptic\JA
+541	TOK	areas		area\N5P
+542	TOK	are		be\V6FDR66
+543	TOK	apparently		apparently\DGA7
+544	TOK	indifferent		indifferent\JA
+545	TOK	to		to\P
+546	TOK	sex		sex\N5S
+547	TOK	with		with\P
+548	TOK	female		female\N5S
+549	TOK	monkeys		monkey\N5P
+---	DLD	,		=\DELIM
+550	TOK	and		and\CC
+551	TOK	electrical		electrical\JA
+552	TOK	stimulation		stimulation\N5S
+553	TOK	of		of\P
+554	TOK	this		this\AD---S
+555	TOK	region		region\N5S
+556	TOK	can		can\VOFDR66
+557	TOK	make		make\VMI----
+558	TOK	an		an\AI---S
+559	TOK	inactive		inactive\JA
+560	TOK	male		male\N5S
+561	TOK	monkey		monkey\N5S
+562	TOK	approach		approach\N5S
+563	TOK	and		and\CC
+564	TOK	mount		mount\VMI----
+565	TOK	a		a\AI---S
+566	TOK	female		female\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+567	TOK	It	BOS	it\RPS3N6
+568	TOK	should		shall\VOFDA66
+569	TOK	be		be\VMI----
+570	TOK	said		say\VMF6A66
+---	DLD	,		=\DELIM
+571	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+572	TOK	that		that\CS
+573	TOK	we		we\RPP1NN
+574	TOK	have		have\V6F6R66
+575	TOK	yet		yet\DGA7
+576	TOK	to		to\P
+577	TOK	find		find\VMI----
+578	TOK	in		in\P
+579	TOK	monkeys		monkey\N5P
+580	TOK	a		a\AI---S
+581	TOK	cell		cell\N5S
+582	TOK	group		group\N5S
+583	TOK	analogous		analogous\JA
+584	TOK	to		to\P
+585	TOK	the		the\AT---6
+586	TOK	sexually		sexually\DGA7
+587	TOK	dimorphic		dimorphic\JA
+588	TOK	one		one\RIS3N-
+589	TOK	occurring		occur\VMG----
+590	TOK	in		in\P
+591	TOK	rats		rat\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+592	TOK	Nor	BOS	nor\CC
+593	TOK	is		be\V6FDRS3
+594	TOK	the		the\AT---6
+595	TOK	exact		exact\JA
+596	TOK	function		function\N5S
+597	TOK	of		of\P
+598	TOK	the		the\AT---6
+599	TOK	rat		rat\N5S
+600	PGR	's		be\V6FDRS3
+601	TOK	sexually		sexually\DGA7
+602	TOK	dimorphic		dimorphic\JA
+603	TOK	cell		cell\N5S
+604	TOK	group		group\N5S
+605	TOK	known		know\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+606	TOK	What	BOS	what\RW63N-
+607	TOK	is		be\V6FDRS3
+608	TOK	known		know\VMC----
+---	DLD	,		=\DELIM
+609	TOK	from		from\P
+610	TOK	a		a\AI---S
+611	TOK	study		study\N5S
+612	TOK	by		by\P
+##	TAG	<name>
+613	TOK	Gorski		Gorski\N46
+##	TAG	</name>
+614	TOK	and		and\CC
+615	TOK	his		his\APS3M6
+616	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+617	TOK	workers		worker\N5P
+---	DLD	,		=\DELIM
+618	TOK	is		be\V6FDRS3
+619	TOK	that		that\CS
+620	TOK	androgens		androgen\N5P
+---	DLD	-		=\DELIM
+621	TOK	typical		typical\JA
+622	TOK	male		male\N5S
+623	TOK	hormones		hormone\N5P
+---	DLI	-		=\DELIM
+624	TOK	play		play\VMF6R66
+625	TOK	a		a\AI---S
+626	TOK	key		key\N5S
+627	TOK	role		role\N5S
+628	TOK	in		in\P
+629	TOK	bringing		bring\VMG----
+630	TOK	about		about\P
+631	TOK	the		the\AT---6
+632	TOK	dimorphism		dimorphism\N5S
+633	TOK	during		during\P
+634	TOK	development		development\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+635	TOK	Neurons	BOS	neuron\N5P
+636	TOK	within		within\P
+637	TOK	the		the\AT---6
+638	TOK	cell		cell\N5S
+639	TOK	group		group\N5S
+640	TOK	are		be\V6FDR66
+641	TOK	rich		rich\JA
+642	TOK	in		in\P
+643	TOK	receptors		receptor\N5P
+644	TOK	for		for\P
+645	TOK	sex		sex\N5S
+646	TOK	hormones		hormone\N5P
+---	DLD	,		=\DELIM
+647	TOK	both		both\RIP3N-
+648	TOK	for		for\P
+649	TOK	androgens		androgen\N5P
+---	DLI	-		=\DELIM
+650	TOK	testosterone		testosterone\N5S
+651	TOK	is		be\V6FDRS3
+652	TOK	the		the\AT---6
+653	TOK	main		main\JA
+654	TOK	representative		representative\JA
+---	DLI	-		=\DELIM
+655	TOK	and		and\CC
+656	TOK	for		for\P
+657	TOK	female		female\N5S
+658	TOK	hormones		hormone\N5P
+659	TOK	known		know\VMC----
+660	TOK	as		as\P
+661	TOK	estrogens		estrogen\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+662	TOK	Although	BOS	although\CS
+663	TOK	male		male\N5S
+664	TOK	and		and\CC
+665	TOK	female		female\N5S
+666	TOK	rats		rat\N5P
+667	TOK	initially		initially\DGA7
+668	TOK	have		have\V6F6R66
+669	TOK	about		about\P
+670	TOK	the		the\AT---6
+671	TOK	same		same\JA
+672	TOK	numbers		number\N5P
+673	TOK	of		of\P
+674	TOK	neurons		neuron\N5P
+675	TOK	in		in\P
+676	TOK	the		the\AT---6
+677	TOK	medial		medial\JA
+678	TOK	preoptic		preoptic\JA
+679	TOK	area		area\N5S
+---	DLD	,		=\DELIM
+680	TOK	a		a\AI---S
+681	TOK	surge		surge\N5S
+682	TOK	of		of\P
+683	TOK	testosterone		testosterone\N5S
+684	TOK	secreted		secrete\VMC----
+685	TOK	by		by\P
+686	TOK	the		the\AT---6
+687	TOK	testes		testis\N5P
+688	TOK	of		of\P
+689	TOK	male		male\N5S
+690	TOK	fetuses		fetus\N5P
+691	TOK	around		around\P
+692	TOK	the		the\AT---6
+693	TOK	time		time\N5S
+694	TOK	of		of\P
+695	TOK	birth		birth\N5S
+696	TOK	acts		act\VMFDRS3
+697	TOK	to		to\P
+698	TOK	stabilize		stabilize\VMI----
+699	TOK	their		their\APP3N6
+700	TOK	neuronal		neuronal\JA
+701	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+702	TOK	In	BOS	in\P
+703	TOK	females		female\N5P
+704	TOK	the		the\AT---6
+705	TOK	lack		lack\N5S
+706	TOK	of		of\P
+707	TOK	such		such\JA
+708	TOK	a		a\AI---S
+709	TOK	surge		surge\N5S
+710	TOK	allows		allow\VMFDRS3
+711	TOK	many		many\AI---P
+712	TOK	neurons		neuron\N5P
+713	TOK	in		in\P
+714	TOK	this		this\AD---S
+715	TOK	cell		cell\N5S
+716	TOK	group		group\N5S
+717	TOK	to		to\P
+718	TOK	die		die\VMI----
+---	DLD	,		=\DELIM
+719	TOK	leading		leading\JA
+720	TOK	to		to\P
+721	TOK	the		the\AT---6
+722	TOK	typically		typically\DGA7
+723	TOK	smaller		small\JC
+724	TOK	structure		structure\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+725	TOK	Interestingly	BOS	interestingly\DGA7
+---	DLD	,		=\DELIM
+726	TOK	it		it\RPS3N6
+727	TOK	is		be\V6FDRS3
+728	TOK	only		only\DGA7
+729	TOK	for		for\P
+##	TAG	<loc pos="RP63N-">
+730	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+731	TOK	days		day\N5P
+732	TOK	before		before\P
+733	TOK	and		and\CC
+734	TOK	after		after\P
+735	TOK	birth		birth\N5S
+736	TOK	that		that\CS
+737	TOK	the		the\AT---6
+738	TOK	medial		medial\JA
+739	TOK	preoptic		preoptic\JA
+740	TOK	neurons		neuron\N5P
+741	TOK	are		be\V6FDR66
+742	TOK	sensitive		sensitive\JA
+743	TOK	to		to\P
+744	TOK	androgen		androgen\N5S
+---	DLD	;		=\DELIM
+745	TOK	removing		remove\VMG----
+746	TOK	androgens		androgen\N5P
+747	TOK	in		in\P
+748	TOK	an		an\AI---S
+749	TOK	adult		adult\N5S
+750	TOK	rat		rat\N5S
+751	TOK	by		by\P
+752	TOK	castration		castration\N5S
+753	TOK	does		do\V6FDRS3
+754	TOK	not		not\DGA7
+755	TOK	cause		cause\VMI----
+756	TOK	the		the\AT---6
+757	TOK	neurons		neuron\N5P
+758	TOK	to		to\P
+759	TOK	die		die\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+760	TOK	Gorski	BOS	Gorski\N46
+##	TAG	</name>
+761	TOK	and		and\CC
+762	TOK	his		his\APS3M6
+763	TOK	colleagues		colleague\N5P
+764	TOK	at		at\P
+##	TAG	<abbr>
+765	TOK	U.C.L.A.		U.C.L.A.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+766	TOK	especially		especially\DGA7
+767	TOK	his		his\APS3M6
+768	TOK	student		student\N5S
+##	TAG	<name>
+769	TOK	Laura		Laura\N46
+##	TAG	</name>
+##	TAG	<abbr>
+770	TOK	S.		S.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+771	TOK	Allen		Allen\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+772	TOK	have		have\V6F6R66
+773	TOK	also		also\DGA7
+774	TOK	found		find\VMC----
+775	TOK	dimorphic		dimorphic\JA
+776	TOK	structures		structure\N5P
+777	TOK	in		in\P
+778	TOK	the		the\AT---6
+779	TOK	human		human\JA
+780	TOK	brain		brain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+781	TOK	A	BOS	a\AI---S
+782	TOK	cell		cell\N5S
+783	TOK	group		group\N5S
+784	TOK	named		name\VMC----
+##	TAG	<name>
+785	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+786	TOK	derived		derive\VMC----
+787	TOK	from		from\P
+---	DLE	«		=\DELIM
+788	TOK	third		third\MOS
+789	TOK	interstitial		interstitial\JA
+790	TOK	nucleus		nucleus\N5S
+791	TOK	of		of\P
+792	TOK	the		the\AT---6
+793	TOK	anterior		anterior\JA
+794	TOK	hypothalamus»)in		hypothalamus»)in\N5S
+795	TOK	the		the\AT---6
+796	TOK	medial		medial\JA
+797	TOK	preoptic		preoptic\JA
+798	TOK	region		region\N5S
+799	TOK	of		of\P
+800	TOK	the		the\AT---6
+801	TOK	hypothalamus		hypothalamus\N5S
+802	TOK	is		be\V6FDRS3
+803	TOK	about		about\DGA7
+##	TAG	<num>
+804	TOK	three		three\X
+##	TAG	</num>
+805	TOK	times		time\N5P
+806	TOK	larger		large\JC
+807	TOK	in		in\P
+808	TOK	men		man\N5P
+809	TOK	than		than\CS
+810	TOK	in		in\P
+811	TOK	women		woman\N5P
+---	DLD	.		=\DELIM
+---	DLD	(		=\DELIM
+##	TAG	<name>
+812	TOK	Notably		Notably\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+813	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+814	TOK	size		size\N5S
+815	TOK	varies		vary\VMFDRS3
+816	TOK	considerably		considerably\DGA7
+817	TOK	even		even\DGA7
+818	TOK	within		within\P
+819	TOK	one		one\MCS
+820	TOK	sex		sex\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+821	TOK	In	BOS	in\P
+##	TAG	<num>
+822	TOK	1990		1990\X
+##	TAG	</num>
+823	TOK	one		one\RIS3N-
+824	TOK	of		of\P
+825	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+826	TOK	LeVay		LeVay\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+827	TOK	decided		decide\VMC----
+828	TOK	to		to\P
+829	TOK	check		check\VMI----
+830	TOK	whether		whether\CS
+##	TAG	<name>
+831	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+832	TOK	or		or\CC
+833	TOK	some		some\AG---6
+834	TOK	other		other\JA
+835	TOK	cell		cell\N5S
+836	TOK	group		group\N5S
+837	TOK	in		in\P
+838	TOK	the		the\AT---6
+839	TOK	medial		medial\JA
+840	TOK	preoptic		preoptic\JA
+841	TOK	area		area\N5S
+842	TOK	varies		vary\VMFDRS3
+843	TOK	in		in\P
+844	TOK	size		size\N5S
+845	TOK	with		with\P
+846	TOK	sexual		sexual\JA
+847	TOK	orientation		orientation\N5S
+##	TAG	<loc pos="DGA7">
+848	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+849	TOK	with		with\P
+850	TOK	sex		sex\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+851	TOK	This	BOS	this\AD---S
+852	TOK	hypothesis		hypothesis\N5S
+853	TOK	was		be\V6F-A66
+854	TOK	something		something\RIS3N-
+855	TOK	of		of\P
+856	TOK	a		a\AI---S
+857	TOK	long		long\DGA7
+858	TOK	shot		shoot\VMF6A66
+---	DLD	,		=\DELIM
+859	TOK	given		give\VMC----
+860	TOK	the		the\AT---6
+861	TOK	prevailing		prevail\VMG----
+862	TOK	notion		notion\N5S
+863	TOK	that		that\CS
+864	TOK	sexual		sexual\JA
+865	TOK	orientation		orientation\N5S
+866	TOK	is		be\V6FDRS3
+867	TOK	a		a\AI---S
+---	DLE	«		=\DELIM
+868	TOK	high		high\JA
+---	DLI	-		=\DELIM
+869	TOK	level		level\VMF6R66
+---	DLD	»		=\DELIM
+870	TOK	aspect		aspect\N5S
+871	TOK	of		of\P
+872	TOK	personality		personality\N5S
+873	TOK	molded		mold\VMC----
+874	TOK	by		by\P
+875	TOK	environment		environment\N5S
+876	TOK	and		and\CC
+877	TOK	culture		culture\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+878	TOK	Information	BOS	information\N5S
+879	TOK	from		from\P
+880	TOK	such		such\RIS3N-
+881	TOK	elevated		elevate\VMC----
+882	TOK	sources		source\N5P
+883	TOK	is		be\V6FDRS3
+884	TOK	thought		think\VMC----
+885	TOK	to		to\P
+886	TOK	be		be\VMI----
+887	TOK	processed		process\VMC----
+888	TOK	primarily		primarily\DGA7
+889	TOK	by		by\P
+890	TOK	the		the\AT---6
+891	TOK	cerebral		cerebral\JA
+892	TOK	cortex		cortex\N5S
+893	TOK	and		and\CC
+894	TOK	not		not\DGA7
+895	TOK	by		by\P
+---	DLE	«		=\DELIM
+896	TOK	lower		low\JC
+---	DLD	»		=\DELIM
+897	TOK	centers		center\N5P
+898	TOK	such		such\RIS3N-
+899	TOK	as		as\P
+900	TOK	the		the\AT---6
+901	TOK	hypothalamus		hypothalamus\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+902	TOK	LeVay	BOS	LeVay\N46
+##	TAG	</name>
+903	TOK	examined		examine\VMF6A66
+904	TOK	the		the\AT---6
+905	TOK	hypothalamus		hypothalamus\N5S
+906	TOK	in		in\P
+907	TOK	autopsy		autopsy\N5S
+908	TOK	specimens		specimen\N5P
+909	TOK	from		from\P
+##	TAG	<num>
+910	TOK	19		19\X
+##	TAG	</num>
+911	TOK	homosexual		homosexual\JA
+912	TOK	men		man\N5P
+---	DLD	,		=\DELIM
+913	TOK	all		all\AG---6
+914	TOK	of		of\P
+915	TOK	whom		whom\RW63NA
+916	TOK	had		have\V6F6A66
+917	TOK	died		die\VMC----
+918	TOK	of		of\P
+919	TOK	complications		complication\N5P
+920	TOK	of		of\P
+##	TAG	<name>
+921	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+922	TOK	and		and\CC
+##	TAG	<num>
+923	TOK	16		16\X
+##	TAG	</num>
+924	TOK	heterosexual		heterosexual\JA
+925	TOK	men		man\N5P
+---	DLD	,		=\DELIM
+##	TAG	<num>
+926	TOK	six		six\X
+##	TAG	</num>
+927	TOK	of		of\P
+928	TOK	whom		whom\RW63NA
+929	TOK	had		have\V6F6A66
+930	TOK	also		also\DGA7
+931	TOK	died		die\VMF6A66
+932	TOK	of		of\P
+##	TAG	<abbr>
+933	TOK	AIDS.		AIDS.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+934	TOK	The		The\N5P
+935	TOK	sexual		sexual\JA
+936	TOK	orientation		orientation\N5S
+937	TOK	of		of\P
+938	TOK	those		that\RDP3N-
+939	TOK	who		who\RW63N-
+940	TOK	had		have\V6F6A66
+941	TOK	died		die\VMC----
+942	TOK	of		of\P
+943	TOK	non		non\N5P
+---	DLD	-		=\DELIM
+##	TAG	<name>
+944	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+945	TOK	causes		cause\N5P
+946	TOK	was		be\V6F-A66
+947	TOK	not		not\DGA7
+948	TOK	determined		determine\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+949	TOK	But	BOS	but\CC
+950	TOK	assuming		assume\VMG----
+951	TOK	a		a\AI---S
+952	TOK	distribution		distribution\N5S
+953	TOK	similar		similar\JA
+954	TOK	to		to\P
+955	TOK	that		that\RDS3N-
+956	TOK	of		of\P
+957	TOK	the		the\AT---6
+958	TOK	general		general\JA
+959	TOK	populace,no		populace,no\N5S
+960	TOK	more		more\DDC7
+961	TOK	than		than\CS
+962	TOK	one		one\MCS
+963	TOK	or		or\CC
+##	TAG	<num>
+964	TOK	two		two\X
+##	TAG	</num>
+965	TOK	of		of\P
+966	TOK	them		them\RPP3NA
+967	TOK	were		be\V6F-A66
+968	TOK	likely		likely\JA
+969	TOK	to		to\P
+970	TOK	have		have\VMI----
+971	TOK	been		be\VMC----
+972	TOK	gay		gay\DGA7
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+973	TOK	LeVay	BOS	LeVay\N46
+##	TAG	</name>
+974	TOK	also		also\DGA7
+975	TOK	included		include\VMF6A66
+976	TOK	specimens		specimen\N5P
+977	TOK	from		from\P
+##	TAG	<num>
+978	TOK	six		six\X
+##	TAG	</num>
+979	TOK	women		woman\N5P
+980	TOK	whose		whose\AW---6
+981	TOK	sexual		sexual\JA
+982	TOK	orientation		orientation\N5S
+983	TOK	was		be\V6F-A66
+984	TOK	unknown		unknown\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+985	TOK	After	BOS	after\P
+986	TOK	encoding		encode\VMG----
+987	TOK	the		the\AT---6
+988	TOK	specimens		specimen\N5P
+989	TOK	to		to\P
+990	TOK	eliminate		eliminate\VMI----
+991	TOK	subjective		subjective\JA
+992	TOK	bias		bias\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+993	TOK	LeVay		LeVay\N46
+##	TAG	</name>
+994	TOK	cut		cut\VMF6A66
+995	TOK	Each		Each\N5S
+996	TOK	hypothalamus		hypothalamus\N5S
+997	TOK	into		into\P
+998	TOK	serial		serial\JA
+999	TOK	slices		slice\N5P
+---	DLD	,		=\DELIM
+1000	TOK	stained		stain\VMF6A66
+1001	TOK	these		this\RDP3N-
+1002	TOK	to		to\P
+1003	TOK	mark		mark\VMI----
+1004	TOK	the		the\AT---6
+1005	TOK	neuronal		neuronal\JA
+1006	TOK	cell		cell\N5S
+1007	TOK	groups		group\N5P
+1008	TOK	and		and\CC
+1009	TOK	measured		measure\VMF6A66
+1010	TOK	their		their\APP3N6
+1011	TOK	cross		cross\VMF6R66
+---	DLI	-		=\DELIM
+1012	TOK	sectional		sectional\JA
+1013	TOK	areas		area\N5P
+1014	TOK	under		under\P
+1015	TOK	a		a\AI---S
+1016	TOK	microscope		microscope\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1017	TOK	Armed	BOS	arm\VMC----
+1018	TOK	With		With\N5S
+1019	TOK	information		information\N5S
+1020	TOK	about		about\P
+1021	TOK	the		the\AT---6
+1022	TOK	areas		area\N5P
+---	DLD	,		=\DELIM
+1023	TOK	plus		plus\CS
+1024	TOK	the		the\AT---6
+1025	TOK	thickness		thickness\N5S
+1026	TOK	of		of\P
+1027	TOK	the		the\AT---6
+1028	TOK	slices		slice\N5P
+---	DLD	,		=\DELIM
+1029	TOK	he		he\RPS3MN
+1030	TOK	could		can\VOFDA66
+1031	TOK	readily		readily\DGA7
+1032	TOK	calculate		calculate\VMI----
+1033	TOK	the		the\AT---6
+1034	TOK	volumes		volume\N5P
+1035	TOK	of		of\P
+1036	TOK	each		each\AG---S
+1037	TOK	cell		cell\N5S
+1038	TOK	group		group\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1039	TOK	In	BOS	in\P
+1040	TOK	addition		addition\N5S
+1041	TOK	to		to\P
+##	TAG	<name>
+1042	TOK	Allen		Allen\N46
+##	TAG	</name>
+1043	TOK	and		and\CC
+##	TAG	<name>
+1044	TOK	Gorski		Gorski\N46
+##	TAG	</name>
+1045	PGR	's		be\V6FDRS3
+1046	TOK	sexually		sexually\DGA7
+1047	TOK	dimorphic		dimorphic\JA
+1048	TOK	nucleus		nucleus\N5S
+##	TAG	<name>
+1049	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1050	TOK	LeVay		LeVay\N46
+##	TAG	</name>
+1051	TOK	examined		examine\VMF6A66
+##	TAG	<num>
+1052	TOK	three		three\X
+##	TAG	</num>
+1053	TOK	other		other\JA
+1054	TOK	nearby		nearby\JA
+1055	TOK	groups		group\N5P
+---	DLD	-		=\DELIM
+##	TAG	<name>
+1056	TOK	INAH1		INAH1\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1057	TOK	INAH2		INAH2\N46
+##	TAG	</name>
+1058	TOK	and		and\CC
+##	TAG	<name>
+1059	TOK	INAH4		INAH4\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1060	TOK	Like	BOS	like\P
+##	TAG	<name>
+1061	TOK	Allen		Allen\N46
+##	TAG	</name>
+1062	TOK	and		and\CC
+##	TAG	<name>
+1063	TOK	Gorski		Gorski\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1064	TOK	LeVay		LeVay\N46
+##	TAG	</name>
+1065	TOK	observed		observe\VMF6A66
+1066	TOK	that		that\CS
+##	TAG	<name>
+1067	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+1068	TOK	was		be\V6F-A66
+1069	TOK	more		more\DDC7
+1070	TOK	than		than\CS
+1071	TOK	twice		twice\DGA7
+1072	TOK	as		as\DGA7
+1073	TOK	large		large\JA
+1074	TOK	in		in\P
+1075	TOK	the		the\AT---6
+1076	TOK	men		man\N5P
+1077	TOK	as		as\CS
+1078	TOK	in		in\P
+1079	TOK	the		the\AT---6
+1080	TOK	women		woman\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1081	TOK	But	BOS	but\CC
+##	TAG	<name>
+1082	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+1083	TOK	was		be\V6F-A66
+1084	TOK	also		also\DGA7
+1085	TOK	between		between\P
+##	TAG	<num>
+1086	TOK	two		two\X
+##	TAG	</num>
+1087	TOK	and		and\CC
+##	TAG	<num>
+1088	TOK	three		three\X
+##	TAG	</num>
+1089	TOK	times		time\N5P
+1090	TOK	larger		large\JC
+1091	TOK	in		in\P
+1092	TOK	the		the\AT---6
+1093	TOK	straight		straight\JA
+1094	TOK	men		man\N5P
+1095	TOK	than		than\CS
+1096	TOK	in		in\P
+1097	TOK	the		the\AT---6
+1098	TOK	gay		gay\JA
+1099	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1100	TOK	In	BOS	in\P
+1101	TOK	some		some\AG---6
+1102	TOK	gay		gay\JA
+1103	TOK	men		man\N5P
+---	DLD	,		=\DELIM
+1104	TOK	as		as\DGA7
+1105	TOK	in		in\P
+1106	TOK	the		the\AT---6
+1107	TOK	example		example\N5S
+1108	TOK	shown		show\VMC----
+1109	TOK	at		at\P
+1110	TOK	the		the\AT---6
+1111	TOK	top		top\N5S
+1112	TOK	of		of\P
+1113	TOK	the		the\AT---6
+1114	TOK	opposite		opposite\JA
+1115	TOK	page		page\N5S
+---	DLD	,		=\DELIM
+1116	TOK	the		the\AT---6
+1117	TOK	cell		cell\N5S
+1118	TOK	group		group\N5S
+1119	TOK	was		be\V6F-A66
+1120	TOK	altogether		altogether\DGA7
+1121	TOK	absent		absent\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1122	TOK	Statistical	BOS	statistical\JA
+1123	TOK	analysis		analysis\N5S
+1124	TOK	indicated		indicate\VMF6A66
+1125	TOK	that		that\CS
+1126	TOK	the		the\AT---6
+1127	TOK	probability		probability\N5S
+1128	TOK	of		of\P
+1129	TOK	this		this\AD---S
+1130	TOK	result		result\N5S
+1131	PGR	's		be\V6FDRS3
+1132	TOK	being		be\VMG----
+1133	TOK	attributed		attribute\VMC----
+1134	TOK	to		to\P
+1135	TOK	chance		chance\N5S
+1136	TOK	was		be\V6F-A66
+1137	TOK	about		about\DGA7
+1138	TOK	one		one\MCS
+1139	TOK	in		in\P
+##	TAG	<num>
+1140	TOK	1,000		1,000\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1141	TOK	In	BOS	in\P
+1142	TOK	fact		fact\N5S
+---	DLD	,		=\DELIM
+1143	TOK	there		there\DGA7
+1144	TOK	was		be\V6F-A66
+1145	TOK	no		no\AI---6
+1146	TOK	significant		significant\JA
+1147	TOK	difference		difference\N5S
+1148	TOK	between		between\P
+1149	TOK	volumes		volume\N5P
+1150	TOK	of		of\P
+##	TAG	<name>
+1151	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+1152	TOK	in		in\P
+1153	TOK	the		the\AT---6
+1154	TOK	gay		gay\JA
+1155	TOK	men		man\N5P
+1156	TOK	and		and\CC
+1157	TOK	in		in\P
+1158	TOK	the		the\AT---6
+1159	TOK	women		woman\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1160	TOK	So	BOS	so\CC
+1161	TOK	the		the\AT---6
+1162	TOK	investigation		investigation\N5S
+1163	TOK	suggested		suggest\VMF6A66
+1164	TOK	a		a\AI---S
+1165	TOK	dimorphism		dimorphism\N5S
+1166	TOK	related		relate\VMC----
+1167	TOK	to		to\P
+1168	TOK	male		male\N5S
+1169	TOK	sexual		sexual\JA
+1170	TOK	orientation		orientation\N5S
+1171	TOK	about		about\DGA7
+1172	TOK	as		as\DGA7
+1173	TOK	great		great\JA
+1174	TOK	as		as\CS
+1175	TOK	that		that\RDS3N-
+1176	TOK	related		relate\VMC----
+1177	TOK	to		to\P
+1178	TOK	sex		sex\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1179	TOK	A	BOS	a\AI---S
+1180	TOK	primary		primary\JA
+1181	TOK	concern		concern\N5S
+1182	TOK	in		in\P
+1183	TOK	such		such\JA
+1184	TOK	a		a\AI---S
+1185	TOK	study		study\N5S
+1186	TOK	is		be\V6FDRS3
+1187	TOK	whether		whether\CS
+1188	TOK	the		the\AT---6
+1189	TOK	observed		observe\VMC----
+1190	TOK	structural		structural\JA
+1191	TOK	differences		difference\N5P
+1192	TOK	are		be\V6FDR66
+1193	TOK	caused		cause\VMC----
+1194	TOK	by		by\P
+1195	TOK	some		some\AG---6
+1196	TOK	variable		variable\JA
+1197	TOK	other		other\JA
+1198	TOK	than		than\CS
+1199	TOK	the		the\AT---6
+1200	TOK	one		one\MCS
+1201	TOK	of		of\P
+1202	TOK	interest		interest\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1203	TOK	A	BOS	a\AI---S
+1204	TOK	major		major\JA
+1205	TOK	suspect		suspect\N5S
+1206	TOK	here		here\DGA7
+1207	TOK	was		be\V6F-A66
+##	TAG	<name>
+1208	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1209	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1210	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+1211	TOK	virus		virus\N5S
+1212	TOK	itself		itself\RXS3N-
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1213	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+1214	TOK	other		other\JA
+1215	TOK	infectious		infectious\JA
+1216	TOK	agents		agent\N5P
+1217	TOK	that		that\RW63N6
+1218	TOK	take		take\VMF6R66
+1219	TOK	advantage		advantage\N5S
+1220	TOK	of		of\P
+1221	TOK	a		a\AI---S
+1222	TOK	weakened		weaken\VMC----
+1223	TOK	immune		immune\JA
+1224	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+1225	TOK	can		can\VOFDR66
+1226	TOK	cause		cause\VMI----
+1227	TOK	serious		serious\JA
+1228	TOK	damage		damage\N5S
+1229	TOK	to		to\P
+1230	TOK	brain		brain\N5S
+1231	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+1232	TOK	Was		wa\N5P
+1233	TOK	this		this\DGA7
+1234	TOK	the		the\AT---6
+1235	TOK	reason		reason\N5S
+1236	TOK	for		for\P
+1237	TOK	the		the\AT---6
+1238	TOK	small		small\JA
+1239	TOK	size		size\N5S
+1240	TOK	of		of\P
+##	TAG	<name>
+1241	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+1242	TOK	in		in\P
+1243	TOK	the		the\AT---6
+1244	TOK	gay		gay\JA
+1245	TOK	men		man\N5P
+---	DLD	,		=\DELIM
+1246	TOK	all		all\AG---6
+1247	TOK	of		of\P
+1248	TOK	whom		whom\RW63NA
+1249	TOK	had		have\V6F6A66
+1250	TOK	died		die\VMC----
+1251	TOK	of		of\P
+##	TAG	<name>
+1252	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1253	TOK	Several	BOS	several\JA
+1254	TOK	lines		line\N5P
+1255	TOK	of		of\P
+1256	TOK	evidence		evidence\N5S
+1257	TOK	indicate		indicate\VMF6R66
+1258	TOK	otherwise		otherwise\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1259	TOK	First	BOS	first\MOS
+---	DLD	,		=\DELIM
+1260	TOK	the		the\AT---6
+1261	TOK	heterosexual		heterosexual\JA
+1262	TOK	men		man\N5P
+1263	TOK	who		who\RW63N-
+1264	TOK	died		die\VMF6A66
+1265	TOK	of		of\P
+##	TAG	<name>
+1266	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+1267	TOK	had		have\V6F6A66
+##	TAG	<name>
+1268	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+1269	TOK	volumes		volume\VMFDRS3
+1270	TOK	no		no\AI---6
+1271	TOK	different		different\JA
+1272	TOK	from		from\P
+1273	TOK	those		that\RDP3N-
+1274	TOK	who		who\RW63N-
+1275	TOK	died		die\VMF6A66
+1276	TOK	of		of\P
+1277	TOK	other		other\JA
+1278	TOK	causes		cause\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1279	TOK	Second	BOS	second\MOS
+---	DLD	,		=\DELIM
+1280	TOK	the		the\AT---6
+##	TAG	<name>
+1281	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+1282	TOK	victims		victim\N5P
+1283	TOK	with		with\P
+1284	TOK	small		small\JA
+##	TAG	<name>
+1285	TOK	INAH3s		INAH3s\N46
+##	TAG	</name>
+1286	TOK	did		do\V6FDA66
+1287	TOK	not		not\DGA7
+1288	TOK	have		have\VMI----
+1289	TOK	case		case\N5S
+1290	TOK	histories		history\N5P
+1291	TOK	distinct		distinct\JA
+1292	TOK	from		from\P
+1293	TOK	those		that\RDP3N-
+1294	TOK	with		with\P
+1295	TOK	large		large\JA
+##	TAG	<name>
+1296	TOK	INAH3s		INAH3s\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+##	TAG	<loc pos="DGA7">
+1297	TOK	for instance		for_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1298	TOK	they		they\RPP3NN
+1299	TOK	had		have\V6F6A66
+1300	TOK	not		not\DGA7
+1301	TOK	been		be\VMC----
+1302	TOK	ill		ill\DGA7
+1303	TOK	longer		long\JC
+1304	TOK	before		before\CS
+1305	TOK	they		they\RPP3NN
+1306	TOK	died		die\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1307	TOK	Third	BOS	third\MOS
+---	DLD	,		=\DELIM
+1308	TOK	the		the\AT---6
+1309	TOK	other		other\RIS3N-
+##	TAG	<num>
+1310	TOK	three		three\X
+##	TAG	</num>
+1311	TOK	cell		cell\N5S
+1312	TOK	groups		group\N5P
+1313	TOK	in		in\P
+1314	TOK	the		the\AT---6
+1315	TOK	medial		medial\JA
+1316	TOK	preoptic		preoptic\JA
+1317	TOK	area		area\N5S
+---	DLD	-		=\DELIM
+##	TAG	<name>
+1318	TOK	INAH1		INAH1\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1319	TOK	INAH2		INAH2\N46
+##	TAG	</name>
+1320	TOK	and		and\CC
+##	TAG	<name>
+1321	TOK	INAH4		INAH4\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1322	TOK	turned		turn\VMC----
+1323	TOK	out		out\DGA7
+1324	TOK	to		to\P
+1325	TOK	be		be\VMI----
+1326	TOK	no		no\AI---6
+1327	TOK	smaller		small\JC
+1328	TOK	in		in\P
+1329	TOK	the		the\AT---6
+##	TAG	<name>
+1330	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+1331	TOK	victims		victim\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1332	TOK	If	BOS	if\CS
+1333	TOK	the		the\AT---6
+1334	TOK	disease		disease\N5S
+1335	TOK	were		be\V6F-A66
+1336	TOK	having		have\VMG----
+1337	TOK	a		a\AI---S
+1338	TOK	nonspecific		nonspecific\JA
+1339	TOK	destructive		destructive\JA
+1340	TOK	effect		effect\N5S
+---	DLD	,		=\DELIM
+1341	TOK	one		one\RIS3N-
+1342	TOK	would		will\VOFDA66
+1343	TOK	have		have\VMI----
+1344	TOK	suspected		suspect\VMC----
+1345	TOK	otherwise		otherwise\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1346	TOK	Finally	BOS	finally\DGA7
+---	DLD	,		=\DELIM
+1347	TOK	after		after\P
+1348	TOK	completing		complete\VMG----
+1349	TOK	the		the\AT---6
+1350	TOK	main		main\JA
+1351	TOK	study		study\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1352	TOK	LeVay		LeVay\N46
+##	TAG	</name>
+1353	TOK	obtained		obtain\VMF6A66
+1354	TOK	the		the\AT---6
+1355	TOK	hypothalamus		hypothalamus\N5S
+1356	TOK	of		of\P
+1357	TOK	one		one\MCS
+1358	TOK	gay		gay\JA
+1359	TOK	man		man\N5S
+1360	TOK	who		who\RW63N-
+1361	TOK	had		have\V6F6A66
+1362	TOK	died		die\VMC----
+1363	TOK	of		of\P
+1364	TOK	non		non\N5P
+---	DLD	-		=\DELIM
+##	TAG	<name>
+1365	TOK	AIDS		AIDS\N46
+##	TAG	</name>
+1366	TOK	causes		cause\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1367	TOK	This	BOS	this\AD---S
+1368	TOK	specimen		specimen\N5S
+---	DLD	,		=\DELIM
+1369	TOK	processed		process\VMF6A66
+---	DLE	«		=\DELIM
+1370	TOK	blind		blind\JA
+---	DLD	»		=\DELIM
+##	TAG	<loc pos="P">
+1371	TOK	along with		along_with\P
+##	TAG	</loc>
+1372	TOK	several		several\JA
+1373	TOK	specimens		specimen\N5P
+1374	TOK	from		from\P
+1375	TOK	heterosexual		heterosexual\JA
+1376	TOK	men		man\N5P
+1377	TOK	of		of\P
+1378	TOK	similar		similar\JA
+1379	TOK	age		age\N5S
+---	DLD	,		=\DELIM
+1380	TOK	confirmed		confirm\VMF6A66
+1381	TOK	the		the\AT---6
+1382	TOK	main		main\JA
+1383	TOK	study		study\N5S
+---	DLD	:		=\DELIM
+1384	TOK	the		the\AT---6
+1385	TOK	volume		volume\N5S
+1386	TOK	of		of\P
+##	TAG	<name>
+1387	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+1388	TOK	in		in\P
+1389	TOK	the		the\AT---6
+1390	TOK	gay		gay\JA
+1391	TOK	man		man\N5S
+1392	TOK	was		be\V6F-A66
+1393	TOK	less		less\DDC7
+1394	TOK	than		than\CS
+1395	TOK	half		half\N5S
+1396	TOK	that		that\CS
+1397	TOK	of		of\P
+##	TAG	<name>
+1398	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+1399	TOK	in		in\P
+1400	TOK	the		the\AT---6
+1401	TOK	heterosexual		heterosexual\JA
+1402	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1403	TOK	One	BOS	one\RIS3N-
+1404	TOK	other		other\JA
+1405	TOK	feature		feature\N5S
+1406	TOK	in		in\P
+1407	TOK	brains		brain\N5P
+1408	TOK	that		that\RW63N6
+1409	TOK	is		be\V6FDRS3
+1410	TOK	related		relate\VMC----
+1411	TOK	to		to\P
+1412	TOK	sexual		sexual\JA
+1413	TOK	orientation		orientation\N5S
+1414	TOK	has		have\V6FDRS3
+1415	TOK	been		be\VMC----
+1416	TOK	reported		report\VMC----
+1417	TOK	by		by\P
+##	TAG	<name>
+1418	TOK	Allen		Allen\N46
+##	TAG	</name>
+1419	TOK	and		and\CC
+##	TAG	<name>
+1420	TOK	Gorski		Gorski\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1421	TOK	They	BOS	they\RPP3NN
+1422	TOK	found		find\VMF6A66
+1423	TOK	that		that\CS
+1424	TOK	the		the\AT---6
+1425	TOK	anterior		anterior\JA
+1426	TOK	commissure		commissure\N5S
+---	DLD	,		=\DELIM
+1427	TOK	a		a\AI---S
+1428	TOK	bundle		bundle\N5S
+1429	TOK	of		of\P
+1430	TOK	fibers		fiber\N5P
+1431	TOK	running		run\VMG----
+1432	TOK	across		across\P
+1433	TOK	the		the\AT---6
+1434	TOK	midline		midline\N5S
+1435	TOK	of		of\P
+1436	TOK	the		the\AT---6
+1437	TOK	brain		brain\N5S
+---	DLD	,		=\DELIM
+1438	TOK	is		be\V6FDRS3
+1439	TOK	smallest		small\JS
+1440	TOK	in		in\P
+1441	TOK	heterosexual		heterosexual\JA
+1442	TOK	men		man\N5P
+---	DLD	,		=\DELIM
+1443	TOK	larger		large\JC
+1444	TOK	in		in\P
+1445	TOK	women		woman\N5P
+1446	TOK	and		and\CC
+1447	TOK	largest		large\JS
+1448	TOK	in		in\P
+1449	TOK	gay		gay\JA
+1450	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1451	TOK	After	BOS	after\P
+1452	TOK	correcting		correct\VMG----
+1453	TOK	for		for\P
+1454	TOK	overall		overall\JA
+1455	TOK	brain		brain\N5S
+1456	TOK	size		size\N5S
+---	DLD	,		=\DELIM
+1457	TOK	the		the\AT---6
+1458	TOK	anterior		anterior\JA
+1459	TOK	commissure		commissure\N5S
+1460	TOK	in		in\P
+1461	TOK	women		woman\N5P
+1462	TOK	and		and\CC
+1463	TOK	in		in\P
+1464	TOK	gay		gay\JA
+1465	TOK	men		man\N5P
+1466	TOK	were		be\V6F-A66
+1467	TOK	comparable		comparable\JA
+1468	TOK	in		in\P
+1469	TOK	size		size\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+1470	TOK	What		What\N5S
+1471	TOK	might		may\VOFDR66
+1472	TOK	lie		lie\VMI----
+1473	TOK	behind		behind\DGA7
+1474	TOK	these		this\AD---P
+1475	TOK	apparent		apparent\JA
+1476	TOK	correlations		correlation\N5P
+1477	TOK	between		between\P
+1478	TOK	sexual		sexual\JA
+1479	TOK	orientation		orientation\N5S
+1480	TOK	and		and\CC
+1481	TOK	brain		brain\N5S
+1482	TOK	structure		structure\VMF6R66
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1483	TOK	Logically	BOS	logically\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1484	TOK	three		three\X
+##	TAG	</num>
+1485	TOK	possibilities		possibility\N5P
+1486	TOK	exist		exist\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1487	TOK	One	BOS	one\RIS3N-
+1488	TOK	is		be\V6FDRS3
+1489	TOK	that		that\CS
+1490	TOK	the		the\AT---6
+1491	TOK	structural		structural\JA
+1492	TOK	differences		difference\N5P
+1493	TOK	were		be\V6F-A66
+1494	TOK	present		present\JA
+1495	TOK	early		early\JA
+1496	TOK	in		in\P
+1497	TOK	life		life\N5S
+---	DLI	-		=\DELIM
+1498	TOK	perhaps		perhaps\DGA7
+1499	TOK	even		even\DGA7
+1500	TOK	before		before\CS
+1501	TOK	birth		birth\N5S
+---	DLI	-		=\DELIM
+1502	TOK	and		and\CC
+1503	TOK	helped		help\VMF6A66
+1504	TOK	to		to\P
+1505	TOK	establish		establish\VMI----
+1506	TOK	the		the\AT---6
+1507	TOK	men		man\N5P
+1508	PGR	's		genmark\GENMARK
+1509	TOK	sexual		sexual\JA
+1510	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1511	TOK	The	BOS	the\AT---6
+1512	TOK	second		second\MOS
+1513	TOK	is		be\V6FDRS3
+1514	TOK	that		that\CS
+1515	TOK	the		the\AT---6
+1516	TOK	differences		difference\N5P
+1517	TOK	arose		arise\VMF6A66
+1518	TOK	in		in\P
+1519	TOK	adult		adult\N5S
+1520	TOK	life		life\N5S
+1521	TOK	as		as\P
+1522	TOK	a		a\AI---S
+1523	TOK	result		result\N5S
+1524	TOK	of		of\P
+1525	TOK	the		the\AT---6
+1526	TOK	men		man\N5P
+1527	PGR	's		genmark\GENMARK
+1528	TOK	sexual		sexual\JA
+1529	TOK	feelings		feeling\N5P
+1530	TOK	or		or\CC
+1531	TOK	behavior		behavior\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1532	TOK	The	BOS	the\AT---6
+1533	TOK	third		third\MOS
+1534	TOK	possibility		possibility\N5S
+1535	TOK	is		be\V6FDRS3
+1536	TOK	that		that\CS
+1537	TOK	there		there\DGA7
+1538	TOK	is		be\V6FDRS3
+1539	TOK	no		no\AI---6
+1540	TOK	causal		causal\JA
+1541	TOK	connection		connection\N5S
+---	DLD	,		=\DELIM
+1542	TOK	but		but\CC
+1543	TOK	both		both\RIP3N-
+1544	TOK	sexual		sexual\JA
+1545	TOK	orientation		orientation\N5S
+1546	TOK	and		and\CC
+1547	TOK	the		the\AT---6
+1548	TOK	brain		brain\N5S
+1549	TOK	structures		structure\N5P
+1550	TOK	in		in\P
+1551	TOK	question		question\N5S
+1552	TOK	are		be\V6FDR66
+1553	TOK	linked		link\VMC----
+1554	TOK	to		to\P
+1555	TOK	some		some\AG---6
+1556	TOK	third		third\MOS
+1557	TOK	variable		variable\JA
+---	DLD	,		=\DELIM
+1558	TOK	such		such\JA
+1559	TOK	as		as\P
+1560	TOK	a		a\AI---S
+1561	TOK	developmental		developmental\JA
+1562	TOK	event		event\N5S
+1563	TOK	during		during\P
+1564	TOK	uterine		uterine\JA
+1565	TOK	or		or\CC
+1566	TOK	early		early\JA
+1567	TOK	postnatal		postnatal\JA
+1568	TOK	life		life\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1569	TOK	We	BOS	we\RPP1NN
+1570	TOK	can		can\V6FDR66
+1571	PGR	not		not\DGA7
+1572	TOK	decide		decide\VMF6R66
+1573	TOK	among		among\P
+1574	TOK	these		this\AD---P
+1575	TOK	possibilities		possibility\N5P
+1576	TOK	with		with\P
+1577	TOK	any		any\AG---6
+1578	TOK	certainty		certainty\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1579	TOK	On	BOS	on\P
+1580	TOK	the		the\AT---6
+1581	TOK	basis		basis\N5S
+1582	TOK	of		of\P
+1583	TOK	animal		animal\N5S
+1584	TOK	research		research\VMF6R66
+---	DLD	,		=\DELIM
+1585	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+1586	TOK	we		we\RPP1NN
+1587	TOK	find		find\VMF6R66
+1588	TOK	the		the\AT---6
+1589	TOK	second		second\MOS
+1590	TOK	scenario		scenario\N5S
+---	DLD	,		=\DELIM
+1591	TOK	that		that\CS
+1592	TOK	the		the\AT---6
+1593	TOK	structural		structural\JA
+1594	TOK	differences		difference\N5P
+1595	TOK	came		come\VMF6A66
+1596	TOK	about		about\DGA7
+1597	TOK	in		in\P
+1598	TOK	adulthood		adulthood\N5S
+---	DLD	,		=\DELIM
+1599	TOK	unlikely		unlikely\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1600	TOK	In	BOS	in\P
+1601	TOK	rats		rat\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1602	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1603	TOK	the		the\AT---6
+1604	TOK	sexually		sexually\DGA7
+1605	TOK	dimorphic		dimorphic\JA
+1606	TOK	cell		cell\N5S
+1607	TOK	group		group\N5S
+1608	TOK	in		in\P
+1609	TOK	the		the\AT---6
+1610	TOK	medial		medial\JA
+1611	TOK	preoptic		preoptic\JA
+1612	TOK	area		area\N5S
+1613	TOK	appears		appear\VMFDRS3
+1614	TOK	plastic		plastic\N5S
+1615	TOK	in		in\P
+1616	TOK	its		its\APS3N6
+1617	TOK	response		response\N5S
+1618	TOK	to		to\P
+1619	TOK	androgens		androgen\N5P
+1620	TOK	during		during\P
+1621	TOK	early		early\JA
+1622	TOK	brain		brain\N5S
+1623	TOK	development		development\N5S
+1624	TOK	but		but\CC
+1625	TOK	later		late\JC
+1626	TOK	is		be\V6FDRS3
+1627	TOK	largely		largely\DGA7
+1628	TOK	resistant		resistant\JA
+1629	TOK	to		to\P
+1630	TOK	change		change\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1631	TOK	We	BOS	we\RPP1NN
+1632	TOK	favor		favor\VMF6R66
+1633	TOK	the		the\AT---6
+1634	TOK	first		first\MOS
+1635	TOK	possibility		possibility\N5S
+---	DLD	,		=\DELIM
+1636	TOK	that		that\CS
+1637	TOK	the		the\AT---6
+1638	TOK	structural		structural\JA
+1639	TOK	differences		difference\N5P
+1640	TOK	arose		arise\VMF6A66
+1641	TOK	during		during\P
+1642	TOK	the		the\AT---6
+1643	TOK	period		period\N5S
+1644	TOK	of		of\P
+1645	TOK	brain		brain\N5S
+1646	TOK	development		development\N5S
+1647	TOK	and		and\CC
+1648	TOK	consequently		consequently\DGA7
+1649	TOK	contributed		contribute\VMF6A66
+1650	TOK	to		to\P
+1651	TOK	sexual		sexual\JA
+1652	TOK	behavior		behavior\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1653	TOK	Because	BOS	because\CS
+1654	TOK	the		the\AT---6
+1655	TOK	medial		medial\JA
+1656	TOK	preoptic		preoptic\JA
+1657	TOK	region		region\N5S
+1658	TOK	of		of\P
+1659	TOK	the		the\AT---6
+1660	TOK	hypothalamus		hypothalamus\N5S
+1661	TOK	is		be\V6FDRS3
+1662	TOK	implicated		implicate\VMC----
+1663	TOK	in		in\P
+1664	TOK	sexual		sexual\JA
+1665	TOK	behavior		behavior\N5S
+1666	TOK	in		in\P
+1667	TOK	monkeys		monkey\N5P
+---	DLD	,		=\DELIM
+1668	TOK	the		the\AT---6
+1669	TOK	size		size\N5S
+1670	TOK	of		of\P
+##	TAG	<name>
+1671	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+1672	TOK	in		in\P
+1673	TOK	men		man\N5P
+1674	TOK	may		may\VOFDR66
+1675	TOK	indeed		indeed\DGA7
+1676	TOK	influence		influence\VMI----
+1677	TOK	sexual		sexual\JA
+1678	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1679	TOK	But	BOS	but\CC
+1680	TOK	such		such\RIS3N-
+1681	TOK	a		a\AI---S
+1682	TOK	causal		causal\JA
+1683	TOK	connection		connection\N5S
+1684	TOK	is		be\V6FDRS3
+1685	TOK	speculativeat		speculativeat\JA
+1686	TOK	this		this\DGA7
+1687	TOK	point		point\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1688	TOK	Assuming	BOS	assume\VMG----
+1689	TOK	that		that\CS
+1690	TOK	some		some\AG---6
+1691	TOK	of		of\P
+1692	TOK	the		the\AT---6
+1693	TOK	structural		structural\JA
+1694	TOK	differences		difference\N5P
+1695	TOK	related		relate\VMC----
+1696	TOK	to		to\P
+1697	TOK	sexual		sexual\JA
+1698	TOK	orientation		orientation\N5S
+1699	TOK	were		be\V6F-A66
+1700	TOK	present		present\JA
+1701	TOK	at		at\P
+1702	TOK	birth		birth\N5S
+1703	TOK	in		in\P
+1704	TOK	certain		certain\JA
+1705	TOK	individuals		individual\N5P
+---	DLD	,		=\DELIM
+---	DLE	¿		=\DELIM
+1706	TOK	how		how\DGAW
+1707	TOK	did		do\V6FDA66
+1708	TOK	they		they\RPP3NN
+1709	TOK	arise		arise\VMF6R66
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1710	TOK	One	BOS	one\MCS
+1711	TOK	candidate		candidate\N5S
+1712	TOK	is		be\V6FDRS3
+1713	TOK	the		the\AT---6
+1714	TOK	interaction		interaction\N5S
+1715	TOK	between		between\P
+1716	TOK	gonadal		gonadal\JA
+1717	TOK	steroids		steroid\N5P
+1718	TOK	and		and\CC
+1719	TOK	the		the\AT---6
+1720	TOK	developing		developing\JA
+1721	TOK	brain		brain\N5S
+---	DLD	;		=\DELIM
+1722	TOK	this		this\AD---S
+1723	TOK	interaction		interaction\N5S
+1724	TOK	is		be\V6FDRS3
+1725	TOK	responsible		responsible\JA
+1726	TOK	for		for\P
+1727	TOK	differences		difference\N5P
+1728	TOK	in		in\P
+1729	TOK	the		the\AT---6
+1730	TOK	structure		structure\N5S
+1731	TOK	of		of\P
+1732	TOK	male		male\N5S
+1733	TOK	and		and\CC
+1734	TOK	female		female\N5S
+1735	TOK	brains		brain\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1736	TOK	A	BOS	a\AI---S
+1737	TOK	number		number\N5S
+1738	TOK	of		of\P
+1739	TOK	scientists		scientist\N5P
+1740	TOK	have		have\V6F6R66
+1741	TOK	speculated		speculate\VMC----
+1742	TOK	that		that\CS
+1743	TOK	atypical		atypical\JA
+1744	TOK	levels		level\N5P
+1745	TOK	of		of\P
+1746	TOK	circulating		circulate\VMG----
+1747	TOK	androgens		androgen\N5P
+1748	TOK	in		in\P
+1749	TOK	some		some\AG---6
+1750	TOK	fetuses		fetus\N5P
+1751	TOK	cause		cause\VMF6R66
+1752	TOK	them		them\RPP3NA
+1753	TOK	to		to\P
+1754	TOK	grow		grow\VMI----
+1755	TOK	into		into\P
+1756	TOK	homosexual		homosexual\JA
+1757	TOK	adults		adult\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1758	TOK	Specifically	BOS	specifically\DGA7
+---	DLD	,		=\DELIM
+1759	TOK	they		they\RPP3NN
+1760	TOK	suggest		suggest\VMF6R66
+1761	TOK	that		that\CS
+1762	TOK	androgen		androgen\N5S
+1763	TOK	levels		level\N5P
+1764	TOK	are		be\V6FDR66
+1765	TOK	unusually		unusually\DGA7
+1766	TOK	low		low\JA
+1767	TOK	in		in\P
+1768	TOK	male		male\N5S
+1769	TOK	fetuses		fetus\N5P
+1770	TOK	that		that\RW63N6
+1771	TOK	become		become\VMF6R66
+1772	TOK	gay		gay\JA
+1773	TOK	and		and\CC
+1774	TOK	unusually		unusually\DGA7
+1775	TOK	high		high\JA
+1776	TOK	in		in\P
+1777	TOK	female		female\N5S
+1778	TOK	fetuses		fetus\N5P
+1779	TOK	that		that\RW63N6
+1780	TOK	become		become\VMF6R66
+1781	TOK	lesbian		lesbian\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1782	TOK	A	BOS	a\AI---S
+1783	TOK	more		more\DDC7
+1784	TOK	likely		likely\JA
+1785	TOK	possibility		possibility\N5S
+1786	TOK	is		be\V6FDRS3
+1787	TOK	that		that\CS
+1788	TOK	there		there\DGA7
+1789	TOK	are		be\V6FDR66
+1790	TOK	intrinsic		intrinsic\JA
+1791	TOK	differences		difference\N5P
+1792	TOK	in		in\P
+1793	TOK	the		the\AT---6
+1794	TOK	way		way\N5S
+1795	TOK	individual		individual\JA
+1796	TOK	brains		brain\N5P
+1797	TOK	respond		respond\VMF6R66
+1798	TOK	to		to\P
+1799	TOK	androgens		androgen\N5P
+1800	TOK	during		during\P
+1801	TOK	development		development\N5S
+---	DLD	,		=\DELIM
+1802	TOK	even		even\DGA7
+1803	TOK	when		when\CS
+1804	TOK	the		the\AT---6
+1805	TOK	hormone		hormone\N5S
+1806	TOK	levels		level\N5P
+1807	TOK	are		be\V6FDR66
+1808	TOK	themselves		themselves\RXP3N-
+1809	TOK	no		no\DGA7
+1810	TOK	different		different\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1811	TOK	This	BOS	this\AD---S
+1812	TOK	response		response\N5S
+1813	TOK	requires		require\VMFDRS3
+1814	TOK	a		a\AI---S
+1815	TOK	complex		complex\JA
+1816	TOK	molecular		molecular\JA
+1817	TOK	machinery		machinery\N5S
+---	DLD	,		=\DELIM
+1818	TOK	starting		start\VMG----
+1819	TOK	with		with\P
+1820	TOK	the		the\AT---6
+1821	TOK	androgen		androgen\N5S
+1822	TOK	receptors		receptor\N5P
+1823	TOK	but		but\CC
+1824	TOK	presumably		presumably\DGA7
+1825	TOK	including		including\P
+1826	TOK	a		a\AI---S
+1827	TOK	variety		variety\N5S
+1828	TOK	of		of\P
+1829	TOK	proteins		protein\N5P
+1830	TOK	and		and\CC
+1831	TOK	genes		gene\N5P
+1832	TOK	whose		whose\AW---6
+1833	TOK	identity		identity\N5S
+1834	TOK	and		and\CC
+1835	TOK	roles		role\N5P
+1836	TOK	are		be\V6FDR66
+1837	TOK	still		still\DGA7
+1838	TOK	unknown		unknown\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1839	TOK	At	BOS	at\P
+1840	TOK	first		first\MOS
+1841	TOK	glance		glance\N5S
+---	DLD	,		=\DELIM
+1842	TOK	the		the\AT---6
+1843	TOK	very		very\JA
+1844	TOK	notion		notion\N5S
+1845	TOK	of		of\P
+1846	TOK	gay		gay\JA
+1847	TOK	genes		gene\N5P
+1848	TOK	might		may\VOFDR66
+1849	TOK	seem		seem\VMI----
+1850	TOK	absurd		absurd\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+1851	TOK	How		how\N5S
+1852	TOK	could		can\VOFDA66
+1853	TOK	genes		gene\N5P
+1854	TOK	that		that\RW63N6
+1855	TOK	draw		draw\VMF6R66
+1856	TOK	men		man\N5P
+1857	TOK	or		or\CC
+1858	TOK	women		woman\N5P
+1859	TOK	to		to\P
+1860	TOK	members		member\N5P
+1861	TOK	of		of\P
+1862	TOK	the		the\AT---6
+1863	TOK	same		same\JA
+1864	TOK	sex		sex\N5S
+1865	TOK	survive		survive\VMF6R66
+1866	TOK	the		the\AT---6
+##	TAG	<loc pos="JA">
+1867	TOK	Darwinian		darwinian\JA
+##	TAG	</loc>
+1868	TOK	screening		screening\N5S
+1869	TOK	for		for\P
+1870	TOK	reproductive		reproductive\JA
+1871	TOK	fitness		fitness\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+1872	TOK	Surely		Surely\N5S
+1873	TOK	the		the\AT---6
+1874	TOK	parents		parent\N5P
+1875	TOK	of		of\P
+1876	TOK	most		most\AG---6
+1877	TOK	gay		gay\JA
+1878	TOK	men		man\N5P
+1879	TOK	and		and\CC
+1880	TOK	lesbians		lesbian\N5P
+1881	TOK	are		be\V6FDR66
+1882	TOK	heterosexual		heterosexual\JA
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1883	TOK	In	BOS	in\P
+1884	TOK	view		view\N5S
+1885	TOK	of		of\P
+1886	TOK	such		such\JA
+1887	TOK	apparent		apparent\JA
+1888	TOK	incongruities		incongruity\N5P
+---	DLD	,		=\DELIM
+1889	TOK	research		research\N5S
+1890	TOK	focuses		focus\N5P
+1891	TOK	on		on\P
+1892	TOK	genes		gene\N5P
+1893	TOK	that		that\RW63N6
+1894	TOK	sway		sway\VMF6R66
+##	TAG	<loc pos="DDC7">
+1895	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+1896	TOK	determine		determine\VMI----
+1897	TOK	sexual		sexual\JA
+1898	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1899	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+1900	TOK	two		two\X
+##	TAG	</num>
+1901	TOK	main		main\JA
+1902	TOK	approaches		approach\N5P
+1903	TOK	to		to\P
+1904	TOK	seeking		seek\VMG----
+1905	TOK	such		such\JA
+1906	TOK	genes		gene\N5P
+1907	TOK	are		be\V6FDR66
+1908	TOK	twin		twin\N5S
+1909	TOK	and		and\CC
+1910	TOK	family		family\N5S
+1911	TOK	studies		study\N5P
+1912	TOK	and		and\CC
+##	TAG	<name>
+1913	TOK	DNA		DNA\N46
+##	TAG	</name>
+1914	TOK	linkage		linkage\N5S
+1915	TOK	analysis		analysis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1916	TOK	Twin	BOS	twin\N5S
+1917	TOK	and		and\CC
+1918	TOK	family		family\N5S
+1919	TOK	tree		tree\N5S
+1920	TOK	studies		study\N5P
+1921	TOK	are		be\V6FDR66
+1922	TOK	based		base\VMC----
+1923	TOK	on		on\P
+1924	TOK	the		the\AT---6
+1925	TOK	principle		principle\N5S
+1926	TOK	that		that\RW63N6
+1927	TOK	genetically		genetically\DGA7
+1928	TOK	influenced		influence\VMC----
+1929	TOK	traits		trait\N5P
+1930	TOK	run		run\VMF6R66
+1931	TOK	in		in\P
+1932	TOK	families		family\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1933	TOK	The	BOS	the\AT---6
+1934	TOK	first		first\MOS
+1935	TOK	modern		modern\JA
+1936	TOK	study		study\N5S
+1937	TOK	on		on\P
+1938	TOK	the		the\AT---6
+1939	TOK	patterns		pattern\N5P
+1940	TOK	of		of\P
+1941	TOK	homosexuality		homosexuality\N5S
+1942	TOK	within		within\P
+1943	TOK	families		family\N5P
+1944	TOK	was		be\V6F-A66
+1945	TOK	published		publish\VMC----
+1946	TOK	in		in\P
+##	TAG	<num>
+1947	TOK	1985		1985\X
+##	TAG	</num>
+1948	TOK	by		by\P
+##	TAG	<name>
+1949	TOK	Richard		Richard\N46
+##	TAG	</name>
+##	TAG	<abbr>
+1950	TOK	C.		C.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1951	TOK	Pillard		Pillard\N46
+##	TAG	</name>
+1952	TOK	and		and\CC
+##	TAG	<name>
+1953	TOK	James		James\N46
+##	TAG	</name>
+##	TAG	<abbr>
+1954	TOK	D.		D.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name pos="N46" type="organization">
+1955	TOK	Weinrich of Boston University		Weinrich_of_Boston_University\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1956	TOK	Since then	BOS	Since_then\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+##	TAG	<num>
+1957	TOK	five		five\X
+##	TAG	</num>
+1958	TOK	other		other\JA
+1959	TOK	systematic		systematic\JA
+1960	TOK	studies		study\N5P
+1961	TOK	on		on\P
+1962	TOK	the		the\AT---6
+1963	TOK	twins		twin\N5P
+1964	TOK	and		and\CC
+1965	TOK	siblings		sibling\N5P
+1966	TOK	of		of\P
+1967	TOK	gay		gay\JA
+1968	TOK	men		man\N5P
+1969	TOK	and		and\CC
+1970	TOK	lesbians		lesbian\N5P
+1971	TOK	have		have\V6F6R66
+1972	TOK	been		be\VMC----
+1973	TOK	reported		report\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1974	TOK	The	BOS	the\AT---6
+1975	TOK	pooled		pool\VMC----
+1976	TOK	data		data\N56
+1977	TOK	for		for\P
+1978	TOK	men		man\N5P
+1979	TOK	show		show\VMF6R66
+1980	TOK	that		that\CS
+1981	TOK	about		about\P
+##	TAG	<num>
+1982	TOK	57		57\X
+##	TAG	</num>
+1983	TOK	percent		percent\N56
+1984	TOK	of		of\P
+1985	TOK	identical		identical\JA
+1986	TOK	twins		twin\N5P
+---	DLD	,		=\DELIM
+##	TAG	<num>
+1987	TOK	24		24\X
+##	TAG	</num>
+1988	TOK	percent		percent\N56
+1989	TOK	of		of\P
+1990	TOK	fraternal		fraternal\JA
+1991	TOK	twins		twin\N5P
+1992	TOK	and		and\CC
+##	TAG	<num>
+1993	TOK	13		13\X
+##	TAG	</num>
+1994	TOK	percent		percent\N56
+1995	TOK	of		of\P
+1996	TOK	brothers		brother\N5P
+1997	TOK	of		of\P
+1998	TOK	gay		gay\JA
+1999	TOK	men		man\N5P
+2000	TOK	are		be\V6FDR66
+2001	TOK	also		also\DGA7
+2002	TOK	gay		gay\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2003	TOK	For	BOS	for\P
+2004	TOK	women		woman\N5P
+---	DLD	,		=\DELIM
+2005	TOK	approximately		approximately\DGA7
+##	TAG	<num>
+2006	TOK	50		50\X
+##	TAG	</num>
+2007	TOK	percent		percent\N56
+2008	TOK	of		of\P
+2009	TOK	identical		identical\JA
+2010	TOK	twins		twin\N5P
+---	DLD	,		=\DELIM
+##	TAG	<num>
+2011	TOK	16		16\X
+##	TAG	</num>
+2012	TOK	percent		percent\N56
+2013	TOK	of		of\P
+2014	TOK	fraternal		fraternal\JA
+2015	TOK	twins		twin\N5P
+2016	TOK	and		and\CC
+##	TAG	<num>
+2017	TOK	13		13\X
+##	TAG	</num>
+2018	TOK	percent		percent\N56
+2019	TOK	of		of\P
+2020	TOK	sisters		sister\N5P
+2021	TOK	of		of\P
+2022	TOK	lesbians		lesbian\N5P
+2023	TOK	are		be\V6FDR66
+2024	TOK	also		also\DGA7
+2025	TOK	lesbian		lesbian\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2026	TOK	When	BOS	when\CS
+2027	TOK	these		this\AD---P
+2028	TOK	data		data\N56
+2029	TOK	are		be\V6FDR66
+2030	TOK	compared		compare\VMC----
+2031	TOK	with		with\P
+2032	TOK	baseline		baseline\N5S
+2033	TOK	rates		rate\N5P
+2034	TOK	of		of\P
+2035	TOK	homosexuality		homosexuality\N5S
+---	DLD	,		=\DELIM
+2036	TOK	a		a\AI---S
+2037	TOK	good		good\JA
+2038	TOK	amount		amount\N5S
+2039	TOK	of		of\P
+2040	TOK	family		family\N5S
+2041	TOK	clustering		cluster\VMG----
+2042	TOK	of		of\P
+2043	TOK	sexual		sexual\JA
+2044	TOK	orientation		orientation\N5S
+2045	TOK	becomes		become\VMFDRS3
+2046	TOK	evident		evident\JA
+2047	TOK	for		for\P
+2048	TOK	both		both\RIP3N-
+2049	TOK	sexes		sex\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2050	TOK	In	BOS	in\P
+2051	TOK	fact		fact\N5S
+---	DLD	,		=\DELIM
+##	TAG	<abbr>
+2052	TOK	J.		J.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name pos="N46" type="organization">
+2053	TOK	Michael Bailey of Northwestern University		Michael_Bailey_of_Northwestern_University\N46
+##	TAG	</name>
+2054	TOK	and		and\CC
+2055	TOK	his		his\APS3M6
+2056	TOK	co		co\N5P
+---	DLI	-		=\DELIM
+2057	TOK	workers		worker\N5P
+2058	TOK	estimate		estimate\VMF6R66
+2059	TOK	that		that\CS
+2060	TOK	the		the\AT---6
+2061	TOK	overall		overall\JA
+2062	TOK	heritability		heritability\N5S
+2063	TOK	of		of\P
+2064	TOK	sexual		sexual\JA
+2065	TOK	orientation		orientation\N5S
+---	DLI	-		=\DELIM
+2066	TOK	that		that\CS
+2067	TOK	proportion		proportion\N5S
+2068	TOK	of		of\P
+2069	TOK	the		the\AT---6
+2070	TOK	variance		variance\N5S
+2071	TOK	in		in\P
+2072	TOK	a		a\AI---S
+2073	TOK	trait		trait\N5S
+2074	TOK	that		that\RW63N6
+2075	TOK	comes		come\VMFDRS3
+2076	TOK	from		from\P
+2077	TOK	genes		gene\N5P
+---	DLI	-		=\DELIM
+2078	TOK	is		be\V6FDRS3
+2079	TOK	about		about\DGA7
+##	TAG	<num>
+2080	TOK	53		53\X
+##	TAG	</num>
+2081	TOK	percent		percent\N56
+2082	TOK	for		for\P
+2083	TOK	men		man\N5P
+2084	TOK	and		and\CC
+##	TAG	<num>
+2085	TOK	52		52\X
+##	TAG	</num>
+2086	TOK	percent		percent\N56
+2087	TOK	for		for\P
+##	TAG	<abbr>
+2088	TOK	women.		women.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+2089	TOK	The		The\N5S
+2090	TOK	family		family\N5S
+2091	TOK	clustering		cluster\VMG----
+2092	TOK	is		be\V6FDRS3
+2093	TOK	most		most\DDS7
+2094	TOK	obvious		obvious\JA
+2095	TOK	for		for\P
+2096	TOK	relatives		relative\N5P
+2097	TOK	of		of\P
+2098	TOK	the		the\AT---6
+2099	TOK	same		same\JA
+2100	TOK	sex		sex\N5S
+---	DLD	,		=\DELIM
+2101	TOK	less		less\DDC7
+2102	TOK	so		so\DGA7
+2103	TOK	for		for\P
+2104	TOK	male		male\N5S
+---	DLI	-		=\DELIM
+2105	TOK	female		female\N5S
+2106	TOK	pairs		pair\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2107	TOK	To	BOS	to\P
+2108	TOK	evaluate		evaluate\VMI----
+2109	TOK	the		the\AT---6
+2110	TOK	genetic		genetic\JA
+2111	TOK	component		component\N5S
+2112	TOK	of		of\P
+2113	TOK	sexual		sexual\JA
+2114	TOK	orientation		orientation\N5S
+2115	TOK	and		and\CC
+2116	TOK	to		to\P
+2117	TOK	clarify		clarify\VMI----
+2118	TOK	its		its\APS3N6
+2119	TOK	mode		mode\N5S
+2120	TOK	of		of\P
+2121	TOK	inheritance		inheritance\N5S
+---	DLD	,		=\DELIM
+2122	TOK	we		we\RPP1NN
+2123	TOK	need		need\V6F6R66
+2124	TOK	a		a\AI---S
+2125	TOK	systematic		systematic\JA
+2126	TOK	survey		survey\N5S
+2127	TOK	of		of\P
+2128	TOK	the		the\AT---6
+2129	TOK	extended		extend\VMC----
+2130	TOK	families		family\N5P
+2131	TOK	of		of\P
+2132	TOK	gay		gay\JA
+2133	TOK	men		man\N5P
+2134	TOK	and		and\CC
+2135	TOK	lesbians		lesbian\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2136	TOK	One	BOS	one\RIS3N-
+2137	TOK	of		of\P
+2138	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2139	TOK	Hamer		Hamer\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2140	TOK	Stella Hu		Stella_Hu\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2141	TOK	Victoria		Victoria\N46
+##	TAG	</name>
+##	TAG	<abbr>
+2142	TOK	L.		L.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2143	TOK	Magnuson		Magnuson\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2144	TOK	Nan Hu		Nan_Hu\N46
+##	TAG	</name>
+2145	TOK	and		and\CC
+##	TAG	<name>
+2146	TOK	Angela		Angela\N46
+##	TAG	</name>
+##	TAG	<abbr>
+2147	TOK	M.		M.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+2148	TOK	L.		L.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2149	TOK	Pattatucci		Pattatucci\N46
+##	TAG	</name>
+2150	TOK	of		of\P
+2151	TOK	the		the\AT---6
+##	TAG	<name>
+2152	TOK	National Institutes of Health		National_Institutes_of_Health\N46
+##	TAG	</name>
+2153	TOK	have		have\V6F6R66
+2154	TOK	initiated		initiate\VMC----
+2155	TOK	such		such\JA
+2156	TOK	a		a\AI---S
+2157	TOK	study		study\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2158	TOK	It	BOS	it\RPS3N6
+2159	TOK	is		be\V6FDRS3
+2160	TOK	part		part\N5S
+2161	TOK	of		of\P
+2162	TOK	a		a\AI---S
+2163	TOK	larger		large\JC
+2164	TOK	one		one\RIS3N-
+2165	TOK	by		by\P
+2166	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+2167	TOK	National Cancer Institute		National_Cancer_Institute\N46
+##	TAG	</name>
+2168	TOK	to		to\P
+2169	TOK	investigate		investigate\VMI----
+2170	TOK	risk		risk\N5S
+2171	TOK	factors		factor\N5P
+2172	TOK	for		for\P
+2173	TOK	certain		certain\JA
+2174	TOK	cancers		cancer\N5P
+2175	TOK	that		that\RW63N6
+2176	TOK	are		be\V6FDR66
+2177	TOK	more		more\DDC7
+2178	TOK	frequent		frequent\JA
+2179	TOK	in		in\P
+2180	TOK	some		some\AG---6
+2181	TOK	segments		segment\N5P
+2182	TOK	of		of\P
+2183	TOK	the		the\AT---6
+2184	TOK	gay		gay\JA
+2185	TOK	population		population\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2186	TOK	Hamer	BOS	Hamer\N46
+##	TAG	</name>
+2187	TOK	and		and\CC
+2188	TOK	his		his\APS3M6
+2189	TOK	colleagues		colleague\N5P
+---	DLD	'		=\DELIM
+2190	TOK	initial		initial\JA
+2191	TOK	survey		survey\N5S
+2192	TOK	of		of\P
+2193	TOK	males		male\N5P
+2194	TOK	confirmed		confirm\VMF6A66
+2195	TOK	the		the\AT---6
+2196	TOK	sibling		sibling\N5S
+2197	TOK	results		result\N5P
+2198	TOK	of		of\P
+##	TAG	<name>
+2199	TOK	Pillard		Pillard\N46
+##	TAG	</name>
+2200	TOK	and		and\CC
+##	TAG	<name>
+2201	TOK	Weinrich		Weinrich\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2202	TOK	A	BOS	a\AI---S
+2203	TOK	brother		brother\N5S
+2204	TOK	of		of\P
+2205	TOK	a		a\AI---S
+2206	TOK	gay		gay\JA
+2207	TOK	man		man\N5S
+2208	TOK	had		have\V6F6A66
+2209	TOK	a		a\AI---S
+##	TAG	<num>
+2210	TOK	14		14\X
+##	TAG	</num>
+2211	TOK	percent		percent\N56
+2212	TOK	likelihood		likelihood\N5S
+2213	TOK	of		of\P
+2214	TOK	being		be\VMG----
+2215	TOK	gay		gay\JA
+2216	TOK	as		as\CS
+2217	TOK	compared		compare\VMC----
+2218	TOK	with		with\P
+##	TAG	<num>
+2219	TOK	2		2\X
+##	TAG	</num>
+2220	TOK	percent		percent\N56
+2221	TOK	for		for\P
+2222	TOK	the		the\AT---6
+2223	TOK	men		man\N5P
+2224	TOK	without		without\P
+2225	TOK	gay		gay\JA
+##	TAG	<abbr>
+2226	TOK	brothers.		brothers.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+2227	TOK	The		The\N5S
+2228	TOK	study		study\N5S
+2229	TOK	used		use\VMF6A66
+2230	TOK	an		an\AI---S
+2231	TOK	unusually		unusually\DGA7
+2232	TOK	stringent		stringent\JA
+2233	TOK	definition		definition\N5S
+2234	TOK	of		of\P
+2235	TOK	homosexuality		homosexuality\N5S
+---	DLD	,		=\DELIM
+2236	TOK	leading		leading\JA
+2237	TOK	to		to\P
+2238	TOK	the		the\AT---6
+2239	TOK	low		low\JA
+2240	TOK	average		average\N5S
+2241	TOK	rate		rate\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2242	TOK	Among	BOS	among\P
+2243	TOK	more		more\DDC7
+2244	TOK	distant		distant\JA
+2245	TOK	relatives		relative\N5P
+---	DLD	,		=\DELIM
+2246	TOK	an		an\AI---S
+2247	TOK	unexpected		unexpected\JA
+2248	TOK	pattern		pattern\N5S
+2249	TOK	showed		show\VMF6A66
+2250	TOK	up		up\P
+---	DLD	:		=\DELIM
+2251	TOK	maternal		maternal\JA
+2252	TOK	uncles		uncle\N5P
+2253	TOK	had		have\V6F6A66
+2254	TOK	a		a\AI---S
+##	TAG	<num>
+2255	TOK	7		7\X
+##	TAG	</num>
+2256	TOK	percent		percent\N56
+2257	TOK	chance		chance\N5S
+2258	TOK	of		of\P
+2259	TOK	being		be\VMG----
+2260	TOK	gay		gay\DGA7
+---	DLD	,		=\DELIM
+2261	TOK	whereas		whereas\CS
+2262	TOK	sons		son\N5P
+2263	TOK	of		of\P
+2264	TOK	maternal		maternal\JA
+2265	TOK	aunts		aunt\N5P
+2266	TOK	had		have\V6F6A66
+2267	TOK	an		an\AI---S
+##	TAG	<num>
+2268	TOK	8		8\X
+##	TAG	</num>
+2269	TOK	percent		percent\N56
+2270	TOK	chance		chance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2271	TOK	Fathers	BOS	father\N5P
+---	DLD	,		=\DELIM
+2272	TOK	paternal		paternal\JA
+2273	TOK	uncles		uncle\N5P
+2274	TOK	and		and\CC
+2275	TOK	the		the\AT---6
+##	TAG	<num>
+2276	TOK	three		three\X
+##	TAG	</num>
+2277	TOK	other		other\JA
+2278	TOK	types		type\N5P
+2279	TOK	of		of\P
+2280	TOK	cousins		cousin\N5P
+2281	TOK	showed		show\VMF6A66
+2282	TOK	no		no\AI---6
+2283	TOK	correlation		correlation\N5S
+2284	TOK	at		at\P
+2285	TOK	all		all\AG---6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2286	TOK	Although	BOS	although\CS
+2287	TOK	this		this\AD---S
+2288	TOK	study		study\N5S
+2289	TOK	pointed		point\VMF6A66
+2290	TOK	to		to\P
+2291	TOK	a		a\AI---S
+2292	TOK	genetic		genetic\JA
+2293	TOK	component		component\N5S
+---	DLD	,		=\DELIM
+2294	TOK	homosexuality		homosexuality\N5S
+2295	TOK	occurred		occur\VMF6A66
+2296	TOK	much		much\DGA7
+2297	TOK	less		less\DDC7
+2298	TOK	frequently		frequently\DGA7
+2299	TOK	than		than\CS
+2300	TOK	a		a\AI---S
+2301	TOK	single		single\JA
+2302	TOK	gene		gene\N5S
+2303	TOK	inherited		inherit\VMC----
+2304	TOK	in		in\P
+2305	TOK	simple		simple\JA
+##	TAG	<loc pos="JA">
+2306	TOK	Mendelian		mendelian\JA
+##	TAG	</loc>
+2307	TOK	fashion		fashion\N5S
+2308	TOK	would		will\VOFDA66
+2309	TOK	suggest		suggest\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2310	TOK	One	BOS	one\MCS
+2311	TOK	interpretation		interpretation\N5S
+---	DLD	,		=\DELIM
+2312	TOK	that		that\CS
+2313	TOK	genes		gene\N5P
+2314	TOK	are		be\V6FDR66
+2315	TOK	more		more\DDC7
+2316	TOK	important		important\JA
+2317	TOK	in		in\P
+2318	TOK	some		some\AG---6
+2319	TOK	families		family\N5P
+2320	TOK	than		than\CS
+2321	TOK	in		in\P
+2322	TOK	others		other\RIP3N-
+---	DLD	,		=\DELIM
+2323	TOK	is		be\V6FDRS3
+2324	TOK	borne		bear\VMC----
+2325	TOK	out		out\DGA7
+2326	TOK	by		by\P
+2327	TOK	looking		look\VMG----
+2328	TOK	at		at\P
+2329	TOK	families		family\N5P
+2330	TOK	having		have\VMG----
+##	TAG	<num>
+2331	TOK	two		two\X
+##	TAG	</num>
+2332	TOK	gay		gay\JA
+2333	TOK	brothers		brother\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2334	TOK	Compared	BOS	compare\VMC----
+2335	TOK	with		with\P
+2336	TOK	randomly		randomly\DGA7
+2337	TOK	chosen		choose\VMC----
+2338	TOK	families		family\N5P
+---	DLD	,		=\DELIM
+2339	TOK	rates		rate\N5P
+2340	TOK	of		of\P
+2341	TOK	homosexuality		homosexuality\N5S
+2342	TOK	in		in\P
+2343	TOK	maternal		maternal\JA
+2344	TOK	uncles		uncle\N5P
+2345	TOK	increased		increase\VMC----
+2346	TOK	from		from\P
+##	TAG	<num>
+2347	TOK	7		7\X
+##	TAG	</num>
+2348	TOK	to		to\P
+##	TAG	<num>
+2349	TOK	10		10\X
+##	TAG	</num>
+2350	TOK	percent		percent\N56
+2351	TOK	and		and\CC
+2352	TOK	in		in\P
+2353	TOK	maternal		maternal\JA
+2354	TOK	cousins		cousin\N5P
+2355	TOK	from		from\P
+##	TAG	<num>
+2356	TOK	8		8\X
+##	TAG	</num>
+2357	TOK	to		to\P
+##	TAG	<num>
+2358	TOK	13		13\X
+##	TAG	</num>
+2359	TOK	percent		percent\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2360	TOK	This	BOS	this\AD---S
+2361	TOK	familial		familial\JA
+2362	TOK	clustering		cluster\VMG----
+---	DLD	,		=\DELIM
+2363	TOK	even		even\DGA7
+2364	TOK	in		in\P
+2365	TOK	relatives		relative\N5P
+2366	TOK	outside		outside\P
+2367	TOK	the		the\AT---6
+2368	TOK	nuclear		nuclear\JA
+2369	TOK	family		family\N5S
+---	DLD	,		=\DELIM
+2370	TOK	presents		present\VMFDRS3
+2371	TOK	an		an\AI---S
+2372	TOK	additional		additional\JA
+2373	TOK	argument		argument\N5S
+2374	TOK	for		for\P
+2375	TOK	a		a\AI---S
+2376	TOK	genetic		genetic\JA
+2377	TOK	root		root\N5S
+2378	TOK	to		to\P
+2379	TOK	sexual		sexual\JA
+2380	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+2381	TOK	Why		why\N5S
+2382	TOK	are		be\V6FDR66
+2383	TOK	most		most\DDS7
+2384	TOK	gay		gay\JA
+2385	TOK	male		male\N5S
+2386	TOK	relatives		relative\N5P
+2387	TOK	of		of\P
+2388	TOK	gay		gay\JA
+2389	TOK	men		man\N5P
+2390	TOK	on		on\P
+2391	TOK	the		the\AT---6
+2392	TOK	mother		mother\N5S
+2393	PGR	's		genmark\GENMARK
+2394	TOK	side		side\N5S
+2395	TOK	of		of\P
+2396	TOK	the		the\AT---6
+2397	TOK	family		family\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2398	TOK	One	BOS	one\MCS
+2399	TOK	possibility		possibility\N5S
+---	DLI	-		=\DELIM
+2400	TOK	that		that\CS
+2401	TOK	the		the\AT---6
+2402	TOK	subjects		subject\N5P
+2403	TOK	somehow		somehow\DGA7
+2404	TOK	knew		know\VMF6A66
+2405	TOK	more		more\DDC7
+2406	TOK	about		about\DGA7
+2407	TOK	their		their\APP3N6
+2408	TOK	maternal		maternal\JA
+2409	TOK	relatives		relative\N5P
+---	DLD	-		=\DELIM
+2410	TOK	seems		seem\VMFDRS3
+2411	TOK	unlikely		unlikely\JA
+2412	TOK	because		because\CS
+2413	TOK	opposite		opposite\JA
+---	DLI	-		=\DELIM
+2414	TOK	sex		sex\N5S
+2415	TOK	gay		gay\JA
+2416	TOK	relatives		relative\N5P
+2417	TOK	of		of\P
+2418	TOK	gay		gay\JA
+2419	TOK	males		male\N5P
+2420	TOK	and		and\CC
+2421	TOK	lesbians		lesbian\N5P
+2422	TOK	were		be\V6F-A66
+2423	TOK	equally		equally\DGA7
+2424	TOK	distributed		distribute\VMC----
+2425	TOK	between		between\P
+2426	TOK	both		both\RIP3N-
+2427	TOK	sides		side\N5P
+2428	TOK	of		of\P
+2429	TOK	the		the\AT---6
+2430	TOK	family		family\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2431	TOK	Another	BOS	another\JA
+2432	TOK	explanation		explanation\N5S
+2433	TOK	is		be\V6FDRS3
+2434	TOK	that		that\CS
+2435	TOK	homosexuality		homosexuality\N5S
+---	DLD	,		=\DELIM
+2436	TOK	while		while\CS
+2437	TOK	being		be\VMG----
+2438	TOK	transmitted		transmit\VMC----
+2439	TOK	by		by\P
+2440	TOK	both		both\RIP3N-
+2441	TOK	parents		parent\N5P
+---	DLD	,		=\DELIM
+2442	TOK	is		be\V6FDRS3
+2443	TOK	expressed		express\VMC----
+2444	TOK	only		only\DGA7
+2445	TOK	in		in\P
+2446	TOK	one		one\MCS
+2447	TOK	sex		sex\N5S
+---	DLI	-		=\DELIM
+2448	TOK	in		in\P
+2449	TOK	this		this\AD---S
+2450	TOK	case		case\N5S
+---	DLD	,		=\DELIM
+2451	TOK	males		male\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2452	TOK	When	BOS	when\CS
+2453	TOK	expressed		express\VMF6A66
+---	DLD	,		=\DELIM
+2454	TOK	the		the\AT---6
+2455	TOK	trait		trait\N5S
+2456	TOK	reduces		reduce\VMFDRS3
+2457	TOK	the		the\AT---6
+2458	TOK	reproductive		reproductive\JA
+2459	TOK	rate		rate\N5S
+2460	TOK	and		and\CC
+2461	TOK	must		must\VOFDR66
+2462	TOK	therefore		therefore\DGA7
+2463	TOK	be		be\VMI----
+2464	TOK	disproportionately		disproportionately\DGA7
+2465	TOK	passed		pass\VMC----
+2466	TOK	on		on\P
+2467	TOK	by		by\P
+2468	TOK	the		the\AT---6
+2469	TOK	mother		mother\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2470	TOK	Such	BOS	such\JA
+2471	TOK	an		an\AI---S
+2472	TOK	effect		effect\N5S
+2473	TOK	may		may\VOFDR66
+2474	TOK	partially		partially\DGA7
+2475	TOK	account		account\VMI----
+2476	TOK	for		for\P
+2477	TOK	the		the\AT---6
+2478	TOK	concentration		concentration\N5S
+2479	TOK	of		of\P
+2480	TOK	gay		gay\JA
+2481	TOK	men		man\N5P
+2482	PGR	's		genmark\GENMARK
+2483	TOK	gay		gay\JA
+2484	TOK	relatives		relative\N5P
+2485	TOK	on		on\P
+2486	TOK	the		the\AT---6
+2487	TOK	maternal		maternal\JA
+2488	TOK	side		side\N5S
+2489	TOK	of		of\P
+2490	TOK	the		the\AT---6
+2491	TOK	family		family\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2492	TOK	But	BOS	but\CC
+2493	TOK	proof		proof\N5S
+2494	TOK	of		of\P
+2495	TOK	this		this\AD---S
+2496	TOK	hypothesis		hypothesis\N5S
+2497	TOK	will		will\VOFDR66
+2498	TOK	require		require\VMI----
+2499	TOK	finding		find\VMG----
+2500	TOK	an		an\AI---S
+2501	TOK	appropriate		appropriate\JA
+2502	TOK	gene		gene\N5S
+2503	TOK	on		on\P
+2504	TOK	an		an\AI---S
+2505	TOK	autosomal		autosomal\JA
+2506	TOK	chromosome		chromosome\N5S
+---	DLD	,		=\DELIM
+2507	TOK	which		which\RW63N-
+2508	TOK	is		be\V6FDRS3
+2509	TOK	inherited		inherit\VMC----
+2510	TOK	from		from\P
+2511	TOK	either		either\AG---6
+2512	TOK	parent		parent\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2513	TOK	A	BOS	a\AI---S
+2514	TOK	third		third\MOS
+2515	TOK	possibility		possibility\N5S
+2516	TOK	is		be\V6FDRS3
+2517	TOK	X		x\N5S
+2518	TOK	chromosome		chromosome\N5S
+2519	TOK	linkage		linkage\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2520	TOK	A	BOS	a\AI---S
+2521	TOK	man		man\N5S
+2522	TOK	has		have\V6FDRS3
+##	TAG	<num>
+2523	TOK	two		two\X
+##	TAG	</num>
+2524	TOK	sex		sex\N5S
+2525	TOK	chromosomes		chromosome\N5P
+---	DLD	:		=\DELIM
+2526	TOK	a		a\AI---S
+2527	TOK	Y		Y\N5P
+---	DLE	,		=\DELIM
+2528	TOK	inherited		inherit\VMC----
+2529	TOK	from		from\P
+2530	TOK	his		his\APS3M6
+2531	TOK	father		father\N5S
+---	DLD	,		=\DELIM
+2532	TOK	and		and\CC
+2533	TOK	an		an\AI---S
+2534	TOK	X		X\N5P
+---	DLE	,		=\DELIM
+2535	TOK	cut		cut\VMC----
+2536	TOK	and		and\CC
+2537	TOK	pasted		paste\VMC----
+2538	TOK	from		from\P
+2539	TOK	the		the\AT---6
+##	TAG	<num>
+2540	TOK	two		two\X
+##	TAG	</num>
+2541	TOK	X		x\N5S
+2542	TOK	chromosomes		chromosome\N5P
+2543	TOK	carried		carry\VMC----
+2544	TOK	by		by\P
+2545	TOK	his		his\APS3M6
+2546	TOK	mother		mother\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2547	TOK	Therefore	BOS	therefore\DGA7
+---	DLD	,		=\DELIM
+2548	TOK	any		any\AG---6
+2549	TOK	trait		trait\N5S
+2550	TOK	that		that\RW63N6
+2551	TOK	is		be\V6FDRS3
+2552	TOK	influenced		influence\VMC----
+2553	TOK	by		by\P
+2554	TOK	a		a\AI---S
+2555	TOK	gene		gene\N5S
+2556	TOK	on		on\P
+2557	TOK	the		the\AT---6
+2558	TOK	X		x\N5S
+2559	TOK	chromosome		chromosome\N5S
+2560	TOK	will		will\VOFDR66
+2561	TOK	tend		tend\VMI----
+2562	TOK	to		to\P
+2563	TOK	be		be\VMI----
+2564	TOK	inherited		inherit\VMC----
+2565	TOK	through		through\P
+2566	TOK	the		the\AT---6
+2567	TOK	mother		mother\N5S
+2568	PGR	's		genmark\GENMARK
+2569	TOK	side		side\N5S
+2570	TOK	and		and\CC
+2571	TOK	will		will\VOFDR66
+2572	TOK	be		be\VMI----
+2573	TOK	preferentially		preferentially\DGA7
+2574	TOK	observed		observe\VMC----
+2575	TOK	in		in\P
+2576	TOK	brothers		brother\N5P
+---	DLD	,		=\DELIM
+2577	TOK	maternal		maternal\JA
+2578	TOK	uncles		uncle\N5P
+2579	TOK	and		and\CC
+2580	TOK	maternal		maternal\JA
+2581	TOK	cousins		cousin\N5P
+---	DLD	,		=\DELIM
+2582	TOK	which		which\RW63N-
+2583	TOK	is		be\V6FDRS3
+2584	TOK	exactly		exactly\DGA7
+2585	TOK	the		the\AT---6
+2586	TOK	observed		observe\VMC----
+2587	TOK	pattern		pattern\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2588	TOK	To	BOS	to\P
+2589	TOK	test		test\VMI----
+2590	TOK	this		this\AD---S
+2591	TOK	hypothesis		hypothesis\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2592	TOK	Hamer		Hamer\N46
+##	TAG	</name>
+2593	TOK	and		and\CC
+2594	TOK	his		his\APS3M6
+2595	TOK	colleagues		colleague\N5P
+2596	TOK	embarked		embark\VMC----
+2597	TOK	on		on\P
+2598	TOK	a		a\AI---S
+2599	TOK	linkage		linkage\N5S
+2600	TOK	study		study\N5S
+2601	TOK	of		of\P
+2602	TOK	the		the\AT---6
+2603	TOK	X		x\N5S
+2604	TOK	chromosome		chromosome\N5S
+2605	TOK	in		in\P
+2606	TOK	gay		gay\JA
+2607	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2608	TOK	Linkage	BOS	linkage\N5S
+2609	TOK	analysis		analysis\N5S
+2610	TOK	is		be\V6FDRS3
+2611	TOK	based		base\VMC----
+2612	TOK	on		on\P
+##	TAG	<num>
+2613	TOK	two		two\X
+##	TAG	</num>
+2614	TOK	principles		principle\N5P
+2615	TOK	of		of\P
+2616	TOK	genetics		genetics\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2617	TOK	If	BOS	if\CS
+2618	TOK	a		a\AI---S
+2619	TOK	trait		trait\N5S
+2620	TOK	is		be\V6FDRS3
+2621	TOK	genetically		genetically\DGA7
+2622	TOK	influenced		influence\VMF6A66
+---	DLD	,		=\DELIM
+2623	TOK	then		then\DGA7
+2624	TOK	relatives		relative\N5P
+2625	TOK	who		who\RW63N-
+2626	TOK	share		share\VMF6R66
+2627	TOK	the		the\AT---6
+2628	TOK	trait		trait\N5S
+2629	TOK	will		will\VOFDR66
+2630	TOK	share		share\VMI----
+2631	TOK	the		the\AT---6
+2632	TOK	gene		gene\N5S
+2633	TOK	more		more\DDC7
+2634	TOK	often		often\DGA7
+2635	TOK	than		than\CS
+2636	TOK	is		be\V6FDRS3
+2637	TOK	expected		expect\VMC----
+2638	TOK	by		by\P
+2639	TOK	chance		chance\N5S
+---	DLI	-		=\DELIM
+2640	TOK	this		this\RDS3N-
+2641	TOK	is		be\V6FDRS3
+2642	TOK	true		true\JA
+##	TAG	<loc pos="CS">
+2643	TOK	even if		even_if\CS
+##	TAG	</loc>
+2644	TOK	the		the\AT---6
+2645	TOK	gene		gene\N5S
+2646	TOK	plays		play\VMFDRS3
+2647	TOK	only		only\DGA7
+2648	TOK	a		a\AI---S
+2649	TOK	small		small\JA
+2650	TOK	part		part\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2651	TOK	Also	BOS	also\DGA7
+---	DLD	,		=\DELIM
+2652	TOK	genes		gene\N5P
+2653	TOK	that		that\RW63N6
+2654	TOK	are		be\V6FDR66
+2655	TOK	close		close\DGA7
+2656	TOK	together		together\DGA7
+2657	TOK	on		on\P
+2658	TOK	a		a\AI---S
+2659	TOK	chromosome		chromosome\N5S
+2660	TOK	are		be\V6FDR66
+2661	TOK	almost		almost\DGA7
+2662	TOK	always		always\DGA7
+2663	TOK	inherited		inherit\VMC----
+2664	TOK	together		together\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2665	TOK	Therefore	BOS	therefore\DGA7
+---	DLD	,		=\DELIM
+2666	TOK	if		if\CS
+2667	TOK	there		there\DGA7
+2668	TOK	is		be\V6FDRS3
+2669	TOK	a		a\AI---S
+2670	TOK	gene		gene\N5S
+2671	TOK	that		that\RW63N6
+2672	TOK	influences		influence\VMFDRS3
+2673	TOK	sexual		sexual\JA
+2674	TOK	orientation		orientation\N5S
+---	DLD	,		=\DELIM
+2675	TOK	it		it\RPS3N6
+2676	TOK	should		shall\VOFDA66
+2677	TOK	be		be\VMI----
+---	DLE	«		=\DELIM
+2678	TOK	linked		link\VMF6A66
+---	DLD	»		=\DELIM
+2679	TOK	to		to\P
+2680	TOK	a		a\AI---S
+2681	TOK	nearby		nearby\JA
+##	TAG	<name>
+2682	TOK	DNA		DNA\N46
+##	TAG	</name>
+2683	TOK	marker		marker\N5S
+2684	TOK	that		that\RW63N6
+2685	TOK	tends		tend\VMFDRS3
+2686	TOK	to		to\P
+2687	TOK	travel		travel\N5S
+##	TAG	<loc pos="P">
+2688	TOK	along with		along_with\P
+##	TAG	</loc>
+2689	TOK	it		it\RPS3N6
+2690	TOK	in		in\P
+2691	TOK	families		family\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2692	TOK	For	BOS	for\P
+2693	TOK	traits		trait\N5P
+2694	TOK	affected		affect\VMC----
+2695	TOK	by		by\P
+2696	TOK	only		only\DGA7
+2697	TOK	one		one\MCS
+2698	TOK	gene		gene\N5S
+---	DLD	,		=\DELIM
+2699	TOK	linkage		linkage\N5S
+2700	TOK	can		can\VOFDR66
+2701	TOK	precisely		precisely\DGA7
+2702	TOK	locate		locate\VMI----
+2703	TOK	the		the\AT---6
+2704	TOK	gene		gene\N5S
+2705	TOK	on		on\P
+2706	TOK	a		a\AI---S
+2707	TOK	chromosome		chromosome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="P">
+2708	TOK	But for	BOS	But_for\P
+##	TAG	</loc>
+2709	TOK	complex		complex\JA
+2710	TOK	traits		trait\N5P
+2711	TOK	such		such\RIS3N-
+2712	TOK	as		as\P
+2713	TOK	sexual		sexual\JA
+2714	TOK	orientation		orientation\N5S
+---	DLD	,		=\DELIM
+2715	TOK	linkage		linkage\N5S
+2716	TOK	also		also\DGA7
+2717	TOK	helps		help\VMFDRS3
+2718	TOK	to		to\P
+2719	TOK	determine		determine\VMI----
+2720	TOK	whether		whether\CS
+2721	TOK	a		a\AI---S
+2722	TOK	genetic		genetic\JA
+2723	TOK	component		component\N5S
+2724	TOK	really		really\DGA7
+2725	TOK	exists		exist\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2726	TOK	To	BOS	to\P
+2727	TOK	initiate		initiate\VMI----
+2728	TOK	a		a\AI---S
+2729	TOK	linkage		linkage\N5S
+2730	TOK	analysis		analysis\N5S
+2731	TOK	of		of\P
+2732	TOK	male		male\N5S
+2733	TOK	sexual		sexual\JA
+2734	TOK	orientation		orientation\N5S
+---	DLD	,		=\DELIM
+2735	TOK	the		the\AT---6
+2736	TOK	first		first\MOS
+2737	TOK	requirement		requirement\N5S
+2738	TOK	was		be\V6F-A66
+2739	TOK	to		to\P
+2740	TOK	find		find\VMI----
+2741	TOK	informative		informative\JA
+2742	TOK	markers		marker\N5P
+---	DLD	,		=\DELIM
+2743	TOK	segments		segment\N5P
+2744	TOK	of		of\P
+##	TAG	<name>
+2745	TOK	DNA		DNA\N46
+##	TAG	</name>
+2746	TOK	that		that\RW63N6
+2747	TOK	flag		flag\VMF6R66
+2748	TOK	locations		location\N5P
+2749	TOK	on		on\P
+2750	TOK	a		a\AI---S
+2751	TOK	chromosome		chromosome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2752	TOK	Fortunately	BOS	fortunately\DGA7
+---	DLD	,		=\DELIM
+2753	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="other">
+2754	TOK	Human Genome Project		Human_Genome_Project\N46
+##	TAG	</name>
+2755	TOK	has		have\V6FDRS3
+2756	TOK	already		already\DGA7
+2757	TOK	generated		generate\VMC----
+2758	TOK	a		a\AI---S
+2759	TOK	large		large\JA
+2760	TOK	catalogue		catalogue\N5S
+2761	TOK	of		of\P
+2762	TOK	markers		marker\N5P
+2763	TOK	spanning		span\VMG----
+2764	TOK	all		all\AG---6
+2765	TOK	of		of\P
+2766	TOK	the		the\AT---6
+2767	TOK	X		x\N5S
+2768	TOK	chromosomes		chromosome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2769	TOK	The	BOS	the\AT---6
+2770	TOK	most		most\DDS7
+2771	TOK	useful		useful\JA
+2772	TOK	ones		one\N5P
+2773	TOK	are		be\V6FDR66
+2774	TOK	short		short\JA
+---	DLD	,		=\DELIM
+2775	TOK	repeated		repeat\VMC----
+##	TAG	<name>
+2776	TOK	DNA		DNA\N46
+##	TAG	</name>
+2777	TOK	sequences		sequence\N5P
+2778	TOK	that		that\RW63N6
+2779	TOK	have		have\V6F6R66
+2780	TOK	slightly		slightly\DGA7
+2781	TOK	different		different\JA
+2782	TOK	lengths		length\N5P
+2783	TOK	in		in\P
+2784	TOK	different		different\JA
+2785	TOK	persons		person\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2786	TOK	To	BOS	to\P
+2787	TOK	detect		detect\VMI----
+2788	TOK	the		the\AT---6
+2789	TOK	markers		marker\N5P
+---	DLD	,		=\DELIM
+2790	TOK	the		the\AT---6
+2791	TOK	researchers		researcher\N5P
+2792	TOK	used		use\VMF6A66
+2793	TOK	the		the\AT---6
+2794	TOK	polymerase		polymerase\N5S
+2795	TOK	chain		chain\N5S
+2796	TOK	reaction		reaction\N5S
+2797	TOK	to		to\P
+2798	TOK	make		make\VMI----
+2799	TOK	several		several\JA
+2800	TOK	billion		billion\MCP
+2801	TOK	copies		copy\N5P
+2802	TOK	of		of\P
+2803	TOK	specific		specific\JA
+2804	TOK	regions		region\N5P
+2805	TOK	of		of\P
+2806	TOK	the		the\AT---6
+2807	TOK	chromosome		chromosome\N5S
+2808	TOK	and		and\CC
+2809	TOK	then		then\DGA7
+2810	TOK	separated		separate\VMF6A66
+2811	TOK	the		the\AT---6
+2812	TOK	different		different\JA
+2813	TOK	fragments		fragment\N5P
+2814	TOK	by		by\P
+2815	TOK	the		the\AT---6
+2816	TOK	method		method\N5S
+2817	TOK	of		of\P
+2818	TOK	gel		gel\N5S
+2819	TOK	electrophoresis		electrophoresis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2820	TOK	The	BOS	the\AT---6
+2821	TOK	second		second\MOS
+2822	TOK	step		step\N5S
+2823	TOK	in		in\P
+2824	TOK	the		the\AT---6
+2825	TOK	linkage		linkage\N5S
+2826	TOK	analysis		analysis\N5S
+2827	TOK	was		be\V6F-A66
+2828	TOK	to		to\P
+2829	TOK	locate		locate\VMI----
+2830	TOK	suitable		suitable\JA
+2831	TOK	families		family\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2832	TOK	When	BOS	when\CS
+2833	TOK	scientists		scientist\N5P
+2834	TOK	study		study\VMF6R66
+2835	TOK	simple		simple\JA
+2836	TOK	traits		trait\N5P
+2837	TOK	such		such\RIS3N-
+2838	TOK	as		as\P
+2839	TOK	color		color\N5S
+2840	TOK	blindness		blindness\N5S
+2841	TOK	or		or\CC
+2842	TOK	sickle		sickle\N5S
+2843	TOK	cell		cell\N5S
+2844	TOK	anemia		anemia\N5S
+---	DLI	-		=\DELIM
+2845	TOK	which		which\RW63N-
+2846	TOK	involve		involve\VMF6R66
+2847	TOK	a		a\AI---S
+2848	TOK	single		single\JA
+2849	TOK	gene		gene\N5S
+---	DLI	-		=\DELIM
+2850	TOK	they		they\RPP3NN
+2851	TOK	tend		tend\VMF6R66
+2852	TOK	to		to\P
+2853	TOK	analyze		analyze\VMI----
+2854	TOK	large		large\JA
+---	DLD	,		=\DELIM
+2855	TOK	multigenerational		multigenerational\JA
+2856	TOK	families		family\N5P
+2857	TOK	in		in\P
+2858	TOK	which		which\RW63N-
+2859	TOK	each		each\AG---S
+2860	TOK	member		member\N5S
+2861	TOK	clearly		clearly\DGA7
+2862	TOK	either		either\CC
+2863	TOK	has		have\V6FDRS3
+2864	TOK	or		or\CC
+2865	TOK	does		do\V6FDRS3
+2866	TOK	not		not\DGA7
+2867	TOK	have		have\VMI----
+2868	TOK	the		the\AT---6
+2869	TOK	trait		trait\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2870	TOK	Such	BOS	such\JA
+2871	TOK	an		an\AI---S
+2872	TOK	approach		approach\N5S
+2873	TOK	was		be\V6F-A66
+2874	TOK	unsuited		unsuited\JA
+2875	TOK	for		for\P
+2876	TOK	studying		study\VMG----
+2877	TOK	sexual		sexual\JA
+2878	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2879	TOK	First	BOS	first\MOS
+---	DLD	,		=\DELIM
+2880	TOK	identifying		identify\VMG----
+2881	TOK	someone		someone\RIS3N-
+2882	TOK	as		as\P
+2883	TOK	not		not\DGA7
+2884	TOK	homosexual		homosexual\JA
+2885	TOK	is		be\V6FDRS3
+2886	TOK	tricky		tricky\JA
+---	DLD	;		=\DELIM
+2887	TOK	the		the\AT---6
+2888	TOK	person		person\N5S
+2889	TOK	may		may\VOFDR66
+2890	TOK	be		be\VMI----
+2891	TOK	concealing		conceal\VMG----
+2892	TOK	his		his\APS3M6
+2893	TOK	or		or\CC
+2894	TOK	her		her\APS3F6
+2895	TOK	true		true\JA
+2896	TOK	orientation		orientation\N5S
+2897	TOK	or		or\CC
+2898	TOK	may		may\VOFDR66
+2899	TOK	not		not\DGA7
+2900	TOK	be		be\VMI----
+2901	TOK	aware		aware\JA
+2902	TOK	of		of\P
+2903	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2904	TOK	Because	BOS	because\CS
+2905	TOK	homosexuality		homosexuality\N5S
+2906	TOK	was		be\V6F-A66
+2907	TOK	even		even\DGA7
+2908	TOK	more		more\DDC7
+2909	TOK	stigmatized		stigmatize\VMC----
+2910	TOK	in		in\P
+2911	TOK	the		the\AT---6
+2912	TOK	past		past\JA
+---	DLD	,		=\DELIM
+2913	TOK	multigenerational		multigenerational\JA
+2914	TOK	families		family\N5P
+2915	TOK	are		be\V6FDR66
+2916	TOK	especially		especially\DGA7
+2917	TOK	problematic		problematic\JA
+2918	TOK	in		in\P
+2919	TOK	this		this\AD---S
+2920	TOK	regard		regard\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2921	TOK	Moreover	BOS	moreover\DGA7
+---	DLD	,		=\DELIM
+2922	TOK	genetic		genetic\JA
+2923	TOK	modeling		modeling\N5S
+2924	TOK	shows		show\VMFDRS3
+2925	TOK	that		that\CS
+2926	TOK	for		for\P
+2927	TOK	traits		trait\N5P
+2928	TOK	that		that\RW63N6
+2929	TOK	involve		involve\VMF6R66
+2930	TOK	several		several\JA
+2931	TOK	different		different\JA
+2932	TOK	genes		gene\N5P
+2933	TOK	expressed		express\VMC----
+2934	TOK	at		at\P
+2935	TOK	varying		vary\VMG----
+2936	TOK	levels		level\N5P
+---	DLD	,		=\DELIM
+2937	TOK	studying		study\VMG----
+2938	TOK	large		large\JA
+2939	TOK	families		family\N5P
+2940	TOK	can		can\VOFDR66
+2941	TOK	actually		actually\DGA7
+2942	TOK	decrease		decrease\VMI----
+2943	TOK	the		the\AT---6
+2944	TOK	chances		chance\N5P
+2945	TOK	of		of\P
+2946	TOK	finding		find\VMG----
+2947	TOK	a		a\AI---S
+2948	TOK	linked		link\VMC----
+2949	TOK	gene		gene\N5S
+---	DLD	:		=\DELIM
+2950	TOK	too		too\DGA7
+2951	TOK	many		many\AI---P
+2952	TOK	exceptions		exception\N5P
+2953	TOK	are		be\V6FDR66
+2954	TOK	included		include\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2955	TOK	For	BOS	for\P
+2956	TOK	these		this\AD---P
+2957	TOK	reasons		reason\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2958	TOK	Hamer		Hamer\N46
+##	TAG	</name>
+2959	TOK	and		and\CC
+2960	TOK	his		his\APS3M6
+2961	TOK	coworkers		coworker\N5P
+2962	TOK	decided		decide\VMF6A66
+2963	TOK	to		to\P
+2964	TOK	focus		focus\VMI----
+2965	TOK	on		on\P
+2966	TOK	nuclear		nuclear\JA
+2967	TOK	families		family\N5P
+2968	TOK	with		with\P
+##	TAG	<num>
+2969	TOK	two		two\X
+##	TAG	</num>
+2970	TOK	gay		gay\JA
+2971	TOK	sons		son\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2972	TOK	One	BOS	one\MCS
+2973	TOK	advantage		advantage\N5S
+2974	TOK	of		of\P
+2975	TOK	this		this\AD---S
+2976	TOK	approach		approach\N5S
+2977	TOK	is		be\V6FDRS3
+2978	TOK	that		that\CS
+2979	TOK	individuals		individual\N5P
+2980	TOK	who		who\RW63N-
+2981	TOK	say		say\VMF6R66
+2982	TOK	they		they\RPP3NN
+2983	TOK	are		be\V6FDR66
+2984	TOK	homosexual		homosexual\JA
+2985	TOK	are		be\V6FDR66
+2986	TOK	unlikely		unlikely\JA
+2987	TOK	to		to\P
+2988	TOK	be		be\VMI----
+2989	TOK	mistaken		mistake\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2990	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+2991	TOK	the		the\AT---6
+2992	TOK	approach		approach\N5S
+2993	TOK	can		can\VOFDR66
+2994	TOK	detect		detect\VMI----
+2995	TOK	a		a\AI---S
+2996	TOK	single		single\JA
+2997	TOK	linked		link\VMC----
+2998	TOK	gene		gene\N5S
+##	TAG	<loc pos="CS">
+2999	TOK	even if		even_if\CS
+##	TAG	</loc>
+3000	TOK	other		other\JA
+3001	TOK	genes		gene\N5P
+3002	TOK	or		or\CC
+3003	TOK	noninherited		noninherited\JA
+3004	TOK	factors		factor\N5P
+3005	TOK	are		be\V6FDR66
+3006	TOK	required		require\VMC----
+3007	TOK	for		for\P
+3008	TOK	its		its\APS3N6
+3009	TOK	expression		expression\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+3010	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+3011	TOK	suppose		suppose\VMF6R66
+3012	TOK	that		that\CS
+3013	TOK	being		be\VMG----
+3014	TOK	gay		gay\DGA7
+3015	TOK	requires		require\VMFDRS3
+3016	TOK	an		an\AI---S
+3017	TOK	X		x\N5S
+3018	TOK	chromosome		chromosome\N5S
+3019	TOK	gene		gene\N5S
+3020	TOK	together		together\DGA7
+3021	TOK	with		with\P
+3022	TOK	another		another\JA
+3023	TOK	gene		gene\N5S
+3024	TOK	on		on\P
+3025	TOK	an		an\AI---S
+3026	TOK	autosome		autosome\N5S
+---	DLD	,		=\DELIM
+3027	TOK	plus		plus\CS
+3028	TOK	some		some\AG---6
+3029	TOK	set		set\VMC----
+3030	TOK	of		of\P
+3031	TOK	environmental		environmental\JA
+3032	TOK	circumstances		circumstance\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3033	TOK	Studying	BOS	study\VMG----
+3034	TOK	gay		gay\JA
+3035	TOK	brothers		brother\N5P
+3036	TOK	would		will\VOFDA66
+3037	TOK	give		give\VMI----
+3038	TOK	a		a\AI---S
+3039	TOK	clear		clear\JA
+---	DLI	-		=\DELIM
+3040	TOK	cut		cut\N5S
+3041	TOK	result		result\N5S
+3042	TOK	because		because\CS
+3043	TOK	both		both\RIP3N-
+3044	TOK	would		will\VOFDA66
+3045	TOK	have		have\VMI----
+3046	TOK	the		the\AT---6
+3047	TOK	X		x\N5S
+3048	TOK	chromosome		chromosome\N5S
+3049	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3050	TOK	In	BOS	in\P
+3051	TOK	contrast		contrast\VMI----
+---	DLD	,		=\DELIM
+3052	TOK	heterosexual		heterosexual\JA
+3053	TOK	brothers		brother\N5P
+3054	TOK	of		of\P
+3055	TOK	gay		gay\JA
+3056	TOK	men		man\N5P
+3057	TOK	would		will\VOFDA66
+3058	TOK	sometimes		sometimes\DGA7
+3059	TOK	share		share\VMI----
+3060	TOK	the		the\AT---6
+3061	TOK	X		x\N5S
+3062	TOK	chromosome		chromosome\N5S
+3063	TOK	gene		gene\N5S
+3064	TOK	and		and\CC
+3065	TOK	sometimes		sometimes\DGA7
+3066	TOK	not		not\DGA7
+---	DLD	,		=\DELIM
+3067	TOK	leading		leading\JA
+3068	TOK	to		to\P
+3069	TOK	confusing		confuse\VMG----
+3070	TOK	results		result\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3071	TOK	Genetic	BOS	genetic\JA
+3072	TOK	analysts		analyst\N5P
+3073	TOK	now		now\DGA7
+3074	TOK	believe		believe\VMF6R66
+3075	TOK	that		that\CS
+3076	TOK	studying		study\VMG----
+3077	TOK	siblings		sibling\N5P
+3078	TOK	is		be\V6FDRS3
+3079	TOK	the		the\AT---6
+3080	TOK	key		key\N5S
+3081	TOK	to		to\P
+3082	TOK	traits		trait\N5P
+3083	TOK	that		that\RW63N6
+3084	TOK	are		be\V6FDR66
+3085	TOK	affected		affect\VMC----
+3086	TOK	by		by\P
+3087	TOK	many		many\AI---P
+3088	TOK	elements		element\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3089	TOK	Because	BOS	because\CS
+##	TAG	<name>
+3090	TOK	Hamer		Hamer\N46
+##	TAG	</name>
+3091	TOK	and		and\CC
+3092	TOK	his		his\APS3M6
+3093	TOK	colleagues		colleague\N5P
+3094	TOK	were		be\V6F-A66
+3095	TOK	most		most\DDS7
+3096	TOK	interested		interest\VMC----
+3097	TOK	in		in\P
+3098	TOK	finding		find\VMG----
+3099	TOK	a		a\AI---S
+3100	TOK	gene		gene\N5S
+3101	TOK	that		that\RW63N6
+3102	TOK	expresses		express\VMFDRS3
+3103	TOK	itself		itself\RXS3N-
+3104	TOK	only		only\DGA7
+3105	TOK	in		in\P
+3106	TOK	men		man\N5P
+3107	TOK	but		but\CC
+3108	TOK	is		be\V6FDRS3
+3109	TOK	transmitted		transmit\VMC----
+3110	TOK	through		through\P
+3111	TOK	women		woman\N5P
+---	DLD	,		=\DELIM
+3112	TOK	they		they\RPP3NN
+3113	TOK	restricted		restrict\VMF6A66
+3114	TOK	their		their\APP3N6
+3115	TOK	search		search\N5S
+3116	TOK	to		to\P
+3117	TOK	families		family\N5P
+3118	TOK	with		with\P
+3119	TOK	gay		gay\JA
+3120	TOK	men		man\N5P
+3121	TOK	but		but\CC
+3122	TOK	no		no\AI---6
+3123	TOK	gay		gay\JA
+3124	TOK	fatherÐgay		fatherÐgay\N5S
+3125	TOK	son		son\N5S
+3126	TOK	pairs		pair\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<num>
+3127	TOK	Forty	BOS	Forty\X
+##	TAG	</num>
+3128	TOK	such		such\JA
+3129	TOK	families		family\N5P
+3130	TOK	were		be\V6F-A66
+3131	TOK	recruited		recruit\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+3132	TOK	DNA	BOS	DNA\N46
+##	TAG	</name>
+3133	TOK	samples		sample\N5P
+3134	TOK	were		be\V6F-A66
+3135	TOK	prepared		prepare\VMC----
+3136	TOK	from		from\P
+3137	TOK	the		the\AT---6
+3138	TOK	gay		gay\JA
+3139	TOK	brothers		brother\N5P
+3140	TOK	and		and\CC
+---	DLD	,		=\DELIM
+3141	TOK	where		where\CS
+3142	TOK	possible		possible\JA
+---	DLD	,		=\DELIM
+3143	TOK	from		from\P
+3144	TOK	their		their\APP3N6
+3145	TOK	mothers		mother\N5P
+3146	TOK	or		or\CC
+3147	TOK	sisters		sister\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3148	TOK	The	BOS	the\AT---6
+3149	TOK	samples		sample\N5P
+3150	TOK	were		be\V6F-A66
+3151	TOK	typed		type\VMC----
+3152	TOK	for		for\P
+##	TAG	<num>
+3153	TOK	22		22\X
+##	TAG	</num>
+3154	TOK	markers		marker\N5P
+3155	TOK	that		that\RW63N6
+3156	TOK	span		span\VMF6R66
+3157	TOK	the		the\AT---6
+3158	TOK	X		x\N5S
+3159	TOK	chromosome		chromosome\N5S
+3160	TOK	from		from\P
+3161	TOK	the		the\AT---6
+3162	TOK	tip		tip\N5S
+3163	TOK	of		of\P
+3164	TOK	the		the\AT---6
+3165	TOK	short		short\JA
+3166	TOK	arm		arm\N5S
+3167	TOK	to		to\P
+3168	TOK	the		the\AT---6
+3169	TOK	end		end\N5S
+3170	TOK	of		of\P
+3171	TOK	the		the\AT---6
+3172	TOK	long		long\JA
+3173	TOK	arm		arm\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3174	TOK	At	BOS	at\P
+3175	TOK	each		each\AG---S
+3176	TOK	marker		marker\N5S
+---	DLD	,		=\DELIM
+3177	TOK	a		a\AI---S
+3178	TOK	pair		pair\N56
+3179	TOK	of		of\P
+3180	TOK	gay		gay\JA
+3181	TOK	brothers		brother\N5P
+3182	TOK	was		be\V6F-A66
+3183	TOK	scored		score\VMC----
+3184	TOK	as		as\CS
+3185	TOK	concordant		concordant\JA
+3186	TOK	if		if\CS
+3187	TOK	they		they\RPP3NN
+3188	TOK	inherited		inherit\VMF6A66
+3189	TOK	identical		identical\JA
+3190	TOK	markers		marker\N5P
+3191	TOK	from		from\P
+3192	TOK	their		their\APP3N6
+3193	TOK	mother		mother\N5S
+3194	TOK	or		or\CC
+3195	TOK	as		as\DGA7
+3196	TOK	discordant		discordant\JA
+3197	TOK	if		if\CS
+3198	TOK	they		they\RPP3NN
+3199	TOK	inherited		inherit\VMF6A66
+3200	TOK	different		different\JA
+3201	TOK	ones		one\RIP3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+3202	TOK	Fifty	BOS	Fifty\X
+##	TAG	</num>
+3203	TOK	percent		percent\N56
+3204	TOK	of		of\P
+3205	TOK	the		the\AT---6
+3206	TOK	markers		marker\N5P
+3207	TOK	were		be\V6F-A66
+3208	TOK	expected		expect\VMC----
+3209	TOK	to		to\P
+3210	TOK	be		be\VMI----
+3211	TOK	identical		identical\JA
+3212	TOK	by		by\P
+3213	TOK	chance		chance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3214	TOK	Corrections	BOS	correction\N5P
+3215	TOK	were		be\V6F-A66
+3216	TOK	also		also\DGA7
+3217	TOK	made		make\VMC----
+3218	TOK	for		for\P
+3219	TOK	the		the\AT---6
+3220	TOK	possibility		possibility\N5S
+3221	TOK	of		of\P
+3222	TOK	the		the\AT---6
+3223	TOK	mother		mother\N5S
+3224	PGR	's		genmark\GENMARK
+3225	TOK	having		have\VMG----
+##	TAG	<num>
+3226	TOK	two		two\X
+##	TAG	</num>
+3227	TOK	copies		copy\N5P
+3228	TOK	of		of\P
+3229	TOK	the		the\AT---6
+3230	TOK	same		same\JA
+3231	TOK	marker		marker\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3232	TOK	The	BOS	the\AT---6
+3233	TOK	results		result\N5P
+3234	TOK	of		of\P
+3235	TOK	this		this\AD---S
+3236	TOK	study		study\N5S
+3237	TOK	were		be\V6F-A66
+3238	TOK	striking		strike\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3239	TOK	Over	BOS	over\P
+3240	TOK	most		most\AG---6
+3241	TOK	of		of\P
+3242	TOK	the		the\AT---6
+3243	TOK	X		x\N5S
+3244	TOK	chromosome		chromosome\N5S
+3245	TOK	the		the\AT---6
+3246	TOK	markers		marker\N5P
+3247	TOK	were		be\V6F-A66
+3248	TOK	randomly		randomly\DGA7
+3249	TOK	distributed		distribute\VMC----
+3250	TOK	between		between\P
+3251	TOK	the		the\AT---6
+3252	TOK	gay		gay\JA
+3253	TOK	brothers		brother\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3254	TOK	But	BOS	but\CC
+3255	TOK	at		at\P
+3256	TOK	the		the\AT---6
+3257	TOK	tip		tip\N5S
+3258	TOK	of		of\P
+3259	TOK	the		the\AT---6
+3260	TOK	long		long\JA
+3261	TOK	arm		arm\N5S
+3262	TOK	of		of\P
+3263	TOK	the		the\AT---6
+3264	TOK	X		x\N5S
+3265	TOK	chromosome		chromosome\N5S
+---	DLD	,		=\DELIM
+3266	TOK	in		in\P
+3267	TOK	a		a\AI---S
+3268	TOK	region		region\N5S
+3269	TOK	known		know\VMC----
+3270	TOK	as		as\P
+##	TAG	<name>
+3271	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3272	TOK	there		there\DGA7
+3273	TOK	was		be\V6F-A66
+3274	TOK	a		a\AI---S
+3275	TOK	considerable		considerable\JA
+3276	TOK	excess		excess\N5S
+3277	TOK	of		of\P
+3278	TOK	concordant		concordant\JA
+3279	TOK	brothers		brother\N5P
+---	DLD	:		=\DELIM
+##	TAG	<num>
+3280	TOK	33		33\X
+##	TAG	</num>
+3281	TOK	pairs		pair\N5P
+3282	TOK	shared		share\VMF6A66
+3283	TOK	the		the\AT---6
+3284	TOK	same		same\JA
+3285	TOK	marker		marker\N5S
+---	DLD	,		=\DELIM
+3286	TOK	whereas		whereas\CS
+3287	TOK	only		only\DGA7
+##	TAG	<num>
+3288	TOK	seven		seven\X
+##	TAG	</num>
+3289	TOK	pairs		pair\N5P
+3290	TOK	did		do\V6FDA66
+3291	TOK	not		not\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3292	TOK	Although	BOS	although\CS
+3293	TOK	the		the\AT---6
+3294	TOK	sample		sample\JA
+3295	TOK	size		size\N5S
+3296	TOK	was		be\V6F-A66
+3297	TOK	not		not\DGA7
+3298	TOK	large		large\JA
+---	DLD	,		=\DELIM
+3299	TOK	the		the\AT---6
+3300	TOK	result		result\N5S
+3301	TOK	was		be\V6F-A66
+3302	TOK	statistically		statistically\DGA7
+3303	TOK	significant		significant\JA
+---	DLD	:		=\DELIM
+3304	TOK	the		the\AT---6
+3305	TOK	probability		probability\N5S
+3306	TOK	of		of\P
+3307	TOK	such		such\JA
+3308	TOK	a		a\AI---S
+3309	TOK	skewed		skew\VMC----
+3310	TOK	ratio		ratio\N5S
+3311	TOK	occurring		occur\VMG----
+3312	TOK	by		by\P
+3313	TOK	chance		chance\N5S
+3314	TOK	alone		alone\DGA7
+3315	TOK	is		be\V6FDRS3
+3316	TOK	less		less\DDC7
+3317	TOK	than		than\CS
+3318	TOK	one		one\MCS
+3319	TOK	in		in\P
+##	TAG	<num>
+3320	TOK	200		200\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3321	TOK	In	BOS	in\P
+3322	TOK	a		a\AI---S
+3323	TOK	control		control\N5S
+3324	TOK	group		group\N5S
+3325	TOK	of		of\P
+##	TAG	<num>
+3326	TOK	314		314\X
+##	TAG	</num>
+3327	TOK	randomly		randomly\DGA7
+3328	TOK	selected		select\VMC----
+3329	TOK	pairs		pair\N5P
+3330	TOK	of		of\P
+3331	TOK	brothers		brother\N5P
+---	DLD	,		=\DELIM
+3332	TOK	most		most\DDS7
+3333	TOK	of		of\P
+3334	TOK	whom		whom\RW63NA
+3335	TOK	can		can\VOFDR66
+3336	TOK	be		be\VMI----
+3337	TOK	presumed		presume\VMC----
+3338	TOK	to		to\P
+3339	TOK	be		be\VMI----
+3340	TOK	heterosexual		heterosexual\JA
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3341	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+3342	TOK	markers		marker\N5P
+3343	TOK	were		be\V6F-A66
+3344	TOK	randomly		randomly\DGA7
+3345	TOK	distributed		distribute\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3346	TOK	The	BOS	the\AT---6
+3347	TOK	most		most\DDS7
+3348	TOK	straightforward		straightforward\JA
+3349	TOK	interpretation		interpretation\N5S
+3350	TOK	of		of\P
+3351	TOK	the		the\AT---6
+3352	TOK	finding		finding\N5S
+3353	TOK	is		be\V6FDRS3
+3354	TOK	that		that\CS
+3355	TOK	chromosomal		chromosomal\JA
+3356	TOK	region		region\N5S
+##	TAG	<name>
+3357	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+3358	TOK	contains		contain\VMFDRS3
+3359	TOK	a		a\AI---S
+3360	TOK	gene		gene\N5S
+3361	TOK	that		that\RW63N6
+3362	TOK	influences		influence\VMFDRS3
+3363	TOK	male		male\N5S
+3364	TOK	sexual		sexual\JA
+3365	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3366	TOK	The	BOS	the\AT---6
+3367	TOK	study		study\N5S
+3368	TOK	provides		provide\VMFDRS3
+3369	TOK	the		the\AT---6
+3370	TOK	strongest		strong\JS
+3371	TOK	evidence		evidence\N5S
+3372	TOK	to		to\P
+3373	TOK	date		date\N5S
+3374	TOK	that		that\CS
+3375	TOK	human		human\JA
+3376	TOK	sexuality		sexuality\N5S
+3377	TOK	is		be\V6FDRS3
+3378	TOK	influenced		influence\VMC----
+3379	TOK	by		by\P
+3380	TOK	heredity		heredity\N5S
+3381	TOK	because		because\CS
+3382	TOK	it		it\RPS3N6
+3383	TOK	directly		directly\DGA7
+3384	TOK	examines		examine\VMFDRS3
+3385	TOK	the		the\AT---6
+3386	TOK	genetic		genetic\JA
+3387	TOK	information		information\N5S
+---	DLD	,		=\DELIM
+3388	TOK	the		the\AT---6
+##	TAG	<name>
+3389	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3390	TOK	But	BOS	but\CC
+3391	TOK	as		as\DGA7
+3392	TOK	with		with\P
+3393	TOK	all		all\AG---6
+3394	TOK	initial		initial\JA
+3395	TOK	studies		study\N5P
+---	DLD	,		=\DELIM
+3396	TOK	there		there\DGA7
+3397	TOK	are		be\V6FDR66
+3398	TOK	some		some\AG---6
+3399	TOK	caveats		caveat\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3400	TOK	First	BOS	first\MOS
+---	DLD	,		=\DELIM
+3401	TOK	the		the\AT---6
+3402	TOK	result		result\N5S
+3403	TOK	needs		need\VMFDRS3
+3404	TOK	to		to\P
+3405	TOK	be		be\VMI----
+3406	TOK	replicated		replicate\VMC----
+---	DLD	:		=\DELIM
+3407	TOK	several		several\JA
+3408	TOK	other		other\JA
+3409	TOK	claims		claim\N5P
+3410	TOK	of		of\P
+3411	TOK	finding		find\VMG----
+3412	TOK	genes		gene\N5P
+3413	TOK	related		relate\VMC----
+3414	TOK	to		to\P
+3415	TOK	personality		personality\N5S
+3416	TOK	traits		trait\N5P
+3417	TOK	have		have\V6F6R66
+3418	TOK	proved		prove\VMC----
+3419	TOK	controversial		controversial\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3420	TOK	Second	BOS	second\MOS
+---	DLD	,		=\DELIM
+3421	TOK	the		the\AT---6
+3422	TOK	gene		gene\N5S
+3423	TOK	itself		itself\RXS3N-
+3424	TOK	has		have\V6FDRS3
+3425	TOK	not		not\DGA7
+3426	TOK	yet		yet\DGA7
+3427	TOK	been		be\VMC----
+3428	TOK	isolated		isolate\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3429	TOK	The	BOS	the\AT---6
+3430	TOK	study		study\N5S
+3431	TOK	locates		locate\VMFDRS3
+3432	TOK	it		it\RPS3N6
+3433	TOK	within		within\P
+3434	TOK	a		a\AI---S
+3435	TOK	region		region\N5S
+3436	TOK	of		of\P
+3437	TOK	the		the\AT---6
+3438	TOK	X		x\N5S
+3439	TOK	chromosome		chromosome\N5S
+3440	TOK	that		that\RW63N6
+3441	TOK	is		be\V6FDRS3
+3442	TOK	about		about\DGA7
+##	TAG	<num>
+3443	TOK	four million		four_million\X
+##	TAG	</num>
+3444	TOK	base		base\N5S
+3445	TOK	pairs		pair\N5P
+3446	TOK	in		in\P
+3447	TOK	length		length\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3448	TOK	This	BOS	this\AD---S
+3449	TOK	region		region\N5S
+3450	TOK	represents		represent\VMFDRS3
+3451	TOK	less		less\DDC7
+3452	TOK	than		than\CS
+##	TAG	<num>
+3453	TOK	0.2		0.2\X
+##	TAG	</num>
+3454	TOK	percent		percent\N56
+3455	TOK	of		of\P
+3456	TOK	the		the\AT---6
+3457	TOK	total		total\JA
+3458	TOK	human		human\JA
+3459	TOK	genome		genome\N5S
+---	DLD	,		=\DELIM
+3460	TOK	but		but\CC
+3461	TOK	it		it\RPS3N6
+3462	TOK	is		be\V6FDRS3
+3463	TOK	still		still\DGA7
+3464	TOK	large		large\JA
+3465	TOK	enough		enough\DGA7
+3466	TOK	to		to\P
+3467	TOK	contain		contain\VMI----
+3468	TOK	several		several\JA
+3469	TOK	hundred		hundred\MCP
+3470	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3471	TOK	Finding	BOS	find\VMG----
+3472	TOK	the		the\AT---6
+3473	TOK	needle		needle\N5S
+3474	TOK	in		in\P
+3475	TOK	this		this\AD---S
+3476	TOK	haystack		haystack\N5S
+3477	TOK	will		will\VOFDR66
+3478	TOK	require		require\VMI----
+3479	TOK	either		either\AG---6
+3480	TOK	large		large\JA
+3481	TOK	numbers		number\N5P
+3482	TOK	of		of\P
+3483	TOK	families		family\N5P
+3484	TOK	or		or\CC
+3485	TOK	more		more\DDC7
+3486	TOK	complete		complete\JA
+3487	TOK	information		information\N5S
+3488	TOK	about		about\P
+3489	TOK	the		the\AT---6
+##	TAG	<name>
+3490	TOK	DNA		DNA\N46
+##	TAG	</name>
+3491	TOK	sequence		sequence\N5S
+3492	TOK	to		to\P
+3493	TOK	identify		identify\VMI----
+3494	TOK	all		all\AG---6
+3495	TOK	possible		possible\JA
+3496	TOK	coding		coding\N5S
+3497	TOK	regions		region\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3498	TOK	As	BOS	as\CS
+3499	TOK	it		it\RPS3N6
+3500	TOK	happens		happen\VMFDRS3
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3501	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+3502	TOK	is		be\V6FDRS3
+3503	TOK	extraordinarily		extraordinarily\DGA7
+3504	TOK	rich		rich\JA
+3505	TOK	in		in\P
+3506	TOK	genetic		genetic\JA
+3507	TOK	loci		locus\N5P
+3508	TOK	and		and\CC
+3509	TOK	will		will\VOFDR66
+3510	TOK	probably		probably\DGA7
+3511	TOK	be		be\VMI----
+3512	TOK	one		one\MCS
+3513	TOK	of		of\P
+3514	TOK	the		the\AT---6
+3515	TOK	first		first\MOS
+3516	TOK	regions		region\N5P
+3517	TOK	of		of\P
+3518	TOK	the		the\AT---6
+3519	TOK	human		human\JA
+3520	TOK	genome		genome\N5S
+3521	TOK	to		to\P
+3522	TOK	be		be\VMI----
+3523	TOK	sequenced		sequence\VMC----
+3524	TOK	in		in\P
+3525	TOK	its		its\APS3N6
+3526	TOK	entirety		entirety\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3527	TOK	A	BOS	a\AI---S
+3528	TOK	third		third\N5S
+##	TAG	<foreign lang="LA" pos="VMFDRS3">
+3529	TOK	caveat		caveat\VMFDRS3
+##	TAG	</foreign>
+3530	TOK	is		be\V6FDRS3
+3531	TOK	that		that\CS
+3532	TOK	researchers		researcher\N5P
+3533	TOK	do		do\V6FDR66
+3534	TOK	not		not\DGA7
+3535	TOK	know		know\VMI----
+3536	TOK	quantitatively		quantitatively\DGA7
+3537	TOK	how		how\DGAW
+3538	TOK	important		important\JA
+3539	TOK	a		a\AI---S
+3540	TOK	role		role\N5S
+##	TAG	<name>
+3541	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+3542	TOK	plays		play\VMFDRS3
+3543	TOK	in		in\P
+3544	TOK	male		male\N5S
+3545	TOK	sexual		sexual\JA
+3546	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3547	TOK	Within	BOS	within\P
+3548	TOK	the		the\AT---6
+3549	TOK	population		population\N5S
+3550	TOK	of		of\P
+3551	TOK	gay		gay\JA
+3552	TOK	brothers		brother\N5P
+3553	TOK	studied		study\VMF6A66
+---	DLD	,		=\DELIM
+##	TAG	<num>
+3554	TOK	seven		seven\X
+##	TAG	</num>
+3555	TOK	of		of\P
+##	TAG	<num>
+3556	TOK	40		40\X
+##	TAG	</num>
+3557	TOK	brothers		brother\N5P
+3558	TOK	did		do\V6FDA66
+3559	TOK	not		not\DGA7
+3560	TOK	share		share\VMI----
+3561	TOK	markers		marker\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3562	TOK	Assuming	BOS	assume\VMG----
+3563	TOK	that		that\AD---S
+##	TAG	<num>
+3564	TOK	20		20\X
+##	TAG	</num>
+3565	TOK	siblings		sibling\N5P
+3566	TOK	should		shall\VOFDA66
+3567	TOK	inherit		inherit\VMI----
+3568	TOK	identical		identical\JA
+3569	TOK	markers		marker\N5P
+3570	TOK	by		by\P
+3571	TOK	chance		chance\N5S
+3572	TOK	alone		alone\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<num>
+3573	TOK	36		36\X
+##	TAG	</num>
+3574	TOK	percent		percent\N56
+3575	TOK	of		of\P
+3576	TOK	the		the\AT---6
+3577	TOK	gay		gay\JA
+3578	TOK	brothers		brother\N5P
+3579	TOK	show		show\VMF6R66
+3580	TOK	no		no\AI---6
+3581	TOK	link		link\N5S
+3582	TOK	between		between\P
+3583	TOK	homosexuality		homosexuality\N5S
+3584	TOK	and		and\CC
+##	TAG	<name>
+3585	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3586	TOK	Perhaps	BOS	perhaps\DGA7
+3587	TOK	these		this\AD---P
+3588	TOK	men		man\N5P
+3589	TOK	inherited		inherit\VMF6A66
+3590	TOK	different		different\JA
+3591	TOK	genes		gene\N5P
+3592	TOK	or		or\CC
+3593	TOK	were		be\V6F-A66
+3594	TOK	influenced		influence\VMC----
+3595	TOK	by		by\P
+3596	TOK	nongenetic		nongenetic\JA
+3597	TOK	physiological		physiological\JA
+3598	TOK	factors		factor\N5P
+3599	TOK	or		or\CC
+3600	TOK	by		by\P
+3601	TOK	the		the\AT---6
+3602	TOK	environment		environment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3603	TOK	Among	BOS	among\P
+3604	TOK	all		all\AG---6
+3605	TOK	gay		gay\JA
+3606	TOK	men		man\N5P
+---	DLI	-		=\DELIM
+3607	TOK	most		most\DDS7
+3608	TOK	of		of\P
+3609	TOK	whom		whom\RW63NA
+3610	TOK	do		do\V6FDR66
+3611	TOK	not		not\DGA7
+3612	TOK	have		have\VMI----
+3613	TOK	gay		gay\JA
+3614	TOK	brothers		brother\N5P
+---	DLI	-		=\DELIM
+3615	TOK	the		the\AT---6
+3616	TOK	influence		influence\N5S
+3617	TOK	of		of\P
+##	TAG	<name>
+3618	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+3619	TOK	is		be\V6FDRS3
+3620	TOK	even		even\DGA7
+3621	TOK	less		less\DDC7
+3622	TOK	clear		clear\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3623	TOK	Also	BOS	also\DGA7
+3624	TOK	unknown		unknown\JA
+3625	TOK	is		be\V6FDRS3
+3626	TOK	the		the\AT---6
+3627	TOK	role		role\N5S
+3628	TOK	of		of\P
+##	TAG	<name>
+3629	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3630	TOK	and		and\CC
+3631	TOK	other		other\JA
+3632	TOK	genetic		genetic\JA
+3633	TOK	loci		locus\N5P
+---	DLD	,		=\DELIM
+3634	TOK	in		in\P
+3635	TOK	female		female\N5S
+3636	TOK	sexual		sexual\JA
+3637	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+---	DLE	¿	BOS	=\DELIM
+3638	TOK	How		how\N5S
+3639	TOK	might		may\VOFDR66
+3640	TOK	a		a\AI---S
+3641	TOK	genetic		genetic\JA
+##	TAG	<foreign lang="LA" pos="N5S">
+3642	TOK	locus		locus\N5S
+##	TAG	</foreign>
+3643	TOK	at		at\P
+##	TAG	<name>
+3644	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+3645	TOK	affect		affect\VMF6R66
+3646	TOK	sexuality		sexuality\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3647	TOK	One	BOS	one\MCS
+3648	TOK	idea		idea\N5S
+3649	TOK	is		be\V6FDRS3
+3650	TOK	that		that\CS
+3651	TOK	the		the\AT---6
+3652	TOK	hypothetical		hypothetical\JA
+3653	TOK	gene		gene\N5S
+3654	TOK	affects		affect\VMFDRS3
+3655	TOK	hormone		hormone\N5S
+3656	TOK	synthesis		synthesis\N5S
+3657	TOK	or		or\CC
+3658	TOK	metabolism		metabolism\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3659	TOK	A	BOS	a\AI---S
+3660	TOK	candidate		candidate\N5S
+3661	TOK	for		for\P
+3662	TOK	such		such\JA
+3663	TOK	a		a\AI---S
+3664	TOK	gene		gene\N5S
+3665	TOK	was		be\V6F-A66
+3666	TOK	the		the\AT---6
+3667	TOK	androgen		androgen\N5S
+3668	TOK	receptor		receptor\N5S
+3669	TOK	locus		locus\N5S
+---	DLD	,		=\DELIM
+3670	TOK	which		which\RW63N-
+3671	TOK	encodes		encode\VMFDRS3
+3672	TOK	a		a\AI---S
+3673	TOK	protein		protein\N5S
+3674	TOK	essential		essential\JA
+3675	TOK	for		for\P
+3676	TOK	masculinization		masculinization\N5S
+3677	TOK	of		of\P
+3678	TOK	the		the\AT---6
+3679	TOK	human		human\JA
+3680	TOK	brain		brain\N5S
+3681	TOK	and		and\CC
+3682	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+3683	TOK	moreover		moreover\DGA7
+---	DLD	,		=\DELIM
+3684	TOK	located		locate\VMC----
+3685	TOK	on		on\P
+3686	TOK	the		the\AT---6
+3687	TOK	X		x\N5S
+3688	TOK	chromosome		chromosome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3689	TOK	To	BOS	to\P
+3690	TOK	test		test\VMI----
+3691	TOK	this		this\AD---S
+3692	TOK	idea		idea\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3693	TOK	Jeremy Nathans		Jeremy_Nathans\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3694	TOK	Jennifer		Jennifer\N46
+##	TAG	</name>
+##	TAG	<abbr>
+3695	TOK	P.		P.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3696	TOK	Macke		Macke\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3697	TOK	Van		Van\N46
+##	TAG	</name>
+##	TAG	<abbr>
+3698	TOK	L.		L.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3699	TOK	King		King\N46
+##	TAG	</name>
+3700	TOK	and		and\CC
+##	TAG	<name>
+3701	TOK	Terry		Terry\N46
+##	TAG	</name>
+##	TAG	<abbr>
+3702	TOK	R.		R.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+##	TAG	<name pos="N46" type="organization">
+3703	TOK	Brown of Johns Hopkins University		Brown_of_Johns_Hopkins_University\N46
+##	TAG	</name>
+3704	TOK	teamed		team\VMC----
+3705	TOK	up		up\P
+3706	TOK	with		with\P
+##	TAG	<name>
+3707	TOK	Bailey of Northwestern		Bailey_of_Northwestern\N46
+##	TAG	</name>
+3708	TOK	and		and\CC
+##	TAG	<name>
+3709	TOK	Hamer		Hamer\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3710	TOK	Hu		Hu\N46
+##	TAG	</name>
+3711	TOK	and		and\CC
+##	TAG	<name>
+3712	TOK	Hu		Hu\N46
+##	TAG	</name>
+3713	TOK	of		of\P
+3714	TOK	the		the\AT---6
+##	TAG	<name>
+3715	TOK	NIH		NIH\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3716	TOK	They	BOS	they\RPP3NN
+3717	TOK	compared		compare\VMF6A66
+3718	TOK	the		the\AT---6
+3719	TOK	molecular		molecular\JA
+3720	TOK	structure		structure\N5S
+3721	TOK	of		of\P
+3722	TOK	the		the\AT---6
+3723	TOK	androgen		androgen\N5S
+3724	TOK	receptor		receptor\N5S
+3725	TOK	gene		gene\N5S
+3726	TOK	in		in\P
+##	TAG	<num>
+3727	TOK	197		197\X
+##	TAG	</num>
+3728	TOK	homosexual		homosexual\JA
+3729	TOK	men		man\N5P
+3730	TOK	and		and\CC
+##	TAG	<num>
+3731	TOK	213		213\X
+##	TAG	</num>
+3732	TOK	predominantly		predominantly\DGA7
+3733	TOK	heterosexual		heterosexual\JA
+3734	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3735	TOK	But	BOS	but\CC
+3736	TOK	no		no\AI---6
+3737	TOK	significant		significant\JA
+3738	TOK	variations		variation\N5P
+3739	TOK	in		in\P
+3740	TOK	the		the\AT---6
+3741	TOK	protein		protein\N5S
+3742	TOK	coding		coding\N5S
+3743	TOK	sequences		sequence\N5P
+3744	TOK	were		be\V6F-A66
+3745	TOK	found		find\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3746	TOK	Also	BOS	also\DGA7
+---	DLD	,		=\DELIM
+3747	TOK	linkage		linkage\N5S
+3748	TOK	studies		study\N5P
+3749	TOK	showed		show\VMF6A66
+3750	TOK	no		no\AI---6
+3751	TOK	correlation		correlation\N5S
+3752	TOK	between		between\P
+3753	TOK	homosexuality		homosexuality\N5S
+3754	TOK	in		in\P
+3755	TOK	brothers		brother\N5P
+3756	TOK	and		and\CC
+3757	TOK	inheritance		inheritance\N5S
+3758	TOK	of		of\P
+3759	TOK	the		the\AT---6
+3760	TOK	androgen		androgen\N5S
+3761	TOK	receptor		receptor\N5S
+##	TAG	<foreign lang="LA" pos="N5S">
+3762	TOK	locus		locus\N5S
+##	TAG	</foreign>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3763	TOK	Most	BOS	most\DDS7
+3764	TOK	significant		significant\JA
+3765	TOK	of		of\P
+3766	TOK	all		all\AG---6
+---	DLD	,		=\DELIM
+3767	TOK	the		the\AT---6
+##	TAG	<foreign lang="LA" pos="N5S">
+3768	TOK	locus		locus\N5S
+##	TAG	</foreign>
+3769	TOK	turned		turn\VMC----
+3770	TOK	out		out\DGA7
+3771	TOK	to		to\P
+3772	TOK	be		be\VMI----
+3773	TOK	at		at\P
+##	TAG	<name>
+3774	TOK	Xq11		Xq11\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3775	TOK	far		far\DGA7
+3776	TOK	from		from\P
+3777	TOK	the		the\AT---6
+##	TAG	<name>
+3778	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+3779	TOK	region		region\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3780	TOK	This	BOS	this\AD---S
+3781	TOK	study		study\N5S
+3782	TOK	excludes		exclude\VMFDRS3
+3783	TOK	the		the\AT---6
+3784	TOK	androgen		androgen\N5S
+3785	TOK	receptor		receptor\N5S
+3786	TOK	from		from\P
+3787	TOK	playing		play\VMG----
+3788	TOK	a		a\AI---S
+3789	TOK	significant		significant\JA
+3790	TOK	role		role\N5S
+3791	TOK	in		in\P
+3792	TOK	male		male\N5S
+3793	TOK	sexual		sexual\JA
+3794	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3795	TOK	A	BOS	a\AI---S
+3796	TOK	second		second\MOS
+3797	TOK	idea		idea\N5S
+3798	TOK	is		be\V6FDRS3
+3799	TOK	that		that\CS
+3800	TOK	the		the\AT---6
+3801	TOK	hypothetical		hypothetical\JA
+3802	TOK	gene		gene\N5S
+3803	TOK	acts		act\VMFDRS3
+3804	TOK	indirectly		indirectly\DGA7
+---	DLD	,		=\DELIM
+3805	TOK	through		through\P
+3806	TOK	personality		personality\N5S
+3807	TOK	or		or\CC
+3808	TOK	temperament		temperament\N5S
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DDC7">
+3809	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+3810	TOK	directly		directly\DGA7
+3811	TOK	on		on\P
+3812	TOK	sexual		sexual\JA
+---	DLI	-		=\DELIM
+3813	TOK	object		object\N5S
+3814	TOK	choice		choice\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+3815	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+3816	TOK	people		people\N56
+3817	TOK	who		who\RW63N-
+3818	TOK	are		be\V6FDR66
+3819	TOK	genetically		genetically\DGA7
+3820	TOK	selfreliant		selfreliant\JA
+3821	TOK	might		may\VOFDR66
+3822	TOK	be		be\VMI----
+3823	TOK	more		more\DDC7
+3824	TOK	likely		likely\JA
+3825	TOK	to		to\P
+3826	TOK	acknowledge		acknowledge\VMI----
+3827	TOK	and		and\CC
+3828	TOK	act		act\VMI----
+3829	TOK	on		on\P
+3830	TOK	same		same\JA
+---	DLI	-		=\DELIM
+3831	TOK	sex		sex\N5S
+3832	TOK	feelings		feeling\N5P
+3833	TOK	than		than\CS
+3834	TOK	are		be\V6FDR66
+3835	TOK	people		people\N56
+3836	TOK	who		who\RW63N-
+3837	TOK	are		be\V6FDR66
+3838	TOK	dependent		dependent\JA
+3839	TOK	on		on\P
+3840	TOK	the		the\AT---6
+3841	TOK	approval		approval\N5S
+3842	TOK	of		of\P
+3843	TOK	others		other\RIP3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3844	TOK	Finally	BOS	finally\DGA7
+---	DLD	,		=\DELIM
+3845	TOK	the		the\AT---6
+3846	TOK	intriguing		intriguing\JA
+3847	TOK	possibility		possibility\N5S
+3848	TOK	arises		arise\VMFDRS3
+3849	TOK	that		that\CS
+3850	TOK	the		the\AT---6
+##	TAG	<name>
+3851	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+3852	TOK	gene		gene\N5S
+3853	TOK	product		product\N5S
+3854	TOK	bears		bear\VMFDRS3
+3855	TOK	directly		directly\DGA7
+3856	TOK	on		on\P
+3857	TOK	the		the\AT---6
+3858	TOK	development		development\N5S
+3859	TOK	of		of\P
+3860	TOK	sexually		sexually\DGA7
+3861	TOK	dimorphic		dimorphic\JA
+3862	TOK	brain		brain\N5S
+3863	TOK	regions		region\N5P
+3864	TOK	such		such\RIS3N-
+3865	TOK	as		as\P
+##	TAG	<name>
+3866	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3867	TOK	At	BOS	at\P
+3868	TOK	the		the\AT---6
+3869	TOK	simplest		simple\JS
+3870	TOK	level		level\VMF6R66
+---	DLD	,		=\DELIM
+3871	TOK	such		such\JA
+3872	TOK	an		an\AI---S
+3873	TOK	agent		agent\N5S
+3874	TOK	could		can\VOFDA66
+3875	TOK	act		act\VMI----
+3876	TOK	autonomously		autonomously\DGA7
+---	DLD	,		=\DELIM
+3877	TOK	perhaps		perhaps\DGA7
+3878	TOK	in		in\P
+3879	TOK	the		the\AT---6
+3880	TOK	womb		womb\N5S
+---	DLD	,		=\DELIM
+3881	TOK	by		by\P
+3882	TOK	stimulating		stimulate\VMG----
+3883	TOK	the		the\AT---6
+3884	TOK	survival		survival\N5S
+3885	TOK	of		of\P
+3886	TOK	specific		specific\JA
+3887	TOK	neurons		neuron\N5P
+3888	TOK	in		in\P
+3889	TOK	preheterosexual		preheterosexual\JA
+3890	TOK	males		male\N5P
+3891	TOK	or		or\CC
+3892	TOK	by		by\P
+3893	TOK	promoting		promote\VMG----
+3894	TOK	their		their\APP3N6
+3895	TOK	death		death\N5S
+3896	TOK	in		in\P
+3897	TOK	females		female\N5P
+3898	TOK	and		and\CC
+3899	TOK	prehomosexual		prehomosexual\JA
+3900	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3901	TOK	In	BOS	in\P
+3902	TOK	a		a\AI---S
+3903	TOK	more		more\DDC7
+3904	TOK	complex		complex\JA
+3905	TOK	model		model\N5S
+---	DLD	,		=\DELIM
+3906	TOK	the		the\AT---6
+3907	TOK	gene		gene\N5S
+3908	TOK	product		product\N5S
+3909	TOK	could		can\VOFDA66
+3910	TOK	change		change\VMI----
+3911	TOK	the		the\AT---6
+3912	TOK	sensitivity		sensitivity\N5S
+3913	TOK	of		of\P
+3914	TOK	a		a\AI---S
+3915	TOK	neuronal		neuronal\JA
+3916	TOK	circuit		circuit\N5S
+3917	TOK	in		in\P
+3918	TOK	the		the\AT---6
+3919	TOK	hypothalamus		hypothalamus\N5S
+3920	TOK	to		to\P
+3921	TOK	stimulation		stimulation\N5S
+3922	TOK	by		by\P
+3923	TOK	environmental		environmental\JA
+3924	TOK	cues		cue\N5P
+---	DLI	-		=\DELIM
+3925	TOK	perhaps		perhaps\DGA7
+3926	TOK	in		in\P
+3927	TOK	the		the\AT---6
+3928	TOK	first		first\MOS
+3929	TOK	few		few\JA
+3930	TOK	years		year\N5P
+3931	TOK	of		of\P
+3932	TOK	life		life\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3933	TOK	Here	BOS	here\DGA7
+3934	TOK	the		the\AT---6
+3935	TOK	genes		gene\N5P
+3936	TOK	serve		serve\VMF6R66
+3937	TOK	to		to\P
+3938	TOK	predispose		predispose\VMI----
+##	TAG	<loc pos="DDC7">
+3939	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+3940	TOK	to		to\P
+3941	TOK	predetermine		predetermine\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3942	TOK	Whether	BOS	whether\CS
+3943	TOK	this		this\AD---S
+3944	TOK	fanciful		fanciful\JA
+3945	TOK	notion		notion\N5S
+3946	TOK	contains		contain\VMFDRS3
+3947	TOK	a		a\AI---S
+3948	TOK	grain		grain\N5S
+3949	TOK	of		of\P
+3950	TOK	truth		truth\N5S
+3951	TOK	remains		remain\VMFDRS3
+3952	TOK	to		to\P
+3953	TOK	be		be\VMI----
+3954	TOK	seen		see\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3955	TOK	It	BOS	it\RPS3N6
+3956	TOK	is		be\V6FDRS3
+3957	TOK	in		in\P
+3958	TOK	fact		fact\N5S
+3959	TOK	experimentally		experimentally\DGA7
+3960	TOK	testable		testable\JA
+---	DLD	,		=\DELIM
+3961	TOK	using		use\VMG----
+3962	TOK	current		current\JA
+3963	TOK	tools		tool\N5P
+3964	TOK	of		of\P
+3965	TOK	molecular		molecular\JA
+3966	TOK	genetics		genetics\N56
+3967	TOK	and		and\CC
+3968	TOK	neurobiology		neurobiology\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3969	TOK	Our	BOS	our\APP1N6
+3970	TOK	research		research\N5S
+3971	TOK	has		have\V6FDRS3
+3972	TOK	attracted		attract\VMC----
+3973	TOK	an		an\AI---S
+3974	TOK	extraordinary		extraordinary\JA
+3975	TOK	degree		degree\N5S
+3976	TOK	of		of\P
+3977	TOK	public		public\JA
+3978	TOK	attention		attention\N5S
+---	DLD	,		=\DELIM
+3979	TOK	not		not\DGA7
+3980	TOK	so		so\CC
+3981	TOK	much		much\DGA7
+##	TAG	<loc pos="P">
+3982	TOK	because of		because_of\P
+##	TAG	</loc>
+3983	TOK	any		any\AG---6
+3984	TOK	conceptual		conceptual\JA
+3985	TOK	breakthrough		breakthrough\N5S
+---	DLD	-		=\DELIM
+3986	TOK	the		the\AT---6
+3987	TOK	idea		idea\N5S
+3988	TOK	that		that\CS
+3989	TOK	genes		gene\N5P
+3990	TOK	and		and\CC
+3991	TOK	the		the\AT---6
+3992	TOK	brain		brain\N5S
+3993	TOK	are		be\V6FDR66
+3994	TOK	involved		involve\VMC----
+3995	TOK	in		in\P
+3996	TOK	human		human\JA
+3997	TOK	behavior		behavior\N5S
+3998	TOK	is		be\V6FDRS3
+3999	TOK	hardly		hardly\DGA7
+4000	TOK	new		new\JA
+---	DLD	-		=\DELIM
+4001	TOK	but		but\CC
+4002	TOK	because		because\CS
+4003	TOK	it		it\RPS3N6
+4004	TOK	touches		touch\VMFDRS3
+4005	TOK	on		on\P
+4006	TOK	a		a\AI---S
+4007	TOK	deep		deep\JA
+4008	TOK	conflict		conflict\N5S
+4009	TOK	in		in\P
+4010	TOK	contemporary		contemporary\JA
+##	TAG	<loc pos="JA">
+4011	TOK	American		american\JA
+##	TAG	</loc>
+4012	TOK	society		society\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4013	TOK	We	BOS	we\RPP1NN
+4014	TOK	believe		believe\VMF6R66
+4015	TOK	scientific		scientific\JA
+4016	TOK	research		research\N5S
+4017	TOK	can		can\VOFDR66
+4018	TOK	help		help\VMI----
+4019	TOK	dispel		dispel\VMI----
+4020	TOK	some		some\AG---6
+4021	TOK	of		of\P
+4022	TOK	the		the\AT---6
+4023	TOK	myths		myth\N5P
+4024	TOK	about		about\P
+4025	TOK	homosexuality		homosexuality\N5S
+4026	TOK	that		that\CS
+4027	TOK	in		in\P
+4028	TOK	the		the\AT---6
+4029	TOK	past		past\N5S
+4030	TOK	have		have\V6F6R66
+4031	TOK	clouded		cloud\VMC----
+4032	TOK	the		the\AT---6
+4033	TOK	image		image\N5S
+4034	TOK	of		of\P
+4035	TOK	lesbians		lesbian\N5P
+4036	TOK	and		and\CC
+4037	TOK	gay		gay\JA
+4038	TOK	men		man\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4039	TOK	We	BOS	we\RPP1NN
+4040	TOK	also		also\DGA7
+4041	TOK	recognize		recognize\VMF6R66
+---	DLD	,		=\DELIM
+4042	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+4043	TOK	that		that\CS
+4044	TOK	increasing		increase\VMG----
+4045	TOK	knowledge		knowledge\N5S
+4046	TOK	of		of\P
+4047	TOK	biology		biology\N5S
+4048	TOK	may		may\VOFDR66
+4049	TOK	eventually		eventually\DGA7
+4050	TOK	bring		bring\VMI----
+4051	TOK	with		with\P
+4052	TOK	it		it\RPS3N6
+4053	TOK	the		the\AT---6
+4054	TOK	power		power\N5S
+4055	TOK	to		to\P
+4056	TOK	infringe		infringe\VMI----
+4057	TOK	on		on\P
+4058	TOK	the		the\AT---6
+4059	TOK	natural		natural\JA
+4060	TOK	rights		right\N5P
+4061	TOK	of		of\P
+4062	TOK	individuals		individual\N5P
+4063	TOK	and		and\CC
+4064	TOK	to		to\P
+4065	TOK	impoverish		impoverish\VMI----
+4066	TOK	the		the\AT---6
+4067	TOK	world		world\N5S
+4068	TOK	of		of\P
+4069	TOK	its		its\APS3N6
+4070	TOK	human		human\JA
+4071	TOK	diversity		diversity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4072	TOK	It	BOS	it\RPS3N6
+4073	TOK	is		be\V6FDRS3
+4074	TOK	important		important\JA
+4075	TOK	that		that\CS
+4076	TOK	our		our\APP1N6
+4077	TOK	society		society\N5S
+4078	TOK	expand		expand\VMF6R66
+4079	TOK	discussions		discussion\N5P
+4080	TOK	of		of\P
+4081	TOK	how		how\DGAW
+4082	TOK	new		new\JA
+4083	TOK	scientific		scientific\JA
+4084	TOK	information		information\N5S
+4085	TOK	should		shall\VOFDA66
+4086	TOK	be		be\VMI----
+4087	TOK	used		use\VMC----
+4088	TOK	to		to\P
+4089	TOK	benefit		benefit\VMI----
+4090	TOK	the		the\AT---6
+4091	TOK	human		human\JA
+4092	TOK	race		race\N5S
+4093	TOK	in		in\P
+4094	TOK	its		its\APS3N6
+4095	TOK	entirety		entirety\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+4096	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+4097	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+4099	TOK	HYPOTHALAMUS	BOS	hypothalamus\N5S
+4100	TOK	of		of\P
+4101	TOK	the		the\AT---6
+4102	TOK	human		human\JA
+4103	TOK	brain		brain\N5S
+4104	TOK	was		be\V6F-A66
+4105	TOK	examined		examine\VMC----
+4106	TOK	for		for\P
+4107	TOK	differences		difference\N5P
+4108	TOK	related		relate\VMC----
+4109	TOK	to		to\P
+4110	TOK	sexual		sexual\JA
+4111	TOK	orientation	EOS	orientation\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4113	TOK	The	BOS	the\AT---6
+4114	TOK	hypothalamus		hypothalamus\N5S
+4115	TOK	of		of\P
+4116	TOK	each		each\RIS3N-
+4117	TOK	of		of\P
+4118	TOK	the		the\AT---6
+##	TAG	<num>
+4119	TOK	41		41\X
+##	TAG	</num>
+4120	TOK	subjects		subject\N5P
+4121	TOK	was		be\V6F-A66
+4122	TOK	stained		stain\VMC----
+4123	TOK	to		to\P
+4124	TOK	mark		mark\N5S
+4125	TOK	neuronal		neuronal\JA
+4126	TOK	cell		cell\N5S
+4127	TOK	groups		group\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4128	TOK	The	BOS	the\AT---6
+4129	TOK	cell		cell\N5S
+4130	TOK	group		group\N5S
+4131	TOK	termed		term\VMF6A66
+##	TAG	<name>
+4132	TOK	INAH3		INAH3\N46
+##	TAG	</name>
+4133	TOK	in		in\P
+4134	TOK	the		the\AT---6
+4135	TOK	medial		medial\JA
+4136	TOK	preoptic		preoptic\JA
+4137	TOK	area		area\N5S
+4138	TOK	was		be\V6F-A66
+4139	TOK	more		more\DDC7
+4140	TOK	than		than\CS
+4141	TOK	twice		twice\DGA7
+4142	TOK	as		as\DGA7
+4143	TOK	large		large\JA
+4144	TOK	in		in\P
+4145	TOK	the		the\AT---6
+4146	TOK	men		man\N5P
+4147	TOK	as		as\CS
+4148	TOK	it		it\RPS3N6
+4149	TOK	was		be\V6F-A66
+4150	TOK	in		in\P
+4151	TOK	the		the\AT---6
+4152	TOK	women		woman\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+4153	TOK	INAH3	BOS	INAH3\N46
+##	TAG	</name>
+4154	TOK	also		also\DGA7
+4155	TOK	turned		turn\VMF6A66
+4156	TOK	out		out\DGA7
+4157	TOK	to		to\P
+4158	TOK	be		be\VMI----
+##	TAG	<num>
+4159	TOK	two		two\X
+##	TAG	</num>
+4160	TOK	to		to\P
+##	TAG	<num>
+4161	TOK	three		three\X
+##	TAG	</num>
+4162	TOK	times		time\N5P
+4163	TOK	larger		large\JC
+4164	TOK	in		in\P
+4165	TOK	straight		straight\JA
+4166	TOK	men		man\N5P
+4167	TOK	than		than\CS
+4168	TOK	it		it\RPS3N6
+4169	TOK	was		be\V6F-A66
+4170	TOK	in		in\P
+4171	TOK	gay		gay\JA
+4172	TOK	men		man\N5P
+---	DLE	(		=\DELIM
+4173	TOK	micrographs		micrograph\N5P
+4174	TOK	at		at\P
+4175	TOK	far		far\DGA7
+4176	TOK	right		right\JA
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4178	TOK	This	BOS	this\AD---S
+4179	TOK	finding		finding\N5S
+4180	TOK	suggests		suggest\VMFDRS3
+4181	TOK	a		a\AI---S
+4182	TOK	difference		difference\N5S
+4183	TOK	related		relate\VMC----
+4184	TOK	to		to\P
+4185	TOK	male		male\N5S
+4186	TOK	sexual		sexual\JA
+4187	TOK	orientation		orientation\N5S
+4188	TOK	about		about\DGA7
+4189	TOK	as		as\DGA7
+4190	TOK	great		great\JA
+4191	TOK	as		as\CS
+4192	TOK	that		that\RDS3N-
+4193	TOK	related		relate\VMC----
+4194	TOK	to		to\P
+4195	TOK	sex		sex\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+4196	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+4197	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+4199	TOK	GENE	BOS	gene\N5S
+##	TAG	<name>
+4200	TOK	SHARING		SHARING\N46
+##	TAG	</name>
+4201	TOK	in		in\P
+4202	TOK	the		the\AT---6
+##	TAG	<name>
+4203	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+4204	TOK	region		region\N5S
+4205	TOK	is		be\V6FDRS3
+4206	TOK	significantly		significantly\DGA7
+4207	TOK	greater		great\JC
+4208	TOK	in		in\P
+4209	TOK	gay		gay\JA
+4210	TOK	brothers		brother\N5P
+4211	TOK	than		than\CS
+4212	TOK	in		in\P
+4213	TOK	the		the\AT---6
+4214	TOK	general		general\JA
+4215	TOK	population	EOS	population\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4217	TOK	Of	BOS	of\P
+##	TAG	<num>
+4218	TOK	40		40\X
+##	TAG	</num>
+4219	TOK	pairs		pair\N5P
+4220	TOK	of		of\P
+4221	TOK	gay		gay\JA
+4222	TOK	brothers		brother\N5P
+4223	TOK	studied		study\VMF6A66
+---	DLD	,		=\DELIM
+##	TAG	<num>
+4224	TOK	33		33\X
+##	TAG	</num>
+4225	TOK	pairs		pair\N5P
+4226	TOK	shared		share\VMF6A66
+4227	TOK	the		the\AT---6
+##	TAG	<name>
+4228	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+4229	TOK	region		region\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4230	TOK	In	BOS	in\P
+4231	TOK	a		a\AI---S
+4232	TOK	control		control\N5S
+4233	TOK	group		group\N5S
+4234	TOK	of		of\P
+##	TAG	<num>
+4235	TOK	314		314\X
+##	TAG	</num>
+4236	TOK	randomly		randomly\DGA7
+4237	TOK	selected		select\VMC----
+4238	TOK	pairs		pair\N5P
+4239	TOK	of		of\P
+4240	TOK	brothers		brother\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+4241	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+4242	TOK	markers		marker\N5P
+4243	TOK	were		be\V6F-A66
+4244	TOK	found		find\VMC----
+4245	TOK	to		to\P
+4246	TOK	be		be\VMI----
+4247	TOK	almost		almost\DGA7
+4248	TOK	equally		equally\DGA7
+4249	TOK	distributed		distribute\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+4250	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+4251	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<head>
+4253	TOK	PINPOINTING	BOS	pinpoint\VMG----
+##	TAG	<name>
+4254	TOK	GENES		GENES\N46
+##	TAG	</name>
+4255	TOK	shared		share\VMC----
+4256	TOK	by		by\P
+4257	TOK	gay		gay\JA
+4258	TOK	brothers		brother\N5P
+---	DLE	(		=\DELIM
+4259	TOK	darker		dark\JC
+4260	TOK	brown		brown\JA
+---	DLD	)		=\DELIM
+4261	TOK	first		first\MOS
+4262	TOK	involved		involve\VMC----
+4263	TOK	taking		take\VMG----
+##	TAG	<name>
+4264	TOK	DNA		DNA\N46
+##	TAG	</name>
+4265	TOK	from		from\P
+4266	TOK	subjects	EOS	subject\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4267	TOK	Several	BOS	several\JA
+4268	TOK	billion		billion\MCP
+4269	TOK	copies		copy\N5P
+4270	TOK	of		of\P
+4271	TOK	specific		specific\JA
+4272	TOK	regions		region\N5P
+4273	TOK	of		of\P
+4274	TOK	the		the\AT---6
+4275	TOK	X		x\N5S
+4276	TOK	chromosome		chromosome\N5S
+4277	TOK	were		be\V6F-A66
+4278	TOK	then		then\DGA7
+4279	TOK	made		make\VMC----
+4280	TOK	using		use\VMG----
+4281	TOK	the		the\AT---6
+4282	TOK	polymerase		polymerase\N5S
+4283	TOK	chain		chain\N5S
+4284	TOK	reaction		reaction\N5S
+---	DLD	,		=\DELIM
+4285	TOK	and		and\CC
+4286	TOK	the		the\AT---6
+4287	TOK	different		different\JA
+4288	TOK	fragments		fragment\N5P
+4289	TOK	were		be\V6F-A66
+4290	TOK	separated		separate\VMC----
+4291	TOK	by		by\P
+4292	TOK	gel		gel\N5S
+4293	TOK	electrophoresis		electrophoresis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4294	TOK	Gay	BOS	gay\JA
+4295	TOK	brothers		brother\N5P
+4296	TOK	shared		share\VMF6A66
+4297	TOK	a		a\AI---S
+4298	TOK	marker		marker\N5S
+---	DLD	,		=\DELIM
+4299	TOK	in		in\P
+4300	TOK	this		this\AD---S
+4301	TOK	hypothetical		hypothetical\JA
+4302	TOK	example		example\N5S
+##	TAG	<name>
+4303	TOK	CA11		CA11\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+4304	TOK	in		in\P
+4305	TOK	the		the\AT---6
+##	TAG	<name>
+4306	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+4307	TOK	region		region\N5S
+4308	TOK	at		at\P
+4309	TOK	rates		rate\N5P
+4310	TOK	far		far\DGA7
+4311	TOK	greater		great\JC
+4312	TOK	than		than\CS
+4313	TOK	predicted		predict\VMC----
+4314	TOK	by		by\P
+4315	TOK	chance		chance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+4316	TOK	Family	BOS	family\N5S
+##	TAG	<name>
+4317	TOK	Tree Studies		Tree_Studies\N46
+##	TAG	</name>
+4318	TOK	and		and\CC
+4319	TOK	the		the\AT---6
+##	TAG	<name>
+4320	TOK	X Chromosome	EOS	X_Chromosome\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4322	TOK	Family	BOS	family\N5S
+4323	TOK	trees		tree\N5P
+4324	TOK	of		of\P
+4325	TOK	male		male\N5S
+4326	TOK	sexual		sexual\JA
+4327	TOK	orientation		orientation\N5S
+4328	TOK	show		show\VMF6R66
+4329	TOK	the		the\AT---6
+4330	TOK	rates		rate\N5P
+4331	TOK	of		of\P
+4332	TOK	homosexuality		homosexuality\N5S
+---	DLE	(		=\DELIM
+4333	TOK	darker		dark\JC
+4334	TOK	brown		brown\JA
+---	DLE	)		=\DELIM
+4335	TOK	in		in\P
+4336	TOK	maternally		maternally\DGA7
+4337	TOK	related		relate\VMC----
+4338	TOK	males		male\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4339	TOK	Rates	BOS	rate\N5P
+4340	TOK	in		in\P
+4341	TOK	paternal		paternal\JA
+4342	TOK	relatives		relative\N5P
+4343	TOK	were		be\V6F-A66
+4344	TOK	not		not\DGA7
+4345	TOK	significantly		significantly\DGA7
+4346	TOK	above		above\P
+4347	TOK	the		the\AT---6
+4348	TOK	average		average\JA
+4349	TOK	population		population\N5S
+4350	TOK	rate		rate\N5S
+4351	TOK	of		of\P
+##	TAG	<num>
+4352	TOK	2		2\X
+##	TAG	</num>
+4353	TOK	percent		percent\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4354	TOK	This	BOS	this\AD---S
+4355	TOK	finding		finding\N5S
+4356	TOK	raised		raise\VMF6A66
+4357	TOK	the		the\AT---6
+4358	TOK	possibility		possibility\N5S
+4359	TOK	of		of\P
+4360	TOK	involvement		involvement\N5S
+4361	TOK	of		of\P
+4362	TOK	the		the\AT---6
+4363	TOK	X		x\N5S
+4364	TOK	chromosome		chromosome\N5S
+---	DLE	(		=\DELIM
+4365	TOK	shown		show\VMC----
+4366	TOK	below		below\P
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4368	TOK	Males	BOS	male\N5P
+4369	TOK	have		have\V6F6R66
+##	TAG	<num>
+4370	TOK	two		two\X
+##	TAG	</num>
+4371	TOK	sex		sex\N5S
+4372	TOK	chromosomes		chromosome\N5P
+---	DLI	-		=\DELIM
+4373	TOK	a		a\AI---S
+4374	TOK	Y		y\N5S
+4375	TOK	inherited		inherit\VMC----
+4376	TOK	from		from\P
+4377	TOK	the		the\AT---6
+4378	TOK	father		father\N5S
+4379	TOK	and		and\CC
+4380	TOK	an		an\AI---S
+4381	TOK	X		x\N5S
+4382	TOK	from		from\P
+4383	TOK	the		the\AT---6
+4384	TOK	mother		mother\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4385	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+4386	TOK	a		a\AI---S
+4387	TOK	trait		trait\N5S
+4388	TOK	inherited		inherit\VMC----
+4389	TOK	through		through\P
+4390	TOK	the		the\AT---6
+4391	TOK	mother		mother\N5S
+4392	PGR	's		genmark\GENMARK
+4393	TOK	side		side\N5S
+4394	TOK	might		may\VOFDR66
+4395	TOK	logically		logically\DGA7
+4396	TOK	be		be\VMI----
+4397	TOK	influenced		influence\VMC----
+4398	TOK	by		by\P
+4399	TOK	a		a\AI---S
+4400	TOK	gene		gene\N5S
+4401	TOK	on		on\P
+4402	TOK	one		one\MCS
+4403	TOK	of		of\P
+4404	TOK	her		her\APS3F6
+4405	TOK	X		x\N5S
+4406	TOK	chromosomes		chromosome\N5P
+---	DLE	(		=\DELIM
+4407	TOK	indicated		indicate\VMC----
+4408	TOK	here		here\DGA7
+4409	TOK	in		in\P
+4410	TOK	red		red\JA
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4411	TOK	In	BOS	in\P
+4412	TOK	fact		fact\N5S
+---	DLD	,		=\DELIM
+4413	TOK	further		further\JA
+4414	TOK	experiments		experiment\N5P
+4415	TOK	showed		show\VMF6A66
+4416	TOK	that		that\CS
+4417	TOK	one		one\MCS
+4418	TOK	small		small\JA
+4419	TOK	area		area\N5S
+4420	TOK	at		at\P
+4421	TOK	the		the\AT---6
+4422	TOK	tip		tip\N5S
+4423	TOK	of		of\P
+4424	TOK	the		the\AT---6
+4425	TOK	X		x\N5S
+4426	TOK	chromosome		chromosome\N5S
+---	DLD	-		=\DELIM
+##	TAG	<name>
+4427	TOK	Xq28		Xq28\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+4428	TOK	was		be\V6F-A66
+4429	TOK	shared		share\VMC----
+4430	TOK	by		by\P
+4431	TOK	a		a\AI---S
+4432	TOK	large		large\JA
+4433	TOK	percentage		percentage\N5S
+4434	TOK	of		of\P
+4435	TOK	gay		gay\JA
+4436	TOK	brothers		brother\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

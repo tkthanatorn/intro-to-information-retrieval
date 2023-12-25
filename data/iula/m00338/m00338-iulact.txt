@@ -1,0 +1,6588 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	ZINC	BOS	zinc\N5S
+2	TOK	FINGERS	EOS	finger\N5P
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+4	TOK	They	BOS	they\RPP3NN
+5	TOK	play		play\VMF6R66
+6	TOK	a		a\AI---S
+7	TOK	key		key\N5S
+8	TOK	part		part\N5S
+9	TOK	in		in\P
+10	TOK	regulating		regulate\VMG----
+11	TOK	the		the\AT---6
+12	TOK	activity		activity\N5S
+13	TOK	of		of\P
+14	TOK	genes		gene\N5P
+15	TOK	in		in\P
+16	TOK	many		many\AI---P
+17	TOK	species		species\N56
+---	DLD	,		=\DELIM
+18	TOK	from		from\P
+19	TOK	yeast		yeast\N5S
+20	TOK	to		to\P
+21	TOK	humans		human\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+22	TOK	Fewer	BOS	few\JC
+23	TOK	than		than\CS
+24	TOK	l0		l0\JA
+25	TOK	years		year\N5P
+26	TOK	ago		ago\DGA7
+##	TAG	<loc pos="RIS3N-">
+27	TOK	no one		no_one\RIS3N-
+##	TAG	</loc>
+28	TOK	knew		know\VMF6A66
+29	TOK	they		they\RPP3NN
+30	TOK	existed	EOS	exist\VMF6A66
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+32	TOK	One	BOS	one\MCS
+33	TOK	of		of\P
+34	TOK	the		the\AT---6
+35	TOK	most		most\DDS7
+36	TOK	fascinating		fascinating\JA
+37	TOK	questions		question\N5P
+38	TOK	in		in\P
+39	TOK	biology		biology\N5S
+40	TOK	today		today\N5S
+41	TOK	asks		ask\VMFDRS3
+42	TOK	how		how\DGAW
+43	TOK	genes		gene\N5P
+44	TOK	are		be\V6FDR66
+45	TOK	turned		turn\VMC----
+46	TOK	on		on\P
+47	TOK	in		in\P
+48	TOK	multicellular		multicellular\JA
+49	TOK	organisms		organism\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+50	TOK	If	BOS	if\CS
+51	TOK	a		a\AI---S
+52	TOK	gene		gene\N5S
+53	TOK	is		be\V6FDRS3
+54	TOK	to		to\P
+55	TOK	be		be\VMI----
+56	TOK	activated		activate\VMC----
+---	DLD	,		=\DELIM
+57	TOK	several		several\JA
+58	TOK	proteins		protein\N5P
+59	TOK	known		know\VMC----
+60	TOK	as		as\P
+61	TOK	transcription		transcription\N5S
+62	TOK	factors		factor\N5P
+63	TOK	must		must\VOFDR66
+64	TOK	attach		attach\VMI----
+65	TOK	themselves		themselves\RXP3N-
+66	TOK	to		to\P
+67	TOK	a		a\AI---S
+68	TOK	segment		segment\N5S
+69	TOK	of		of\P
+70	TOK	the		the\AT---6
+71	TOK	gene		gene\N5S
+72	TOK	called		call\VMF6A66
+73	TOK	the		the\AT---6
+74	TOK	promoter		promoter\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+75	TOK	This	BOS	this\AD---S
+76	TOK	assembly		assembly\N5S
+77	TOK	forms		form\VMFDRS3
+78	TOK	a		a\AI---S
+79	TOK	kind		kind\N5S
+80	TOK	of		of\P
+---	DLE	"		=\DELIM
+81	TOK	on		on\P
+82	TOK	switch		switch\VMI----
+---	DLD	"		=\DELIM
+---	DLD	:		=\DELIM
+83	TOK	it		it\RPS3N6
+84	TOK	enables		enable\VMFDRS3
+85	TOK	an		an\AI---S
+86	TOK	enzyme		enzyme\N5S
+87	TOK	to		to\P
+88	TOK	transcribe		transcribe\VMI----
+89	TOK	a		a\AI---S
+90	TOK	second		second\MOS
+91	TOK	genetic		genetic\JA
+92	TOK	segment		segment\N5S
+93	TOK	from		from\P
+##	TAG	<name>
+94	TOK	DNA		DNA\N46
+##	TAG	</name>
+95	TOK	into		into\P
+##	TAG	<name>
+96	TOK	RNA		RNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+97	TOK	In	BOS	in\P
+98	TOK	most		most\AG---6
+99	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+100	TOK	the		the\AT---6
+101	TOK	resulting		result\VMG----
+##	TAG	<name>
+102	TOK	RNA		RNA\N46
+##	TAG	</name>
+103	TOK	molecule		molecule\N5S
+104	TOK	serves		serve\VMFDRS3
+105	TOK	as		as\CS
+106	TOK	a		a\AI---S
+107	TOK	template		template\N5S
+108	TOK	for		for\P
+109	TOK	synthesis		synthesis\N5S
+110	TOK	of		of\P
+111	TOK	a		a\AI---S
+112	TOK	specific		specific\JA
+113	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+114	TOK	or		or\CC
+115	TOK	string		string\N5S
+116	TOK	of		of\P
+117	TOK	amino		amino\N5S
+118	TOK	acids		acid\N5P
+---	DLD	;		=\DELIM
+119	TOK	sometimes		sometimes\DGA7
+##	TAG	<name>
+120	TOK	RNA		RNA\N46
+##	TAG	</name>
+121	TOK	itself		itself\RXS3N-
+122	TOK	is		be\V6FDRS3
+123	TOK	the		the\AT---6
+124	TOK	final		final\JA
+125	TOK	product		product\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+126	TOK	Yet	BOS	yet\DGA7
+127	TOK	scientists		scientist\N5P
+128	TOK	have		have\V6F6R66
+129	TOK	continued		continue\VMC----
+130	TOK	to		to\P
+131	TOK	wonder		wonder\VMI----
+132	TOK	exactly		exactly\DGA7
+133	TOK	how		how\DGAW
+134	TOK	a		a\AI---S
+135	TOK	transcription		transcription\N5S
+136	TOK	factor		factor\N5S
+137	TOK	picks		pick\VMFDRS3
+138	TOK	out		out\DGA7
+139	TOK	its		its\APS3N6
+140	TOK	particular		particular\JA
+141	TOK	docking		dock\VMG----
+142	TOK	site		site\N5S
+143	TOK	on		on\P
+144	TOK	a		a\AI---S
+145	TOK	promoter		promoter\N5S
+---	DLD	,		=\DELIM
+146	TOK	distinguishing		distinguish\VMG----
+147	TOK	that		that\AD---S
+148	TOK	site		site\N5S
+149	TOK	from		from\P
+150	TOK	the		the\AT---6
+151	TOK	masses		mass\N5P
+152	TOK	of		of\P
+153	TOK	other		other\JA
+##	TAG	<name>
+154	TOK	DNA		DNA\N46
+##	TAG	</name>
+155	TOK	found		find\VMC----
+156	TOK	in		in\P
+157	TOK	a		a\AI---S
+158	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+159	TOK	Answers	BOS	answer\N5P
+160	TOK	are		be\V6FDR66
+161	TOK	now		now\DGA7
+162	TOK	beginning		begin\VMG----
+163	TOK	to		to\P
+164	TOK	emerge		emerge\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+165	TOK	It	BOS	it\RPS3N6
+166	TOK	turns		turn\VMFDRS3
+167	TOK	out		out\DGA7
+168	TOK	that		that\CS
+169	TOK	many		many\AI---P
+170	TOK	transcription		transcription\N5S
+171	TOK	factors		factor\N5P
+172	TOK	include		include\VMF6R66
+173	TOK	small		small\JA
+174	TOK	projections		projection\N5P
+175	TOK	called		call\VMC----
+176	TOK	zinc		zinc\N5S
+177	TOK	fingers		finger\N5P
+178	TOK	that		that\RW63N6
+179	TOK	are		be\V6FDR66
+180	TOK	perfectly		perfectly\DGA7
+181	TOK	suited		suit\VMC----
+182	TOK	to		to\P
+##	TAG	<name>
+183	TOK	DNA		DNA\N46
+##	TAG	</name>
+184	TOK	recognition		recognition\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+185	TOK	Our	BOS	our\APP1N6
+186	TOK	laboratory		laboratory\N5S
+187	TOK	at		at\P
+188	TOK	the		the\AT---6
+##	TAG	<name>
+189	TOK	Medical Research Council		Medical_Research_Council\N46
+##	TAG	</name>
+190	TOK	in		in\P
+##	TAG	<name>
+191	TOK	Cambridge		Cambridge\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+192	TOK	England		England\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+193	TOK	first		first\MOS
+194	TOK	identified		identify\VMC----
+195	TOK	a		a\AI---S
+196	TOK	zinc		zinc\N5S
+197	TOK	finger		finger\N5S
+198	TOK	in		in\P
+##	TAG	<na type="function">
+199	TOK	1985 -in		noanat\W
+##	TAG	</na>
+200	TOK	a		a\AI---S
+201	TOK	transcription		transcription\N5S
+202	TOK	factor		factor\N5S
+203	TOK	obtained		obtain\VMC----
+204	TOK	from		from\P
+205	TOK	a		a\AI---S
+206	TOK	frog		frog\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+207	TOK	Since then	BOS	Since_then\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+208	TOK	more		more\DDC7
+209	TOK	than		than\CS
+##	TAG	<num>
+210	TOK	200		200\X
+##	TAG	</num>
+211	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+212	TOK	many		many\AI---P
+213	TOK	of		of\P
+214	TOK	them		them\RPP3NA
+215	TOK	transcription		transcription\N5S
+216	TOK	factors		factor\N5P
+---	DLD	,		=\DELIM
+217	TOK	have		have\V6F6R66
+218	TOK	been		be\VMC----
+219	TOK	shown		show\VMC----
+220	TOK	to		to\P
+221	TOK	incorporate		incorporate\VMI----
+222	TOK	such		such\JA
+223	TOK	zinc		zinc\N5S
+224	TOK	fingers		finger\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+225	TOK	And	BOS	and\CC
+226	TOK	several		several\JA
+227	TOK	other		other\JA
+228	TOK	transcription		transcription\N5S
+229	TOK	factors		factor\N5P
+230	TOK	contain		contain\VMF6R66
+231	TOK	related		relate\VMC----
+232	TOK	structures		structure\N5P
+---	DLD	,		=\DELIM
+233	TOK	or		or\CC
+234	TOK	motifs		motif\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+235	TOK	Recently	BOS	recently\DGA7
+236	TOK	a		a\AI---S
+237	TOK	number		number\N5S
+238	TOK	of		of\P
+239	TOK	laboratories		laboratory\N5P
+---	DLD	,		=\DELIM
+240	TOK	among		among\P
+241	TOK	them		them\RPP3NA
+242	TOK	ours		ours\RSP1N-
+---	DLD	,		=\DELIM
+243	TOK	have		have\V6F6R66
+244	TOK	also		also\DGA7
+245	TOK	begun		begin\VMC----
+246	TOK	to		to\P
+247	TOK	decipher		decipher\VMI----
+248	TOK	just		just\DGA7
+249	TOK	how		how\DGAW
+250	TOK	zinc		zinc\N5S
+251	TOK	fingers		finger\N5P
+252	TOK	and		and\CC
+253	TOK	their		their\APP3N6
+254	TOK	relatives		relative\N5P
+255	TOK	manage		manage\VMF6R66
+256	TOK	to		to\P
+257	TOK	select		select\VMI----
+258	TOK	and		and\CC
+259	TOK	grip		grip\VMI----
+260	TOK	their		their\APP3N6
+261	TOK	specific		specific\JA
+262	TOK	binding		binding\N5S
+263	TOK	sites		site\N5P
+264	TOK	on		on\P
+##	TAG	<name>
+265	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+266	TOK	Of course	BOS	Of_course\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+267	TOK	zinc		zinc\N5S
+268	TOK	fingers		finger\N5P
+269	TOK	are		be\V6FDR66
+270	TOK	not		not\DGA7
+271	TOK	the		the\AT---6
+272	TOK	only		only\JA
+273	TOK	structures		structure\N5P
+274	TOK	transcription		transcription\N5S
+275	TOK	factors		factor\N5P
+276	TOK	exploit		exploit\VMF6R66
+277	TOK	for		for\P
+278	TOK	interacting		interact\VMG----
+279	TOK	with		with\P
+##	TAG	<name>
+280	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+281	TOK	Other	BOS	other\JA
+282	TOK	important		important\JA
+283	TOK	examples		example\N5P
+284	TOK	bear		bear\VMF6R66
+285	TOK	such		such\JA
+286	TOK	names		name\N5P
+287	TOK	as		as\P
+288	TOK	helix		helix\N5S
+---	DLI	-		=\DELIM
+289	TOK	turn		turn\VMF6R66
+---	DLI	-		=\DELIM
+290	TOK	helix		helix\N5S
+291	TOK	motifs		motif\N5P
+---	DLE	(		=\DELIM
+292	TOK	discovered		discover\VMC----
+293	TOK	before		before\P
+294	TOK	zinc		zinc\N5S
+295	TOK	fingers		finger\N5P
+---	DLD	,		=\DELIM
+296	TOK	in		in\P
+##	TAG	<num>
+297	TOK	1981		1981\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+298	TOK	homeodomains		homeodomains\N5P
+299	TOK	and		and\CC
+300	TOK	leucine		leucine\N5S
+301	TOK	zippers		zipper\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+302	TOK	The	BOS	the\AT---6
+303	TOK	zinc		zinc\N5S
+304	TOK	finger		finger\N5S
+---	DLD	,		=\DELIM
+305	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+306	TOK	is		be\V6FDRS3
+307	TOK	by		by\P
+308	TOK	far		far\DGA7
+309	TOK	the		the\AT---6
+310	TOK	most		most\DDS7
+311	TOK	prevalent		prevalent\JA
+##	TAG	<name>
+312	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+313	TOK	binding		binding\N5S
+314	TOK	motif		motif\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+315	TOK	Ultimately	BOS	ultimately\DGA7
+---	DLD	,		=\DELIM
+316	TOK	research		research\N5S
+317	TOK	into		into\P
+318	TOK	the		the\AT---6
+319	TOK	problem		problem\N5S
+320	TOK	of		of\P
+##	TAG	<name>
+321	TOK	DNA		DNA\N46
+##	TAG	</name>
+322	TOK	recognition		recognition\N5S
+323	TOK	should		shall\VOFDA66
+324	TOK	advance		advance\VMI----
+325	TOK	inquiry		inquiry\N5S
+326	TOK	into		into\P
+327	TOK	the		the\AT---6
+328	TOK	larger		large\JC
+329	TOK	question		question\N5S
+330	TOK	of		of\P
+331	TOK	how		how\DGAW
+332	TOK	development		development\N5S
+333	TOK	unfolds		unfold\VMFDRS3
+334	TOK	in		in\P
+335	TOK	multicellular		multicellular\JA
+336	TOK	organisms		organism\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+337	TOK	Although	BOS	although\CS
+338	TOK	every		every\AG---S
+339	TOK	cell		cell\N5S
+340	TOK	in		in\P
+341	TOK	an		an\AI---S
+342	TOK	embryo		embryo\N5S
+343	TOK	carries		carry\VMFDRS3
+344	TOK	the		the\AT---6
+345	TOK	same		same\JA
+346	TOK	genes		gene\N5P
+---	DLD	,		=\DELIM
+347	TOK	some		some\AG---6
+348	TOK	cells		cell\N5P
+349	TOK	differentiate		differentiate\VMF6R66
+350	TOK	to		to\P
+351	TOK	become		become\VMI----
+---	DLD	,		=\DELIM
+352	TOK	say		say\VMF6R66
+---	DLD	,		=\DELIM
+353	TOK	neurons		neuron\N5P
+---	DLD	,		=\DELIM
+354	TOK	whereas		whereas\CS
+355	TOK	others		other\RIP3N-
+356	TOK	become		become\VMF6R66
+357	TOK	skin		skin\N5S
+358	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+359	TOK	Their	BOS	their\APP3N6
+360	TOK	fates		fate\N5P
+361	TOK	vary		vary\VMF6R66
+362	TOK	because		because\CS
+363	TOK	different		different\JA
+364	TOK	combinations		combination\N5P
+365	TOK	of		of\P
+366	TOK	genes		gene\N5P
+367	TOK	are		be\V6FDR66
+368	TOK	turned		turn\VMC----
+369	TOK	on		on\P
+370	TOK	in		in\P
+371	TOK	the		the\AT---6
+372	TOK	cells		cell\N5P
+373	TOK	as		as\P
+374	TOK	the		the\AT---6
+375	TOK	embryo		embryo\N5S
+376	TOK	grows		grow\VMFDRS3
+---	DLD	,		=\DELIM
+377	TOK	leading		leading\JA
+378	TOK	to		to\P
+379	TOK	synthesis		synthesis\N5S
+380	TOK	of		of\P
+381	TOK	the		the\AT---6
+382	TOK	specialized		specialize\VMC----
+383	TOK	proteins		protein\N5P
+384	TOK	that		that\RW63N6
+385	TOK	give		give\VMF6R66
+386	TOK	differentiated		differentiate\VMC----
+387	TOK	cells		cell\N5P
+388	TOK	their		their\APP3N6
+389	TOK	distinctive		distinctive\JA
+390	TOK	properties		property\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+391	TOK	Knowledge	BOS	knowledge\N5S
+392	TOK	of		of\P
+393	TOK	how		how\DGAW
+394	TOK	transcription		transcription\N5S
+395	TOK	factors		factor\N5P
+396	TOK	recognize		recognize\VMF6R66
+397	TOK	their		their\APP3N6
+398	TOK	specific		specific\JA
+399	TOK	binding		binding\N5S
+400	TOK	sites		site\N5P
+401	TOK	on		on\P
+##	TAG	<name>
+402	TOK	DNA		DNA\N46
+##	TAG	</name>
+403	TOK	is		be\V6FDRS3
+404	TOK	central		central\JA
+405	TOK	to		to\P
+406	TOK	an		an\AI---S
+407	TOK	understanding		understanding\N5S
+408	TOK	of		of\P
+409	TOK	such		such\JA
+410	TOK	selective		selective\JA
+411	TOK	gene		gene\N5S
+412	TOK	activation		activation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+413	TOK	We	BOS	we\RPP1NN
+414	TOK	uncovered		uncover\VMF6A66
+415	TOK	the		the\AT---6
+416	TOK	existence		existence\N5S
+417	TOK	of		of\P
+418	TOK	zinc		zinc\N5S
+419	TOK	fingers		finger\N5P
+420	TOK	after		after\P
+421	TOK	becoming		become\VMG----
+422	TOK	intrigued		intrigue\VMC----
+423	TOK	by		by\P
+424	TOK	results		result\N5P
+425	TOK	from		from\P
+426	TOK	the		the\AT---6
+427	TOK	laboratories		laboratory\N5P
+428	TOK	of		of\P
+##	TAG	<name>
+429	TOK	Robert G. Roeder		Robert_G._Roeder\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+430	TOK	then		then\DGA7
+431	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+432	TOK	Washington University		Washington_University\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+433	TOK	and		and\CC
+##	TAG	<name>
+434	TOK	Donald D		Donald_D\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+435	TOK	Brown	BOS	brown\JA
+436	TOK	of		of\P
+437	TOK	the		the\AT---6
+##	TAG	<name>
+438	TOK	Carnegie Institution of Washington		Carnegie_Institution_of_Washington\N46
+##	TAG	</name>
+439	TOK	in		in\P
+##	TAG	<name>
+440	TOK	Baltimore		Baltimore\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+441	TOK	By	BOS	by\P
+##	TAG	<num>
+442	TOK	1980		1980\X
+##	TAG	</num>
+##	TAG	<name>
+443	TOK	Roeder		Roeder\N46
+##	TAG	</name>
+444	TOK	and		and\CC
+##	TAG	<name>
+445	TOK	Brown		Brown\N46
+##	TAG	</name>
+446	TOK	and		and\CC
+447	TOK	their		their\APP3N6
+448	TOK	associates		associate\N5P
+449	TOK	had		have\V6F6A66
+450	TOK	for		for\P
+451	TOK	the		the\AT---6
+452	TOK	first		first\MOS
+453	TOK	time		time\N5S
+454	TOK	dissected		dissect\VMF6A66
+455	TOK	the		the\AT---6
+456	TOK	steps		step\N5P
+457	TOK	leading		lead\VMG----
+458	TOK	to		to\P
+459	TOK	transcription		transcription\N5S
+460	TOK	of		of\P
+461	TOK	a		a\AI---S
+462	TOK	gene		gene\N5S
+463	TOK	in		in\P
+464	TOK	an		an\AI---S
+465	TOK	organism		organism\N5S
+466	TOK	more		more\DDC7
+467	TOK	advanced		advance\VMC----
+468	TOK	than		than\CS
+469	TOK	bacteria		bacteria\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+470	TOK	As	BOS	as\P
+471	TOK	part		part\N5S
+472	TOK	of		of\P
+473	TOK	that		that\AD---S
+474	TOK	work		work\VMF6R66
+---	DLD	,		=\DELIM
+475	TOK	they		they\RPP3NN
+476	TOK	demonstrated		demonstrate\VMF6A66
+477	TOK	that		that\CS
+478	TOK	in		in\P
+479	TOK	the		the\AT---6
+480	TOK	frog		frog\N5S
+##	TAG	<name>
+481	TOK	Xenopus		Xenopus\N46
+##	TAG	</name>
+482	TOK	laevis		laevis\N5P
+483	TOK	a		a\AI---S
+484	TOK	protein		protein\N5S
+485	TOK	called		call\VMF6A66
+486	TOK	transcription		transcription\N5S
+487	TOK	factor		factor\N5S
+##	TAG	<name>
+488	TOK	IIIA		IIIA\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+489	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+490	TOK	is		be\V6FDRS3
+491	TOK	one		one\MCS
+492	TOK	of		of\P
+##	TAG	<loc pos="DGA7">
+493	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+##	TAG	<num>
+494	TOK	three		three\X
+##	TAG	</num>
+495	TOK	factors		factor\N5P
+496	TOK	required		require\VMC----
+497	TOK	to		to\P
+498	TOK	activate		activate\VMI----
+499	TOK	the		the\AT---6
+500	TOK	gene		gene\N5S
+501	TOK	that		that\RW63N6
+502	TOK	gives		give\VMFDRS3
+503	TOK	rise		rise\N5S
+504	TOK	to		to\P
+##	TAG	<na type="code">
+505	TOK	5S		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+506	TOK	RNA		RNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+507	TOK	5S	BOS	5S\N5S
+508	TOK	RNA		rna\N5S
+509	TOK	is		be\V6FDRS3
+510	TOK	a		a\AI---S
+511	TOK	constituent		constituent\N5S
+512	TOK	of		of\P
+513	TOK	the		the\AT---6
+514	TOK	ribosomes		ribosome\N5P
+515	TOK	on		on\P
+516	TOK	which		which\RW63N-
+517	TOK	molecules		molecule\N5P
+518	TOK	of		of\P
+519	TOK	messenger		messenger\N5S
+520	TOK	RNA		RNA\N5P
+---	DLE	(		=\DELIM
+521	TOK	the		the\AT---6
+522	TOK	typical		typical\JA
+523	TOK	products		product\N5P
+524	TOK	of		of\P
+525	TOK	gene		gene\N5S
+526	TOK	transcription		transcription\N5S
+---	DLD	)		=\DELIM
+527	TOK	are		be\V6FDR66
+528	TOK	translated		translate\VMC----
+529	TOK	into		into\P
+530	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+531	TOK	The	BOS	the\AT---6
+532	TOK	investigators		investigator\N5P
+533	TOK	further		further\DGA7
+534	TOK	found		find\VMF6A66
+535	TOK	that		that\CS
+##	TAG	<name>
+536	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+537	TOK	binds		bind\VMFDRS3
+538	TOK	to		to\P
+539	TOK	a		a\AI---S
+540	TOK	relatively		relatively\DGA7
+541	TOK	long		long\JA
+542	TOK	patch		patch\N5S
+543	TOK	of		of\P
+##	TAG	<name>
+544	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+545	TOK	encompassing		encompass\VMG----
+546	TOK	a		a\AI---S
+547	TOK	particular		particular\JA
+548	TOK	sequence		sequence\N5S
+549	TOK	of		of\P
+550	TOK	about		about\DGA7
+##	TAG	<num>
+551	TOK	45		45\X
+##	TAG	</num>
+552	TOK	base		base\N5S
+553	TOK	pairs		pair\N5P
+---	DLD	,		=\DELIM
+554	TOK	or		or\CC
+---	DLE	"		=\DELIM
+555	TOK	rungs		rung\N5P
+---	DLD	"		=\DELIM
+556	TOK	on		on\P
+557	TOK	the		the\AT---6
+558	TOK	familiar		familiar\JA
+##	TAG	<name>
+559	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+560	TOK	ladder		ladder\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<name>
+561	TOK	DNA		DNA\N46
+##	TAG	</name>
+562	TOK	is		be\V6FDRS3
+563	TOK	made		make\VMC----
+564	TOK	up		up\P
+565	TOK	of		of\P
+##	TAG	<num>
+566	TOK	two		two\X
+##	TAG	</num>
+567	TOK	strands		strand\N5P
+568	TOK	of		of\P
+569	TOK	nucleotides		nucleotide\N5P
+---	DLD	,		=\DELIM
+570	TOK	which		which\RW63N-
+571	TOK	themselves		themselves\RXP3N-
+572	TOK	consist		consist\VMF6R66
+573	TOK	of		of\P
+574	TOK	the		the\AT---6
+575	TOK	sugar		sugar\N5S
+576	TOK	deoxyribose		deoxyribose\N5S
+---	DLD	,		=\DELIM
+577	TOK	a		a\AI---S
+578	TOK	phosphate		phosphate\N5S
+579	TOK	group		group\N5S
+580	TOK	and		and\CC
+581	TOK	one		one\MCS
+582	TOK	of		of\P
+##	TAG	<num>
+583	TOK	four		four\X
+##	TAG	</num>
+584	TOK	distinguishing		distinguish\VMG----
+585	TOK	bases		base\N5P
+---	DLD	:		=\DELIM
+586	TOK	adenine		adenine\N5S
+---	DLD	,		=\DELIM
+587	TOK	cytosine		cytosine\N5S
+---	DLD	,		=\DELIM
+588	TOK	guanine		guanine\N5S
+589	TOK	or		or\CC
+590	TOK	thymine		thymine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+591	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+592	TOK	two		two\X
+##	TAG	</num>
+593	TOK	strands		strand\N5P
+594	TOK	are		be\V6FDR66
+595	TOK	attached		attach\VMC----
+596	TOK	to		to\P
+##	TAG	<loc pos="RPP3N-">
+597	TOK	each other		each_other\RPP3N-
+##	TAG	</loc>
+598	TOK	through		through\P
+599	TOK	their		their\APP3N6
+600	TOK	bases		base\N5P
+---	DLD	,		=\DELIM
+601	TOK	so		so\CC
+602	TOK	that		that\CS
+603	TOK	adenine		adenine\N5S
+604	TOK	always		always\DGA7
+605	TOK	pairs		pair\N5P
+606	TOK	with		with\P
+607	TOK	thymine		thymine\N5S
+---	DLD	,		=\DELIM
+608	TOK	and		and\CC
+609	TOK	cytosine		cytosine\N5S
+610	TOK	pairs		pair\N5P
+611	TOK	with		with\P
+##	TAG	<abbr>
+612	TOK	guanine.		guanine.\N5P
+##	TAG	</abbr>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+613	TOK	The	BOS	the\AT---6
+614	TOK	length		length\N5S
+615	TOK	of		of\P
+616	TOK	the		the\AT---6
+##	TAG	<name>
+617	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+618	TOK	docking		dock\VMG----
+619	TOK	site		site\N5S
+620	TOK	surprised		surprise\VMF6A66
+621	TOK	us		us\RPP1NA
+622	TOK	because		because\CS
+##	TAG	<name>
+623	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+624	TOK	is		be\V6FDRS3
+625	TOK	itself		itself\RXS3N-
+626	TOK	rather		rather\DGA7
+627	TOK	small		small\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+628	TOK	Transcription	BOS	transcription\N5S
+629	TOK	factors		factor\N5P
+630	TOK	of		of\P
+631	TOK	the		the\AT---6
+632	TOK	same		same\JA
+633	TOK	size		size\N5S
+634	TOK	that		that\RW63N6
+635	TOK	had		have\V6F6A66
+636	TOK	earlier		early\JC
+637	TOK	been		be\VMC----
+638	TOK	identified		identify\VMC----
+639	TOK	in		in\P
+640	TOK	bacteria		bacteria\N5P
+641	TOK	attach		attach\VMF6R66
+642	TOK	themselves		themselves\RXP3N-
+643	TOK	to		to\P
+644	TOK	much		much\DGA7
+645	TOK	shorter		short\JC
+646	TOK	tracts		tract\N5P
+647	TOK	of		of\P
+##	TAG	<name>
+648	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+649	TOK	on		on\P
+650	TOK	the		the\AT---6
+651	TOK	order		order\N5S
+652	TOK	of		of\P
+##	TAG	<num>
+653	TOK	15		15\X
+##	TAG	</num>
+654	TOK	base		base\N5S
+655	TOK	pairs		pair\N5P
+656	TOK	long		long\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+657	TOK	How	BOS	how\DGAW
+---	DLD	,		=\DELIM
+658	TOK	we		we\RPP1NN
+659	TOK	asked		ask\VMF6A66
+---	DLD	,		=\DELIM
+660	TOK	could		can\VOFDA66
+661	TOK	this		this\AD---S
+662	TOK	small		small\JA
+##	TAG	<name>
+663	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+664	TOK	molecule		molecule\N5S
+665	TOK	span		span\VMF6R66
+666	TOK	such		such\JA
+667	TOK	an		an\AI---S
+668	TOK	extended		extend\VMC----
+669	TOK	stretch		stretch\N5S
+670	TOK	of		of\P
+##	TAG	<name>
+671	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+672	TOK	Fortunately	BOS	fortunately\DGA7
+---	DLD	,		=\DELIM
+673	TOK	the		the\AT---6
+674	TOK	problem		problem\N5S
+675	TOK	seemed		seem\VMF6A66
+676	TOK	tractable		tractable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+677	TOK	Although	BOS	although\CS
+678	TOK	transcription		transcription\N5S
+679	TOK	factors		factor\N5P
+680	TOK	tend		tend\VMF6R66
+681	TOK	to		to\P
+682	TOK	be		be\VMI----
+683	TOK	produced		produce\VMC----
+684	TOK	in		in\P
+685	TOK	scarce		scarce\JA
+686	TOK	amounts		amount\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+687	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+688	TOK	is		be\V6FDRS3
+689	TOK	abundant		abundant\JA
+690	TOK	in		in\P
+691	TOK	the		the\AT---6
+692	TOK	ovaries		ovary\N5P
+693	TOK	of		of\P
+694	TOK	immature		immature\JA
+695	TOK	frogs		frog\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+696	TOK	There	BOS	there\DGA7
+697	TOK	it		it\RPS3N6
+698	TOK	is		be\V6FDRS3
+699	TOK	stored		store\VMC----
+700	TOK	as		as\P
+701	TOK	a		a\AI---S
+702	TOK	complex		complex\JA
+703	TOK	with		with\P
+704	TOK	the		the\AT---6
+##	TAG	<na type="code">
+705	TOK	5S		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+706	TOK	RNA		RNA\N46
+##	TAG	</name>
+707	TOK	it		it\RPS3N6
+708	TOK	helps		help\VMFDRS3
+709	TOK	to		to\P
+710	TOK	generate		generate\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+711	TOK	The	BOS	the\AT---6
+712	TOK	abundance		abundance\N5S
+713	TOK	gave		give\VMF6A66
+714	TOK	us		us\RPP1NA
+715	TOK	confidence		confidence\N5S
+716	TOK	to		to\P
+717	TOK	think		think\VMI----
+718	TOK	we		we\RPP1NN
+719	TOK	could		can\VOFDA66
+720	TOK	gather		gather\VMI----
+721	TOK	enough		enough\DGA7
+722	TOK	of		of\P
+723	TOK	the		the\AT---6
+##	TAG	<name>
+724	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<na type="code">
+725	TOK	5S		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+726	TOK	RNA		RNA\N46
+##	TAG	</name>
+727	TOK	complex		complex\JA
+728	TOK	to		to\P
+729	TOK	isolate		isolate\VMI----
+730	TOK	the		the\AT---6
+731	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+732	TOK	Having	BOS	have\VMG----
+733	TOK	done		do\VMC----
+734	TOK	that		that\AD---S
+---	DLD	,		=\DELIM
+735	TOK	we		we\RPP1NN
+736	TOK	might		may\VOFDR66
+737	TOK	learn		learn\VMI----
+738	TOK	something		something\RIS3N-
+739	TOK	about		about\P
+740	TOK	the		the\AT---6
+741	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+742	TOK	dimensional		dimensional\JA
+743	TOK	organization		organization\N5S
+744	TOK	of		of\P
+745	TOK	the		the\AT---6
+746	TOK	protein		protein\N5S
+747	TOK	and		and\CC
+748	TOK	about		about\DGA7
+749	TOK	how		how\DGAW
+750	TOK	it		it\RPS3N6
+751	TOK	binds		bind\VMFDRS3
+752	TOK	to		to\P
+753	TOK	its		its\APS3N6
+754	TOK	target		target\N5S
+755	TOK	site		site\N5S
+756	TOK	on		on\P
+757	TOK	the		the\AT---6
+##	TAG	<na type="code">
+758	TOK	5S		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+759	TOK	RNA		RNA\N46
+##	TAG	</name>
+760	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+761	TOK	The	BOS	the\AT---6
+762	TOK	plan		plan\N5S
+763	TOK	was		be\V6F-A66
+764	TOK	sound		sound\JA
+---	DLD	,		=\DELIM
+765	TOK	but		but\CC
+766	TOK	we		we\RPP1NN
+767	TOK	soon		soon\DGA7
+768	TOK	encountered		encounter\VMF6A66
+769	TOK	a		a\AI---S
+770	TOK	difficulty		difficulty\N5S
+---	DLE	-		=\DELIM
+771	TOK	one		one\RIS3N-
+772	TOK	that		that\RW63N6
+773	TOK	would		will\VOFDA66
+774	TOK	prove		prove\VMI----
+775	TOK	fortunate		fortunate\JA
+776	TOK	because		because\CS
+777	TOK	it		it\RPS3N6
+778	TOK	set		set\VMI----
+779	TOK	us		us\RPP1NA
+780	TOK	directly		directly\DGA7
+781	TOK	on		on\P
+782	TOK	a		a\AI---S
+783	TOK	path		path\N5S
+784	TOK	toward		toward\P
+785	TOK	discovery		discovery\N5S
+786	TOK	of		of\P
+787	TOK	the		the\AT---6
+788	TOK	zinc		zinc\N5S
+789	TOK	finger		finger\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+790	TOK	In	BOS	in\P
+##	TAG	<num>
+791	TOK	1982		1982\X
+##	TAG	</num>
+##	TAG	<name>
+792	TOK	Jonathan Miller		Jonathan_Miller\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+793	TOK	then		then\DGA7
+794	TOK	a		a\AI---S
+795	TOK	research		research\N5S
+796	TOK	student		student\N5S
+797	TOK	in		in\P
+798	TOK	our		our\APP1N6
+799	TOK	laboratory		laboratory\N5S
+---	DLD	,		=\DELIM
+800	TOK	applied		apply\VMC----
+801	TOK	a		a\AI---S
+802	TOK	known		know\VMC----
+803	TOK	recovery		recovery\N5S
+804	TOK	technique		technique\N5S
+805	TOK	to		to\P
+806	TOK	extract		extract\VMI----
+807	TOK	the		the\AT---6
+##	TAG	<name>
+808	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<na type="code">
+809	TOK	5S		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+810	TOK	RNA		RNA\N46
+##	TAG	</name>
+811	TOK	complex		complex\JA
+812	TOK	from		from\P
+813	TOK	frog		frog\N5S
+814	TOK	ovaries		ovary\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+815	TOK	He	BOS	he\RPS3MN
+816	TOK	obtained		obtain\VMF6A66
+817	TOK	disappointingly		disappointingly\DGA7
+818	TOK	little		little\JA
+819	TOK	of		of\P
+820	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+821	TOK	It	BOS	it\RPS3N6
+822	TOK	turned		turn\VMF6A66
+823	TOK	out		out\DGA7
+824	TOK	that		that\CS
+825	TOK	the		the\AT---6
+826	TOK	method		method\N5S
+827	TOK	he		he\RPS3MN
+828	TOK	used		use\VMF6A66
+829	TOK	was		be\V6F-A66
+830	TOK	eliminating		eliminate\VMG----
+831	TOK	a		a\AI---S
+832	TOK	metal		metal\N5S
+833	TOK	needed		need\VMC----
+834	TOK	to		to\P
+835	TOK	hold		hold\VMI----
+836	TOK	the		the\AT---6
+837	TOK	complex		complex\JA
+838	TOK	together		together\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+839	TOK	After	BOS	after\P
+##	TAG	<name>
+840	TOK	Miller		Miller\N46
+##	TAG	</name>
+841	TOK	modified		modify\VMC----
+842	TOK	the		the\AT---6
+843	TOK	extraction		extraction\N5S
+844	TOK	procedure		procedure\N5S
+845	TOK	and		and\CC
+846	TOK	procured		procure\VMC----
+847	TOK	a		a\AI---S
+848	TOK	good		good\JA
+849	TOK	supply		supply\N5S
+850	TOK	of		of\P
+851	TOK	the		the\AT---6
+852	TOK	complex		complex\JA
+---	DLD	,		=\DELIM
+853	TOK	he		he\RPS3MN
+854	TOK	showed		show\VMF6A66
+855	TOK	that		that\CS
+856	TOK	the		the\AT---6
+857	TOK	lost		lose\VMC----
+858	TOK	metal		metal\N5S
+859	TOK	was		be\V6F-A66
+860	TOK	zinc		zinc\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+861	TOK	Each	BOS	each\AG---S
+##	TAG	<name>
+862	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<na type="code">
+863	TOK	5S		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+864	TOK	RNA		RNA\N46
+##	TAG	</name>
+865	TOK	unit		unit\N5S
+866	TOK	incorporated		incorporate\VMC----
+867	TOK	between		between\P
+##	TAG	<num>
+868	TOK	seven		seven\X
+##	TAG	</num>
+869	TOK	and		and\CC
+##	TAG	<num>
+870	TOK	11		11\X
+##	TAG	</num>
+871	TOK	zinc		zinc\N5S
+872	TOK	ions		ion\N5P
+---	DLD	,		=\DELIM
+873	TOK	an		an\AI---S
+874	TOK	unusually		unusually\DGA7
+875	TOK	large		large\JA
+876	TOK	number		number\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+877	TOK	Other	BOS	other\JA
+878	TOK	experiments		experiment\N5P
+879	TOK	led		lead\VMF6A66
+880	TOK	us		us\RPP1NA
+881	TOK	further		further\DGA7
+882	TOK	toward		toward\P
+883	TOK	the		the\AT---6
+884	TOK	zinc		zinc\N5S
+885	TOK	finger		finger\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+886	TOK	When	BOS	when\CS
+887	TOK	an		an\AI---S
+888	TOK	enzyme		enzyme\N5S
+889	TOK	called		call\VMF6A66
+890	TOK	a		a\AI---S
+891	TOK	protease		protease\N5S
+892	TOK	chopped		chop\VMF6A66
+##	TAG	<name>
+893	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+894	TOK	into		into\P
+895	TOK	successively		successively\DGA7
+896	TOK	smaller		small\JC
+897	TOK	fragments		fragment\N5P
+---	DLD	,		=\DELIM
+898	TOK	the		the\AT---6
+899	TOK	fragments		fragment\N5P
+900	TOK	shrank		shrink\VMF6A66
+901	TOK	by		by\P
+902	TOK	increments		increment\N5P
+903	TOK	of		of\P
+904	TOK	about		about\DGA7
+##	TAG	<num>
+905	TOK	three		three\X
+##	TAG	</num>
+906	TOK	kilodaltons		kilodalton\N5P
+---	DLE	(		=\DELIM
+907	TOK	a		a\AI---S
+908	TOK	measure		measure\N5S
+909	TOK	of		of\P
+910	TOK	molecular		molecular\JA
+911	TOK	weight		weight\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+912	TOK	They	BOS	they\RPP3NN
+913	TOK	ended		end\VMF6A66
+914	TOK	up		up\P
+915	TOK	as		as\DGA7
+916	TOK	three		three\JA
+---	DLI	-		=\DELIM
+917	TOK	kilodal		kilodal\N5P
+---	DLI	-		=\DELIM
+918	TOK	ton		ton\N56
+919	TOK	units		unit\N5P
+920	TOK	that		that\RW63N6
+921	TOK	resisted		resist\VMF6A66
+922	TOK	further		further\DGA7
+923	TOK	attack		attack\VMF6R66
+924	TOK	presumably		presumably\DGA7
+925	TOK	because		because\CS
+926	TOK	they		they\RPP3NN
+927	TOK	were		be\V6F-A66
+928	TOK	tightly		tightly\DGA7
+929	TOK	folded		fold\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+930	TOK	Collectively	BOS	collectively\DGA7
+---	DLD	,		=\DELIM
+931	TOK	these		this\AD---P
+932	TOK	results		result\N5P
+933	TOK	suggested		suggest\VMF6A66
+934	TOK	that		that\CS
+##	TAG	<name>
+935	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+936	TOK	was		be\V6F-A66
+937	TOK	built		build\VMC----
+938	TOK	almost		almost\DGA7
+939	TOK	entirely		entirely\DGA7
+940	TOK	from		from\P
+941	TOK	a		a\AI---S
+942	TOK	string		string\N5S
+943	TOK	of		of\P
+944	TOK	tandem		tandem\JA
+945	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+946	TOK	kilodalton		kilodalton\N5S
+947	TOK	segments		segment\VMFDRS3
+---	DLE	(		=\DELIM
+948	TOK	representing		represent\VMG----
+949	TOK	about		about\P
+##	TAG	<num>
+950	TOK	30		30\X
+##	TAG	</num>
+951	TOK	amino		amino\N5S
+952	TOK	acids		acid\N5P
+953	TOK	per		per\P
+954	TOK	segment		segment\VMI----
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+955	TOK	each		each\RIS3N-
+956	TOK	of		of\P
+957	TOK	which		which\RW63N-
+958	TOK	was		be\V6F-A66
+959	TOK	folded		fold\VMC----
+960	TOK	around		around\P
+961	TOK	a		a\AI---S
+962	TOK	zinc		zinc\N5S
+963	TOK	ion		ion\N5S
+964	TOK	into		into\P
+965	TOK	a		a\AI---S
+966	TOK	small		small\JA
+---	DLD	,		=\DELIM
+967	TOK	compact		compact\JA
+##	TAG	<name>
+968	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+969	TOK	binding		binding\N5S
+970	TOK	domain		domain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+971	TOK	If	BOS	if\CS
+972	TOK	we		we\RPP1NN
+973	TOK	were		be\V6F-A66
+974	TOK	right		right\DGA7
+---	DLD	,		=\DELIM
+975	TOK	the		the\AT---6
+976	TOK	discovery		discovery\N5S
+977	TOK	would		will\VOFDA66
+978	TOK	mean		mean\VMI----
+979	TOK	we		we\RPP1NN
+980	TOK	had		have\V6F6A66
+981	TOK	come		come\VMC----
+982	TOK	across		across\P
+983	TOK	a		a\AI---S
+984	TOK	novel		novel\JA
+985	TOK	kind		kind\N5S
+986	TOK	of		of\P
+987	TOK	transcription		transcription\N5S
+988	TOK	factor		factor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+989	TOK	Au	BOS	Au\N46
+##	TAG	</name>
+990	TOK	others		other\RIP3N-
+991	TOK	that		that\RW63N6
+992	TOK	had		have\V6F6A66
+993	TOK	been		be\VMC----
+994	TOK	studied		study\VMC----
+995	TOK	in		in\P
+996	TOK	similar		similar\JA
+997	TOK	detail		detail\N5S
+998	TOK	had		have\V6F6A66
+999	TOK	been		be\VMC----
+1000	TOK	found		find\VMC----
+1001	TOK	to		to\P
+1002	TOK	interact		interact\VMI----
+1003	TOK	with		with\P
+##	TAG	<name>
+1004	TOK	DNA		DNA\N46
+##	TAG	</name>
+1005	TOK	as		as\P
+1006	TOK	dimers		dimer\N5P
+---	DLD	,		=\DELIM
+1007	TOK	or		or\CC
+1008	TOK	pairs		pair\N5P
+---	DLD	,		=\DELIM
+1009	TOK	in		in\P
+1010	TOK	which		which\RW63N-
+1011	TOK	each		each\AG---S
+1012	TOK	protein		protein\N5S
+1013	TOK	in		in\P
+1014	TOK	the		the\AT---6
+1015	TOK	dimer		dimer\N5S
+1016	TOK	made		make\VMC----
+1017	TOK	contact		contact\N5S
+1018	TOK	with		with\P
+##	TAG	<name>
+1019	TOK	DNA		DNA\N46
+##	TAG	</name>
+1020	TOK	through		through\P
+1021	TOK	just		just\DGA7
+1022	TOK	one		one\MCS
+##	TAG	<name>
+1023	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1024	TOK	binding		binding\N5S
+1025	TOK	motif		motif\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1026	TOK	Our	BOS	our\APP1N6
+1027	TOK	findings		finding\N5P
+1028	TOK	implied		imply\VMF6A66
+1029	TOK	that		that\CS
+##	TAG	<name>
+1030	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+1031	TOK	would		will\VOFDA66
+1032	TOK	stretch		stretch\VMI----
+1033	TOK	out		out\DGA7
+1034	TOK	along		along\P
+1035	TOK	the		the\AT---6
+1036	TOK	double		double\JA
+1037	TOK	helix		helix\N5S
+---	DLD	,		=\DELIM
+1038	TOK	touching		touch\VMG----
+1039	TOK	it		it\RPS3N6
+1040	TOK	at		at\P
+1041	TOK	several		several\JA
+1042	TOK	points		point\N5P
+##	TAG	<loc pos="CS">
+1043	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+1044	TOK	just		just\DGA7
+1045	TOK	one		one\MCS
+1046	TOK	or		or\CC
+##	TAG	<num>
+1047	TOK	two		two\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1048	TOK	Such	BOS	such\JA
+1049	TOK	multiple		multiple\JA
+1050	TOK	contacts		contact\N5P
+1051	TOK	would		will\VOFDA66
+1052	TOK	also		also\DGA7
+1053	TOK	explain		explain\VMI----
+1054	TOK	how		how\DGAW
+##	TAG	<name>
+1055	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+1056	TOK	could		can\VOFDA66
+1057	TOK	interact		interact\VMI----
+1058	TOK	with		with\P
+1059	TOK	a		a\AI---S
+1060	TOK	very		very\JA
+1061	TOK	long		long\JA
+1062	TOK	segment		segment\N5S
+1063	TOK	of		of\P
+##	TAG	<name>
+1064	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1065	TOK	As	BOS	as\CS
+1066	TOK	we		we\RPP1NN
+1067	TOK	were		be\V6F-A66
+1068	TOK	considering		consider\VMG----
+1069	TOK	how		how\DGAW
+1070	TOK	to		to\P
+1071	TOK	substantiate		substantiate\VMI----
+1072	TOK	our		our\APP1N6
+1073	TOK	model		model\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1074	TOK	Roeder		Roeder\N46
+##	TAG	</name>
+1075	PGR	's		genmark\GENMARK
+1076	TOK	laboratory		laboratory\N5S
+1077	TOK	published		publish\VMC----
+1078	TOK	the		the\AT---6
+1079	TOK	amino		amino\N5S
+1080	TOK	acid		acid\N5S
+1081	TOK	sequence		sequence\N5S
+1082	TOK	of		of\P
+##	TAG	<name>
+1083	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1084	TOK	In	BOS	in\P
+1085	TOK	that		that\AD---S
+1086	TOK	sequence		sequence\N5S
+---	DLD	,		=\DELIM
+1087	TOK	we		we\RPP1NN
+1088	TOK	found		find\VMF6A66
+1089	TOK	support		support\N5S
+1090	TOK	for		for\P
+1091	TOK	our		our\APP1N6
+1092	TOK	proposal		proposal\N5S
+---	DLD	:		=\DELIM
+1093	TOK	the		the\AT---6
+1094	TOK	first		first\MOS
+##	TAG	<num>
+1095	TOK	three		three\X
+##	TAG	</num>
+1096	TOK	quarters		quarter\N5P
+1097	TOK	of		of\P
+1098	TOK	the		the\AT---6
+1099	TOK	protein		protein\N5S
+1100	TOK	formed		form\VMF6A66
+1101	TOK	a		a\AI---S
+1102	TOK	continuous		continuous\JA
+1103	TOK	run		run\N5S
+1104	TOK	of		of\P
+##	TAG	<num>
+1105	TOK	nine		nine\X
+##	TAG	</num>
+1106	TOK	similar		similar\JA
+1107	TOK	units		unit\N5P
+1108	TOK	of		of\P
+1109	TOK	about		about\DGA7
+##	TAG	<num>
+1110	TOK	30		30\X
+##	TAG	</num>
+1111	TOK	amino		amino\N5S
+1112	TOK	acids		acid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1113	TOK	Moreover	BOS	moreover\DGA7
+---	DLD	,		=\DELIM
+1114	TOK	a		a\AI---S
+1115	TOK	pair		pair\N56
+1116	TOK	of		of\P
+1117	TOK	cysteine		cysteine\N5S
+1118	TOK	amino		amino\N5S
+1119	TOK	acids		acid\N5P
+1120	TOK	and		and\CC
+1121	TOK	a		a\AI---S
+1122	TOK	pair		pair\N56
+1123	TOK	of		of\P
+1124	TOK	histidine		histidine\N5S
+1125	TOK	amino		amino\N5S
+1126	TOK	acids		acid\N5P
+1127	TOK	resided		reside\VMC----
+1128	TOK	at		at\P
+1129	TOK	virtually		virtually\DGA7
+1130	TOK	identical		identical\JA
+1131	TOK	positions		position\N5P
+1132	TOK	within		within\P
+1133	TOK	each		each\AG---S
+1134	TOK	unit		unit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1135	TOK	This	BOS	this\AD---S
+1136	TOK	last		last\JA
+1137	TOK	finding		finding\N5S
+1138	TOK	was		be\V6F-A66
+1139	TOK	consistent		consistent\JA
+1140	TOK	with		with\P
+1141	TOK	the		the\AT---6
+1142	TOK	notion		notion\N5S
+1143	TOK	that		that\CS
+1144	TOK	each		each\AG---S
+1145	TOK	unit		unit\N5S
+1146	TOK	contained		contain\VMF6A66
+1147	TOK	its		its\APS3N6
+1148	TOK	own		own\JA
+1149	TOK	zinc		zinc\N5S
+1150	TOK	ion		ion\N5S
+---	DLD	,		=\DELIM
+1151	TOK	because		because\CS
+1152	TOK	zinc		zinc\N5S
+1153	TOK	in		in\P
+1154	TOK	proteins		protein\N5P
+1155	TOK	is		be\V6FDRS3
+1156	TOK	generally		generally\DGA7
+1157	TOK	found		find\VMC----
+1158	TOK	bound		bind\VMC----
+1159	TOK	to		to\P
+##	TAG	<num>
+1160	TOK	four		four\X
+##	TAG	</num>
+1161	TOK	amino		amino\N5S
+1162	TOK	acids		acid\N5P
+---	DLD	,		=\DELIM
+1163	TOK	often		often\DGA7
+##	TAG	<num>
+1164	TOK	four		four\X
+##	TAG	</num>
+1165	TOK	cysteines		cysteine\N5P
+1166	TOK	or		or\CC
+1167	TOK	some		some\AG---6
+1168	TOK	combination		combination\N5S
+1169	TOK	of		of\P
+1170	TOK	cysteines		cysteine\N5P
+1171	TOK	and		and\CC
+1172	TOK	histidines		histidine\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1173	TOK	By	BOS	by\P
+##	TAG	<num>
+1174	TOK	1985		1985\X
+##	TAG	</num>
+1175	TOK	these		this\AD---P
+1176	TOK	results		result\N5P
+1177	TOK	led		lead\VMF6A66
+1178	TOK	one		one\MCS
+1179	TOK	of		of\P
+1180	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1181	TOK	Klug		Klug\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1182	TOK	to		to\P
+1183	TOK	propose		propose\VMI----
+1184	TOK	formally		formally\DGA7
+1185	TOK	that		that\CS
+1186	TOK	the		the\AT---6
+1187	TOK	invariant		invariant\JA
+1188	TOK	cysteines		cysteine\N5P
+1189	TOK	and		and\CC
+1190	TOK	histidines		histidine\N5P
+1191	TOK	were		be\V6F-A66
+1192	TOK	used		use\VMC----
+1193	TOK	to		to\P
+1194	TOK	fold		fold\VMI----
+1195	TOK	each		each\AG---S
+1196	TOK	unit		unit\N5S
+1197	TOK	independently		independently\DGA7
+1198	TOK	into		into\P
+1199	TOK	a		a\AI---S
+##	TAG	<name>
+1200	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1201	TOK	binding		binding\N5S
+1202	TOK	minidomain		minidomain\N5P
+---	DLE	-		=\DELIM
+1203	TOK	later		late\JC
+1204	TOK	called		call\VMC----
+1205	TOK	a		a\AI---S
+1206	TOK	zinc		zinc\N5S
+1207	TOK	finger		finger\N5S
+1208	TOK	because		because\CS
+1209	TOK	it		it\RPS3N6
+1210	TOK	was		be\V6F-A66
+1211	TOK	used		use\VMC----
+1212	TOK	to		to\P
+1213	TOK	grip		grip\VMI----
+1214	TOK	the		the\AT---6
+##	TAG	<name>
+1215	TOK	DNA		DNA\N46
+##	TAG	</name>
+1216	TOK	double		double\JA
+1217	TOK	helix		helix\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1218	TOK	He	BOS	he\RPS3MN
+1219	TOK	suggested		suggest\VMF6A66
+1220	TOK	that		that\CS
+1221	TOK	the		the\AT---6
+1222	TOK	pair		pair\N56
+1223	TOK	of		of\P
+1224	TOK	cysteines		cysteine\N5P
+1225	TOK	near		near\P
+1226	TOK	one		one\MCS
+1227	TOK	end		end\N5S
+1228	TOK	of		of\P
+1229	TOK	the		the\AT---6
+1230	TOK	unit		unit\N5S
+1231	TOK	and		and\CC
+1232	TOK	the		the\AT---6
+1233	TOK	pair		pair\N56
+1234	TOK	of		of\P
+1235	TOK	histidines		histidine\N5P
+1236	TOK	near		near\P
+1237	TOK	the		the\AT---6
+1238	TOK	other		other\JA
+1239	TOK	end		end\N5S
+1240	TOK	bound		bind\VMF6A66
+1241	TOK	the		the\AT---6
+1242	TOK	same		same\JA
+1243	TOK	zinc		zinc\N5S
+1244	TOK	atom		atom\N5S
+---	DLD	,		=\DELIM
+1245	TOK	causing		cause\VMG----
+1246	TOK	the		the\AT---6
+1247	TOK	intervening		intervene\VMG----
+1248	TOK	stretch		stretch\N5S
+1249	TOK	of		of\P
+1250	TOK	amino		amino\N5S
+1251	TOK	acids		acid\N5P
+1252	TOK	to		to\P
+1253	TOK	loop		loop\N5S
+1254	TOK	out		out\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1255	TOK	Thus	BOS	thus\DGA7
+---	DLD	,		=\DELIM
+1256	TOK	in		in\P
+1257	TOK	each		each\AG---S
+##	TAG	<num>
+1258	TOK	30		30\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1259	TOK	amino		amino\N5S
+---	DLI	-		=\DELIM
+1260	TOK	acid		acid\N5S
+1261	TOK	unit		unit\N5S
+---	DLD	,		=\DELIM
+1262	TOK	about		about\P
+##	TAG	<num>
+1263	TOK	2		2\X
+##	TAG	</num>
+##	TAG	<num>
+1264	TOK	5		5\X
+##	TAG	</num>
+1265	TOK	amino		amino\N5S
+1266	TOK	acids		acid\N5P
+1267	TOK	would		will\VOFDA66
+1268	TOK	fold		fold\VMI----
+1269	TOK	into		into\P
+1270	TOK	a		a\AI---S
+1271	TOK	structured		structure\VMC----
+1272	TOK	domain		domain\N5S
+---	DLE	(		=\DELIM
+1273	TOK	a		a\AI---S
+1274	TOK	finger		finger\N5S
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+1275	TOK	the		the\AT---6
+1276	TOK	remaining		remain\VMG----
+1277	TOK	amino		amino\N5S
+1278	TOK	acids		acid\N5P
+1279	TOK	would		will\VOFDA66
+1280	TOK	serve		serve\VMI----
+1281	TOK	as		as\CS
+1282	TOK	a		a\AI---S
+1283	TOK	linker		linker\N5S
+1284	TOK	between		between\P
+1285	TOK	consecutive		consecutive\JA
+1286	TOK	fingers		finger\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1287	TOK	Shortly	BOS	shortly\DGA7
+1288	TOK	thereafter		thereafter\DGA7
+---	DLD	,		=\DELIM
+1289	TOK	measurements		measurement\N5P
+1290	TOK	we		we\RPP1NN
+1291	TOK	made		make\VMF6A66
+1292	TOK	with		with\P
+##	TAG	<name>
+1293	TOK	Gregory P. Diakun		Gregory_P._Diakun\N46
+##	TAG	</name>
+1294	TOK	of		of\P
+1295	TOK	the		the\AT---6
+##	TAG	<name>
+1296	TOK	Science		Science\N46
+##	TAG	</name>
+1297	TOK	and		and\CC
+##	TAG	<name>
+1298	TOK	Engineering Research Council Daresbury Laboratory		Engineering_Research_Council_Daresbury_Laboratory\N46
+##	TAG	</name>
+1299	TOK	near		near\P
+##	TAG	<name>
+1300	TOK	Manchester		Manchester\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1301	TOK	England		England\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1302	TOK	proved		prove\VMC----
+1303	TOK	that		that\CS
+1304	TOK	each		each\RIS3N-
+1305	TOK	of		of\P
+1306	TOK	the		the\AT---6
+##	TAG	<num>
+1307	TOK	nine		nine\X
+##	TAG	</num>
+1308	TOK	units		unit\N5P
+1309	TOK	did		do\V6FDA66
+1310	TOK	indeed		indeed\DGA7
+1311	TOK	contain		contain\VMI----
+1312	TOK	a		a\AI---S
+1313	TOK	zinc		zinc\N5S
+1314	TOK	ion		ion\N5S
+1315	TOK	bound		bind\VMC----
+1316	TOK	to		to\P
+##	TAG	<num>
+1317	TOK	two		two\X
+##	TAG	</num>
+1318	TOK	cysteines		cysteine\N5P
+1319	TOK	and		and\CC
+##	TAG	<num>
+1320	TOK	two		two\X
+##	TAG	</num>
+1321	TOK	histidines		histidine\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1322	TOK	TFIIIA	BOS	TFIIIA\N46
+##	TAG	</name>
+1323	TOK	was		be\V6F-A66
+1324	TOK	therefore		therefore\DGA7
+1325	TOK	fashioned		fashion\VMC----
+1326	TOK	almost		almost\DGA7
+1327	TOK	entirely		entirely\DGA7
+##	TAG	<loc pos="P">
+1328	TOK	out of		out_of\P
+##	TAG	</loc>
+##	TAG	<num>
+1329	TOK	nine		nine\X
+##	TAG	</num>
+1330	TOK	consecutive		consecutive\JA
+1331	TOK	zinc		zinc\N5S
+1332	TOK	fingers		finger\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1333	TOK	All	BOS	all\N56
+1334	TOK	had		have\V6F6A66
+1335	TOK	the		the\AT---6
+1336	TOK	same		same\JA
+1337	TOK	basic		basic\JA
+1338	TOK	architecture		architecture\N5S
+1339	TOK	but		but\CC
+1340	TOK	were		be\V6F-A66
+1341	TOK	chemically		chemically\DGA7
+1342	TOK	distinct		distinct\JA
+##	TAG	<loc pos="P">
+1343	TOK	because of		because_of\P
+##	TAG	</loc>
+1344	TOK	variations		variation\N5P
+1345	TOK	in		in\P
+1346	TOK	the		the\AT---6
+1347	TOK	amino		amino\N5S
+1348	TOK	acids		acid\N5P
+1349	TOK	that		that\RW63N6
+1350	TOK	did		do\V6FDA66
+1351	TOK	not		not\DGA7
+1352	TOK	participate		participate\VMI----
+1353	TOK	in		in\P
+1354	TOK	building		build\VMG----
+1355	TOK	the		the\AT---6
+1356	TOK	framework		framework\N5S
+1357	TOK	of		of\P
+1358	TOK	the		the\AT---6
+1359	TOK	finger		finger\N5S
+1360	TOK	module		module\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1361	TOK	But	BOS	but\CC
+1362	TOK	did		do\V6FDA66
+1363	TOK	the		the\AT---6
+1364	TOK	zinc		zinc\N5S
+1365	TOK	fingers		finger\N5P
+1366	TOK	in		in\P
+1367	TOK	fact		fact\N5S
+1368	TOK	contact		contact\N5S
+##	TAG	<name>
+1369	TOK	DNA		DNA\N46
+##	TAG	</name>
+1370	TOK	independently		independently\DGA7
+---	DLD	,		=\DELIM
+1371	TOK	as		as\CS
+1372	TOK	was		be\V6F-A66
+1373	TOK	predicted		predict\VMC----
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1374	TOK	To	BOS	to\P
+1375	TOK	find		find\VMI----
+1376	TOK	out		out\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1377	TOK	Louise Fairall		Louise_Fairall\N46
+##	TAG	</name>
+1378	TOK	in		in\P
+1379	TOK	our		our\APP1N6
+1380	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+1381	TOK	like		like\JA
+1382	TOK	investigators		investigator\N5P
+1383	TOK	elsewhere		elsewhere\DGA7
+---	DLD	,		=\DELIM
+1384	TOK	conducted		conduct\VMC----
+1385	TOK	what		what\RW63N-
+1386	TOK	are		be\V6FDR66
+1387	TOK	called		call\VMC----
+1388	TOK	footprinting		footprinting\N5S
+1389	TOK	studies		study\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1390	TOK	A	BOS	a\AI---S
+1391	TOK	protein		protein\N5S
+1392	TOK	is		be\V6FDRS3
+1393	TOK	allowed		allow\VMC----
+1394	TOK	to		to\P
+1395	TOK	attach		attach\VMI----
+1396	TOK	to		to\P
+##	TAG	<name>
+1397	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1398	TOK	Then	BOS	then\DGA7
+1399	TOK	enzymes		enzyme\N5P
+1400	TOK	or		or\CC
+1401	TOK	other		other\JA
+1402	TOK	agents		agent\N5P
+1403	TOK	that		that\RW63N6
+1404	TOK	attack		attack\VMF6R66
+##	TAG	<name>
+1405	TOK	DNA		DNA\N46
+##	TAG	</name>
+1406	TOK	are		be\V6FDR66
+1407	TOK	applied		apply\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1408	TOK	Any	BOS	any\AG---6
+1409	TOK	site		site\N5S
+1410	TOK	that		that\RW63N6
+1411	TOK	resists		resist\VMFDRS3
+1412	TOK	cleavage		cleavage\N5S
+1413	TOK	can		can\VOFDR66
+1414	TOK	be		be\VMI----
+1415	TOK	assumed		assume\VMC----
+1416	TOK	to		to\P
+1417	TOK	have		have\VMI----
+1418	TOK	been		be\VMC----
+1419	TOK	protected		protect\VMC----
+1420	TOK	by		by\P
+1421	TOK	the		the\AT---6
+1422	TOK	bound		bind\VMC----
+1423	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+1424	TOK	indicating		indicate\VMG----
+1425	TOK	that		that\CS
+1426	TOK	the		the\AT---6
+1427	TOK	spared		spare\VMC----
+1428	TOK	spot		spot\N5S
+1429	TOK	is		be\V6FDRS3
+1430	TOK	a		a\AI---S
+1431	TOK	site		site\N5S
+1432	TOK	of		of\P
+1433	TOK	protein		protein\N5S
+---	DLD	-		=\DELIM
+##	TAG	<name>
+1434	TOK	DNA		DNA\N46
+##	TAG	</name>
+1435	TOK	interaction		interaction\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1436	TOK	By	BOS	by\P
+##	TAG	<num>
+1437	TOK	1986		1986\X
+##	TAG	</num>
+1438	TOK	the		the\AT---6
+1439	TOK	footprinting		footprinting\N5S
+1440	TOK	data		data\N56
+1441	TOK	confirmed		confirm\VMF6A66
+1442	TOK	that		that\CS
+##	TAG	<name>
+1443	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+1444	TOK	makes		make\VMFDRS3
+1445	TOK	repeated		repeat\VMC----
+1446	TOK	contacts		contact\N5P
+1447	TOK	with		with\P
+##	TAG	<name>
+1448	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1449	TOK	Hence	BOS	hence\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1450	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+1451	TOK	was		be\V6F-A66
+1452	TOK	the		the\AT---6
+1453	TOK	novelty		novelty\N5S
+1454	TOK	we		we\RPP1NN
+1455	TOK	suspected		suspect\VMF6A66
+1456	TOK	it		it\RPS3N6
+1457	TOK	to		to\P
+1458	TOK	be		be\VMI----
+---	DLD	:		=\DELIM
+1459	TOK	it		it\RPS3N6
+1460	TOK	connected		connect\VMF6A66
+1461	TOK	to		to\P
+1462	TOK	a		a\AI---S
+1463	TOK	specific		specific\JA
+1464	TOK	region		region\N5S
+1465	TOK	on		on\P
+##	TAG	<name>
+1466	TOK	DNA		DNA\N46
+##	TAG	</name>
+1467	TOK	by		by\P
+1468	TOK	exploiting		exploit\VMG----
+1469	TOK	a		a\AI---S
+1470	TOK	string		string\N5S
+1471	TOK	of		of\P
+1472	TOK	independent		independent\JA
+##	TAG	<name>
+1473	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1474	TOK	binding		binding\N5S
+1475	TOK	modules		module\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1476	TOK	The	BOS	the\AT---6
+1477	TOK	economy		economy\N5S
+1478	TOK	of		of\P
+1479	TOK	the		the\AT---6
+1480	TOK	modular		modular\JA
+1481	TOK	arrangement		arrangement\N5S
+1482	TOK	was		be\V6F-A66
+1483	TOK	beautiful		beautiful\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1484	TOK	Cells	BOS	cell\N5P
+1485	TOK	were		be\V6F-A66
+1486	TOK	already		already\DGA7
+1487	TOK	known		know\VMC----
+1488	TOK	to		to\P
+1489	TOK	build		build\VMI----
+1490	TOK	a		a\AI---S
+1491	TOK	large		large\JA
+1492	TOK	repertoire		repertoire\N5S
+1493	TOK	of		of\P
+1494	TOK	on		on\P
+1495	TOK	switches		switch\N5P
+1496	TOK	for		for\P
+1497	TOK	genes		gene\N5P
+1498	TOK	by		by\P
+1499	TOK	combining		combine\VMG----
+1500	TOK	in		in\P
+1501	TOK	various		various\JA
+1502	TOK	permutations		permutation\N5P
+1503	TOK	a		a\AI---S
+1504	TOK	limited		limit\VMC----
+1505	TOK	set		set\N5S
+1506	TOK	of		of\P
+1507	TOK	transcription		transcription\N5S
+1508	TOK	factors		factor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1509	TOK	That	BOS	that\CS
+1510	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+1511	TOK	one		one\MCS
+1512	TOK	gene		gene\N5S
+1513	TOK	might		may\VOFDR66
+1514	TOK	be		be\VMI----
+1515	TOK	activated		activate\VMC----
+1516	TOK	by		by\P
+1517	TOK	a		a\AI---S
+1518	TOK	combination		combination\N5S
+1519	TOK	of		of\P
+1520	TOK	proteins		protein\N5P
+1521	TOK	a		a\AI---S
+---	DLD	,		=\DELIM
+1522	TOK	b		b\N5S
+1523	TOK	and		and\CC
+1524	TOK	c		c\N5S
+---	DLD	,		=\DELIM
+1525	TOK	whereas		whereas\CS
+1526	TOK	another		another\JA
+1527	TOK	gene		gene\N5S
+1528	TOK	might		may\VOFDR66
+1529	TOK	make		make\VMI----
+1530	TOK	use		use\N5S
+1531	TOK	of		of\P
+1532	TOK	just		just\DGA7
+1533	TOK	a		a\AI---S
+1534	TOK	and		and\CC
+1535	TOK	b		b\N5S
+1536	TOK	or		or\CC
+1537	TOK	of		of\P
+1538	TOK	a		a\AI---S
+---	DLD	,		=\DELIM
+1539	TOK	b		b\N5S
+1540	TOK	and		and\CC
+1541	TOK	d		d\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1542	TOK	By	BOS	by\P
+1543	TOK	such		such\JA
+1544	TOK	a		a\AI---S
+1545	TOK	strategy		strategy\N5S
+---	DLD	,		=\DELIM
+1546	TOK	organisms		organism\N5P
+1547	TOK	avoid		avoid\VMF6R66
+1548	TOK	having		have\VMG----
+1549	TOK	to		to\P
+1550	TOK	produce		produce\VMI----
+1551	TOK	a		a\AI---S
+1552	TOK	unique		unique\JA
+1553	TOK	transcription		transcription\N5S
+1554	TOK	factor		factor\N5S
+1555	TOK	for		for\P
+1556	TOK	each		each\RIS3N-
+1557	TOK	of		of\P
+1558	TOK	the		the\AT---6
+1559	TOK	enormous		enormous\JA
+1560	TOK	number		number\N5S
+1561	TOK	of		of\P
+1562	TOK	genes		gene\N5P
+1563	TOK	that		that\RW63N6
+1564	TOK	are		be\V6FDR66
+1565	TOK	active		active\JA
+1566	TOK	in		in\P
+1567	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1568	TOK	The	BOS	the\AT---6
+1569	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+1570	TOK	finger		finger\N5S
+1571	TOK	studies		study\N5P
+1572	TOK	revealed		reveal\VMF6A66
+1573	TOK	that		that\CS
+1574	TOK	the		the\AT---6
+1575	TOK	combinatorial		combinatorial\JA
+1576	TOK	principle		principle\N5S
+1577	TOK	can		can\VOFDR66
+1578	TOK	also		also\DGA7
+1579	TOK	operate		operate\VMI----
+1580	TOK	within		within\P
+1581	TOK	a		a\AI---S
+1582	TOK	transcription		transcription\N5S
+1583	TOK	factor		factor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1584	TOK	A	BOS	a\AI---S
+1585	TOK	cell		cell\N5S
+1586	TOK	can		can\VOFDR66
+1587	TOK	produce		produce\VMI----
+1588	TOK	a		a\AI---S
+1589	TOK	vast		vast\JA
+1590	TOK	collection		collection\N5S
+1591	TOK	of		of\P
+1592	TOK	distinct		distinct\JA
+1593	TOK	transcription		transcription\N5S
+1594	TOK	factors		factor\N5P
+1595	TOK	by		by\P
+1596	TOK	varying		vary\VMG----
+1597	TOK	the		the\AT---6
+1598	TOK	choice		choice\N5S
+---	DLD	,		=\DELIM
+1599	TOK	order		order\N5S
+1600	TOK	and		and\CC
+1601	TOK	number		number\N5S
+1602	TOK	of		of\P
+1603	TOK	independent		independent\JA
+##	TAG	<name>
+1604	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1605	TOK	binding		binding\N5S
+1606	TOK	modules		module\N5P
+1607	TOK	in		in\P
+1608	TOK	the		the\AT---6
+1609	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1610	TOK	The	BOS	the\AT---6
+1611	TOK	particular		particular\JA
+1612	TOK	combination		combination\N5S
+1613	TOK	of		of\P
+1614	TOK	zinc		zinc\N5S
+1615	TOK	fingers		finger\N5P
+1616	TOK	in		in\P
+1617	TOK	a		a\AI---S
+1618	TOK	transcription		transcription\N5S
+1619	TOK	factor		factor\N5S
+1620	TOK	enables		enable\VMFDRS3
+1621	TOK	the		the\AT---6
+1622	TOK	factor		factor\N5S
+1623	TOK	to		to\P
+1624	TOK	recognize		recognize\VMI----
+1625	TOK	a		a\AI---S
+1626	TOK	specific		specific\JA
+##	TAG	<name>
+1627	TOK	DNA		DNA\N46
+##	TAG	</name>
+1628	TOK	sequence		sequence\N5S
+1629	TOK	and		and\CC
+1630	TOK	no		no\AI---6
+1631	TOK	other		other\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1632	TOK	The	BOS	the\AT---6
+1633	TOK	efficiency		efficiency\N5S
+1634	TOK	of		of\P
+1635	TOK	the		the\AT---6
+1636	TOK	combinatorial		combinatorial\JA
+1637	TOK	approach		approach\N5S
+1638	TOK	led		lead\VMF6A66
+1639	TOK	us		us\RPP1NA
+1640	TOK	to		to\P
+1641	TOK	suggest		suggest\VMI----
+1642	TOK	that		that\CS
+1643	TOK	the		the\AT---6
+1644	TOK	zinc		zinc\N5S
+---	DLD	-		=\DELIM
+1645	TOK	finger		finger\N5S
+1646	TOK	motif		motif\N5S
+1647	TOK	might		may\VOFDR66
+1648	TOK	turn		turn\VMI----
+1649	TOK	up		up\P
+1650	TOK	in		in\P
+1651	TOK	many		many\AI---P
+1652	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1653	TOK	But	BOS	but\CC
+1654	TOK	the		the\AT---6
+1655	TOK	extent		extent\N5S
+1656	TOK	of		of\P
+1657	TOK	its		its\APS3N6
+1658	TOK	occurrence		occurrence\N5S
+1659	TOK	in		in\P
+1660	TOK	eukaryotes		eukaryote\N5P
+---	DLE	-		=\DELIM
+1661	TOK	organisms		organism\N5P
+1662	TOK	more		more\DDC7
+1663	TOK	advanced		advance\VMC----
+1664	TOK	than		than\CS
+1665	TOK	bacteria		bacteria\N5P
+---	DLD	-		=\DELIM
+1666	TOK	is		be\V6FDRS3
+1667	TOK	astonishing		astonish\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1668	TOK	Peter	BOS	peter\N5S
+##	TAG	<name pos="N46" type="organization">
+1669	TOK	F. R. Littleof Imperial College		F._R._Littleof_Imperial_College\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1670	TOK	London		London\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1671	TOK	estimates		estimate\N5P
+1672	TOK	that		that\RW63N6
+1673	TOK	as		as\DGA7
+1674	TOK	much		much\DGA7
+1675	TOK	as		as\P
+##	TAG	<num>
+1676	TOK	1		1\X
+##	TAG	</num>
+1677	TOK	percent		percent\N56
+1678	TOK	of		of\P
+1679	TOK	the		the\AT---6
+##	TAG	<name>
+1680	TOK	DNA		DNA\N46
+##	TAG	</name>
+1681	TOK	in		in\P
+1682	TOK	human		human\JA
+1683	TOK	cells		cell\N5P
+1684	TOK	specifies		specify\VMFDRS3
+1685	TOK	zinc		zinc\N5S
+1686	TOK	fingers		finger\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1687	TOK	In	BOS	in\P
+1688	TOK	chromosome		chromosome\N5S
+##	TAG	<num>
+1689	TOK	19		19\X
+##	TAG	</num>
+1690	TOK	the		the\AT---6
+1691	TOK	figure		figure\N5S
+1692	TOK	is		be\V6FDRS3
+1693	TOK	as		as\DGA7
+1694	TOK	high		high\JA
+1695	TOK	as		as\P
+##	TAG	<num>
+1696	TOK	8		8\X
+##	TAG	</num>
+1697	TOK	percent		percent\N56
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1698	TOK	The	BOS	the\AT---6
+1699	TOK	zinc		zinc\N5S
+1700	TOK	finger		finger\N5S
+---	DLI	-		=\DELIM
+1701	TOK	containing		contain\VMG----
+1702	TOK	proteins		protein\N5P
+1703	TOK	that		that\RW63N6
+1704	TOK	have		have\V6F6R66
+1705	TOK	been		be\VMC----
+1706	TOK	identified		identify\VMC----
+##	TAG	<loc pos="DGA7">
+1707	TOK	so far		so_far\DGA7
+##	TAG	</loc>
+1708	TOK	carry		carry\VMF6R66
+1709	TOK	from		from\P
+1710	TOK	as		as\DGA7
+1711	TOK	few		few\JA
+1712	TOK	as		as\P
+##	TAG	<num>
+1713	TOK	two		two\X
+##	TAG	</num>
+1714	TOK	to		to\P
+1715	TOK	as		as\DGA7
+1716	TOK	many		many\AI---P
+1717	TOK	as		as\P
+##	TAG	<num>
+1718	TOK	37		37\X
+##	TAG	</num>
+1719	TOK	tandem		tandem\N5S
+1720	TOK	fingers		finger\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1721	TOK	To	BOS	to\P
+1722	TOK	understand		understand\VMI----
+1723	TOK	how		how\DGAW
+1724	TOK	a		a\AI---S
+1725	TOK	zinc		zinc\N5S
+1726	TOK	finger		finger\N5S
+1727	TOK	recognizes		recognize\VMFDRS3
+1728	TOK	a		a\AI---S
+1729	TOK	specific		specific\JA
+1730	TOK	sequence		sequence\N5S
+1731	TOK	of		of\P
+1732	TOK	base		base\N5S
+1733	TOK	pairs		pair\N5P
+---	DLE	-		=\DELIM
+1734	TOK	which		which\RW63N-
+1735	TOK	adopts		adopt\VMFDRS3
+1736	TOK	a		a\AI---S
+1737	TOK	precise		precise\JA
+1738	TOK	conformation		conformation\N5S
+---	DLD	-		=\DELIM
+1739	TOK	one		one\RIS3N-
+1740	TOK	needs		need\VMFDRS3
+1741	TOK	to		to\P
+1742	TOK	know		know\VMI----
+1743	TOK	the		the\AT---6
+1744	TOK	detailed		detailed\JA
+1745	TOK	three		three\MCP
+---	DLD	-		=\DELIM
+1746	TOK	dimensional		dimensional\JA
+1747	TOK	structure		structure\N5S
+1748	TOK	of		of\P
+1749	TOK	the		the\AT---6
+1750	TOK	finger		finger\N5S
+1751	TOK	module		module\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1752	TOK	Most	BOS	most\AG---6
+1753	TOK	proteins		protein\N5P
+1754	TOK	include		include\VMF6R66
+1755	TOK	local		local\JA
+1756	TOK	regions		region\N5P
+1757	TOK	of		of\P
+---	DLE	"		=\DELIM
+1758	TOK	secondary		secondary\JA
+---	DLD	"		=\DELIM
+1759	TOK	structure		structure\N5S
+1760	TOK	that		that\RW63N6
+1761	TOK	fold		fold\VMF6R66
+1762	TOK	together		together\DGA7
+1763	TOK	to		to\P
+1764	TOK	yield		yield\VMI----
+1765	TOK	the		the\AT---6
+1766	TOK	overall		overall\JA
+---	DLD	,		=\DELIM
+1767	TOK	three		three\MCP
+---	DLD	-		=\DELIM
+1768	TOK	dimensional		dimensional\JA
+1769	TOK	shape		shape\N5S
+1770	TOK	of		of\P
+1771	TOK	the		the\AT---6
+1772	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1773	TOK	The	BOS	the\AT---6
+1774	TOK	most		most\DDS7
+1775	TOK	common		common\JA
+1776	TOK	secondary		secondary\JA
+1777	TOK	structures		structure\N5P
+1778	TOK	are		be\V6FDR66
+1779	TOK	the		the\AT---6
+1780	TOK	alpha		alpha\N5S
+1781	TOK	helix		helix\N5S
+---	DLE	(		=\DELIM
+1782	TOK	in		in\P
+1783	TOK	which		which\RW63N-
+1784	TOK	the		the\AT---6
+1785	TOK	backbone		backbone\N5S
+1786	TOK	of		of\P
+1787	TOK	the		the\AT---6
+1788	TOK	protein		protein\N5S
+1789	TOK	twists		twist\N5P
+1790	TOK	into		into\P
+1791	TOK	a		a\AI---S
+1792	TOK	characteristic		characteristic\JA
+1793	TOK	spiral		spiral\N5S
+---	DLD	)		=\DELIM
+1794	TOK	and		and\CC
+1795	TOK	the		the\AT---6
+1796	TOK	beta		beta\N5S
+1797	TOK	strand		strand\N5S
+---	DLE	(		=\DELIM
+1798	TOK	in		in\P
+1799	TOK	which		which\RW63N-
+1800	TOK	the		the\AT---6
+1801	TOK	backbone		backbone\N5S
+1802	TOK	is		be\V6FDRS3
+1803	TOK	fully		fully\DGA7
+1804	TOK	extended		extend\VMC----
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1805	TOK	Jeremy M	BOS	Jeremy_M\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1806	TOK	Berg	BOS	berg\N5S
+1807	TOK	of		of\P
+##	TAG	<name pos="N46" type="organization">
+1808	TOK	Johns Hopkins University		Johns_Hopkins_University\N46
+##	TAG	</name>
+1809	TOK	deciphered		decipher\VMF6A66
+1810	TOK	the		the\AT---6
+1811	TOK	important		important\JA
+1812	TOK	features		feature\N5P
+1813	TOK	of		of\P
+1814	TOK	the		the\AT---6
+1815	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+1816	TOK	dimensional		dimensional\JA
+1817	TOK	architecture		architecture\N5S
+1818	TOK	on		on\P
+1819	TOK	theoretical		theoretical\JA
+1820	TOK	grounds		ground\N5P
+1821	TOK	in		in\P
+##	TAG	<num>
+1822	TOK	1988		1988\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+1823	TOK	but		but\CC
+1824	TOK	his		his\APS3M6
+1825	TOK	model		model\N5S
+1826	TOK	was		be\V6F-A66
+1827	TOK	not		not\DGA7
+1828	TOK	confirmed		confirm\VMC----
+1829	TOK	until		until\P
+##	TAG	<num>
+1830	TOK	1989		1989\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1831	TOK	Then	BOS	then\DGA7
+##	TAG	<name>
+1832	TOK	Peter E		Peter_E\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1833	TOK	Wright	BOS	wright\N5S
+1834	TOK	and		and\CC
+1835	TOK	his		his\APS3M6
+1836	TOK	colleagues		colleague\N5P
+1837	TOK	at		at\P
+1838	TOK	the		the\AT---6
+##	TAG	<name>
+1839	TOK	Scripps Clinic		Scripps_Clinic\N46
+##	TAG	</name>
+1840	TOK	and		and\CC
+##	TAG	<name>
+1841	TOK	Research Foundation		Research_Foundation\N46
+##	TAG	</name>
+1842	TOK	in		in\P
+##	TAG	<name>
+1843	TOK	La Jollier		La_Jollier\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+1844	TOK	Calif.		Calif.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+1845	TOK	determined		determine\VMC----
+1846	TOK	the		the\AT---6
+1847	TOK	structure		structure\N5S
+1848	TOK	of		of\P
+1849	TOK	a		a\AI---S
+1850	TOK	zinc		zinc\N5S
+1851	TOK	finger		finger\N5S
+1852	TOK	from		from\P
+1853	TOK	the		the\AT---6
+##	TAG	<name>
+1854	TOK	Xenopus		Xenopus\N46
+##	TAG	</name>
+1855	TOK	protein		protein\N5S
+##	TAG	<name>
+1856	TOK	Xfin		Xfin\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1857	TOK	They	BOS	they\RPP3NN
+1858	TOK	did		do\V6FDA66
+1859	TOK	it		it\RPS3N6
+1860	TOK	by		by\P
+1861	TOK	applying		apply\VMG----
+1862	TOK	nuclear		nuclear\JA
+1863	TOK	magnetic		magnetic\JA
+1864	TOK	resonance		resonance\N5S
+1865	TOK	spectroscopy		spectroscopy\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1866	TOK	NMR		NMR\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+1867	TOK	a		a\AI---S
+1868	TOK	technique		technique\N5S
+1869	TOK	that		that\RW63N6
+1870	TOK	can		can\VOFDR66
+1871	TOK	be		be\VMI----
+1872	TOK	used		use\VMC----
+1873	TOK	to		to\P
+1874	TOK	solve		solve\VMI----
+1875	TOK	the		the\AT---6
+1876	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+1877	TOK	dimensional		dimensional\JA
+1878	TOK	structure		structure\N5S
+1879	TOK	of		of\P
+1880	TOK	small		small\JA
+1881	TOK	proteins		protein\N5P
+1882	TOK	in		in\P
+1883	TOK	solution		solution\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1884	TOK	Soon	BOS	soon\DGA7
+1885	TOK	after		after\P
+---	DLD	,		=\DELIM
+1886	TOK	other		other\JA
+1887	TOK	laboratories		laboratory\N5P
+1888	TOK	and		and\CC
+1889	TOK	also		also\DGA7
+1890	TOK	our		our\APP1N6
+1891	TOK	group		group\N5S
+1892	TOK	identified		identify\VMF6A66
+1893	TOK	the		the\AT---6
+1894	TOK	same		same\JA
+1895	TOK	design		design\N5S
+1896	TOK	in		in\P
+1897	TOK	other		other\JA
+1898	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+1899	TOK	finger		finger\N5S
+1900	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1901	TOK	As	BOS	as\P
+##	TAG	<name>
+1902	TOK	Berg		Berg\N46
+##	TAG	</name>
+1903	TOK	predicted		predict\VMF6A66
+---	DLD	,		=\DELIM
+1904	TOK	the		the\AT---6
+1905	TOK	characteristic		characteristic\JA
+1906	TOK	amino		amino\N5S
+1907	TOK	acid		acid\N5S
+1908	TOK	sequence		sequence\N5S
+1909	TOK	of		of\P
+1910	TOK	the		the\AT---6
+1911	TOK	zinc		zinc\N5S
+1912	TOK	finger		finger\N5S
+1913	TOK	folds		fold\N5P
+1914	TOK	into		into\P
+1915	TOK	a		a\AI---S
+1916	TOK	compact		compact\JA
+1917	TOK	shape		shape\N5S
+1918	TOK	by		by\P
+1919	TOK	forming		form\VMG----
+##	TAG	<num>
+1920	TOK	two		two\X
+##	TAG	</num>
+1921	TOK	prominent		prominent\JA
+1922	TOK	substructures		substructure\N5P
+1923	TOK	along		along\P
+1924	TOK	the		the\AT---6
+1925	TOK	way		way\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1926	TOK	One	BOS	one\MCS
+1927	TOK	part		part\N5S
+1928	TOK	of		of\P
+1929	TOK	the		the\AT---6
+1930	TOK	sequence		sequence\N5S
+---	DLE	(		=\DELIM
+1931	TOK	comprising		comprise\VMG----
+---	DLD	,		=\DELIM
+1932	TOK	say		say\VMF6R66
+---	DLD	,		=\DELIM
+1933	TOK	the		the\AT---6
+1934	TOK	left		left\JA
+1935	TOK	half		half\N5S
+1936	TOK	of		of\P
+1937	TOK	a		a\AI---S
+1938	TOK	vertical		vertical\JA
+1939	TOK	protrusion		protrusion\N5S
+---	DLD	)		=\DELIM
+1940	TOK	adopts		adopt\VMFDRS3
+1941	TOK	the		the\AT---6
+1942	TOK	shape		shape\N5S
+1943	TOK	of		of\P
+1944	TOK	a		a\AI---S
+1945	TOK	small		small\JA
+1946	TOK	beta		beta\N5S
+---	DLE	"		=\DELIM
+1947	TOK	sheet		sheet\N5S
+---	DLD	"		=\DELIM
+---	DLD	;		=\DELIM
+1948	TOK	it		it\RPS3N6
+1949	TOK	is		be\V6FDRS3
+1950	TOK	composed		compose\VMC----
+1951	TOK	of		of\P
+##	TAG	<num>
+1952	TOK	two		two\X
+##	TAG	</num>
+1953	TOK	beta		beta\N5S
+1954	TOK	strands		strand\N5P
+1955	TOK	that		that\RW63N6
+1956	TOK	form		form\VMF6R66
+1957	TOK	a		a\AI---S
+1958	TOK	sheet		sheet\N5S
+1959	TOK	when		when\CS
+1960	TOK	the		the\AT---6
+1961	TOK	second		second\MOS
+1962	TOK	strand		strand\N5S
+1963	TOK	folds		fold\VMFDRS3
+1964	TOK	back		back\DGA7
+1965	TOK	onto		onto\P
+1966	TOK	the		the\AT---6
+1967	TOK	first		first\MOS
+1968	TOK	one		one\MCS
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1969	TOK	The	BOS	the\AT---6
+1970	TOK	other		other\JA
+1971	TOK	part		part\N5S
+1972	TOK	of		of\P
+1973	TOK	the		the\AT---6
+1974	TOK	sequence		sequence\N5S
+---	DLE	(		=\DELIM
+1975	TOK	the		the\AT---6
+---	DLE	"		=\DELIM
+1976	TOK	right		right\JA
+---	DLD	"		=\DELIM
+1977	TOK	half		half\N5S
+---	DLD	)		=\DELIM
+1978	TOK	twists		twist\N5P
+1979	TOK	into		into\P
+1980	TOK	an		an\AI---S
+1981	TOK	alpha		alpha\N5S
+1982	TOK	helix		helix\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1983	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+1984	TOK	two		two\X
+##	TAG	</num>
+1985	TOK	cysteines		cysteine\N5P
+1986	TOK	reside		reside\VMF6R66
+1987	TOK	at		at\P
+1988	TOK	the		the\AT---6
+1989	TOK	bottom		bottom\N5S
+1990	TOK	of		of\P
+1991	TOK	the		the\AT---6
+1992	TOK	beta		beta\N5S
+1993	TOK	sheet		sheet\N5S
+---	DLD	,		=\DELIM
+1994	TOK	and		and\CC
+1995	TOK	the		the\AT---6
+##	TAG	<num>
+1996	TOK	two		two\X
+##	TAG	</num>
+1997	TOK	histidines		histidine\N5P
+1998	TOK	reside		reside\VMF6R66
+1999	TOK	at		at\P
+2000	TOK	the		the\AT---6
+2001	TOK	bottom		bottom\N5S
+2002	TOK	of		of\P
+2003	TOK	the		the\AT---6
+2004	TOK	helix		helix\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2005	TOK	All	BOS	all\N56
+##	TAG	<num>
+2006	TOK	four		four\X
+##	TAG	</num>
+2007	TOK	amino		amino\N5S
+2008	TOK	acids		acid\N5P
+2009	TOK	are		be\V6FDR66
+2010	TOK	joined		join\VMC----
+2011	TOK	through		through\P
+2012	TOK	a		a\AI---S
+2013	TOK	zinc		zinc\N5S
+2014	TOK	atom		atom\N5S
+2015	TOK	that		that\RW63N6
+2016	TOK	essentially		essentially\DGA7
+2017	TOK	pins		pin\VMFDRS3
+2018	TOK	together		together\DGA7
+2019	TOK	the		the\AT---6
+2020	TOK	beta		beta\N5S
+2021	TOK	sheet		sheet\N5S
+2022	TOK	and		and\CC
+2023	TOK	helix		helix\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2024	TOK	The	BOS	the\AT---6
+##	TAG	<name pos="N46" expansion="nuclear magnetic resonance">
+2025	TOK	NMR		NMR\N46
+##	TAG	</name>
+2026	TOK	analysis		analysis\N5S
+2027	TOK	also		also\DGA7
+2028	TOK	helped		help\VMF6A66
+2029	TOK	to		to\P
+2030	TOK	clarify		clarify\VMI----
+2031	TOK	the		the\AT---6
+2032	TOK	role		role\N5S
+2033	TOK	of		of\P
+##	TAG	<loc pos="RP63N-">
+2034	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+2035	TOK	additional		additional\JA
+2036	TOK	amino		amino\N5S
+2037	TOK	acids		acid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2038	TOK	When	BOS	when\CS
+2039	TOK	originally		originally\DGA7
+2040	TOK	examining		examine\VMG----
+2041	TOK	the		the\AT---6
+2042	TOK	sequence		sequence\N5S
+2043	TOK	of		of\P
+##	TAG	<name>
+2044	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2045	TOK	we		we\RPP1NN
+2046	TOK	noted		note\VMF6A66
+2047	TOK	that		that\CS
+2048	TOK	the		the\AT---6
+2049	TOK	putative		putative\JA
+2050	TOK	fingers		finger\N5P
+2051	TOK	each		each\RIS3N-
+2052	TOK	included		include\VMC----
+2053	TOK	a		a\AI---S
+2054	TOK	set		set\N5S
+2055	TOK	of		of\P
+##	TAG	<num>
+2056	TOK	three		three\X
+##	TAG	</num>
+2057	TOK	hydrophobic		hydrophobic\JA
+2058	TOK	amino		amino\N5S
+2059	TOK	acids		acid\N5P
+2060	TOK	in		in\P
+2061	TOK	virtually		virtually\DGA7
+2062	TOK	identical		identical\JA
+##	TAG	<abbr>
+2063	TOK	positions.		positions.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2064	TOK	Hydrophobic		Hydrophobic\N46
+##	TAG	</name>
+2065	TOK	substances		substance\N5P
+2066	TOK	often		often\DGA7
+2067	TOK	associate		associate\VMF6R66
+2068	TOK	with		with\P
+##	TAG	<loc pos="DGA7">
+2069	TOK	one another		one_another\DGA7
+##	TAG	</loc>
+2070	TOK	in		in\P
+2071	TOK	the		the\AT---6
+2072	TOK	interior		interior\N5S
+2073	TOK	of		of\P
+2074	TOK	a		a\AI---S
+2075	TOK	protein		protein\N5S
+2076	TOK	in		in\P
+2077	TOK	preference		preference\N5S
+2078	TOK	to		to\P
+2079	TOK	water		water\N5S
+2080	TOK	in		in\P
+2081	TOK	the		the\AT---6
+##	TAG	<abbr>
+2082	TOK	surroundings.		surroundings.\N5P
+##	TAG	</abbr>
+---	DLE	)		=\DELIM
+2083	TOK	The		The\N5S
+2084	TOK	invariance		invariance\N5S
+2085	TOK	suggested		suggest\VMF6A66
+2086	TOK	that		that\CS
+2087	TOK	those		that\AD---P
+2088	TOK	amino		amino\N5S
+2089	TOK	acids		acid\N5P
+2090	TOK	had		have\V6F6A66
+2091	TOK	an		an\AI---S
+2092	TOK	important		important\JA
+2093	TOK	structural		structural\JA
+2094	TOK	role		role\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2095	TOK	Although	BOS	although\CS
+2096	TOK	they		they\RPP3NN
+2097	TOK	are		be\V6FDR66
+2098	TOK	fairly		fairly\DGA7
+2099	TOK	far		far\DGA7
+##	TAG	<loc pos="DGA7">
+2100	TOK	apart from		apart_from\DGA7
+##	TAG	</loc>
+##	TAG	<loc pos="DGA7">
+2101	TOK	one another		one_another\DGA7
+##	TAG	</loc>
+2102	TOK	in		in\P
+2103	TOK	linear		linear\JA
+2104	TOK	representations		representation\N5P
+2105	TOK	of		of\P
+2106	TOK	the		the\AT---6
+2107	TOK	amino		amino\N5S
+2108	TOK	acid		acid\N5S
+2109	TOK	sequence		sequence\N5S
+---	DLD	,		=\DELIM
+2110	TOK	we		we\RPP1NN
+2111	TOK	thought		think\VMF6A66
+2112	TOK	they		they\RPP3NN
+2113	TOK	might		may\VOFDR66
+2114	TOK	somehow		somehow\DGA7
+2115	TOK	interact		interact\VMI----
+2116	TOK	in		in\P
+2117	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+2118	TOK	dimensional		dimensional\JA
+2119	TOK	space		space\N5S
+2120	TOK	and		and\CC
+2121	TOK	thus		thus\DGA7
+2122	TOK	assist		assist\VMF6R66
+2123	TOK	in		in\P
+2124	TOK	the		the\AT---6
+2125	TOK	folding		fold\VMG----
+2126	TOK	of		of\P
+2127	TOK	the		the\AT---6
+2128	TOK	minidomain		minidomain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2129	TOK	Consistent	BOS	consistent\JA
+2130	TOK	with		with\P
+2131	TOK	the		the\AT---6
+##	TAG	<name>
+2132	TOK	Berg		Berg\N46
+##	TAG	</name>
+2133	TOK	model		model\N5S
+---	DLD	,		=\DELIM
+2134	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="nuclear magnetic resonance">
+2135	TOK	NMR		NMR\N46
+##	TAG	</name>
+2136	TOK	results		result\N5P
+2137	TOK	showed		show\VMF6A66
+2138	TOK	that		that\CS
+2139	TOK	when		when\CS
+2140	TOK	the		the\AT---6
+2141	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+2142	TOK	finger		finger\N5S
+2143	TOK	module		module\N5S
+2144	TOK	folds		fold\N5P
+2145	TOK	up		up\P
+---	DLD	,		=\DELIM
+2146	TOK	the		the\AT---6
+2147	TOK	hydrophobic		hydrophobic\JA
+2148	TOK	amino		amino\N5S
+2149	TOK	acids		acid\N5P
+2150	TOK	do		do\V6FDR66
+2151	TOK	indeed		indeed\DGA7
+2152	TOK	come		come\VMI----
+2153	TOK	close		close\DGA7
+2154	TOK	enough		enough\JA
+2155	TOK	to		to\P
+##	TAG	<loc pos="DGA7">
+2156	TOK	one another		one_another\DGA7
+##	TAG	</loc>
+2157	TOK	for		for\P
+2158	TOK	their		their\APP3N6
+2159	TOK	mutual		mutual\JA
+2160	TOK	attraction		attraction\N5S
+2161	TOK	to		to\P
+2162	TOK	come		come\VMI----
+2163	TOK	into		into\P
+2164	TOK	play		play\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2165	TOK	They	BOS	they\RPP3NN
+2166	TOK	form		form\VMF6R66
+2167	TOK	a		a\AI---S
+2168	TOK	hydrophobic		hydrophobic\JA
+2169	TOK	core		core\N5S
+2170	TOK	that		that\RW63N6
+2171	TOK	helps		help\VMFDRS3
+2172	TOK	the		the\AT---6
+2173	TOK	module		module\N5S
+2174	TOK	to		to\P
+2175	TOK	maintain		maintain\VMI----
+2176	TOK	its		its\APS3N6
+2177	TOK	shape		shape\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2178	TOK	In	BOS	in\P
+2179	TOK	parallel		parallel\N5S
+2180	TOK	with		with\P
+2181	TOK	our		our\APP1N6
+2182	TOK	efforts		effort\N5P
+2183	TOK	to		to\P
+2184	TOK	understand		understand\VMI----
+2185	TOK	the		the\AT---6
+2186	TOK	architecture		architecture\N5S
+2187	TOK	of		of\P
+2188	TOK	zinc		zinc\N5S
+2189	TOK	fingers		finger\N5P
+---	DLD	,		=\DELIM
+2190	TOK	we		we\RPP1NN
+2191	TOK	and		and\CC
+2192	TOK	others		other\RIP3N-
+2193	TOK	were		be\V6F-A66
+2194	TOK	also		also\DGA7
+2195	TOK	pondering		ponder\VMG----
+2196	TOK	a		a\AI---S
+2197	TOK	more		more\DDC7
+2198	TOK	general		general\JA
+2199	TOK	problem		problem\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2200	TOK	Many	BOS	many\AI---P
+2201	TOK	experiments		experiment\N5P
+2202	TOK	led		lead\VMC----
+2203	TOK	to		to\P
+2204	TOK	the		the\AT---6
+2205	TOK	conclusion		conclusion\N5S
+2206	TOK	that		that\CS
+2207	TOK	the		the\AT---6
+2208	TOK	zinc		zinc\N5S
+2209	TOK	fingers		finger\N5P
+2210	TOK	in		in\P
+##	TAG	<name>
+2211	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2212	TOK	which		which\RW63N-
+2213	TOK	constitute		constitute\VMF6R66
+2214	TOK	the		the\AT---6
+2215	TOK	bulk		bulk\N5S
+2216	TOK	of		of\P
+2217	TOK	the		the\AT---6
+2218	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+2219	TOK	were		be\V6F-A66
+2220	TOK	solely		solely\DGA7
+2221	TOK	responsible		responsible\JA
+2222	TOK	for		for\P
+2223	TOK	the		the\AT---6
+2224	TOK	ability		ability\N5S
+2225	TOK	of		of\P
+2226	TOK	the		the\AT---6
+2227	TOK	factor		factor\N5S
+2228	TOK	to		to\P
+2229	TOK	recognize		recognize\VMI----
+2230	TOK	the		the\AT---6
+2231	TOK	promoter		promoter\N5S
+2232	TOK	of		of\P
+2233	TOK	the		the\AT---6
+##	TAG	<na type="code">
+2234	TOK	5S		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+2235	TOK	RNA		RNA\N46
+##	TAG	</name>
+2236	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2237	TOK	But	BOS	but\CC
+2238	TOK	increasing		increase\VMG----
+2239	TOK	numbers		number\N5P
+2240	TOK	of		of\P
+2241	TOK	proteins		protein\N5P
+2242	TOK	were		be\V6F-A66
+2243	TOK	being		be\VMG----
+2244	TOK	discovered		discover\VMC----
+2245	TOK	in		in\P
+2246	TOK	which		which\RW63N-
+2247	TOK	only		only\DGA7
+##	TAG	<loc pos="RP63N-">
+2248	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+2249	TOK	zinc		zinc\N5S
+2250	TOK	fingers		finger\N5P
+2251	TOK	were		be\V6F-A66
+2252	TOK	embedded		embed\VMC----
+2253	TOK	in		in\P
+2254	TOK	a		a\AI---S
+2255	TOK	large		large\JA
+2256	TOK	protein		protein\N5S
+2257	TOK	Could		Could\N5S
+2258	TOK	such		such\JA
+2259	TOK	short		short\JA
+2260	TOK	runs		run\N5P
+2261	TOK	of		of\P
+2262	TOK	zinc		zinc\N5S
+2263	TOK	fingers		finger\N5P
+2264	TOK	direct		direct\VMF6R66
+2265	TOK	these		this\AD---P
+2266	TOK	proteins		protein\N5P
+2267	TOK	to		to\P
+2268	TOK	promoters		promoter\N5P
+---	DLD	,		=\DELIM
+2269	TOK	without		without\P
+2270	TOK	assistance		assistance\N5S
+2271	TOK	from		from\P
+2272	TOK	other		other\JA
+2273	TOK	parts		part\N5P
+2274	TOK	of		of\P
+2275	TOK	the		the\AT---6
+2276	TOK	protein		protein\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2277	TOK	In	BOS	in\P
+2278	TOK	our		our\APP1N6
+2279	TOK	own		own\JA
+2280	TOK	efforts		effort\N5P
+2281	TOK	to		to\P
+2282	TOK	answer		answer\VMI----
+2283	TOK	these		this\AD---P
+2284	TOK	questions		question\N5P
+---	DLD	,		=\DELIM
+2285	TOK	we		we\RPP1NN
+2286	TOK	concentrated		concentrate\VMF6A66
+2287	TOK	on		on\P
+2288	TOK	a		a\AI---S
+2289	TOK	three		three\MCP
+---	DLD	-		=\DELIM
+2290	TOK	fingered		fingered\JA
+2291	TOK	yeast		yeast\N5S
+2292	TOK	transcription		transcription\N5S
+2293	TOK	factor		factor\N5S
+2294	TOK	called		call\VMF6A66
+##	TAG	<name>
+2295	TOK	SWITCH		SWITCH\N46
+##	TAG	</name>
+##	TAG	<num>
+2296	TOK	5		5\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2297	TOK	SWI5		SWI5\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2298	TOK	With	BOS	with\P
+2299	TOK	our		our\APP1N6
+2300	TOK	colleague		colleague\N5S
+##	TAG	<name>
+2301	TOK	Kyoshi Nagai		Kyoshi_Nagai\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2302	TOK	we		we\RPP1NN
+2303	TOK	isolated		isolate\VMF6A66
+2304	TOK	the		the\AT---6
+2305	TOK	region		region\N5S
+2306	TOK	containing		contain\VMG----
+2307	TOK	the		the\AT---6
+2308	TOK	fingers		finger\N5P
+2309	TOK	and		and\CC
+2310	TOK	exposed		expose\VMC----
+2311	TOK	it		it\RPS3N6
+2312	TOK	to		to\P
+2313	TOK	the		the\AT---6
+2314	TOK	promoter		promoter\N5S
+2315	TOK	of		of\P
+2316	TOK	the		the\AT---6
+2317	TOK	target		target\N5S
+2318	TOK	gene		gene\N5S
+2319	TOK	for		for\P
+2320	TOK	the		the\AT---6
+2321	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2322	TOK	Sure	BOS	sure\JA
+2323	TOK	enough		enough\RIP3N-
+---	DLD	,		=\DELIM
+2324	TOK	the		the\AT---6
+2325	TOK	isolated		isolate\VMC----
+2326	TOK	protein		protein\N5S
+2327	TOK	segment		segment\N5S
+2328	TOK	bound		bind\VMC----
+2329	TOK	to		to\P
+2330	TOK	the		the\AT---6
+2331	TOK	promoter		promoter\N5S
+2332	TOK	avidly		avidly\DGA7
+---	DLD	,		=\DELIM
+2333	TOK	implying		imply\VMG----
+2334	TOK	that		that\CS
+2335	TOK	the		the\AT---6
+2336	TOK	zinc		zinc\N5S
+2337	TOK	fingers		finger\N5P
+2338	TOK	are		be\V6FDR66
+2339	TOK	alone		alone\DGA7
+2340	TOK	responsible		responsible\JA
+2341	TOK	for		for\P
+##	TAG	<name>
+2342	TOK	DNA		DNA\N46
+##	TAG	</name>
+2343	TOK	binding		bind\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2344	TOK	Interestingly	BOS	interestingly\DGA7
+---	DLD	,		=\DELIM
+2345	TOK	we		we\RPP1NN
+2346	TOK	found		find\VMF6A66
+2347	TOK	as		as\CS
+2348	TOK	well		well\DGA7
+2349	TOK	that		that\CS
+##	TAG	<loc pos="DGA7">
+2350	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+##	TAG	<num>
+2351	TOK	two		two\X
+##	TAG	</num>
+2352	TOK	linked		link\VMC----
+2353	TOK	fingers		finger\N5P
+2354	TOK	had		have\V6F6A66
+2355	TOK	to		to\P
+2356	TOK	be		be\VMI----
+2357	TOK	present		present\JA
+2358	TOK	for		for\P
+2359	TOK	the		the\AT---6
+##	TAG	<name>
+2360	TOK	SWI5		SWI5\N46
+##	TAG	</name>
+2361	TOK	protein		protein\N5S
+2362	TOK	to		to\P
+2363	TOK	attach		attach\VMI----
+2364	TOK	with		with\P
+2365	TOK	reasonable		reasonable\JA
+2366	TOK	strength		strength\N5S
+2367	TOK	to		to\P
+2368	TOK	its		its\APS3N6
+2369	TOK	correct		correct\JA
+2370	TOK	target		target\N5S
+2371	TOK	site		site\N5S
+2372	TOK	on		on\P
+##	TAG	<name>
+2373	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2374	TOK	By	BOS	by\P
+2375	TOK	then		then\DGA7
+2376	TOK	applying		apply\VMG----
+##	TAG	<name pos="N46" expansion="nuclear magnetic resonance">
+2377	TOK	NMR		NMR\N46
+##	TAG	</name>
+2378	TOK	to		to\P
+2379	TOK	the		the\AT---6
+2380	TOK	first		first\MOS
+##	TAG	<num>
+2381	TOK	two		two\X
+##	TAG	</num>
+2382	TOK	zinc		zinc\N5S
+2383	TOK	finger		finger\N5S
+2384	TOK	motifs		motif\N5P
+2385	TOK	of		of\P
+##	TAG	<name>
+2386	TOK	SWI5		SWI5\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2387	TOK	we		we\RPP1NN
+2388	TOK	and		and\CC
+2389	TOK	our		our\APP1N6
+2390	TOK	colleagues		colleague\N5P
+##	TAG	<name>
+2391	TOK	David Neuhaus		David_Neuhaus\N46
+##	TAG	</name>
+2392	TOK	and		and\CC
+##	TAG	<name>
+2393	TOK	Yukinobu Nakeseko		Yukinobu_Nakeseko\N46
+##	TAG	</name>
+2394	TOK	confirmed		confirm\VMF6A66
+2395	TOK	that		that\CS
+2396	TOK	adjacent		adjacent\JA
+2397	TOK	zinc		zinc\N5S
+2398	TOK	fingers		finger\N5P
+2399	TOK	do		do\V6FDR66
+2400	TOK	not		not\DGA7
+2401	TOK	meld		meld\VMI----
+2402	TOK	with		with\P
+##	TAG	<loc pos="RPP3N-">
+2403	TOK	each other		each_other\RPP3N-
+##	TAG	</loc>
+---	DLD	;		=\DELIM
+2404	TOK	zinc		zinc\N5S
+2405	TOK	fingers		finger\N5P
+2406	TOK	are		be\V6FDR66
+2407	TOK	truly		truly\DGA7
+2408	TOK	independent		independent\JA
+---	DLE	"		=\DELIM
+2409	TOK	reading		reading\N5S
+2410	TOK	heads		head\VMFDRS3
+---	DLD	"		=\DELIM
+2411	TOK	joined		join\VMC----
+2412	TOK	by		by\P
+2413	TOK	flexible		flexible\JA
+2414	TOK	linkers		linker\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2415	TOK	The	BOS	the\AT---6
+2416	TOK	precise		precise\JA
+2417	TOK	points		point\N5P
+2418	TOK	of		of\P
+2419	TOK	contact		contact\N5S
+2420	TOK	between		between\P
+2421	TOK	zinc		zinc\N5S
+2422	TOK	fingers		finger\N5P
+2423	TOK	and		and\CC
+##	TAG	<name>
+2424	TOK	DNA		DNA\N46
+##	TAG	</name>
+2425	TOK	had		have\V6F6A66
+2426	TOK	yet		yet\DGA7
+2427	TOK	to		to\P
+2428	TOK	be		be\VMI----
+2429	TOK	identified		identify\VMF6A66
+---	DLD	,		=\DELIM
+2430	TOK	however		however\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2431	TOK	Nikola P. Pavletich	BOS	Nikola_P._Pavletich\N46
+##	TAG	</name>
+2432	TOK	and		and\CC
+##	TAG	<name>
+2433	TOK	Carl		Carl\N46
+##	TAG	</name>
+##	TAG	<num>
+2434	TOK	0		0\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2435	TOK	Pabo	BOS	Pabo\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2436	TOK	both		both\RIP3N-
+2437	TOK	then		then\DGA7
+2438	TOK	at		at\P
+##	TAG	<name>
+2439	TOK	Johns Hopkins		Johns_Hopkins\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2440	TOK	made		make\VMC----
+2441	TOK	the		the\AT---6
+2442	TOK	initial		initial\JA
+2443	TOK	breakthrough		breakthrough\N5S
+2444	TOK	in		in\P
+##	TAG	<num>
+2445	TOK	1991		1991\X
+##	TAG	</num>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2446	TOK	First	BOS	first\MOS
+---	DLD	,		=\DELIM
+2447	TOK	they		they\RPP3NN
+2448	TOK	obtained		obtain\VMF6A66
+2449	TOK	crystals		crystal\N5P
+2450	TOK	of		of\P
+2451	TOK	the		the\AT---6
+2452	TOK	complex		complex\JA
+2453	TOK	formed		form\VMC----
+2454	TOK	by		by\P
+2455	TOK	the		the\AT---6
+##	TAG	<name>
+2456	TOK	DNA		DNA\N46
+##	TAG	</name>
+2457	TOK	and		and\CC
+2458	TOK	the		the\AT---6
+##	TAG	<name>
+2459	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+2460	TOK	binding		binding\N5S
+2461	TOK	domain		domain\N5S
+2462	TOK	of		of\P
+2463	TOK	a		a\AI---S
+2464	TOK	transcription		transcription\N5S
+2465	TOK	factor		factor\N5S
+2466	TOK	called		call\VMF6A66
+##	TAG	<name>
+2467	TOK	Zif268		Zif268\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2468	TOK	By	BOS	by\P
+2469	TOK	then		then\DGA7
+2470	TOK	carrying		carry\VMG----
+2471	TOK	out		out\DGA7
+2472	TOK	an		an\AI---S
+2473	TOK	x-ray		x-ray\N5S
+2474	TOK	crystallographic		crystallographic\JA
+2475	TOK	analysis		analysis\N5S
+---	DLD	,		=\DELIM
+2476	TOK	they		they\RPP3NN
+2477	TOK	were		be\V6F-A66
+2478	TOK	able		able\JA
+2479	TOK	to		to\P
+2480	TOK	determine		determine\VMI----
+2481	TOK	the		the\AT---6
+2482	TOK	detailed		detail\VMC----
+2483	TOK	structure		structure\N5S
+2484	TOK	of		of\P
+2485	TOK	the		the\AT---6
+2486	TOK	complex		complex\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2487	TOK	Zif268	BOS	Zif268\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2488	TOK	which		which\RW63N-
+2489	TOK	in		in\P
+2490	TOK	common		common\JA
+2491	TOK	with		with\P
+##	TAG	<name>
+2492	TOK	SWI5		SWI5\N46
+##	TAG	</name>
+2493	TOK	includes		include\VMFDRS3
+2494	TOK	a		a\AI---S
+2495	TOK	run		run\N5S
+2496	TOK	of		of\P
+##	TAG	<num>
+2497	TOK	three		three\X
+##	TAG	</num>
+2498	TOK	zinc		zinc\N5S
+2499	TOK	fingers		finger\N5P
+---	DLD	,		=\DELIM
+2500	TOK	participates		participate\VMFDRS3
+2501	TOK	in		in\P
+2502	TOK	the		the\AT---6
+2503	TOK	early		early\JA
+2504	TOK	development		development\N5S
+2505	TOK	of		of\P
+2506	TOK	mice		mouse\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2507	TOK	The	BOS	the\AT---6
+2508	TOK	x-ray		x-ray\N5S
+2509	TOK	analyses		analysis\N5P
+2510	TOK	revealed		reveal\VMF6A66
+2511	TOK	that		that\CS
+2512	TOK	the		the\AT---6
+##	TAG	<name>
+2513	TOK	Zif268		Zif268\N46
+##	TAG	</name>
+2514	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+2515	TOK	finger		finger\N5S
+2516	TOK	region		region\N5S
+2517	TOK	curls		curl\N5P
+2518	TOK	around		around\P
+2519	TOK	almost		almost\DGA7
+2520	TOK	one		one\MCS
+2521	TOK	turn		turn\N5S
+2522	TOK	of		of\P
+2523	TOK	the		the\AT---6
+##	TAG	<name>
+2524	TOK	DNA		DNA\N46
+##	TAG	</name>
+2525	TOK	helix		helix\N5S
+---	DLE	(		=\DELIM
+##	TAG	<loc pos="DGA7">
+2526	TOK	more or less		more_or_less\DGA7
+##	TAG	</loc>
+2527	TOK	tracing		trace\VMG----
+2528	TOK	the		the\AT---6
+2529	TOK	letter		letter\N5S
+---	DLE	"		=\DELIM
+2530	TOK	C		C\N5P
+---	DLD	"		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+2531	TOK	fitting		fit\VMG----
+2532	TOK	itself		itself\RXS3N-
+2533	TOK	into		into\P
+2534	TOK	the		the\AT---6
+2535	TOK	major		major\JA
+##	TAG	<abbr>
+2536	TOK	groove.		groove.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+2537	TOK	The		The\N5P
+2538	TOK	major		major\JA
+2539	TOK	groove		groove\N5S
+2540	TOK	is		be\V6FDRS3
+2541	TOK	the		the\AT---6
+2542	TOK	wider		wide\JC
+2543	TOK	of		of\P
+##	TAG	<num>
+2544	TOK	two		two\X
+##	TAG	</num>
+2545	TOK	parallel		parallel\JA
+2546	TOK	gullies		gully\N5P
+2547	TOK	that		that\RW63N6
+2548	TOK	spiral		spiral\VMF6R66
+2549	TOK	around		around\P
+2550	TOK	the		the\AT---6
+2551	TOK	long		long\JA
+2552	TOK	axis		axis\N5S
+2553	TOK	of		of\P
+2554	TOK	the		the\AT---6
+##	TAG	<name>
+2555	TOK	DNA		DNA\N46
+##	TAG	</name>
+2556	TOK	double		double\JA
+2557	TOK	helix		helix\N5S
+---	DLD	,		=\DELIM
+2558	TOK	much		much\DGA7
+2559	TOK	as		as\DGA7
+2560	TOK	red		red\JA
+---	DLD	-		=\DELIM
+2561	TOK	and		and\CC
+---	DLI	-		=\DELIM
+2562	TOK	white		white\JA
+2563	TOK	ribbons		ribbon\N5P
+2564	TOK	of		of\P
+2565	TOK	color		color\N5S
+2566	TOK	encircle		encircle\VMF6R66
+2567	TOK	old		old\JA
+---	DLI	-		=\DELIM
+2568	TOK	fashioned		fashion\VMC----
+2569	TOK	barber		barber\N5S
+2570	TOK	poles		pole\VMFDRS3
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2571	TOK	The	BOS	the\AT---6
+2572	TOK	fingers		finger\N5P
+2573	TOK	make		make\VMF6R66
+2574	TOK	contacts		contact\N5P
+2575	TOK	with		with\P
+2576	TOK	successive		successive\JA
+---	DLD	,		=\DELIM
+2577	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+2578	TOK	base		base\N5S
+---	DLI	-		=\DELIM
+2579	TOK	pair		pair\N56
+2580	TOK	sites		site\N5P
+2581	TOK	on		on\P
+2582	TOK	the		the\AT---6
+##	TAG	<name>
+2583	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2584	TOK	and		and\CC
+2585	TOK	they		they\RPP3NN
+2586	TOK	approach		approach\VMF6R66
+2587	TOK	the		the\AT---6
+##	TAG	<name>
+2588	TOK	DNA		DNA\N46
+##	TAG	</name>
+2589	TOK	in		in\P
+##	TAG	<loc pos="JA">
+2590	TOK	much the same		much_the_same\JA
+##	TAG	</loc>
+2591	TOK	orientation		orientation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2592	TOK	That	BOS	that\CS
+2593	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+2594	TOK	the		the\AT---6
+2595	TOK	alpha		alpha\N5S
+2596	TOK	helix		helix\N5S
+2597	TOK	of		of\P
+2598	TOK	each		each\AG---S
+2599	TOK	finger		finger\N5S
+2600	TOK	points		point\N5P
+2601	TOK	into		into\P
+2602	TOK	the		the\AT---6
+2603	TOK	major		major\JA
+2604	TOK	groove		groove\VMF6R66
+---	DLD	,		=\DELIM
+2605	TOK	abutting		abut\VMG----
+2606	TOK	one		one\MCS
+2607	TOK	of		of\P
+2608	TOK	its		its\APS3N6
+2609	TOK	walls		wall\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2610	TOK	More	BOS	more\DDC7
+2611	TOK	specifically		specifically\DGA7
+---	DLD	,		=\DELIM
+2612	TOK	the		the\AT---6
+2613	TOK	first		first\MOS
+2614	TOK	and		and\CC
+2615	TOK	third		third\MOS
+2616	TOK	fingers		finger\N5P
+2617	TOK	of		of\P
+##	TAG	<name>
+2618	TOK	Zif268		Zif268\N46
+##	TAG	</name>
+2619	TOK	bind		bind\VMF6R66
+2620	TOK	to		to\P
+##	TAG	<name>
+2621	TOK	DNA		DNA\N46
+##	TAG	</name>
+2622	TOK	identically		identically\DGA7
+---	DLD	:		=\DELIM
+2623	TOK	an		an\AI---S
+2624	TOK	amino		amino\N5S
+2625	TOK	acid		acid\N5S
+2626	TOK	in		in\P
+2627	TOK	the		the\AT---6
+2628	TOK	first		first\MOS
+2629	TOK	turn		turn\N5S
+2630	TOK	of		of\P
+2631	TOK	the		the\AT---6
+2632	TOK	alpha		alpha\N5S
+2633	TOK	helix		helix\N5S
+2634	TOK	contacts		contact\VMFDRS3
+2635	TOK	the		the\AT---6
+2636	TOK	first		first\MOS
+2637	TOK	base		base\N5S
+2638	TOK	pair		pair\VMF6R66
+2639	TOK	of		of\P
+2640	TOK	the		the\AT---6
+2641	TOK	corresponding		corresponding\JA
+2642	TOK	binding		binding\N5S
+2643	TOK	site		site\N5S
+2644	TOK	on		on\P
+##	TAG	<name>
+2645	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2646	TOK	and		and\CC
+2647	TOK	an		an\AI---S
+2648	TOK	amino		amino\N5S
+2649	TOK	acid		acid\N5S
+2650	TOK	in		in\P
+2651	TOK	the		the\AT---6
+2652	TOK	third		third\MOS
+2653	TOK	turn		turn\N5S
+2654	TOK	of		of\P
+2655	TOK	the		the\AT---6
+2656	TOK	helix		helix\N5S
+2657	TOK	contacts		contact\VMFDRS3
+2658	TOK	the		the\AT---6
+2659	TOK	third		third\MOS
+2660	TOK	base		base\N5S
+2661	TOK	pair		pair\VMF6R66
+2662	TOK	of		of\P
+2663	TOK	that		that\AD---S
+2664	TOK	same		same\JA
+##	TAG	<name>
+2665	TOK	DNA		DNA\N46
+##	TAG	</name>
+2666	TOK	site		site\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2667	TOK	The	BOS	the\AT---6
+2668	TOK	second		second\MOS
+2669	TOK	finger		finger\N5S
+2670	TOK	also		also\DGA7
+2671	TOK	makes		make\VMFDRS3
+##	TAG	<num>
+2672	TOK	two		two\X
+##	TAG	</num>
+2673	TOK	contacts		contact\N5P
+2674	TOK	through		through\P
+2675	TOK	the		the\AT---6
+2676	TOK	alpha		alpha\N5S
+2677	TOK	helix		helix\N5S
+---	DLD	,		=\DELIM
+2678	TOK	but		but\CC
+2679	TOK	this		this\AD---S
+2680	TOK	time		time\N5S
+2681	TOK	amino		amino\N5S
+2682	TOK	acids		acid\N5P
+2683	TOK	on		on\P
+2684	TOK	the		the\AT---6
+2685	TOK	first		first\MOS
+2686	TOK	and		and\CC
+2687	TOK	second		second\MOS
+2688	TOK	turn		turn\N5S
+2689	TOK	contact		contact\VMF6R66
+2690	TOK	the		the\AT---6
+2691	TOK	first		first\MOS
+2692	TOK	and		and\CC
+2693	TOK	second		second\MOS
+2694	TOK	base		base\N5S
+2695	TOK	pairs		pair\N5P
+2696	TOK	of		of\P
+2697	TOK	the		the\AT---6
+2698	TOK	corresponding		corresponding\JA
+2699	TOK	binding		binding\N5S
+2700	TOK	site		site\N5S
+2701	TOK	on		on\P
+##	TAG	<abbr>
+2702	TOK	DNA.		DNA.\N5P
+##	TAG	</abbr>
+---	DLE	(		=\DELIM
+2703	TOK	In		In\N5P
+2704	TOK	each		each\AG---S
+2705	TOK	instance		instance\VMF6R66
+---	DLD	,		=\DELIM
+2706	TOK	one		one\MCS
+2707	TOK	amino		amino\N5S
+2708	TOK	acid		acid\N5S
+2709	TOK	contacts		contact\N5P
+2710	TOK	one		one\MCS
+##	TAG	<name>
+2711	TOK	DNA		DNA\N46
+##	TAG	</name>
+2712	TOK	base		base\N5S
+2713	TOK	in		in\P
+2714	TOK	a		a\AI---S
+2715	TOK	pair		pair\N56
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2716	TOK	In	BOS	in\P
+2717	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+2718	TOK	both		both\RIP3N-
+2719	TOK	the		the\AT---6
+2720	TOK	alpha		alpha\N5S
+2721	TOK	helix		helix\N5S
+2722	TOK	and		and\CC
+2723	TOK	the		the\AT---6
+2724	TOK	beta		beta\N5S
+2725	TOK	sheet		sheet\N5S
+2726	TOK	in		in\P
+2727	TOK	the		the\AT---6
+2728	TOK	fingers		finger\N5P
+2729	TOK	bind		bind\VMF6R66
+2730	TOK	to		to\P
+2731	TOK	phosphate		phosphate\N5S
+2732	TOK	groups		group\N5P
+2733	TOK	in		in\P
+2734	TOK	the		the\AT---6
+2735	TOK	chains		chain\N5P
+2736	TOK	of		of\P
+2737	TOK	sugar		sugar\N5S
+2738	TOK	and		and\CC
+2739	TOK	phosphate		phosphate\N5S
+2740	TOK	that		that\RW63N6
+2741	TOK	make		make\VMF6R66
+2742	TOK	up		up\P
+2743	TOK	the		the\AT---6
+---	DLE	"		=\DELIM
+2744	TOK	sides		side\N5P
+---	DLD	"		=\DELIM
+2745	TOK	of		of\P
+2746	TOK	the		the\AT---6
+##	TAG	<name>
+2747	TOK	DNA		DNA\N46
+##	TAG	</name>
+2748	TOK	ladder		ladder\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2749	TOK	These	BOS	this\RDP3N-
+2750	TOK	added		add\VMC----
+2751	TOK	links		link\N5P
+2752	TOK	help		help\VMF6R66
+2753	TOK	to		to\P
+2754	TOK	stabilize		stabilize\VMI----
+2755	TOK	the		the\AT---6
+2756	TOK	attachment		attachment\N5S
+2757	TOK	of		of\P
+2758	TOK	zinc		zinc\N5S
+2759	TOK	fingers		finger\N5P
+2760	TOK	to		to\P
+##	TAG	<name>
+2761	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2762	TOK	So far	BOS	So_far\DGA7
+##	TAG	</loc>
+2763	TOK	no		no\AI---6
+2764	TOK	other		other\JA
+2765	TOK	complexes		complex\N5P
+2766	TOK	of		of\P
+2767	TOK	zinc		zinc\N5S
+2768	TOK	fingers		finger\N5P
+2769	TOK	and		and\CC
+##	TAG	<name>
+2770	TOK	DNA		DNA\N46
+##	TAG	</name>
+2771	TOK	have		have\V6F6R66
+2772	TOK	been		be\VMC----
+2773	TOK	solved		solve\VMC----
+2774	TOK	by		by\P
+2775	TOK	x-ray		x-ray\N5S
+2776	TOK	crystallography		crystallography\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2777	TOK	Nevertheless	BOS	nevertheless\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+2778	TOK	Grant H. Jacobs		Grant_H._Jacobs\N46
+##	TAG	</name>
+2779	TOK	in		in\P
+2780	TOK	our		our\APP1N6
+2781	TOK	laboratory		laboratory\N5S
+2782	TOK	has		have\V6FDRS3
+2783	TOK	good		good\JA
+2784	TOK	evidence		evidence\N5S
+2785	TOK	that		that\CS
+2786	TOK	many		many\AI---P
+2787	TOK	zinc		zinc\N5S
+2788	TOK	fingers		finger\N5P
+2789	TOK	bind		bind\VMF6R66
+2790	TOK	to		to\P
+##	TAG	<name>
+2791	TOK	DNA		DNA\N46
+##	TAG	</name>
+2792	TOK	in		in\P
+##	TAG	<loc pos="JA">
+2793	TOK	much the same		much_the_same\JA
+##	TAG	</loc>
+2794	TOK	way		way\N5S
+2795	TOK	as		as\P
+##	TAG	<name>
+2796	TOK	Zif268		Zif268\N46
+##	TAG	</name>
+2797	TOK	does		do\V6FDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2798	TOK	Jacobs	BOS	Jacobs\N46
+##	TAG	</name>
+2799	TOK	has		have\V6FDRS3
+2800	TOK	compared		compare\VMC----
+2801	TOK	the		the\AT---6
+2802	TOK	amino		amino\N5S
+2803	TOK	acid		acid\N5S
+2804	TOK	sequences		sequence\N5P
+2805	TOK	of		of\P
+2806	TOK	more		more\DDC7
+2807	TOK	than		than\CS
+##	TAG	<num>
+2808	TOK	1,000		1,000\X
+##	TAG	</num>
+2809	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+2810	TOK	finger		finger\N5S
+2811	TOK	motifs		motif\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2812	TOK	He	BOS	he\RPS3MN
+2813	TOK	finds		find\VMFDRS3
+2814	TOK	that		that\CS
+2815	TOK	the		the\AT---6
+2816	TOK	amino		amino\N5S
+2817	TOK	acids		acid\N5P
+2818	TOK	in		in\P
+##	TAG	<num>
+2819	TOK	three		three\X
+##	TAG	</num>
+2820	TOK	positions		position\N5P
+2821	TOK	are		be\V6FDR66
+2822	TOK	particularly		particularly\DGA7
+2823	TOK	variable		variable\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2824	TOK	These	BOS	this\AD---P
+2825	TOK	highly		highly\DGA7
+2826	TOK	variable		variable\JA
+2827	TOK	positions		position\N5P
+2828	TOK	are		be\V6FDR66
+2829	TOK	precisely		precisely\DGA7
+2830	TOK	those		that\RDP3N-
+2831	TOK	that		that\RW63N6
+2832	TOK	are		be\V6FDR66
+2833	TOK	used		use\VMC----
+2834	TOK	to		to\P
+2835	TOK	make		make\VMI----
+2836	TOK	contacts		contact\N5P
+2837	TOK	in		in\P
+2838	TOK	the		the\AT---6
+##	TAG	<name>
+2839	TOK	Zif268		Zif268\N46
+##	TAG	</name>
+2840	TOK	complex		complex\JA
+---	DLD	,		=\DELIM
+2841	TOK	namely		namely\DGA7
+---	DLD	,		=\DELIM
+2842	TOK	those		that\RDP3N-
+2843	TOK	falling		fall\VMG----
+2844	TOK	on		on\P
+2845	TOK	the		the\AT---6
+2846	TOK	first		first\MOS
+---	DLD	,		=\DELIM
+2847	TOK	second		second\MOS
+2848	TOK	and		and\CC
+2849	TOK	third		third\MOS
+2850	TOK	turns		turn\N5P
+2851	TOK	of		of\P
+2852	TOK	the		the\AT---6
+2853	TOK	alpha		alpha\N5S
+2854	TOK	helix		helix\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2855	TOK	Such	BOS	such\JA
+2856	TOK	similarity		similarity\N5S
+2857	TOK	raises		raise\VMFDRS3
+2858	TOK	the		the\AT---6
+2859	TOK	exciting		exciting\JA
+2860	TOK	possibility		possibility\N5S
+2861	TOK	that		that\RW63N6
+2862	TOK	zinc		zinc\VMF6R66
+---	DLI	-		=\DELIM
+2863	TOK	finger		finger\N5S
+2864	TOK	modules		module\N5P
+2865	TOK	might		may\VOFDR66
+2866	TOK	one		one\MCS
+2867	TOK	day		day\N5S
+2868	TOK	be		be\VMI----
+2869	TOK	designed		design\VMC----
+2870	TOK	at		at\P
+2871	TOK	will		will\N5S
+2872	TOK	to		to\P
+2873	TOK	recognize		recognize\VMI----
+2874	TOK	selected		select\VMC----
+##	TAG	<name>
+2875	TOK	DNA		DNA\N46
+##	TAG	</name>
+2876	TOK	sequences		sequence\N5P
+---	DLE	-		=\DELIM
+2877	TOK	a		a\AI---S
+2878	TOK	feat		feat\N5S
+2879	TOK	that		that\RW63N6
+2880	TOK	could		can\VOFDA66
+2881	TOK	be		be\VMI----
+2882	TOK	important		important\JA
+2883	TOK	both		both\RIP3N-
+2884	TOK	for		for\P
+2885	TOK	the		the\AT---6
+2886	TOK	study		study\N5S
+2887	TOK	of		of\P
+2888	TOK	gene		gene\N5S
+2889	TOK	regulation		regulation\N5S
+2890	TOK	and		and\CC
+2891	TOK	for		for\P
+2892	TOK	medicine		medicine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2893	TOK	Of course	BOS	Of_course\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2894	TOK	there		there\DGA7
+2895	TOK	are		be\V6FDR66
+2896	TOK	limits		limit\N5P
+2897	TOK	to		to\P
+2898	TOK	how		how\DGAW
+2899	TOK	much		much\DGA7
+2900	TOK	one		one\RIS3N-
+2901	TOK	can		can\VOFDR66
+2902	TOK	extrapolate		extrapolate\VMI----
+2903	TOK	from		from\P
+2904	TOK	the		the\AT---6
+##	TAG	<name>
+2905	TOK	Zif268		Zif268\N46
+##	TAG	</name>
+2906	TOK	model		model\N5S
+2907	TOK	and		and\CC
+2908	TOK	from		from\P
+2909	TOK	statistical		statistical\JA
+2910	TOK	analyses		analysis\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2911	TOK	Proteins	BOS	protein\N5P
+2912	TOK	with		with\P
+2913	TOK	many		many\AI---P
+2914	TOK	zinc		zinc\N5S
+2915	TOK	fingers		finger\N5P
+2916	TOK	would		will\VOFDA66
+2917	TOK	be		be\VMI----
+2918	TOK	expected		expect\VMC----
+2919	TOK	to		to\P
+2920	TOK	interact		interact\VMI----
+2921	TOK	with		with\P
+##	TAG	<name>
+2922	TOK	DNA		DNA\N46
+##	TAG	</name>
+2923	TOK	somewhat		somewhat\DGA7
+2924	TOK	differently		differently\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2925	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2926	TOK	if		if\CS
+2927	TOK	the		the\AT---6
+##	TAG	<name>
+2928	TOK	Zif268		Zif268\N46
+##	TAG	</name>
+2929	TOK	pattern		pattern\N5S
+2930	TOK	of		of\P
+2931	TOK	binding		binding\N5S
+2932	TOK	applied		apply\VMC----
+2933	TOK	to		to\P
+##	TAG	<name>
+2934	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2935	TOK	this		this\AD---S
+2936	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+2937	TOK	with		with\P
+2938	TOK	its		its\APS3N6
+##	TAG	<num>
+2939	TOK	nine		nine\X
+##	TAG	</num>
+2940	TOK	fingers		finger\N5P
+---	DLD	,		=\DELIM
+2941	TOK	would		will\VOFDA66
+2942	TOK	wind		wind\VMI----
+2943	TOK	around		around\P
+2944	TOK	the		the\AT---6
+##	TAG	<name>
+2945	TOK	DNA		DNA\N46
+##	TAG	</name>
+2946	TOK	for		for\P
+##	TAG	<num>
+2947	TOK	three		three\X
+##	TAG	</num>
+2948	TOK	turns		turn\VMFDRS3
+---	DLD	,		=\DELIM
+2949	TOK	like		like\P
+2950	TOK	thread		thread\N5S
+2951	TOK	on		on\P
+2952	TOK	a		a\AI---S
+2953	TOK	spool		spool\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2954	TOK	This	BOS	this\AD---S
+2955	TOK	extensive		extensive\JA
+2956	TOK	wrapping		wrapping\N5S
+2957	TOK	could		can\VOFDA66
+2958	TOK	well		well\DGA7
+2959	TOK	hamper		hamper\VMI----
+2960	TOK	the		the\AT---6
+2961	TOK	factor		factor\N5S
+2962	TOK	from		from\P
+2963	TOK	coming		come\VMG----
+2964	TOK	off		off\P
+2965	TOK	the		the\AT---6
+##	TAG	<name>
+2966	TOK	DNA		DNA\N46
+##	TAG	</name>
+2967	TOK	when		when\CS
+2968	TOK	detachment		detachment\N5S
+2969	TOK	became		become\VMF6A66
+2970	TOK	necessary		necessary\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2971	TOK	Indeed	BOS	indeed\DGA7
+---	DLD	,		=\DELIM
+2972	TOK	footprinting		footprinting\N5S
+2973	TOK	data		data\N56
+2974	TOK	obtained		obtain\VMC----
+2975	TOK	by		by\P
+2976	TOK	us		us\RPP1NA
+2977	TOK	and		and\CC
+2978	TOK	others		other\RIP3N-
+2979	TOK	suggest		suggest\VMF6R66
+2980	TOK	that		that\CS
+##	TAG	<name>
+2981	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+2982	TOK	does		do\V6FDRS3
+2983	TOK	not		not\DGA7
+2984	TOK	twist		twist\VMF6R66
+2985	TOK	continuously		continuously\DGA7
+2986	TOK	around		around\P
+2987	TOK	the		the\AT---6
+##	TAG	<name>
+2988	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2989	TOK	The	BOS	the\AT---6
+2990	TOK	first		first\MOS
+##	TAG	<num>
+2991	TOK	three		three\X
+##	TAG	</num>
+2992	TOK	fingers		finger\N5P
+2993	TOK	of		of\P
+##	TAG	<name>
+2994	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+2995	TOK	almost		almost\DGA7
+2996	TOK	certainly		certainly\DGA7
+2997	TOK	clasp		clasp\VMI----
+2998	TOK	onto		onto\P
+2999	TOK	a		a\AI---S
+3000	TOK	single		single\JA
+3001	TOK	turn		turn\N5S
+3002	TOK	of		of\P
+3003	TOK	the		the\AT---6
+##	TAG	<name>
+3004	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3005	TOK	and		and\CC
+3006	TOK	it		it\RPS3N6
+3007	TOK	is		be\V6FDRS3
+3008	TOK	very		very\JA
+3009	TOK	likely		likely\DGA7
+3010	TOK	that		that\CS
+3011	TOK	the		the\AT---6
+3012	TOK	last		last\JA
+##	TAG	<num>
+3013	TOK	three		three\X
+##	TAG	</num>
+3014	TOK	fingers		finger\N5P
+3015	TOK	do		do\V6FDR66
+3016	TOK	the		the\AT---6
+3017	TOK	same		same\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3018	TOK	But	BOS	but\CC
+3019	TOK	the		the\AT---6
+3020	TOK	bulk		bulk\N5S
+3021	TOK	of		of\P
+3022	TOK	the		the\AT---6
+3023	TOK	protein		protein\N5S
+3024	TOK	lies		lie\VMFDRS3
+3025	TOK	on		on\P
+3026	TOK	just		just\DGA7
+3027	TOK	one		one\MCS
+3028	TOK	face		face\N5S
+3029	TOK	of		of\P
+3030	TOK	the		the\AT---6
+3031	TOK	double		double\JA
+3032	TOK	helix		helix\N5S
+---	DLD	;		=\DELIM
+3033	TOK	hence		hence\DGA7
+---	DLD	,		=\DELIM
+3034	TOK	it		it\RPS3N6
+3035	TOK	crosses		cross\VMFDRS3
+3036	TOK	the		the\AT---6
+3037	TOK	narrow		narrow\JA
+---	DLD	,		=\DELIM
+3038	TOK	minor		minor\JA
+3039	TOK	groove		groove\N5S
+##	TAG	<loc pos="DGA7">
+3040	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+3041	TOK	twice		twice\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3042	TOK	The	BOS	the\AT---6
+3043	TOK	varied		varied\JA
+##	TAG	<name>
+3044	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3045	TOK	binding		binding\N5S
+3046	TOK	patterns		pattern\N5P
+3047	TOK	of		of\P
+3048	TOK	separate		separate\JA
+3049	TOK	regions		region\N5P
+3050	TOK	of		of\P
+##	TAG	<name>
+3051	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+3052	TOK	probably		probably\DGA7
+3053	TOK	reflect		reflect\VMF6R66
+3054	TOK	the		the\AT---6
+3055	TOK	fact		fact\N5S
+3056	TOK	that		that\CS
+3057	TOK	the		the\AT---6
+3058	TOK	amino		amino\N5S
+3059	TOK	acid		acid\N5S
+3060	TOK	sequences		sequence\N5P
+3061	TOK	of		of\P
+3062	TOK	the		the\AT---6
+##	TAG	<name>
+3063	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+3064	TOK	fingers		finger\N5P
+3065	TOK	differ		differ\VMF6R66
+3066	TOK	more		more\DDC7
+3067	TOK	from		from\P
+##	TAG	<loc pos="DGA7">
+3068	TOK	one another		one_another\DGA7
+##	TAG	</loc>
+3069	TOK	than		than\CS
+3070	TOK	do		do\V6FDR66
+3071	TOK	those		that\RDP3N-
+3072	TOK	of		of\P
+3073	TOK	the		the\AT---6
+3074	TOK	fingers		finger\N5P
+3075	TOK	in		in\P
+##	TAG	<name>
+3076	TOK	Zif268		Zif268\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3077	TOK	type		type\N5S
+3078	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3079	TOK	From	BOS	from\P
+3080	TOK	an		an\AI---S
+3081	TOK	evolutionary		evolutionary\JA
+3082	TOK	standpoint		standpoint\N5S
+---	DLD	,		=\DELIM
+3083	TOK	there		there\DGA7
+3084	TOK	is		be\V6FDRS3
+3085	TOK	good		good\JA
+3086	TOK	reason		reason\N5S
+3087	TOK	to		to\P
+3088	TOK	think		think\VMI----
+3089	TOK	that		that\CS
+3090	TOK	multifingered		multifingered\JA
+##	TAG	<name>
+3091	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3092	TOK	binding		binding\N5S
+3093	TOK	domains		domain\N5P
+3094	TOK	arose		arise\VMF6A66
+3095	TOK	by		by\P
+3096	TOK	duplication		duplication\N5S
+3097	TOK	of		of\P
+3098	TOK	some		some\AG---6
+3099	TOK	ancestral		ancestral\JA
+3100	TOK	gene		gene\N5S
+3101	TOK	that		that\RW63N6
+3102	TOK	specified		specify\VMF6A66
+3103	TOK	a		a\AI---S
+3104	TOK	small		small\JA
+3105	TOK	protein		protein\N5S
+3106	TOK	of		of\P
+##	TAG	<num>
+3107	TOK	30		30\X
+##	TAG	</num>
+3108	TOK	or		or\CC
+3109	TOK	so		so\RI-3N-
+3110	TOK	amino		amino\N5S
+3111	TOK	acids		acid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3112	TOK	We	BOS	we\RPP1NN
+3113	TOK	think		think\VMF6R66
+---	DLD	,		=\DELIM
+3114	TOK	too		too\DGA7
+---	DLD	,		=\DELIM
+3115	TOK	that		that\CS
+3116	TOK	the		the\AT---6
+##	TAG	<num>
+3117	TOK	30		30\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+3118	TOK	amino		amino\N5S
+---	DLI	-		=\DELIM
+3119	TOK	acid		acid\N5S
+3120	TOK	chain		chain\N5S
+3121	TOK	may		may\VOFDR66
+3122	TOK	have		have\VMI----
+3123	TOK	been		be\VMC----
+3124	TOK	among		among\P
+3125	TOK	the		the\AT---6
+3126	TOK	earliest		early\JS
+3127	TOK	of		of\P
+3128	TOK	proteins		protein\N5P
+3129	TOK	to		to\P
+3130	TOK	evolve		evolve\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3131	TOK	Such	BOS	such\JA
+3132	TOK	a		a\AI---S
+3133	TOK	protein		protein\N5S
+3134	TOK	would		will\VOFDA66
+---	DLD	,		=\DELIM
+3135	TOK	after		after\P
+3136	TOK	all		all\AG---6
+---	DLD	,		=\DELIM
+3137	TOK	have		have\V6F6R66
+3138	TOK	been		be\VMC----
+3139	TOK	simple		simple\JA
+3140	TOK	to		to\P
+3141	TOK	produce		produce\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3142	TOK	Once	BOS	once\DGA7
+3143	TOK	synthesized		synthesize\VMF6A66
+---	DLD	,		=\DELIM
+3144	TOK	it		it\RPS3N6
+3145	TOK	would		will\VOFDA66
+3146	TOK	easily		easily\DGA7
+3147	TOK	and		and\CC
+3148	TOK	safely		safely\DGA7
+3149	TOK	pick		pick\VMF6R66
+3150	TOK	up		up\P
+3151	TOK	zinc		zinc\N5S
+---	DLE	(		=\DELIM
+3152	TOK	which		which\RW63N-
+3153	TOK	is		be\V6FDRS3
+3154	TOK	a		a\AI---S
+3155	TOK	relatively		relatively\DGA7
+3156	TOK	inert		inert\JA
+3157	TOK	metal		metal\N5S
+---	DLD	)		=\DELIM
+3158	TOK	from		from\P
+3159	TOK	its		its\APS3N6
+3160	TOK	surroundings		surroundings\N5P
+3161	TOK	and		and\CC
+3162	TOK	would		will\VOFDA66
+3163	TOK	then		then\DGA7
+3164	TOK	fold		fold\VMI----
+3165	TOK	without		without\P
+3166	TOK	assistance		assistance\N5S
+3167	TOK	into		into\P
+3168	TOK	a		a\AI---S
+3169	TOK	stable		stable\JA
+3170	TOK	conformation		conformation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3171	TOK	So	BOS	so\DGA7
+3172	TOK	folded		fold\VMF6A66
+---	DLD	,		=\DELIM
+3173	TOK	it		it\RPS3N6
+3174	TOK	would		will\VOFDA66
+3175	TOK	acquire		acquire\VMI----
+3176	TOK	the		the\AT---6
+3177	TOK	ability		ability\N5S
+3178	TOK	to		to\P
+3179	TOK	bind		bind\VMI----
+3180	TOK	to		to\P
+##	TAG	<name>
+3181	TOK	DNA		DNA\N46
+##	TAG	</name>
+3182	TOK	or		or\CC
+##	TAG	<name>
+3183	TOK	RNA		RNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3184	TOK	Such	BOS	such\JA
+3185	TOK	attributes		attribute\N5P
+3186	TOK	almost		almost\DGA7
+3187	TOK	certainly		certainly\DGA7
+3188	TOK	help		help\VMI----
+3189	TOK	to		to\P
+3190	TOK	explain		explain\VMI----
+3191	TOK	why		why\CS
+3192	TOK	zinc		zinc\N5S
+3193	TOK	fingers		finger\N5P
+3194	TOK	are		be\V6FDR66
+3195	TOK	now		now\DGA7
+3196	TOK	prevalent		prevalent\JA
+3197	TOK	throughout		throughout\P
+3198	TOK	the		the\AT---6
+3199	TOK	animal		animal\N5S
+3200	TOK	and		and\CC
+3201	TOK	plant		plant\N5S
+3202	TOK	kingdoms		kingdom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3203	TOK	Any	BOS	any\AG---6
+3204	TOK	species		species\N56
+3205	TOK	acquiring		acquire\VMG----
+3206	TOK	the		the\AT---6
+3207	TOK	genetic		genetic\JA
+3208	TOK	blueprint		blueprint\N5S
+3209	TOK	for		for\P
+3210	TOK	a		a\AI---S
+3211	TOK	particular		particular\JA
+---	DLD	,		=\DELIM
+3212	TOK	autonomously		autonomously\DGA7
+3213	TOK	folding		folding\JA
+3214	TOK	zinc		zinc\N5S
+3215	TOK	finger		finger\N5S
+3216	TOK	would		will\VOFDA66
+3217	TOK	instantly		instantly\DGA7
+3218	TOK	acquire		acquire\VMI----
+3219	TOK	the		the\AT---6
+3220	TOK	ability		ability\N5S
+3221	TOK	to		to\P
+3222	TOK	bind		bind\VMI----
+3223	TOK	to		to\P
+3224	TOK	a		a\AI---S
+3225	TOK	new		new\JA
+3226	TOK	stretch		stretch\N5S
+3227	TOK	of		of\P
+##	TAG	<name>
+3228	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3229	TOK	That	BOS	that\CS
+3230	TOK	property		property\N5S
+---	DLD	,		=\DELIM
+3231	TOK	in		in\P
+3232	TOK	turn		turn\VMI----
+---	DLD	,		=\DELIM
+3233	TOK	could		can\VOFDA66
+3234	TOK	give		give\VMI----
+3235	TOK	rise		rise\N5S
+3236	TOK	to		to\P
+3237	TOK	new		new\JA
+3238	TOK	cellular		cellular\JA
+3239	TOK	functions		function\N5P
+---	DLD	,		=\DELIM
+3240	TOK	such		such\JA
+3241	TOK	as		as\P
+3242	TOK	the		the\AT---6
+3243	TOK	ability		ability\N5S
+3244	TOK	to		to\P
+3245	TOK	transcribe		transcribe\VMI----
+3246	TOK	some		some\AG---6
+3247	TOK	previously		previously\DGA7
+3248	TOK	silent		silent\JA
+3249	TOK	gene		gene\N5S
+3250	TOK	and		and\CC
+3251	TOK	thus		thus\DGA7
+3252	TOK	to		to\P
+3253	TOK	produce		produce\VMI----
+3254	TOK	a		a\AI---S
+3255	TOK	novel		novel\JA
+3256	TOK	enzyme		enzyme\N5S
+3257	TOK	or		or\CC
+3258	TOK	other		other\JA
+3259	TOK	valuable		valuable\JA
+3260	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3261	TOK	As	BOS	as\CS
+3262	TOK	we		we\RPP1NN
+3263	TOK	and		and\CC
+3264	TOK	others		other\RIP3N-
+3265	TOK	were		be\V6F-A66
+3266	TOK	gaining		gain\VMG----
+3267	TOK	insight		insight\N5S
+3268	TOK	into		into\P
+3269	TOK	the		the\AT---6
+3270	TOK	structure		structure\N5S
+3271	TOK	and		and\CC
+3272	TOK	function		function\N5S
+3273	TOK	of		of\P
+3274	TOK	classic		classic\JA
+3275	TOK	zinc		zinc\N5S
+3276	TOK	fingers		finger\N5P
+---	DLD	,		=\DELIM
+3277	TOK	tantalizing		tantalizing\JA
+3278	TOK	findings		finding\N5P
+3279	TOK	began		begin\VMF6A66
+3280	TOK	to		to\P
+3281	TOK	suggest		suggest\VMI----
+3282	TOK	that		that\CS
+3283	TOK	the		the\AT---6
+3284	TOK	motif		motif\N5S
+3285	TOK	we		we\RPP1NN
+3286	TOK	had		have\V6F6A66
+3287	TOK	initially		initially\DGA7
+3288	TOK	discovered		discover\VMC----
+3289	TOK	in		in\P
+##	TAG	<name>
+3290	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+3291	TOK	was		be\V6F-A66
+3292	TOK	not		not\DGA7
+3293	TOK	the		the\AT---6
+3294	TOK	only		only\JA
+3295	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+3296	TOK	centered		center\VMC----
+3297	TOK	structure		structure\N5S
+3298	TOK	devoted		devote\VMC----
+3299	TOK	to		to\P
+##	TAG	<name>
+3300	TOK	DNA		DNA\N46
+##	TAG	</name>
+3301	TOK	recognition		recognition\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3302	TOK	By	BOS	by\P
+##	TAG	<num>
+3303	TOK	1987		1987\X
+##	TAG	</num>
+3304	TOK	investigators		investigator\N5P
+3305	TOK	had		have\V6F6A66
+3306	TOK	elucidated		elucidate\VMC----
+3307	TOK	the		the\AT---6
+3308	TOK	amino		amino\N5S
+3309	TOK	acid		acid\N5S
+3310	TOK	sequences		sequence\N5P
+3311	TOK	of		of\P
+3312	TOK	several		several\JA
+3313	TOK	members		member\N5P
+3314	TOK	of		of\P
+3315	TOK	a		a\AI---S
+3316	TOK	large		large\JA
+3317	TOK	family		family\N5S
+3318	TOK	of		of\P
+3319	TOK	transcription		transcription\N5S
+3320	TOK	factors		factor\N5P
+3321	TOK	known		know\VMC----
+3322	TOK	as		as\P
+3323	TOK	nuclear		nuclear\JA
+3324	TOK	hormone		hormone\N5S
+3325	TOK	receptors		receptor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3326	TOK	Such	BOS	such\JA
+3327	TOK	factors		factor\N5P
+3328	TOK	must		must\VOFDR66
+3329	TOK	be		be\VMI----
+3330	TOK	bound		bind\VMC----
+3331	TOK	by		by\P
+3332	TOK	a		a\AI---S
+3333	TOK	particular		particular\JA
+3334	TOK	steroid		steroid\N5S
+3335	TOK	or		or\CC
+3336	TOK	thyroid		thyroid\N5S
+3337	TOK	hormone		hormone\N5S
+3338	TOK	or		or\CC
+3339	TOK	vitamin		vitamin\N5S
+3340	TOK	before		before\CS
+3341	TOK	they		they\RPP3NN
+3342	TOK	can		can\VOFDR66
+3343	TOK	activate		activate\VMI----
+3344	TOK	a		a\AI---S
+3345	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3346	TOK	In	BOS	in\P
+3347	TOK	examining		examine\VMG----
+3348	TOK	the		the\AT---6
+3349	TOK	newly		newly\DGA7
+3350	TOK	determined		determine\VMC----
+3351	TOK	sequences		sequence\N5P
+---	DLD	,		=\DELIM
+3352	TOK	workers		worker\N5P
+3353	TOK	saw		see\VMF6A66
+3354	TOK	that		that\CS
+3355	TOK	every		every\AG---S
+3356	TOK	one		one\MCS
+3357	TOK	of		of\P
+3358	TOK	them		them\RPP3NA
+3359	TOK	bore		bear\VMF6A66
+3360	TOK	a		a\AI---S
+3361	TOK	conserved		conserve\VMF6A66
+---	DLD	,		=\DELIM
+3362	TOK	or		or\CC
+3363	TOK	highly		highly\DGA7
+3364	TOK	similar		similar\JA
+---	DLD	,		=\DELIM
+3365	TOK	domain		domain\N5S
+3366	TOK	of		of\P
+3367	TOK	about		about\DGA7
+##	TAG	<num>
+3368	TOK	80		80\X
+##	TAG	</num>
+3369	TOK	amino		amino\N5S
+3370	TOK	acids		acid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3371	TOK	This	BOS	this\AD---S
+3372	TOK	domain		domain\N5S
+3373	TOK	consistently		consistently\DGA7
+3374	TOK	included		include\VMF6A66
+##	TAG	<num>
+3375	TOK	two		two\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+3376	TOK	and		and\CC
+3377	TOK	always		always\DGA7
+##	TAG	<num>
+3378	TOK	two		two\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+3379	TOK	units		unit\N5P
+3380	TOK	whose		whose\AW---6
+3381	TOK	amino		amino\N5S
+3382	TOK	acid		acid\N5S
+3383	TOK	sequence		sequence\N5S
+3384	TOK	was		be\V6F-A66
+3385	TOK	reminiscent		reminiscent\JA
+3386	TOK	of		of\P
+3387	TOK	the		the\AT---6
+3388	TOK	zinc		zinc\N5S
+3389	TOK	finger		finger\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3390	TOK	As	BOS	as\CS
+3391	TOK	was		be\V6F-A66
+3392	TOK	true		true\JA
+3393	TOK	of		of\P
+3394	TOK	zinc		zinc\N5S
+3395	TOK	fingers		finger\N5P
+---	DLD	,		=\DELIM
+3396	TOK	each		each\AG---S
+3397	TOK	unit		unit\N5S
+---	DLD	,		=\DELIM
+3398	TOK	or		or\CC
+3399	TOK	motif		motif\N5S
+---	DLD	,		=\DELIM
+3400	TOK	contained		contain\VMF6A66
+##	TAG	<num>
+3401	TOK	two		two\X
+##	TAG	</num>
+3402	TOK	pairs		pair\N5P
+3403	TOK	of		of\P
+3404	TOK	potential		potential\JA
+3405	TOK	zinc		zinc\N5S
+---	DLD	-		=\DELIM
+3406	TOK	binding		binding\N5S
+3407	TOK	amino		amino\N5S
+3408	TOK	acids		acid\N5P
+---	DLD	;		=\DELIM
+3409	TOK	here		here\DGA7
+---	DLD	,		=\DELIM
+3410	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+3411	TOK	the		the\AT---6
+3412	TOK	zinc		zinc\N5S
+3413	TOK	binders		binder\N5P
+3414	TOK	were		be\V6F-A66
+3415	TOK	exclusively		exclusively\DGA7
+3416	TOK	cysteines		cysteine\N5P
+##	TAG	<loc pos="CS">
+3417	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+3418	TOK	cysteines		cysteine\N5P
+3419	TOK	and		and\CC
+3420	TOK	histidines		histidine\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3421	TOK	These	BOS	this\AD---P
+3422	TOK	resemblances		resemblance\N5P
+3423	TOK	of		of\P
+3424	TOK	the		the\AT---6
+3425	TOK	sequences		sequence\N5P
+3426	TOK	to		to\P
+##	TAG	<name>
+3427	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+3428	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+3429	TOK	finger		finger\N5S
+3430	TOK	motifs		motif\N5P
+3431	TOK	implied		imply\VMF6A66
+3432	TOK	that		that\CS
+3433	TOK	the		the\AT---6
+3434	TOK	cysteine		cysteine\N5S
+---	DLI	-		=\DELIM
+3435	TOK	rich		rich\JA
+---	DLD	,		=\DELIM
+##	TAG	<num>
+3436	TOK	80		80\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+3437	TOK	amino		amino\N5S
+---	DLI	-		=\DELIM
+3438	TOK	acid		acid\N5S
+3439	TOK	segment		segment\N5S
+3440	TOK	of		of\P
+3441	TOK	the		the\AT---6
+3442	TOK	factors		factor\N5P
+3443	TOK	was		be\V6F-A66
+3444	TOK	the		the\AT---6
+##	TAG	<name>
+3445	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3446	TOK	binding		binding\N5S
+3447	TOK	domain		domain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3448	TOK	Pierre Chambon	BOS	Pierre_Chambon\N46
+##	TAG	</name>
+3449	TOK	and		and\CC
+##	TAG	<name>
+3450	TOK	Stephen Green of INSERM		Stephen_Green_of_INSERM\N46
+##	TAG	</name>
+3451	TOK	in		in\P
+##	TAG	<name>
+3452	TOK	Strasbourg		Strasbourg\N46
+##	TAG	</name>
+3453	TOK	confirmed		confirm\VMF6A66
+3454	TOK	that		that\CS
+3455	TOK	assumption		assumption\N5S
+3456	TOK	in		in\P
+3457	TOK	the		the\AT---6
+3458	TOK	late		late\JA
+##	TAG	<na type="code">
+3459	TOK	1980s		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3460	TOK	Soon	BOS	soon\DGA7
+3461	TOK	after		after\P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3462	TOK	Paul B. Sigler		Paul_B._Sigler\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3463	TOK	then		then\DGA7
+3464	TOK	at		at\P
+3465	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+3466	TOK	University of Chicago		University_of_Chicago\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3467	TOK	and		and\CC
+##	TAG	<name>
+3468	TOK	Keith R. Yamamoto		Keith_R._Yamamoto\N46
+##	TAG	</name>
+3469	TOK	of		of\P
+3470	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+3471	TOK	University of California		University_of_California\N46
+##	TAG	</name>
+3472	TOK	at		at\P
+##	TAG	<name pos="N46" type="place">
+3473	TOK	San Francisco		San_Francisco\N46
+##	TAG	</name>
+3474	TOK	and		and\CC
+3475	TOK	their		their\APP3N6
+3476	TOK	associates		associate\N5P
+3477	TOK	established		establish\VMC----
+3478	TOK	that		that\CS
+3479	TOK	each		each\RIS3N-
+3480	TOK	of		of\P
+3481	TOK	the		the\AT---6
+##	TAG	<num>
+3482	TOK	two		two\X
+##	TAG	</num>
+3483	TOK	segments		segment\N5P
+3484	TOK	of		of\P
+3485	TOK	the		the\AT---6
+##	TAG	<name>
+3486	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3487	TOK	binding		binding\N5S
+3488	TOK	domain		domain\N5S
+3489	TOK	incorporates		incorporate\VMFDRS3
+3490	TOK	a		a\AI---S
+3491	TOK	zinc		zinc\N5S
+3492	TOK	atom		atom\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3493	TOK	Naturally	BOS	naturally\DGA7
+---	DLD	,		=\DELIM
+3494	TOK	we		we\RPP1NN
+3495	TOK	and		and\CC
+3496	TOK	others		other\RIP3N-
+3497	TOK	expected		expect\VMC----
+3498	TOK	that		that\AD---S
+---	DLD	,		=\DELIM
+3499	TOK	as		as\DGA7
+3500	TOK	is		be\V6FDRS3
+3501	TOK	true		true\JA
+3502	TOK	of		of\P
+##	TAG	<name>
+3503	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3504	TOK	type		type\N5S
+3505	TOK	zinc		zinc\N5S
+3506	TOK	fingers		finger\N5P
+---	DLD	,		=\DELIM
+3507	TOK	the		the\AT---6
+3508	TOK	configurations		configuration\N5P
+3509	TOK	of		of\P
+3510	TOK	the		the\AT---6
+##	TAG	<num>
+3511	TOK	two		two\X
+##	TAG	</num>
+3512	TOK	motifs		motif\N5P
+3513	TOK	would		will\VOFDA66
+3514	TOK	resemble		resemble\VMI----
+##	TAG	<loc pos="RPP3N-">
+3515	TOK	each other		each_other\RPP3N-
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+3516	TOK	and		and\CC
+3517	TOK	the		the\AT---6
+3518	TOK	motifs		motif\N5P
+3519	TOK	would		will\VOFDA66
+3520	TOK	form		form\VMI----
+3521	TOK	independent		independent\JA
+##	TAG	<name>
+3522	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3523	TOK	binding		binding\N5S
+3524	TOK	modules		module\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3525	TOK	The	BOS	the\AT---6
+3526	TOK	assumption		assumption\N5S
+3527	TOK	turned		turn\VMC----
+3528	TOK	out		out\DGA7
+3529	TOK	to		to\P
+3530	TOK	be		be\VMI----
+3531	TOK	partly		partly\DGA7
+3532	TOK	wrong		wrong\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3533	TOK	Structural	BOS	structural\JA
+3534	TOK	analyses		analysis\N5P
+3535	TOK	would		will\VOFDA66
+3536	TOK	eventually		eventually\DGA7
+3537	TOK	show		show\VMI----
+3538	TOK	that		that\CS
+3539	TOK	the		the\AT---6
+##	TAG	<num>
+3540	TOK	two		two\X
+##	TAG	</num>
+3541	TOK	units		unit\N5P
+3542	TOK	do		do\V6FDR66
+3543	TOK	fold		fold\VMI----
+3544	TOK	similarly		similarly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3545	TOK	But	BOS	but\CC
+---	DLD	,		=\DELIM
+3546	TOK	before		before\P
+3547	TOK	that		that\AD---S
+---	DLD	,		=\DELIM
+3548	TOK	some		some\AG---6
+3549	TOK	striking		striking\JA
+3550	TOK	biochemical		biochemical\JA
+3551	TOK	work		work\N5S
+3552	TOK	would		will\VOFDA66
+3553	TOK	demonstrate		demonstrate\VMI----
+3554	TOK	that		that\CS
+3555	TOK	the		the\AT---6
+3556	TOK	units		unit\N5P
+3557	TOK	do		do\V6FDR66
+3558	TOK	not		not\DGA7
+3559	TOK	function		function\VMI----
+3560	TOK	as		as\P
+3561	TOK	independent		independent\JA
+##	TAG	<name>
+3562	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3563	TOK	reading		reading\N5S
+3564	TOK	heads		head\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3565	TOK	By	BOS	by\P
+3566	TOK	substituting		substitute\VMG----
+3567	TOK	one		one\MCS
+3568	TOK	amino		amino\N5S
+3569	TOK	acid		acid\N5S
+3570	TOK	for		for\P
+3571	TOK	another		another\JA
+3572	TOK	and		and\CC
+3573	TOK	examining		examine\VMG----
+3574	TOK	the		the\AT---6
+3575	TOK	effect		effect\N5S
+3576	TOK	on		on\P
+##	TAG	<name>
+3577	TOK	DNA		DNA\N46
+##	TAG	</name>
+3578	TOK	binding		bind\VMG----
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3579	TOK	Chambon		Chambon\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3580	TOK	Ronald M. Evans		Ronald_M._Evans\N46
+##	TAG	</name>
+3581	TOK	of		of\P
+3582	TOK	the		the\AT---6
+##	TAG	<name>
+3583	TOK	Salk Institute for Biological Studies		Salk_Institute_for_Biological_Studies\N46
+##	TAG	</name>
+3584	TOK	in		in\P
+##	TAG	<name pos="N46" type="place">
+3585	TOK	San Diego		San_Diego\N46
+##	TAG	</name>
+3586	TOK	and		and\CC
+##	TAG	<name>
+3587	TOK	Gordon M. Ringold		Gordon_M._Ringold\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3588	TOK	formerly		formerly\DGA7
+3589	TOK	of		of\P
+##	TAG	<name pos="N46" type="organization">
+3590	TOK	Stanford University		Stanford_University\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3591	TOK	and		and\CC
+3592	TOK	their		their\APP3N6
+3593	TOK	associates		associate\N5P
+3594	TOK	found		find\VMF6A66
+3595	TOK	that		that\CS
+3596	TOK	the		the\AT---6
+3597	TOK	first		first\MOS
+3598	TOK	motif		motif\N5S
+3599	TOK	serves		serve\VMFDRS3
+3600	TOK	as		as\CS
+3601	TOK	the		the\AT---6
+3602	TOK	primary		primary\JA
+##	TAG	<name>
+3603	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3604	TOK	recognition		recognition\N5S
+3605	TOK	unit		unit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3606	TOK	At	BOS	at\P
+3607	TOK	about		about\P
+3608	TOK	the		the\AT---6
+3609	TOK	same		same\JA
+3610	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3611	TOK	Evans		Evans\N46
+##	TAG	</name>
+3612	TOK	and		and\CC
+3613	TOK	his		his\APS3M6
+3614	TOK	co		co\N5P
+---	DLD	-		=\DELIM
+3615	TOK	worker		worker\N5S
+##	TAG	<name>
+3616	TOK	Kazuhiko Umesono		Kazuhiko_Umesono\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3617	TOK	again		again\DGA7
+3618	TOK	applying		apply\VMG----
+3619	TOK	the		the\AT---6
+3620	TOK	substitution		substitution\N5S
+3621	TOK	method		method\N5S
+---	DLD	,		=\DELIM
+3622	TOK	uncovered		uncover\VMF6A66
+##	TAG	<loc pos="DGA7">
+3623	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+3624	TOK	one		one\MCS
+3625	TOK	function		function\N5S
+3626	TOK	of		of\P
+3627	TOK	the		the\AT---6
+3628	TOK	second		second\MOS
+3629	TOK	motif		motif\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3630	TOK	To	BOS	to\P
+3631	TOK	understand		understand\VMI----
+3632	TOK	that		that\RDS3N-
+3633	TOK	function		function\VMF6R66
+---	DLD	,		=\DELIM
+3634	TOK	one		one\RIS3N-
+3635	TOK	must		must\VOFDR66
+3636	TOK	first		first\DGA7
+3637	TOK	know		know\VMI----
+3638	TOK	something		something\RIS3N-
+3639	TOK	general		general\JA
+3640	TOK	about		about\P
+3641	TOK	how		how\DGAW
+3642	TOK	steroid		steroid\N5S
+3643	TOK	receptors		receptor\N5P
+3644	TOK	interact		interact\VMF6R66
+3645	TOK	with		with\P
+##	TAG	<name>
+3646	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3647	TOK	Such	BOS	such\JA
+3648	TOK	receptors		receptor\N5P
+3649	TOK	bind		bind\VMF6R66
+3650	TOK	to		to\P
+##	TAG	<name>
+3651	TOK	DNA		DNA\N46
+##	TAG	</name>
+3652	TOK	as		as\P
+3653	TOK	pairs		pair\N5P
+---	DLD	,		=\DELIM
+3654	TOK	or		or\CC
+3655	TOK	dimers		dimer\N5P
+---	DLD	,		=\DELIM
+3656	TOK	of		of\P
+3657	TOK	identical		identical\JA
+3658	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3659	TOK	Each	BOS	each\AG---S
+3660	TOK	protein		protein\N5S
+3661	TOK	in		in\P
+3662	TOK	a		a\AI---S
+3663	TOK	pair		pair\N56
+3664	TOK	recognizes		recognize\VMFDRS3
+3665	TOK	half		half\N5S
+3666	TOK	of		of\P
+3667	TOK	a		a\AI---S
+3668	TOK	two		two\MCP
+---	DLI	-		=\DELIM
+3669	TOK	part		part\N5S
+3670	TOK	binding		binding\N5S
+3671	TOK	site		site\N5S
+3672	TOK	that		that\RW63N6
+3673	TOK	is		be\V6FDRS3
+3674	TOK	known		know\VMC----
+3675	TOK	as		as\P
+3676	TOK	a		a\AI---S
+3677	TOK	palindrome		palindrome\N5S
+---	DLD	,		=\DELIM
+3678	TOK	because		because\CS
+3679	TOK	the		the\AT---6
+3680	TOK	halves		half\N5P
+3681	TOK	are		be\V6FDR66
+3682	TOK	identical		identical\JA
+3683	TOK	if		if\CS
+3684	TOK	read		read\VMC----
+3685	TOK	in		in\P
+3686	TOK	opposite		opposite\JA
+3687	TOK	directions		direction\N5P
+---	DLD	-		=\DELIM
+3688	TOK	that		that\CS
+3689	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+3690	TOK	along		along\P
+3691	TOK	opposite		opposite\JA
+3692	TOK	strands		strand\N5P
+3693	TOK	of		of\P
+3694	TOK	the		the\AT---6
+##	TAG	<name>
+3695	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3696	TOK	The	BOS	the\AT---6
+3697	TOK	base		base\N5S
+3698	TOK	sequence		sequence\N5S
+3699	TOK	of		of\P
+3700	TOK	the		the\AT---6
+3701	TOK	half		half\N5S
+3702	TOK	site		site\N5S
+3703	TOK	recognized		recognize\VMC----
+3704	TOK	by		by\P
+3705	TOK	one		one\MCS
+3706	TOK	type		type\N5S
+3707	TOK	of		of\P
+3708	TOK	transcription		transcription\N5S
+3709	TOK	factor		factor\N5S
+---	DLE	(		=\DELIM
+3710	TOK	such		such\JA
+3711	TOK	as		as\P
+3712	TOK	the		the\AT---6
+3713	TOK	estrogen		estrogen\N5S
+3714	TOK	receptor		receptor\N5S
+---	DLD	)		=\DELIM
+3715	TOK	can		can\VOFDR66
+3716	TOK	exactly		exactly\DGA7
+3717	TOK	match		match\VMI----
+3718	TOK	that		that\CS
+3719	TOK	recognized		recognize\VMC----
+3720	TOK	by		by\P
+3721	TOK	another		another\JA
+3722	TOK	factor		factor\N5S
+---	DLE	(		=\DELIM
+3723	TOK	such		such\JA
+3724	TOK	as		as\P
+3725	TOK	the		the\AT---6
+3726	TOK	thyroid		thyroid\N5S
+3727	TOK	receptor		receptor\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3728	TOK	In	BOS	in\P
+3729	TOK	that		that\AD---S
+3730	TOK	case		case\N5S
+---	DLD	,		=\DELIM
+3731	TOK	the		the\AT---6
+3732	TOK	only		only\JA
+3733	TOK	difference		difference\N5S
+3734	TOK	between		between\P
+3735	TOK	the		the\AT---6
+##	TAG	<num>
+3736	TOK	two		two\X
+##	TAG	</num>
+3737	TOK	binding		binding\N5S
+3738	TOK	sites		site\N5P
+3739	TOK	is		be\V6FDRS3
+3740	TOK	the		the\AT---6
+3741	TOK	number		number\N5S
+3742	TOK	of		of\P
+3743	TOK	base		base\N5S
+3744	TOK	pairs		pair\N5P
+3745	TOK	separating		separate\VMG----
+3746	TOK	the		the\AT---6
+3747	TOK	half		half\N5S
+3748	TOK	sites		site\N5P
+3749	TOK	in		in\P
+3750	TOK	each		each\AG---S
+3751	TOK	palindrome		palindrome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3752	TOK	Consequently	BOS	consequently\DGA7
+---	DLD	,		=\DELIM
+3753	TOK	for		for\P
+3754	TOK	a		a\AI---S
+3755	TOK	transcription		transcription\N5S
+3756	TOK	factor		factor\N5S
+3757	TOK	to		to\P
+3758	TOK	find		find\VMI----
+3759	TOK	its		its\APS3N6
+3760	TOK	corresponding		corresponding\JA
+3761	TOK	docking		dock\VMG----
+3762	TOK	site		site\N5S
+3763	TOK	on		on\P
+##	TAG	<name>
+3764	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+3765	TOK	the		the\AT---6
+3766	TOK	protein		protein\N5S
+3767	TOK	must		must\VOFDR66
+3768	TOK	contain		contain\VMI----
+3769	TOK	regions		region\N5P
+3770	TOK	dedicated		dedicate\VMC----
+3771	TOK	to		to\P
+3772	TOK	picking		pick\VMG----
+3773	TOK	out		out\DGA7
+3774	TOK	a		a\AI---S
+3775	TOK	specific		specific\JA
+3776	TOK	half		half\N5S
+---	DLI	-		=\DELIM
+3777	TOK	site		site\N5S
+3778	TOK	base		base\N5S
+3779	TOK	sequence		sequence\N5S
+3780	TOK	and		and\CC
+3781	TOK	also		also\DGA7
+3782	TOK	to		to\P
+3783	TOK	measuring		measure\VMG----
+3784	TOK	the		the\AT---6
+3785	TOK	distance		distance\N5S
+3786	TOK	between		between\P
+3787	TOK	half		half\N5S
+3788	TOK	sites		site\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+3789	TOK	Evans	BOS	Evans\N46
+##	TAG	</name>
+3790	TOK	and		and\CC
+##	TAG	<name>
+3791	TOK	Umesono		Umesono\N46
+##	TAG	</name>
+3792	TOK	found		find\VMF6A66
+3793	TOK	that		that\CS
+3794	TOK	a		a\AI---S
+3795	TOK	part		part\N5S
+3796	TOK	of		of\P
+3797	TOK	the		the\AT---6
+3798	TOK	second		second\MOS
+3799	TOK	motif		motif\N5S
+3800	TOK	is		be\V6FDRS3
+3801	TOK	responsible		responsible\JA
+3802	TOK	for		for\P
+3803	TOK	measuring		measure\VMG----
+3804	TOK	such		such\RIS3N-
+3805	TOK	spacing		space\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3806	TOK	Despite	BOS	despite\P
+3807	TOK	this		this\AD---S
+3808	TOK	progress		progress\VMF6R66
+---	DLD	,		=\DELIM
+3809	TOK	one		one\RIS3N-
+3810	TOK	could		can\VOFDA66
+3811	TOK	not		not\DGA7
+3812	TOK	fit		fit\VMI----
+3813	TOK	these		this\AD---P
+3814	TOK	pieces		piece\N5P
+3815	TOK	of		of\P
+3816	TOK	information		information\N5S
+3817	TOK	together		together\DGA7
+3818	TOK	to		to\P
+3819	TOK	explain		explain\VMI----
+3820	TOK	how		how\DGAW
+3821	TOK	sequence		sequence\N5S
+---	DLI	-		=\DELIM
+3822	TOK	specific		specific\JA
+3823	TOK	recognition		recognition\N5S
+3824	TOK	took		take\VMF6A66
+3825	TOK	place		place\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3826	TOK	That	BOS	that\CS
+3827	TOK	explanation		explanation\N5S
+3828	TOK	could		can\VOFDA66
+3829	TOK	come		come\VMI----
+3830	TOK	only		only\DGA7
+3831	TOK	from		from\P
+3832	TOK	knowing		know\VMG----
+3833	TOK	the		the\AT---6
+3834	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+3835	TOK	dimensional		dimensional\JA
+3836	TOK	configuration		configuration\N5S
+3837	TOK	of		of\P
+3838	TOK	the		the\AT---6
+##	TAG	<name>
+3839	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3840	TOK	binding		binding\N5S
+3841	TOK	domains		domain\N5P
+3842	TOK	of		of\P
+3843	TOK	receptor		receptor\N5S
+3844	TOK	proteins		protein\N5P
+3845	TOK	and		and\CC
+3846	TOK	thus		thus\DGA7
+3847	TOK	seeing		see\VMG----
+3848	TOK	where		where\CS
+3849	TOK	on		on\P
+3850	TOK	the		the\AT---6
+3851	TOK	structure		structure\N5S
+3852	TOK	the		the\AT---6
+3853	TOK	functionally		functionally\DGA7
+3854	TOK	important		important\JA
+3855	TOK	amino		amino\N5S
+3856	TOK	acids		acid\N5P
+3857	TOK	would		will\VOFDA66
+3858	TOK	lie		lie\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3859	TOK	In	BOS	in\P
+##	TAG	<num>
+3860	TOK	1990		1990\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+3861	TOK	by		by\P
+3862	TOK	applying		apply\VMG----
+##	TAG	<name pos="N46" expansion="nuclear magnetic resonance">
+3863	TOK	NMR		NMR\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+3864	TOK	Robert Kaptein		Robert_Kaptein\N46
+##	TAG	</name>
+3865	TOK	and		and\CC
+3866	TOK	his		his\APS3M6
+3867	TOK	colleagues		colleague\N5P
+3868	TOK	at		at\P
+3869	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+3870	TOK	University of Utrecht		University_of_Utrecht\N46
+##	TAG	</name>
+3871	TOK	solved		solve\VMF6A66
+3872	TOK	the		the\AT---6
+3873	TOK	structure		structure\N5S
+3874	TOK	of		of\P
+3875	TOK	the		the\AT---6
+##	TAG	<name>
+3876	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3877	TOK	binding		binding\N5S
+3878	TOK	domain		domain\N5S
+3879	TOK	of		of\P
+3880	TOK	the		the\AT---6
+3881	TOK	rat		rat\N5S
+3882	TOK	glucocorticoid		glucocorticoid\N5S
+---	DLE	(		=\DELIM
+3883	TOK	cortisone		cortisone\N5S
+---	DLD	)		=\DELIM
+3884	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3885	TOK	Shortly	BOS	shortly\DGA7
+3886	TOK	thereafter		thereafter\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+3887	TOK	John W. R. Schwabe		John_W._R._Schwabe\N46
+##	TAG	</name>
+3888	TOK	and		and\CC
+##	TAG	<name>
+3889	TOK	Neuhaus		Neuhaus\N46
+##	TAG	</name>
+3890	TOK	in		in\P
+3891	TOK	our		our\APP1N6
+3892	TOK	laboratory		laboratory\N5S
+3893	TOK	and		and\CC
+3894	TOK	one		one\MCS
+3895	TOK	of		of\P
+3896	TOK	us		us\RPP1NA
+---	DLE	(		=\DELIM
+##	TAG	<name>
+3897	TOK	Rhodes		Rhodes\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+3898	TOK	solved		solve\VMC----
+3899	TOK	that		that\CS
+3900	TOK	of		of\P
+3901	TOK	the		the\AT---6
+3902	TOK	human		human\JA
+3903	TOK	estrogen		estrogen\N5S
+3904	TOK	receptor		receptor\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3905	TOK	As	BOS	as\CS
+3906	TOK	could		can\VOFDA66
+3907	TOK	be		be\VMI----
+3908	TOK	deduced		deduce\VMC----
+3909	TOK	from		from\P
+3910	TOK	their		their\APP3N6
+3911	TOK	similar		similar\JA
+3912	TOK	amino		amino\N5S
+3913	TOK	acid		acid\N5S
+3914	TOK	compositions		composition\N5P
+---	DLD	,		=\DELIM
+3915	TOK	the		the\AT---6
+##	TAG	<name>
+3916	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+3917	TOK	binding		binding\N5S
+3918	TOK	domains		domain\N5P
+3919	TOK	of		of\P
+3920	TOK	the		the\AT---6
+3921	TOK	glucocorticoid		glucocorticoid\N5S
+3922	TOK	and		and\CC
+3923	TOK	estrogen		estrogen\N5S
+3924	TOK	receptors		receptor\N5P
+3925	TOK	were		be\V6F-A66
+3926	TOK	found		find\VMC----
+3927	TOK	to		to\P
+3928	TOK	adopt		adopt\VMI----
+##	TAG	<loc pos="JA">
+3929	TOK	much the same		much_the_same\JA
+##	TAG	</loc>
+3930	TOK	structure		structure\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3931	TOK	Each	BOS	each\RIS3N-
+3932	TOK	of		of\P
+3933	TOK	the		the\AT---6
+##	TAG	<num>
+3934	TOK	two		two\X
+##	TAG	</num>
+3935	TOK	zinc		zinc\N5S
+3936	TOK	finger		finger\N5S
+---	DLI	-		=\DELIM
+3937	TOK	containing		contain\VMG----
+3938	TOK	motifs		motif\N5P
+3939	TOK	within		within\P
+3940	TOK	the		the\AT---6
+3941	TOK	domain		domain\N5S
+3942	TOK	consists		consist\VMFDRS3
+3943	TOK	of		of\P
+##	TAG	<num>
+3944	TOK	two		two\X
+##	TAG	</num>
+3945	TOK	parts		part\N5P
+---	DLD	:		=\DELIM
+3946	TOK	an		an\AI---S
+3947	TOK	irregularly		irregularly\DGA7
+3948	TOK	looped		loop\VMC----
+3949	TOK	string		string\N5S
+3950	TOK	of		of\P
+3951	TOK	amino		amino\N5S
+3952	TOK	acids		acid\N5P
+---	DLE	(		=\DELIM
+##	TAG	<loc pos="CS">
+3953	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+3954	TOK	the		the\AT---6
+3955	TOK	beta		beta\N5S
+3956	TOK	sheet		sheet\N5S
+3957	TOK	in		in\P
+3958	TOK	classic		classic\JA
+3959	TOK	zinc		zinc\N5S
+3960	TOK	fingers		finger\N5P
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3961	TOK	followed		follow\VMC----
+3962	TOK	by		by\P
+3963	TOK	an		an\AI---S
+3964	TOK	alpha		alpha\N5S
+3965	TOK	helix		helix\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3966	TOK	The	BOS	the\AT---6
+3967	TOK	loop		loop\N5S
+3968	TOK	carries		carry\VMFDRS3
+##	TAG	<num>
+3969	TOK	two		two\X
+##	TAG	</num>
+3970	TOK	of		of\P
+3971	TOK	the		the\AT---6
+3972	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+3973	TOK	binding		binding\N5S
+3974	TOK	sites		site\N5P
+---	DLD	,		=\DELIM
+3975	TOK	and		and\CC
+3976	TOK	the		the\AT---6
+3977	TOK	other		other\RIS3N-
+##	TAG	<num>
+3978	TOK	two		two\X
+##	TAG	</num>
+3979	TOK	reside		reside\VMF6R66
+3980	TOK	at		at\P
+3981	TOK	the		the\AT---6
+3982	TOK	beginning		beginning\N5S
+3983	TOK	of		of\P
+3984	TOK	the		the\AT---6
+3985	TOK	helix		helix\N5S
+3986	TOK	that		that\RW63N6
+3987	TOK	follows		follow\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+3988	TOK	Yet	BOS	yet\DGA7
+##	TAG	<loc pos="CS">
+3989	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+3990	TOK	remaining		remain\VMG----
+3991	TOK	separate		separate\JA
+---	DLD	,		=\DELIM
+3992	TOK	as		as\P
+3993	TOK	standard		standard\JA
+3994	TOK	zinc		zinc\N5S
+3995	TOK	fingers		finger\N5P
+3996	TOK	would		will\VOFDA66
+---	DLD	,		=\DELIM
+3997	TOK	the		the\AT---6
+##	TAG	<num>
+3998	TOK	two		two\X
+##	TAG	</num>
+3999	TOK	motifs		motif\N5P
+4000	TOK	merge		merge\VMF6R66
+4001	TOK	into		into\P
+4002	TOK	a		a\AI---S
+4003	TOK	single		single\JA
+4004	TOK	structural		structural\JA
+4005	TOK	unit		unit\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4006	TOK	In	BOS	in\P
+4007	TOK	this		this\AD---S
+4008	TOK	arrangement		arrangement\N5S
+---	DLD	,		=\DELIM
+4009	TOK	the		the\AT---6
+4010	TOK	helices		helix\N5P
+4011	TOK	cross		cross\VMF6R66
+4012	TOK	perpendicularly		perpendicularly\DGA7
+4013	TOK	at		at\P
+4014	TOK	their		their\APP3N6
+4015	TOK	midpoints		midpoint\N5P
+---	DLD	,		=\DELIM
+4016	TOK	a		a\AI---S
+4017	TOK	configuration		configuration\N5S
+4018	TOK	that		that\RW63N6
+4019	TOK	is		be\V6FDRS3
+4020	TOK	created		create\VMC----
+4021	TOK	by		by\P
+4022	TOK	the		the\AT---6
+4023	TOK	mutual		mutual\JA
+4024	TOK	attraction		attraction\N5S
+4025	TOK	of		of\P
+4026	TOK	invariant		invariant\JA
+4027	TOK	and		and\CC
+4028	TOK	relatively		relatively\DGA7
+4029	TOK	invariant		invariant\JA
+4030	TOK	hydrophobic		hydrophobic\JA
+4031	TOK	amino		amino\N5S
+4032	TOK	acids		acid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4033	TOK	With	BOS	with\P
+4034	TOK	the		the\AT---6
+4035	TOK	three		three\MCP
+---	DLI	-		=\DELIM
+4036	TOK	dimensional		dimensional\JA
+4037	TOK	structure		structure\N5S
+4038	TOK	of		of\P
+4039	TOK	the		the\AT---6
+##	TAG	<name>
+4040	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+4041	TOK	binding		binding\N5S
+4042	TOK	domain		domain\N5S
+4043	TOK	known		know\VMC----
+---	DLD	,		=\DELIM
+4044	TOK	we		we\RPP1NN
+4045	TOK	proceeded		proceed\VMF6A66
+4046	TOK	to		to\P
+4047	TOK	map		map\N5S
+4048	TOK	onto		onto\P
+4049	TOK	it		it\RPS3N6
+4050	TOK	the		the\AT---6
+4051	TOK	locations		location\N5P
+4052	TOK	of		of\P
+4053	TOK	amino		amino\N5S
+4054	TOK	acids		acid\N5P
+4055	TOK	that		that\RW63N6
+4056	TOK	had		have\V6F6A66
+4057	TOK	earlier		early\JC
+4058	TOK	been		be\VMC----
+4059	TOK	shown		show\VMC----
+4060	TOK	to		to\P
+4061	TOK	be		be\VMI----
+4062	TOK	critical		critical\JA
+4063	TOK	for		for\P
+##	TAG	<name>
+4064	TOK	DNA		DNA\N46
+##	TAG	</name>
+4065	TOK	recognition		recognition\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4066	TOK	Groups	BOS	group\N5P
+4067	TOK	led		lead\VMC----
+4068	TOK	by		by\P
+##	TAG	<name>
+4069	TOK	Chambon		Chambon\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+4070	TOK	Evans		Evans\N46
+##	TAG	</name>
+4071	TOK	and		and\CC
+##	TAG	<name>
+4072	TOK	Ringold		Ringold\N46
+##	TAG	</name>
+4073	TOK	had		have\V6F6A66
+4074	TOK	identified		identify\VMC----
+##	TAG	<num>
+4075	TOK	three		three\X
+##	TAG	</num>
+4076	TOK	amino		amino\N5S
+4077	TOK	acids		acid\N5P
+4078	TOK	in		in\P
+4079	TOK	the		the\AT---6
+4080	TOK	first		first\MOS
+4081	TOK	fingerlike		fingerlike\JA
+4082	TOK	motif		motif\N5S
+4083	TOK	that		that\RW63N6
+4084	TOK	were		be\V6F-A66
+4085	TOK	responsible		responsible\JA
+4086	TOK	for		for\P
+4087	TOK	recognizing		recognize\VMG----
+4088	TOK	the		the\AT---6
+4089	TOK	base		base\N5S
+4090	TOK	sequence		sequence\N5S
+4091	TOK	of		of\P
+4092	TOK	a		a\AI---S
+4093	TOK	half		half\N5S
+4094	TOK	site		site\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4095	TOK	Those	BOS	that\AD---P
+4096	TOK	amino		amino\N5S
+4097	TOK	acids		acid\N5P
+4098	TOK	turn		turn\VMF6R66
+4099	TOK	out		out\DGA7
+4100	TOK	to		to\P
+4101	TOK	reside		reside\VMI----
+4102	TOK	on		on\P
+4103	TOK	one		one\MCS
+4104	TOK	face		face\N5S
+4105	TOK	of		of\P
+4106	TOK	the		the\AT---6
+4107	TOK	helix		helix\N5S
+4108	TOK	in		in\P
+4109	TOK	the		the\AT---6
+4110	TOK	motif		motif\N5S
+---	DLD	,		=\DELIM
+4111	TOK	leading		lead\VMG----
+4112	TOK	us		us\RPP1NA
+4113	TOK	to		to\P
+4114	TOK	call		call\N5S
+4115	TOK	that		that\RW63N6
+4116	TOK	substructure		substructure\VMF6R66
+4117	TOK	the		the\AT---6
+##	TAG	<name>
+4118	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+4119	TOK	recognition		recognition\N5S
+4120	TOK	helix		helix\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4121	TOK	This	BOS	this\AD---S
+4122	TOK	information		information\N5S
+4123	TOK	also		also\DGA7
+4124	TOK	told		tell\VMF6A66
+4125	TOK	us		us\RPP1NA
+4126	TOK	something		something\RIS3N-
+4127	TOK	more		more\DDC7
+4128	TOK	about		about\DGA7
+4129	TOK	the		the\AT---6
+4130	TOK	function		function\N5S
+4131	TOK	of		of\P
+4132	TOK	the		the\AT---6
+4133	TOK	second		second\MOS
+4134	TOK	motif		motif\N5S
+---	DLD	:		=\DELIM
+4135	TOK	by		by\P
+4136	TOK	crossing		cross\VMG----
+4137	TOK	the		the\AT---6
+##	TAG	<name>
+4138	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+4139	TOK	recognition		recognition\N5S
+4140	TOK	helix		helix\N5S
+4141	TOK	of		of\P
+4142	TOK	the		the\AT---6
+4143	TOK	first		first\MOS
+4144	TOK	motif		motif\N5S
+---	DLD	,		=\DELIM
+4145	TOK	the		the\AT---6
+4146	TOK	helix		helix\N5S
+4147	TOK	of		of\P
+4148	TOK	the		the\AT---6
+4149	TOK	second		second\MOS
+4150	TOK	motif		motif\N5S
+4151	TOK	serves		serve\VMFDRS3
+4152	TOK	as		as\CS
+4153	TOK	a		a\AI---S
+4154	TOK	backing		backing\N5S
+4155	TOK	strut		strut\N5S
+4156	TOK	to		to\P
+4157	TOK	hold		hold\VMI----
+4158	TOK	the		the\AT---6
+4159	TOK	recognition		recognition\N5S
+4160	TOK	helix		helix\N5S
+4161	TOK	in		in\P
+4162	TOK	place		place\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4163	TOK	The	BOS	the\AT---6
+4164	TOK	separation		separation\N5S
+4165	TOK	of		of\P
+4166	TOK	function		function\N5S
+4167	TOK	between		between\P
+4168	TOK	the		the\AT---6
+##	TAG	<num>
+4169	TOK	two		two\X
+##	TAG	</num>
+4170	TOK	motifs		motif\N5P
+4171	TOK	suggests		suggest\VMFDRS3
+4172	TOK	that		that\CS
+4173	TOK	the		the\AT---6
+4174	TOK	second		second\MOS
+4175	TOK	finger		finger\N5S
+4176	TOK	arose		arise\VMF6A66
+4177	TOK	from		from\P
+4178	TOK	duplication		duplication\N5S
+4179	TOK	of		of\P
+4180	TOK	the		the\AT---6
+4181	TOK	first		first\MOS
+4182	TOK	but		but\CC
+4183	TOK	that		that\CS
+4184	TOK	once		once\DGA7
+4185	TOK	the		the\AT---6
+4186	TOK	second		second\MOS
+4187	TOK	unit		unit\N5S
+4188	TOK	appeared		appear\VMF6A66
+---	DLD	,		=\DELIM
+4189	TOK	it		it\RPS3N6
+4190	TOK	was		be\V6F-A66
+4191	TOK	pressed		press\VMC----
+4192	TOK	into		into\P
+4193	TOK	service		service\N5S
+4194	TOK	for		for\P
+4195	TOK	new		new\JA
+4196	TOK	tasks		task\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4197	TOK	Mapping	BOS	mapping\N5S
+4198	TOK	in		in\P
+##	TAG	<num>
+4199	TOK	three		three\X
+##	TAG	</num>
+4200	TOK	dimensions		dimension\N5P
+4201	TOK	told		tell\VMF6A66
+4202	TOK	us		us\RPP1NA
+4203	TOK	as		as\DGA7
+4204	TOK	well		well\DGA7
+4205	TOK	how		how\DGAW
+4206	TOK	the		the\AT---6
+4207	TOK	second		second\MOS
+4208	TOK	motif		motif\N5S
+4209	TOK	performs		perform\VMFDRS3
+4210	TOK	the		the\AT---6
+4211	TOK	vital		vital\JA
+4212	TOK	role		role\N5S
+4213	TOK	of		of\P
+4214	TOK	discriminating		discriminate\VMG----
+4215	TOK	the		the\AT---6
+4216	TOK	spacing		spacing\N5S
+4217	TOK	between		between\P
+4218	TOK	half		half\N5S
+4219	TOK	sites		site\N5P
+4220	TOK	on		on\P
+##	TAG	<name>
+4221	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+4222	TOK	Evans	BOS	Evans\N46
+##	TAG	</name>
+4223	TOK	and		and\CC
+##	TAG	<name>
+4224	TOK	Umesono		Umesono\N46
+##	TAG	</name>
+4225	TOK	had		have\V6F6A66
+4226	TOK	established		establish\VMC----
+4227	TOK	that		that\CS
+4228	TOK	the		the\AT---6
+4229	TOK	amino		amino\N5S
+4230	TOK	acids		acid\N5P
+4231	TOK	responsible		responsible\JA
+4232	TOK	for		for\P
+4233	TOK	such		such\JA
+4234	TOK	discrimination		discrimination\N5S
+4235	TOK	lie		lie\VMF6R66
+4236	TOK	between		between\P
+4237	TOK	the		the\AT---6
+4238	TOK	first		first\MOS
+##	TAG	<num>
+4239	TOK	two		two\X
+##	TAG	</num>
+4240	TOK	cysteines		cysteine\N5P
+4241	TOK	of		of\P
+4242	TOK	the		the\AT---6
+4243	TOK	second		second\MOS
+4244	TOK	motif		motif\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4245	TOK	In	BOS	in\P
+4246	TOK	the		the\AT---6
+4247	TOK	three		three\MCP
+---	DLD	-		=\DELIM
+4248	TOK	dimensional		dimensional\JA
+4249	TOK	configuration		configuration\N5S
+---	DLD	,		=\DELIM
+4250	TOK	these		this\AD---P
+4251	TOK	amino		amino\N5S
+4252	TOK	acids		acid\N5P
+4253	TOK	map		map\VMF6R66
+4254	TOK	to		to\P
+4255	TOK	the		the\AT---6
+4256	TOK	loop		loop\N5S
+4257	TOK	preceding		precede\VMG----
+4258	TOK	the		the\AT---6
+4259	TOK	helix		helix\N5S
+---	DLD	,		=\DELIM
+4260	TOK	where		where\CS
+4261	TOK	they		they\RPP3NN
+4262	TOK	would		will\VOFDA66
+4263	TOK	be		be\VMI----
+4264	TOK	available		available\JA
+4265	TOK	to		to\P
+4266	TOK	link		link\VMI----
+4267	TOK	one		one\MCS
+4268	TOK	molecule		molecule\N5S
+4269	TOK	to		to\P
+4270	TOK	its		its\APS3N6
+4271	TOK	partner		partner\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4272	TOK	Computer	BOS	computer\N5S
+4273	TOK	modeling		modeling\N5S
+4274	TOK	of		of\P
+4275	TOK	the		the\AT---6
+4276	TOK	interaction		interaction\N5S
+4277	TOK	between		between\P
+##	TAG	<name>
+4278	TOK	DNA		DNA\N46
+##	TAG	</name>
+4279	TOK	and		and\CC
+4280	TOK	the		the\AT---6
+##	TAG	<name>
+4281	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+4282	TOK	binding		binding\N5S
+4283	TOK	regions		region\N5P
+4284	TOK	of		of\P
+4285	TOK	the		the\AT---6
+4286	TOK	glucocorticoid		glucocorticoid\N5S
+4287	TOK	and		and\CC
+4288	TOK	estrogen		estrogen\N5S
+4289	TOK	receptors		receptor\N5P
+4290	TOK	then		then\DGA7
+4291	TOK	enabled		enable\VMF6A66
+##	TAG	<name>
+4292	TOK	Kaptein		Kaptein\N46
+##	TAG	</name>
+4293	PGR	's		genmark\GENMARK
+4294	TOK	and		and\CC
+4295	TOK	our		our\APP1N6
+4296	TOK	group		group\N5S
+---	DLD	,		=\DELIM
+4297	TOK	respectively		respectively\DGA7
+---	DLD	,		=\DELIM
+4298	TOK	to		to\P
+4299	TOK	see		see\VMI----
+4300	TOK	that		that\CS
+4301	TOK	the		the\AT---6
+4302	TOK	pairing		pairing\N5S
+4303	TOK	of		of\P
+4304	TOK	proteins		protein\N5P
+4305	TOK	through		through\P
+4306	TOK	the		the\AT---6
+4307	TOK	predicted		predict\VMC----
+4308	TOK	connection		connection\N5S
+4309	TOK	would		will\VOFDA66
+4310	TOK	orient		orient\VMI----
+4311	TOK	the		the\AT---6
+4312	TOK	dimer		dimer\N5S
+4313	TOK	properly		properly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4314	TOK	The	BOS	the\AT---6
+##	TAG	<num>
+4315	TOK	two		two\X
+##	TAG	</num>
+4316	TOK	recognition		recognition\N5S
+4317	TOK	helices		helix\N5P
+4318	TOK	on		on\P
+4319	TOK	the		the\AT---6
+4320	TOK	dimer		dimer\N5S
+4321	TOK	would		will\VOFDA66
+4322	TOK	be		be\VMI----
+4323	TOK	arranged		arrange\VMC----
+4324	TOK	so		so\DGA7
+4325	TOK	that		that\CS
+4326	TOK	the		the\AT---6
+4327	TOK	spacing		spacing\N5S
+4328	TOK	between		between\P
+4329	TOK	them		them\RPP3NA
+4330	TOK	would		will\VOFDA66
+4331	TOK	match		match\VMI----
+4332	TOK	the		the\AT---6
+4333	TOK	spacing		spacing\N5S
+4334	TOK	between		between\P
+4335	TOK	the		the\AT---6
+4336	TOK	appropriate		appropriate\JA
+4337	TOK	half		half\N5S
+4338	TOK	sites		site\N5P
+4339	TOK	in		in\P
+4340	TOK	the		the\AT---6
+##	TAG	<name>
+4341	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+4342	TOK	Sigler	BOS	Sigler\N46
+##	TAG	</name>
+4343	TOK	and		and\CC
+4344	TOK	his		his\APS3M6
+4345	TOK	colleague		colleague\N5S
+##	TAG	<name>
+4346	TOK	Ben F. Luisi		Ben_F._Luisi\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+4347	TOK	working		work\VMG----
+4348	TOK	together		together\DGA7
+4349	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+4350	TOK	Yale University		Yale_University\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+4351	TOK	in		in\P
+4352	TOK	collaboration		collaboration\N5S
+4353	TOK	with		with\P
+##	TAG	<name>
+4354	TOK	Yamamoto		Yamamoto\N46
+##	TAG	</name>
+4355	TOK	and		and\CC
+##	TAG	<name>
+4356	TOK	Leonard P		Leonard_P\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4357	TOK	Freedman	BOS	freedman\N5S
+4358	TOK	of		of\P
+4359	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+4360	TOK	University of California		University_of_California\N46
+##	TAG	</name>
+4361	TOK	at		at\P
+##	TAG	<name pos="N46" type="place">
+4362	TOK	San Francisco		San_Francisco\N46
+##	TAG	</name>
+4363	TOK	have		have\V6F6R66
+4364	TOK	since		since\DGA7
+4365	TOK	confirmed		confirm\VMC----
+4366	TOK	this		this\AD---S
+4367	TOK	picture		picture\N5S
+4368	TOK	by		by\P
+4369	TOK	x-ray		x-ray\N5S
+4370	TOK	crystallography		crystallography\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4371	TOK	They	BOS	they\RPP3NN
+4372	TOK	have		have\V6F6R66
+4373	TOK	also		also\DGA7
+4374	TOK	learned		learn\VMC----
+4375	TOK	that		that\CS
+4376	TOK	each		each\AG---S
+4377	TOK	protein		protein\N5S
+4378	TOK	in		in\P
+4379	TOK	the		the\AT---6
+4380	TOK	dimer		dimer\N5S
+4381	TOK	makes		make\VMFDRS3
+4382	TOK	several		several\JA
+4383	TOK	contacts		contact\N5P
+4384	TOK	with		with\P
+4385	TOK	the		the\AT---6
+4386	TOK	phosphates		phosphate\N5P
+4387	TOK	on		on\P
+4388	TOK	either		either\AG---6
+4389	TOK	side		side\N5S
+4390	TOK	of		of\P
+4391	TOK	the		the\AT---6
+4392	TOK	major		major\JA
+4393	TOK	groove		groove\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4394	TOK	These	BOS	this\AD---P
+4395	TOK	contacts		contact\N5P
+4396	TOK	position		position\VMF6R66
+4397	TOK	the		the\AT---6
+##	TAG	<name>
+4398	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+4399	TOK	recognition		recognition\N5S
+4400	TOK	helix		helix\N5S
+4401	TOK	so		so\DGA7
+4402	TOK	that		that\CS
+4403	TOK	it		it\RPS3N6
+4404	TOK	can		can\VOFDR66
+4405	TOK	reach		reach\VMI----
+4406	TOK	deep		deep\JA
+4407	TOK	into		into\P
+4408	TOK	the		the\AT---6
+4409	TOK	major		major\JA
+4410	TOK	groove		groove\N5S
+4411	TOK	to		to\P
+4412	TOK	form		form\N5S
+4413	TOK	bonds		bond\N5P
+4414	TOK	with		with\P
+4415	TOK	base		base\N5S
+4416	TOK	pairs		pair\N5P
+4417	TOK	in		in\P
+4418	TOK	the		the\AT---6
+4419	TOK	half		half\N5S
+4420	TOK	site		site\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4421	TOK	Overall	BOS	overall\JA
+---	DLD	,		=\DELIM
+4422	TOK	then		then\DGA7
+---	DLD	,		=\DELIM
+4423	TOK	studies		study\N5P
+4424	TOK	of		of\P
+4425	TOK	the		the\AT---6
+4426	TOK	nuclear		nuclear\JA
+4427	TOK	hormone		hormone\N5S
+4428	TOK	receptor		receptor\N5S
+4429	TOK	class		class\N5S
+4430	TOK	of		of\P
+4431	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+4432	TOK	finger		finger\N5S
+4433	TOK	motifs		motif\N5P
+4434	TOK	indicate		indicate\VMF6R66
+4435	TOK	that		that\AD---S
+---	DLD	,		=\DELIM
+4436	TOK	despite		despite\P
+4437	TOK	some		some\AG---6
+4438	TOK	structural		structural\JA
+4439	TOK	similarity		similarity\N5S
+4440	TOK	to		to\P
+##	TAG	<name>
+4441	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+4442	TOK	type		type\N5S
+4443	TOK	zinc		zinc\N5S
+4444	TOK	fingers		finger\N5P
+---	DLD	,		=\DELIM
+4445	TOK	these		this\AD---P
+4446	TOK	motifs		motif\N5P
+4447	TOK	function		function\VMF6R66
+4448	TOK	more		more\DDC7
+4449	TOK	like		like\P
+4450	TOK	the		the\AT---6
+##	TAG	<name>
+4451	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+4452	TOK	recognition		recognition\N5S
+4453	TOK	motifs		motif\N5P
+4454	TOK	of		of\P
+4455	TOK	other		other\JA
+4456	TOK	transcription		transcription\N5S
+4457	TOK	factors		factor\N5P
+---	DLD	,		=\DELIM
+4458	TOK	such		such\JA
+4459	TOK	as		as\P
+4460	TOK	the		the\AT---6
+4461	TOK	helix		helix\N5S
+---	DLI	-		=\DELIM
+4462	TOK	turn		turn\VMF6R66
+---	DLI	-		=\DELIM
+4463	TOK	helix		helix\N5S
+4464	TOK	and		and\CC
+4465	TOK	leucine		leucine\N5S
+4466	TOK	zipper		zipper\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4467	TOK	That	BOS	that\CS
+4468	TOK	is		be\V6FDRS3
+---	DLD	,		=\DELIM
+4469	TOK	by		by\P
+4470	TOK	folding		fold\VMG----
+4471	TOK	together		together\DGA7
+##	TAG	<loc pos="CS">
+4472	TOK	instead of		instead_of\CS
+##	TAG	</loc>
+4473	TOK	remaining		remain\VMG----
+4474	TOK	distinct		distinct\JA
+---	DLD	,		=\DELIM
+4475	TOK	the		the\AT---6
+4476	TOK	motifs		motif\N5P
+4477	TOK	help		help\VMF6R66
+4478	TOK	nuclear		nuclear\JA
+4479	TOK	hormone		hormone\N5S
+4480	TOK	receptors		receptor\N5P
+4481	TOK	to		to\P
+4482	TOK	form		form\VMI----
+4483	TOK	the		the\AT---6
+4484	TOK	dimers		dimer\N5P
+4485	TOK	that		that\RW63N6
+4486	TOK	enable		enable\VMF6R66
+4487	TOK	such		such\JA
+4488	TOK	factors		factor\N5P
+4489	TOK	to		to\P
+4490	TOK	recognize		recognize\VMI----
+4491	TOK	their		their\APP3N6
+4492	TOK	specific		specific\JA
+4493	TOK	binding		binding\N5S
+4494	TOK	sites		site\N5P
+4495	TOK	on		on\P
+##	TAG	<name>
+4496	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4497	TOK	When	BOS	when\CS
+4498	TOK	knowledge		knowledge\N5S
+4499	TOK	of		of\P
+4500	TOK	the		the\AT---6
+4501	TOK	structure		structure\N5S
+4502	TOK	of		of\P
+4503	TOK	a		a\AI---S
+4504	TOK	molecule		molecule\N5S
+4505	TOK	reveals		reveal\VMFDRS3
+4506	TOK	something		something\RIS3N-
+4507	TOK	about		about\P
+4508	TOK	the		the\AT---6
+4509	TOK	way		way\N5S
+4510	TOK	in		in\P
+4511	TOK	which		which\RW63N-
+4512	TOK	it		it\RPS3N6
+4513	TOK	works		work\VMFDRS3
+---	DLD	,		=\DELIM
+4514	TOK	that		that\CS
+4515	TOK	information		information\N5S
+4516	TOK	may		may\VOFDR66
+4517	TOK	also		also\DGA7
+4518	TOK	offer		offer\VMI----
+4519	TOK	insight		insight\N5S
+4520	TOK	into		into\P
+4521	TOK	disease		disease\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4522	TOK	In	BOS	in\P
+4523	TOK	the		the\AT---6
+4524	TOK	case		case\N5S
+4525	TOK	of		of\P
+4526	TOK	zinc		zinc\N5S
+4527	TOK	fingers		finger\N5P
+---	DLD	,		=\DELIM
+4528	TOK	researchers		researcher\N5P
+4529	TOK	have		have\V6F6R66
+4530	TOK	learned		learn\VMC----
+4531	TOK	that		that\CS
+4532	TOK	a		a\AI---S
+4533	TOK	renal		renal\JA
+4534	TOK	cancer		cancer\N5S
+4535	TOK	called		call\VMF6A66
+##	TAG	<name>
+4536	TOK	Wilm		Wilm\N46
+##	TAG	</name>
+4537	PGR	's		genmark\GENMARK
+4538	TOK	tumor		tumor\N5S
+4539	TOK	arises		arise\VMFDRS3
+4540	TOK	from		from\P
+4541	TOK	a		a\AI---S
+4542	TOK	genetic		genetic\JA
+4543	TOK	mutation		mutation\N5S
+4544	TOK	that		that\RW63N6
+4545	TOK	interferes		interfere\VMFDRS3
+4546	TOK	with		with\P
+4547	TOK	the		the\AT---6
+4548	TOK	proper		proper\JA
+4549	TOK	binding		binding\N5S
+4550	TOK	to		to\P
+##	TAG	<name>
+4551	TOK	DNA		DNA\N46
+##	TAG	</name>
+4552	TOK	of		of\P
+4553	TOK	the		the\AT---6
+4554	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+4555	TOK	finger		finger\N5S
+4556	TOK	region		region\N5S
+4557	TOK	in		in\P
+4558	TOK	a		a\AI---S
+4559	TOK	particular		particular\JA
+4560	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4561	TOK	Moreover	BOS	moreover\DGA7
+---	DLD	,		=\DELIM
+4562	TOK	some		some\AG---6
+4563	TOK	of		of\P
+4564	TOK	the		the\AT---6
+4565	TOK	symptoms		symptom\N5P
+4566	TOK	that		that\RW63N6
+4567	TOK	can		can\VOFDR66
+4568	TOK	follow		follow\VMI----
+4569	TOK	from		from\P
+4570	TOK	insufficient		insufficient\JA
+4571	TOK	intake		intake\N5S
+4572	TOK	of		of\P
+4573	TOK	zinc		zinc\N5S
+4574	TOK	in		in\P
+4575	TOK	the		the\AT---6
+4576	TOK	diet		diet\N5S
+---	DLE	-		=\DELIM
+4577	TOK	such		such\JA
+4578	TOK	as		as\P
+4579	TOK	delayed		delay\VMC----
+4580	TOK	sexual		sexual\JA
+4581	TOK	development		development\N5S
+---	DLD	-		=\DELIM
+4582	TOK	can		can\VOFDR66
+4583	TOK	now		now\DGA7
+4584	TOK	be		be\VMI----
+4585	TOK	attributed		attribute\VMC----
+4586	TOK	to		to\P
+4587	TOK	the		the\AT---6
+4588	TOK	inability		inability\N5S
+4589	TOK	of		of\P
+4590	TOK	estrogen		estrogen\N5S
+4591	TOK	and		and\CC
+4592	TOK	androgen		androgen\N5S
+4593	TOK	receptors		receptor\N5P
+4594	TOK	to		to\P
+4595	TOK	fold		fold\VMI----
+4596	TOK	properly		properly\DGA7
+4597	TOK	in		in\P
+4598	TOK	the		the\AT---6
+4599	TOK	absence		absence\N5S
+4600	TOK	of		of\P
+4601	TOK	zinc		zinc\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+4602	TOK	Clearly	BOS	clearly\DGA7
+---	DLD	,		=\DELIM
+4603	TOK	the		the\AT---6
+##	TAG	<num>
+4604	TOK	two		two\X
+##	TAG	</num>
+4605	TOK	classes		class\N5P
+4606	TOK	of		of\P
+4607	TOK	zinc		zinc\N5S
+4608	TOK	fingers		finger\N5P
+4609	TOK	we		we\RPP1NN
+4610	TOK	have		have\V6F6R66
+4611	TOK	discussed		discuss\VMC----
+4612	TOK	vary		vary\VMF6R66
+4613	TOK	profoundly		profoundly\DGA7
+4614	TOK	in		in\P
+4615	TOK	both		both\RIP3N-
+4616	TOK	their		their\APP3N6
+4617	TOK	structure		structure\N5S
+4618	TOK	and		and\CC
+4619	TOK	the		the\AT---6
+4620	TOK	way		way\N5S
+4621	TOK	in		in\P
+4622	TOK	which		which\RW63N-
+4623	TOK	they		they\RPP3NN
+4624	TOK	interact		interact\VMF6R66
+4625	TOK	with		with\P
+##	TAG	<name>
+4626	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4627	TOK	We	BOS	we\RPP1NN
+4628	TOK	have		have\V6F6R66
+4629	TOK	no		no\AI---6
+4630	TOK	doubt		doubt\N5S
+4631	TOK	that		that\RW63N6
+4632	TOK	still		still\DGA7
+4633	TOK	more		many\JC
+4634	TOK	variety		variety\N5S
+4635	TOK	will		will\VOFDR66
+4636	TOK	be		be\VMI----
+4637	TOK	discovered		discover\VMC----
+4638	TOK	in		in\P
+4639	TOK	the		the\AT---6
+4640	TOK	extended		extend\VMC----
+4641	TOK	family		family\N5S
+4642	TOK	of		of\P
+4643	TOK	zinc		zinc\N5S
+---	DLD	-		=\DELIM
+4644	TOK	finger		finger\N5S
+4645	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4646	TOK	Nature	BOS	nature\N5S
+4647	TOK	continues		continue\VMFDRS3
+4648	TOK	to		to\P
+4649	TOK	surprise		surprise\VMI----
+4650	TOK	and		and\CC
+4651	TOK	amuse		amuse\VMI----
+4652	TOK	us		us\RPP1NA
+4653	TOK	with		with\P
+4654	TOK	the		the\AT---6
+4655	TOK	ingenuity		ingenuity\N5S
+4656	TOK	of		of\P
+4657	TOK	the		the\AT---6
+4658	TOK	designs		design\N5P
+4659	TOK	it		it\RPS3N6
+4660	TOK	has		have\V6FDRS3
+4661	TOK	evolved		evolve\VMC----
+4662	TOK	to		to\P
+4663	TOK	enable		enable\VMI----
+4664	TOK	proteins		protein\N5P
+4665	TOK	to		to\P
+4666	TOK	recognize		recognize\VMI----
+4667	TOK	specific		specific\JA
+4668	TOK	base		base\N5S
+4669	TOK	sequences		sequence\N5P
+4670	TOK	in		in\P
+##	TAG	<name>
+4671	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+4672	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+4673	TOK	an		an\AI---S
+4674	TOK	increasing		increase\VMG----
+4675	TOK	number		number\N5S
+4676	TOK	of		of\P
+4677	TOK	amino		amino\N5S
+4678	TOK	acid		acid\N5S
+4679	TOK	sequences		sequence\N5P
+4680	TOK	include		include\VMF6R66
+4681	TOK	what		what\RW63N-
+4682	TOK	seem		seem\VMF6R66
+4683	TOK	to		to\P
+4684	TOK	be		be\VMI----
+4685	TOK	zinc		zinc\N5S
+---	DLI	-		=\DELIM
+4686	TOK	binding		binding\N5S
+4687	TOK	motifs		motif\N5P
+---	DLD	,		=\DELIM
+4688	TOK	although		although\CS
+4689	TOK	the		the\AT---6
+4690	TOK	spacing		spacing\N5S
+4691	TOK	between		between\P
+4692	TOK	the		the\AT---6
+4693	TOK	pairs		pair\N5P
+4694	TOK	of		of\P
+4695	TOK	cysteines		cysteine\N5P
+4696	TOK	or		or\CC
+4697	TOK	histidines		histidine\N5P
+---	DLD	,		=\DELIM
+4698	TOK	or		or\CC
+4699	TOK	the		the\AT---6
+4700	TOK	numbers		number\N5P
+4701	TOK	of		of\P
+4702	TOK	pairs		pair\N5P
+---	DLD	,		=\DELIM
+4703	TOK	differs		differ\VMFDRS3
+4704	TOK	from		from\P
+4705	TOK	that		that\RDS3N-
+4706	TOK	in		in\P
+4707	TOK	the		the\AT---6
+4708	TOK	standard		standard\JA
+4709	TOK	zinc		zinc\N5S
+4710	TOK	finger		finger\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4711	TOK	One	BOS	one\RIS3N-
+4712	TOK	unusual		unusual\JA
+4713	TOK	example		example\N5S
+4714	TOK	is		be\V6FDRS3
+4715	TOK	the		the\AT---6
+4716	TOK	yeast		yeast\N5S
+4717	TOK	protein		protein\N5S
+##	TAG	<name>
+4718	TOK	GAL4		GAL4\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+4719	TOK	it		it\RPS3N6
+4720	TOK	bears		bear\VMFDRS3
+##	TAG	<num>
+4721	TOK	six		six\X
+##	TAG	</num>
+4722	TOK	cysteines		cysteine\N5P
+4723	TOK	that		that\RW63N6
+4724	TOK	fold		fold\VMF6R66
+4725	TOK	around		around\P
+##	TAG	<num>
+4726	TOK	two		two\X
+##	TAG	</num>
+4727	TOK	zinc		zinc\N5S
+4728	TOK	atoms		atom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4729	TOK	We	BOS	we\RPP1NN
+4730	TOK	also		also\DGA7
+4731	TOK	expect		expect\VMF6R66
+4732	TOK	to		to\P
+4733	TOK	find		find\VMI----
+4734	TOK	that		that\CS
+4735	TOK	some		some\AG---6
+4736	TOK	zinc		zinc\N5S
+4737	TOK	fingers		finger\N5P
+4738	TOK	or		or\CC
+4739	TOK	their		their\APP3N6
+4740	TOK	cousins		cousin\N5P
+4741	TOK	are		be\V6FDR66
+4742	TOK	involved		involve\VMC----
+4743	TOK	in		in\P
+4744	TOK	activities		activity\N5P
+4745	TOK	other		other\JA
+4746	TOK	than		than\CS
+4747	TOK	transcription		transcription\N5S
+---	DLD	,		=\DELIM
+4748	TOK	such		such\JA
+4749	TOK	as		as\P
+4750	TOK	transporting		transport\VMG----
+---	DLD	,		=\DELIM
+4751	TOK	processing		processing\N5S
+4752	TOK	or		or\CC
+4753	TOK	otherwise		otherwise\DGA7
+4754	TOK	acting		act\VMG----
+4755	TOK	on		on\P
+##	TAG	<name>
+4756	TOK	DNA		DNA\N46
+##	TAG	</name>
+4757	TOK	or		or\CC
+4758	TOK	even		even\DGA7
+##	TAG	<name>
+4759	TOK	RNA		RNA\N46
+##	TAG	</name>
+---	DLD	;		=\DELIM
+4760	TOK	recall		recall\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+4761	TOK	for instance		for_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+4762	TOK	that		that\CS
+##	TAG	<name>
+4763	TOK	TFIIIA		TFIIIA\N46
+##	TAG	</name>
+4764	TOK	binds		bind\VMFDRS3
+4765	TOK	to		to\P
+##	TAG	<name>
+4766	TOK	RNA		RNA\N46
+##	TAG	</name>
+##	TAG	<loc pos="DGA7">
+4767	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+4768	TOK	to		to\P
+##	TAG	<name>
+4769	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+4770	TOK	We	BOS	we\RPP1NN
+4771	TOK	still		still\DGA7
+4772	TOK	have		have\V6F6R66
+4773	TOK	much		much\DGA7
+4774	TOK	to		to\P
+4775	TOK	learn		learn\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

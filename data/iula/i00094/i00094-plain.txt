@@ -1,0 +1,2530 @@
+
+Introduction and Background 
+
+The Internet has seen nothing like Mosaic.
+The hot new program has taken the network scene by storm, seizing the attention of users worldwide with its enticing interface.
+No longer limited to straight text, Mosaic devotees travel an Internet stuffed with photographs, colorful graphics, sound clips, and even movies.
+What's more, Mosaic's formatting features allow an electronic screen to be manipulated as if it were a printed page, while providing access to old Internet standbys like Gopher , FTP, and Telnet.
+If there is an all-purpose Internet program, Mosaic is it.
+
+What makes this program special is good engineering.
+
+Mosaic takes a problem-the fact that millions of new users are coming onto the Internet, only to find it formidable and hard to use-and solves it brilliantly.
+
+Science fiction writer Robert Heinlein once said: "Never worry about theory as long as the machinery does what it's supposed to do."
+The great majority of new Internet users aren't computer scientists or programmers.
+They have little patience with a computer system that requires them to master tricky commands and numerous parameter settings to get any work done.
+Mosaic allows them to forget about the theory behind the Internet and let the machinery, in this case a brilliantly conceived program, do what it is supposed to do.
+
+Mosaic at Maximum Thrust 
+
+Following this software's trajectory is like watching a Saturn V clawing for sky.
+Back in the moon shot days, the huge booster would hang over the launchpad for agonizing seconds, matching pounds of thrust against gravity in a contest it seemed unlikely to win.
+But then, miraculously, it would clear the tower, moving up and downrange, ever accelerating, until it was but a searing pinpoint of light, "carrying the fire," to cite the title of Mike Collins's description of astronauts riding their torch to the moon.
+
+Ponder this: 340,000 copies of Mosaic have been downloaded from the National Center for Supercomputing Applications (NCSA).
+Further consider the fact that Mosaic also can be downloaded from sites other than the NCSA, while a single copy, once installed on a fileserver, may support more than one user.
+Balance these points against another fact: Mosaic is software in an early stage of development; each new release inclines present users to upgrade.
+All of this makes estimating the actual user pool difficult.
+We can talk reasonably of a Mosaic-using population in the hundreds of thousands, but it may be an exaggeration to claim a million or more active users, as some have.
+The big program is gaining momentum, but it's still hanging in the sky over the launchpad, its engines at maximum thrust.
+
+What will push it up, downrange, and out is the issue of access.
+The manifest advantages of using Mosaic, most especially its point-and-shoot interface and its ability to make almost any kind of Internet information available from within a single program, are driving us toward a truly democratic Internet.
+We are in the preliminary stages of an interface revolution that will change the way we retrieve networked data.
+Millions currently access the net through standard dial-up, or shell , accounts rather than the more specialized and powerful Serial Line Internet Protocol (SLIP) or Point-to-Point Protocol (PPP) techniques that make running Mosaic possible over a modem link.
+But higher-speed modems and dramatically falling connection prices are making SLIP/PPP more affordable than ever before, while those with direct network access at work have already experienced the pleasure of running Mosaic at maximum speed.
+As the nature of our connections changes, the use of Mosaic will accelerate to escape velocity.
+
+Software and History 
+
+But if Mosaic is the tool of the future, it also owes a debt to history.
+Take small pebbles, bits of cut marble, the occasional piece of glass, or terra cotta; embed these in plaster or putty to hold them in place.
+The result is one of the most strikingly beautiful of all ancient decorations.
+In the British Museum, mosaics from the Roman era hang on the walls of a vast stairway leading up to the exhibitions from classical cultures-Greece, Rome, Byzantium.
+What astonishes the eye are the colors, the vibrancy of the royal blues, the turquoises, the roses, and golds.
+You see similar work at the Roman ruins in Bath, where craftsmen painstakingly laid down, pebble by pebble, glass by stone, floors as lovely and delicate, as anything that has ever been walked on.
+Floors as kaleidoscopes.
+We always forget how colorful the ancient world was.
+
+A mosaic called "the grand hunt" was recovered from the ruins of Piazza Armerina, Sicily, where more than 7,000 feet of floor mosaics show us glimpses of life from the latter days of the Roman empire.
+We see patricians on their horses hunting deer in one unforgettable scene, the faces of both hunter and hunted somehow captured through minute insertions of the small, constituent cubes called tesserae .
+Thin colored stones were cut into shapes to fit each design feature, while molten glass was colored with metal oxides before being poured onto a surface for drying and cutting.
+Even before Roman times, baked clay pieces were embedded in brick walls to create patterns in ancient Sumeria.
+The use of mosaics as a decorative tool survives to our own time.
+
+What more apt name, then, for the software tool we examine here?
+Mosaic is composed of minute objects, too, each painstakingly laid into place.
+The fact that they are digital-a collection of binary data in infinitely varied form, complex as a strand of DNA-does not change the central equation.
+The concept remains: The accumulation of tiny details creates beauty and information.
+We built terrazzoes, and moon landers, and cyberspace cities, stone by stone and byte by byte.
+
+Collections of raw materials fused in the core of ancient stellar explosions, we ourselves are testimony to the power of nature to astound the senses.
+
+Now we can take advantage of the labors of the Internet's creators by tapping the digital flow with a software program that renders its most complex negotiations transparent to us.
+What we receive on the other side is not just data but artistry.
+A properly designed World Wide Web page reveals, through Mosaic, the hand of its creator.
+We see photographs in full color, hear sounds, view movies.
+We use our mouse to move through embedded links to other information.
+A single click takes us to them, where we find another page opening up before us, with its own links to still further flights.
+The entire framework is self-referential.
+Mosaic and the underlying Web are the first attempt to bring to life an aesthetics of digital networking.
+At some point, someone suggested that a Roman floor might be beautiful, and someone else said, why not? 
+
+The National Center for Supercomputing Applications 
+
+In our time, a similar dialogue was carried out at the National Center for Supercomputing Applications.
+Located at the University of Illinois at Urbana-Champaign, the NCSA is a research center specializing in high-performance computing within an interdisciplinary environment.
+That synergy was perhaps inevitable, for the development of Mosaic required an ability to tie together diverse kinds of information; more important, it required a vision of what a fully powered Internet access tool would look like if it were to appeal not just to computer scientists but to the entire universe of network users, from academics to home computerists.
+
+The name for what NCSA does is computational science , a method of research that combines theory with laboratory experiment within the context of a supercomputer.
+You can model natural phenomena on such a computer, working with real-time data to tease out otherwise hidden results.
+Since it opened to the research community in January 1986, NCSA has worked with more than 6,000 users at close to 400 universities and corporations.
+Among its beneficiaries are educators, scientists, artists, and engineers.
+Think of them as being linked through networking into what NCSA calls a metacenter for computational science and engineering.
+As conceived by NCSA, this metacenter actually takes in several supercomputing sites: the NCSA itself, the Cornell Theory Center, the Pittsburgh Supercomputing Center, and the San Diego Supercomputer Center.
+Their common challenge-to make data available no matter where the user is located, and to make it usable no matter what the computing platform.
+
+Mosaic grows directly out of this need.
+The system is designed to be distributed across a wide-area network; the user of the system is never required to know the actual site of any document he or she needs to access.
+
+The conceptual place thus travelled is cyberspace , the universe of connected computer communications.
+A key player in the creation of that space, the NCSA Software Development Group (SDG), uses the software to distribute further information about its own mission and the potentialities of the programs it has created.
+SDG develops various tools for all major computing platforms, from the IBM-compatible desktop machine to UNIX workstations, Macintoshes, and supercomputers themselves.
+Much of this software has been placed in the public domain, while other programs are copyrighted but available to the academic and research communities.
+
+NCSA Mosaic is copyrighted but free for academic and research use.
+As with other NCSA software, it can be obtained through CD-ROM, e-mail server, the U.S. Post Office, and anonymous FTP.
+Assuming you are already an Internet user, I provide complete directions on how to retrieve and install Mosaic in Chapters 3 and 4.
+
+Those following the Mosaic saga also know that a number of commercial versions of the program are becoming available.
+In fact, Marc Andreesen, originator of Mosaic, and a large part of the Mosaic technology team from NCSA, have left NCSA to form Mosaic Communications Corp. in Mountain View, California.
+The company's aim is to provide services and software for commercial activities on the Internet.
+It is joined by a host of firms now entering the commercial Mosaic arena, including Spyglass, a Savoy, Illinois-based company that recently arranged with NCSA to handle licensing of Mosaic; Spry, the Seattle-based developer that has produced the Internet In A Box product; and Quarterdeck, which plans to bring out a product of its own.
+We will examine the ramifications of this rapid commercialization in Chapter 9.
+
+For now, the question is, which Mosaic to use?
+The answer provided in this book is simple: Download and learn about Mosaic using the NCSA version, which is free and provides the whole range of useful features we're about to explore.
+Get to know about the resources available on the Web and the various ways of getting at them through Mosaic.
+Then, if you are involved in a commercial operation and hope to apply Mosaic to your business, or if you are an individual user who finds particular features useful in one of the enhanced Mosaics now coming to the market, move to one of them.
+
+Most individual users will do well, I think, to learn the ropes with the NCSA version, which is, after all, continually being improved through the efforts of NCSA's team of developers.
+Many enhancements from commercial Mosaic versions are also likely to flow back to the NCSA.
+
+How Mosaic Works 
+
+Given the amount of attention it has generated, the fact that Mosaic is often considered in isolation is surprising.
+People speak of the program as if it stands apart from the Internet tools which, in fact, it supports.
+
+If you operate through a standard dial-up account using a character-based interface, the various parts of the Internet are laid out before you in separate units.
+You need to give commands to your service provider's computer to get anything done.
+Each time you do so, you activate a program.
+Enter the pine command and you call up the mail-reader program of that name.
+Enter the trn command and a program for reading USENET newsgroups appears.
+Each task, from File Transfer Protocol (FTP) sessions for transferring files, to Telnet connections allowing you to use a remote computer, is handled by a program designed for the purpose.
+Each of these programs has its own specific set of commands.
+
+The beauty of Mosaic is that its functions include almost all the major features of the Internet.
+Yes, you can establish a Telnet connection through Mosaic.
+Indeed, you can do so by invoking the same Telnet program you use normally with a SLIP/PPP account, but Mosaic will pop up the relevant work screen inside your Mosaic session, and you will return to Mosaic when you're through.
+You can download files using FTP, but instead of operating through memorized commands at a system prompt, you are presented with a Mosaic screen that allows you to use a mouse for point-and-shoot operations, and that shows you the file structure of the remote computer in a logical and easy-to-understand format.
+Gopher is available, and so are USENET newsgroups.
+And so, of course, is the entire world of linked hypermedia resources made available through the World Wide Web .
+
+This is why so many people are excited about Mosaic.
+The New York Times's s John Markoff has called it "... a map to the buried treasures of the Information Age." What excites Markoff is his ability to click his mouse on a highlighted word and pop through a hypertext connection to a new Mosaic screen, one containing further information about the concept under discussion.
+Click on an image and you can summon up everything from travel scenes in Bali to a NASA weather satellite photograph.
+Click on an audio speaker icon and you can hear music from the highlands of Peru or the voice of Babe Ruth.
+Museum exhibits are available through Mosaic, as are city directories and catalogs of products for sale.
+Each day brings new, Mosaic-accessible resources into view.
+
+This is exciting stuff for people used to pushing around character-based displays.
+Using so-called terminal emulation , such displays result when computers pretend to be terminals of the computers to which they are connected.
+Regular dial-up (non-SLIP/PPP) users have no alternative, but the method inevitably limits their capabilities.
+Graphics are out, and on-screen formatting is visually primitive.
+
+Mosaic changes all that.
+Suddenly a range of sight and sound opens up, a wild, digital information bazaar populated by businesspeople, scientists, academics, and home users-visionaries, cranks, and the occasional loudmouth.
+By building home pages , users can create their own Mosaic environments, using a special hypertext language called HTML to convert normal, linear information into a new linked format, one that includes not only textual information but every form of media up to full-motion video.
+
+Underlying the glitter is the World Wide Web , a system of networked, hypertextual information developed at CERN, the giant particle physics research center in Switzerland.
+Tim Berners-Lee, the Web 's developer, may not have foreseen how his intricately crafted brainchild would one day supply the muscle behind the full-featured Mosaic overlay.
+In fact, the wonders of Mosaic occur precisely because it is an overlay, or browser , program designed to exploit the resources already set in place by the Web .
+Nothing inherent in the Web 's design demands that it be graphical; indeed, there are other Web browsers, including several character-based ones like www and lynx .
+The latter are fine implementations and do everything that could be expected of a character-based system.
+They just can't fold in the graphics, the textual formatting, the photographs, and the sounds in as consistently managed a whole.
+It took Mosaic to turn the Web into the revolutionary publishing tool it has become.
+A Hollywood wag who knew and worked with them both once said this about Fred Astaire and Ginger Rogers: "She gave him sex appeal, and he gave her class."
+Mosaic and the Web are our digital Astaire and Rogers.
+
+Mosaic's Premises 
+
+A great interface tool is one that is easier to demonstrate than to explain.
+Its premises should be self-evident, as indeed Mosaic's are.
+It should lead users into trying new things, while being supported by a menu system that allows them to recover when they hit the occasional cul-de-sac.
+Its operations should be consistent, offering available command options in a logical manner and making them accessible by mouse click alone.
+And it should be not only simple to install, but easy to customize, so that its menus can be tailored to the needs of a specific situation.
+
+Mosaic doesn't yet fulfill all these requirements, but it comes closer to meeting them than any other Internet front-end has ever managed, and it does so while retaining the power inherent in our growing number of networked tools.
+We could wish it to be faster, for to show us that beautiful photograph of Mount Fuji, Mosaic must retrieve the entire file over the network and then display it by tapping an external viewer program expressly installed for the purpose.
+The same is true of large audio files; run into the Japanese national anthem on-line and our mouse click may result in long minutes of waiting as the file is pumped, byte by byte, across our network connection.
+
+Frustrating, yes.
+But the limitation is not Mosaic's; it's the result of the quality of our connections themselves.
+This is why modem users will need to work with as fast an instrument as possible, preferably nothing less than 14,400 baud (we'll look at minimum equipment requirements in Chapter 3).
+If anything, Mosaic demonstrates that communications technology has outrun our delivery systems; we could all use high-speed fiber connections into our homes and places of business, which could deliver wider bandwidth than copper wiring and allow Mosaic to spread its wings.
+The popularity of Mosaic and the growth of the Internet itself will be only two of the driving factors leading to a realization of that goal, but we know that it's coming.
+Call it the Infobahn, the Information Highway or whatever you please; we're moving toward a wide bandwidth infrastructure that will show Mosaic off at its best.
+
+All that doesn't mean this program isn't ready for prime time, even though it is, admittedly, in its infancy.
+No, Mosaic can be used today for numerous network tasks, many of which you might not have attempted because of the daunting complexity of the task under any other interface.
+
+The Mosaic Interface 
+
+For users coming to Mosaic from the conventional dial-up world, the feel of the software is at first curious, then exhilarating.
+Character-based connections always place you at a user prompt.
+Thus, what you see on your screen gives no clue as to what you can do.
+Here, for example, is the user prompt at Interpath, an Internet service provider in the Raleigh area which I use.
+This is what I see when I log on: mercury: 
+
+The word "mercury" is simply the name of the computer into which I have dialed.
+The colon following it is an icon for the other shoe waiting to drop.
+This prompt means, "type in a command to use the system."
+Various service providers customize their command prompts; you might encounter a percent sign (%) as the user prompt, or a dollar sign ($) or a plain colon (:).
+
+Whatever the prompt looks like, you need to know which command to type or nothing will happen.
+
+Contrast this with what happens when you call up Mosaic.
+
+Instead of a user prompt waiting for you to act, you are presented with a full screen of information.
+Figure 1.1 shows an example of what this screen may look like.
+
+This is, in fact, only one of thousands and thousands of possible Mosaic screens.
+Because Mosaic ties into World Wide Web sites, we can use it to move to any of the sites we specify, each of which will offer multiple screens, or pages , of information.
+The number of such sites is expanding rapidly as the popularity of Mosaic increases.
+
+Figure 1.1
+
+The home page for the Microsoft Windows version of Mosaic
+
+Figure 1.1 is, in fact, the home page for the Microsoft Windows version of Mosaic.
+You can verify this by noting the information at the top of the screen, which shows you at any given time which page you have accessed through the Web 's complex and interlinking framework.
+Below it is the URL: statement, which specifies an address for the document we are examining.
+
+URL stands for Uniform Resource Locator; a URL provides complete information about finding a particular resource, no matter what its format, on the Internet.
+As we'll see, Mosaic allows us to enter any URL to move directly to that site.
+
+You can see in Figure 1.1 that some text is underlined; a color monitor would reveal that the underlined text can appear in a different color than the rest.
+Both underlining and color indicate the presence of a hyperlink to further information; click on it with the left mouse button to move to that link.
+You won't go wrong if you make the assumption that curiosity is the best vehicle for exploring the capabilities of Mosaic and the destinations available through the World Wide Web .
+Point-and-shoot makes the entire process a simple one.
+
+The Nature of the Connection 
+
+Despite its complexity, Mosaic is a remarkably easy program to install.
+The trick lies in getting the right version of the program to begin with.
+To do this, we will travel in Chapter 3 to the computer holdings of the National Center for Supercomputing Applications in Urbana-Champaign, Illinois, where Mosaic originated, and where work on the program continues.
+There we can choose between the Macintosh, Windows, or UNIX versions of Mosaic.
+Chapters 3 and 4 will demonstrate how to retrieve the appropriate files, unpack them, and install the program on your hard disk.
+We will then perform the basic setup procedures and begin the process of putting your copy of Mosaic through its paces.
+
+But before we can proceed, there is a fundamental issue to be discussed.
+What kind of connection to the Internet is required to make Mosaic workable?
+This is perhaps the most confusing issue of all for newcomers; they have heard that a program exists that eliminates the necessity of remembering commands to maneuver through the Internet.
+Many have downloaded the program, unpacked arid installed it, only to be confronted with a cryptic message and an apparently lifeless network connection when they tried to click it into life.
+Thus we begin with the questiOn of connectivity, a primary concern for any would-be Mosaic user.
+
+If you are currently accessing the Internet through a modem and dialing into a UNIX-based service provider, then this chapter is For you.
+Mosaic can't work with your modem unless you're running a SLIP or PPP account, and the following pages explain what SLIP/PPP is and how you can get it.
+If your current Internet account is at your place of work over an office network tying directly into the Internet, however, you will not need to worry about SLIP/PPP, and can safely move into the next chapter, which describes how to install Mosaic.
+
+The actual SLIP/PPP installation is beyond the scope of this book.
+Instead, I present a number of alternatives for finding SLIP/PPP software and getting help in its implementation.
+Several books now on the market include diskettes with SLIP/PPP sampler software, and a fine shareware program called Trumpet Winsock is available for Microsoft Windows.
+Whether you use a Macintosh or an IBM-compatible PC, SLIP/PPP can best be brought up and running by, first, establishing an account with an Internet service provider, and second, using that provider's help in installing the necessary software.
+A good service provider should be willing and able to help you through the installation process.
+In many cases, providers offer a book/diskette combination which will be familiar to their help desk staff.
+Use the information and software provided and you shouldn't have any trouble.
+
+If you are an adventurous soul, you can always try to implement SLIP on your own through the Trumpet Winsock program, but first-timers are advised to stick with their provider's recommendations and try to establish, as much as possible, a generic SLIP/PPP environment.
+
+Kinds of Internet Connectivity 
+
+If life were simple, there would be one method for connecting to the Internet.
+Like CompuServe or DELPHI, the Internet would be accessible through a modem.
+The modem, connecting to your computer's serial port and interposing itself between computer and telephone network, is your way to translate the binary workings of your computer into the analog workings of the telephone system.
+Think of a modem as a translation device; it turns digital data into sound.
+
+If you listen to a modem at work over a telephone line, you hear a series of tones.
+The modem is turning data into a kind of music at one end, letting that music flow through the phone lines, and be translated back into digital data by the modem at the other end.
+We've become familiar with modems in the past decade and are beginning to take their use for granted.
+For many users, they represent the high end of communications, allowing them to connect to remote databases, leave electronic mail, and join and participate in discussion groups on commercial on-line services.
+
+The key to understanding Internet connectivity is to realize that there are several different ways to gain access.
+Two of them involve modems, the third does not.
+
+In this book, I am assuming that you want to use a modem to make your connection; my job, then, is to show you how to change your Internet connectivity to make the modem work as it should with Mosaic.
+If you do not use a modem to connect to the Internet, it means you are tying in directly, probably at work, where your office's computers are networked together and reach the Internet by sending their traffic through a computer called a router.
+Let's examine the three options.
+
+Dial-Up (Shell) Connectivity 
+
+Because the Internet is so new, we are still engaged in a search for the best terminology to describe certain concepts.
+I will use the term dial-up to refer to the most basic kind of Internet account.
+When you sign up with a service provider for a dial-up account, you are being granted access to one of the provider's computers.
+At the time you open your account, you will be given a telephone number to call, a user ID to identify you to the computer, and an initial password.
+
+You will be instructed to change your password once you get established on-line, so that no one else can know your password and use your account.
+
+Another common term for the same kind of account is a shell account .
+The UNIX command interpreter is called a shell; think of it as the interface you work with when you interact with UNIX on-line (most such accounts use UNIX as their operating system).
+There are a wide variety of UNIX shells available (some of the most common are the C Shell, known as csh , and the Bourne Shell, or sh ); each of these shells provides an interface that accepts your commands and performs the actions you specify.
+Your job is to log in to the UNIX host computer and type UNIX commands in this shell environment.
+I prefer the term dial-up because some services, like DELPHI or America Online, offer connectivity to the Internet but do not employ a UNIX shell to do so.
+
+Whatever the term, dial-up or shell account, we are not limited in the kind of software we use to connect to the system.
+Any communications package- Procomm Plus, Zterm, Crosstalk, Crosstalk for Windows-can do the trick.
+Most modem users already have such a program, which they have been using to contact local bulletin board systems (BBS) and commercial on-line services like CompuServe or America Online.
+They may well be using these systems to move files between home and office computers.
+Our typical dial-up connection works much the same way; we dial a number by setting it up as a directory entry in our communications software, and then use a user ID and password to log on to the remote system.
+
+Dial-up connectivity provides a particular kind of access to the Internet.
+Once you have called your service provider, you will sign on and be confronted with a prompt or, in some cases, a menu providing options available to you.
+Most of the time, the computer you are dialing into will be using the UNIX operating system, which is the most common operating system used on the Internet.
+And your dial-up account gives you the ability to run whatever programs are available on your service provider's computer.
+
+Let me say this again: What is available with your regular dial-up account is the ability to run programs on the other computer, the one you have reached by dialing in.
+You are thus dependent upon your service provider to put programs on its computer for your use.
+These programs can do numerous things on the Internet.
+The pine program, for example, allows you to send and receive electronic mail.
+The trn program lets you read and post messages to any of the more than 8,500 newsgroups available over USENET.
+The Telnet program lets you connect to remote computers on the Internet and use their resources.
+
+The crucial distinction between dial-up and other accounts is this: When you use a dial-up account, your own computer is not actually on the Internet; it uses terminal emulation to fool the service provider's computer into thinking it is a terminal of that computer.
+
+The method works, usually by using the VT100 terminal emulation designed for Digital Equipment computers, and can provide you with access to numerous Internet tools.
+
+But your own computer, acting as a terminal, is reduced to relatively simple operations.
+A terminal is completely dependent on the computer to which it is connected.
+The processing power inside your own computer is largely ignored in this setup.
+Instead, you use your service provider's machine to do the work.
+
+Another ramification of this situation is that, when you use terminal emulation, you are not actually connected to the Internet.
+That is, your computer does not enjoy a direct Internet connection.
+The protocols that make the Internet work, called TCP/IP (Transmission Control Protocol/Internet Protocol), are not set up on your computer.
+Instead, the computer your service provider uses is the one handling the actual Internet data packets.
+When someone sends you electronic mail, that mail does not go directly to your computer, but to your service provider's machine.
+You must then dial in to receive the mail.
+
+What exactly is this TCP/IP all about?
+Without getting too technical, let's just say that it represents ways of packaging data and sending it over the Internet.
+
+Each data packet contains full routing information, and the various packets that make up a single document, which are sent out over the net, can be reassembled at their destination to form the complete text, even if they arrived at the site by different routes and completely out of their original order.
+
+Think of dial-up or shell connectivity, then, as your ability to piggyback on somebody else's machine to get your work done.
+Because it is less demanding and does not pass data packets directly to you from the Internet, dial-up is usually the least expensive connection alternative.
+If you use a commercial on-line service like CompuServe or America Online, you are using dial-up connectivity.
+The same is true if you use any of the rapidly multiplying number of Internet access providers around the world.
+When you send Internet mail or receive messages from an Internet mailing list, you are the beneficiary of actions you have initiated on your service provider's system, not your own.
+
+This has a crucial effect on what you can do on the Internet.
+Mosaic requires a direct network connection, which is to say, the program needs to use the processing power inside your computer to do its work.
+It also requires direct passage of Internet data packets between the net and your machine.
+Put another way, Mosaic requires your machine to have its own Internet address.
+
+This is why a commercial on-line service can't help you; there is no way, for example, for a DELPHI or a BIX to provide you with Mosaic, because the nature of the dial-up connection presumes a character-based interface and terminal emulation.
+No TCP/IP data packets flow between you and these providers.
+
+This problem, incidentally, exists not only for Mosaic but for numerous other programs.
+The Internet operates through a client/server relationship.
+Think of a client as a program that runs on your computer.
+The server is the program running on a remote computer that interacts with the client.
+The two interact by means of a protocol.
+
+In the case of the World Wide Web , the client program running on your machine sends a request over the Internet to the server, using an underlying communications protocol known as HTTP, or HyperText Transport Protocol.
+These operations occur transparently to the user; what you see on the screen is simply the characteristic Mosaic interface interpreting data it is receiving through the World Wide Web .
+
+When you use a dial-up or shell account, the nature of your connection means that you can only use the client programs your service provider has made available on its machine.
+But if you have a direct Internet connection, you can use whichever client programs you choose.
+You can find software that suits your taste and operate accordingly.
+
+Numerous client programs exist to perform the basic Internet chores, everything from electronic mail to FTP (File Transfer Protocol) to Gopher and other browsing and searching tools.
+A direct network connection gives you the opportunity to choose which you find the most effective.
+And because the software will run on your own machine, it can be more complex, graphical, and feature-laden.
+You will come to see Mosaic as something like the ultimate client program, one that combines almost all major Internet functions into a single interface.
+Ed Krol said it best in The Whole Internet Users Guide and Catalog (O'Reilly, 1994, 2nd Ed.): "if you could only install one piece of netvçork navigating software on your system, Mosaic would be the one to choose".
+Later, as your expertise grows, you may find specialized programs that handle a specific task better than Mosaic, but first you should consider how much Mosaic allows you to do and master its capabilities.
+
+The SLIP/PPP Connection to the Internet 
+
+If you need direct Internet access to use Mosaic, how do you achieve it?
+For people with modems, the answer is SLIP (Serial Line Internet Protocol) or PPP (Point-to-Point Protocol).
+SLIP/PPP is a way that your modem can access the Internet without having to piggyback on your service provider's computer.
+The difference is that, when you use SLIP/PPP, the TCP/IP data packets travel between you and the Internet, because TCP/IP is itself loaded on your machine.
+SLIP/PPP software will use this TCP/IP connection to turn your computer into a full-fledged member of the net, complete with network address.
+
+To run Mosaic, then, you must have a SLIP/PPP connection to the Internet or better (we'll discuss what "better" means in just a moment).
+Several years ago, this would have been a tall order.
+In my area, the difference between dial-up and SLIP/PPP accounts was expressed financially.
+Not long ago, I could choose to spend $30 a month for 75 hours of Internet access in a straight dial up context, or $175 per month for a SLIP/PPP connection to the net.
+This kind of disparity is the reason so many people have used only dial-up accounts, and why they become so frustrated when they learn that Mosaic can't work without a SLIP/PPP connection.
+The high tariff effectively kept SLIP/PPP in the hands of businesspeople and their companies.
+
+But the explosion in the number of Internet access providers has meant that SLIP/PPP prices have fallen dramatically.
+My own service provider, Raleigh-based Interpath, charges $30 per month for straight dial-up, while SLIP/PPP costs $35 per month.
+That extra $5 a month is not asking a lot when you consider how much more network power you will receive with SLIP/PPP.
+For many users, the best reason of all to get a SLIP/PPP account is Mosaic itself.
+Once they understand the issues, they choose SLIP/PPP and find themselves entering a different kind of environment, one with point-and-shoot interfaces, drop-down menus and mouse-driven commands, an environment much like the graphical environments for both PC and the Mac that have become more or less the industry standard.
+
+Your first job on the road to Mosaic, then, is to open a SLIP/PPP account.
+Doing so should pose few difficulties; most service providers today make SLIP/ PPP available.
+
+Where problems still occur is in installation.
+SLIP/PPP software is getting easier to install, but even relatively intuitive implementations, like Internet Chameleon from NetManage, still require you to enter considerable amounts of information.
+This is why your choice of service providers is critical.
+Look not only for the best price, but also for the service provider who is most capable of providing you with support when you need it.
+A good help desk can guide you through the thorniest of SLIP/PPP installation problems.
+
+Like SLIP, PPP supports the TCP/IP protocols over a dial-up telephone line and can thus deliver the same kind of connectivity, although there are those who believe that PPP is the more elegant solution.
+Growing interest in PPP may cause it to become the method of choice over SLIP in the future, but whether that happens, the essential issues remain the same.
+Both SLIP and PPP are ways to move Internet data packets over telephone lines, and both allow you to run client programs on your own machine as you interact with the Internet.
+At the moment, though, SLIP is more widely available.
+
+Using SLIP/PPP software instead of your regular communications program, you dial in to your Internet service provider's computer.
+But once you have made the connection, your machine is now a part of the Internet.
+
+As opposed to being a relatively passive recipient of data, it is now fully operational, sending and receiving data using TCP/IP data packets through an Internet access point made available by your service provider.
+The major ramification of this is that your machine now owns its own IP address.
+Mail, for example, can be addressed directly to your machine, not to your service provider's computer for you to pick up later.
+
+And there is another, perhaps unexpected, benefit.
+
+Several different connections can be run at once through a SLIP/PPP connection.
+For example, I subscribe to a number of USENET newsgroups, but don't always manage to check into them as frequently as I would like.
+
+Consequently, when I sign on with my SLIP newsreader, I often find myself waiting while an apparently endless stream of message titles is passed across the connection.
+
+I could watch the process unfold and daydream, but if I'm busy, I want to proceed with my work.
+Perhaps there is an FTP site I'd like to extract a file from.
+With SLIP/PPP, I can engage the FTP client program and run the FTP session, transferring the file to my machine, at the same time that the USENET session is in progress.
+
+This is major magic; we don't need to know how it works, only that TCP/IP and SLIP/PPP can somehow untangle all the data being sent and received over a single telephone line and manage to carry through each session to a successful conclusion.
+Yes, you'll lose performance on the session operating in the background to some extent, but you have maximized your time.
+And it is certainly useful to keep the various applications you may need to use available as icons, to be called up whenever they are needed.
+
+And don't forget a final benefit of using SLIP/PPP.
+With a shell account, every time you want to retrieve a file by FTP or have it sent to you from Gopher , you are engaged in a two-step process.
+First, you give the appropriate commands to get the file, which is then transferred to your service provider's computer.
+
+Second, you use your communications software to download that file to your own machine.
+With SLIP/PPP, this two-step process is eliminated.
+The file you want from an FTP site comes directly to your computer, as soon as you activate the retrieval.
+Mosaic, as we will soon see, is a remarkably effective FTP engine, just as it makes it possible to view and retrieve files on any Gopher .
+
+Think of SLIP/PPP as having three layers of software with which it must work.
+First, there is the underlying TCP/IP software, which manages data in terms the Internet understands.
+Second, there is the separate SLIP/PPP software, which actually makes the connection to your service provider's access point and allows you to establish the necessary network connection.
+Finally, there are the client programs, which are the basic tools you use to perform network operations like FTP, Telnet, and electronic mail.
+Getting all three layers to work together can be something of a challenge, depending on the kind of equipment you use.
+But as we'll soon see, this situation is rapidly improving.
+
+Full Internet Access 
+
+SLIP/PPP provides you with everything you need to run Internet sessions over your telephone line while maintaining your own Internet address and running client programs on your own computer.
+To move into the truly fast lane of connectivity, you would need full Internet access.
+Here, rather than dialing a telephone number to activate your computer's access to the Internet, you are working with leased, high-speed fiber-optic lines.
+Large organizations such as research laboratories, corporations, and universities maintain wide-bandwidth data channels from the Internet to their own organizations, connecting to the net through specialized computers known as routers.
+In this way, a system administrator can serve the needs of a wide spectrum of users, distributing Internet resources throughout the organization.
+No dial-up process is required; the Internet link is available on these machines 24 hours a day.
+
+Using SLIP/PPP in an office network, on the other hand, you dial in to a machine known as a terminal server .
+This computer receives your incoming modem data and moves it onto your service provider's local area network (LAN).
+The provider's LAN, like that of any major network, is connected to the Internet by a router.
+
+You have wound up moving your data out and onto the Internet by router just as you would with a full Internet connection, but you are adding an extra step to the process (and limiting your performance in terms of speed) by moving your data through a modem and a telephone line.
+
+Dedicated access, then, makes for higher speeds in data transfer, a real bonus when using images and audio files, as Mosaic is wont to do.
+Rather than using a modem to establish the connection, dedicated access uses a network interface card (NIC)-which in most cases is an Ethernet card-inside your computer.
+The card is then connected to the office LAN, either by coaxial cable or twisted pair telephone wiring.
+The LAN is itself connected to the Internet.
+Because of the nature of this connection, the password you use with a SLIP/ PPP account and its accompanying user identification number are unnecessary.
+The company receives an overall bill for its monthly use.
+
+Naturally, with a full Internet connection, it is possible to run any client software you choose on your own machine, just as you can do with SLIP/PPP.
+Mosaic and all the other client programs are available, and the material in the rest of this book is as suitable for those with full Internet access as for those with SLIP/PPP accounts.
+Given the nature of the Internet's growth, however, I am operating under the assumption that you are either moving to a SLIP/PPP account to run Mosaic or that you already have SLIP/PPP.
+This describes the multitude of individual users now connecting to the net, as well as the small to medium-sized businesses for whom the Internet has yet to become a strong enough factor in their operations to justify the expense of a leased line and full access.
+
+Incidentally, if you are a SLIP/PPP user, you should take any chance you have to see Mosaic operating over a full network connection.
+The wider the bandwidth, the faster Mosaic works, and it can be a revelation to move effortlessly between image, text, and sound files with almost imperceptible delays.
+A SLIP/ PPP connection to the network cant deliver that kind of performance due to the limitations of the technology; in particular, we are held back by the ability of our modems to transfer data.
+
+This can make the program at times frustratingly slow-we begin thinking twice about clicking on large image files, for instance- but there are solutions to this problem that we will discuss later in this book.
+
+Implementing Slip/PPP 
+
+Whether you run a Macintosh or an IBM-compatible PC, SLIP/PPP connectivity is now easier to achieve than ever before.
+Many providers now make software packages available that handle the necessary TCP/IP connectivity.
+
+Your service provider should always be your first point of reference; obviously, your connection is best monitored through a close relationship between you and the provider's help staff (and this is one more reason why you want to be sure to pick a provider whose help desk is first-rate).
+Because installation can be tricky, SLIP/PPP is best set up using a service provider's instructions; the provider can then answer questions as they arise.
+
+Downloading and Installing Mosaic for Microsoft Windows 
+
+Ready to install Mosaic on your system?
+This chapter explains how, and operates under the assumption that you have already established a SLIP or PPP account with an Internet service provider.
+If you maintain only a dial-up, or shell account, Mosaic will not function on your system.
+Although you will be able to call up the program, the only resources it will be able to locate will be files on your own computer, rendering it useless as a network tool.
+
+The SLIP/PPP account, then, is crucial for anyone who wants to use a modem to run Mosaic.
+If, on the other hand, your company provides access by linking your office network directly to the Internet through a router, SLIP/PPP will not be needed.
+Because your connection already passes data packets directly between the Internet and your network, the essential connection has already been established.
+Such people can proceed immediately to download and begin working with the Mosaic software.
+This chapter shows how it's done.
+
+As you embark upon this process, realize that you are hardly alone.
+The National for Supercomputing Applications reports that its server has been seeing remarkable levels of use.
+In February 1994, for example, NCSA reported 1,153,843 connections to the Mosaic server.
+
+As of May 1994, more than 340,000 copies of Mosaic had been downloaded.
+The Internet Business Report notes that in April 1994, the total number of accesses to NCSA files was more than 6 million, a number that is impressive but overstated as an indicator of total Mosaic use, since most users will access more than one file in the course of a Mosaic session.
+
+Throughout the summer of 1994, interest built as more and more Web servers came on-line.
+
+No one can say for sure how many Mosaic users there are, especially since Mosaic devotees tend to download new versions as they appear, thus increasing the total number of downloads, but it seems reasonable to assume a number closing on half a million as we go to press.
+As you will see, this level of interest is good for the growth of Mosaic, but it can pose challenges for anyone trying to access the NCSA server during peak hours of use.
+In later chapters, we'll look at what you can do to help with this problem by customizing your copy of Mosaic.
+
+Where to Find Mosaic 
+
+As mentioned, there are numerous commercial implementations of Mosaic on the way.
+But the best way to begin working with the software is to download the generic product, which is free for the individual user.
+
+The National Center for Supercomputing Applications developed Mosaic, and its computers remain the place for you to find the most recent versions.
+We will use File Transfer Protocol (FTP) procedures to retrieve the package.
+
+A Word on Addresses and Directories 
+
+The Mosaic FTP site is a stable address, but the directory structure inside any site is always subject to change.
+I will give you the directories needed to find each version of Mosaic at the time of this writing, but if you access the site and find that these directories have been changed, the best way to learn where to go is to examine the initial FTP screen, which often tells you what you need.
+Run a dir command to see the subdirectories available, and look for any that contain the word Mosaic or else the name of your computer platform; that is, PC, Macintosh, and so on.
+Also look for any files called README or some variation thereof; these provide information on recent developments.
+
+The NCSA Server 
+
+Here is the address we want to reach: ftp.ncsa.uiuc.edu .
+
+The directory we need to access is /Mosaic .
+From this directory we will be able to move to the subdirectory that contains the version of Mosaic we need.
+Mosaic is available in versions for the Macintosh, for Microsoft Windows, and for the X Window System.
+- For the Microsoft Windows version of Mosaic, the directory is Mosaic/Windows ; the file name as of this writing is wmos20a6.zip; the numbers may have changed by the time you access the package, but the latest version will always be available.
+The file is compressed using the PKZIP utility from PKWARE, Inc., and will require the company's PKUNZIP to uncompress it.
+
+- For the Macintosh version of Mosaic, the directory is Mosaic/Mac .
+The file name at the time of this writing is NCSAMosaicMac.103.sit.hqx .
+This file is compressed with the StuffIt utility and then BinHexed to save disk space.
+To unpack it, you still need StuffIt Expander or a comparable decoding program. Download the program as an ASCII, rather than a binary, file.
+
+- The X Window System version of Mosaic is found in the Mosaic/Unix directory.
+Executable binaries are found in the Mosaic/Unix/binaries directory, where versions exist for IBM, Digital Equipment, Sun Microsystems, Silicon Graphics, and workstations from other major manufacturers (the binary files can be uncompressed using the gunzip file_name command).
+The complete source code distribution is found in a subdirectory here.
+
+
+
+Downloading Mosaic for Microsoft Windows 
+
+The NCSA FTP address itself contains the term ftp .
+To reach it from a shell account, then, our command would be as follows: ftp ftp.ncsa.uiuc.edu 
+
+Use anonymous as your login name, and your e-mail address as your password.
+What you will see when you download Mosaic will depend upon how you are accessing the system.
+I will show you the operation from two perspectives.
+First, I will retrieve the software using a standard dial-up, or shell, account.
+I do this because the transaction will be more obvious to those of you who are used to shell, rather than SLIP/PPP, accounts.
+By seeing how it proceeds through a familiar interface, you should then be able to relate the procedure to what you see when using SLIP/PPP.
+Then, I will show you the same process using a client program and SLIP/PPP connection to the Internet.
+
+Logging On at NCSA 
+
+Here is what the system looked like when I logged on recently through a shell account: xxx 
+
+The system leaves you at the ftp> prompt, ready to transact your business, the changing of directories and downloading of Mosaic.
+If you are using SLIP/PPP to download Mosaic, what you see on screen will depend upon the FTP software you are using.
+However, no matter what kind of computer you work with, the SLIP/PPP client will be more graphical than the character-based interface just shown.
+In Figure 3.1, I am using NetManage Chameleon as my SLIP/PPP software, running the FTP client program that comes with the package.
+
+I have entered the necessary address and made the connection.
+The NetManage client shows the directory structure available at NCSAs server in a relatively intuitive manner, with scrollable fields and the ability to click on a particular directory to move directly to it.
+I can use the scrollbar in the remote directory box to move to the Mosaic directory, clicking on it to call up a listing of files there.
+To actually download the file with this software, I would select it with my mouse and use the Copy button, making sure that my client program was set up for a binary file transfer, according to the on-screen buttons.
+
+Figure 3.1
+
+SLIP provides graphical features that terminal emulation lacks
+
+When the NCSA Server Isn't Available 
+
+The heavy user load placed on NCSA's FTP server understandably causes a logjam at certain times of day, when too many people are trying to access the system at once.
+If you try to log on at one of these times, you will encounter a message giving you a range of other possibilities.
+Here is an example of what the session might look like with a shell account: xxx 
+
+As you can see, there are a number of other sites that make Mosaic available.
+A mirror site is simply one that makes the same collection of software available that you would find at the central site.
+You can use any of these for downloading, but this book assumes you are retrieving Mosaic through the NCSA server at the University of Illinois at Urbana-Champaign.
+You should be able to do so by attempting the data transfer when it is early in the morning or late in the evening at the site.
+Perseverance pays.
+
+Downloading the Software through a Shell Account 
+
+Downloading Mosaic through a shell account is a matter of entering the basic get command followed by the file name.
+Again, be aware that version numbers change constantly; it may well be that by the time you read this, the file name has subtly changed.
+As I write, the current version number for the Windows version of Mosaic is 20a6, indicating that this is the fifth version of alpha release 2.0; the file name is wmos20a6.zip .
+By designating the release as alpha , incidentally, NCSA is telling us that not all the bugs have been worked out of the software; this version is still in its developmental process.
+The down side of this is that we will run into the occasional system crash.
+The upside is that we can participate in developing and testing Mosaic, having a real say in how the software develops through messages to the developers.
+
+You may see the file listed as wmos20a9.zip or something similar.
+The changes in number may be confusing, but just remember that the latest version will always be the one available in the NCSA directory.
+
+The file name for the Windows version will always include the letters wmos , short for Windows Mosaic.
+The compressed file will include, in addition to the actual program, various documents from the NCSA.
+
+Note that the Windows version is in "zipped" format, compressed to save on disk storage space (we will need to use PKUNZIP to uncompress it once we have it on our own machines).
+The file is binary in nature, so our first order of business is to tell the remote system that we want it to go into binary mode.
+(With the Macintosh version, it is not necessary to do this.
+The Mac file is ASCII in nature, and, as specified in the next chapter, should be downloaded with ASCII as the remote system setting).
+
+We can now give the transfer command: get wmos20a6.zip What we see should resemble the following: xxx 
+
+With a shell account, the file has wound up on our service provider's computer.
+We can then use sz or sx to transfer the program to our own machines.
+My command would be sz -b wmos20a6.zip , for example, or sx -b wmos20a6.zip .
+
+Downloading the Software through SLIP/PPP 
+
+The FTP client program we use with SLIP/PPP also lets us download the file, but with considerably less work.
+In Figure 3.2, for example, I am again using NetManage Chameleon to perform the task.
+Notice that the command to set the remote system into binary mode is managed here by clicking on the appropriate field, found at the top center of the screen and labelled as Transfer .
+
+The actual file download is simply a matter of clicking in the right places.
+To do it with NetManage Chameleon, all I need to do is to highlight the file I want to transfer.
+Whatever directory I am in, the files in that directory are shown in the lower Files field on the FTP screen.
+By highlighting one and then clicking the Copy button, I move the file to my own computer through the SLIP connection.
+Macintosh FTP clients use a similar point-and-shoot interface to perform the same functions.
+
+Figure 3.2
+
+Managing an FTP session with a SLIP client
+
+Downloading Win32s for Microsoft Windows 
+
+One way or another, we have downloaded Mosaic.
+But don't log off yet.
+Although we now have the compressed Mosaic file, we also need another file if we're setting up the system to run the Microsoft Windows version of Mosaic (Macintosh users won't need it).
+This is a compressed file containing the Win32s software.
+Windows 3.1 and Windows for Workgroups are 16-bit operating systems, but as of version 20a3, Mosaic for Microsoft Windows has been a 32-bit application.
+Win32s is needed to allow 32-bit applications like Mosaic to run in the 16-bit environment.
+The program, developed by Microsoft, is available to licensed users of Windows 3.1 and Windows for Workgroups.
+As of this writing, the latest release is version 1.1.5.
+
+It is possible that Win32s already exists on your system.
+
+This would be the case if you already run other 32-bit Windows applications.
+To find out if you have the software, look at your directory system.
+If there is a \windows\system\win32s directory, then the software is there.
+It is a good idea, however, to upgrade to the latest version.
+It improves the performance of 32-bit applications and also adds significantly to their stability.
+
+To get the Win32s software at NCSA, look in the Mosaic/Windows directory, where NCSA has packaged the software with an accompanying document and made it available in compressed format.
+The file name is win32s.zip .
+Download it to your machine using the same procedures already described.
+
+At present, the version of Win32s to use is 1.1.5a.
+
+Although this may have changed by the time you read these words, you should always be able to find the latest version of the file at the NCSA site.
+Be aware, too, that Microsoft makes the file available on its anonymous FTP server; you can find the file in the /developer/DEVTOOLS/WIN32SDK directory.
+The address there is ftp.microsoft.com .
+
+You should now have two files: wmos20a6.zip and win32s.zip .
+You are ready to proceed.
+
+Retrieving Compression and Decompression Tools 
+
+With Mosaic on your system, the next step is to unpack it and put it to work.
+As mentioned, the Macintosh version requires Stuffit Expander or a comparable decoding program.
+The Windows version, a "zipped" file, requires PKUNZIP.
+These common utilities are readily located throughout the Internet and other on-line services.
+If you don't already have a copy, you can download one from the following site: oak.oakland.edu .
+
+Connect to it using standard FTP methods and move to the pub/msdos/zip directory.
+You can also find the PKWARE utilities on the NCSA server.
+
+The file name at the time of this writing is pkz204g.exe .
+This is a self-extracting file, meaning that all you need to do to unpack pkz204g.exe is to put the program in its own directory and enter the command pkz204g.exe .
+
+The program will unpack itself and be ready for use.
+It is a good idea to put the directory in which you have placed the PKUNZIP program in your path statement so you can use the command in any directory on your hard disk.
+
+To use PKUNZIP to unpack a zipped file, simply give the command pkunzip file_name at the DOS prompt.
+(You can do this simply by invoking the DOS shell from within Windows and running PKUNZIP there.
+In this case, the command would be pkunzip wmos20a6.zip ).
+To unzip the Win32s package, the command is pkunzip win32s.zip .
+But don't do any unpacking yet.
+First, you have to set up the proper directories.
+
+Installing Mosaic for Microsoft Windows 
+
+- You should have Windows 3.1 or Windows for Workgroups loaded and running. 
+- You should have the Win32s software installed and configured.
+- Your system should be connected to the Internet through at least a SLIP/PPP connection.
+A straight shell account will not allow you to use Mosaic.
+
+
+
+Creating Directories for Mosaic and Win32s 
+
+Any installation procedure should be logical and methodical.
+To successfully get Mosaic running, take one step at a time.
+The first necessity is to create the proper directory structure on your hard disk.
+You will then unpack the software in the proper place and proceed with the installation itself.
+Once you have Mosaic and Win32s ready to go, swinging them into full Internet action is relatively trivial.
+But the groundwork has to be laid first.
+
+Your next step should be to create a subdirectory on your system where the Mosaic program will be placed.
+The name of this subdirectory is up to you, but for the purpose of this learning process, let's name it /Mosaic .
+From the DOS prompt, you could do this from your root directory with the command mkdir mosaic .
+But it will probably be easier to proceed from the Windows File Manager, by dropping down the File Menu and then choosing the Create Directory option.
+In Figure 3.3, I have pulled the menu down and am about to move the highlight to Create Directory.
+
+Choosing Create Directory will cause a dialog box to pop up asking for the name of the directory you wish to create.
+Simply enter the name of the directory and click on the OK button to create the new directory.
+
+You will also need a directory for the Win32s software-remember, Win32s must be installed before Mosaic can work under Windows 3.1 and Windows for Workgroups (the software is unnecessary if you are running Microsoft Windows NT).
+
+Creating this directory is managed slightly differently, however.
+First, you need to move the win32s.zip file into an empty directory.
+The name of this directory isn't critical, as the software will create its own new directories in the next step of this process.
+
+I decided to use my \testbed directory, where I try out new programs and manage operations like this one.
+You can create such a directory with the mkdir testbed command from the root directory at the DOS prompt, or else create it using Program Manager.
+Place win32s.zip in the \testbed directory and you will be ready to proceed.
+
+Figure 3.3
+
+Using Windows to create a directory 
+
+Unpacking the Mosaic Software 
+
+You'll now unpack both Mosaic and Win32s.
+Make sure the wmos20a6.zip file is in your \Mosaic directory (copy it there if necessary), and then run the PKUNZIP program.
+The command is pkunzip wmos20a6.zip .
+Because PKUNZIP is a DOS program, we will want to activate the Windows DOS shell to run the program there.
+You can do this by choosing the MS-DOS prompt icon from the Main program group in Program Manager.
+Once you have finished with your command, you can return to Windows by giving the exit command, followed by pressing the Enter key.
+
+If you examine the contents of your \Mosaic directory at this point, you should find the following files: 
+
+wmos20a6.zip file The original compressed file. 
+devnote.wri Notes regarding the current version of Mosaic. 
+faq.wri A useful, if very terse, list of Frequently Asked Questions about Mosaic for Microsoft Windows.
+install.wri A document from NCSA with information about the installation procedures.
+Use this to supplement information found in this book, particularly if the version number of Mosaic has changed since this book was printed.
+Be advised: NCSA documentation is sparse. 
+mosaic.exe The Mosaic program itself.
+A program that is ready to run is also known as an executable. 
+mosaic.ini A file that Mosaic uses to configure and initialize its operations.
+update.wri An update document about what is happening with Mosaic at NASA; it contains version enhancements and bug fixes.
+
+Installing Mosaic on a Macintosh 
+
+As with Mosaic for Microsoft Windows, Mosaic for Macintosh undergoes frequent on-line revisions.
+As of this writing, the latest release of the Macintosh product was version 2.0.0 alpha 6.
+Any alpha release is essentially a test version; users needing the fully developed, more rigorously tested version of Mosaic for Macintosh can download version 1.0.3, which was released in late January 1994.
+The choice if yours, but in this chapter, I illustrate the Macintosh take on Mosaic with the earlier version, which is more stable and more widely distributed.
+
+After you've become accustomed to version 1.0.3, you may well want to upgrade.
+Keeping up with rapid changes in Mosaic is often worth the effort, even if it occasionally results in problems.
+In particular, the forms feature available in Mosaic for X Windows and Mosaic for Microsoft Windows is to be supported in the alpha releases of Mosaic for Macintosh 2.0.0, but it is not available in version 1.0.3.
+Forms are HTML documents that can be filled in online; they hold great potential for expanding the Internet's commercial marketplace, and will see much future use.
+
+Equipment Requirements for Mosaic for Macintosh 
+
+Mosaic for Macintosh is considerably easier to install than its Microsoft Windows-based cousin, but some details must still be attended to for successful installation.
+In particular, note these equipment requirements.
+You must meet them to get the system running:
+
+System 7 or later as your operating system software. 
+MacTCP 2.0.2 or later.
+The developers recommend at least MacTCP 2.0.4 for the best results. 
+4 or more megabytes of RAM.
+As with the Windows version, the more memory, the better; 8 MB is preferred. 
+A hard disk. 
+
+Downloading Mosaic for Macintosh 
+
+To download the necessary Macintosh files, we use NCSA's FTP address: ftp.ncsa.uiuc.edu .
+
+We can download the program either through a shell account or through SLIP, using a client program running on our own Macs.
+Here's a quick look at both methods.
+
+Retrieving Mosaic through a Shell Account 
+
+Log in at the site as anonymous , using your Internet mail address as your password.
+The first thing to do is retrieve the README.FIRST file, which will contain any updated information about retrieving the Mosaic files from NCSA.
+To get the file, enter the command as follows: get README.FIRST .
+
+You can now give the bye command to end your FTP session.
+Review the README.FIRST file for any further information before proceeding.
+Any changes, for example, to the directory structure at NCSA would be listed here.
+At present, this file is found in the NCSA root directory.
+
+Now log back on to the site, using the same methods.
+You will want to move to the Mosaic for Macintosh directory, which is Mac/Mosaic .
+To get there, give this command: cd Mosaic/Mac .
+
+An ls command will show you which files are available in this directory.
+Below are the results of both commands: xxx .
+
+The file you need depends upon which version you choose to download: NCSAMosaicA6.68k.hqx Version 2.0.0 Alpha 6 for the 68K Macintosh.
+NCSAMosaicA6.PPC.hqx Version 2.0.0 Alpha 6 for the Power PC platform.
+NCSAMosaicMac.103.sit.hqx The current, fully released version of Mosaic for Macintosh.
+
+Whichever version you choose, remember that the numbers in the file names may have changed slightly by the time you read this.
+
+You will need to find and download one of these files to proceed; the file should be downloaded as an ASCII file.
+
+To ensure that you are in ASCII mode, type ascii at the prompt: xxx .
+
+The system responds with Type set to A , and you are ready to go.
+Your command to download the file is: get NCSAMosaicMac.103.sit.hqx .
+
+The file now winds up on your service provider's machine, from which you must download it to your own hard disk.
+
+Note that because of the compression and other file preparation, it will be necessary to unpack Mosaic once it is on your hard disk.
+You will need to unstuff it by using Stuffit Expander or another data compression program like Compact Pro.
+Simply drag the Mosaic file over to the Stuffit Expander icon and let the program do its work.
+You will now have the Mosaic folder on your desktop.
+
+Downloading through a SLIP/PPP Connection 
+
+If you are downloading Mosaic through an FTP client program like Fetch or NCSA Telnet, the procedure is simpler because of the graphical nature of the interface.
+It will be necessary to enter the site information and user ID; the latter, as stated, should be anonymous .
+The password should be your full Internet address.
+
+When you have reached the NCSA site, you will be able to move through the file directories to the Mosaic/Mac directory.
+Figure 4.1 shows you how this directory looks from the Fetch program.
+Other programs may sport a slightly different look, but the graphical nature of the presentation will be the same.
+
+You simply click on the Get File ... button and the file transfer will take place.
+Fetch relieves you of the need to set the file type; it handles this process automatically.
+With Automatic File Opening enabled, the file will be unpacked automatically.
+Mosaic will now be available on your hard disk.
+
+Mosaic by Mail 
+
+Be advised, too, that if you choose, for whatever reason, not to download the software using the NCSA FTP server, you can also obtain Mosaic through the U.S. Mail.
+The NCSA Technical Resources Catalog is available from the following address: xxx 
+
+Figure 4.1
+
+Using Fetch to display directory information at NCSA.
+
+Both software and manuals are available for purchase.
+
+Installing and Configuring Mosaic for Macintosh 
+
+Installation is a matter of dragging the Mosaic icon onto the appropriate position on your hard disk.
+If you have used Fetch or a comparable client to download the program, it has already been unpacked; if you've downloaded it through a shell account, you will need to unpack it with Stuffit Expander or a comparable program.
+
+A double click on the Mosaic icon should then allow you to call up the program.
+What you see on-screen should resemble Figure 4.2.
+Choose Preferences . . . from the Options menu to call up the screen shown in Figure 4.3.
+
+In the User Name: field, enter your name.
+Add your e-mail address to the EMail Address: field.
+Any information you wish to pass along to the developers of the Macintosh version of Mosaic will include this information.
+You will notice that the Home Page: field already contains an HTTP site.
+For now, leave this as it is, but later, you will want to return to this menu to change to a new home page.
+Our goal is to reduce the enormous load on the NCSA server, which is set as the default home page when you first start Mosaic.
+More on customizing Mosaic in Chapters 7 and 8.
+
+If you now click on Apply, you will be able to save the changes you have just made.
+But don't leave the Preferences menu just yet.
+
+Configuring Mosaic as Newsreader 
+
+You also want to enter information in the Newshost: field of the dialog box.
+This specifies the Internet address of your local news server.
+In my case, for example, I would enter the following address for my news server in the field Newshost: news-server@interpath.net .
+
+Your news host may look similar or it may consist of a series of IP numbers.
+In any case, you can get the information you need to enter here from your local system administrator.
+You will not need this information if you do not intend to use Mosaic as a newsreader.
+
+Figure 4.2
+
+The NCSA home page for Macintosh
+
+Figure 4.3
+
+The Preferences selection from Options menu
+
+Setting Up a WAIS Gateway 
+
+Mosaic for Macintosh as currently configured cannot talk directly to a WAIS server (only Mosaic for X Windows can do this, although the feature is to be added to the Macintosh version in the future).
+
+Instead, the program goes through a gateway that handles the different protocols involved and makes translations between them.
+This gateway is set up by default as the gateway at NCSA itself.
+The default is: www.ncsa.uiuc.edu:8001 which means that the WAIS gateway is running on port 8001 at the address listed.
+
+If you want to list a different gateway, you can do so in the space provided.
+This will not be necessary for U.S. users, but depending on the country you are accessing the Internet from, you may well want to consider changing the gateway to pick one closer to your own location.
+The need to use a WAIS gateway will eventually be abolished when future versions of Mosaic for Macintosh make it possible for Mosaic to talk directly to WAIS servers.
+The same is true of the Windows version.
+
+Currently, the WWW-WAIS gateways are frequently inoperative.
+Users of the X Windows version don't have this problem, because their program is capable of dealing directly with WAIS servers.
+
+Changing the Screen Display for PowerBooks 
+
+If you are using a PowerBook, it will make sense to change the screen display so that you can maximize your view of each document selected for the smaller screen involved.
+- Hide status messages by going to the Options menu and choosing the Hide Status Messages item. 
+- Hide the URL field by going to the Options menu and choosing Hide URLs. 
+
+
+Adding to Your Memory Partition 
+
+NCSA recommends that users set the Mosaic memory partition to higher levels than the default, which is 2 MB.
+The thinking here is that documents containing numerous inline images will need more memory than this; too little memory can cause the program to crash.
+1 Ensure that Mosaic is not running. 
+2 Click on the Mosaic icon in the Finder.
+3 From the File menu, choose the Get Info item.
+4 In the Get Info window, go to the Preferred Size: field, and change the number to its new value.NCSA recommends 4 to 5 MB. 
+
+
+Setting Up Mosaic Viewers 
+
+Like the Microsoft Windows version of Mosaic, Mosaic for Macintosh requires the installation of external viewers to enable you to get the most out of the software.
+You will also hear these referred to as helper applications.
+
+They handle launching the various file types, such as QuickTime movies and audio files.
+If your use of Mosaic is primarily text-based, you won't need to worry about viewer programs, but if you plan to take advantage of the full multimedia range of Mosaic, viewers become essential.
+
+Here are the basic file types Mosaic for Macintosh can be set up to handle, along with the programs currently recommended for using them: 
+
+GIF/JPEG images JPEGView
+TIFF images GIFConverter
+QuickTime movies SimplePlayer
+MPEG movies Sparkle
+AU sound files Sound Machine
+BinHexed files Stuffit Expander
+
+These are all shareware or freeware programs with the exception of SimplePlayer, which is a QuickTime viewer from Apple that comes packaged with QuickTime; it is also available on the NCSA FTP server.
+The best way to retrieve these programs is through anonymous FTP If you take a close look at the Mosaic for Macintosh home page, you will see that it incorporates a link called Quick Start.
+Follow this link and you will learn more about viewers.
+You can simply click on the viewer you need to download it to your disk.
+Figure 4.4 shows viewer information from this screen.
+Or, if you're in the mood to acquire the software through regular FTP, you might try this address: sumex-aim.stanford.edu .
+
+An alternative is: mac .archive .umich.edu .
+
+You will note, if you have any experience using FTP for Macintosh software, that these are major file archives for the computer.
+Each of the viewer programs comes with the necessary documentation to allow you to install it on your Macintosh.
+Remember, SimplePlayer is Apple Computer's QuickTime viewer.
+You can find this copyrighted program on the NCSA anonymous FTP server at ftp.ncsa.uiuc.edu .
+
+The Mosaic for Macintosh Screen 
+
+Figure 4.4
+
+You can learn more about viewers and download them from this screen. 
+
+Assuming you have installed your viewer programs and set up the few changes needed in the Preferences menu, you are ready to go.
+As with the Microsoft Windows version of Mosaic, the basic means of navigation is using the mouse to point at the resource you would like to visit and clicking on that resource.
+The stylized indicator at the top of the screen tells you that data is being transferred; status messages beneath it explain where you are in the data transfer process.
+You can use the arrows at the top of the screen to go back to a previous document and then return to the one you were just reading.
+The small house icon is used to return you automatically to the Home Page set on your Preferences menu.
+
+You will note that the screen display contains normal Macintosh features.
+As with the Microsoft Windows version of Mosaic, you use the scroll bar at the right of the screen to move up or down within the current document.
+
+The horizontal scroll bar moves left or right as necessary for the display of images, while text will generally wrap automatically to fit the screen size.
+You can alter the window by clicking the zoom box in the top right corner, which enlarges it to a full-screen display.
+
+The resize box at the bottom right-hand corner of the screen allows you to change the size of the window as necessary.
+Figure 4.5 shows an average screen with these features visible.
+
+To find linked data, look for material that is either underlined or set off by a contrasting color on your screen.
+A nice feature of the Macintosh version is that once you have looked at a particular screen, the links to that document change color, alerting you to the fact that you have already seen the material.
+Looking twice or more at hyperlinked information is a common aggravation of using the World Wide Web , and it's nice to see this ability to make the navigation process more directed.
+Another way to locate a hyperlink is simply to move the cursor over it; it should turn into a small hand symbol, as shown in Figure 4.6.
+Look for the symbol at the bottom left of the screen.
+
+Figure 4.5
+
+A typical Mosaic screen, showing the zoom box in the top right corner and the resize box in the bottom right. 
+
+The icon bar at the top of the screen is fairly self-explanatory.
+The title of the window in question is always displayed at the top center of the image; the Mosaic status indicator is the S-shaped symbol containing a small globe to the left that flashes while data is being transferred.
+Navigation buttons move you from document to document; the one pointing left goes to the previous document, while the one pointing right takes you to the next one.
+You will see the latter button dimmed unless you have moved back to a previous document first and now have the option to once again move forward.
+The small house symbol is, as mentioned, a quick way to reach your home page.
+
+Figure 4.6
+
+The cursor changes to a small hand symbol as it moves over a hyperlink. 
+
+By moving to the field next to the house symbol, you can pull down a list of sites you have visited during the current session.
+To the right of this field is the search button and field, which are used when sending queries for specific text to a searchable index of documents.
+
+Below the search field and at the far left of the screen begins the URL: field, which displays the Uniform Resource Locator of the current document.
+This field can be turned off using the Options menu if desired.
+Below the URL field is an area for status messages, which are displayed during document downloads; also, moving the cursor over a hyperlink will cause the URL of that hyperlink to be shown here.
+Status messages can also be turned off at the Options menu.
+
+Technical Support for Mosaic for Macintosh 
+
+NCSA provides technical support for Mosaic through e-mail.
+You can reach the Macintosh team at this address: mosaic-mac@ncsa.uiuc.edu .
+
+It is easy to use Mosaic itself to send this mail.
+Under the File menu, choose the Mail Developers option.
+You will not need to include any information about your system because Mosaic automatically adds the model of your Macintosh, operating system version, and other useful data that will help NCSA's developers isolate your problem.
+You can also send postal mail to the following address: xxx .
+
+And don't forget that abundant help exists on-line; in fact, given the rapid state of Mosaic development, the most up-to-date information is invariably to be found in this way.
+An on-line help manual, a user's guide to HTML and URLs, and a Frequently Asked Questions document for Mosaic for Macintosh are all available through NCSA.
+You can access these links quickly by invoking the Balloon Help menu, then choosing the MacMosaic Documentation option.
+
+Mosaic is not a difficult program to run, either in its Microsoft Windows or Macintosh version.
+The ideas underlying its operations are logical and consistent across the platforms.
+Figure 4.7 shows a Gopher as seen through Mosaic for Macinthosh.
+
+Notice that the same principles apply here, including using icons to flag files and directories.
+The third item on the Gopher menu list, for example, contains a question mark because it is a searchable index.
+
+Figure 4.7
+
+Viewing a Gopher through Mosaic for Macintosh. 
+
+Although we will be using the Microsoft Windows version of Mosaic predominantly in this book, translating between the two versions should pose no difficulties.
+It is more critical to understand what is happening as Mosaic works, and that means understanding the workings of the World Wide Web .
+We turn to that necessary background in Chapter 5.
+
+Mosaic and the World Wide Web 
+
+In the early days of desktop computing, the first spreadsheet that won over the business audience was VisiCalc.
+The idea that you could plug numbers into a document and let the computer automatically update all the resulting changes was revolutionary.
+Businesspeople who had never used computers before began appearing in computer stores asking a single question: "How do I get a VisiCalc?
+" Not understanding the nature of computers, or their dependence upon software, these potential users didn't know that a computer could become whatever software let it become.
+If it could be a VisiCalc, it could also be an Electric Pencil, a WordStar, a PowerPoint.
+
+How mutable these machines are, and how reflective of our individual needs, provided we learn how to tailor them correctly.
+Optimum computer use means understanding the distinction between applications and the processes that drive them.
+How pointless it would be if we were locked into a particular software program just because we assumed it was the only one our computers could run.
+And if we fail to understand how our operating systems serve as the intermediary between our computer hardware and our programs, we might easily miss some of the more useful features of those programs.
+It is hard to tweak and customize a system we don't understand.
+
+Mosaic offers a parallel.
+Unused to networking, novice users take the same approach to Mosaic that those early office managers took toward VisiCalc.
+They want Mosaic, because Mosaic is what they have been reading about in the press and seeing demonstrations of at trade shows and on television.
+And just as VisiCalc users needed to learn about CP/M, the operating system on which their software ran, to optimize their program, so Mosaic users need to understand the World Wide Web to get the most out of Mosaic.
+In this chapter, we look at that necessary relationship.
+The goal is to make the Mosaic engine more accessible by showing how it works with existing data.
+
+The World Wide Web 
+
+Begun as a way of sharing information among physicists, the World Wide Web owes its origins to developers at CERN (Conseil Europeen pour la Recherche Nucleair) -the European Particle Physics Laboratory north of Geneva.
+That the project has moved well beyond this initial audience is made clear by a home page dedicated to explaining the Web , wherein it is described as "... the universe of network-accessible information, an embodiment of human knowledge.» The statement is grandiose but, then, so is the project.
+
+Somewhere along the line it became obvious that the amount of information being made available over the Internet was almost ungovernably large, and that the World Wide Web offered a workable way of navigating across and through it.
+The huge growth in Web servers in the past two years demonstrates how decisively this idea has caught on.
+
+And well it might.
+The Web is seamless in a way no other network implementation has proven to be.
+It is, on the one hand, readily crossed and, on the other hand, frustratingly time-consuming.
+Its vision encompasses all the network tools we are familiar with, from FTP to Telnet to Gopher and archie .
+But the Web does more than offer a friendly interface to an otherwise inscrutable environment.
+By providing hypertext and hypermedia links between data, the Web also changes our understanding of proximity.
+The home page we are using at any given time may contain links both to a server down the street and a comparable machine halfway around the world.
+Our travels between them occur transparently; the object is not to master networking but to obtain information, no matter where it is located.
+
+Timothy Berners-Lee first developed the proposal that would lead to the World Wide Web in 1989, although his own work with hypertext as a model had begun as early as 1980.
+The Oxford graduate wrote the original application on the NeXT computer and developed the communications software that would make the project fly.
+We can take a look at the many people who have become significant in the fortunes of WWW by using Mosaic to retrieve a particular home page.
+
+Here is the URL: http://info.cern.ch/hypertext/WWW/People.html .
+
+You won't find a more talented bunch of programmers and systems designers anywhere.
+Some are at CERN, but as the Web has spread, so have its applications elsewhere on the net, and you will see from examining this page how diverse are its current sources of talent and inspiration.
+
+Background to Hypertext 
+
+What exactly is hypertext?
+Think about how you read a conventional book, like this one.
+Although it is somewhat different with reference books, you tend to read sequentially.
+You don't pick up The Pickwick Papers and read in random sequence if you hope to understand, much less enjoy, what is going on in the novel.
+And even with a reference work, you tend to read with a sense of sequential order.
+Perhaps you skip a chapter that doesn't appeal to you, or that contains information you already understand, but when you do approach a chapter you need, you read in consecutive segments, moving from one section to another, following the structure imposed by the author.
+
+Hypertext provides a different way of approaching such information.
+Rather than forcing you to read sequentially, it allows you to move between related items of information.
+This is not a novel concept.
+In fact, footnotes, bibliographical citations, and indices are all set up in conventional books precisely to allow you to move from one reference to another, following your own information needs.
+Think of hypertext, then, as a way of making this transition between data points simpler.
+
+Rather than turning pages or looking up chapter headings, you point to an item with your mouse and dick on it.
+
+Finding the embedded information is easy; the mouse click brings it across the network to you.
+
+An Example of Hypertext 
+
+Text can be turned into hypertext by setting up links to a given word or phrase and other information.
+Here, for example, is a passage from Shakespeare's Othello , wherein Othello discusses the effects of jealousy with Iago.
+Let's look at the text and consider what we could do with it if we moved it out of its printed book format and into the hypertext environment.
+I am going to set up hypertext links that will be shown by underlining; read on for the meaning of the links.
+We can click on a link to see the underlying information.
+
+The text seems straightforward enough; Othello is arguing that he is not, in fact, a jealous man (at this point, Iago has been feeding him a steady diet of questionable observations about Desdemona, his wife, in hopes of enraging him).
+But the text, being Elizabethan English, could use some support; modern readers will find terms they don't understand.
+We can provide that support with hypertext.
+
+Our initial italic emphasis falls upon the first word, Oth. -an abbreviation for Othello.
+Here we might provide the act, scene, and line information for the passage.
+We can then dick on the link to pop up a window with the information inside.
+We could also include basic plot information in that link, synopsizing the tale of Desdemona's wedding to the Moor Othello, a general in service to the state of Venice, and telling how the marriage was manipulated and destroyed by a jealous soldier, Iago.
+
+Look at line 5.
+There the word once is not only underlined, but is also in brackets.
+The underlining, again alerting us to the presence of a hypertext link, points up the nearness of further information.
+Here the link might be to a quote from the introductory remarks by G. Blakemore Evans, the editor of this edition of Shakespeare, about how he chose to mark particular textual questions in the edition.
+Clicking our mouse, then, on &lsqb;once&rsqb; , we might call up the following passage from his preface: The word "once," then, is bracketed in this edition because there is some question as to its validity; its usage is inferred rather than proven.
+Of course, we can capture this information through a conventional footnote; the information we gain is not made greater by hypertext, but it is made easier to locate, since we don't have to page through a paper edition to track down footnotes at the ends of chapters.
+
+With a hypertext editor, we can create links wherever we choose.
+When we run into an awkward word like "exsufflicate," we can create a hypertext link to its meaning, which seems to be "blown-up" or "inflated," although literary scholars aren't completely sure on the point.
+When we come to the name "Iago" we can open up an information link that would explain to someone who hadn't read Othello who Iago was.
+The reader then learns that this is a soldier who has been bypassed for promotion by Othello in favor of young Cassio.
+And that the plot of the play hinges on his revenge, as he creates the impression that Desdemona is involved romantically with Cassio, which causes Othello to strangle her in her bed.
+
+The choice of links is ours.
+Notice, too, that we are not limited to a single set of links.
+Should we choose to open a link explaining who Iago is, we could also embed links within that explanation to further information, providing background about Iago, or about his literary role as an emblem for jealousy and how critics see him in our time, and so on.
+Each set of links could lead us further and further into our subject, allowing for a homing in of interests that is more difficult with conventional texts.
+
+Starting with a single passage from Othello , we could theoretically advance into a presentation of opposing critical views, or an explication of life in Venice during the era of the play, or perhaps a page showing literary sources that Shakespeare used in his work.
+There is no limit on how deep we could go with the appropriate links, other than the patience of the people who produce them.
+
+Hypertext links must be carefully created.
+Any time we are examining a hypertext document, we are looking at information the way the editor of that document wants us to see it.
+Although hypertext gives us the initial impression of being a wide-open exploration of data, one we can tailor specifically for our own use, it is in fact just as arbitrary as any traditional text, in that the choice of links has been managed by an editor using hypertext tools.
+The process of building hypertext documents, arduous and time-consuming, is one that will be eased by the development of further tools to automate the process, but the human choices behind the links will always determine how useful a particular hypertext document will be.
+
+Now take a look at straight hypertext as found on the World Wide Web and viewed through Mosaic.
+
+In Figure 5.1, we are looking at a home page called Books On-line, Listed by Author.
+Each of the books is underlined and, if you were using a color monitor, each would also appear in blue; both forms of marking indicate the presence of a hyperlink.
+Clicking on Beowulf yields the document seen in Figure 5.2.
+
+This is straight hypertext, meaning we are looking at single links to deeper information.
+The Beowulf text itself contains no further links.
+The only navigation possible at this point is to go back to the initial on-line books page, from which we can choose another book.
+Hypertext can serve as an intelligent table of contents that takes us directly to where we need to go and back again.
+
+The Onset of Hypermedia 
+
+Figure 5.1
+
+A simple hypertext page, with links to various on-line books
+
+Figure 5.2
+
+Taking the hyperlink to Beowulf
+
+Hypertext, originally billed as a new way of reading books and other forms of text, will probably always have a useful function in information navigation.
+But the big news of the past two years, corresponding to the growth of the World Wide Web during that period, is the emergence of hypermedia .
+
+By hypermedia, I refer to linked data that is not just textual in nature.
+In the Shakespeare example, it would be possible to create a hypermedia environment in which, with a mouse click on the appropriate link, we could take a visual tour of the Venice of Othello's time to help clarify the issues of the play and bring its cultural dimensions into perspective.
+Perhaps further links could reveal works of Venetian art, while others might lead to snippets of appropriate music.
+
+That this hypermedia model has taken off is confirmed by other events in the computer world.
+Look at the prevalence of CD-ROM titles, which, in the past year, have begun to live up to the initial sales expectations of their proponents.
+An application like Microsoft Corporation's Encarta is a multimedia encyclopedia.
+The multimedia aspect derives from Encarta's ability to display text as well as photographs, moving pictures, sounds , and animation.
+But the essential navigation tool made available in such an application is hypermedia.
+An article on Mauritius, for example, provides textual information about the island's history and geography.
+But a small speaker symbol alerts you to the fact that the story contains audio -you can hear the mane "Mauritius" pronounced- while other symbols tell you it's possible to view its flag or listen to its national anthem.
+All of these actions take place as a result of hypertextual linkages.
+Click on the relevant symbol and the hypermedia link launches new information.
+
+Mosaic, likewise, is a hypermedia tool.
+As we saw in Chapter 1, numerous applications, from O'Reilly and Associates Global Network Navigator to museum exhibitions like the Library of Congress Vatican Library display, use hypermedia links to make it possible to view information in a new way.
+The only drawback to hypermedia is that, over a SLIP/PPP link, which most upgrading dial-up users will be using, the downloading of complicated imagery can take time.
+But we will also learn in Chapter 8 that there are ways of speeding up Mosaic, allowing us the best of both worlds.
+
+And, as viewer software and the links between Mosaic and these programs become more sophisticated, the process of acquiring remote data will offer greater rewards.
+
+Browsing Tools with the World Wide Web 
+
+Given this powerful hypermedia infrastructure, we need to find effective ways to tap it.
+We are looking for client programs that serve the same function with the Web that they do with any other Internet tools.
+a good client program is one that makes the underlying Internet application easy to use while retaining its power.
+Client programs that have been developed for the World Wide Web are known as browsers .
+Browsers exists for virtually all computer platforms, from X Windows UNIX systems to Amigas, from Macintoshes to the NeXT computer and, of course, the ubiquitous IBM-compatible PC running DOS and Microsoft Windows.
+
+Let's pause for a moment on the word "browser".
+The term makes sense, because the Web allows us to browse through broad libraries of information; an analogy might be to my journeys to used bookstores (a favorite haunt), where I wander up and down the shelves looking for anything that might catch my eye.
+This process is not, strictly speaking, searching.
+A search tool is one that allows us to target information and specify exactly what we want; a search finds our goal with pinpoint accuracy.
+There are client programs on the Internet that do precisely this (or, at least, make some attempt to do so).
+These are tools like archie or Veronica and, to a certain extent, WAIS .
+Explain what we need and the software searches.
+
+The Nature of Browsing 
+
+The Web is not a search tool but a browsing engine.
+Indeed, one of its frustrations is this very fact.
+Suppose I am looking for information about a work of Chinese literature called The Art of War by Sun Tzu.
+The book has been widely reprinted and used as a business text by aggressive managers hoping to draw Oriental philosophy into their own business practices.
+With the Web as diverse as it has become recently, it is possible that some information about this work exists, but how would I find it?
+Until recently, there was no way to start at the top and simply announce to the Web : Find The Art of War .
+Instead, I would have to browse, starting, perhaps, at a site like CERN, where a subject catalog can guide me through what is available on the Web .
+I would then progressively refine my choices until I found just what I was looking for, in the process perhaps devoting my entire morning to the job.
+
+And indeed, I would eventually run across the relevant address: URL:http://biomed.nus.sg/CM/cweb/sunzi/xx/sunzi.xx.html .
+
+Having this address, I could then go directly to the site.
+But the process that uncovered the address was a lengthy one, involving browsing rather than searching.
+
+All this is beginning to change, incidentally, with the appearance of new search mechanisms applicable to the Web that well discuss in Chapter 9.
+But it should explain why the early term for Web client programs was "browser,» and why they are still referred to as such today.
+Mosaic, perhaps the ultimate Web browser, works with information available through the World Wide Web infrastructure, repackaging that information to add a remarkable graphic dimension that most other browsers lack.
+
+The www Browser 
+
+Figure 5.3, for example, shows us a Web page devoted to explaining how the Web works.
+Here we are looking at the site through a browser program called www , which is character-based and cannot display graphics.
+It is optimized to run over a VT-100 terminal-based link, as would be normal with a standard dial-up connection.
+
+Notice that every link is displayed with boxed numbers following the text, rather than Mosaic's underlining and color changes.
+We enter the number, followed by the Return key, to move to that link.
+
+Figure 5.3
+
+The basic www browser shows links as numbers that you must enter to move to the site
+
+Make no mistake about it, www is a full-featured browser, one that allows us to access numerous features of the net.
+But as we can see, it does require that we enter a number of commands to make it work.
+Usefully, major commands are laid out at the bottom of the screen, while others are provided through the help system.
+We are a long way from the simplicity of the point-and-shoot, mouse-driven environment with www .
+But the information we are dealing with through the World Wide Web remains essentially the same.
+wow sits atop the Web and exploits its resources.
+
+The tynx Browser 
+
+Now let's take a quick look at the lynx browser, which is another approach to presenting World Wide Web information without embedded graphics or other such niceties.
+If we examine Figure 5.4, we see the same document that we just looked at through the www browser now displayed by lynx .
+The content of the text has not changed.
+What has changed is the appearance of the text.
+Although we can't see it in black and white, a color image would reveal that certain areas of the text were highlighted in blue, while the rest of the text is black.
+The presence of the blue text reveals hypertext links in the document.Inset images are set off with the bracketed word &lsqb;IMAGE&rsqb;.
+And along the bottom of the screen, as with the www browser, we have available a series of the major commands.
+
+If we were to work for long with lynx , we would find it a powerful browser for anyone using VT-100 emulation in connecting to the Internet.
+But as with www , we are only seeing part of the story.
+We miss out on the immediately available graphical niceties, including both images and text formatting, that make using Mosaic such a pleasure.
+The flip side of this is that both www and lynx are fast.
+Moving between pages in either of their environments is a relatively speedy process, because we don't have to wait for the software to process lengthy image or sound files.
+
+The Mosaic Advantage 
+
+The contrast between Mosaic and these character-based browsers could not be more apparent.
+In Figure 5.5, we examine once again the page in question, a seminar about the World Wide Web prepared at CERN.
+
+Again, we find the same text, because we are accessing the same information source.
+But this time, we note that, with Mosaic's help, we can see much more.
+The document in fact, turns out to be an illustrated guide to the World Wide Web .
+Its imagery supports its text in a way that is impossible with either the www or lynx browsers.
+
+But, again because of that imagery, we do note more of a lag time in calling up the page; at least, we do if we are using a SLIP/PPP connection over the telephone lines, rather than a high-speed direct network connection.
+
+Rich as it is, Mosaic is thus revealed as one in a series of browser programs.
+It would be a mistake to see it as a stand-alone application.
+Like any network tool, it is a client program that works with other computers to make information resources available in a distributed environment.
+By distributed, I simply mean that the resources it uses are part of a network that is worldwide in scope; we can use a browser to tap into any of them, no matter how near or far.
+The people behind other graphical World Wide Web browsers wouldn't agree that Mosaic is the Internet interface of the future, pointing out that their tools, like Cello or MacWeb , possess virtues of their own.
+But it is clear that out of the entire universe of browsing engines, Mosaic has developed a momentum all its own.
+
+World Wide Web Terminology 
+
+Perhaps the most intimidating of the Internet's numerous demands on the newcomer is the need to master its terminology.
+We computer people tend to speak in acronyms and various forms of shorthand when referring to resources, sometimes forgetting how mystifying these can seem to the novice.
+Particularly baffling are the long addresses that are used to specify resources in the World Wide Web environment.
+It's time now to explain these, and also to run through terms you'll likely encounter as you prowl through this information system.
+The Web has a series of terms all its own.
+You needn't become an expert in any of these to use Mosaic, but understanding what they mean will give you a conceptual background that can help in your travels.
+
+Making Mosaic's Tools Work 
+
+At the heart of the Internet are three major applications; ironically, the third of them was an afterthought.
+It was obvious from the beginning that there had to be some way to transfer files between computers; this was achieved using FTP, or File Transfer Protocol.
+Just as obvious was that it should be possible for a remote researcher to take the controls of a computer and tap its resources, such as databases or other information manipulation tools, no matter how far apart the two computers were.
+And that, thought researchers in the early 1970s as they built ARPANET, ought to about do it.
+
+ARPANET was the Internet's precursor, designed as an experimental platform to see whether information could be sent back and forth in the form of data packets.
+The system would allow for redundancy, because any data packet might take any number of conceivable routes to get to its destination.
+Defense Department analysts liked that; it implied that in the event of a catastrophe like nuclear war, the nation's computers would still be able to talk to each other even if a sizable chunk of their communications infrastructure were destroyed.
+Later, we came to see this redundancy as a superb means of moving data safely.
+If one link goes down, who cares?
+The data travels by another.
+
+The third Internet protocol was electronic mail, and it was something of a surprise to early designers.
+It had never occurred to them that people might want to start sending messages back and forth across this network.
+But the steady growth of messaging soon made it clear that e-mail would be a prime mover for researchers, who found all the benefits of e-mail that we take for granted today-it's quick, it's asynchronous (the person doesn't have to be on the other end to receive your message, which is kept in a mailbox until it can be read), and it's easy to fit into a work schedule that already includes plenty of computer time.Mosaic is good at handling two out of the three protocols.
+It is electronic mail that is the trouble spot.
+A primitive e-mail feature already exists inside Mosaic, and it is used to return comments to developers at NCSA so they can keep records of bug reports and attempt to fix them.
+We can assume that future versions of Mosaic will come with vastly expanded mail capabilities, and certainly this is one area that commercial Mosaics, licensed from NCSA, will take as their point of departure.
+For now, as you will see, Mosaic presents little to charm the heavy e-mail user.
+But wait until you see what it can do with FTP and Telnet! 
+
+File Transfer Protocol through Mosaic 
+
+While e-mail is generally how we begin to use the Internet (it's relatively simple, and provides dramatic proof of our new-found connectivity), FTP is what takes us on our first journeys.
+The thrill of FTP is that it lets us log on to remote computers to retrieve files.
+
+Millions of computers throughout the world contain information, and a certain subset of these, thousands of them, make all or part of their information available to the general public.
+We can log on to such machines using any FTP client program and examine the holdings there.
+
+When we want to retrieve something, we only have to specify what it is, and we are soon receiving the file.
+
+It could be a document, a program, an image, or even a sound or movie file.
+
+Anonymous FTP Illustrated 
+
+When a system administrator places computer resources into a public area on a server computer, the materials made available can be reached by following a certain convention.
+We want to log on to the server with the user name anonymous .
+Entering this as our user name tells the server computer that we are trying to access the publicly available areas of the server's holdings.
+We are then asked for a password.
+The password we enter should simply be our e-mail address.
+Using a UNIX shell account, the procedure is relatively familiar.
+
+It looks like the following: xxx .
+
+Notice that, as with any shell account, we are forced to do the hard work ourselves; that is, we must enter command information to tell the system what to do.
+You can see that I have entered anonymous as my user name; the password doesn't show up (for security reasons), but I have typed in my e-mail address, followed by a Return.
+I have then been given a screen full of information about the server I have contacted (this is one of the major software repositories available on the Internet).
+I have given the cd pub command to be sent to the pub directory.
+There, I am sitting at a prompt while the system waits for me to act.
+
+Now let's look at the same session as run through Mosaic.
+
+The difference, as well see, is striking.
+Perhaps most obvious is that, when we want to go to a particular destination, we need to enter the appropriate URL (Uniform Resource Locator).
+To do so, we need to open the File menu, as shown in Figure 6.1.
+
+We will want to click on the top item, Open URL... , which will pop up a dialog box as shown in Figure 6.2.
+The information in the dialog box is straightforward.
+The URL: field tells us the current URL; remember, this means the location of the document we are currently looking at on-screen.
+The Current Hotlist: field tells us that if we add a URL to our hotlist (more about how to do this in the next chapter), that document will be added to the Starting Points menu at the top of Mosaic.
+We can see the Starting Points document shown in the field to the immediate right of the URL: field.
+If we were to click on the down arrow in the dialog box here, it would result in a list of the other URLs in the Starting Points menu, and we could choose any of them as the URL to which we wanted to go.
+
+For now, though, we are concerned with the URL: box.
+
+Putting the cursor into that field and clicking will cause the current URL to be highlighted in blue.
+
+Figure 6.1
+
+Pulling down Mosaic's File Menu
+
+Figure 6.2
+
+The Open URL dialog box
+
+Anything we then type will supersede the URL that is already there.
+To move to an FTP site, the syntax is simple.
+We use a URL set up in the following way: ftp://site_address/directory/ 
+
+So, for example, if we want to go to the FTP site at oak.oakland.edu, we would simply enter this URL into the URL box: ftp://oak.oakland.edu/ 
+
+If we wanted to proceed directly to the pub directory, we could give this URL: ftp://oak.oakland.edu/pub/ 
+
+In Figure 6.3, you can see the result of opening the first of these URLs, which places us in the FTP server's root menu.
+Take a close look at this figure now.
+
+The immediate difference between using Mosaic as our FTP client and going through a shell account to perform the same operations is the graphical ease of using Mosaic.
+We have at our disposal the directory structure at the site, laid out using graphical symbols that make it easy to visualize where we are (getting lost when using FTP through a shell account is a common phenomenon).
+Notice also that we have different symbols depending on the resource we are examining at the time.
+Text documents like README , for example, are shown as miniature pages with the corner of the leaf turned down.
+
+The rest of the items are shown as tiny folders; these indicate directories.
+All of these items are underlined.
+
+We know now that the underlining indicates the presence of a hyperlink; there is, therefore, more information behind each of the symbols, available through a dick of the mouse.
+
+Figure 6.3
+
+An FTP directory as seen through Mosaic
+
+And did you notice how easy it was to get in?
+Rather than being forced to type in the word anonymous and then our password, we find that we move automatically to the directory we have specified Mosaic has handled the login process for us.
+
+Changing Directories with Mosaic 
+
+So far, so good.
+Mosaic lets us read information on-screen.
+But let's now choose a directory.
+I will move the cursor to the pub directory (the cursor turns into a small hand symbol, revealing the hyperlink).
+
+Clicking on this directory item causes the screen to change as we move to the directory.
+The change is shown in Figure 6.4.
+
+Figure 6.4
+
+By following a hyperlink, we move quickly to the directory we specify
+
+Once again, we have the directory tree, this time starting with the Pub directory, which is shown at the top of the screen, and illustrating the various subdirectories beneath it.
+Directly under the Pub statement is a useful item: Up to Parent Directory.
+The underlining tells us that this is a hyperlink.
+If we were to click on it, we would move back to the directory immediately preceding the current one.
+
+To do this with a shell account would require a command such as cd .. to achieve the same result.
+And, of course, we would have to manually enter this command.
+
+Reading Files at the Site 
+
+It is possible, no matter how we access an FTP site, to read a document onscreen or to retrieve it.
+Let's pause for a moment to read the README file onscreen.
+To do this with a shell account would require a complex command (something on the order of get file_name "/more" -one mistake in syntax would force you to type the entire sequence again, but if you did it right, the document would be placed into the more viewer, a UNIX program, and you could read it page by page on-line).
+With Mosaic, the procedure is simpler.
+We simply click on the file in question.
+The result is shown in Figure 6.5.
+
+Figure 6.5
+
+Reading a text file on-line
+
+The ASCII file soon pops up on the screen.
+Notice that, if it were a multipage document, we could move around in it by using the scroll bar to the right of the screen.
+
+And once we have finished reading it, we can look to the icon bar at the top of the screen, where we see two buttons, one with a left-pointing triangle, one with a triangle pointing to the right (well examine the rest of the Mosaic toolbar in Chapter 7).
+Choosing the one pointing to the left and clicking on it takes us back to the previous screen, which in this case is the root directory at oak.oakland.edu .
+Click on this item now.
+
+Mosaic and File Compression 
+
+We have just seen how Mosaic can display a text file on-screen.
+But this program can do more.
+The beauty of this browser is that it understands how to interpret the different types of files it encounters.
+Numerous text files on the Internet are compressed to save disk space, usually employing the UNIX compress command, as well as the gzip commands from the Free Software Foundation.
+If we were to click on such an item, Mosaic would decode the compression and display the file on-screen for us to read it.
+
+But note this: The program doesn't do well with files that contain two or more extensions.
+In particular, files with listings like info.tar.Z cannot be read in this way; such a file is set up as a file archive (thus the tar suffix) and has been compressed (as shown by the final Z.
+We can retrieve this type of file, but rather than reading it on-screen, we would have to load it to our own hard disk and then unpack it.
+More about this procedure in a moment.
+
+In Figure 6.6 we have located a binary file that has been compressed, in this case using PKWARE's PKZIP program (we know this because the file extension is .zip ).
+
+The file's URL is: file://oak.oakland.edu/pub/msdos/windows3/abcWin31.zi p .
+
+It's the sixth file down from the top in this directory listing.
+Notice here that, once again, we are using icons to help us do our job.
+The few text files available in this directory are shown without an icon, whereas all the others are shown with an icon that tells us we are dealing with a binary file.
+
+Although Mosaic can display some formats of compressed text files, it can do nothing to display a compressed binary file.
+And, in any case, although it can display text files that have been compressed with the UNIX compress program and the gzip program from the Free Software Foundation, it cannot understand other forms of compression, like PKZIP.
+For these, we have to explore the various options for loading files to our own hard disks.
+We examine these next.
+
+Saving Files to Disk 
+
+Suppose we want to save a text file for later use.
+To do so, we can pop down the File menu, and look for menu items marked Save and Save As....
+Choosing the first saves the file under the name it already contains.
+But since we are using a Windows system and may well be looking at a text file with a UNIX style name (hence, it may contain more characters than are permissible in a DOS file name, or multiple extensions, or other problems DOS can't handle), we would probably choose to change its name.
+We can do this through the Save As ... command.
+
+This pops up a dialog box showing the file as currently named, and allows you to change the name and set up the directory in which it will be stored.
+
+Figure 6.6
+
+A listing of compressed and text files in a subdirectory at the FTP site
+
+All of this comes with a strong proviso, however.
+If you are using the Macintosh version of Mosaic, the process is seamless.
+You will choose the Save As ... option from the File menu, and will be given a dialog box that gives you the opportunity to save the file as straight text or in HTML format.
+Unfortunately, the Windows version does not yet, at the time of this writing, support this feature.
+It will though, and by the time you read this, the feature may already be included.
+But if it is not, here is what you can do: 
+
+Pull down the Options menu, as shown in Figure 6.7.
+
+Select the first item, Load to Disk, and click on it.
+Verify that a check mark now appears alongside this item when you pull the menu down again.
+This is a toggle switch; in other words, once you have clicked on the item, the check mark stays there to show you the option is still active.
+You will have to dick it again later to turn this option off.
+
+Move to the file you want to read and click on it.
+The file will not appear on-screen.
+Instead, you will receive a dialog box, as shown in Figure 6.8.
+
+You can now rename the file as necessary and put it in whichever directory you choose.
+The file will be available for printing or editing.
+
+Pull the Options menu back down and click once again on the Load to Disk option.
+This turns off the option.
+If you fail to do so, Mosaic will attempt to load any future item you click on to your disk.
+
+Figure 6.7
+
+Mosaic's Options menu, showing the Load to Disk Menu item
+
+There is a handy keyboard shortcut that users of Mosaic for Microsoft Windows can use to avoid the problem in step 5.
+If you point to the file you want to retrieve and use a Shift-click combination (that is, hold down the Shift key and click with your mouse on the file in question), it will be transferred to your disk.
+Better still, the transfer will occur only for that file.
+The next hyperlink you access will display normally.
+This saves you from multiple menu accesses to turn the toggle switch on and off.
+Macintosh users need only click on the file they want to retrieve, which will cause the Save File dialog box to appear.
+
+Figure 6.8
+
+This dialog box allows you to enter information about the file name and directory of the file you are downloading.
+
+You will notice one difference between Mosaic and other methods of FTP retrieval.
+Mosaic makes no provision for multiple file downloads.
+With a shell account, I could use the mget command followed by file names to retrieve the files I needed.
+With Mosaic, I must go one file at a time.
+
+Mosaic and Other File Types 
+
+Mosaic's ability to work with a variety of file types makes using it with FTP a snap.
+All you have to do is point to the item we want and click on it.
+You have already seen that if this item is a text file, the file will be displayed on-screen.
+You also know that there are ways of working with compressed text files (at least in some formats).
+
+But there is more.
+Suppose you encounter a GIF file on-screen at an FTP site.
+If you want to see this file, all you have to do is to click on the file name.
+The file will be transferred and will then appear on your screen, run through the appropriate viewer.
+The same is true of audio files.
+Again, the mosaic.ini file comes to your rescue by providing the pointers to the appropriate viewers.
+Note how useful this capability is.
+By allowing you to link to external viewers, Mosaic frees you to set up file types and view them without regard to the resources actually built into the Mosaic program.
+This ability to juggle other software adds considerably to Mosaic's flexibility.
+
+Again, however, the question arises as to how to save files like these.
+Mosaic normally doesn't save audio and video to disk; it displays or plays them for you.
+You have to tell the software if you want to save a particular file.
+To do so, you again must use the Options menu and once again click on the Load to Disk command (or else use the Shift-dick shortcut); the Macintosh version also requires you to use the Load to Disk command.
+Doing so pops up the same dialog box you have just seen (or its Mac equivalent), allowing you to rename the file if necessary and set up the directory in which you'd like to locate it.
+Mosaic will not display the file in question, but it will save it so that you can play it later on your own.
+
+Needless to say, this can be a time-consuming process, whether you intend only to display or also to download and save a file.
+Fortunately, the Windows version of Mosaic provides you with the information you need about file size in parentheses after each file name.
+This makes planning ahead possible; you don't get stuck in a half-hour download of a file you were only mildly curious about.
+But always be sure to check those file sizes for precisely this problem.
+
+Using Mosaic With Telnet 
+
+Telnet is the second of the Internet's big three protocols, and the one we will use in manipulating the resources on remote computers, such as databases.
+The range of information available through Telnet is nothing short of remarkable, and growing all the time.
+With Mosaic, we can use whichever client program we choose for Telnet.
+Mosaic will call upon this client to run the Telnet session.
+When we are through, it's a simple matter to return to Mosaic.
+
+Opening a Telnet URL 
+
+Recall that in Chapter 3 we edited the mosaic.ini file to set up a Telnet viewer.
+Since I am using NetManage Inc.'s Chameleon software, for example, my mosaic.ini file contains this line: telnet="c:\netmanag\telnet.exe" .
+
+The information appears in the &lsqb;Viewers&rsqb; section of the mosaic.ini file.
+At this point, you should make sure your own mosaic.ini file contains the necessary pointer, or your attempted Telnet sessions will fail.
+
+To open a Telnet session with a given site, pull down the File menu and select the Open URL ... option.
+Type in the uniform resource locator of the document you are after.
+The syntax for Telnet is as follows: telnet://site address.poff/ .
+
+The port address is optional; you only use it if the Telnet server you are trying to reach uses a nonstandard port.
+If it does, you will know this because the address will have a string of numbers after it, as in this address: culine.colorado.edu 859 .
+
+Such an address would have the following URL: telnet:l/culine.colorado.edu:859/ .
+
+A straight Telnet address using standard ports has no numbers after the address.
+Thus, the address michael.ai.mit.edu appears in URL form this way: telnet://michael.ai.mit.edu/ .
+
+A Sample Telnet Session 
+
+Let's open a sample Telnet session with the address just given.
+To do so, we pull down the File menu, choose the Open URL ... option, type in the address, then click Ok (or else press the Return key) when we are finished.
+The Telnet screen should then appear as shown in Figure 6.9.
+
+Notice what has happened here.
+The Telnet application has appeared in a window of its own, called up by Mosaic when we typed in the correct URL.
+The Telnet session itself is now running in that window; as you can see, we have connected to MuseNet, the Multi-User Science Education Network, with access to various interactive computer environments.
+The interface is straight VT-100; we are running a Windows session using a Telnet program through the help of Mosaic, but we do not receive the graphical support we have grown accustomed to with other Mosaic tools.
+Nonetheless, the Telnet capability is here; we can use Mosaic to launch the Telnet session as readily as launching the Telnet program separately, with the benefit that we don't have to leave the Mosaic program to do it.
+
+Figure 6.10 shows another Telnet session in progress.
+I have opened the following URL: telnet://libserv.msstate.edu/ .
+
+The figure shows the initial screen at Mississippi State University's library.
+
+Exploring Mosaic's Menus 
+
+Although Mosaic makes network navigation simple by offering hyperlinks to data, the program contains numerous features that aren't immediately obvious.
+Some of these are tools you will find extremely useful.
+The ability to create annotations, for example, is frequently untapped; in this chapter, I will explain how that feature works, and show you how Mosaic can customize your Internet travels in ways you would not have imagined.
+
+Think of a digital, networked rolodex with notes only you can see, wherever you want to put them.
+Imagine all this built into your network browser instead of handled through external programs.
+
+Then there is your ability to set up a hotlist, containing places you want to go to repeatedly on the Web .
+You know that URLs specify the location of specific resources; you've also seen that they are unwieldy.
+Make a single mistake typing in a URL and you will receive nothing but an error message.
+
+Fortunately, Mosaic makes it easy to add the current document URL to your hotlist so you can return there quickly.
+The program also allows you to tinker with its menu structure to create an individualized navigation tool.
+Find that you don't visit many of the sites set up for you when you first run Mosaic?
+This chapter will show you how to change them and build feature-laden menus of your own.
+
+We will consider the menu structure of Mosaic with care.
+
+Some functions are more obvious than others, but for the sake of clarity, we'll take a look at each of the pull-down menus the program offers to consider how they function.
+The emphasis is on the Microsoft Windows version of Mosaic, but the Macintosh version is very similar (and Ill note areas where some differences do occur).
+Once we master Mosaic's menus, we're ready to customize the program further by tinkering with some of the more arcane functions of the mosaic.ini file, as explained in Chapter 8.
+
+Mosaic Annotations 
+
+I was once a hapless graduate student working on a project that threatened to consume every spare moment of my time for years to come.
+Specifically, I needed to make note cards.
+The idea was to create one note card for every single line of Anglo-Saxon poetry that was extant.
+
+Ending in 1066, the AngloSaxon period in Britain was not hugely prolific in poetry, but some 30,000 lines of verse do remain, all of them in challenging, alliterative meter.
+My job was to catalog them, one by one, to figure out how the meter worked.
+Stop for a moment, and visualize 30,000 notecards.
+Is it any wonder I wound up writing about computers instead? 
+
+One of the things we should be able to turn our computing power toward is the simplification of such processes.
+
+Software programs like InfoSelect (from Micro Logic Corp.) make this possible on stand-alone machines by creating electronic notecards that can be readily cross-referenced.
+You can enter a search term that might appear anywhere on a given card and the software will take you directly to the card.
+We now need to extend such capabilities into the environment of networked information.
+Obviously, the Web is the place to do this, because it is built up of information that is already hyperlinked.
+
+Along comes Mosaic, with one of the Internet's best ideas-a way of referencing networked documents by adding private notes to them.
+Anyone can see the document our note discusses, but only we can see the note.
+Thus, we create a bridge between the universe of public networking and the individual desktop.
+We make it possible to think in terms of a personalized Internet environment, one that we can modify through our annotations and further customize by our choice of frequently visited sites.
+The ramifications for business are obvious, for a customized Internet takes on whatever shape the network traveler decides to give it.
+
+The Nature of Notes 
+
+Mosaic's notetaking capability is not difficult to understand.
+When you create a note, or annotation, it is stored on your own computer.
+When you go back to the document about which you made the note, you will find a reminder that there is a note available at the end of the document.
+(Macintosh users will see it in the form of a hypertext link.
+Microsoft Windows users will see a reminder that an annotation is there; they then need to click on the Annotate menu, followed by the Annotate submenu item, to see it.) In either case, you can add personal information to whichever document you are looking at.
+
+How would you use such information?
+Think for a moment about the vast size of the Internet, and the fact that your biggest challenge in using it is to find the information you need.
+Your annotations can remind you what is available at a particular site without having to go through its various hyperlinks again.
+You might, perhaps, want to jot down the e-mail address of a contact at the site, without having to dig deep into the menu structure to find it each time.You might want to refer to other documents that have similar types of information, or perhaps just add a whimsical comment or two about the nature of what you've found.
+
+In Chapter 8, you'll see that customization can go still further by letting you create home pages of your own, with individualized hyperlinks.
+Combine notes and personal home pages and you have created a powerful information tool, provided you learn how to use it.
+
+Creating Annotations 
+
+Let's now use Mosaic to travel to a site and create our first annotation.
+The site I'll choose is an intriguing one; the home page is titled Telecom Paris, and we will find links here to a wide range of resources, both related to France and to the Internet at large.
+The URL is: http://mistral.enst.fr/ .
+
+Its home page is shown in Figure 7.1.
+
+Figure 7.1
+
+The Telecom Paris home page. 
+
+Note the links to intriguing resources like the Louvre
+
+We are going to examine a wonderful on-line exhibit made available by the Louvre.
+Several exhibitions were on-line at the time of this writing, perhaps the best of them being Les Tres Riches Heures du Duc de Berry.
+This volume is a classic example of a medieval book of hours.
+Such books were assembled to provide text for each hour of the liturgical day, and often included calendars and supplementary prayers, along with beautiful artwork.
+
+Painted between 1412 and 1416, the illustrations in Les Tres Riches Heures are some of the finest examples of manuscript illumination that have survived the medieval era.
+
+Jean de Berry was a nobleman and patron of the arts who died shortly after the Battle of Agincourt in 1415.
+If we delve into the Louvre exhibition by following the hyperlinks from its home page, we find ourselves on a page showing the first of a series of images from Les Tres Riches Heures, as shown in Figure 7.2.
+
+Note the format here, which is fairly typical for pages on the Web , at least where exhibitions of photographs and artwork are concerned.
+We have several in-line images, small enough to be viewed from within Mosaic itself.
+Along with them is text explaining a little about each picture.
+If we move the cursor to any one of these images, it turns into a small hand, indicating we can click again to see the full image.
+
+Figure 7.2
+
+Images from Les Tres Riches Heures, a medieval book of hours
+
+Of course, calling up the full image can take time, particularly over a SLIP connection.
+We may find, after looking at all the images, that one or two in particular stand out; we might want to see them again, while choosing not to view the others at full size.
+Figure 7.3, for example, shows a particularly striking illustration of winter in a medieval village.
+We'd like to see it again.
+
+Figure 7.3
+
+One of the loveliest illustrations from Les Tres Riches Heures, called to full size by clicking on the smaller image
+
+This is a perfect place for an annotation.
+1 Drop down the Annotate menu. 
+2 Write your note in the annotation field.
+3 Save the note by clicking on the Commit button.
+
+
+Figure 7.4 shows the annotation being made.
+I have clicked on Annotate and have been presented with a field within which I can enter my note.
+The note is shown, along with the various options now available to me.
+
+Annotation Options 
+
+By choosing Commit, we have created a permanent annotation.
+It will be there the next time we return to this page.
+We will be clued in to its presence by a note at the bottom of the document, as shown in Figure 7.5.
+
+Note that the statement Personal Annotations appears at the bottom edge of the document; it might not, therefore, be visible when we first examine the page until we scroll down to it.
+It would be helpful if we could place the notice of the annotation elsewhere, but this is not possible.
+
+Figure 7.4
+
+Making an annotation as a reminder for the next time I visit this page
+
+Figure 7.5
+
+The page with annotation noted at the bottom.
+
+When you see the Personal Annotations statement, choosing the Annotation menu and clicking on Annotation will open and display it.
+But there are other possibilities: 
+
+If you had chosen Dismiss rather than Commit from the Annotate window, you would have been able to discard the annotation.
+Once an annotation has been recorded, the Dismiss button is simply used to close the Annotate window.
+
+The Help button provides help (or, at least, it will when this feature is implemented).
+
+Both the Author: and the Title: fields can be edited.
+The default entry in the Author: field is the e-mail address you specified when you edited the mosaic.ini file.
+You can change the title to whatever you like.
+
+The Clean Slate button erases the contents of the Annotation text field.
+
+The Include File ... button allows you to include the file of your choice in the annotation.
+(This option has not yet been implemented in the Microsoft Windows version of Mosaic.) 
+The Delete button deletes highlighted text, and is likewise not yet implemented.And, when an annotation is present, the Annotate menu itself allows two further choices: 
+The Edit this annotation button allows you to change what you have written.
+
+The Delete this annotation button allows you to remove it entirely.
+
+Thus far we have concentrated on personal annotations, but Mosaic can also handle group annotations that are maintained on a group server.
+To switch between the two, it is necessary to make changes to the mosaic.ini file.
+We will discuss these and other changes to mosaic.ini in Chapter 8.
+
+Annotations on the Macintosh 
+
+Macintosh users will find annotation just as valuable a tool as Microsoft Windows users.
+They can create notes by selecting the Text . . . option from the Annotate menu, which will cause an annotation window to appear.
+The note can then be written and saved by clicking on the Ok button.
+Clicking on the link thus created will cause the annotation to appear.
+The presence of an individual hyperlink for each annotation places the Macintosh version, as of now, ahead of the Windows version in terms of flexibility.
+(As this book goes to press, the Microsoft Windows version has added this feature.) 
+
+Using a Hotlist 
+
+The simplest of Mosaic's tools, and by far the best, is its ability to maintain a hotlist of frequently visited sites.
+The more you navigate the Internet with Mosaic, the more you'll come to appreciate this feature.
+Thus far, we have looked at different sites by pulling down the File menu and choosing the Open URL . . . option.
+
+This allows us to type in a URL and choose it as our destination, and indeed, we've found that we could move to any site necessary using this method.
+We've also examined sites by pulling down menus and clicking on them; the Starting Points menu is an example.
+
+Not all URLs are a problem; it's comparatively simple, for example, to type in telnet://info.umd.edu/ to open a connection to the University of Maryland's library.
+But some URLs can be unwieldy, as you've already noticed.
+Here, for example, is the kind of URL you'll more commonly encounter: http://edb518ea.edb.utexas.edu/html/LatinAmerica.html .
+
+No matter how good a typist you are, it requires certain memory skills and a sure hand at the keyboard to get all of this right; if you don't, you'll receive a message like the one shown in Figure 7.6.
+
+Figure 7.6
+
+An error message results when you mistype a URL. 
+
+We could, of course, find the site we want to visit by following hyperlinks, but this can be a time-consuming process that takes us through a lot of unnecessary terrain.
+What we would like is the ability to use Mosaic's menus to go instantly to the site in question, and this is exactly what a hotlist makes available.
+With it, we can begin the menu customization process.
+
+Let's take a look at the built-in options that already come with the program.
+Figure 7.7 shows the Starting Points menu, some items of which contain submenus of their own.
+All these sites represent places the Mosaic team decided to include with the program; they're destinations that can help maximize your performance with Mosaic and keep you up with the latest news about the program and about the World Wide Web in general.
+A variety of general information sources is also provided, showing you links to Gophers , finger sites, and so on.
+
+Choosing a menu item takes away the typing drudgery and, of course, eliminates the chances of making keyboard mistakes.
+Of course, the links set into the menu must be up to date or you may still get an error message.
+
+If you take a look at the mosaic.ini file, you will see a section called &lsqb;HotList&rsqb;.
+Here is what it looks like: xxx .
+
+Figure 7.7
+
+The Starting Points menu.Note the pointers to submenus, shown by the small pointers at the right of the menu
+
+DO NOT EDIT THIS PORTION OF THE MOSAIC.INI FILE.
+
+I am showing it to you for purposes of illustration only; trying to edit it can cause difficulties with Mosaic's display of your menus.
+As you're about to see, there is a much simpler way to edit this section using Mosaic's menus from within the program.
+For now, simply realize that the mosaic.ini file maintains information about which sites will be made accessible through these menus.
+
+Accessing Mosaic's Hotlists 
+
+Any list of resources can be considered a hotlist, from the Starting Points items to any of the submenus preconfigured in your mosaic.ini file.
+The QUICKLIST is also a hotlist, but it is different; it is the only hotlist that does not show up as a menu.
+More about the peculiarities of the QUICKLIST shortly.
+For now, the key to hotlist use is that you can create hotlists of your own.
+
+You can reach your hotlists by opening the File menu and taking the Open URL . . . option.
+Look at the field created when I do this, as shown in Figure 7.8.
+As you can see, a field called Current Hotlist exists, and contains a pulldown menu.
+The current hotlist is shown in the Current Hotlist field; at the moment, the hotlist is Starting Points.
+You can click on the down arrow to drop the menu.
+It contains a list of hotlists currently available.
+You can choose another by moving the cursor to the desired hotlist.
+At that point, the documents in the hotlist will be available from the dialog box.
+Figure 7.9 shows the hotlist menu after it has been dropped down.
+
+Figure 7.7
+
+The Starting Points menu.
+
+Note the pointers to submenus, shown by the small pointers at the right of the menu.
+
+Figure 7.8
+
+The Current Hotlist box, which provides quick access to the various hotlists. 
+
+To see the documents available in the current hotlist (they appear as menu items), simply drop down the menu to the right of the URL: field.
+Figure 7.10, for example, shows the items available in the Gopher Servers hotlist.
+
+Each of the hotlist documents is shown with the document's URL.
+Thus, the URL for Gopherspace Overview is: gopher://gopher.micro.umn.edu:70/11/Other%20Gopher%20and%Information%20Servers .
+
+Figure 7.9
+
+The menu for available hotlists.
+
+Figure 7.10
+
+Menu items available on the Gopher Servers hotlist.
+
+Not all of this URL can be seen in the field because of its length.
+
+Adding Documents to a Hotlist 
+
+The beauty of Mosaic is that any document that is currently being displayed can be added to whichever hotlist you choose.
+This gives you considerable control over Mosaic's menus.
+Let's say, for example, that I would like to add the following document to my Starting Points hotlist: http://gnn.interpath.net/gnn/gnn.html .
+
+All I need to do is to display the document, and then choose the Navigate menu.
+From it, I dick on the Add Current to Hotlist submenu.
+The process is shown in Figure 7.11, with the page I want to add in the background.
+
+Examine Figure 7.12, and you will see that the item, listed as GNN Home Page, is now available at the bottom of my Starting Points menu.
+To reach it now, all I have to do is pull down the menu and click on the item.
+You can see that, by giving us the ability to choose which menu or hotlist to place this information on, Mosaic has made it possible to order sites in whichever way is the most productive.
+
+Figure 7.11
+
+The Navigate menu; note the Add Current to Hotlist item, which we will use to add the current page to the hotlist. 
+
+Using the Mosaic QUICKLIST 
+
+If you are an observant reader, you probably noticed in Figure 7.9 that among the hotlists available is one called QUICKLIST.
+Unlike the other hotlists, the QUICKLIST is a list of URLs that does not appear as a pull-down menu at the top of the Mosaic screen.
+Instead, you select it by choosing the File menu, taking the Open URL ... option, and selecting the QUICKLIST item.
+At that point, the URLs available on the QUICKLIST can be displayed by pulling down the URL window to the right, as shown in Figure 7.13.
+Choosing any one of these items and clicking the Ok button will take you directly to the site.
+
+Why use the QUICKLIST in the first place?
+Because there are bound to be sites that you are interested in and would like to return to, but which you may not want to install on your menus.
+The QUICKLIST allows you to go to them but keeps them off the regular Mosaic menu structure.
+You add items to the QUICKLIST in the same way you add items to any hotlist; go to the document in question, pull down the Navigate menu and click on Add Current to Hotlist.
+Just remember that QUICKLIST must be selected as your current hotlist.
+Another advantage of using the QUICKLIST is that there is no size restriction on the list.
+All other hotlists are limited to forty entries.
+
+Figure 7.12
+
+The new item has been added to the Starting Points menu.
+
+Figure 7.13
+
+Examining the URLs available on the QUICKLIST
+
+Let's pause for a moment on that point.
+Mosaic accommodates up to twenty user-configurable menus, along with the QUICKLIST, so you have no shortage of available menu space for customizing your environment.
+Top-level menus, as you would expect, show up on the main menu bar at the top of the screen; other menus will be listed as pop-out menus from one of these top-level items.
+Forty entries is the maximum number that any of the menus can have.
+And, if you include a menu within a menu, that item is considered one of the forty available.
+
+Examples of Hotlists 
+
+A variety of options are available if you choose to set up hotlists to customize Mosaic.
+There is no one right way to do it; each user will want to create a hotlist fitting his or her work or leisure profile.
+A biologist, for example, could easily set up a hotlist specifically devoted to biological issues, with links to Telnet sites, FTP archival collections, Gopher servers and any other information related to his or her field.
+A librarian could establish a hotlist consisting solely of libraries with Internet-accessible catalogs, thus providing useful examples of how various libraries are implementing their on-line catalogs.
+An artist could set up a unique hotlist pointing to all the museum exhibits available on the network.
+
+Now that we know how to move around with a hotlist and how to choose which hotlist is current so we can add items to it, we need to complete another part of the puzzle.
+After all, if Mosaic allows us to have twenty configurable menus, and NCSA distributes it with just one of these, the Starting Points menu, we need to set about organizing our own lists, arranging them to suit our needs.
+The Menu Editor is the primary tool for doing this.
+
+Mosaic's Menu Editor 
+
+Our goal isn't just to learn how to create hotlists.
+We also want to know how to edit them, so we can remove items when we choose or sort items alphabetically.
+The hotlists, after all, are going to be the most visible way that we customize this program.
+
+The Menu Editor Screen 
+
+To reach the Menu Editor, we pull down the Navigate menu and take the Menu Editor option.
+What we see should resemble Figure 7.14.
+The left side of the Menu Editor window contains the user-configurable menus; notice that it also contains the QUICKLIST, which, as we have seen, is the only hotlist that does not appear as a menu at the top of the main Mosaic screen.
+
+Now let's assume we have been navigating the Web and discover a document that we would like to return to frequently.
+The URL is as follows: 
+
+Customizing Mosaic 
+
+Mosaic presents us with numerous opportunities for customizing our Internet environment.
+We have already considered some of these.
+For example, the program's Menu Editor allows us to open a Personal Menus window.
+There, we can change the contents of various menus or create entirely new ones.
+And because Mosaic can cope with as many as twenty user-configurable menus, we have plenty of room to set up whatever information structure we choose.
+
+Users coming to Mosaic after experience with UNIX-driven shell accounts have to get used to this new way of thinking.
+The UNIX tools we use when dialing in to a service provider's computer offer abundant command switches, making it possible to perform a huge range of Internet tasks.
+This means we can enter a command followed by optional settings that cause the UNIX program to perform specific actions.
+There is no shortage of such options.
+
+But these programs are limited in their ability to be customized.
+Certainly, they provide nothing like the flexibility of Mosaic in setting up user environments complete with annotations, personally selected hotlists, user-defined home pages and full control over the kinds of files-image, sound, moving video-that they can manipulate.
+In this way, Mosaic is truly sui generis .
+
+Of course, you don't have to customize Mosaic.
+Having set the program up in Chapter 3, we found that it was possible to be up and running on the Internet almost immediately.
+This is because the program is almost preposterously easy to use-you point at what you want to see and click on it with your mouse to retrieve it.
+But a little experience, particularly if you are approaching Mosaic from a SLIP/PPP account over a telephone line, will convince you of the benefits to be gained by tweaking this program.
+Changing Mosaic's menus is but one way to do this.
+In this chapter, we examine some of the other possibilities.
+
+Changing Your Home Page 
+
+As provided by the NCSA, Mosaic is configured to load a default home page.
+Which one you see will depend upon which version of Mosaic you are using.
+The NCSA home pages are useful to the novice because they provide background information, announcements about the latest versions of the program, and news of ongoing developments at NCSA.
+But because interest in Mosaic has become so great, the number of Mosaic programs out there trying to access the same server has grown to alarming proportions.
+
+Our first step in this chapter, then, is to configure Mosaic to take the load off the NCSA servers.
+There are various ways to do this.
+We can disable the loading of a home page altogether by making changes to the mosaic.ini file, or we can change the default home page to a different document; both actions lighten the NCSA's traffic burden.
+The latter choice, changing the default, can be handled in two different ways.
+We can choose an existing home page as our default, or we can actually build a home page of our own.
+Let's run through all these scenarios.
+
+A New Default Home Page 
+
+The first thing to try is choosing a different home page as the default.
+Before you can do this, you must have a home page in mind as a substitute for the NCSA home page.
+
+Any document will do, but it makes sense to find one that fits in with your own interests and work habits.
+Once you have located one (and you might consider looking through Chapter 10, which lists a number of interesting sites), you will need to procure the URL for this page.
+By now you know how to take the URL for the current document right off the Mosaic screen.
+
+Once you have the URL, you will need to open the mosaic.ini file with any text editor.
+Just remember that you want to be able to open the file and save it as an ASCII file.
+And as an additional reminder, recall that in Chapter 3, we moved a copy of the mosaic.ini file to the c:\windows directory.
+This is the copy of the file that Mosaic uses as it works.
+But don't forget, we kept a clean backup copy of the file in the \Mosaic directory, so make sure that the file you edit is the mosaic.ini file in the \windows directory.
+Changes you make to the other one will have no effect.
+
+Move to the &lsqb;Main&rsqb; section of the mosaic.ini file, and look for a line that looks like this: HomePage=http://www.ncsa.uiuc.edu/SDG/Software/WinMosaic/HomePage.html .
+
+You can see that the mosaic.ini file is pointing to the URL of the NCSA home page; this is the default.
+
+You will need to change this in your text editor to show the URL of the document you wish to use instead.
+
+Therefore, remove the NCSA URL and substitute the URL of your choice.
+Then save mosaic.ini in ASCII format.
+The next time you launch Mosaic, it will automatically load the document you have chosen.
+
+Macintosh users can perform the same action by choosing the Preferences ... item in the Options menu.
+
+In the Home Page: field, they can insert the URL of their choice, dicking on Apply to complete the action.
+Then the new home page will load whenever Mosaic is launched.
+
+Disabling Home Page Autoloading 
+
+Turning off the automatic loading of any home page is the simplest of the home page options.
+Again, you will make a modification to the mosaic.ini file to accomplish it.
+Look in the &lsqb;Main&rsqb; section of the file once more.
+The line you are after reads as follows: Autoload Home Page=yes.
+
+Simply edit the line, changing the yes to no: Autoload Home Page=no.
+
+Now you can close the file, saving it as an ASCII file.
+
+When you launch Mosaic the next time, the program will load but without anything visible in the document view area.
+You can then choose whichever site you would like to visit by dropping down the File menu and taking the Open URL ... option.
+Or you can use the Starting Points menu or any other menu you may have configured on your own to move from site to site.
+
+Remember that you can always go to the NCSA's Mosaic home page by using Starting Points.
+
+Creating Your Own Home Page 
+
+Although it sounds intimidating, creating a home page of your own with HTML is not all that difficult.
+HyperText Markup Language, you'll recall, contains the commands that World Wide Web tools like Mosaic use to present their information.
+An HTML document thus contains the necessary information about formatting and the positioning of hyperlinks.
+Take a look at an HTML document, as shown in Figure 8.1.
+
+I created this screen by pulling down the File menu and choosing the Document Source . . . option in Mosaic.
+You are looking at the HTML document that creates NCSA's home page for the Microsoft Windows version of Mosaic.
+
+Yes, it looks like an extremely dicey proposition to create such a page.
+But note a critical fact: This is simply an ASCII text file, just like the mosaic.ini file.
+We can create something similar in any text editor (we're also beginning to see HTML editors like HTML Edit for the Macintosh and various programs for Microsoft Windows; expect the number of these to increase quickly, making the job even easier).
+
+Out of this jumble of straight text come all the graphical niceties of Mosaic.
+It should be clear that we don't have to master every HTML trick to create a home page of our own.
+And the advantages of creating one are obvious.
+Such a page would place no strain on the NCSA server when we fired up Mosaic, and we could design a home page that pointed to the most common destinations in our own work.
+Let's consider how to go about this.
+
+Figure 8.1
+
+A basic HTML document as seen through Mosaic
+
+A Sample HTML Document 
+
+We can use a simple set of commands to set up a sample HTML document.
+Take a look at the following: xxx .
+
+Again, we're dealing with nothing but ASCII text.
+We have specified how that text should look on screen through the use of tags, known in HTML parlance as mark-up tags .
+
+Thus, in the example above, xxx specifies the title of a document.
+Notice the end of the line, which doses the title section with another tag, xxx .
+
+We've also used the xxx and corresponding xxx tags to specify information that should appear as a level-one header, and the xxx tag to show where a paragraph ends.
+The text we are trying to format appears between the tags.
+Most, but not all, tags are paired.
+When they are, the ending tag includes the slash shown in xxx and xxx in this example.
+The xxx tag is an exception to this rule; it has no pairing requirement.
+Inline images provide another exception to the rule.
+
+HTML functions entirely through these formatting tags.
+
+You can enter spaces or tabs in the original HTML document but they will not appear when that document is displayed in Mosaic.
+Similarly, word wrap isn't a factor.
+
+Where the lines break on the Mosaic display screen will be determined by the placement of the tags in the HTML text.
+A lengthy line that wraps in your text editor will appear as a complete line in Mosaic's display.
+Your job as an HTML designer, then, is to thoroughly master the various tags available to the language.
+
+For practice, why not set up the example shown several paragraphs above as an HTML document yourself?
+To do so, simply open a text editor and copy the material exactly as shown.
+Case is not significant.
+Save the file in ASCII format.
+Its name should end in an .htm (for Windows documents) or .html (for the Macintosh) suffix.
+You could call this document, then, test.htm or test.html .
+To view it in Mosaic, pull down the File menu and choose the Open Local File . . . option.
+This will open a dialog box that allows you to choose the file you want to see.
+
+The Basic HTML Commands 
+
+The preceding example gives us a glimpse of how to construct an HTML document.
+Of course, this one is "read-only"-there are no hyperlinks, no graphics, and very little text.
+To make a home page, and an interesting one, at that, we need to learn some other HTML commands.
+
+These will allow us to add a wide variety of features to our documents.
+Here, then, are the basic markup tags.
+
+Title When you create a title with the xxx tag and corresponding xxx tag at the end, you have created text that is displayed at the top of the screen.
+Choose your titles with care to reflect, accurately and concisely, what is contained on your home page.
+
+Here is another example of a title: xxx .
+
+Notice that there is no space between the tags and the text that immediately follows or precedes them.
+
+Headings Six degrees of headers are available in HTML.
+Header 1 is the most prominent, header 6 the least.
+You can experiment with an HTML document to see how the different headings look on-screen.
+The basic syntax for creating them is shown in the following example: xxx .
+
+Substitute any number between 2 and 6 in the above example to vary the size of the font in the heading.
+
+Paragraph Tags You can separate paragraphs by ending a paragraph with the xxx tag.
+This inserts a carriage return and a line feed.
+An example follows.
+
+This line will be separated as a paragraph xxx .
+
+An important point: Carriage returns within HTML files have no significance.
+The xxx tag, and the xxx tag in the next entry, are critical for setting up textual divisions within your document.
+
+Otherwise, word wrap can occur anywhere within the HTML document.
+
+Line Breaks You can force a line break with no extra space between the lines by using the xxx tag.
+I could set up an address this way: xxx .
+
+Hyperlinks The hyperlink tag is critical; it allows you to set up the relationship between the text and the servers it connects to on the World Wide Web .
+You use an xxx as the tag to show hypertext; it stands for anchor.
+Following is what a hyperlink looks like in HTML.
+
+Take a close look at the preceding example.
+We have followed the opening tag with the href=statement , which is used to point to the document we wish to access.
+We use the URL of the resource to which we want the link to apply, enclosing it in quotation marks.
+We follow it with the name of the hyperlink, which is what we will see on the screen.
+The statement closes with the final xxx tag.
+
+Now, when we activate the document, we will find that the words Global Network Navigator appear as a standard hyperlink; that is, they will be in color (if we're using a color monitor) and underlined.
+We use URLs according to the rules specified in Chapter 5; they allow us to link to a wide variety of file types, from Gophers to Telnet destinations, World Wide Web pages, and FTP sites.
+
+You can also set up links to files on your own computer, in which case, the tag should simply point to the name of the file and, if it is in a different directory than the current document, the path from the current document to the linked document.
+Here is an example of a link to a file that resides in the same directory as the current document: xxx .
+
+The reference tells the browser to link to the file basic.htm and to call the hyperlink Tips .
+
+If we were pointing to a file in a different directory, we would set up the link this way: xxx .
+
+Now the same file is set up as the link, even though it resides in a different directory from the current document; we have provided a complete path so that Mosaic can find it.
+The link to the file is still called Tips.
+
+Inline Images Including an inline image within a document is a matter of pointing to the image file.
+To do this, we use HTML in the following format: xxx .
+
+This example assumes that the image is in the same directory as the HTML document.
+If it is not, we can point to a file in a different directory, or on a different server.
+When we do this, we need to specify the URL of the image.
+Next, for example, is a tag pointing to an image that is located on a different directory on our own machine: xxx .
+
+Notice that I have specified the URL using the file:// statement, showing that I am dealing with a file rather than a Web server or other type of resource.
+There is a third slash following file://; this is an indication that I have left blank the space that would have been filled by a machine address.
+In this case, I don't need one, because the file resides on my own computer.
+
+And here is a tag pointing to a different server: xxx .
+
+Notice that, in this example, the URL contains an http:// statement, followed immediately by a machine address, and then the path to the image in question.
+
+External Images Perhaps you would rather open an image as a separate document, using whichever viewer you have set up within Mosaic.
+A reference to an external image takes the following format: xxx .
+
+In this case, we are pointing to the URL of the image, and including the name of the anchor that will appear on our document, The B-25 in Flight .
+The anchor statement will appear underlined and with the appropriate color change to indicate a hyperlink in the Mosaic document window.
+
+If you point to an image located on your own computer this way, don't forget that you are not dealing with a Web server but with a file on your own machine.
+Thus the following statement inserts the URL with the file:// statement, rather than using http:// .
+Always consider the nature of the resource to which you are pointing: xxx .
+
+Lists It is frequently useful in terms of clarity to set up lists in an HTML document.
+
+These can be displayed either with numbering or bullets.
+
+The xxx tag is used to begin an ordered list; an unordered list uses the xxx tag.
+In both cases, you then use a xxx tag to distinguish between the various items on the list.
+Examine the following example, and note that the list ends with a paired tag.
+
+An unordered, or bulleted, list would end with a xxx tag.
+
+Bold Text You can cause text to appear in bold by using the xxx and xxx tags.
+Thus, the following line would appear in bold: xxx .
+
+Italics To set up text in italics, use the xxx and xxx tags.
+The following will appear in italics: xxx .
+
+Nesting Formatting Tags
+
+Mosaic allows you to endose text within more than one formatting tag.
+Let's say, for example, that I would like to show a header and also place it in italics.
+To do so, I can use two sets of tags, as follows: xxx .
+
+The text will appear as a regular header but in italics.
+
+Table 8.1 summarizes the basic HTML formatting commands.
+
+Note again that most (though not all) of the tags come in pairs, and most use a slash to signify the end pair.
+
+Table 8.1
+
+The Basic HTML Formatting Commands 
+
+A Sample Home Page 
+
+Only you can decide what you would like to see in a home page.
+But I've included for your edification a simple home page that can be edited and expanded as you choose.
+
+I also have included an image for fun; you can do the same.
+Just choose a file in GIF format and either place it in the same directory as your HTML file or else show a path statement that allows Mosaic to find it.
+And, of course, change the name of the image to reflect your choice.
+
+The home page created from this is shown in Figure 8.2.
+
+Naturally, your own choice of image file will differ from mine (I have a taste for Monet), but note the construction.
+There is an image directly under the title, followed by two headers, each of which contain lists of Internet sites.
+The sites are underlined, indicating hyperlinks.
+Clicking on them will take you directly to the site of your choice.
+
+Figure 8.2
+
+A home-built home page created with HTML
+
+You now need to set up the new home page as your default.
+
+To do so, open the mosaic.ini file again.
+As before, you are looking for this line: Home Page=http://wWw.ncSa.uiuc.edu/SDG/Software/WinMosaic/Home Page.html .
+
+But you have to be careful when you change it.
+Assuming you are trying to load your home page from your own computer, you now need to specify that the home page must access a local file.
+In my case, for example, I have put the home page HTML document is a subdirectory of my \mosaic directory; the path is c:\mosaic\home\homepage.htm .
+To show this in the mosaic.ini file, I edit it as follows: Home Page=file:///c:\mosaic\home\homepage.htm .
+
+I have replaced the http:// statement with a file:/l statement, because I am not accessing a WWW server (which is what HTTP refers to), but rather an individual HTML file on my own computer.
+Note that I have named the page file homepage.htm .
+
+Since I am using Microsoft Windows, I must obey MSDOS file conventions, and cannot have an extension that is longer than three letters.
+
+Macintosh users have it easier.
+They can pull down the Options menu and select Use this URL for Home.
+The next time they call up Mosaic, it will go directly to this home page on the local hard drive.
+And both Macintosh and Microsoft Windows Mosaic users will find it easy to get back to their home pages whenever they choose by clicking on the small house icon at the top of the screen.
+(This, remember, takes you back to whatever home page you have established).
+
+Being able to create your own home page is quite a powerful capability.
+And although I'm fond of the home page I just created for you, I have to admit that it barely begins to tap the full formatting power of HTML.
+
+After all, you may want to add links to audio files or to MPEG or QuickTime movies.
+Or perhaps you'd like to explore the entire range of HTML formatting options, such as setting up addresses or preparing quotations for display.
+
+If you get interested in exploring these issues further (who knows, you may become a home page designer-I have a hunch their numbers are about to grow significantly), then you will want to set up links to several sites that specialize in HTML.
+Either add them to your menus or set them up as hyperlinks on your own home page.
+As mentioned in Chapter 5, these sites are: http://www.ncsa.uiuc.edu/demoweb/html-primer.html http://www.ucc.ie/info/net/htmidoc.html http://melmac.harris-atd.com/about_html.html .
+
+Also consider Dan Connolly's HTML Design Notebook; Connolly is one of the original developers of HTML.
+The URL is: http://www.hal.com/~connollyidrafts/html-design.html .
+
+Master these sites and you will have quite an authoritative background in HTML.
+
+Home Pages vs. Menus 
+
+As you work toward customizing your Mosaic environment to suit your needs, a question inevitably arises.
+Is it better to focus on manipulating the program's pull-down menus, inserting your favorite destinations there, or would it make more sense to construct a home page with references to these sites, perhaps connecting as well to other pages of your own devising?
+It's a call only you can make, but the advantage of taking the extra time to master HTML is that you can construct a graphical environment entirely suited to your own purposes.
+Menus, on the other hand, are easier to customize and provide a shortcut to much of the same functionality.In my case, a combination of the two seems the best policy.
+I have constructed a home page with links to the resources I use most frequently in my writing, changing them as necessary when new projects arise.
+I also maintain basic Internet destinations on the menus, frequently adding new ones, and (sometimes) new menus to accommodate the rapidly expanding world of Web servers.
+It is instructive to look through the wide variety of home pages out there to see if there are any that particularly take your fancy.
+
+If you like what you see at a certain site, remember that you can call up the HTML document behind that page to study it, thus learning how certain effects were achieved.
+Just pull down the File menu and choose the Document Source ... item.
+The most complex of home pages yields its secrets quickly with this method, allowing you to duplicate its effects.
+There is no better way to improve your HTML skills than to occasionally study other people's work.
+
+Robots, Wanderers, and the Future of Mosaic 
+
+Using Mosaic immediately transports us into a new realm, one for which all previous, character-based Internet tools could scarcely have prepared us.
+It's easy to understand why the program has elicited such a positive response from the Internet community, not to mention the near euphoria it has occasioned from the popular press.
+
+Mosaic seems to say that hitherto difficult to access network tools from now on are available to a new class of user, those people just learning about the benefits of the Internet and anxious to tap its potential.
+
+While there is an element of hucksterism in some of the publicity, it is nonetheless true that Mosaic has galvanized the network community as no previous tool has done.
+HTML is the language of the moment, as new electronic pages appear in their legions.
+Many of them are poorly constructed and make more demands upon the reader/viewer than anyone has a right to expect, but some show a real flair for design.
+We can expect the process of evolving home page standards to be lengthy; this is, after all, a new medium, one that forces us to pause and consider how best to convey information within the context of hyperlinked networked data.
+
+Commerce has also reared its head on the World Wide Web , just as it has emerged on the Internet in general.
+Any tool with the potential of Mosaic for making the network accessible will immediately attract developers, so it is no surprise to see that NCSA has begun licensing Mosaic to various commercial operations, some of which have already introduced their own readings on an improved Mosaic.
+One of these, Mosaic Communications Corporation, includes some of the developers of the original Mosaic.
+We can expect a fierce battle to loom over whose Mosaic is best, as each firm jockeys for position in the corporate marketplace.
+
+But before we discuss these issues, there remain two areas that deserve our attention.
+The first of these is searching: How can we use Mosaic to home in on the information we need?
+A new breed of program attempts to mine the Web for data, and we begin this chapter with a look at what these programs are and how you can use them.
+We also will have a look at Mosaic's forms feature, which allows home page builders to create documents that can process information supplied by the user.
+The latter has implications for the commercial development of both Mosaic and the Internet.
+
+Automated Searching of the World Wide Web
+
+The Internet has always gloried in diversity, which is the natural result of linking more than 3.5 million computers into a worldwide network.
+The proliferation of FTP sites means that thousands of system administrators can choose which software programs and data files to place into public access areas on their servers, while the number of Telnet-accessible computers continues to grow.
+If it's possible to put something on a computer and make it available to the public, it's probably out there somewhere.
+
+But the Internet's sheer diversity is also a source of confusion.
+In the past several years, we have seen the emergence of two kinds of software to handle this situation: browsers and search engines .
+
+The World Wide Web is an example of the first; it is a browser, a tool that allows us to go from place to place on the network through hyperlinks.
+We can uncover quite a bit of information as we follow logical (and sometimes not so logical) linkages to related collections of information.
+Gopher is another browsing engine.
+It uses menus and submenus to allow us to point to what we want and go straight to it.
+
+The other kind of Internet tool is the search engine.
+
+Here we think of systems like WAIS (Wide Area Information Servers).
+WAIS allows us to enter search terms and search databases of information that are widely distributed on the Internet. 
+archie is another system that permits searching; we enter a keyword and archie searches FTP holdings around the world (though only from a particular set of sites; not all FTP servers are searched by archie ).
+Veronica , which is tightly integrated with Gopher , provides a way for us to search for all Gopher menus containing our search term.
+
+Both systems-browsers and search engines-help us to find our way around the Internet and in many cases locate the information we're looking for.
+But both have their drawbacks.
+Veronica sites are vastly overloaded with requests as word of their usefulness spreads; it can take quite a while to run a Veronica search if we attempt it during a period of peak traffic.
+The WAIS engine is powerful but quirky, and as a system still undergoing early development, it remains in need of a wider selection of databases.
+At present, we only skim over the technological side of the Internet when we query the WAIS servers.
+
+As for browsers, both Gopher and the World Wide Web can be frustrating in the extreme.
+Gopher requires us to run through its menus and submenus to find what we want; only its built-in bookmark system takes off the pressure by allowing us to mark items for future reference.
+The World Wide Web demands that we follow its hyperlinks to get to our destination.
+
+That means starting off in a known location and working our way, sometimes slowly, through a labyrinth of information.
+Although we often find what we want, the process can take quite some time.
+
+Let's be clear on the reason why.
+Although the Web 's advocates speak of it as the ultimate information engine, it nonetheless possesses the same limitations as any network tool.
+Hyperlinks are, indeed, a wonderful way to connect to related information, but they must be built by hand.
+That means a human being must decide where the hyperlinks go and how to place them logically so that the reader can draw maximum utility out of the information space they create.
+
+And even if we know where the good sites are, the entire system rests upon its connections to other information; the Web is meant to be a seamless whole.
+Choose a particular hyperlink and we may easily wind up on a home page half a continent away, one that has been built by someone whose sense of order and relationships differs substantially from our own.
+Then, too, following even the best of links to get to what we need often means starting with the general- archaeology as a subject, say-and working our way inexorably to the particular-the Incan ruins at Machu Picchu.
+It is this forced narrowing, requiring us to start with the broad and move to the narrow, that so frustrates the long-time user of the Web .
+
+What we need is something that brings the focus of a search engine into the browsing environment.
+We need to be able to specify exactly what we need and let computers do our searching for us.
+They would then return a list of sites, World Wide Web pages that conform to our specifications.
+At that point, we could use Mosaic to access these pages and find, we hope, the promised data.
+The good news is that such search engines are beginning to appear on the Web 's horizon.
+In this chapter, we examine several, and consider where, in consequence, the Web is heading.
+Once you've used one of the Web search engines considered here, you'll probably want to create links to one or more on your home page, or add them to your menus.
+
+A New Breed of Search Engine 
+
+Can a software tool be thought of as a robot ?
+Evidently so, if it goes out on the network and harvests information.
+The new Web search engines are called robots, wanderers, or spiders , and they are all gifted with the ability to find information in this widely distributed environment.
+And while development of these engines is in its infancy, their number has grown surprisingly large.
+I counted twenty-five projects active in September 1994, and by the time you read this, there may be several others.
+
+Some of these programs are exceedingly tight in their specifications.
+The Repository Based Software Engineering Project Spider (RBSE), for example, consists of a program that creates an Oracle database of HTML documents on the Web , feeding them into an index searchable by free WAIS , the noncommercial version of the WAIS engine (RBSE is sponsored by NASA).
+Lycos, from Carnegie Mellon University, provides an extensive database of abstracts of World Wide Web documents.
+
+The MacWWWWorm, developed in Montreal, is a keyword-searching robot apparently created in a French context (news on this one is still scarce).
+SG-Scout runs as an internal Xerox research project.
+The list could be extended, but perhaps this is enough to give you an idea of the activity in this field.
+For now, we'll look at several of the better tools to see how they work.
+
+Be aware that robots are not without their share of controversy.
+They put a strain on the network in the course of their activities (after all, the Web is one big place to search!).
+Some robots, in addition, are better behaved than others.
+There are stories of robots that continuously retrieve documents from the same site, over and over again, and there is no clue as to the source of the robot.
+Some system administrators, tired of the activity, have put up barriers so that robots will have a harder time working at their site.
+Get enough robots visiting enough sites and you have created a situation that results in network congestion for all, with limited return on the resources employed.
+A well-designed robot makes clear where it is from, what its purpose is, and how to contact its creators.
+We are seeing standards for robot activity evolve as the Web grows.
+
+If you are intrigued by these issues, you may want to examine the following URL: http://web.nexor.co.uk/mak/doc/robots/guidelines.html .
+
+This is a document called Guidelines for Robot Writers which explains what the issues are and how robot development can be guided for the benefit of all.
+The work of Martijn Koster at NEXOR, a technology company in Nottingham in the United Kingdom, it makes interesting reading within the context of an overall discussion of Web search engines.
+The World Wide Web Robots, Wanderers, and Spiders home page is at this URL: http://web.nexor.co.uk/mak/doc/robots/robots.html .
+
+If you put only one URL on your menu in connection with robots, it should be this one.
+Links to all known Web wanderers and robots are provided at the site, which is shown in Figure 9.1.
+
+The WebCrawler 
+
+Run by Brian Pinkerton at the University of Washington, the Web Crawler builds indices for the documents it finds on the Web and allows you to search for documents of interest.
+Using the Web Crawler, Pinkerton has been able to create a list of the twenty-five most frequented documents on the Web , which in itself is an interesting resource.
+Its URL is: http://wWw.biotech.washington.edu/WebCrawler/Top25.html .
+
+Figure 9.1
+
+A key place to look for information about World Wide Web search tools.
+
+Figure 9.2
+
+The search screen for WebCrawler
+
+Figure 9.3
+
+Results of a WebCrawler search under the term television
+
+The search screen for the Web Crawler is shown in Figure 9.2.
+As you can see, the screen makes searching easy.
+You simply type in the search term, clicking on the Search button when you are ready, and let the Web Crawler do its work.
+In Figure 9.3, you see the results of my entering the search term television in the dialog box.
+
+You can see that this page consists of a series of services, each of which is itself a hyperlink.
+I can click on any of them to go directly to the site.
+In Figure 9.4, I have selected the third item on the hit list, Science Fiction TV Series Guides , and clicked on it.
+
+You can see how much the Web Crawler's search capability has helped in cutting down my time on the Web .
+To find the site otherwise might have involved going to a directory of subjects, such as the one maintained by CERN, and working my way from general to specific until I found this page.
+With a search engine like this one, I simply enter the term and quickly receive a list of applicable sites.
+To reach the Web Crawler, you can use the following URL: http://wWw.biotech.washington.edu/WebCrawler/WebOuery.html .
+
+The World Wide Web Wanderer 
+
+Matthew Gray at MIT runs the World Wide Web Wanderer, or W4 as it is more familiarly known.
+Gray's interest was to determine how big the World Wide Web really is.
+His first run with W4 in June 1993 found about 100 HTTP sites; a rerun in September of that year showed that the number had doubled.
+By March 1994, W4 was finding more than 1,200 sites.
+By June 1994, the number had reached 3,100.
+Figure 9.5 shows W4's site list.
+
+As you can see, the World Wide Web Wanderer is not designed as a search tool as much as it is a tracker of Web growth.
+Anyone interested in Web statistics will be interested in checking into this URL: http://wWw.mit.edu:8001/afs/sipb/user/mkgray/ht/comprehensive.html .
+
+Figure 9.4
+
+Following a hyperlink to a page on science fiction-oriented television shows.
+
+Figure 9.5
+
+The World Wide Web Wanderer site list 
+
+The World Wide Web Worm 
+
+Developed by Oliver McBryan at the University of Colorado, the World Wide Web Worm uses forms to help you search.
+The search screen for the Worm is shown in Figure 9.6.
+
+Remember that HTML documents contain title information; this is data that can be searched by a Web tool like the World Wide Web Worm.
+The Worm can also search for hyperlinks within HTML documents and by the names of HTML home pages and their accompanying URLs.
+If you wanted, for example, to search for sites in Colorado, the Worm would be able to find all sites with colorado in the machine name.
+Similarly, it could search by country, looking for URLs with particular country designations, or for types of links.
+
+Notice that you can search in titles or by names within the URLs in HTML documents.
+In Figure 9.7 you can see the results of searching by title under the term exhibit .
+
+I entered the search term and then clicked on the Start Search button.
+Again, we are presented with a list of hyperlinks, each of which can be accessed by c`licking on it.
+The URL for the World Wide Web Worm is: http://www.cs.colorado.edu/home/mcbryan/WWWW.html .
+
+Figure 9.6
+
+The World Wide Web Worm's search screen
+
+Figure 9.7
+
+Searching with the Worm under the keyword exhibit
+
+The JumpStation 
+
+Like other Web wanderers, the JumpStation allows users to query a database of information by keyword; answers are supplied with hyperlinks for easy access to the resources needed.
+
+Documents can be searched by title header and subject; in addition, servers can be found by using a partial address (for those moments when you remember part but not all of a URL).
+Jonathon Fletcher at the University of Stirling in the United Kingdom is the power behind the JumpStation, and he has currently brought development up to a beta implementation of version 2.
+Figure 9.8 shows the search screen.
+
+As you can see, I have inserted the search term chemistry in the Enter Subject Word: box.
+I also could have selected other options by checking the appropriate box (and note that, by combining options, you can create up to seven different ways to use the JumpStation to search).
+
+Although you can't see it on the screen in Figure 9.8, the Submit button (which I clicked to get the search running) can be found by scrolling down just slightly in the document.
+Here is the URL for the JumpStation: xxx .
+
+Figure 9.8
+
+The search screen for the JumpStation
+
+Where Robots and Wanderers Are Headed 
+
+Figure 9.9 shows the home page for the SG-Scout robot, developed at the Xerox Palo Alto Research Center (this is the famous PARC where so many seminal computer developments took place, including the development of intuitive user interfaces of the kind that later appeared on the Macintosh).
+
+The only way to keep up with a field in such a rapid state of transition is to monitor places like this.
+And as mentioned, the best place to track the development and location of new home pages for robots and wanderers is through the site maintained by Martijn Koster.
+Koster does a wonderful job at keeping up with robot developments on his World Wide Web Robots, Wanderers, and Spiders page.
+
+Be advised, however, that the entire field of Web wanderers and robots is highly experimental and, as we've seen, controversial.
+You can expect many changes in addresses as new Web wanderers come on the scene and old ones disappear.
+We're also seeing a movement toward developing standards for robot activity that should result in more efficient Web searching with fewer hassles for system administrators and less workload on individual sites.
+
+Figure 9.9
+
+The home page for SG-Scout, a Web robot
+
+For those interested in following the issues raised by Web robots, a mailing list exists.
+You can join it by sending e-mail to the following address.
+
+The body of your message should contain the words subscribe, help , and stop on separate lines.
+Be aware that this is a technical list intended for the authors, administrators, and maintainers of WWW robots; it is not a general discussion list about the Web .
+
+And, if you've ever doubted that search tools are becoming more and more available on the World Wide Web , look no further than this Swiss URL: http://cui_www.unige.ch/meta-index.html .
+
+You can see this home page in Figure 9.10.
+Notice what you have here.
+A wide variety of search tools are accessible from this page, from World Wide Web catalogs to search engines ranging from Web Crawler, the World Wide Web Worm, Veronica , Jughead , and WAIS .
+You can only see a fraction of them from this screen, but scrolling down through the page would reveal the rest.
+It's quite a site, and one you'll want to add to your menus or home page.
+
+Figure 9.10
+
+A home page tracking search engines on the Web
+
+Other Forms of Web Searching 
+
+Not all Web searching is handled through automated tools.
+In fact, the overhead caused by these tools has many developers wondering whether there isn't some better way to produce the information needed.
+
+Here are two alternatives to the automated approach.
+Both contain databases that you can search to generate interesting Web sites.
+
+ALIWeb 
+
+ALIWeb is a way for people to personally generate information about the services they provide.
+ALIWeb gathers this information into a searchable database, which is updated every few days.
+The service, which stands for archie-like indexing for the Web , is theoretically as up to date as any Web wanderer, but does not cause the overhead created by setting up automatic search routines on the net.
+Figure 9.11 shows the search page for ALIWeb.
+
+The URL for this site is: http://web.nexor.co.uk/aliweb/doc/form-search.html .
+
+Figure 9.11
+
+ALIWEB's search form
+
+The CUI W3 Catalog 
+
+The W3 Catalog is built up from lists available on the World Wide Web .
+A variety of useful documents, including Scott Yanoffs Internet Services List , and John December's Computer-Mediated Communication and Internet Tools Summary , are used to provide material.
+These sources are consulted on a daily basis to keep the catalog up to date.
+Figure 9.12 shows the search page for this catalog.
+
+The Form and the Function 
+
+Forms are a natural for Mosaic.
+By allowing designers to create home pages supplying fields that can be filled in by readers, they make the tool interactive as well as graphical.
+Without forms, Mosaic is strictly a one-way operation, allowing you to read what someone else has decided to put on-line.
+With forms, the program accepts feedback.
+You can drop an e-mail note to a developer commenting on his or her home page.
+You can fill out a request for information or enter a password to gain access to a commercial database.
+If you are a system administrator, you can set up a screening process to restrict access to your site, or if you're in business, you can use forms to promote on-line ordering of products from your catalog.
+
+Figure 9.12
+
+Using the W3 Catalog to set up a search under the keyword wais.
+
+We have already looked at a few forms on-line; we filled in information to use some of the Web wanderer programs discussed, using fields created by the programs' authors.
+Any time you fill in a blank you are filling out a form of some kind.
+You may also see forms that use buttons that require you click on them to make them work, and that contain Send buttons that cause your request to be sent to the server.
+Figure 9.13 shows an example of a typical form for sending electronic mail.
+
+This figure shows a page provided by Tyler Jones as part of a project he has created to teach Spanish on-line.
+
+Users can work through one or more of his Spanish lessons (they contain audio links to help you pronounce the vocabulary words), and then send e-mail commenting on the course work and including an e-mail return address for reply.
+As forms become more widespread, we will see this kind of page proliferate.
+
+We have mastered elementary creation of an HTML document, learning how to build our own home pages and where to look for further information.
+Forms are more complicated, but if you would like to learn more about how to create them, you will want to examine the following URL:

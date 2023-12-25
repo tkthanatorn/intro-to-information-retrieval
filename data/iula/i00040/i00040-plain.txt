@@ -1,0 +1,171 @@
+
+April 1996 / Reviews / A Hot Cup of Java
+
+A Hot Cup of Java
+
+Sun's language for building Web applets may be a trendy item, but in many ways it's a strange brew 
+
+Andrew Singleton 
+
+Java, a language created to build applications that will leap across the World Wide Web to the far corners of the globe, is a bona fide phenomenon (see "Wired on the Web," January BYTE).
+But can anything live up to the hype surrounding Java?
+We tried building a simple Java program to see just how far beyond Hypertext Markup Language (HTML) this new language can carry the Web.
+
+The Language of Java 
+
+Java is based loosely on C++.
+Java programs come in the form of applets that load into a Java-enabled Web browser.
+The term applet comes from the applet tag that appears in an HTML document and tells the browser to download the appropriate Java code.
+
+The Java source files are compiled into .CLASS files that contain portable byte code.
+Client machines, such as Web browsers, run the Java byte code using a virtual-machine interpreter or emulator.
+The virtual machine is a simple stack machine, and the programs are structured to allow clients to verify that downloaded code contains no illegal references or grammatical errors.
+
+The client side will get even more interesting with the promised arrival of a just-in-time compiler, which will convert the verified byte code into native machine code as it loads.
+This should greatly improve applet performance.
+
+The goal for Java is to create a language that's completely portable, running correctly on every computer that downloads it.
+But most languages have some ambiguity in their specification.
+For instance, a C++ compiler can implement an intdata type as a 16-, 32-, or 64-bit binary number, depending on the host machine.
+This ambiguity causes porting problems, since Java defines an int as 32 bits on all platforms.
+Other sources of ambiguity in data types, expression evaluation, and syntax will be ironed out as the language specification is completed.
+
+Java Is Not C++ Lite
+
+There are important, intentional differences between Java and C++.
+To attach libraries, base classes, and referenced code, Java uses import xxx packagename xxx .
+This single statement performs both an include (to define the classes at compile time) and a load/link at run time.
+The imported classes can import additional classes, and so on.
+
+Java loads all code dynamically at run time and loads the code class by class.
+When the Java compiler compiles a source file, each class comes out in a separate .CLASS file.
+All functions must be methods of some class.
+For instance, math functions, such as sine, are implemented as methods of the class Math.
+
+Java acts somewhat like a BASIC or Lisp interpreter when handling objects.
+To get a new object, you simply type the statement xxx variable xxx new xxx object xxx .
+This gives you a new object off the Java heap.
+There is no delete operation; a garbage collector cleans up after you.
+Nor is there any direct access to memory regions--you cannot allocate memory in-line, and you cannot use C-style pointers. 
+
+Inheritance in Java is implemented with the extends keyword (see the listing "Using extends to Implement Inheritance" ), but there is no support for multiple inheritance.
+To enable algorithms that operate on multiple types, Java uses interfaces , or enumerated sets of methods.
+Interfaces are a looser link than C++ inheritance or templates, and they provide a higher likelihood of successfully implementing polymorphic classes.
+
+The standard Java class library started out small, but it's getting bigger by the day.
+It implements the math and I/O functions in the standard C library; a number of data types, such as Integer, String, and Hash Table, with their attendant methods; threads; sockets; and a GUI system called AWT.
+
+JDK
+
+We downloaded the preliminary language specification and the Java Development Kit from the Sun Microsystems server at http://java.sun.com.
+The JDK is available free from Sun, and Win32 and Solaris versions are available.
+We also downloaded the Netscape Navigator Web browser, version 2 Beta-4, from the Netscape Communications serv-er at http://ftp1.netscape.com Netscape Navigator 2.0 is the first major Web browser to contain an interpreter for Java applets. 
+
+The JDK comes with a Java compiler (called javac), an experimental alpha release of the Java debugger, a Java applications interpreter, and an applet viewer that can run applets without a Java-enabled browser.
+The JDK is a primitive, character-oriented environment.
+Fortunately, Borland, Symantec, and several other companies have announced plans to produce more sophisticated graphical development environments, hopefully with vastly improved debuggers.
+
+The experimental debugger is a command-line program with a single output console.
+The user has to keep track of threads by number and keep track of objects with a 32-bit ID.
+The debugger includes breakpoints, but not single-stepping.
+When we tried the Windows version, it left hanging threads and windows.
+We found this debugger useless and soon resorted to the age-old debugging method of including print statements at strategic points in our code.
+Even when running graphical applications, Java provides a line-mode console that's convenient for debugging.
+
+The javac compiler performed well, turning .JAVA source files into .CLASS byte-code files suitable for the Java interpreter, the applet viewer, or the beta Netscape Navigator 2.0 Java-enabled browser.
+It generated useful error messages about the innumerable mistakes we made in the source code, and it caught some problems with unitialized variables.
+
+The applet viewer runs applets as they would be called in a Web browser.
+It needs an HTML file that includes the applet tag and parameters.
+The applet viewer is a more complete implementation of Java than the Netscape 2.0 beta version, and it's integrated with the debugger.
+
+The documentation available from Sun includes the Java language specification and a complete listing of the Java library classes and methods in PostScript form.
+It does not include a tutorial explaining what those methods do or how they might be strung together, so we spent a lot of time looking at sample applications provided by Sun and programmers around the Internet.
+
+The Program
+
+We ran the Win32 version of the JDK on a Windows NT machine.
+We implemented a simple pop-up help applet, with the intention of using Java's object features to subclass these pop-up boxes for more-involved future applications.
+
+To begin, we selected a list component from the Java AWT GUI library to hold the pop-up help and made a floating frame class to wrap around this component as a pop-up window (see the listing "Using extends to Implement Inheritance" ).
+Rather than starting from the sometimes-restrictive confines of a browser applet, we created a short application to run under the Java command-line interpreter and call the FramedTextListfor debugging.
+As an application, the frame pops up conveniently over the command-line console. 
+
+Then we ran into a snag.
+The size of the listbox (for setting the frame size) was coming out all wrong, and there was no indication of how it was calculated.
+On our Windows NT machine, the AWT components were clumsy.
+The floating frames just piled up in the upper-left corner of the screen.
+Like many sample applets, ours looked more like a high-school homework project than the work of a highly trained professional.
+
+On the positive side, however, the Java memory manager lets you dispose of a frame without going back to clean up the list object that constructed it.
+This would be a sticky situation in C++. 
+
+Next we added a FramedURL class to retrieve the text of an http uniform resource locator (URL) and insert it into the box (see the listing "Creating an Object from URL Text" ).
+Java includes native support for socket-based networking, including a class for URLconnection.
+Java requires a "try" and "catch" operation to surround any action that might generate a run-time error.
+Then we built an applet, called PopNetHelp, to run from inside a browser, and disguised as a button (see the listing "The PopNetHelp Applet ").
+We then created a test HTML file with the following tag: 
+
+When we ran this assembly in the applet viewer, the Help button came up on the screen as planned.
+But when we pushed the button, a bunch of error messages flew by on the console.
+One of them was "SecurityException": The program had violated security by attempting to load a URL from outside the applet domain.
+When we copied all the files to the same Web server, the help text loaded properly.
+
+We then entered the URL of the test page into a beta version of the Netscape 2.0 Java-enabled browser.
+After a long pause as Netscape loaded and initialized the applet, the button appeared.
+We pushed the button but nothing happened, except for a message at the bottom of the browser window saying, "Retrieving example.txt--0 bytes per second."
+The help popped up immediately after a second push of the button, however.
+Conclusion: A few gremlins lurk in Netscape 2.0's beta code.
+
+After many ups and downs, Java allowed us to build a better Web front end than we could have built with HTML, and it lives up to its billing as a friendlier language than C++.
+However, the resulting applications are still slow and unattractive compared to more conventional software.
+The JDK and related documentation are crude and unfinished.
+Rapid improvement in all areas seems inevitable--and certainly worth waiting for.
+
+PRODUCT INFORMATION Java Development Kit..........free (downloadable from Web site at address shown below) Sun Microsystems Computer Co. Mountain View, CA Phone: (800) 821-4643; (800) 821-4642 (in California) or (415) 960-1300 Fax: (415) 969-9131 Internet: http://www.javasoft.com Circle 1154 on Inquiry Card.
+
+Where Java Is Weak 
+
+-- Browsers allow Java applets limited access to the local disk.
+Forget having a local configuration or a persistent database.
+-- Browsers do not allow applets to print.
+-- The Java security model allows applets to open socket connections only to their source domains.
+Free-ranging network software must run as a local application.
+-- Looks don't port. 
+The AWT graphics class must be tailored to a particular machine and OS, and user-interface results vary widely.
+
+Using extends to Implement Inheritance 
+
+import Java.awt.* public class FramedComponent extends Frame &lcub; protected Component cmp; // Constructor: public FramedComponent(Component c) &lcub; cmp = c; // add the component at the top (north) add("North",cmp); &rcub; ....
+
+Creating an Object from URL Text 
+
+Make a URL object from String u try &lcub;URL url = new URL(u);&rcub; catch (MalformedURLException e) &lcub;&rcub;; // Console message for debugging System.out.println("Retrieving " + u); // Open the URL and assign it to a new variable try &lcub;URLconnection uc = url.openConnection(); // Read the result as a stream InputStream instream = uc.getInputStream(); // make a buffer of the correct size byte&lsqb;&rsqb; buf = new byte&lsqb;instream.available()&rsqb;; if (instream.read(buf)) > 0 &lcub; init(buf); // load the FramedTextList &rcub; &rcub; catch (IOException e) &lcub;&rcub; ...
+
+The PopNetHelp Applet 
+
+public class PopNetHelp extends Applet &lcub; String prompt; String helpurl; // the browser calls the init() method on loading public void init() &lcub; // get the prompt & URL from the HTMLprompt=getParameter("prompt"); prompt=getParameter("helpurl"); add(new Button(prompt)); &rcub; public boolean handleEvent(Event evt) &lcub; if (Event.id==ACTION_EVENT) // was a button pressed?
+if (evt.target instanceof Button) &lcub; // Pop up a frame try &lcub; popup = new FramedURL(helpurl);&rcub; catch(IOException e) &lcub;&rcub;; return true; &rcub; else return false; &rcub; &rcub; 
+
+Java vs. C++ and Visual Basic 
+
+Will Java grow into a complete applications development environment?
+Java supporters have positioned it as an improvement over C++ for object-oriented development and as a competitor to Visual Basic for graphical development.
+But Java needs a native-code compiler and a graphical development environment to really challenge C++ and Visual Basic.
+
+FEATURE JAVA C++ VISUAL BASIC ================================================================= ====
+
+Components plus scripting X O X Extensible objects X X O Portable source code X X O Portable object code X O O Native-code compiler N/A X O Dynamic memory manager, garbage collector X O X Secure mode X O O Learning time Medium Long Short Mature tools and libraries O X X KEY: X = yes; O = no; N/A = not yet available.
+
+Java Development Tools are Rich in Features 
+
+screen_link (54 Kbytes) 
+
+Among the Java development tools are a source code editor ( upper left ), technical support on one of Sun's Web sites ( upper right ), a sample browser page with an embedded Java applet ( lower right ), and the command line ( lower left ) for running the compiler.
+The applet itself appears in the rectangular window in the middle of the screen.
+The smaller window below is the applet viewer, which lets developers preview the final product.
+
+Andrew Singleton is president of Cambridge Interactive (Cambridge, MA), a developer of on-line services on the Internet. 
+You can reach him on the Internet at andy@money.com or on BIX c/o "editors." 
+
+  Copyright © 1994-1996

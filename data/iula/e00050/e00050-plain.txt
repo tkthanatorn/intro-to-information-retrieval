@@ -1,0 +1,1165 @@
+
+INTRODUCTION 
+
+Most economic growth models discussed in the literature have a simple general equilibrium structure.
+First, there are households who own the assets and inputs in the economy and choose the fraction of income they will consume and the fraction they will save.
+Second, there are firms who hire the different inputs in order to produce the final output they sell to consumers.
+And finally, there are markets where households sell their inputs to firms and where firms sell their output to households.
+
+In the initial section of these notes, however, we will use a setup with no markets or firms.
+We will think of household-producers who own the inputs and the technology which transforms them into output.
+These household-producers then choose how much of the output to consume and how much to save and invest.
+This setup is often known as a Robinson Crusoe Economy .
+The only asset in this (closed) economy is something we call Kt.
+One may wish to think of K as physical capital but it may also include other inputs that can be accumulated , such as knowledge or skills.
+The other input in the economy, Lt, cannot be accumulated in that it is assumed to grow at a rate which is independent of individual choices.
+We may want to think of L as labor but it may also include other non-reproducible resources such as land or energy.
+We assume that the technology available transforms combinations of these two inputs into output according to the following function: xxx where Yt stands for aggregate output.
+
+To simplify matters we assume that output is a homogeneous good which can be either consumed or saved .
+The reason why households may choose to save is that unconsumed output can be transformed into capital through a process that we will call investment .
+If we let xxx be the fraction of income that is saved, the increase in the capital stock is given by xxx where xxx is the time derivative of K (this notation will be used throughout these notes) and 6 is the constant rate of depreciation [1] .
+
+Equation (1.2) says that in a closed economy, gross investment (the sum of net investment, K, and depreciation) is equal to gross saving [2] .
+
+In most of the recent economic growth literature, households are assumed to choose a consumption path by maximizing a utility function subject to some intertemporal budget constraint [3] .
+
+In Section 3 we will find that the optimal saving rate s() is a complicated function for which there are in general no closed form solutions.
+The complicated mechanics of dynamic optimization, however, obscure some of the important points and issues.
+Hence, before studying optimal-savings models it will be convenient to follow Solow (1956) and Swan (1956) and start with the assumption that the saving rate, xxx , is an exogenous constant which we denote by 's' [4] .
+
+We assume that the production function is Cobb Douglas so xxx where A is the level of the technology.
+
+From a macroeconomic perspective, we should think of 'technology' in a broad sense that includes government distortions, protection of property rights, and things of this sort.
+In other words, for the same amount of K and L, economy 1 may get more output than economy 2 because it is less distorted, its government is more efficient, or its institutions favor private production more effectively.
+The 'technology' parameter A, therefore, should capture all these concepts.
+Using the Cobb Douglas production function and the assumption of constant saving rates, we can write the net increase in capital as xxx where time subscripts have been omitted (we will keep omitting them when no ambiguity arises).
+
+We imagine that population is equal to employment, and thereby abstract from unemployment and labor force participation issues.
+We further assume that population grows at an exogenously determined constant rate, xxx [5] .
+
+Define lower case k as the capital-labor ratio (or capital per worker), xxx .
+By taking the time derivative of k , we can rewrite (1.4) in per capita terms as: [6] xxx The growth rate of capital per worker is given by xxx .
+We can compute this growth rate by dividing both sides of (1.5) by k.
+Define steady state as the state where all variables grow at a constant [7] (possibly zero) rate.
+Thus, the steady-state growth rate, xxx is constant by definition.
+Hence, we can write xxx where all the variables in the left-hand-side are constants.
+Take logarithms and time derivatives of both sides and get xxx .
+
+This key equality deserves some attention.
+Consider first the neoclassical production function where output is assumed to exhibit constant returns to scale (CRS) and positive but diminishing returns to each input .
+In the Cobb Douglas setup, these two assumptions respectively require that xxx .
+
+Given xxx , the second term in the right-hand-side of (1.6) vanishes so we are left with xxx .
+
+The assumption of diminishing returns to capital, xxx , implies that the only sustainable steady-state growth rate is xxx .
+In other words, the only steady-state growth rate consistent with the neoclassical model is zero .
+
+An interesting question arises.
+If the only steady-state growth rate is zero, how did the neoclassical theorists of the 1950s and 1960s explain the fact that most industrialized countries have experienced centuries-long positive growth rates?
+Their answer was that the technology used by these countries had improved over time.
+In order to capture this idea, they allowed the term A in (1.3) to grow at an exogenously given rate, g (in other words, xxx ) [8] .
+
+When technology grows at a constant rate, the rest of the variables follow.
+Hence, the steady-state growth rates of income per capita, capital per capita, and consumption per capita in a neoclassical model with exogenous productivity growth are all equal to g.
+
+A second (and possibly more interesting) way to read equation (1.6) is the following: "If we want to have positive steady-state growth rates xxx in a model with constant returns to scale xxx , then the production function must exhibit constant returns to the inputs that can be accumulated, xxx ." This implies that xxx , and the production function takes the form: xxx where A is a constant.
+This technology, known as the "AK technology", yields the simplest model of endogenous growth.
+One of the main differences between endogenous and neoclassical models of growth is that the steady-state growth rate, xxx , derived from endogenous growth models can be positive, even when no variable is assumed to grow at an exogenous rate .
+The steady-state growth rate depends on different choice or endogenous variables like the saving rate or the tax structure, rather than on the exogenously given rate of productivity growth.
+This is why they are called Models of Endogenous Growth .
+
+Despite its simplicity, it is important to study the AK model in detail because all endogenous growth models embed a linearity that makes them look like the AK model.
+We will study the AK model in Section 5.
+
+There are various ways to motivate the AK technology.
+The most obvious one is to take (1.1) and to think of labor as capital: what really matters for production is not the number of bodies (raw labor), but rather the amount of quality-adjusted labor.
+This quality, in turn, can be accumulated by foregoing consumption, just like physical capital can.
+In other words, people invest in their human capital much in the same way that they invest in their physical capital.
+If the production functions for human and physical capital are similar, then we can combine the two concepts into a broad measure of capital to get a production function that resembles AK.
+This idea, which we will derive more formally in Section 5 of these notes, underlies the work of Rebelo (1991).
+
+Another way to motivate the AK technology is to think in terms of private capital along with publicly provided inputs (such as roads, infrastructure, or law enforcement).
+The production function could be written as xxx , where K is the private capital good and g is a publicly-provided good.
+If the government increases the supply of public inputs in proportion to the supply of private capital (perhaps because increases in private capital generate increases in tax collection), then the setup resembles an AK technology (see Barro (1990)).
+In Section 6 we will examine the Barro model in more detail.
+
+Equation (1.6) allows for a third reading: "Assuming no population growth, n=O, we can have non-reproducible inputs, xxx , together with positive steady-state growth, xxx , if there are constant returns to the inputs that can be accumulated, xxx .
+But notice that this implies xxx ; that is, it implies increasing returns to scale (IRS)" [9] .
+
+The problem is that if we plainly postulate an (IRS) production function we may have trouble finding a set of prices to support a general competitive equilibrium.
+
+Furthermore, the usual optimization techniques cannot be used because the usual concavity requirements for the first order necessary conditions to be sufficient are not met.
+
+There are at least two ways to get around this problem.
+
+The first one is to follow Alfred Marshall and introduce IRS at the aggregate level but CRS at the firm level.
+
+This can be formulated through production externalities or spillovers : each producer's decision affects all other producers' output, but no one takes this into account.
+Hence, all producers face a concave problem so the usual optimizing tools can be applied.
+The economy as a whole, however, faces an IRS production function which, (under some conditions that we will outline below) generates endogenous growth.
+
+The Cobb Douglas version of this production function is xxx where K is private capital and K is the aggregate capital stock in the economy.
+Individual firms do not realize that their own investment decisions affect x so they take it as given.
+In the aggregate, however, total capital will equal the sum of the capital stocks of individual firms.
+
+Therefore, K=K.
+It follows that, effectively, aggregate output is given by xxx .
+
+Note that if the size of the externality is such that xxx , then we have constant returns to capital in an IRS world.
+Thus, by modeling IRS through externalities we get around the problem of the existence of competitive general equilibrium.
+As it is well known, however, competitive equilibrium models with externalities tend to generate non-optimal outcomes.
+In Section 7 we show how Romer (1986), following Arrow (1962) and Sheshinski (1967), uses capital externalities in the aggregate production function to generate endogenous growth.
+
+A second way to get around the problem of the non-existence of competitive equilibrium is to drop the assumption of competitive behavior.
+This is sometimes called the Chamberlinian approach to increasing returns.
+
+Among other things, this approach is interesting because, under imperfect competition the rewards to all inputs of production do not exhaust total output.
+Hence, there are rents that can be assigned to activities such as research and development (R'&'D), which are not directly productive but which may contribute to the expansion of the frontiers of knowledge (and knowledge benefits all firms in the economy).
+Not surprisingly, therefore, this approach has been extensively used by economists who think that R'&'D is an important source of economic growth.
+
+In Section 9 we explore a model of R'&'D and growth based on Romer (1987, 1990) and Grossman and Helpman (1991, Chapter 3) where firms invest in R'&'D in search of new capital goods.
+In this model, there are no diminishing returns to the introduction of new varieties so the incentive to undertake R'&'D never diminishes.
+This keeps the economy growing.
+
+Before working through the mechanics of all these models, let us introduce a graphical device that will further clarify the basic differences between exogenous and endogenous growth models.
+This device will also help us understand why the saving (or investment) rate does not affect the long-run growth rate ln the former models but does affect it in the latter.
+
+[1] This assumption implies that the depreciation rate is independent of economic conditions.
+More realistically, firms choose the intensity at which they use their capital, and when capital is used more intensively, it depreciates faster.
+Hence, in the real world, & is a function of economic conditions.
+We will, however, abstract from the choice of capacity utilization here, and assume that & is constant.
+
+Nonetheless we will see later that the rate of depreciation is an important determinant of the rate of economic growth.
+Thus, endogeneizing the depreciation rate is potentially a productive area of research. 
+
+[2] More generally, in an open economy, the difference between saving and investment is equal to the current account balance.
+
+[3] Early economists used to confine the intertemporal optimization analysis to normative issues.
+The celebrated Ramsey (1928) paper starts with the sentence "The first problem I propose to tackle is this: how much of its income should a nation save?" (p.543).
+Contemporaneous economists, on the other hand, use intertemporal optimizing models for descriptive or positive analysis as well.
+Following Barro (1974), the representative agent is assumed to be a family or group of individuals linked to each other through bequests.
+
+[4] In Section 3 we will show that a constant saving rate is optimal under certain conditions. 
+
+[5] In the real world, people choose how many children tohave and whether to migrate or not.
+For example, if the production of children requires that parents spend time with their kids, then high wages will tend to deter reproduction.
+
+Similarly, high future wages induce higher fertility rates because children will become grown-ups who will earn those future wages.
+Interest rates will also affect fertility rates if the parent's utility function exhibits diminishing returns to children.
+This is true because, in this case, parents would like to smooth children over time (much in the same way they want to smooth consumption).
+Wages and interest rates should also affect mortality rates by affecting the amount of time people spend working rather than taking care of themselves or their children.
+In terms of migration, high wages in a country tend to attract immigrants.
+Hence, economic conditions (such as wages, interest rates and so on) should, in principle, affect the rate of population growth.
+However, we simplify the analysis here by abstracting from these important, interesting, and largely unresolved issues, which should be the subject of future research (see Barro and Sala-i-Martin (1994), Chapter 9, for examples of growth models with endogenous fertility and migration.
+I know of no growth models that incorporate endogenous mortality rates) 
+
+[6] Notice that the difference between expressing the accumulation equation in levels or ln per capita terms is the addition of the term nk to dk.
+We can in fact think of nk as some extra depreciation since it represents the loss of capital per person due to the addition of population.
+Note in particular that in the hypothetical case where people do not save anything (s=O), capital per person would fall both because capital falls (depreciation) and because the number of people increases (population growth).
+
+[7] From now on we denote steady-state values of the various variables with stars.
+
+[8] Productivity growth in the neoclassical model had to be exogenous because in a world of competitive markets and CRS technologies, the rewards to all private inputs (given by the marginal products) exhaust the value of the final product.
+Since technology is a public good (in the sense of being a non-rival and non-excludable good), there are no resources left to finance activities such asresearch and development.
+
+[9] Note that when the rate of population growth is positive, xxx , the technology exhibits IRS, so that xxx applies, then there is no steady-state growth rate xxx which satisfies the key equality (1.6).
+
+What occurs in this case is that the growth rate is never constant, but rather, increases over time.
+This phenomenon, also known as scale effect, explains why all the models of endogenous growth with IRS always assume no population growth. 
+
+MODELS WITH CONSTANT SAVING RITE: A GRAPHICAL EXPOSITION 
+
+We often hear economic advisors to Third World countries argue that one of the necessary conditions for economic growth and development is an increase in national saving rate.
+The suggested mechanism is that higher savings lead to higher investment (since they must be equal in a closed economy), and higher investment leads to more rapid economic growth.
+In this section, we analyze the conditions under which this policy recommendation is valid.
+For this analysis, we continue to assume a constant saving rate.
+
+Neoclassical Growth 
+
+Let us first imagine that the production function is neoclassical in that exhibits constant returns to scale, xxx , and diminishing returns to each input, xxx .
+Capital per person accumulates according to (1.5).
+If we divide both sides of (1.5) by xxx we get xxx .
+
+The left-hand-side of this equation is the instantaneous growth rate of the stock of capital per person.
+The right-hand-side says that this growth rate is given by the difference between two functions, xxx and xxx .
+We depict these two functions in Figure 1.
+
+The function xxx is independent of k so it is a flat line.
+Since we assume xxx , the function xxx is downward sloping in k, it approaches infinity as k approaches zero, and it approaches zero as k approaches infinity.
+Since xxx is strictly positive, the two curves must cross once and only once in the positive quadrant.
+The value of k at which they cross, denoted by k*, is the steady-state capital per worker given by xxx .
+
+We can use Figure 1 to study the behavior of an economy over time.
+Equation (2.1) says that the growth rate of k is given by the vertical difference between the two curves.
+Hence, the growth rate is positive for xxx and negative for xxx .
+Moreover, the growth rate is larger the further below the steady state an economy is.
+Consider an economy with an initial level of capital xxx below xxx .
+The growth rate of capital is initially large but falls over time as the economy grows towards its steady-state position.
+
+When the economy reaches the steady state, the economy stops growing.
+The behavior is symmetric if the initial capital stock is above steady state.
+We can take logarithms and derivatives of the production function to see that the growth rate of output per capita is proportional to the growth rate of capital per person, xxx .
+It follows that the dynamic behavior of y parallels the behavior of k.
+
+The intuitive reason behind the lack of steady-state growth is the assumption that the returns to capital diminish and approach zero; when the capital stock is low, each addition to the capital stock generates a large increase in output (that is, the marginal product of capital is high).
+Since, by assumption, agents save and invest a constant fraction of this additional output, the increase in the capital stock is large.
+As the capital stock grows however, each additional unit generates fewer and fewer units of output.
+Since agents still save a constant fraction of it, the new additions to the capital stock are smaller and smaller.
+In fact, they would approach zero if the capital stock were arbitrarily large.
+Before reaching zero, however, the economy reaches a point where the new additions to the capital stock are just sufficient to replace the depreciated stock and make up for population growth (at rate n).
+This is just enough to keep the capital per person at a constant level.
+Once the economy reaches this (steady-state) point, it remains there forever.
+
+Imagine that, starting from a steady-state position, the saving rate, s, experiences a sudden and permanent increase (maybe because the government changes the tax structure).
+The curve xxx will shift to the right while the line xxx will be unaffected.
+a the growth rate experiences an immediate increase. 
+b the growth rate falls over time and eventually returns to zero.
+c the new steady-state stock of capital per worker is higher. 
+
+
+The main point is that, even though the permanent increase in the saving rate leads to a short-term increase in the growth rate and an increase in the steady state level of capital per worker, the steady-state growth rate remains unaffected.
+The transitional dynamics following an exogenous and permanent increase in A, & or n are very similar: there is a short-run effect on the growth rate, but in the long run, only the levels of capital and output change.
+
+Incidentally, when the level of technology A increases continuously at a constant rate g (as is the case of the neoclassical models with exogenous productivity growth), then the curve xxx shifts to the right continuously.
+It follows that the steady-state capital stock xxx also shifts to the right at the same rate, g.
+Hence, the steady-state per-capita growth rate of the economy is positive and equal to g.
+
+A Quantitative Measure of the Length of the Transition 
+
+An important question is how quickly the economy reaches the new steady state.
+To answer this question we can log-linearize equation (2.1) around the steady state to get xxx .
+
+The speed of convergence is given by xxx .
+To get a quantitative measure of this speed of convergence we note that the rate of population growth in industrialized nations is between 0.01 and 0.02.
+The depreciation rate is somewhere between 0.05 and 0.1, depending on how we treat residential capital and other durable goods.
+The physical capital share in industrialized countries lies between 0.25 and 0.30.
+Hence, the speed of convergence predicted by the model is somewhere between 0.042 and 0.09.
+In other words, between 4.2 and 9 percent of the gap between xxx and xxx is closed every year.
+These numbers imply half lives of 7.7 and 16 years respectively (that is, half of the distance between xxx and xxx disappears in 7.7 years).
+
+Hence, the speed of convergence towards the steady state is quite large, implying that the transition takes a short period of time.
+
+The predicted speed of convergence would be much smaller if we took a broad view of capital (so as to include things like human capital).
+For instance, if the broad capital share was 0.75, then the predicted speed of convergence would lie somewhere 0.015 and 0.03 (with implied half lives of 23 to 47 years).
+Barro and Sala-i-Martin (1991, 1992) and Mankiw, Romer and Weil (1992) show that these smaller speeds of convergence accord better with the data.
+
+The Convergence Hypothesis 
+
+Figure 1 suggests that the growth rate for an economy which starts below the steady state is high and decreasing.
+This implies that if economies differ ONLY in their initial capital-labor ratios, then we should observe that poor economies grow faster than rich ones (in Figure 1, different economies would be represented by different stocks of ko but all of them would have the same steady state k*).
+Since the growth rate of income per capita is proportional to the growth rate of capital per person, the model also predicts a negative relation between the initial level of income and its growth rate.
+
+This inverse relation between the level of income and its growth rate is known as the convergence hypothesis .
+This hypothesis is interesting because it can be easily tested using data for a cross-section of countries by simply plotting growth rates and levels of income.
+If the correlation is negative, then the economies tend to converge.
+
+But note that the neoclassical model just outlined predicts a negative relation between income and growth rates if the only difference across countries is their initial capital stocks.
+However, if economies also differ in the level of technology, A, the savings rate, s, the depreciation rate, 6, or the rate of population growth, n, then the model does not predict that poor countries should grow faster.
+As an example, consider Figure 2 where two economies (called P for poor and R for rich) have the capital stocks xxx and xxx respectively (with xxx ).
+Imagine that the saving rate in the poor economy is also lower so it converges to a smaller steady-state capital ratio, xxx .
+Note that in this particular example, it happens that the poor economy grows less than the rich one so there is no convergence in the absolute sense.
+Yet there is conditional convergence in the sense that the growth rate of a country is inversely related to the distance from its steady state.
+In other words, the model predicts convergence only after controlling for the determinants of the steady state.
+This can also be seen in equation (2.2), where the growth rate is negatively related to (the log of) k relative to k*.
+Hence, from an empirical point of view, we need to hold xxx constant.
+Barro and Sala-i-Martin (1991, 1992) and Mankiw, Romer and Weil (1991) find empirical support for the conditional convergence hypothesis and, therefore, for the neoclassical model.
+The capital share needed by the model to fit the data is substantially larger than 0.3 and close to 0.75.
+
+An Extended Solow Model 
+
+The empirical evidence on the convergence hypothesis suggests that the neoclassical model is consistent with the data if the capital share is close to 0.75.
+
+Empirical estimates of the physical capital share in industrialized economies suggest that it is closer to 0.3 than to 0.75.
+Hence, we need to think of K in a broad sense to include other forms of non-physical capital.
+
+To incorporate this idea, Mankiw, Romer and Weil (1992) constructed what they call an 'extended Solow model'.
+
+The model includes three inputs: capital, raw labor and human capital (denoted by H) in a Cobb Douglas technology xxx .
+
+They assume that both human and physical capital can be accumulated out of the output stream so xxx , where dK and dH are the depreciation rates for physical and human capital respectively.
+For simplicity, they assume dK = dH.
+The marginal product of physical and human capital in this model must be equalized at all points in time so xxx .
+This can be rewritten as xxx so human capital must be proportional to physical capital for all t.
+If we plug this equality into the output equation we get xxx , where the effective capital share, xxx , is the sum of the physical and human capital shares, xxx , and where xxx is a constant.
+Hence, the extension of the Solow model to include human capital is just a way to argue that the relevant capital share is larger than the physical capital share.
+In other words, it is a way to argue that the relevant capital share is closer to 0.75 than to 0.3.
+
+Note that the speed of convergence derived in equation (2.2) would depend on the 'broad capital share' xxx , rather than the physical capital share A (so the speed would be equal to xxx ).) If the share of physical capital is xxx and the share of human capital is xxx , then the relevant capital share is 0.75 and the predicted speed of convergence lies somewhere 0.015 and 0.03.
+This is much closer to the findings of Barro and Sala-i-Martin (1991, 1992) and Mankiw, Romer and Weil (1992).
+
+Open Economy Considerations 
+
+The growth models described up to this point assume that the economy is closed, ln that there is no trade of goods, assets or labor across economies.
+The empirical evidence mentioned above deals with economies, such as states within the United States, prefectures within Japan, or even OECD economies, that are not obviously closed.
+Barro, Mankiw and Sala-i-Martin (1992) present an open-economy model where economies can borrow in international capital markets but cannot use all their capital as collateral.
+Using the production (2.3), imagine that physical capital can freely move across borders but human capital cannot.
+Imagine that the world capital market faces a constant world real interest rate r*.
+The assumption of perfect physical mobility would equalize the marginal product of physical capital to the world real interest rate so xxx .
+Using this equality, we can write K as a function of Y as xxx .
+Plug this in the production function (2.3) to get a reduced form production function xxx , where xxx is the relevant capital share and xxx is a constant.
+
+Note that the reduced form production function of this open economy model is identical to the production function of the neoclassical model.
+Moreover, the relevant To log-linearize the equation, we rewrite (2.1) in terms of xxx .
+Note that xxx is the time derivative of xxx .
+The term xxx can be written as xxx .
+The steady-state value of xxx is equal to xxx .
+Take a first-order Taylor approximation of (2.1) around xxx to get (2.2).
+
+NEOCLASSICAL GROWTH: THE RAMSEY MODEL 
+
+The Model of Household-Production 
+
+Up to now we have assumed that household-producers save a constant fraction of their income, without worrying about whether this behavior is rational or not.
+In this section we describe the behavior of the same household-producers [1] , when they are allowed to choose their consumption path in an optimal manner.
+The original model is due to Ramsey (1928) and it was later refined by Cass (1965) and Koopmans (1965).
+
+In this setup, agents are assumed to maximize a utility function of the form xxx where xxx is the discount rate, xxx is consumption per capita at time xxx , and xxx is population.
+Equation (3.1) says that utility is the sum (or integral) of instantaneous utility functions, xxx , between times O and infinity.
+
+Instantaneous utility functions are sometimes called felicity functions .
+Each felicity function is discounted at rate p.
+Note that the planning horizon is infinite.
+
+This may seem to be an unreasonable assumption given that lifetimes are obviously finite.
+Following Barro (1974), however, we may think that individuals care about their utility and about their children's utility.
+In this sense, we must think of agents as dynasties or families where the number of individuals belonging to each dynasty is Lt.
+Under this interpretation, the discount rate (which was described by Ramsey (1928) as " ethically indefensible and arises only from the weakness of the imagination " [2] , (p. 543) at the individual level) represents the fact that individuals care more for their own utility than for that of their children so they discount the future.
+Since ct is consumption per capita, u(ct) is the instantaneous per capita felicity.
+Hence, the instantaneous felicity for the whole dynasty or family is equal to the individual times the number of people in the family (this explains the term Lt in (3.1)).
+
+The felicity function, u(c), is assumed to take the form xxx .
+The parameter xxx measures how concave this utility function is.
+We assume that people's preferences are concave, so xxx , which reflects their desire to enjoy smooth consumption paths over time (that is, people prefer to consume a little bit every day rather than starve to death throughout the month and have a big party at the end of the month).
+The larger the parameter xxx , the larger the desire to smooth consumption.
+If xxx , utility is linear so individuals do not particularly like to smooth consumption.
+As xxx approaches 1, the utility function becomes logarithmic [3] .
+
+We still consider a one-good closed economy, where total output must be either consumed or invested.
+Capital depreciates at the constant rate & and population grows at rate n.
+The budget constraint faced by this household-producer is similar to (1.2).
+
+If we write total savings as total output per capita, F(K,L), minus total consumption, C, the budget constraint can be written as xxx .
+
+i The production function exhibits constant returns to scale &lsqb;so xxx is homogeneous of degree one: xxx .
+ii The marginal products of all inputs are positive and diminishing &lsqb;that is xxx &rsqb;
+iii xxx satisfies the Inada conditions. The Inada conditions require that the marginal product of capital go to zero as capital tends to infinity and go to infinity as capital tends to zero; a similar condition applies for labor.
+
+
+
+Note that the utility function depends on consumption per capita (lower case c) while the budget constraint depends on aggregate consumption.
+We can divide both sides of (3.2) and use the assumption of CRS to write xxx .
+
+The right-hand-side of (3.3) is in per capita terms but the left-hand-side is not.
+We can write K/L as a function of k as follows xxx .
+
+Plug (3.4) in (3.3) and rearrange to get xxx .
+
+Assumption (ii) implies xxx and xxx while assumption (iii) requires xxx .
+As mentioned in Sections 1 and 2, a simple production function that satisfies the neoclassical properties is the Cobb Douglas function xxx .
+This function can be expressed in per-capita terms as xxx .
+
+Agents maximize (3.1) subject to (3.5), given the initial stock of capital xxx .
+In other words, the neoclassical growth problem can be written as xxx subject to xxx where xxx is given.
+
+In order to have a bounded or finite utility (so as to have a meaningful economic problem), we must require that the term inside the integral to go to zero as t goes to infinity.
+This requires xxx .
+
+As we will see later, the steady-state level of consumption is constant.
+It follows that, if the limit in (3.7) has to be zero, it must be the case that xxx .
+
+To solve the model, we set up the Hamiltonian: [4] xxx , where v is the dynamic Lagrange multiplier (or shadow price of investment).
+The first order conditions are: xxx .
+
+Equation (3.10) says that the marginal value of consumption must equal the marginal value of investment.
+Take logarithms of (3.10) to get xxx .
+Now take the derivative with respect to time to get xxx .
+We can now plug this in (3.11) to get the traditional condition for consumption growth: xxx .
+
+Equation (3.13) is often called the Euler Equatton.
+To interpret this Euler equation, it will be convenient to rewrite it as xxx .
+
+The left-hand-side is the return to consumption.
+The discount rate represents the gain in utility from consuming today since we prefer consumption for ourselves rather than for our children.
+
+The return to consumption also includes the term xxx .
+
+If we like a smooth consumption path over time (that is if xxx ), then whenever we expect consumption to be higher in the future (ie, when xxx ),we will want to increase consumption today.
+In other words, positive consumption growth rates imply non-smooth consumption paths.
+Hence, we will want to shift part of the future consumption to today and that is we put a premium on p to compensate for 'early consumption' [5] .
+The right-hand-side is the return to saving (and investment), which is equal to the marginal product of capital minus the depreciation rate, d. Optimizing individuals should, at the margin, be indifferent between consuming and investing.
+This indifference is the one represented by equality (3.13).
+Using the Cobb-Douglas technology, xxx , equation (3.13) can be written as xxx .
+
+Equation (3.12) is the transversality condition.
+One interpretation of this condition is the following: agents who are optimizing do not want to leave anything of value after they die.
+
+If there were something valuable left at the end of their planning horizons, then they could have consumed it earlier thereby increasing their utility.
+It follows that in this case they would not be optimizing in the first place.
+Since the agent in this economy is assumed to 'die' at infinity, equation (3.12) says that the value of the capital stock in the last moment of the planning horizon (that is, at infinity) must be zero.
+The value of the capital stock, in turn, is equal to the stock of capital, kt, times its shadow price xxx [6] .
+
+Equations (3.13) (or (3.14) in the case of Cobb Douglas production) and (3.5) along with the initial condition xxx , and the transversality condition (3.12) fully determine the dynamics of the economy.
+Before studying such dynamics, we want to show that these dynamic equations also apply to two different setups: a competitive market economy-and a planner economy.
+The planner economy is immediate because a planner would choose to maximize utility subject to the economy-wide budget constraint.
+Since (3.5) represents the economy-wide constraint, the planner would use the same utility function and the same constraint as our household-producer.
+The dynamic equations describing the solution would be the same.
+
+Competitive Market Solution 
+
+Consider a setup where households own assets, B, and labour.
+The two sources of income are labour and asset income.
+The competitive wage rate is denoted by w so total wage income is xxx .
+The rate of return to assets is the rate of interest, xxx , so total asset income is xxx .
+
+[1] In the next section we show that the results are identical to those found in a competitive model with separate firms and households. 
+
+[2] Ramsey was considering the optimal choice from a government's point of view.
+He thought that introducing a discount rate was ethically indefensible because that meant the government was giving a larger weight to current as opposed to future generations. 
+
+[3] This can be seen by taking the limit xxx , which is an indeterminate number.
+We can apply l'Hopital's rule and take derivatives of numerator and denominator with respect to xxx to get that the limit is equal to xxx (recall that the derivative of xxx with respect to xxx is xxx ).
+The reason for the term '-1' in the felicity function is that, in its absence, the limit as & tends to 1 would be infinity rather than an indeterminate number so l'Hopital's rule could have not been applied. 
+
+[4] See Barro and Sala-i- Martin (1994, mathematical appendix) for a detailed discussion of the mathematical techniques used to solve this type of dynamic problems.
+
+[5] The opposite is also true: if xxx is negative, then we know that we will have less consumption tomorrow than today.
+Since we want to have a smooth consumption path, we will want to shift some of today's consumption to the future.
+Hence, the term xxx would in this case represent a negative return to consumption today.
+
+[6] We will discuss in a later sub-section that, in a finite horizon problem, the transversality condition would state xxx , where T is the last moment of the planner horizon.
+The interpretation here would be that if the agents are optimizing, then they would not want to leave any capital when they died, unless its price was zero.
+
+Strictly speaking, this intuition does not carry over to the infinite horizon case because there are counter examples where optimal behavior of infinite horizon economic agents violates the transversality conditions.
+See the mathematical appendix in Barro and Sala-i-Martin (1994) for further details on the validity of the transversality condition in infinite horizon problems.
+
+EXOGENOUS PRODUCTIVITY GROWTH 
+
+Classification of Technological Innovations 
+
+We just mentioned that the simple neoclassical model predicts that the long-run rate of growth is zero.
+In order to explain observed long-run growth neoclassical economists amended the model and incorporated exogenous productivity growth.
+In Section 1 we saw that, in the context of a fixed saving rate, the introduction of productivity growth led to long-run economic growth.
+The question is what kind of technological progress should we introduce in our models.
+Some inventions save capital relative to labor (capital saving technological progress), some save labor relative to capital (labor saving technological progress), and some do not save either input relative to the other (neutral or unbiased technological progress).
+
+Notice that the definition of neutral innovations depends on what we mean by "saving".
+The two most popular definitions of unbiased or neutral technological progress are due to Hicks and Harrod respectively.
+
+Hicks argues that a technological innovation is neutral (Hicks-neutral) with respect to capital and labor if and only if the ratio of marginal products remains unchanged for a given capital-labor ratio.
+Consequently, a technological innovation is labor (capital) saving if the marginal product of capital (labor) increases by more than the marginal product of labor (capital) at a given capital-labor ratio.
+Notice that Hicks neutrality amounts to renumbering the isoquants.
+Production functions with Hicks-neutral technological progress can be written as: xxx , where xxx is an index of the state of technology at moment xxx , evolving according to xxx (that is xxx ), and where xxx is still homogeneous of degree one.
+
+The second definition of technological unbiasedness is due to Harrod.
+He says that a technical innovation is neutral (Harrod-neutral) if the relative shares xxx remain unchanged for a given capital- output ratio.
+Robinson (1938) and Uzawa (1961) showed that this implies a production function of the form xxx , where, again, xxx is an index of technology at time xxx and xxx is homogeneous of degree one.
+Notice that this production function says that, with the same amount of capital, we need less and less labor to produce the same amount of output.
+
+Therefore, this function is also known as labor-augmenting technological progress.
+By symmetry we could have thought of technological change as being "capital augmenting", ie xxx .
+This would mean that, for a given number of hours of work xxx , we need decreasing amounts of capital to achieve the same isoquant.
+
+The reason why we care about what kind of technological progress we should postulate is that, as Phelps (1962, 1966) showed, a necessary and sufficient condition for the existence of a steady state in an economy with exogenous technological progress is for this technological progress to be Harrod-neutral or labor- augmenting (see Barro and Sala-i-Martin (1994, Chapter 2) for a detailed and easy derivation of this result).
+
+Note, however, that when we work with Cobb Douglas utility functions the two types of technological progress are identical since xxx .
+
+The Irrelevance of Embodiment 
+
+All types of technological change we have discussed up to now are disembodied in the sense that, when a technological innovation occurs, all existing machines become more productive.
+An example of this would be improvements in computer software: it makes all existing computers better.
+There are many inventions, however, that are not of this type.
+When one invention occurs, only the NEW machines are more productive (as is the case with computer hardware).
+Economists call this embodied technological progress .
+
+In the 1960s, when the neoclassical model of exogenous productivity growth was being developed, there was a debate on the importance of embodiment in economic growth.
+Proponents of what at the time was called "New Investment Theory" (embodied technological progress) said that investment in new machines had the usual effect of increasing the capital stock and the additional effect of modernizing the average capital stock.
+Proponents of the "unimportance of the embodiment question" argued that this new effect was a level effect but that it did not affect the steady state rate of growth.
+In a couple of important papers Solow (1969) and Phelps (1962) showed the following:
+
+i The neoclassical model with embodied technological progress and perfect competition (so the marginal product of labor is equal for all workers no matter what the vintage of the machine they are using is) can be rewritten in a way that is equivalent to the neoclassical model with disembodied progress (Solow &lsqb;1969&rsqb;). 
+ii The steady-state rate of growth is independent of the fraction of progress that is embodied although it is dependent on the total rate of technical progress (Phelps &lsqb;1962&rsqb;). 
+iii The speed of convergence is larger the larger is the fraction of embodied progress, (Phelps &lsqb;1962&rsqb;). 
+
+Thus, the distinction between embodied and disembodied progress seems unimportant when studying long-run issues but might be crucial when studying short-run dynamics [1] .
+The modelling of embodied technological progress is quite complicated because one has to keep track of all old vintages of capital and associated labor.
+Yet a simple way to think about it is to postulate a technology-free production function xxx , and an accumulation function of the form xxx , where xxx and xxx is a measure of aggregate capital.
+This function reflects the fact that a unit of saving xxx in a later period generates a larger increase in capital than a unit of saving in an earlier period.
+This is like saying that later vintages of capital are more productive.
+
+The Neoclassical Model with Technological Progress 
+
+Let us go back to the labor augmenting form as depicted in equation (4.2).
+Note that output depends on K and on the factor xxx .
+This factor is sometimes called the effective labor input.
+Agents maximize utility (3.1) subject to a constraint like (3.5), except that output is now given by (4.2).
+In order to solve the model, we will express it in units of effective labor, much in the same way we solved the Ramsey model in Section 3 by expressing all equations in per capita terms.
+Let variables with 'hats' be in effective units (so xxx ).
+We can write the utility function as xxx and the budget constraint as xxx .
+
+Agents maximize (4.3) subject to (4.4), given xxx .
+The model is exactly the same as the Ramsey model of the previous section with two small differences.
+First, the effective discount rate in the utility function is xxx rather than xxx .
+Second, the effective depreciation rate is xxx rather than xxx .
+Leaving these two trivial differences aside, the model exactly parallels that of the previous section so we will not reproduce its solution here.
+Let us just mention that the bounded utility condition is now xxx , while the differential equation describing consumption growth is now xxx .
+
+The transversality condition requires xxx , where v is the shadow price of capital.
+Equations (4.4) and (4.6) determine the dynamics of xxx and xxx .
+Their behavior parallels that of xxx and xxx in Figure 9.
+The steady-state growth rate for all per capita variables is xxx .
+
+[1] The importance of embodiment in modelling business cycles can be seen from the fact that an embodied shock affects the marginal product of capital but does NOT affect the marginal product of labor or current output supply.
+This is a key difference with respect to a disembodied shock, especially in as far as the implications for the procyclicality of real wages and real interest rates is concerned.
+
+CONVEX ENDOGENOUS GROWTH MODELS: THE AK MODEL. 
+
+The model of household production. 
+
+In this second part of the lecture notes we review the recent literature by studying models of endogenous growth.
+We start with the simplest one of them, the AK model.
+Although various researchers have used linear technologies throughout history (see in particular Von Neuman (1937)), Sergio Rebelo (1991) is credited with the first linear model within the new endogenous growth literature of the 1980s.
+The production function is assumed to be linear in the only input, capital.
+Hence, the production function exhibits both constant returns to scale and constant returns to capital: xxx , where xxx is an exogenous constant and K is aggregate capital broadly defined.
+We consider first a household-producer setup where household-producers are assumed to maximize an infinite-horizon utility function similar to (3.1) xxx where xxx is the discount rate, xxx is the constant rate of population growth, and xxx is the inverse of the constant elasticity of substitution, which reflects the desire to smooth consumption over time (see Section (3) for more discussion of this utility function).
+
+We consider a closed-economy setup where aggregate gross saving is equal to aggregate gross investment.
+Gross investment, in turn, is equal to the net increase in the capital stock plus total depreciation.
+Assuming a constant depreciation rate, the accumulation constraint can be written in per capita terms as xxx .
+
+Equation (5.3) corresponds to equation (3.5), the only difference being that technology is now given by xxx rather than xxx .
+Households maximize (5.2) subject to (5.3), taking the initial capital stock xxx as given.
+To solve this problem, we construct the Hamiltonian: xxx .
+
+The first-order conditions are: xxx .
+
+As in Section 2, we can transform (5.5) into an equation for the growth rate of c by taking its logarithms and time derivatives and plugging in (5.6) to get xxx .
+
+Note that (5.8) says that consumption grows at a constant rate at all points in time.
+We assume xxx so that positive growth rates are feasible.
+To interpret equation (5.8) we can rewrite it as xxx .
+
+Again, the left-hand-side is the return to consumption and the right-hand-side is the return to investment.
+The return to consumption depends on the discount rate (because people like their children but they like themselves better) and it depends on the growth rate for consumption-smoothing reasons.
+If the growth rate is positive, then people want to smooth their consumption paths by bringing some future consumption to the present.
+
+The right-hand-side is the return to investment which is simply the net marginal product of capital, which is equal to xxx (there are no adjustment costs or diminishing returns to capital so the return is independent of the growth rate or the capital stock).
+
+To find the steady-state growth rate of per-capita capital, divide both sides of the dynamic constraint (5.3) by xxx to get xxx .
+
+In the steady state, the growth rate of capital xxx is constant.
+Put all the constants of (5.10) on one side of the equation, and take logs and time derivatives to get xxx .
+Since output is proportional to xxx , the growth rate of xxx is the same as the growth rate of xxx so xxx .
+In other words, the steady-state growth rates of consumption, capital and output per capita are identical, xxx and given by (5.8).
+Equation (5.6) says that the shadow price xxx grows at the constant rate xxx .
+Hence, we can write it as xxx .
+
+Plug this into the transversality condition (5.7) to get xxx .
+
+The Bounded Utility Condition 
+
+A positive steady-state growth rate of consumption means that the term xxx in the utility function increases without bounds.
+Since the utility function, xxx , is the discounted sum of infinitely many such terms, xxx will be infinite unless we restrict the set of admissible parameters.
+If utility were infinite, there would not be any reason for consumers to maximize utility since they would already be getting infinite happiness!
+In order to make utility bounded, we need the term inside the integral to go to zero as time goes to infinity.
+Since consumption always grows at the constant rate xxx given by (5.8), we can write ct as xxx .
+Hence, the consumption term in the utility function can be written as xxx .
+Note that in order to make this term go to zero as t goes to infinity, it must be the case that xxx .
+Using the expression for xxx in (5.8), we get that the condition to get bounded utility is xxx .
+
+In other words, the discount rate has to be large enough in order to make utility bounded.
+
+Transitional Dynamics 
+
+We showed that, in the steady state, consumption, capital and output per capita grow at the same constant rate.
+
+Equation (5.8), which holds for all t, indicates that consumption will always grow at a constant rate given by xxx , so consumption is always in the steady state .
+We now show that capital and output also grow at the same constant rate at all times.
+Hence, the model exhibits no transitional dynamics.
+
+Take the budget constraint (5.3) and integrate it between xxx and xxx (pre-multiply both sides by the integrating factor xxx and take into account that xxx , to get xxx .
+
+The solution to (5.14) is: xxx , where xxx .
+We can now put xxx from (5.15) in the transversality condition (5.12) and let xxx go to infinity to get xxx .
+
+Since xxx , the second term in the brackets converges towards zero.
+Hence, the transversality condition requires the constant term in (5.15) to be zero so that xxx .
+This means that capital is proportional to consumption so that it grows at the same rate at all points in time.
+Since output is proportional to capital, its growth rate is also constant at all points in time.
+It follows that the AK economy exhibits no transitional dynamics in that all variables exhibit constant rates all the time.
+
+The convergence Hypothesis 
+
+Unlike the neoclassical model, this model does not predict convergence (absolute or conditional).
+Consider a set of countries with the same parameter values xxx and xxx .
+Imagine that the only difference among them is the initial stock of capital xxx .
+The Ak model predicts that the growth rate for all the countries will be constant at the rate in (5.8).
+Hence, the growth rate will not be related to the level of income (negatively related or otherwise).
+
+Imagine, on the other hand, that countries differ also in their productivity parameters xxx .
+Since xxx , low growth countries will remain low growth countries forever, independently of initial income or product.
+Again, the model predicts no relation between growth and the initial level of income.
+An alternative way to get this result is to use the linearization around steady state developed in Section 3 and let the capital share, xxx , go to one.
+Notice that in this case, the parameter xxx in (3.29) is equal to zero so that the 'negative' eigenvalue is xxx .
+The convergence equation (3.29) says that the coefficient on initial income predicted by this model is exactly zero.
+
+As mentioned in Section 2, this convergence implication has been used by a heterogeneity of authors to test the neoclassical model against endogenous growth models.
+The main result arising from these empirical studies is that convergence appears to be a string regularity in a variety of data sets, at least in a conditional sense.
+
+The Market Economy 
+
+We can show that the results found in the previous subsection coincide with the results we would find in a competitive market framework where households buy output from, and sell their inputs to firms.
+Since the analysis closely parallels that of Section (3), we will not go over all the steps here.
+Households maximize (5.2) subject to xxx where xxx is the amount of assets per person and xxx is the rate of return on these assets.
+Because the AK model assumes no labor, wage income is neglected in (5.17).
+Equation (5.17) says that total income per capita, xxx , must be allocated between consumption and purchases of new assets, xxx .
+As in Sections 1 and 2, the term nb appears in (5.17) to reflect the fact that, other things equal, an increase in xxx reduces the amount of assets per person.
+
+The first order conditions of this maximization problem entail an Euler equation of the form xxx , and a transversality condition xxx .
+
+Firms hire the only input of production, capital, and use the AK technology to produce output so as to maximize profits.
+The first order conditions for firms require the equalization of rates of return to net marginal products xxx .
+
+Since we assume that the economy is closed, the only asset in positive net supply is capital, so xxx .
+By substituting this, (5.19) and xxx in (5.17) we get the aggregate budget constraint (5.3).
+By plugging (5.19) in (5.18) we get (5.8).
+Finally, by plugging xxx in the transversality condition we get (5.12).
+The dynamic equations of the market economy, (5.8) and (5.3) and the terminal condition (5.12), therefore, coincide with those of the household-producer economy.
+It follows that the two setups are identical.
+
+As was the case in the neoclassical model of Section 3, a planner would maximize the same utility function subject to an economy-wide resource constraint.
+Since (5.3) is an economy-wide resource constraint, the planner problem would coincide with the household production problem.
+It follows that the dynamic equations characterizing the solution also coincide.
+
+Human Capital as a Way to Motivate the AK Technology 
+
+We mentioned in Section 2 that we could interpret the AK technology as a model with physical and human capital.
+
+We now make this connection explicit by postulating a Cobb Douglas production function with two inputs, physical capital, xxx , and human capital, xxx : xxx , with xxx . xxx is a constant parameter that reflects the level of the technology.
+Assume that the two inputs, xxx and xxx , can be accumulated by foregoing consumption so that xxx where xxx and xxx are the depreciation rates for physical and human capital respectively. (5.21) implies that the two types of capital are perfect substitutes on the asset side, so asset holders would require the rate of return to the two assets to coincide.
+
+Since the rate of return to each asset is given by its net marginal product, this would require xxx .
+If we assume that the two depreciation rates are identical, we then get xxx which provides a one-to-one relation between xxx and xxx , xxx .
+
+Plug (5.23) in the production function (5.20) to get xxx , where xxx is a constant.
+Hence, we can think of the AK model as a model of physical and human capital where the rates of return to the two capital stocks is equal at all points in time.
+
+PUBLIC SPENDING AND GROWTH 
+
+The Model of Household Production 
+
+Barro (1990) provides another way to think of an AK technology by introducing publicly provided inputs into the production function.
+Hence, output is assumed to depend on two inputs: private capital, xxx , and a publicly provided input, xxx [1] .
+The production function exhibits constant returns to scale but diminishing returns to each input.
+
+In the original article, Barro assumes that xxx is a private good which is provided by the government.
+Alternatively, we could think of pure non-rival public goods in the Samuelson (1954) sense or public goods subject to congestion (such as highways, airports or courts of law).
+In fact, it could be persuasively argued that most (if not all) public goods correspond to this last category.
+In these notes, however, we will follow Barro (1990) and think of g as a publicly provided private good (see Barro and Sala-i-Martin (1992) for the extensions.) In its Cobb-Douglas specification, aggregate output is given by xxx , with xxx .
+We assume that every individual is a very small part of the economy so each of them takes public spending as given.
+We also assume that the government has to balance its budget at all times (no public debt is permitted), and that the only source of public income is an income tax at the constant rate xxx .
+Agents maximize the utility function (5.2) subject to xxx , taking xxx and xxx as given.
+Note that the constraint is similar to (5.3), the only differences being that the production function is given by (6.1), and that agents care about after-tax income rather than gross income.
+The government collects xxx units of income and transforms them into public goods xxx .
+Hence, the public budget constraint is xxx .
+
+Since individuals take government expenditures as given (that is, when they optimize they do not take into consideration the effect which their investment decisions have on the amount spent by the government through &lsqb;6.3&rsqb;), they face a concave problem.
+Hence, standard optimization techniques apply.
+The Hamiltonian is xxx .
+
+The first order conditions are: xxx .
+
+By taking logs and derivatives of both sides of (6.5) and substituting in (6.6) we get the usual growth condition which states that consumption growth is proportional to the difference between the rate of return (or the net marginal product of capital), and the term xxx .
+
+We can now manipulate the government budget constraint (6.3) to get the tax rate, xxx , as a function of xxx .
+Rearrange for xxx to get: xxx .
+
+Plug (6.9) into (6.8) to get the growth rate as a function of the parameters xxx and xxx .
+
+As usual, dividing the dynamic constraint (6.2) by xxx , and taking logs and time derivatives of both sides, we find that steady-state growth rate of capital is equal to the steady-state growth rate of consumption xxx .
+Since xxx is constant, the growth rate of consumption is always constant.
+
+Proceeding as we did in the last section, we can show that consumption is always proportional to capital, so capital always grows at a constant rate.
+
+The public budget constraint says that if xxx is constant and xxx is growing at a constant rate, then xxx must be growing at a constant rate.
+
+Since all inputs grow at the rate xxx , output also grows at a constant rate all the time.
+Like the AK model, therefore, the Barro (1990) exhibits no transitional dynamics.
+
+The intuition behind the existence of endogenous growth in this model is the following: when private individuals decide to save one unit of consumption and purchase a unit of capital with it, the government is forced (because it wants to maintain a constant xxx to provide one more unit of the public input, xxx .
+Hence, because xxx and xxx grow together, xxx can be thought as just another input that can be accumulated.
+
+Since we are assuming constant returns to xxx and xxx , production exhibits constant returns to the inputs that can be accumulated.
+The production function effectively becomes AK.
+
+The Relation between the size of the Government and the growth Rate 
+
+Equation (6.10) relates the growth rate of the economy to the tax rate, xxx .
+The government budget constraint says that the tax rate is equal to the size of the government, xxx .
+We can ask what is the relation between the size of the government and the growth rate.
+If xxx is zero, then the after-tax marginal product of capital is zero, so the growth rate in (6.10) is negative xxx .
+The reason is that when xxx is zero, the government cannot provide any public goods.
+When there are no public goods, the return to private investment is zero (as can be seen by taking derivatives of output with respect to xxx and letting xxx ).
+At the other extreme, when xxx is equal to one, the government provides enormous amounts of public goods, which makes private capital very productive.
+The problem is that the after-tax return is again zero since the government keeps all output through the 100 percent tax rate.
+Again the growth rate is negative.
+For intermediate values of xxx , the relation between xxx and xxx is an inverse u-shape with a maximum occurring at [2] xxx .
+
+Equation (6.11) says that the government would maximize growth [3] by setting its size equal to the size that the market would dictate in a competitive equilibrium with private inputs.
+In other words, the government's output share would be equal to the share dictated by the technology, xxx . (Note that xxx is the exponent of the public input in the production function.) The growth rate in this case would be xxx .
+
+The Command Economy and Optimal Growth 
+
+It is easy to show that the competitive market setup would deliver the same answer as the household-producer setup we are considering here.
+Since the proof is exactly the same as the one in Section (5), we do not reproduce it here.
+
+Unlike the AK model, however, the solution adopted by a planner, would now be different.
+The intuitive reason behind this result is that, unlike private individuals, the planner will take into account the effects of private investment on public income, which, in turn, affects the rest of the private agents.
+In other words, when an agent decides to invest, he looks only at the private rate of return to his investment.
+In reality however, when he invests one extra unit of capital, he increases the tax income received by the public sector.
+The public sector uses this extra income to provide extra units of g which increase the marginal product of all producers (note the similarity between this effect and an externality).
+The actual (or social) rate of return is higher than the private rate of return.
+But because each of the producers represents a very small part of the economy, no one takes this effect into consideration.
+In effect there is an 'investment externality' which operates through the government budget constraint.
+
+Algebraically, the planner maximizes utility subject to the private constraint (6.2) and subject to the public budget constraint (6.3).
+To solve this problem, substitute (6.3) into (6.2) to get xxx .
+
+Hence, the planner maximizes (5.2), subject to (6.12).
+
+The new Hamiltonian is: xxx .
+
+The first order conditions are xxx .
+
+By substituting in the usual way we will get the planner's growth rate is given by xxx .
+
+The difference between this growth rate and the competitive growth rate in (6.10) is the term xxx multiplying the rate of return in (6.10).
+
+Since xxx , it is clear that the competitive solution yields a lower growth rate for all xxx .
+The intuition was outlined above: private individuals do not take into consideration the effect which their investment decisions have on the budget constraint of the government and, as a result, on the productivity of all other producers.
+Since their perceived rate of return is lower than the social one, they tend to underinvest and the economy to grow at a rate lower than optimal.
+Notice, finally, that the growth rate is maximized at xxx , the same result as in the competitive equilibrium.
+By plugging xxx for xxx in both (6.10) and (6.17) we get that the growth rate achieved by the planner would be higher than the growth rate achieved by the government that sets the tax rate to its optimal size, xxx , and then lets the markets function competitively.
+
+[1] In a slight abuse of notation we are denoting government spending by xxx .
+Thus, xxx does NOT correspond to exogenous productivity growth as it did in previous sections.
+
+[2] To find (6.11), just take derivatives of the growth rate (6.10) with respect to xxx and set equal to zero.
+
+[3] In this setup with Cobb Douglas production functions and constant elasticity of substitution utility functions, the maximization of the growth rate is equivalent to themaximization of utility, xxx .
+
+LEARNING-BY-DOING AND KNOWLEDGE SPILLOVERS 
+
+The Model with Household Production 
+
+In the paper that started the literature on endogenous growth, Romer (1986) eliminated the tendency for diminishing returns to capital by assuming that knowledge creation was a side-product of investment in physical capital.
+This technique, known as learning- by-doing was borrowed from Arrow (1962) and Sheshinski (1967).
+
+Arrow argued that the acquisition of knowledge (learning) is related to experience.
+He cited examples from the airframe industry where there is strong evidence of the interplay between experience and increasing productivity.
+
+He argued that a good measure of increase in experience is investment because " each new machine produced and put into use is capable of changing the environment in which production takes place, so that learning takes place with continuous new stimuli" (p. 157).
+It follows that an index of experience is cumulative investment or capital stock.
+More formally, let the production function for firm i be a function of capital and labor.
+Let us assume that technology, xxx , is labor augmenting xxx .
+
+The function xxx satisfies the neoclassical properties described in Section (3).
+Unlike Chapter 3, however, xxx is not assumed to grow at an exogenous rate, xxx .
+Instead, it is assumed to grow along with investment (which captures Arrow's idea).
+
+Moreover, knowledge is assumed to be a public good in that, once one firm has improved knowledge, all firms have access to it.
+This phenomenon is known as ' knowledge spillovers '.
+It follows that the stock of knowledge should grow with the total amount of investment in the economy so xxx , where xxx is the aggregate capital stock.
+By integrating both investment and increases in knowledge between xxx and today we get xxx .
+
+This means that, at time xxx , the state of knowledge is proportional to the stock of capital.
+
+Assuming a Cobb Douglas technology, we can write output for firm xxx as xxx .
+
+This production exhibits constant returns to scale, holding xxx fixed.
+However, if each producer increases xxx , then xxx rises accordingly.
+When xxx and xxx increase in the same proportion, so does output.
+In other words, output exhibits constant returns to xxx and xxx at the aggregate level.
+This constancy of returns to the inputs that can be accumulated is what will end up generating endogenous growth.
+
+We assume that the number of firms is a large constant number, xxx .
+Since xxx is large, every firm takes the aggregate stock of capital as given, even though xxx .
+By aggregating across firms, the aggregate xxx production function is xxx where xxx and xxx .
+Since it is convenient to work in per capita terms, we divide both sides of (7.4) by xxx to get xxx ,where xxx and xxx .
+
+Assuming no population growth, households maximize a utility function of the form (5.2) (with xxx ) subject to xxx taking the initial capital stock xxx and xxx as given.
+To solve the problem we set up the familiar Hamiltonian: xxx .
+
+The First Order Conditions are xxx .
+
+Equilibrium in the capital market requires that total capital be equal to the sum of individual capital stocks.
+
+Since xxx is the total amount of capital per person in the economy, total capital is equal to xxx times the amount of people xxx , so xxx .
+Using this condition, taking logs and derivatives of (7.8), and plugging in equation (7.9), we get the growth rate of consumption xxx , which states that the growth rate of consumption is proportional to the difference between the net marginal product of capital and the individual discount rate.
+We can divide both sides of the dynamic constraint (7.6) by xxx and then take logs and derivatives to show that the capital stock will grow, in the steady-state, at the same rate as consumption.
+Since aggregate output is effectively proportional to aggregate capital, the growth rates of xxx and xxx are the same so output also grows at the same rate.
+
+Using the same procedure we used for the AK model, it is easy to show that these growth rates are constant and equal to (7.11) at all times.
+Thus, the model exhibits no transitional dynamics (that is xxx for all xxx ).
+
+Scale Effects 
+
+An interesting feature of (7.11) is that the growth rate depends on the stock of population.
+This is known as a scale effect because it says that countries with larger populations will tend to grow faster.
+Similarly, it says that if xxx is growing over time, then the growth rate of output per capita increases over time so there is steady-state growth (this, in fact, is the reason for assuming no population growth at the beginning of this section).
+The data for a large number of countries in the post world war II period indicate that per-capita growth rates are unrelated to the size of population (see Bakus, Kehoe and Kehoe (1992) and Kremer (1993) for evidence on these scale effects.)
+
+The technical reason behind the scale effect is that the externality is assumed to depend on the aggregate stock of capital.
+One way to get rid of the scale effect is to assume that the stock of knowledge, somehow depends on the average stock of capital xxx .
+Note that if we substitute xxx for xxx in (7.1) we will get that the marginal product of capital, and therefore the growth rate, are independent of xxx .
+
+Planner Solution and Policy Implications 
+
+A planner confronted with a production function of the form (7.1) would take into account that when a firm invests, it increases the stock of knowledge from which all other firms in the economy may benefit.
+Hence, when calculating first-order conditions, we would take derivatives with respect to all capital (including the part that is external to the firm).
+In other words, the planner would maximize the utility function (5.2) subject to (7.6) and xxx .
+
+If we plug (7.12) in (7.6) the Hamiltonian becomes xxx .
+
+We can compute the first-order conditions as usual and we will get that the growth rate for the planner economy is given by xxx .
+
+The only difference between the competitive growth rate (7.11) and (7.14) is that in (7.11) there is a xxx multiplying xxx .
+Since xxx , the planner achieves a higher growth rate.
+
+The reason is that the planner internalizes the externality.
+He thereby takes into consideration the fact that when a person invests one more unit of capital, it increases the aggregate stock of knowledge which increases everybody else's productivity.
+Competitive household-producers, on the other hand, do not internalize this externality.
+
+In terms of policy implications, the solution attained by the social planner can be attained in the decentralized economy by introducing an investment tax credit at the rate xxx and financing it with a lump sum tax.
+
+Alternatively, the optimum can be achieved with a subsidy to production at the rate xxx .
+Again the subsidy would have to be financed with a lump sum tax.
+
+An interesting extension of Romer's model to the open economy is provided by Young (1991).
+He sets up a two-country world with one developed (the North) and one less developed (the South) country.
+There are two goods, a high-technology good and a low-technology good.
+When trade between the two countries occurs, the North specializes in high-technology and the South does the opposite (as in a model of comparative advantage).
+Since the production of high technology is assumed to lead to more rapid learning-by-doing, the effect of free trade is to increase growth in the North, but potentially decrease it in the South.
+
+The Empirical Relevance of Learning-by-Doing and Knowledge Spillovers 
+
+The remaining question to be answered in this section relates to the empirical importance of learning-by-doing and knowledge spillovers.
+Arrow (1962) cites evidence from the airline industry to show that productivity in the production of airplanes increased as the number of airplanes produced by a single firm increased.
+Searle (1945) and Rapping (1965) provide further evidence using data on the production of cargo vessels -the Liberty Ship Yards - during World War II.
+From 1941 to 1944, these shipyards produced a total of 2458 ships, all with the same design.
+The authors plotted the amount of man-hours required to produce a single vessel against the number of vessels completed to date.
+The results were striking: the reduction in man-hours per ship with each doubling of cumulative output ranged between 12 and 24 percent.
+
+In terms of the importance of spillovers, Caballero and Lyons (1992) show that, for U.S. and European manufacturing, the size of the knowledge externalities is significantly positive, but maybe not as large as the one required by Romer's theory to generate endogenous growth (in the Cobb Douglas specification, the exponent on the aggregate capital stock would be around seven percent).
+
+Caballero and Jaffe (1993) arrive at similar conclusions.
+
+HUMAN CAPITAL ACCUMULATION AND GROWTH 
+
+The Model with Household- Producers 
+
+In Section (5) we argued that thinking of labor as human capital (and therefore, transforming labor into a factor that can be accumulated) was one way to generate an AK technology.
+One implicit assumption in that argument was, however, that physical and human capital were similar goods in that they could be accumulated by simply foregoing consumption.
+In other words, we implicitly assumed that they were produced with the same technology.
+
+One could convincingly argue that physical and human capital are goods with entirely different properties, which are produced with entirely different technologies.
+
+In the labor literature, for example, it has been argued that the production of human capital (that is, the education process) involves relatively more human capital than the production of physical goods.
+In other words, education is more intensive in human capital.
+
+Following Uzawa (1965), Lucas (1988) exploits this idea and constructs a two-sector model of endogenous growth.
+
+In one sector, final output is produced by combining physical and human capital.
+This physical output can be consumed, or it can be transformed into physical capital.
+
+In the other sector, human capital is purposefully produced and accumulated by using physical and human capital.
+The technology to produce human capital is assumed to be different from the technology used to produce final output.
+
+Let xxx be the fraction of time individuals spend working in the final output sector.
+If we let xxx be a measure of the average quality of workers and xxx be the number of bodies, then total effective (or quality adjusted) labor used in the final output sector is equal to xxx , where the term xxx is called human capital, and xxx is the fraction of human capital used in the final output sector.
+Uzawa (1965) assumed a Cobb Douglas production function in physical and human capital, so output is given by xxx .
+
+This production function exhibits constant returns to physical and human capital since doubling K and uhL doubles final output.
+Lucas (1988) extends (8.1) to include an externality in the average stock of human capital.
+This externality is meant to reflect the fact that people are more productive when they are around clever people.
+If we let xxx be the average human capital of the labor force, the production function becomes xxx , where xxx represents the externality from the average stock of human capital.
+This externality is not essential for the model to generate endogenous growth, but Lucas assumes it in order to get some other results on population movements.
+The accumulation constraint for physical capital is xxx , where xxx is the constant rate of depreciation of physical capital.
+We can write this in per capita terms as xxx .
+
+The reason for individuals not to want to spend all their time working in the final output sector (remember that we still assume that there is no leisure), is that they may want to spend some time increasing their human capital.
+
+That is, they may want to study.
+We assume that the production of human capital uses human capital as its only inputs.
+Moreover, we assume constant returns to scale.
+We can write this in per capita terms as xxx .
+
+Equation (8.5) says that the net increase in the stock of human capital per person is equal to the production of human capital minus depreciation, where xxx is the constant depreciation rate.
+As usual, the effective depreciation rate of per-capita variables involves the term nh, which reflects the fact that, other things equal, new additions to population reduce the amount of human capital per person.
+The production of human capital, in turn, is given by xxx .
+That is, the only input in this sector is human capital, which is equal to the total amount of time spent in this sector (given by xxx ) times the quality of the average person xxx .
+This extreme assumption reflects the fact that the human capital sector is relatively more intensive in human capital [1] .
+The constant xxx represents the productivity parameter in the education sector.
+
+Individuals choose a stream of consumption, xxx , and the fraction of time to be spent in each sector, xxx and xxx , so as to maximize the standard intertemporal utility function (5.2), subject to the two constraints (8.4) and (8.5).
+They take the initial stocks xxx and xxx and the economy-wide average stock of human capital, xxx , as given.
+
+Steady-State Behavior 
+
+The main difference between this and the previous analyses is that we now have two dynamic constraints and two control variables ( xxx and xxx ) instead of one.
+Hence, when we construct the Hamiltonian we include two shadow prices xxx , where xxx and xxx are the shadow prices of physical and human capital investment respectively.
+The five first-order-conditions are xxx .
+
+Equations (8.7) and (8.8) are the first order conditions with respect to the two control variables, c and u, respectively.
+Equations (8.9) and (8.10) are the first order conditions with respect to the two state variables, xxx and xxx , respectively.
+As usual, these require the change of the relevant shadow price over time to be equal to minus the derivative of the Hamiltonian with respect to the corresponding state variable.
+Finally, (8.11) displays the two transversality conditions.
+
+In equilibrium, it will be the case that h (the average human capital) is equal to xxx (also the average human capital) so xxx .
+
+To simplify the algebra, we assume that the depreciation rates of the two capital stocks are the same, so xxx .
+We can get a dynamic equation for xxx by taking logs and derivatives of (8.7) and using (8.9) and (8.12) to get: xxx .
+
+Divide the dynamic constraint of physical capital accumulation by xxx to find xxx .
+
+Now realize that the first term of the right-hand-side is (from equation &lsqb;8.13&rsqb;) equal to xxx .
+
+By definition, the steady-state growth rates of xxx and xxx are constant.
+Put all the constants on the right-hand-side, and take logs and time derivatives of both sides to get xxx .
+Thus, the steady-state growth rates for consumption and capital are identical.
+We now want to find how xxx relates to xxx and xxx .
+Take equation (8.13), put all the constants on the left-hand-side to get: xxx .
+
+Since xxx is a fraction between zero and one, its steady-state growth rate must be zero.
+Take logs and derivatives of (8.15) to get xxx which relates the steady-state growth rate of human capital to that of physical capital and consumption.
+Equation (8.16) says that, if there were no externalities xxx then the growth rate of human capital would coincide with the growth rate of physical capital.
+In the presence of externalities, however, xxx grows at a smaller rate than xxx .
+If we take logs and derivatives of output, we get xxx where (8.16) has been used to derive this last equality.
+Hence, output per capita grows at the same rate as physical capital and consumption xxx .
+
+We now have to find the value of either xxx or xxx as a function of the parameters of the model.
+Equation (8.8) relates the relative shadow price xxx to marginal product of xxx .
+
+Again, take logs and derivatives of both sides to get xxx .
+
+We can rewrite (8.7) to find an expression for xxx .
+
+To find an expression for xxx , we rewrite (8.8) as xxx .
+Plug in (8.10) to get xxx .
+
+That is, the shadow price of human capital decreases at a constant rate xxx (recall that xxx is the productivity parameter of the education technology).
+
+Substitute (8.20) and (8.21) into (8.19) to get xxx .
+
+Use the equality xxx and (8.16) to find the equilibrium growth rate of human capital xxx .
+
+Using (8.16), the growth rate of consumption, physical capital and output is given by xxx .
+
+Note that in the absence of externalities, xxx , the growth rates are xxx .
+It is interesting to note that this is similar to the growth rate predicted by the AK model.
+The only difference is that the productivity parameter which matters for growth is xxx (productivity of education) rather than xxx A (productivity of the final output sector).
+The sector that really drives the economy is the production of human capital [2] .
+
+The steady-state fraction of time spent in education can be found rearranging (8.5) xxx .
+
+If we restrict the parameters to get xxx and xxx then we run into the usual problem of potentially infinite utility.
+The bounded utility condition requires xxx .
+
+Transitional Dynamics 
+
+Unlike the AK model, this model displays transitional dynamics.
+The dynamics are so complicated, however, that Lucas (1988) analyzed the steady-state behavior of the model and left the transitional dynamics unexplained.
+In the last few years, a number of researchers have uncovered the qualitative and quantitative behavior of the Uzawa-Lucas model along the transition.
+For example, Caballe and Santos (1993) proved that the model exhibits saddle-path stability in the absence of externalities.
+Because of the complicated mathematical arguments they use, the qualitative behavior of the different variables, however, remained unexplained.
+Benhabib and Perli (1993) argued that, if the externality is sufficiently large, then the model can display multiple equilibria (they do this by linearizing the system around the steady state and searching for parameters that yield more than one negative eigenvalue).
+
+Faig (1991) and Barro and Sala-i-Martin (1994, Chapter 5), use simple graphical tools to analyze the transition.
+
+These graphical tools, however, apply only to the case of no externalities.
+Mulligan and Sala-i-Martin (1993) use a numerical technique called the Time Elimination Method to compute the exact behavior of the different variables along the transition.
+Their method has the advantage of being applicable to the Uzawa-Lucas model with or without externalities as well as more complicated models (that, for instance, use physical capital in the production of human capital.) The disadvantage of numerical techniques is that only one result can be reported for each set of parameters.
+
+To get the intuition on what these dynamics depend upon, consider the case of no externalities.
+We showed earlier that when xxx , then the steady-state growth rates of physical and human capital coincide.
+This implies that the steady-state ratio, xxx , is constant.
+Transitional dynamics in this model arise if the initial stocks of xxx and xxx make the initial ratio, xxx , different from xxx .
+In other words, transitions in this model arise because there is an initial imbalance between the two sectors, not because the level of income is different from the steady-state.
+One of the most interesting findings is the asymmetric behavior of xxx and xxx : the growth rate of an economy with a low xxx ratio will above steady state.
+The growth rate of an economy with a high xxx ratio will be below steady state (see Mulligan and Sala-i-Martin (1993)).
+Hence, an economy that loses a lot of human capital relative to physical capital (perhaps because of a war that killed a lot of people, while leaving the stock of physical capital relatively unaffected) will tend to grow slowly.
+On the contrary, if an economy loses a lot of physical capital relative to human capital, the growth rate is predicted to be large along the recovery.
+
+Examples of such economies were Japan and Germany after World War II.
+
+The Command Economy 
+
+The difference between the planner and the competitive equilibrium described in the previous subsection is that the planner would internalize the externality.
+In other words, the planner would take into consideration the fact that when somebody increase his human capital stock, he increases the average capital stock xxx , and, through the term xxx , affects everybody else's productivity.
+This effect is ignored by competitive households.
+Effectively, when we compute the first order condition with respect to xxx , we would include the derivative of xxx as part of it.
+Having said that, the rest of the solution would be computed as before.
+The final rate of growth of human capital would be given by xxx .
+
+Notice that, as one should expect, in the absence of externalities, this growth rate would coincide with the competitive rate, xxx .
+That is, in the absence of externalities, the competitive equilibrium is optimal since the private and social incentives to invest in education coincide.
+When the externality is positive, on the other hand, the optimal growth rate is always larger than the competitive growth rate.
+The reason for this that the private return to study is lower than the social one, so in a market economy people will not invest in human capital as much as would be socially optimal.
+
+An interesting extension of this model to the open economy is provided by Stokey (1991).
+She constructs a model where different qualities of goods are produced by people with different stocks of human capital.
+She finds that free trade may be bad for poor countries because it may discourage investment in human capital.
+She uses this framework to analyze the repercussions of opening up the economy to international trade.
+
+[1] Alternatively, we could assume an education technology that uses both physical and human capital like xxx .
+If this sector is more intensive in human capital, then we would have xxx .
+Note that Uzawa and Lucas make the extreme assumption that xxx .
+The assumption xxx is crucial in order to get closed form formulas for the steady-state growth rates.
+See Mulligan and Sala-i-Martin (1993) for a treatment of the more general models.
+
+[2] This result depends crucially on the assumption that the education sector employs no physical capital.
+It does not generalize, for instance, to the case xxx , with xxx .
+In a more general model, the importance of the two productivity parameters xxx and xxx depends on the relative size of the physical capital shares xxx and xxx .
+See Mulligan and Sala-i-Martin (1993) for a discussion.
+
+R'&'D MODELS OF GROWTH: EXPANDING THE NUMBER OF PRODUCTS 
+
+Introduction 
+
+The models of endogenous growth described up to now emphasize the absence of diminishing returns to capital as the main engine of growth.
+In Section 3 of these notes, we noted that the neoclassical model of Ramsey was consistent with positive long-run growth rates only if technology was assumed to grow at an exogenous rate .
+In Romer (1986), technology increased as a side-product of investment through learning-by-doing.
+Hence, even though the rate of technological progress changed in response to economic agents' behavior, it was still not the outcome of a purposefully done activity.
+An important fraction of the endogenous growth literature investigates the determinants of the rate of technological progress and relates these determinants to the aggregate rate of growth of the economy.
+The common feature of all these models is the existence of firms devoted to research and development (R'&'D).
+
+Two metaphors have been used in the literature to make the endogeneization of technology a tractable problem.
+In one of them, technological progress takes the form of an increase in the number of products or capital available as inputs of production .
+It is assumed that there are no diminishing returns to the number of capital goods so the model is able to generate perpetual growth as R'&'D firms keep coming up with new products.
+
+Examples of this type of model can be found in Romer (1987, 1990), Grossman and Helpman (1991, Chapter 3), and Barro and Sala-i-Martin (1994, Chapter 6).
+
+In the second metaphor, technological progress takes the form of improvements in the quality of a limited number of products .
+When a firm is able to improve the quality of a certain capital good, then it can steal the market for that particular type of good in a Schumpeterian fashion.
+New firms invest in R'&'D in an effort to steal the markets of the incumbent firms.
+
+Incumbent firms, in turn, invest in R'&'D to maintain their technological leadership as well as their market.
+
+Examples of these models are found in Aghion and Howitt (1992), Grossman and Helpman (1991, Chapter 4) and Barro and Sala-i-Martin (1994, Chapter 7).
+
+In these notes, we will describe one version of a model of increasing number of products.
+The model is a simplified version of Romer (1990).
+There are three agents in the economy.
+First, there are producers of final output.
+They use a technology that uses labor and a number of different capital goods.
+They rent these capital goods from the firms who invented them.
+Second, there are the inventors of the capital goods.
+They invest a certain amount of resources (R'&'D) in order to create a new product.
+Once created, they hold a patent giving them the perpetual monopoly to produce and rent it.
+And finally, there are consumers who choose consumption and savings so as to maximize the usual utility function subject to the usual intertemporal constraint.
+We next describe the behavior of the three sets of agents.
+
+Producers of Final Goods 
+
+Producers of final goods face a production function of the form xxx where xxx are intermediate inputs, xxx is a technological parameter and xxx is labor.
+In other words, output is produced with labor and a set of xxx (the amount of inputs available xxx can, and will, change over time).
+Spence (1976) and Dixit and Stiglitz (1977) modeled utility as depending on a variety of consumption goods in a formulation similar to (9.1).
+Ethier (1982) reinterpreted the Spence-Dixit-Stiglitz utility function in terms of production of a single output using a variety of inputs.
+This is the approach taken here.
+
+Technological progress in this model takes the form of a constant increase in xxx .
+The additively-separable form of (9.1) implies that new goods are different from old ones, but they are not better (or worse).
+In particular, old goods never become obsolete.
+
+An important point about (9.1) is that it exhibits diminishing returns to each capital good, xxx , but it exhibits constant returns to the total amount of capital goods xxx .
+To see this, imagine that, at one point in time, the amount of each of the goods is the same: xxx for all xxx (this will be true in equilibrium).
+Output can be written as xxx .
+
+For a given xxx , (9.2) implies that output exhibits constant returns to xxx and xxx .
+For given quantities of xxx and xxx , equation (9.2) indicates that output increases in the number of products.
+For a given xxx , production encounters diminishing returns to xxx if the increase in xxx comes from increases in xxx , but it does not if it comes from an increase in xxx .
+It is this constancy of returns with respect to xxx what allows the economy to generate positive growth rates forever (in a sense, this model is an AK model where the good that can be accumulated is the number of products xxx ).
+
+Firms hire labor in a competitive market and rent each of the xxx types of capital xxx at rate xxx .
+They combine these inputs according to (9.1) to produce output, xxx , which they sell at unit price.
+They maximize the present value of all future cash flows xxx where xxx is given by (9.1).
+Since there is nothing intertemporal about this problem (no adjustment costs or accumulation of any good), the maximization of (9.3) is equivalent to the maximization of instantaneous profits at all points in time.
+The first order conditions entail the equalization of marginal products to rental rates.
+We assume no population growth.
+The first order condition for good xxx can be written as xxx which is a demand function for good xxx .
+Equation (9.4) says that the demand for good xxx is negatively related to its rental rate xxx , where the demand elasticity is xxx .
+
+R'&'D Firms: The Creation of New Products 
+
+In order to create a new capital good, R'&'D firms must invest resources.
+We assume that this investment is a fixed amount of output [1] , xxx .
+Once the good has been invented, it can be produced at a constant marginal cost, xxx , and rented at rate xxx to the producers of final goods.
+Society gives these firms a perpetual monopoly in the production of the goods they invented.
+Hence, they are able to charge rental rates above marginal costs in order to recoup their initial R'&'D investment.
+They choose the rental rate xxx and the amount to be produced so as to maximize profits, taking the demand for their output, xxx , as given by (9.4) xxx subject to xxx and to (9.4).
+We assumed that the goods xxx do not depreciate over time so net and gross investment coincide.
+Notice that (9.5) includes the rental income between times zero and infinity discounted at the real interest rate xxx .
+It also includes the future marginal costs of producing increasing quantities of xxx is the increase in production of xxx , the marginal cost of producing the initial quantity xxx and the fixed R'&'D cost xxx .
+We can set up the Hamiltonian for this problem as xxx where xxx is the dynamic multiplier and where xxx has been substituted away using (9.4).
+The first order conditions are xxx along with the transversality condition xxx .
+Note that, after taking logs and derivatives, equation 9.7) can be transformed into xxx .
+Using this equality and (9.7), we can write (9.8) as xxx , which shows the relation between xxx and the real interest rate.
+This relation can be rewritten as xxx .
+
+One interesting aspect of (9.10) is that xxx is a function of constants and a function of xxx , the economy-wide interest rate.
+In particular, it is independent of xxx .
+Hence, the quantities of all goods xxx must be the same so xxx for all xxx .
+Moreover, since the equilibrium interest rate will end up being constant over time, then xxx will also be constant.
+It follows that the investment in each of the goods is zero, xxx .
+
+When a good is discovered, a quantity xxx is produced instantly, and the product is never produced again [2] .
+
+The optimal rental rate can be found by substituting xxx into (9.4) xxx .
+
+Equation(9.11) can be interpreted as follows: the asset value of a firm that invests in R'&'D and discovers a new variety is the present value of all future rental incomes, xxx .
+Equation (9.11) says that the price of such an asset is a constant markup over the marginal cost, the markup being a function of the demand elasticity (this result derives from the constant elasticity demand functions in (9.4)).
+Notice that xxx is independent of xxx so all goods will have the same market rental rate.
+
+The condition of free entry into the R'&'D activity implies that the cost of investing in R'&'D will equal the present value of all future gains.
+That is xxx .
+
+Since xxx equals xxx for all periods, and xxx is zero for all xxx , this present value condition implies xxx .
+
+We can use the rental rate (9.11) and (9.13) to find a relation between xxx and the parameters of the model xxx .
+
+Equation (9.15) says that, in equilibrium, the quantity of each good xxx is constant, and it is equal across all goods.
+We can now combine (9.15) and (9.10) to get rid of xxx which is a constant relation between the real interest rate and the parameters of the model.
+
+Consumers 
+
+To close the model we need to specify the behavior of consumers over time.
+Consumers have access to bonds, xxx , which yield the interest rate xxx .
+
+They receive asset and labor income, and they choose between consumption and saving so as to maximize the usual utility function, subject to the usual constraint.
+
+Since we have solved this problem in previous sections, we will not reproduce it here.
+Let us simply mention that the resulting Euler equation is xxx .
+
+We can substitute (9.16) into (9.17) to find the growth rate of the economy xxx .
+
+Note that the growth rate is decreasing in the R'&'D cost, xxx .
+It is also decreasing on the monopoly price charged by the R'&'D firms, xxx (recall from equation (9.11) that xxx is the constant markup over the marginal cost).
+The steady-state growth rates of output and xxx coincide with the growth rate of xxx , so they are also given by (9.18).
+
+Finally, note that the growth rate is positively related to the stock of population, xxx .
+Hence, like the Romer (1986) model outlined in Section 7, this model displays a scale effect.
+The reason is that technology in these models is a non-rival good: the cost of inventing a new product is independent of the number of people who use it.
+Thus, holding constant the share of resources devoted to research, an increase in population leads to an increase in technological change.
+
+The Planner' s Solution 
+
+The planner would maximize utility (5.2) subject to an aggregate resource constraint requiring total income, xxx , to be equal to total spending, xxx .
+The rate of return faced by the planner would be xxx and the corresponding growth rate would be xxx .
+
+It turns out, given the Cobb Douglas specification for output, that the competitive choice of xxx coincides with the quantity that would be chosen by a planner.
+
+[1] Romer (1990) and Grossman and Helpman (1991, Chapter 3) assume that the research technology uses labor only.
+In this case, changes in real wages have an effect on the fixed R'&'D cost.
+
+[2] This result depends on the assumption of no depreciation.
+If there were depreciation, then there would have to be positive gross investment rates in order to keep theamount xxx constant over time.

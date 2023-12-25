@@ -1,0 +1,4143 @@
+##	TAG	<div1>
+##	TAG	<head>
+1	TOK	NONVIRAL	BOS	nonviral\JA
+2	TOK	STRATEGIES		strategy\N5P
+3	TOK	FOR		FOR\N5S
+4	TOK	GENE		gene\N5S
+5	TOK	THERAPY	EOS	therapy\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+7	TOK	Many	BOS	many\AI---P
+8	TOK	drawbacks		drawback\N5P
+9	TOK	of		of\P
+10	TOK	viral		viral\JA
+11	TOK	gene		gene\N5S
+12	TOK	delivery		delivery\N5S
+13	TOK	agents		agent\N5P
+14	TOK	might		may\VOFDR66
+15	TOK	be		be\VMI----
+16	TOK	overcome		overcome\VMC----
+17	TOK	by		by\P
+18	TOK	nonviral		nonviral\JA
+19	TOK	systems		system\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+20	TOK	Studies	BOS	study\N5P
+21	TOK	in		in\P
+22	TOK	patients		patient\N5P
+23	TOK	suggest		suggest\VMF6R66
+24	TOK	these		this\AD---P
+25	TOK	systems		system\N5P
+26	TOK	have		have\V6F6R66
+27	TOK	potential		potential\JA
+28	TOK	as		as\P
+29	TOK	therapies		therapy\N5P
+30	TOK	and		and\CC
+31	TOK	as		as\P
+32	TOK	vaccines		vaccine\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+33	TOK	As	BOS	as\P
+##	TAG	<name>
+34	TOK	Theodore Friedmann		Theodore_Friedmann\N46
+##	TAG	</name>
+35	TOK	notes		note\N5P
+36	TOK	in		in\P
+---	DLE	"		=\DELIM
+##	TAG	<name>
+37	TOK	Overcoming		Overcoming\N46
+##	TAG	</name>
+38	TOK	the		the\AT---6
+##	TAG	<name>
+39	TOK	Obstacles		Obstacles\N46
+##	TAG	</name>
+40	TOK	to		to\P
+##	TAG	<name>
+41	TOK	Gene Therapy		Gene_Therapy\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+42	TOK	on		on\P
+43	TOK	page		page\N5S
+##	TAG	<num>
+44	TOK	96		96\X
+##	TAG	</num>
+45	TOK	of		of\P
+46	TOK	this		this\AD---S
+47	TOK	issue		issue\N5S
+---	DLD	,		=\DELIM
+48	TOK	many		many\AI---P
+49	TOK	efforts		effort\N5P
+50	TOK	at		at\P
+51	TOK	developing		developing\JA
+52	TOK	gene		gene\N5S
+53	TOK	therapy		therapy\N5S
+54	TOK	employ		employ\VMF6R66
+55	TOK	modified		modify\VMC----
+56	TOK	viruses		virus\N5P
+57	TOK	to		to\P
+58	TOK	shuttle		shuttle\N5S
+59	TOK	into		into\P
+60	TOK	human		human\JA
+61	TOK	cells		cell\N5P
+62	TOK	genes		gene\N5P
+63	TOK	coding		code\VMG----
+64	TOK	for		for\P
+65	TOK	potentially		potentially\DGA7
+66	TOK	therapeutic		therapeutic\JA
+67	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+68	TOK	The	BOS	the\AT---6
+69	TOK	aim		aim\N5S
+70	TOK	is		be\V6FDRS3
+71	TOK	to		to\P
+72	TOK	induce		induce\VMI----
+73	TOK	cells		cell\N5P
+74	TOK	that		that\RW63N6
+75	TOK	are		be\V6FDR66
+76	TOK	invaded		invade\VMC----
+77	TOK	by		by\P
+78	TOK	a		a\AI---S
+79	TOK	virus		virus\N5S
+80	TOK	to		to\P
+81	TOK	transfer		transfer\VMI----
+82	TOK	the		the\AT---6
+83	TOK	gene		gene\N5S
+84	TOK	to		to\P
+85	TOK	the		the\AT---6
+86	TOK	cell		cell\N5S
+87	TOK	nucleus		nucleus\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+88	TOK	The	BOS	the\AT---6
+89	TOK	cells		cell\N5P
+90	TOK	should		shall\VOFDA66
+91	TOK	then		then\DGA7
+---	DLE	"		=\DELIM
+92	TOK	express		express\VMF6R66
+---	DLD	,		=\DELIM
+---	DLD	"		=\DELIM
+93	TOK	or		or\CC
+94	TOK	manufacture		manufacture\VMF6R66
+---	DLD	,		=\DELIM
+95	TOK	the		the\AT---6
+96	TOK	needed		need\VMC----
+97	TOK	protein		protein\N5S
+98	TOK	specified		specify\VMC----
+99	TOK	by		by\P
+100	TOK	the		the\AT---6
+101	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+102	TOK	Viruses	BOS	virus\N5P
+103	TOK	are		be\V6FDR66
+104	TOK	effective		effective\JA
+105	TOK	at		at\P
+106	TOK	transferring		transfer\VMG----
+107	TOK	genes		gene\N5P
+108	TOK	into		into\P
+109	TOK	cells		cell\N5P
+110	TOK	because		because\CS
+111	TOK	they		they\RPP3NN
+112	TOK	have		have\V6F6R66
+113	TOK	evolved		evolve\VMC----
+114	TOK	specialized		specialize\VMC----
+115	TOK	mechanisms		mechanism\N5P
+116	TOK	that		that\RW63N6
+117	TOK	allow		allow\VMF6R66
+118	TOK	them		them\RPP3NA
+119	TOK	to		to\P
+120	TOK	bind		bind\VMI----
+121	TOK	to		to\P
+122	TOK	specific		specific\JA
+123	TOK	types		type\N5P
+124	TOK	of		of\P
+125	TOK	cells		cell\N5P
+126	TOK	and		and\CC
+127	TOK	to		to\P
+128	TOK	deliver		deliver\VMI----
+129	TOK	their		their\APP3N6
+130	TOK	cargo		cargo\N5S
+131	TOK	efficiently		efficiently\DGA7
+132	TOK	into		into\P
+133	TOK	the		the\AT---6
+134	TOK	cellular		cellular\JA
+135	TOK	interior		interior\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+136	TOK	Yet	BOS	yet\DGA7
+137	TOK	the		the\AT---6
+138	TOK	therapeutic		therapeutic\JA
+139	TOK	use		use\N5S
+140	TOK	of		of\P
+141	TOK	viruses		virus\N5P
+142	TOK	as		as\P
+143	TOK	gene		gene\N5S
+144	TOK	delivery		delivery\N5S
+145	TOK	vehicles		vehicle\N5P
+---	DLD	,		=\DELIM
+146	TOK	or		or\CC
+147	TOK	vectors		vector\N5P
+---	DLD	,		=\DELIM
+148	TOK	entails		entail\VMFDRS3
+149	TOK	problems		problem\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+150	TOK	Some	BOS	some\AG---6
+151	TOK	viruses		virus\N5P
+152	TOK	can		can\VOFDR66
+153	TOK	disrupt		disrupt\VMI----
+154	TOK	the		the\AT---6
+##	TAG	<name>
+155	TOK	DNA		DNA\N46
+##	TAG	</name>
+156	TOK	of		of\P
+157	TOK	the		the\AT---6
+158	TOK	cells		cell\N5P
+159	TOK	they		they\RPP3NN
+160	TOK	infect		infect\VMF6R66
+---	DLD	,		=\DELIM
+161	TOK	with		with\P
+162	TOK	potentially		potentially\DGA7
+163	TOK	harmful		harmful\JA
+164	TOK	results		result\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+165	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+166	TOK	weakened		weaken\VMC----
+167	TOK	viruses		virus\N5P
+168	TOK	can		can\VOFDR66
+169	TOK	conceivably		conceivably\DGA7
+170	TOK	change		change\VMI----
+171	TOK	inside		inside\P
+172	TOK	the		the\AT---6
+173	TOK	body		body\N5S
+174	TOK	and		and\CC
+175	TOK	regain		regain\VMI----
+176	TOK	their		their\APP3N6
+177	TOK	pathogenic		pathogenic\JA
+178	TOK	activity		activity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+179	TOK	An	BOS	an\AI---S
+180	TOK	additional		additional\JA
+181	TOK	serious		serious\JA
+182	TOK	limitation		limitation\N5S
+183	TOK	is		be\V6FDRS3
+184	TOK	that		that\CS
+185	TOK	a		a\AI---S
+186	TOK	patient		patient\N5S
+187	TOK	may		may\VOFDR66
+188	TOK	generate		generate\VMI----
+189	TOK	an		an\AI---S
+190	TOK	immune		immune\JA
+191	TOK	response		response\N5S
+192	TOK	to		to\P
+193	TOK	the		the\AT---6
+194	TOK	microbe		microbe\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+195	TOK	Such	BOS	such\JA
+196	TOK	responses		response\N5P
+197	TOK	can		can\VOFDR66
+198	TOK	quickly		quickly\DGA7
+199	TOK	make		make\VMI----
+200	TOK	a		a\AI---S
+201	TOK	gene		gene\N5S
+202	TOK	therapy		therapy\N5S
+203	TOK	useless		useless\JA
+---	DLD	,		=\DELIM
+204	TOK	because		because\CS
+205	TOK	they		they\RPP3NN
+206	TOK	may		may\VOFDR66
+207	TOK	either		either\DGA7
+208	TOK	destroy		destroy\VMI----
+209	TOK	the		the\AT---6
+210	TOK	virus		virus\N5S
+211	TOK	itself		itself\RXS3N-
+212	TOK	or		or\CC
+213	TOK	possibly		possibly\DGA7
+214	TOK	kill		kill\VMF6R66
+215	TOK	the		the\AT---6
+216	TOK	infected		infect\VMC----
+217	TOK	cells		cell\N5P
+218	TOK	before		before\P
+219	TOK	the		the\AT---6
+220	TOK	therapeutic		therapeutic\JA
+221	TOK	gene		gene\N5S
+222	TOK	has		have\V6FDRS3
+223	TOK	a		a\AI---S
+224	TOK	chance		chance\N5S
+225	TOK	to		to\P
+226	TOK	help		help\VMI----
+227	TOK	a		a\AI---S
+228	TOK	patient		patient\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+229	TOK	For	BOS	for\P
+230	TOK	these		this\AD---P
+231	TOK	reasons		reason\N5P
+---	DLD	,		=\DELIM
+232	TOK	researchers		researcher\N5P
+233	TOK	have		have\V6F6R66
+234	TOK	long		long\DGA7
+235	TOK	wanted		want\VMC----
+236	TOK	to		to\P
+237	TOK	deliver		deliver\VMI----
+238	TOK	therapeutic		therapeutic\JA
+239	TOK	genes		gene\N5P
+240	TOK	to		to\P
+241	TOK	cells		cell\N5P
+242	TOK	without		without\P
+243	TOK	using		use\VMG----
+244	TOK	infectious		infectious\JA
+245	TOK	agents		agent\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+246	TOK	Further	BOS	further\DGA7
+---	DLD	,		=\DELIM
+247	TOK	physicians		physician\N5P
+248	TOK	have		have\V6F6R66
+249	TOK	come		come\VMC----
+250	TOK	to		to\P
+251	TOK	realize		realize\VMI----
+252	TOK	over		over\P
+253	TOK	the		the\AT---6
+254	TOK	past		past\JA
+##	TAG	<num>
+255	TOK	five		five\X
+##	TAG	</num>
+256	TOK	years		year\N5P
+257	TOK	or		or\CC
+258	TOK	so		so\DGA7
+259	TOK	that		that\CS
+260	TOK	for		for\P
+261	TOK	many		many\RIP3N-
+262	TOK	of		of\P
+263	TOK	the		the\AT---6
+264	TOK	conditions		condition\N5P
+265	TOK	that		that\RW63N6
+266	TOK	might		may\VOFDR66
+267	TOK	ultimately		ultimately\DGA7
+268	TOK	be		be\VMI----
+269	TOK	treated		treat\VMC----
+270	TOK	by		by\P
+271	TOK	gene		gene\N5S
+272	TOK	therapy		therapy\N5S
+---	DLD	,		=\DELIM
+273	TOK	repeated		repeat\VMC----
+274	TOK	treatments		treatment\N5P
+275	TOK	will		will\VOFDR66
+276	TOK	probably		probably\DGA7
+277	TOK	be		be\VMI----
+278	TOK	needed		need\VMF6A66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DDC7">
+279	TOK	rather than		rather_than\DDC7
+##	TAG	</loc>
+280	TOK	a		a\AI---S
+281	TOK	one		one\MCS
+---	DLI	-		=\DELIM
+282	TOK	time		time\N5S
+283	TOK	procedure		procedure\N5S
+284	TOK	aimed		aim\VMC----
+285	TOK	at		at\P
+286	TOK	producing		produce\VMG----
+287	TOK	a		a\AI---S
+288	TOK	permanent		permanent\JA
+289	TOK	cure		cure\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+290	TOK	Nonviral	BOS	nonviral\JA
+291	TOK	techniques		technique\N5P
+292	TOK	could		can\VOFDA66
+293	TOK	be		be\VMI----
+294	TOK	especially		especially\DGA7
+295	TOK	suitable		suitable\JA
+296	TOK	for		for\P
+297	TOK	repeated		repeat\VMC----
+298	TOK	use		use\N5S
+---	DLD	,		=\DELIM
+299	TOK	because		because\CS
+300	TOK	they		they\RPP3NN
+301	TOK	do		do\V6FDR66
+302	TOK	not		not\DGA7
+303	TOK	elicit		elicit\VMI----
+304	TOK	the		the\AT---6
+305	TOK	immune		immune\JA
+306	TOK	responses		response\N5P
+307	TOK	that		that\RW63N6
+308	TOK	can		can\VOFDR66
+309	TOK	damage		damage\VMI----
+310	TOK	viral		viral\JA
+311	TOK	vectors		vector\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+312	TOK	One	BOS	one\MCS
+313	TOK	approach		approach\N5S
+314	TOK	I		I\N5P
+315	TOK	have		have\V6F6R66
+316	TOK	studied		study\VMC----
+---	DLD	,		=\DELIM
+317	TOK	which		which\RW63N-
+318	TOK	is		be\V6FDRS3
+319	TOK	now		now\DGA7
+320	TOK	being		be\VMG----
+321	TOK	tested		test\VMC----
+322	TOK	in		in\P
+323	TOK	humans		human\N5P
+---	DLD	,		=\DELIM
+324	TOK	employs		employ\VMFDRS3
+325	TOK	complexes		complex\N5P
+326	TOK	consisting		consist\VMG----
+327	TOK	of		of\P
+##	TAG	<name>
+328	TOK	DNA		DNA\N46
+##	TAG	</name>
+329	TOK	and		and\CC
+330	TOK	nonimmunogenic		nonimmunogenic\JA
+331	TOK	lipids		lipid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+332	TOK	Recent	BOS	recent\JA
+333	TOK	years		year\N5P
+334	TOK	have		have\V6F6R66
+335	TOK	also		also\DGA7
+336	TOK	seen		see\VMC----
+337	TOK	the		the\AT---6
+338	TOK	surprising		surprising\JA
+339	TOK	discovery		discovery\N5S
+340	TOK	that		that\CS
+341	TOK	injecting		inject\VMG----
+---	DLE	"		=\DELIM
+342	TOK	naked		naked\JA
+---	DLD	"		=\DELIM
+##	TAG	<name>
+343	TOK	DNA		DNA\N46
+##	TAG	</name>
+344	TOK	into		into\P
+345	TOK	experimental		experimental\JA
+346	TOK	animals		animal\N5P
+347	TOK	and		and\CC
+348	TOK	patients		patient\N5P
+349	TOK	can		can\VOFDR66
+350	TOK	provoke		provoke\VMI----
+351	TOK	expression		expression\N5S
+352	TOK	of		of\P
+353	TOK	encoded		encode\VMC----
+354	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+355	TOK	This	BOS	this\AD---S
+356	TOK	second		second\MOS
+357	TOK	approach		approach\N5S
+---	DLD	,		=\DELIM
+358	TOK	as		as\DGA7
+359	TOK	will		will\VOFDR66
+360	TOK	be		be\VMI----
+361	TOK	seen		see\VMC----
+---	DLD	,		=\DELIM
+362	TOK	holds		hold\VMFDRS3
+363	TOK	particular		particular\JA
+364	TOK	promise		promise\N5S
+365	TOK	for		for\P
+366	TOK	new		new\JA
+367	TOK	vaccines		vaccine\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+368	TOK	Electrical	BOS	electrical\JA
+##	TAG	<name>
+369	TOK	Problems	EOS	Problems\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+371	TOK	Scientists	BOS	scientist\N5P
+372	TOK	have		have\V6F6R66
+373	TOK	long		long\DGA7
+374	TOK	been		be\VMC----
+375	TOK	enchanted		enchant\VMC----
+376	TOK	by		by\P
+377	TOK	the		the\AT---6
+378	TOK	possibility		possibility\N5S
+379	TOK	that		that\CS
+380	TOK	they		they\RPP3NN
+381	TOK	could		can\VOFDA66
+382	TOK	alter		alter\VMI----
+383	TOK	cells		cell\N5P
+384	TOK	in		in\P
+385	TOK	selected		select\VMC----
+386	TOK	ways		way\N5P
+387	TOK	by		by\P
+388	TOK	putting		put\VMG----
+389	TOK	foreign		foreign\JA
+##	TAG	<name>
+390	TOK	DNA		DNA\N46
+##	TAG	</name>
+391	TOK	into		into\P
+392	TOK	them		them\RPP3NA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+393	TOK	John	BOS	john\N5S
+##	TAG	<name>
+394	TOK	Holland		Holland\N46
+##	TAG	</name>
+395	TOK	of		of\P
+396	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+397	TOK	University of California		University_of_California\N46
+##	TAG	</name>
+398	TOK	at		at\P
+##	TAG	<name pos="N46" type="place">
+399	TOK	San Diego		San_Diego\N46
+##	TAG	</name>
+400	TOK	and		and\CC
+401	TOK	several		several\JA
+402	TOK	of		of\P
+403	TOK	his		his\APS3M6
+404	TOK	contemporaries		contemporary\N5P
+405	TOK	showed		show\VMF6A66
+406	TOK	as		as\CS
+##	TAG	<loc pos="DGA7">
+407	TOK	long ago		long_ago\DGA7
+##	TAG	</loc>
+408	TOK	as		as\P
+409	TOK	the		the\AT---6
+410	TOK	mid		mid\JA
+---	DLD	-		=\DELIM
+##	TAG	<na type="code">
+411	TOK	1950s		noanat\W
+##	TAG	</na>
+412	TOK	that		that\RW63N6
+413	TOK	cells		cell\N5P
+414	TOK	could		can\VOFDA66
+415	TOK	take		take\VMI----
+416	TOK	up		up\P
+417	TOK	nucleic		nucleic\JA
+418	TOK	acids		acid\N5P
+---	DLE	(		=\DELIM
+##	TAG	<name>
+419	TOK	RNA		RNA\N46
+##	TAG	</name>
+420	TOK	or		or\CC
+##	TAG	<name>
+421	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+422	TOK	extracted		extract\VMC----
+423	TOK	from		from\P
+424	TOK	viruses		virus\N5P
+425	TOK	and		and\CC
+426	TOK	express		express\VMF6R66
+427	TOK	them		them\RPP3NA
+428	TOK	as		as\P
+429	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+430	TOK	This	BOS	this\AD---S
+431	TOK	discovery		discovery\N5S
+432	TOK	provided		provide\VMF6A66
+433	TOK	an		an\AI---S
+434	TOK	incentive		incentive\N5S
+435	TOK	for		for\P
+436	TOK	scientists		scientist\N5P
+437	TOK	to		to\P
+438	TOK	improve		improve\VMI----
+439	TOK	the		the\AT---6
+440	TOK	efficiency		efficiency\N5S
+441	TOK	of		of\P
+442	TOK	gene		gene\N5S
+---	DLE	"		=\DELIM
+443	TOK	transfection		transfection\N5S
+---	DLD	,		=\DELIM
+---	DLD	"		=\DELIM
+444	TOK	the		the\AT---6
+445	TOK	delivery		delivery\N5S
+446	TOK	of		of\P
+447	TOK	functional		functional\JA
+448	TOK	genes		gene\N5P
+449	TOK	to		to\P
+450	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+451	TOK	During	BOS	during\P
+452	TOK	the		the\AT---6
+##	TAG	<na type="code">
+453	TOK	1960s		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+454	TOK	investigators		investigator\N5P
+455	TOK	established		establish\VMC----
+456	TOK	that		that\CS
+457	TOK	a		a\AI---S
+458	TOK	principal		principal\JA
+459	TOK	obstacle		obstacle\N5S
+460	TOK	to		to\P
+461	TOK	the		the\AT---6
+462	TOK	uptake		uptake\N5S
+463	TOK	of		of\P
+##	TAG	<name>
+464	TOK	DNA		DNA\N46
+##	TAG	</name>
+465	TOK	by		by\P
+466	TOK	cells		cell\N5P
+467	TOK	was		be\V6F-A66
+468	TOK	that		that\CS
+469	TOK	in		in\P
+470	TOK	water		water\N5S
+471	TOK	solution		solution\N5S
+---	DLD	,		=\DELIM
+472	TOK	such		such\JA
+473	TOK	as		as\P
+474	TOK	the		the\AT---6
+475	TOK	milieu		milieu\N5S
+476	TOK	that		that\RW63N6
+477	TOK	bathes		bathe\VMFDRS3
+478	TOK	cells		cell\N5P
+479	TOK	in		in\P
+480	TOK	the		the\AT---6
+481	TOK	body		body\N5S
+---	DLD	,		=\DELIM
+482	TOK	the		the\AT---6
+483	TOK	molecule		molecule\N5S
+484	TOK	has		have\V6FDRS3
+485	TOK	a		a\AI---S
+486	TOK	negative		negative\JA
+487	TOK	electrical		electrical\JA
+488	TOK	charge		charge\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+489	TOK	This	BOS	this\AD---S
+490	TOK	means		mean\N56
+491	TOK	it		it\RPS3N6
+492	TOK	tends		tend\VMFDRS3
+493	TOK	to		to\P
+494	TOK	be		be\VMI----
+495	TOK	repelled		repel\VMC----
+496	TOK	from		from\P
+497	TOK	the		the\AT---6
+498	TOK	membranes		membrane\N5P
+499	TOK	of		of\P
+500	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+501	TOK	because		because\CS
+502	TOK	they		they\RPP3NN
+503	TOK	are		be\V6FDR66
+504	TOK	also		also\DGA7
+505	TOK	negatively		negatively\DGA7
+506	TOK	charged		charge\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+507	TOK	Researchers	BOS	researcher\N5P
+508	TOK	therefore		therefore\DGA7
+509	TOK	developed		develop\VMF6A66
+510	TOK	techniques		technique\N5P
+511	TOK	that		that\RW63N6
+512	TOK	combined		combine\VMF6A66
+##	TAG	<name>
+513	TOK	DNA		DNA\N46
+##	TAG	</name>
+514	TOK	with		with\P
+515	TOK	chemicals		chemical\N5P
+516	TOK	that		that\RW63N6
+517	TOK	electrically		electrically\DGA7
+518	TOK	neutralized		neutralize\VMC----
+519	TOK	it		it\RPS3N6
+520	TOK	and		and\CC
+521	TOK	so		so\DGA7
+522	TOK	allowed		allow\VMF6A66
+523	TOK	it		it\RPS3N6
+524	TOK	to		to\P
+525	TOK	be		be\VMI----
+526	TOK	absorbed		absorb\VMC----
+527	TOK	more		more\DDC7
+528	TOK	easily		easily\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+529	TOK	One	BOS	one\MCS
+530	TOK	technique		technique\N5S
+531	TOK	made		make\VMC----
+532	TOK	use		use\N5S
+533	TOK	of		of\P
+534	TOK	a		a\AI---S
+535	TOK	positively		positively\DGA7
+536	TOK	charged		charge\VMC----
+537	TOK	organic		organic\JA
+538	TOK	polymer		polymer\N5S
+539	TOK	called		call\VMF6A66
+##	TAG	<name>
+540	TOK	DEAE		DEAE\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+541	TOK	dextran		dextran\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+542	TOK	Another	BOS	another\JA
+543	TOK	procedure		procedure\N5S
+544	TOK	employed		employ\VMF6A66
+545	TOK	the		the\AT---6
+546	TOK	mineral		mineral\N5S
+547	TOK	calcium		calcium\N5S
+548	TOK	phosphate		phosphate\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+549	TOK	Researchers	BOS	researcher\N5P
+550	TOK	established		establish\VMC----
+551	TOK	by		by\P
+552	TOK	these		this\AD---P
+553	TOK	means		mean\N56
+554	TOK	that		that\CS
+555	TOK	human		human\JA
+556	TOK	cell		cell\N5S
+557	TOK	cultures		culture\N5P
+558	TOK	could		can\VOFDA66
+559	TOK	take		take\VMI----
+560	TOK	up		up\P
+561	TOK	genes		gene\N5P
+562	TOK	and		and\CC
+563	TOK	permanently		permanently\DGA7
+564	TOK	express		express\VMF6R66
+565	TOK	them		them\RPP3NA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+566	TOK	One	BOS	one\RIS3N-
+567	TOK	important		important\JA
+568	TOK	demonstration		demonstration\N5S
+569	TOK	employed		employ\VMF6A66
+570	TOK	the		the\AT---6
+571	TOK	gene		gene\N5S
+572	TOK	for		for\P
+573	TOK	the		the\AT---6
+574	TOK	enzyme		enzyme\N5S
+575	TOK	thymidine		thymidine\N5S
+576	TOK	kinase		kinase\N5S
+---	DLD	,		=\DELIM
+577	TOK	isolated		isolate\VMC----
+578	TOK	from		from\P
+579	TOK	the		the\AT---6
+580	TOK	herpes		herpes\N5S
+581	TOK	simplex		simplex\JA
+582	TOK	virus		virus\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+583	TOK	Some	BOS	some\AG---6
+584	TOK	cells		cell\N5P
+585	TOK	can		can\VOFDR66
+586	TOK	incorporate		incorporate\VMI----
+587	TOK	the		the\AT---6
+588	TOK	gene		gene\N5S
+589	TOK	when		when\CS
+590	TOK	it		it\RPS3N6
+591	TOK	is		be\V6FDRS3
+592	TOK	complexed		complex\VMC----
+593	TOK	with		with\P
+594	TOK	calcium		calcium\N5S
+595	TOK	phosphate		phosphate\N5S
+596	TOK	and		and\CC
+597	TOK	produce		produce\VMI----
+598	TOK	the		the\AT---6
+599	TOK	enzyme		enzyme\N5S
+600	TOK	in		in\P
+601	TOK	a		a\AI---S
+602	TOK	stable		stable\JA
+603	TOK	fashion		fashion\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+604	TOK	In	BOS	in\P
+605	TOK	the		the\AT---6
+606	TOK	late		late\JA
+##	TAG	<na type="code">
+607	TOK	1970s		noanat\W
+##	TAG	</na>
+608	TOK	the		the\AT---6
+609	TOK	modern		modern\JA
+610	TOK	biotechnology		biotechnology\N5S
+611	TOK	industry		industry\N5S
+612	TOK	got		get\VMF6A66
+613	TOK	its		its\APS3N6
+614	TOK	start		start\N5S
+615	TOK	with		with\P
+616	TOK	the		the\AT---6
+617	TOK	discovery		discovery\N5S
+618	TOK	of		of\P
+619	TOK	techniques		technique\N5P
+620	TOK	for		for\P
+621	TOK	taking		take\VMG----
+622	TOK	individual		individual\JA
+623	TOK	genes		gene\N5P
+624	TOK	from		from\P
+625	TOK	cells		cell\N5P
+626	TOK	and		and\CC
+627	TOK	splicing		splice\VMG----
+628	TOK	them		them\RPP3NA
+629	TOK	into		into\P
+630	TOK	plasmids		plasmid\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+631	TOK	flexible		flexible\JA
+632	TOK	loops		loop\N5P
+633	TOK	of		of\P
+##	TAG	<name>
+634	TOK	DNA		DNA\N46
+##	TAG	</name>
+635	TOK	that		that\RW63N6
+636	TOK	multiply		multiply\VMF6R66
+637	TOK	naturally		naturally\DGA7
+638	TOK	within		within\P
+639	TOK	bacteria		bacteria\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+640	TOK	Recombinant	BOS	recombinant\N5S
+##	TAG	<name>
+641	TOK	DNA		DNA\N46
+##	TAG	</name>
+642	TOK	techniques		technique\N5P
+643	TOK	therefore		therefore\DGA7
+644	TOK	allowed		allow\VMF6A66
+645	TOK	investigators		investigator\N5P
+646	TOK	to		to\P
+647	TOK	produce		produce\VMI----
+648	TOK	large		large\JA
+649	TOK	numbers		number\N5P
+650	TOK	of		of\P
+651	TOK	copies		copy\N5P
+652	TOK	of		of\P
+653	TOK	specific		specific\JA
+654	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+655	TOK	Paul Berg	BOS	Paul_Berg\N46
+##	TAG	</name>
+656	TOK	and		and\CC
+657	TOK	his		his\APS3M6
+658	TOK	colleagues		colleague\N5P
+659	TOK	at		at\P
+##	TAG	<name pos="N46" type="organization">
+660	TOK	Stanford University		Stanford_University\N46
+##	TAG	</name>
+661	TOK	melded		meld\VMF6A66
+662	TOK	recombinant		recombinant\N5S
+##	TAG	<name>
+663	TOK	DNA		DNA\N46
+##	TAG	</name>
+664	TOK	and		and\CC
+665	TOK	chemical		chemical\JA
+666	TOK	cell		cell\N5S
+667	TOK	transfection		transfection\N5S
+668	TOK	technology		technology\N5S
+669	TOK	by		by\P
+670	TOK	delivering		deliver\VMG----
+671	TOK	recombinant		recombinant\N5S
+672	TOK	plasmids		plasmid\N5P
+673	TOK	derived		derive\VMC----
+674	TOK	from		from\P
+675	TOK	bacteria		bacteria\N5P
+676	TOK	into		into\P
+677	TOK	cultured		culture\VMC----
+678	TOK	mammalian		mammalian\JA
+679	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+680	TOK	Expression	BOS	expression\N5S
+681	TOK	of		of\P
+682	TOK	genes		gene\N5P
+683	TOK	spliced		splice\VMC----
+684	TOK	into		into\P
+685	TOK	such		such\JA
+686	TOK	plasmids		plasmid\N5P
+687	TOK	suggested		suggest\VMF6A66
+688	TOK	the		the\AT---6
+689	TOK	genes		gene\N5P
+690	TOK	were		be\V6F-A66
+691	TOK	being		be\VMG----
+692	TOK	taken		take\VMC----
+693	TOK	to		to\P
+694	TOK	the		the\AT---6
+695	TOK	nucleus		nucleus\N5S
+---	DLD	,		=\DELIM
+696	TOK	because		because\CS
+697	TOK	genes		gene\N5P
+698	TOK	usually		usually\DGA7
+699	TOK	can		can\V6FDR66
+700	PGR	not		not\DGA7
+701	TOK	be		be\VMI----
+702	TOK	expressed		express\VMC----
+703	TOK	unless		unless\CS
+704	TOK	they		they\RPP3NN
+705	TOK	are		be\V6FDR66
+706	TOK	acted		act\VMC----
+707	TOK	on		on\P
+708	TOK	by		by\P
+709	TOK	nuclear		nuclear\JA
+710	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+711	TOK	These	BOS	this\AD---P
+712	TOK	nonviral		nonviral\JA
+713	TOK	transfection		transfection\N5S
+714	TOK	methods		method\N5P
+715	TOK	were		be\V6F-A66
+716	TOK	then		then\DGA7
+717	TOK	applied		apply\VMC----
+718	TOK	to		to\P
+719	TOK	produce		produce\VMI----
+720	TOK	many		many\RIP3N-
+721	TOK	of		of\P
+722	TOK	the		the\AT---6
+723	TOK	mammalian		mammalian\JA
+724	TOK	cell		cell\N5S
+725	TOK	lines		line\N5P
+726	TOK	that		that\CS
+727	TOK	industry		industry\N5S
+728	TOK	uses		use\VMFDRS3
+729	TOK	today		today\N5S
+730	TOK	to		to\P
+731	TOK	produce		produce\VMI----
+732	TOK	medicinal		medicinal\JA
+733	TOK	recombinant		recombinant\N5S
+734	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+735	TOK	such		such\JA
+736	TOK	as		as\P
+737	TOK	the		the\AT---6
+##	TAG	<name>
+738	TOK	Factor		Factor\N46
+##	TAG	</name>
+##	TAG	<num>
+739	TOK	VIII		VIII\X
+##	TAG	</num>
+740	TOK	administered		administer\VMC----
+741	TOK	to		to\P
+742	TOK	hemophiliacs		hemophiliac\N5P
+743	TOK	to		to\P
+744	TOK	correct		correct\VMI----
+745	TOK	potentially		potentially\DGA7
+746	TOK	life		life\N5S
+---	DLD	-		=\DELIM
+747	TOK	threatening		threatening\JA
+748	TOK	blood		blood\N5S
+---	DLI	-		=\DELIM
+749	TOK	clotting		clot\VMG----
+750	TOK	problems		problem\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+751	TOK	Lipids	BOS	lipid\N5P
+752	TOK	to		to\P
+753	TOK	the		the\AT---6
+##	TAG	<name>
+754	TOK	Fore	EOS	Fore\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+756	TOK	Despite	BOS	despite\P
+757	TOK	the		the\AT---6
+758	TOK	commercial		commercial\JA
+759	TOK	value		value\N5S
+760	TOK	of		of\P
+761	TOK	chemical		chemical\JA
+762	TOK	techniques		technique\N5P
+---	DLD	,		=\DELIM
+763	TOK	most		most\AG---6
+764	TOK	investigators		investigator\N5P
+765	TOK	considered		consider\VMF6A66
+766	TOK	them		them\RPP3NA
+767	TOK	too		too\DGA7
+768	TOK	inefficient		inefficient\JA
+769	TOK	for		for\P
+770	TOK	gene		gene\N5S
+771	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+772	TOK	Yet	BOS	yet\DGA7
+##	TAG	<name>
+773	TOK	Berg		Berg\N46
+##	TAG	</name>
+774	TOK	and		and\CC
+##	TAG	<name>
+775	TOK	Demetrios Papahadjopoulos		Demetrios_Papahadjopoulos\N46
+##	TAG	</name>
+776	TOK	of		of\P
+777	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+778	TOK	University of California		University_of_California\N46
+##	TAG	</name>
+779	TOK	at		at\P
+##	TAG	<name pos="N46" type="place">
+780	TOK	San Francisco		San_Francisco\N46
+##	TAG	</name>
+781	TOK	also		also\DGA7
+782	TOK	successfully		successfully\DGA7
+783	TOK	transfected		transfect\VMC----
+784	TOK	cells		cell\N5P
+785	TOK	with		with\P
+786	TOK	genes		gene\N5P
+787	TOK	by		by\P
+788	TOK	exposing		expose\VMG----
+789	TOK	the		the\AT---6
+790	TOK	cells		cell\N5P
+791	TOK	to		to\P
+792	TOK	gene		gene\N5S
+---	DLD	-		=\DELIM
+793	TOK	containing		contain\VMG----
+794	TOK	liposomes		liposome\N5P
+---	DLD	,		=\DELIM
+795	TOK	which		which\RW63N-
+796	TOK	are		be\V6FDR66
+797	TOK	minute		minute\JA
+798	TOK	hollow		hollow\JA
+799	TOK	spheres		sphere\N5P
+800	TOK	composed		compose\VMC----
+801	TOK	of		of\P
+802	TOK	a		a\AI---S
+803	TOK	lipid		lipid\N5S
+---	DLE	(		=\DELIM
+804	TOK	fatty		fatty\JA
+---	DLD	)		=\DELIM
+805	TOK	membrane		membrane\N5S
+806	TOK	on		on\P
+807	TOK	the		the\AT---6
+808	TOK	outside		outside\N5S
+809	TOK	and		and\CC
+810	TOK	an		an\AI---S
+811	TOK	aqueous		aqueous\JA
+812	TOK	solution		solution\N5S
+813	TOK	within		within\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name pos="N46" type="organization">
+814	TOK	Claude Nicoloau of Harvard Medical School	BOS	Claude_Nicoloau_of_Harvard_Medical_School\N46
+##	TAG	</name>
+815	TOK	achieved		achieve\VMF6A66
+816	TOK	the		the\AT---6
+817	TOK	same		same\JA
+818	TOK	result		result\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+819	TOK	This	BOS	this\AD---S
+820	TOK	work		work\N5S
+821	TOK	also		also\DGA7
+822	TOK	suggested		suggest\VMF6A66
+823	TOK	that		that\CS
+824	TOK	the		the\AT---6
+825	TOK	genes		gene\N5P
+826	TOK	of		of\P
+827	TOK	the		the\AT---6
+828	TOK	plasmids		plasmid\N5P
+829	TOK	were		be\V6F-A66
+830	TOK	getting		get\VMG----
+831	TOK	to		to\P
+832	TOK	the		the\AT---6
+833	TOK	nucleus		nucleus\N5S
+---	DLD	,		=\DELIM
+834	TOK	where		where\CS
+835	TOK	the		the\AT---6
+836	TOK	cell		cell\N5S
+837	PGR	's		genmark\GENMARK
+838	TOK	machinery		machinery\N5S
+839	TOK	was		be\V6F-A66
+840	TOK	acting		act\VMG----
+841	TOK	on		on\P
+842	TOK	the		the\AT---6
+843	TOK	introduced		introduce\VMC----
+844	TOK	genes		gene\N5P
+845	TOK	and		and\CC
+846	TOK	causing		cause\VMG----
+847	TOK	them		them\RPP3NA
+848	TOK	to		to\P
+849	TOK	be		be\VMI----
+850	TOK	expressed		express\VMC----
+851	TOK	as		as\P
+852	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+853	TOK	First	BOS	first\MOS
+854	TOK	described		describe\VMC----
+855	TOK	in		in\P
+856	TOK	the		the\AT---6
+##	TAG	<na type="code">
+857	TOK	1960s		noanat\W
+##	TAG	</na>
+858	TOK	by		by\P
+##	TAG	<name>
+859	TOK	Alec D. Bangham		Alec_D._Bangham\N46
+##	TAG	</name>
+860	TOK	of		of\P
+861	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+862	TOK	Babraham Institute		Babraham_Institute\N46
+##	TAG	</name>
+863	TOK	in		in\P
+##	TAG	<name>
+864	TOK	Cambridge		Cambridge\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+865	TOK	England		England\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+866	TOK	liposomes		liposome\N5P
+867	TOK	can		can\VOFDR66
+868	TOK	form		form\VMI----
+869	TOK	spontaneously		spontaneously\DGA7
+870	TOK	when		when\CS
+871	TOK	certain		certain\JA
+872	TOK	types		type\N5P
+873	TOK	of		of\P
+874	TOK	lipids		lipid\N5P
+875	TOK	are		be\V6FDR66
+876	TOK	suspended		suspend\VMC----
+877	TOK	in		in\P
+878	TOK	an		an\AI---S
+879	TOK	aqueous		aqueous\JA
+880	TOK	solution		solution\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+881	TOK	Liposomes	BOS	liposome\N5P
+882	TOK	resemble		resemble\VMF6R66
+883	TOK	animal		animal\N5S
+884	TOK	cells		cell\N5P
+885	TOK	in		in\P
+886	TOK	that		that\CS
+887	TOK	the		the\AT---6
+888	TOK	outer		outer\JA
+889	TOK	membrane		membrane\N5S
+890	TOK	consists		consist\VMFDRS3
+891	TOK	of		of\P
+892	TOK	a		a\AI---S
+893	TOK	double		double\JA
+894	TOK	layer		layer\N5S
+895	TOK	of		of\P
+896	TOK	lipid		lipid\N5S
+897	TOK	molecules		molecule\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+898	TOK	This	BOS	this\AD---S
+899	TOK	feature		feature\N5S
+900	TOK	arises		arise\VMFDRS3
+901	TOK	because		because\CS
+902	TOK	the		the\AT---6
+903	TOK	lipid		lipid\N5S
+904	TOK	molecules		molecule\N5P
+905	TOK	that		that\RW63N6
+906	TOK	are		be\V6FDR66
+907	TOK	employed		employ\VMC----
+908	TOK	have		have\V6F6R66
+909	TOK	a		a\AI---S
+910	TOK	water		water\N5S
+---	DLI	-		=\DELIM
+911	TOK	loving		loving\N5S
+912	TOK	and		and\CC
+913	TOK	a		a\AI---S
+914	TOK	water		water\N5S
+---	DLI	-		=\DELIM
+915	TOK	hating		hate\VMG----
+916	TOK	end		end\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+917	TOK	In	BOS	in\P
+918	TOK	water		water\N5S
+919	TOK	solutions		solution\N5P
+920	TOK	they		they\RPP3NN
+921	TOK	form		form\VMF6R66
+922	TOK	double		double\AG---6
+---	DLI	-		=\DELIM
+923	TOK	layered		layer\VMC----
+924	TOK	membranes		membrane\N5P
+925	TOK	in		in\P
+926	TOK	which		which\RW63N-
+927	TOK	the		the\AT---6
+928	TOK	water		water\N5S
+---	DLI	-		=\DELIM
+929	TOK	loving		loving\JA
+930	TOK	heads		head\N5P
+931	TOK	face		face\VMF6R66
+932	TOK	out		out\DGA7
+933	TOK	toward		toward\P
+934	TOK	the		the\AT---6
+935	TOK	aqueous		aqueous\JA
+936	TOK	external		external\JA
+937	TOK	environment		environment\N5S
+938	TOK	and		and\CC
+939	TOK	also		also\DGA7
+940	TOK	in		in\P
+941	TOK	toward		toward\P
+942	TOK	the		the\AT---6
+943	TOK	water		water\N5S
+---	DLI	-		=\DELIM
+944	TOK	filled		fill\VMC----
+945	TOK	center		center\N5S
+946	TOK	of		of\P
+947	TOK	the		the\AT---6
+948	TOK	liposome		liposome\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+949	TOK	This	BOS	this\AD---S
+950	TOK	celllike		celllike\JA
+951	TOK	aspect		aspect\N5S
+952	TOK	had		have\V6F6A66
+953	TOK	long		long\DGA7
+954	TOK	suggested		suggest\VMC----
+955	TOK	to		to\P
+956	TOK	investigators		investigator\N5P
+957	TOK	that		that\RW63N6
+958	TOK	liposomes		liposome\N5P
+---	DLE	"		=\DELIM
+959	TOK	loaded		load\VMF6A66
+---	DLD	"		=\DELIM
+960	TOK	with		with\P
+961	TOK	some		some\AG---6
+962	TOK	medicinal		medicinal\JA
+963	TOK	substance		substance\N5S
+964	TOK	might		may\VOFDR66
+965	TOK	fuse		fuse\VMI----
+966	TOK	with		with\P
+967	TOK	cells		cell\N5P
+968	TOK	and		and\CC
+969	TOK	deliver		deliver\VMI----
+970	TOK	the		the\AT---6
+971	TOK	liposomes		liposome\N5P
+---	DLD	'		=\DELIM
+972	TOK	contents		content\N5P
+973	TOK	into		into\P
+974	TOK	the		the\AT---6
+975	TOK	cellular		cellular\JA
+976	TOK	interior		interior\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+977	TOK	The	BOS	the\AT---6
+978	TOK	results		result\N5P
+979	TOK	with		with\P
+980	TOK	liposomes		liposome\N5P
+981	TOK	were		be\V6F-A66
+982	TOK	encouraging		encourage\VMG----
+---	DLD	,		=\DELIM
+983	TOK	but		but\CC
+984	TOK	a		a\AI---S
+985	TOK	technical		technical\JA
+986	TOK	problem		problem\N5S
+987	TOK	slowed		slow\VMF6A66
+988	TOK	their		their\APP3N6
+989	TOK	practical		practical\JA
+990	TOK	exploitation		exploitation\N5S
+991	TOK	for		for\P
+992	TOK	delivering		deliver\VMG----
+993	TOK	plasmids		plasmid\N5P
+994	TOK	into		into\P
+995	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+996	TOK	The	BOS	the\AT---6
+997	TOK	internal		internal\JA
+998	TOK	diameter		diameter\N5S
+999	TOK	of		of\P
+1000	TOK	a		a\AI---S
+1001	TOK	liposome		liposome\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1002	TOK	between		between\P
+1003	TOK	about		about\DGA7
+##	TAG	<num>
+1004	TOK	0.025		0.025\X
+##	TAG	</num>
+1005	TOK	and		and\CC
+##	TAG	<num>
+1006	TOK	0.1		0.1\X
+##	TAG	</num>
+1007	TOK	micron		micron\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1008	TOK	is		be\V6FDRS3
+1009	TOK	typically		typically\DGA7
+1010	TOK	much		much\DGA7
+1011	TOK	less		little\JC
+1012	TOK	than		than\CS
+1013	TOK	the		the\AT---6
+1014	TOK	longest		long\JS
+1015	TOK	dimension		dimension\N5S
+1016	TOK	of		of\P
+1017	TOK	a		a\AI---S
+##	TAG	<name>
+1018	TOK	DNA		DNA\N46
+##	TAG	</name>
+1019	TOK	plasmid		plasmid\N5S
+---	DLD	,		=\DELIM
+1020	TOK	which		which\RW63N-
+1021	TOK	may		may\VOFDR66
+1022	TOK	be		be\VMI----
+1023	TOK	as		as\CS
+1024	TOK	much		much\DGA7
+1025	TOK	as		as\P
+##	TAG	<num>
+1026	TOK	two		two\X
+##	TAG	</num>
+1027	TOK	microns		micron\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1028	TOK	The	BOS	the\AT---6
+1029	TOK	mismatch		mismatch\N5S
+1030	TOK	meant		mean\VMC----
+1031	TOK	that		that\CS
+1032	TOK	when		when\CS
+1033	TOK	liposomes		liposome\N5P
+1034	TOK	were		be\V6F-A66
+1035	TOK	synthesized		synthesize\VMC----
+1036	TOK	in		in\P
+1037	TOK	the		the\AT---6
+1038	TOK	presence		presence\N5S
+1039	TOK	of		of\P
+1040	TOK	plasmids		plasmid\N5P
+---	DLD	,		=\DELIM
+1041	TOK	only		only\DGA7
+##	TAG	<loc pos="RP63N-">
+1042	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+1043	TOK	tightly		tightly\DGA7
+1044	TOK	wound		wind\VMF6A66
+1045	TOK	plasmids		plasmid\N5P
+1046	TOK	were		be\V6F-A66
+1047	TOK	encapsulated		encapsulate\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1048	TOK	Nevertheless	BOS	nevertheless\DGA7
+---	DLD	,		=\DELIM
+1049	TOK	optimistic		optimistic\JA
+1050	TOK	scientists		scientist\N5P
+1051	TOK	believed		believe\VMC----
+1052	TOK	ways		way\N5P
+1053	TOK	could		can\VOFDA66
+1054	TOK	be		be\VMI----
+1055	TOK	found		find\VMC----
+1056	TOK	to		to\P
+1057	TOK	improve		improve\VMI----
+1058	TOK	the		the\AT---6
+1059	TOK	encapsulation		encapsulation\N5S
+1060	TOK	rate		rate\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1061	TOK	Working	BOS	working\JA
+1062	TOK	at		at\P
+##	TAG	<name>
+1063	TOK	Syntex Research		Syntex_Research\N46
+##	TAG	</name>
+1064	TOK	in		in\P
+##	TAG	<name>
+1065	TOK	Palo Alto		Palo_Alto\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<abbr>
+1066	TOK	Calif.		Calif.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+1067	TOK	my		my\APS1N6
+1068	TOK	colleagues		colleague\N5P
+1069	TOK	and		and\CC
+1070	TOK	I		I\N5P
+1071	TOK	theorized		theorize\VMF6A66
+1072	TOK	that		that\CS
+1073	TOK	we		we\RPP1NN
+1074	TOK	might		may\VOFDR66
+1075	TOK	be		be\VMI----
+1076	TOK	able		able\JA
+1077	TOK	to		to\P
+1078	TOK	modify		modify\VMI----
+1079	TOK	liposomes		liposome\N5P
+1080	TOK	to		to\P
+1081	TOK	capture		capture\N5S
+1082	TOK	plasmids		plasmid\N5P
+1083	TOK	more		more\DDC7
+1084	TOK	effectively		effectively\DGA7
+1085	TOK	and		and\CC
+1086	TOK	to		to\P
+1087	TOK	deliver		deliver\VMI----
+1088	TOK	more		more\DDC7
+1089	TOK	readily		readily\DGA7
+1090	TOK	their		their\APP3N6
+1091	TOK	contents		content\N5P
+1092	TOK	into		into\P
+1093	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1094	TOK	Our	BOS	our\APP1N6
+1095	TOK	idea		idea\N5S
+1096	TOK	was		be\V6F-A66
+1097	TOK	to		to\P
+1098	TOK	make		make\VMI----
+1099	TOK	liposomes		liposome\N5P
+1100	TOK	in		in\P
+1101	TOK	which		which\RW63N-
+1102	TOK	some		some\AG---6
+1103	TOK	of		of\P
+1104	TOK	the		the\AT---6
+1105	TOK	standard		standard\JA
+1106	TOK	lipids		lipid\N5P
+1107	TOK	were		be\V6F-A66
+1108	TOK	replaced		replace\VMC----
+1109	TOK	by		by\P
+1110	TOK	ones		one\RIP3N-
+1111	TOK	carrying		carry\VMG----
+1112	TOK	a		a\AI---S
+1113	TOK	positive		positive\JA
+1114	TOK	charge		charge\N5S
+1115	TOK	at		at\P
+1116	TOK	the		the\AT---6
+1117	TOK	water		water\N5S
+---	DLI	-		=\DELIM
+1118	TOK	loving		loving\N5S
+1119	TOK	end		end\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1120	TOK	This	BOS	this\AD---S
+---	DLD	,		=\DELIM
+1121	TOK	we		we\RPP1NN
+1122	TOK	thought		think\VMF6A66
+---	DLD	,		=\DELIM
+1123	TOK	should		shall\VOFDA66
+1124	TOK	make		make\VMI----
+1125	TOK	the		the\AT---6
+1126	TOK	liposomes		liposome\N5P
+1127	TOK	interact		interact\VMF6R66
+1128	TOK	more		more\DDC7
+1129	TOK	easily		easily\DGA7
+1130	TOK	with		with\P
+##	TAG	<name>
+1131	TOK	DNA		DNA\N46
+##	TAG	</name>
+1132	TOK	and		and\CC
+##	TAG	<name>
+1133	TOK	RNA		RNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1134	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+1135	TOK	with		with\P
+1136	TOK	cell		cell\N5S
+1137	TOK	surfaces		surface\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1138	TOK	At	BOS	at\P
+1139	TOK	the		the\AT---6
+1140	TOK	time		time\N5S
+---	DLD	,		=\DELIM
+1141	TOK	however		however\DGA7
+---	DLD	-		=\DELIM
+##	TAG	<num>
+1142	TOK	-1983		-1983\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+---	DLD	-		=\DELIM
+1143	TOK	there		there\DGA7
+1144	TOK	were		be\V6F-A66
+1145	TOK	few		few\JA
+1146	TOK	examples		example\N5P
+1147	TOK	of		of\P
+1148	TOK	positively		positively\DGA7
+1149	TOK	charged		charge\VMC----
+---	DLE	(		=\DELIM
+1150	TOK	cationic		cationic\JA
+---	DLD	)		=\DELIM
+1151	TOK	lipids		lipid\N5P
+1152	TOK	that		that\RW63N6
+1153	TOK	had		have\V6F6A66
+1154	TOK	the		the\AT---6
+1155	TOK	right		right\JA
+1156	TOK	shape		shape\N5S
+1157	TOK	to		to\P
+1158	TOK	organize		organize\VMI----
+1159	TOK	into		into\P
+1160	TOK	liposomes		liposome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1161	TOK	We	BOS	we\RPP1NN
+1162	TOK	therefore		therefore\DGA7
+1163	TOK	synthesized		synthesize\VMF6A66
+1164	TOK	variant		variant\N5S
+1165	TOK	cationic		cationic\JA
+1166	TOK	lipids		lipid\N5P
+1167	TOK	that		that\CS
+1168	TOK	we		we\RPP1NN
+1169	TOK	predicted		predict\VMF6A66
+1170	TOK	would		will\VOFDA66
+1171	TOK	have		have\VMI----
+1172	TOK	the		the\AT---6
+1173	TOK	right		right\JA
+1174	TOK	properties		property\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1175	TOK	The	BOS	the\AT---6
+1176	TOK	molecules		molecule\N5P
+1177	TOK	behaved		behave\VMC----
+1178	TOK	as		as\P
+1179	TOK	expected		expect\VMF6A66
+---	DLD	,		=\DELIM
+1180	TOK	and		and\CC
+1181	TOK	the		the\AT---6
+1182	TOK	resulting		result\VMG----
+1183	TOK	cationic		cationic\JA
+1184	TOK	liposomes		liposome\N5P
+1185	TOK	bound		bind\VMC----
+1186	TOK	firmly		firmly\DGA7
+1187	TOK	to		to\P
+1188	TOK	the		the\AT---6
+1189	TOK	surface		surface\N5S
+1190	TOK	of		of\P
+1191	TOK	cells		cell\N5P
+1192	TOK	in		in\P
+1193	TOK	tissue		tissue\N5S
+1194	TOK	culture		culture\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1195	TOK	Furthermore	BOS	furthermore\DGA7
+---	DLD	,		=\DELIM
+1196	TOK	simply		simply\DGA7
+1197	TOK	by		by\P
+1198	TOK	mixing		mix\VMG----
+1199	TOK	plasmids		plasmid\N5P
+1200	TOK	with		with\P
+1201	TOK	about		about\DGA7
+##	TAG	<num>
+1202	TOK	eight		eight\X
+##	TAG	</num>
+1203	TOK	times		time\N5P
+1204	TOK	their		their\APP3N6
+1205	TOK	mass		mass\N5S
+1206	TOK	of		of\P
+1207	TOK	cationic		cationic\JA
+1208	TOK	lipids		lipid\N5P
+---	DLD	,		=\DELIM
+1209	TOK	we		we\RPP1NN
+1210	TOK	could		can\VOFDA66
+1211	TOK	effectively		effectively\DGA7
+1212	TOK	capture		capture\VMI----
+1213	TOK	all		all\AG---6
+1214	TOK	the		the\AT---6
+##	TAG	<name>
+1215	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1216	TOK	I	BOS	i\N5S
+1217	TOK	was		be\V6F-A66
+1218	TOK	pleased		please\VMC----
+1219	TOK	to		to\P
+1220	TOK	find		find\VMI----
+1221	TOK	that		that\CS
+1222	TOK	I		I\N5P
+1223	TOK	could		can\VOFDA66
+1224	TOK	readily		readily\DGA7
+1225	TOK	create		create\VMI----
+1226	TOK	conditions		condition\N5P
+1227	TOK	that		that\RW63N6
+1228	TOK	produced		produce\VMF6A66
+1229	TOK	physically		physically\DGA7
+1230	TOK	stable		stable\JA
+1231	TOK	complexes		complex\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1232	TOK	Exploiting	BOS	exploit\VMG----
+##	TAG	<name>
+1233	TOK	Discovery	EOS	Discovery\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1235	TOK	The	BOS	the\AT---6
+1236	TOK	structures		structure\N5P
+1237	TOK	formed		form\VMC----
+1238	TOK	from		from\P
+1239	TOK	mixtures		mixture\N5P
+1240	TOK	of		of\P
+1241	TOK	plasmids		plasmid\N5P
+1242	TOK	and		and\CC
+1243	TOK	cationic		cationic\JA
+1244	TOK	lipids		lipid\N5P
+1245	TOK	are		be\V6FDR66
+1246	TOK	more		more\DDC7
+1247	TOK	variable		variable\JA
+1248	TOK	and		and\CC
+1249	TOK	complicated		complicate\VMC----
+1250	TOK	than		than\CS
+1251	TOK	simple		simple\JA
+1252	TOK	liposomes		liposome\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1253	TOK	We	BOS	we\RPP1NN
+1254	TOK	often		often\DGA7
+1255	TOK	find		find\VMF6R66
+1256	TOK	plasmids		plasmid\N5P
+1257	TOK	enclosed		enclose\VMC----
+1258	TOK	in		in\P
+1259	TOK	tubelike		tubelike\JA
+1260	TOK	lipid		lipid\N5S
+1261	TOK	structures		structure\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1262	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1263	TOK	And	BOS	and\CC
+1264	TOK	under		under\P
+1265	TOK	the		the\AT---6
+1266	TOK	right		right\JA
+1267	TOK	conditions		condition\N5P
+---	DLD	,		=\DELIM
+1268	TOK	a		a\AI---S
+1269	TOK	lipid		lipid\N5S
+1270	TOK	tube		tube\N5S
+1271	TOK	containing		contain\VMG----
+1272	TOK	a		a\AI---S
+1273	TOK	plasmid		plasmid\N5S
+1274	TOK	can		can\VOFDR66
+1275	TOK	fold		fold\VMI----
+1276	TOK	up		up\P
+1277	TOK	to		to\P
+1278	TOK	form		form\VMI----
+1279	TOK	a		a\AI---S
+1280	TOK	dense		dense\JA
+1281	TOK	particle		particle\N5S
+1282	TOK	with		with\P
+1283	TOK	a		a\AI---S
+1284	TOK	lipid		lipid\N5S
+1285	TOK	wall		wall\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1286	TOK	This	BOS	this\AD---S
+1287	TOK	structure		structure\N5S
+1288	TOK	is		be\V6FDRS3
+1289	TOK	somewhat		somewhat\DGA7
+1290	TOK	like		like\VMI----
+1291	TOK	that		that\CS
+1292	TOK	of		of\P
+1293	TOK	some		some\AG---6
+1294	TOK	viruses		virus\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1295	TOK	Because	BOS	because\CS
+1296	TOK	structures		structure\N5P
+1297	TOK	formed		form\VMC----
+1298	TOK	from		from\P
+1299	TOK	cationic		cationic\JA
+1300	TOK	lipids		lipid\N5P
+1301	TOK	are		be\V6FDR66
+1302	TOK	so		so\DGA7
+1303	TOK	different		different\JA
+1304	TOK	from		from\P
+1305	TOK	simple		simple\JA
+1306	TOK	liposomes		liposome\N5P
+---	DLD	,		=\DELIM
+1307	TOK	researchers		researcher\N5P
+1308	TOK	have		have\V6F6R66
+1309	TOK	recently		recently\DGA7
+1310	TOK	agreed		agree\VMC----
+1311	TOK	to		to\P
+1312	TOK	give		give\VMI----
+1313	TOK	them		them\RPP3NA
+1314	TOK	a		a\AI---S
+1315	TOK	new		new\JA
+1316	TOK	name		name\N5S
+---	DLD	:		=\DELIM
+1317	TOK	lipoplexes		lipoplexes\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1318	TOK	I	BOS	i\N5S
+1319	TOK	had		have\V6F6A66
+1320	TOK	expected		expect\VMC----
+1321	TOK	to		to\P
+1322	TOK	have		have\VMI----
+1323	TOK	to		to\P
+1324	TOK	modify		modify\VMI----
+1325	TOK	lipoplexes		lipoplexes\N5P
+1326	TOK	further		further\DGA7
+1327	TOK	before		before\CS
+1328	TOK	they		they\RPP3NN
+1329	TOK	would		will\VOFDA66
+1330	TOK	deliver		deliver\VMI----
+1331	TOK	their		their\APP3N6
+1332	TOK	payload		payload\N5S
+1333	TOK	into		into\P
+1334	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1335	TOK	But	BOS	but\CC
+---	DLD	,		=\DELIM
+1336	TOK	remarkably		remarkably\DGA7
+---	DLD	,		=\DELIM
+1337	TOK	an		an\AI---S
+1338	TOK	undergraduate		undergraduate\N5S
+1339	TOK	intern		intern\N5S
+1340	TOK	in		in\P
+1341	TOK	my		my\APS1N6
+1342	TOK	lab		lab\N5S
+1343	TOK	showed		show\VMF6A66
+1344	TOK	that		that\CS
+1345	TOK	these		this\AD---P
+1346	TOK	rudimentary		rudimentary\JA
+1347	TOK	structures		structure\N5P
+1348	TOK	transfected		transfect\VMC----
+1349	TOK	cells		cell\N5P
+1350	TOK	at		at\P
+1351	TOK	a		a\AI---S
+1352	TOK	significant		significant\JA
+1353	TOK	rate		rate\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1354	TOK	Mixing	BOS	mix\VMG----
+1355	TOK	cationic		cationic\JA
+1356	TOK	lipids		lipid\N5P
+1357	TOK	with		with\P
+##	TAG	<name>
+1358	TOK	DNA		DNA\N46
+##	TAG	</name>
+1359	TOK	has		have\V6FDRS3
+1360	TOK	since		since\DGA7
+1361	TOK	become		become\VMI----
+1362	TOK	a		a\AI---S
+1363	TOK	standard		standard\JA
+1364	TOK	technique		technique\N5S
+1365	TOK	for		for\P
+1366	TOK	inserting		insert\VMG----
+1367	TOK	genes		gene\N5P
+1368	TOK	into		into\P
+1369	TOK	cultured		culture\VMC----
+1370	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+1371	TOK	and		and\CC
+1372	TOK	many		many\AI---P
+1373	TOK	cationic		cationic\JA
+1374	TOK	lipid		lipid\N5S
+1375	TOK	preparations		preparation\N5P
+1376	TOK	are		be\V6FDR66
+1377	TOK	now		now\DGA7
+1378	TOK	available		available\JA
+1379	TOK	commercially		commercially\DGA7
+1380	TOK	for		for\P
+1381	TOK	this		this\AD---S
+1382	TOK	purpose		purpose\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1383	TOK	Researchers	BOS	researcher\N5P
+1384	TOK	have		have\V6F6R66
+1385	TOK	lately		lately\DGA7
+1386	TOK	initiated		initiate\VMC----
+1387	TOK	studies		study\N5P
+1388	TOK	of		of\P
+1389	TOK	lipoplexes		lipoplexes\N5P
+1390	TOK	in		in\P
+1391	TOK	humans		human\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1392	TOK	The	BOS	the\AT---6
+1393	TOK	first		first\MOS
+1394	TOK	candidate		candidate\N5S
+1395	TOK	therapy		therapy\N5S
+1396	TOK	consists		consist\VMFDRS3
+1397	TOK	of		of\P
+1398	TOK	lipoplexes		lipoplexes\N5P
+1399	TOK	containing		contain\VMG----
+1400	TOK	genes		gene\N5P
+1401	TOK	for		for\P
+1402	TOK	an		an\AI---S
+1403	TOK	immune		immune\JA
+1404	TOK	system		system\N5S
+1405	TOK	protein		protein\N5S
+1406	TOK	known		know\VMC----
+1407	TOK	as		as\P
+##	TAG	<name>
+1408	TOK	HLA-B7		HLA-B7\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1409	TOK	a		a\AI---S
+1410	TOK	so		so\DGA7
+---	DLI	-		=\DELIM
+1411	TOK	called		call\VMC----
+1412	TOK	major		major\JA
+1413	TOK	histocompatibility		histocompatibility\N5S
+1414	TOK	antigen		antigen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1415	TOK	When	BOS	when\CS
+1416	TOK	cancer		cancer\N5S
+1417	TOK	cells		cell\N5P
+1418	TOK	express		express\VMF6R66
+##	TAG	<name>
+1419	TOK	HLA-B7		HLA-B7\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1420	TOK	they		they\RPP3NN
+1421	TOK	stimulate		stimulate\VMF6R66
+1422	TOK	a		a\AI---S
+1423	TOK	patient		patient\N5S
+1424	PGR	's		genmark\GENMARK
+1425	TOK	immune		immune\JA
+1426	TOK	system		system\N5S
+1427	TOK	to		to\P
+1428	TOK	recognize		recognize\VMI----
+1429	TOK	them		them\RPP3NA
+1430	TOK	as		as\P
+1431	TOK	foreign		foreign\JA
+1432	TOK	and		and\CC
+1433	TOK	selectively		selectively\DGA7
+1434	TOK	destroy		destroy\VMF6R66
+1435	TOK	them		them\RPP3NA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1436	TOK	In	BOS	in\P
+1437	TOK	clinical		clinical\JA
+1438	TOK	protocols		protocol\N5P
+1439	TOK	sponsored		sponsor\VMC----
+1440	TOK	by		by\P
+##	TAG	<name>
+1441	TOK	Vical		Vical\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1442	TOK	more		more\DDC7
+1443	TOK	than		than\CS
+##	TAG	<num>
+1444	TOK	90		90\X
+##	TAG	</num>
+1445	TOK	patients		patient\N5P
+1446	TOK	who		who\RW63N-
+1447	TOK	had		have\V6F6A66
+1448	TOK	failed		fail\VMC----
+1449	TOK	to		to\P
+1450	TOK	respond		respond\VMI----
+1451	TOK	to		to\P
+1452	TOK	standard		standard\JA
+1453	TOK	cancer		cancer\N5S
+1454	TOK	treatments		treatment\N5P
+1455	TOK	were		be\V6F-A66
+1456	TOK	given		give\VMC----
+1457	TOK	injections		injection\N5P
+1458	TOK	into		into\P
+1459	TOK	their		their\APP3N6
+1460	TOK	tumors		tumor\N5P
+1461	TOK	of		of\P
+1462	TOK	lipoplexes		lipoplexes\N5P
+1463	TOK	containing		contain\VMG----
+##	TAG	<name>
+1464	TOK	DNA		DNA\N46
+##	TAG	</name>
+1465	TOK	encoding		encode\VMG----
+##	TAG	<name>
+1466	TOK	HLA-B7		HLA-B7\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1467	TOK	In	BOS	in\P
+1468	TOK	most		most\AG---6
+1469	TOK	cases		case\N5P
+---	DLD	,		=\DELIM
+1470	TOK	investigators		investigator\N5P
+1471	TOK	could		can\VOFDA66
+1472	TOK	demonstrate		demonstrate\VMI----
+1473	TOK	that		that\CS
+1474	TOK	the		the\AT---6
+1475	TOK	treatment		treatment\N5S
+1476	TOK	stimulated		stimulate\VMC----
+1477	TOK	production		production\N5S
+1478	TOK	of		of\P
+##	TAG	<name>
+1479	TOK	HLA-B7		HLA-B7\N46
+##	TAG	</name>
+1480	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<num>
+1481	TOK	Sixty	BOS	Sixty\X
+##	TAG	</num>
+1482	TOK	of		of\P
+1483	TOK	the		the\AT---6
+1484	TOK	patients		patient\N5P
+1485	TOK	suffered		suffer\VMC----
+1486	TOK	from		from\P
+1487	TOK	malignant		malignant\JA
+1488	TOK	melanoma		melanoma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1489	TOK	In	BOS	in\P
+1490	TOK	about		about\DGA7
+1491	TOK	a		a\AI---S
+1492	TOK	third		third\MOS
+1493	TOK	of		of\P
+1494	TOK	these		this\AD---P
+1495	TOK	cases		case\N5P
+1496	TOK	the		the\AT---6
+1497	TOK	lipoplex		lipoplex\N5S
+---	DLI	-		=\DELIM
+1498	TOK	injected		inject\VMC----
+1499	TOK	tumor		tumor\N5S
+1500	TOK	either		either\CC
+1501	TOK	shrank		shrink\VMF6A66
+1502	TOK	or		or\CC
+1503	TOK	disappeared		disappear\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1504	TOK	Advanced	BOS	advance\VMC----
+1505	TOK	melanoma		melanoma\N5S
+1506	TOK	often		often\DGA7
+1507	TOK	spreads		spread\VMFDRS3
+1508	TOK	widely		widely\DGA7
+1509	TOK	throughout		throughout\P
+1510	TOK	the		the\AT---6
+1511	TOK	body		body\N5S
+---	DLD	,		=\DELIM
+1512	TOK	so		so\DGA7
+1513	TOK	injecting		inject\VMG----
+1514	TOK	drugs		drug\N5P
+1515	TOK	into		into\P
+1516	TOK	visible		visible\JA
+1517	TOK	tumors		tumor\N5P
+1518	TOK	may		may\VOFDR66
+1519	TOK	not		not\DGA7
+1520	TOK	cure		cure\VMI----
+1521	TOK	most		most\AG---6
+1522	TOK	cases		case\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1523	TOK	But	BOS	but\CC
+1524	TOK	our		our\APP1N6
+1525	TOK	encouraging		encouraging\JA
+1526	TOK	preliminary		preliminary\JA
+1527	TOK	findings		finding\N5P
+1528	TOK	indicate		indicate\VMF6R66
+1529	TOK	that		that\CS
+1530	TOK	lipoplexes		lipoplexes\N5P
+1531	TOK	might		may\VOFDR66
+1532	TOK	help		help\VMI----
+1533	TOK	treat		treat\VMI----
+1534	TOK	melanoma		melanoma\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1535	TOK	Sometimes	BOS	sometimes\DGA7
+1536	TOK	treatment		treatment\N5S
+1537	TOK	with		with\P
+1538	TOK	lipoplexes		lipoplexes\N5P
+1539	TOK	makes		make\VMFDRS3
+1540	TOK	even		even\DGA7
+1541	TOK	uninjected		uninjected\JA
+1542	TOK	tumors		tumor\N5P
+1543	TOK	shrink		shrink\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1544	TOK	Other	BOS	other\JA
+1545	TOK	studies		study\N5P
+1546	TOK	with		with\P
+1547	TOK	lipoplexes		lipoplexes\N5P
+1548	TOK	containing		contain\VMG----
+1549	TOK	the		the\AT---6
+1550	TOK	gene		gene\N5S
+1551	TOK	for		for\P
+##	TAG	<name>
+1552	TOK	HLA-B7		HLA-B7\N46
+##	TAG	</name>
+1553	TOK	aim		aim\N5S
+1554	TOK	to		to\P
+1555	TOK	establish		establish\VMI----
+1556	TOK	the		the\AT---6
+1557	TOK	safety		safety\N5S
+1558	TOK	and		and\CC
+1559	TOK	efficacy		efficacy\N5S
+1560	TOK	of		of\P
+1561	TOK	similar		similar\JA
+1562	TOK	treatments		treatment\N5P
+1563	TOK	for		for\P
+1564	TOK	inoperable		inoperable\JA
+1565	TOK	colon		colon\N5S
+---	DLD	,		=\DELIM
+1566	TOK	kidney		kidney\N5S
+1567	TOK	and		and\CC
+1568	TOK	breast		breast\N5S
+1569	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+1570	TOK	Vical	BOS	Vical\N46
+##	TAG	</name>
+1571	TOK	is		be\V6FDRS3
+1572	TOK	also		also\DGA7
+1573	TOK	sponsoring		sponsor\VMG----
+1574	TOK	a		a\AI---S
+1575	TOK	clinical		clinical\JA
+1576	TOK	trial		trial\N5S
+1577	TOK	of		of\P
+1578	TOK	a		a\AI---S
+1579	TOK	lipoplex		lipoplex\JA
+1580	TOK	formulation		formulation\N5S
+1581	TOK	containing		contain\VMG----
+1582	TOK	the		the\AT---6
+1583	TOK	gene		gene\N5S
+1584	TOK	for		for\P
+1585	TOK	the		the\AT---6
+1586	TOK	immune		immune\JA
+1587	TOK	system		system\N5S
+1588	TOK	protein		protein\N5S
+1589	TOK	interleukin		interleukin\N5S
+---	DLD	-		=\DELIM
+##	TAG	<num>
+1590	TOK	2		2\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+1591	TOK	IL-2		noanat\W
+##	TAG	</na>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1592	TOK	IL	BOS	IL\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+1593	TOK	2		2\X
+##	TAG	</num>
+1594	TOK	is		be\V6FDRS3
+1595	TOK	infused		infuse\VMC----
+1596	TOK	into		into\P
+1597	TOK	patients		patient\N5P
+1598	TOK	to		to\P
+1599	TOK	treat		treat\VMI----
+1600	TOK	kidney		kidney\N5S
+1601	TOK	cancer		cancer\N5S
+---	DLD	,		=\DELIM
+1602	TOK	but		but\CC
+1603	TOK	it		it\RPS3N6
+1604	TOK	has		have\V6FDRS3
+1605	TOK	serious		serious\JA
+1606	TOK	toxic		toxic\JA
+1607	TOK	side		side\N5S
+1608	TOK	effects		effect\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1609	TOK	Injected	BOS	inject\VMC----
+1610	TOK	into		into\P
+1611	TOK	a		a\AI---S
+1612	TOK	tumor		tumor\N5S
+---	DLD	,		=\DELIM
+1613	TOK	lipoplexes		lipoplexes\N5P
+1614	TOK	might		may\VOFDR66
+1615	TOK	stimulate		stimulate\VMI----
+1616	TOK	the		the\AT---6
+1617	TOK	immune		immune\JA
+1618	TOK	system		system\N5S
+1619	TOK	by		by\P
+1620	TOK	producing		produce\VMG----
+1621	TOK	locally		locally\DGA7
+1622	TOK	high		high\JA
+1623	TOK	concentrations		concentration\N5P
+1624	TOK	of		of\P
+##	TAG	<na type="function">
+1625	TOK	IL-2		noanat\W
+##	TAG	</na>
+1626	TOK	while		while\CS
+1627	TOK	avoiding		avoid\VMG----
+1628	TOK	most		most\AG---6
+1629	TOK	of		of\P
+1630	TOK	the		the\AT---6
+1631	TOK	toxic		toxic\JA
+1632	TOK	side		side\N5S
+1633	TOK	effects		effect\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1634	TOK	Additionally	BOS	additionally\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1635	TOK	Genzyme General Division		Genzyme_General_Division\N46
+##	TAG	</name>
+1636	TOK	is		be\V6FDRS3
+1637	TOK	studying		study\VMG----
+1638	TOK	lipoplexes		lipoplexes\N5P
+1639	TOK	in		in\P
+1640	TOK	patients		patient\N5P
+1641	TOK	with		with\P
+1642	TOK	cystic		cystic\JA
+1643	TOK	fibrosis		fibrosis\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1644	TOK	For	BOS	for\P
+1645	TOK	treating		treat\VMG----
+1646	TOK	that		that\AD---S
+1647	TOK	disease		disease\N5S
+---	DLD	,		=\DELIM
+1648	TOK	the		the\AT---6
+1649	TOK	structures		structure\N5P
+1650	TOK	carry		carry\VMF6R66
+1651	TOK	a		a\AI---S
+1652	TOK	gene		gene\N5S
+1653	TOK	for		for\P
+1654	TOK	the		the\AT---6
+1655	TOK	protein		protein\N5S
+1656	TOK	that		that\RW63N6
+1657	TOK	is		be\V6FDRS3
+1658	TOK	defective		defective\JA
+1659	TOK	in		in\P
+1660	TOK	the		the\AT---6
+1661	TOK	illness		illness\N5S
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1662	TOK	the		the\AT---6
+1663	TOK	cystic		cystic\JA
+1664	TOK	fibrosis		fibrosis\N5S
+1665	TOK	transmembrane		transmembrane\JA
+1666	TOK	conductance		conductance\N5S
+1667	TOK	regulator		regulator\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1668	TOK	The	BOS	the\AT---6
+1669	TOK	lipoplexes		lipoplexes\N5P
+1670	TOK	are		be\V6FDR66
+1671	TOK	delivered		deliver\VMC----
+1672	TOK	with		with\P
+1673	TOK	an		an\AI---S
+1674	TOK	aerosol		aerosol\N5S
+1675	TOK	spray		spray\N5S
+1676	TOK	into		into\P
+1677	TOK	a		a\AI---S
+1678	TOK	patient		patient\N5S
+1679	PGR	's		genmark\GENMARK
+1680	TOK	lungs		lung\N5P
+---	DLD	,		=\DELIM
+1681	TOK	where		where\CS
+1682	TOK	expression		expression\N5S
+1683	TOK	of		of\P
+1684	TOK	the		the\AT---6
+1685	TOK	protein		protein\N5S
+1686	TOK	should		shall\VOFDA66
+1687	TOK	mitigate		mitigate\VMI----
+1688	TOK	some		some\AG---6
+1689	TOK	of		of\P
+1690	TOK	the		the\AT---6
+1691	TOK	most		most\DDS7
+1692	TOK	serious		serious\JA
+1693	TOK	symptoms		symptom\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1694	TOK	The	BOS	the\AT---6
+1695	TOK	levels		level\N5P
+1696	TOK	of		of\P
+1697	TOK	gene		gene\N5S
+1698	TOK	expression		expression\N5S
+1699	TOK	obtainable		obtainable\JA
+1700	TOK	in		in\P
+1701	TOK	animals		animal\N5P
+1702	TOK	with		with\P
+1703	TOK	lipoplex		lipoplex\JA
+1704	TOK	formulations		formulation\N5P
+1705	TOK	are		be\V6FDR66
+1706	TOK	in		in\P
+1707	TOK	some		some\AG---6
+1708	TOK	instances		instance\N5P
+1709	TOK	comparable		comparable\JA
+1710	TOK	to		to\P
+1711	TOK	the		the\AT---6
+1712	TOK	levels		level\N5P
+1713	TOK	obtainable		obtainable\JA
+1714	TOK	with		with\P
+1715	TOK	viral		viral\JA
+1716	TOK	gene		gene\N5S
+1717	TOK	delivery		delivery\N5S
+1718	TOK	systems		system\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1719	TOK	Still	BOS	still\DGA7
+---	DLD	'		=\DELIM
+1720	TOK	the		the\AT---6
+1721	TOK	efficiencies		efficiency\N5P
+1722	TOK	of		of\P
+1723	TOK	the		the\AT---6
+##	TAG	<num>
+1724	TOK	two		two\X
+##	TAG	</num>
+1725	TOK	systems		system\N5P
+1726	TOK	differ		differ\VMF6R66
+1727	TOK	substantially		substantially\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1728	TOK	Some	BOS	some\AG---6
+1729	TOK	viruses		virus\N5P
+1730	TOK	are		be\V6FDR66
+1731	TOK	almost		almost\DGA7
+##	TAG	<num>
+1732	TOK	100		100\X
+##	TAG	</num>
+1733	TOK	percent		percent\N56
+1734	TOK	efficient		efficient\JA
+1735	TOK	at		at\P
+1736	TOK	delivering		deliver\VMG----
+1737	TOK	their		their\APP3N6
+1738	TOK	genome		genome\N5S
+1739	TOK	into		into\P
+1740	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+1741	TOK	so		so\DGA7
+1742	TOK	that		that\AD---S
+##	TAG	<num>
+1743	TOK	1,000		1,000\X
+##	TAG	</num>
+1744	TOK	viruses		virus\N5P
+1745	TOK	can		can\VOFDR66
+1746	TOK	infect		infect\VMI----
+1747	TOK	almost		almost\DGA7
+##	TAG	<num>
+1748	TOK	1,000		1,000\X
+##	TAG	</num>
+1749	TOK	cells		cell\N5P
+1750	TOK	of		of\P
+1751	TOK	the		the\AT---6
+1752	TOK	right		right\JA
+1753	TOK	type		type\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1754	TOK	To	BOS	to\P
+1755	TOK	transfect		transfect\VMI----
+##	TAG	<num>
+1756	TOK	1,000		1,000\X
+##	TAG	</num>
+1757	TOK	cells		cell\N5P
+1758	TOK	with		with\P
+1759	TOK	lipoplexes		lipoplexes\N5P
+1760	TOK	would		will\VOFDA66
+1761	TOK	require		require\VMI----
+1762	TOK	about		about\P
+##	TAG	<num>
+1763	TOK	10 million		10_million\X
+##	TAG	</num>
+1764	TOK	copies		copy\N5P
+1765	TOK	of		of\P
+1766	TOK	the		the\AT---6
+1767	TOK	gene		gene\N5S
+1768	TOK	in		in\P
+1769	TOK	a		a\AI---S
+1770	TOK	comparable		comparable\JA
+1771	TOK	number		number\N5S
+1772	TOK	of		of\P
+1773	TOK	lipoplexes		lipoplexes\N5P
+---	DLD	,		=\DELIM
+1774	TOK	making		make\VMG----
+1775	TOK	this		this\AD---S
+1776	TOK	approach		approach\N5S
+1777	TOK	some		some\AG---6
+##	TAG	<num>
+1778	TOK	10,000		10,000\X
+##	TAG	</num>
+1779	TOK	times		time\N5P
+1780	TOK	less		less\DDC7
+1781	TOK	efficient		efficient\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1782	TOK	One	BOS	one\MCS
+1783	TOK	strategy		strategy\N5S
+1784	TOK	we		we\RPP1NN
+1785	TOK	and		and\CC
+1786	TOK	others		other\RIP3N-
+1787	TOK	are		be\V6FDR66
+1788	TOK	pursuing		pursue\VMG----
+1789	TOK	to		to\P
+1790	TOK	improve		improve\VMI----
+1791	TOK	the		the\AT---6
+1792	TOK	efficiency		efficiency\N5S
+1793	TOK	of		of\P
+1794	TOK	lipoplexes		lipoplexes\N5P
+1795	TOK	is		be\V6FDRS3
+1796	TOK	to		to\P
+1797	TOK	incorporate		incorporate\VMI----
+1798	TOK	into		into\P
+1799	TOK	their		their\APP3N6
+1800	TOK	outer		outer\JA
+1801	TOK	surface		surface\N5S
+1802	TOK	specialized		specialize\VMC----
+1803	TOK	proteins		protein\N5P
+1804	TOK	or		or\CC
+1805	TOK	protein		protein\N5S
+1806	TOK	fragments		fragment\N5P
+1807	TOK	resembling		resemble\VMG----
+1808	TOK	those		that\RDP3N-
+1809	TOK	that		that\RW63N6
+1810	TOK	target		target\N5S
+1811	TOK	viruses		virus\N5P
+1812	TOK	to		to\P
+1813	TOK	particular		particular\JA
+1814	TOK	cell		cell\N5S
+1815	TOK	types		type\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1816	TOK	We	BOS	we\RPP1NN
+1817	TOK	might		may\VOFDR66
+1818	TOK	also		also\DGA7
+1819	TOK	include		include\VMI----
+1820	TOK	other		other\JA
+1821	TOK	molecules		molecule\N5P
+1822	TOK	to		to\P
+1823	TOK	facilitate		facilitate\VMI----
+1824	TOK	gene		gene\N5S
+1825	TOK	survival		survival\N5S
+1826	TOK	and		and\CC
+1827	TOK	functioning		function\VMG----
+1828	TOK	in		in\P
+1829	TOK	transfected		transfect\VMC----
+1830	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+1831	TOK	For example	BOS	For_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+1832	TOK	so		so\CC
+---	DLI	-		=\DELIM
+1833	TOK	called		call\VMC----
+1834	TOK	membrane		membrane\N5S
+1835	TOK	fusion		fusion\N5S
+1836	TOK	proteins		protein\N5P
+1837	TOK	of		of\P
+1838	TOK	viruses		virus\N5P
+---	DLD	,		=\DELIM
+1839	TOK	which		which\RW63N-
+1840	TOK	normally		normally\DGA7
+1841	TOK	help		help\VMF6R66
+1842	TOK	viruses		virus\N5P
+1843	TOK	escape		escape\VMF6R66
+1844	TOK	from		from\P
+1845	TOK	the		the\AT---6
+1846	TOK	cell		cell\N5S
+1847	PGR	's		genmark\GENMARK
+1848	TOK	internal		internal\JA
+1849	TOK	waste		waste\N5S
+1850	TOK	disposal		disposal\N5S
+1851	TOK	system		system\N5S
+---	DLD	,		=\DELIM
+1852	TOK	could		can\VOFDA66
+1853	TOK	be		be\VMI----
+1854	TOK	incorporated		incorporate\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1855	TOK	In	BOS	in\P
+1856	TOK	addition		addition\N5S
+---	DLD	,		=\DELIM
+1857	TOK	researchers		researcher\N5P
+1858	TOK	are		be\V6FDR66
+1859	TOK	experimenting		experiment\VMG----
+1860	TOK	with		with\P
+1861	TOK	ways		way\N5P
+1862	TOK	of		of\P
+1863	TOK	attaching		attach\VMG----
+1864	TOK	to		to\P
+1865	TOK	genes		gene\N5P
+1866	TOK	certain		certain\JA
+1867	TOK	viral		viral\JA
+1868	TOK	proteins		protein\N5P
+---	DLD	,		=\DELIM
+1869	TOK	known		know\VMC----
+1870	TOK	as		as\P
+1871	TOK	nuclear		nuclear\JA
+1872	TOK	targeting		target\VMG----
+1873	TOK	signals		signal\N5P
+---	DLD	,		=\DELIM
+1874	TOK	that		that\RW63N6
+1875	TOK	help		help\VMF6R66
+1876	TOK	to		to\P
+1877	TOK	direct		direct\JA
+1878	TOK	viral		viral\JA
+1879	TOK	genes		gene\N5P
+1880	TOK	to		to\P
+1881	TOK	the		the\AT---6
+1882	TOK	cell		cell\N5S
+1883	TOK	nucleus		nucleus\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1884	TOK	Meanwhile	BOS	meanwhile\DGA7
+1885	TOK	we		we\RPP1NN
+1886	TOK	and		and\CC
+1887	TOK	others		other\RIP3N-
+1888	TOK	are		be\V6FDR66
+1889	TOK	also		also\DGA7
+1890	TOK	pursuing		pursue\VMG----
+1891	TOK	applications		application\N5P
+1892	TOK	for		for\P
+1893	TOK	naked		naked\JA
+##	TAG	<name>
+1894	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1895	TOK	In	BOS	in\P
+1896	TOK	the		the\AT---6
+1897	TOK	late		late\JA
+##	TAG	<na type="code">
+1898	TOK	1980s		noanat\W
+##	TAG	</na>
+---	DLE	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+1899	TOK	long before		long_before\DGA7
+##	TAG	</loc>
+1900	TOK	the		the\AT---6
+1901	TOK	lipoplexes		lipoplexes\N5P
+1902	TOK	had		have\V6F6A66
+1903	TOK	entered		enter\VMC----
+1904	TOK	clinical		clinical\JA
+##	TAG	<abbr>
+1905	TOK	trials.		trials.\N5P
+##	TAG	</abbr>
+1906	TOK	my		my\APS1N6
+1907	TOK	colleagues		colleague\N5P
+##	TAG	<name>
+1908	TOK	Jon A. Wolff		Jon_A._Wolff\N46
+##	TAG	</name>
+1909	TOK	of		of\P
+1910	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+1911	TOK	University of Wisconsin		University_of_Wisconsin\N46
+##	TAG	</name>
+1912	TOK	and		and\CC
+##	TAG	<name>
+1913	TOK	Robert W. Malone		Robert_W._Malone\N46
+##	TAG	</name>
+1914	TOK	and		and\CC
+1915	TOK	I		I\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="P">
+1916	TOK	along with		along_with\P
+##	TAG	</loc>
+1917	TOK	some		some\AG---6
+1918	TOK	others		other\RIP3N-
+---	DLD	,		=\DELIM
+1919	TOK	made		make\VMC----
+1920	TOK	a		a\AI---S
+1921	TOK	surprising		surprising\JA
+1922	TOK	discovery		discovery\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1923	TOK	Hoping	BOS	hope\VMG----
+1924	TOK	to		to\P
+1925	TOK	determine		determine\VMI----
+1926	TOK	which		which\AW---6
+1927	TOK	lipid		lipid\N5S
+1928	TOK	formulations		formulation\N5P
+1929	TOK	were		be\V6F-A66
+1930	TOK	most		most\DDS7
+1931	TOK	effective		effective\JA
+1932	TOK	at		at\P
+1933	TOK	gene		gene\N5S
+1934	TOK	delivery		delivery\N5S
+1935	TOK	to		to\P
+1936	TOK	cell		cell\N5S
+---	DLD	,		=\DELIM
+1937	TOK	we		we\RPP1NN
+1938	TOK	had		have\V6F6A66
+1939	TOK	decided		decide\VMC----
+1940	TOK	to		to\P
+1941	TOK	measure		measure\VMI----
+1942	TOK	the		the\AT---6
+1943	TOK	expression		expression\N5S
+1944	TOK	of		of\P
+1945	TOK	a		a\AI---S
+1946	TOK	particular		particular\JA
+---	DLD	'		=\DELIM
+1947	TOK	monitored		monitor\VMC----
+1948	TOK	gene		gene\N5S
+1949	TOK	after		after\CS
+1950	TOK	we		we\RPP1NN
+1951	TOK	injected		inject\VMF6A66
+1952	TOK	various		various\JA
+1953	TOK	mouse		mouse\N5S
+1954	TOK	tissues		tissue\N5P
+1955	TOK	with		with\P
+1956	TOK	lipoplexes		lipoplexes\N5P
+1957	TOK	carrying		carry\VMG----
+1958	TOK	that		that\AD---S
+1959	TOK	gene		gene\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1960	TOK	It	BOS	it\RPS3N6
+1961	TOK	was		be\V6F-A66
+1962	TOK	a		a\AI---S
+1963	TOK	memorable		memorable\JA
+1964	TOK	day		day\N5S
+1965	TOK	when		when\CS
+1966	TOK	we		we\RPP1NN
+1967	TOK	analyzed		analyze\VMF6A66
+1968	TOK	the		the\AT---6
+1969	TOK	data		data\N56
+1970	TOK	from		from\P
+1971	TOK	our		our\APP1N6
+1972	TOK	first		first\MOS
+1973	TOK	experiment		experiment\N5S
+1974	TOK	and		and\CC
+1975	TOK	saw		see\VMF6A66
+1976	TOK	we		we\RPP1NN
+1977	TOK	had		have\V6F6A66
+1978	TOK	obtained		obtain\VMC----
+1979	TOK	levels		level\N5P
+1980	TOK	of		of\P
+1981	TOK	gene		gene\N5S
+1982	TOK	expression		expression\N5S
+1983	TOK	in		in\P
+1984	TOK	skeletal		skeletal\JA
+1985	TOK	muscle		muscle\N5S
+1986	TOK	comparable		comparable\JA
+1987	TOK	to		to\P
+1988	TOK	the		the\AT---6
+1989	TOK	best		good\JS
+1990	TOK	results		result\N5P
+1991	TOK	we		we\RPP1NN
+1992	TOK	had		have\V6F6A66
+1993	TOK	obtained		obtain\VMC----
+1994	TOK	by		by\P
+1995	TOK	transfecting		transfect\VMG----
+1996	TOK	cells		cell\N5P
+1997	TOK	in		in\P
+1998	TOK	culture		culture\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1999	TOK	But	BOS	but\CC
+2000	TOK	the		the\AT---6
+2001	TOK	next		next\JA
+2002	TOK	observation		observation\N5S
+2003	TOK	was		be\V6F-A66
+2004	TOK	unprecedented		unprecedented\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2005	TOK	We	BOS	we\RPP1NN
+2006	TOK	found		find\VMF6A66
+2007	TOK	that		that\CS
+##	TAG	<name>
+2008	TOK	DNA		DNA\N46
+##	TAG	</name>
+2009	TOK	by		by\P
+2010	TOK	itself		itself\RXS3N-
+---	DLD	,		=\DELIM
+2011	TOK	which		which\RW63N-
+2012	TOK	we		we\RPP1NN
+2013	TOK	had		have\V6F6A66
+2014	TOK	employed		employ\VMC----
+2015	TOK	in		in\P
+2016	TOK	some		some\AG---6
+2017	TOK	tests		test\N5P
+2018	TOK	as		as\P
+2019	TOK	a		a\AI---S
+2020	TOK	control		control\N5S
+2021	TOK	experiment		experiment\VMF6R66
+---	DLD	,		=\DELIM
+2022	TOK	gave		give\VMF6A66
+2023	TOK	expression		expression\N5S
+2024	TOK	levels		level\N5P
+2025	TOK	that		that\RW63N6
+2026	TOK	were		be\V6F-A66
+2027	TOK	similar		similar\JA
+2028	TOK	to		to\P
+2029	TOK	or		or\CC
+2030	TOK	greater		great\JC
+2031	TOK	than		than\CS
+2032	TOK	the		the\AT---6
+2033	TOK	lipid		lipid\N5S
+2034	TOK	formulations		formulation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2035	TOK	Naked	BOS	naked\JA
+##	TAG	<name>
+2036	TOK	DNA	EOS	DNA\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2038	TOK	We	BOS	we\RPP1NN
+2039	TOK	repeated		repeat\VMF6A66
+2040	TOK	these		this\AD---P
+2041	TOK	experiments		experiment\N5P
+2042	TOK	several		several\JA
+2043	TOK	times		time\N5P
+2044	TOK	in		in\P
+2045	TOK	our		our\APP1N6
+2046	TOK	different		different\JA
+2047	TOK	laboratories		laboratory\N5P
+---	DLD	,		=\DELIM
+2048	TOK	but		but\CC
+2049	TOK	the		the\AT---6
+2050	TOK	results		result\N5P
+2051	TOK	always		always\DGA7
+2052	TOK	came		come\VMF6A66
+2053	TOK	out		out\DGA7
+2054	TOK	the		the\AT---6
+2055	TOK	same		same\JA
+2056	TOK	way		way\N5S
+---	DLD	:		=\DELIM
+2057	TOK	naked		naked\JA
+##	TAG	<name>
+2058	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2059	TOK	injected		inject\VMC----
+2060	TOK	into		into\P
+2061	TOK	the		the\AT---6
+2062	TOK	muscle		muscle\N5S
+2063	TOK	of		of\P
+2064	TOK	an		an\AI---S
+2065	TOK	animal		animal\N5S
+---	DLD	,		=\DELIM
+2066	TOK	was		be\V6F-A66
+2067	TOK	expressed		express\VMC----
+2068	TOK	as		as\P
+2069	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2070	TOK	Moreover	BOS	moreover\DGA7
+---	DLD	,		=\DELIM
+2071	TOK	we		we\RPP1NN
+2072	TOK	could		can\VOFDA66
+2073	TOK	achieve		achieve\VMI----
+2074	TOK	quite		quite\DGA7
+2075	TOK	a		a\AI---S
+2076	TOK	high		high\JA
+2077	TOK	local		local\JA
+2078	TOK	concentration		concentration\N5S
+2079	TOK	of		of\P
+2080	TOK	the		the\AT---6
+2081	TOK	protein		protein\N5S
+---	DLD	,		=\DELIM
+2082	TOK	up		up\N5S
+2083	TOK	to		to\P
+##	TAG	<num>
+2084	TOK	100		100\X
+##	TAG	</num>
+2085	TOK	nanograms		nanogram\N5P
+2086	TOK	of		of\P
+2087	TOK	the		the\AT---6
+2088	TOK	gene		gene\N5S
+2089	TOK	product		product\N5S
+2090	TOK	per		per\P
+2091	TOK	gram		gram\N5S
+2092	TOK	of		of\P
+2093	TOK	muscle		muscle\N5S
+2094	TOK	tissue		tissue\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2095	TOK	Despite	BOS	despite\P
+2096	TOK	the		the\AT---6
+2097	TOK	electrical		electrical\JA
+2098	TOK	repulsion		repulsion\N5S
+2099	TOK	between		between\P
+2100	TOK	cell		cell\N5S
+2101	TOK	surfaces		surface\N5P
+2102	TOK	and		and\CC
+##	TAG	<name>
+2103	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2104	TOK	it		it\RPS3N6
+2105	TOK	appeared		appear\VMF6A66
+2106	TOK	that		that\CS
+##	TAG	<loc pos="RP63N-">
+2107	TOK	a few		a_few\RP63N-
+##	TAG	</loc>
+2108	TOK	cells		cell\N5P
+2109	TOK	were		be\V6F-A66
+2110	TOK	nonetheless		nonetheless\DGA7
+2111	TOK	able		able\JA
+2112	TOK	to		to\P
+2113	TOK	assimilate		assimilate\VMI----
+2114	TOK	the		the\AT---6
+2115	TOK	molecule		molecule\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2116	TOK	To	BOS	to\P
+2117	TOK	this		this\AD---S
+2118	TOK	day		day\N5S
+---	DLD	,		=\DELIM
+2119	TOK	it		it\RPS3N6
+2120	TOK	is		be\V6FDRS3
+2121	TOK	unclear		unclear\JA
+2122	TOK	how		how\DGAW
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2123	TOK	Perhaps	BOS	perhaps\DGA7
+2124	TOK	a		a\AI---S
+2125	TOK	small		small\JA
+2126	TOK	amount		amount\N5S
+2127	TOK	of		of\P
+2128	TOK	tissue		tissue\N5S
+2129	TOK	damage		damage\N5S
+2130	TOK	or		or\CC
+2131	TOK	increased		increase\VMF6A66
+2132	TOK	pressure		pressure\N5S
+2133	TOK	at		at\P
+2134	TOK	the		the\AT---6
+2135	TOK	injection		injection\N5S
+2136	TOK	site		site\N5S
+2137	TOK	plays		play\VMFDRS3
+2138	TOK	a		a\AI---S
+2139	TOK	role		role\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2140	TOK	In	BOS	in\P
+2141	TOK	principle		principle\N5S
+---	DLD	,		=\DELIM
+2142	TOK	it		it\RPS3N6
+2143	TOK	seemed		seem\VMF6A66
+2144	TOK	that		that\CS
+2145	TOK	it		it\RPS3N6
+2146	TOK	might		may\VOFDR66
+2147	TOK	be		be\VMI----
+2148	TOK	possible		possible\JA
+2149	TOK	to		to\P
+2150	TOK	inject		inject\VMI----
+2151	TOK	patients		patient\N5P
+---	DLD	'		=\DELIM
+2152	TOK	muscles		muscle\N5P
+2153	TOK	with		with\P
+2154	TOK	naked		naked\JA
+##	TAG	<name>
+2155	TOK	DNA		DNA\N46
+##	TAG	</name>
+2156	TOK	that		that\RW63N6
+2157	TOK	would		will\VOFDA66
+2158	TOK	then		then\DGA7
+2159	TOK	produce		produce\VMI----
+2160	TOK	therapeutic		therapeutic\JA
+2161	TOK	amounts		amount\N5P
+2162	TOK	of		of\P
+2163	TOK	a		a\AI---S
+2164	TOK	selected		select\VMC----
+2165	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2166	TOK	There	BOS	there\DGA7
+2167	TOK	is		be\V6FDRS3
+2168	TOK	a		a\AI---S
+2169	TOK	great		great\N56
+2170	TOK	need		need\V6F6R66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+2171	TOK	for example		for_example\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+2172	TOK	for		for\P
+2173	TOK	better		good\JC
+2174	TOK	ways		way\N5P
+2175	TOK	to		to\P
+2176	TOK	deliver		deliver\VMI----
+2177	TOK	to		to\P
+2178	TOK	patients		patient\N5P
+2179	TOK	insulin		insulin\N5S
+2180	TOK	for		for\P
+2181	TOK	treating		treat\VMG----
+2182	TOK	diabetes		diabetes\N56
+---	DLD	,		=\DELIM
+2183	TOK	or		or\CC
+2184	TOK	the		the\AT---6
+2185	TOK	blood		blood\N5S
+---	DLI	-		=\DELIM
+2186	TOK	clotting		clot\VMG----
+2187	TOK	protein		protein\N5S
+##	TAG	<name>
+2188	TOK	Factor		Factor\N46
+##	TAG	</name>
+##	TAG	<num>
+2189	TOK	VIII		VIII\X
+##	TAG	</num>
+2190	TOK	or		or\CC
+##	TAG	<num>
+2191	TOK	IX		IX\X
+##	TAG	</num>
+2192	TOK	for		for\P
+2193	TOK	treatment		treatment\N5S
+2194	TOK	of		of\P
+2195	TOK	hemophilias		hemophilia\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2196	TOK	Yet	BOS	yet\DGA7
+2197	TOK	in		in\P
+2198	TOK	these		this\AD---P
+2199	TOK	early		early\JA
+2200	TOK	studies		study\N5P
+2201	TOK	the		the\AT---6
+2202	TOK	locally		locally\DGA7
+2203	TOK	high		high\JA
+2204	TOK	concentrations		concentration\N5P
+2205	TOK	of		of\P
+2206	TOK	protein		protein\N5S
+2207	TOK	produced		produce\VMC----
+2208	TOK	inside		inside\P
+2209	TOK	the		the\AT---6
+2210	TOK	muscle		muscle\N5S
+2211	TOK	would		will\VOFDA66
+2212	TOK	not		not\DGA7
+2213	TOK	have		have\VMI----
+2214	TOK	been		be\VMC----
+2215	TOK	sufficient		sufficient\JA
+2216	TOK	to		to\P
+2217	TOK	be		be\VMI----
+2218	TOK	effective		effective\JA
+2219	TOK	against		against\P
+2220	TOK	these		this\AD---P
+2221	TOK	diseases		disease\N5P
+2222	TOK	when		when\CS
+2223	TOK	the		the\AT---6
+2224	TOK	proteins		protein\N5P
+2225	TOK	were		be\V6F-A66
+2226	TOK	diluted		dilute\VMC----
+2227	TOK	into		into\P
+2228	TOK	the		the\AT---6
+##	TAG	<num>
+2229	TOK	three		three\X
+##	TAG	</num>
+2230	TOK	liters		liter\N5P
+2231	TOK	of		of\P
+2232	TOK	plasma		plasma\N5S
+2233	TOK	in		in\P
+2234	TOK	the		the\AT---6
+2235	TOK	bloodstream		bloodstream\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<loc pos="CS">
+2236	TOK	Thanks to	BOS	Thanks_to\CS
+##	TAG	</loc>
+2237	TOK	improvements		improvement\N5P
+2238	TOK	in		in\P
+2239	TOK	plasmid		plasmid\N5S
+2240	TOK	design		design\VMF6R66
+---	DLD	,		=\DELIM
+2241	TOK	my		my\APS1N6
+2242	TOK	colleagues		colleague\N5P
+2243	TOK	and		and\CC
+2244	TOK	I		I\N5P
+2245	TOK	have		have\V6F6R66
+2246	TOK	recently		recently\DGA7
+2247	TOK	made		make\VMC----
+2248	TOK	progress		progress\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2249	TOK	We	BOS	we\RPP1NN
+2250	TOK	find		find\VMF6R66
+2251	TOK	we		we\RPP1NN
+2252	TOK	can		can\VOFDR66
+2253	TOK	stimulate		stimulate\VMI----
+2254	TOK	the		the\AT---6
+2255	TOK	production		production\N5S
+2256	TOK	of		of\P
+2257	TOK	red		red\JA
+2258	TOK	blood		blood\N5S
+2259	TOK	cells		cell\N5P
+2260	TOK	in		in\P
+2261	TOK	mice		mouse\N5P
+2262	TOK	by		by\P
+2263	TOK	injecting		inject\VMG----
+2264	TOK	the		the\AT---6
+2265	TOK	animals		animal\N5P
+2266	TOK	with		with\P
+2267	TOK	naked		naked\JA
+2268	TOK	plasmids		plasmid\N5P
+2269	TOK	encoding		encode\VMG----
+2270	TOK	erythropoietin		erythropoietin\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2271	TOK	This	BOS	this\AD---S
+2272	TOK	hormone		hormone\N5S
+2273	TOK	is		be\V6FDRS3
+2274	TOK	used		use\VMC----
+2275	TOK	to		to\P
+2276	TOK	help		help\VMI----
+2277	TOK	patients		patient\N5P
+2278	TOK	grow		grow\VMF6R66
+2279	TOK	new		new\JA
+2280	TOK	red		red\JA
+2281	TOK	blood		blood\N5S
+2282	TOK	cells		cell\N5P
+2283	TOK	after		after\P
+2284	TOK	chemotherapy		chemotherapy\N5S
+2285	TOK	and		and\CC
+2286	TOK	radiation		radiation\N5S
+2287	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2288	TOK	Perhaps	BOS	perhaps\DGA7
+2289	TOK	in		in\P
+2290	TOK	the		the\AT---6
+2291	TOK	future		future\N5S
+---	DLD	,		=\DELIM
+2292	TOK	injections		injection\N5P
+2293	TOK	of		of\P
+2294	TOK	similar		similar\JA
+2295	TOK	recombinant		recombinant\N5S
+2296	TOK	plasmids		plasmid\N5P
+2297	TOK	into		into\P
+2298	TOK	muscle		muscle\N5S
+2299	TOK	will		will\VOFDR66
+2300	TOK	be		be\VMI----
+2301	TOK	a		a\AI---S
+2302	TOK	less		less\DDC7
+2303	TOK	expensive		expensive\JA
+2304	TOK	alternative		alternative\N5S
+2305	TOK	to		to\P
+2306	TOK	delivering		deliver\VMG----
+2307	TOK	erythropoietin		erythropoietin\N5S
+2308	TOK	itself		itself\RXS3N-
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2309	TOK	In	BOS	in\P
+2310	TOK	the		the\AT---6
+2311	TOK	nearer		near\JC
+2312	TOK	term		term\N5S
+---	DLD	,		=\DELIM
+2313	TOK	naked		naked\JA
+##	TAG	<name>
+2314	TOK	DNA		DNA\N46
+##	TAG	</name>
+2315	TOK	has		have\V6FDRS3
+2316	TOK	promise		promise\N5S
+2317	TOK	for		for\P
+2318	TOK	use		use\N5S
+2319	TOK	in		in\P
+2320	TOK	vaccines		vaccine\N5P
+---	DLD	,		=\DELIM
+2321	TOK	because		because\CS
+2322	TOK	even		even\DGA7
+2323	TOK	minute		minute\N5S
+2324	TOK	amounts		amount\N5P
+2325	TOK	of		of\P
+2326	TOK	protein		protein\N5S
+2327	TOK	can		can\VOFDR66
+2328	TOK	stimulate		stimulate\VMI----
+2329	TOK	a		a\AI---S
+2330	TOK	protective		protective\JA
+2331	TOK	immune		immune\JA
+2332	TOK	response		response\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2333	TOK	Immunologic	BOS	immunologic\JA
+2334	TOK	studies		study\N5P
+2335	TOK	have		have\V6F6R66
+2336	TOK	indicated		indicate\VMC----
+2337	TOK	that		that\CS
+2338	TOK	proteins		protein\N5P
+2339	TOK	can		can\VOFDR66
+2340	TOK	elicit		elicit\VMI----
+##	TAG	<num>
+2341	TOK	two		two\X
+##	TAG	</num>
+2342	TOK	different		different\JA
+2343	TOK	kinds		kind\N5P
+2344	TOK	of		of\P
+2345	TOK	immunity		immunity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2346	TOK	The	BOS	the\AT---6
+2347	TOK	first		first\MOS
+---	DLD	,		=\DELIM
+2348	TOK	humoral		humoral\JA
+2349	TOK	immunity		immunity\N5S
+---	DLD	,		=\DELIM
+2350	TOK	develops		develop\VMFDRS3
+2351	TOK	after		after\P
+2352	TOK	a		a\AI---S
+2353	TOK	pathogen		pathogen\N5S
+2354	TOK	is		be\V6FDRS3
+2355	TOK	destroyed		destroy\VMC----
+2356	TOK	by		by\P
+2357	TOK	the		the\AT---6
+2358	TOK	immune		immune\JA
+2359	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2360	TOK	The	BOS	the\AT---6
+2361	TOK	damaged		damage\VMC----
+2362	TOK	microbes		microbe\N5P
+2363	TOK	are		be\V6FDR66
+2364	TOK	then		then\DGA7
+2365	TOK	taken		take\VMC----
+2366	TOK	up		up\P
+2367	TOK	by		by\P
+2368	TOK	specialized		specialize\VMC----
+2369	TOK	cells		cell\N5P
+2370	TOK	that		that\RW63N6
+2371	TOK	display		display\VMF6R66
+2372	TOK	the		the\AT---6
+2373	TOK	foreign		foreign\JA
+2374	TOK	proteins		protein\N5P
+2375	TOK	to		to\P
+2376	TOK	antibody		antibody\N5S
+---	DLI	-		=\DELIM
+2377	TOK	secreting		secrete\VMG----
+2378	TOK	cells		cell\N5P
+2379	TOK	called		call\VMC----
+2380	TOK	B		b\N5S
+2381	TOK	lymphocytes		lymphocyte\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2382	TOK	The	BOS	the\AT---6
+2383	TOK	B		b\N5S
+2384	TOK	lymphocytes		lymphocyte\N5P
+2385	TOK	respond		respond\VMF6R66
+2386	TOK	by		by\P
+2387	TOK	producing		produce\VMG----
+2388	TOK	antibodies		antibody\N5P
+2389	TOK	that		that\RW63N6
+2390	TOK	recognize		recognize\VMF6R66
+2391	TOK	the		the\AT---6
+2392	TOK	specific		specific\JA
+2393	TOK	foreign		foreign\JA
+2394	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2395	TOK	These	BOS	this\AD---P
+2396	TOK	antibodies		antibody\N5P
+2397	TOK	will		will\VOFDR66
+2398	TOK	rapidly		rapidly\DGA7
+2399	TOK	bind		bind\VMI----
+2400	TOK	to		to\P
+2401	TOK	the		the\AT---6
+2402	TOK	original		original\JA
+2403	TOK	pathogen		pathogen\N5S
+2404	TOK	whenever		whenever\CS
+2405	TOK	it		it\RPS3N6
+2406	TOK	is		be\V6FDRS3
+2407	TOK	encountered		encounter\VMC----
+2408	TOK	again		again\DGA7
+---	DLD	,		=\DELIM
+2409	TOK	neutralizing		neutralize\VMG----
+2410	TOK	it		it\RPS3N6
+2411	TOK	or		or\CC
+2412	TOK	marking		mark\VMG----
+2413	TOK	it		it\RPS3N6
+2414	TOK	for		for\P
+2415	TOK	destruction		destruction\N5S
+2416	TOK	by		by\P
+2417	TOK	other		other\JA
+2418	TOK	components		component\N5P
+2419	TOK	of		of\P
+2420	TOK	the		the\AT---6
+2421	TOK	immune		immune\JA
+2422	TOK	system		system\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2423	TOK	The	BOS	the\AT---6
+2424	TOK	second		second\MOS
+2425	TOK	kind		kind\N5S
+2426	TOK	of		of\P
+2427	TOK	response		response\N5S
+---	DLD	,		=\DELIM
+2428	TOK	known		know\VMC----
+2429	TOK	as		as\P
+2430	TOK	cellular		cellular\JA
+2431	TOK	immunity		immunity\N5S
+---	DLD	,		=\DELIM
+2432	TOK	occurs		occur\VMFDRS3
+2433	TOK	when		when\CS
+2434	TOK	invading		invade\VMG----
+2435	TOK	pathogens		pathogen\N5P
+2436	TOK	colonize		colonize\VMF6R66
+2437	TOK	cells		cell\N5P
+2438	TOK	and		and\CC
+2439	TOK	force		force\VMF6R66
+2440	TOK	them		them\RPP3NA
+2441	TOK	to		to\P
+2442	TOK	make		make\VMI----
+2443	TOK	more		more\DDC7
+2444	TOK	of		of\P
+2445	TOK	the		the\AT---6
+2446	TOK	pathogen		pathogen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2447	TOK	Short	BOS	short\JA
+2448	TOK	pieces		piece\N5P
+2449	TOK	of		of\P
+2450	TOK	the		the\AT---6
+2451	TOK	pathogen		pathogen\N5S
+2452	PGR	's		genmark\GENMARK
+2453	TOK	proteins		protein\N5P
+2454	TOK	are		be\V6FDR66
+2455	TOK	then		then\DGA7
+2456	TOK	displayed		display\VMC----
+2457	TOK	on		on\P
+2458	TOK	the		the\AT---6
+2459	TOK	surface		surface\N5S
+2460	TOK	of		of\P
+2461	TOK	the		the\AT---6
+2462	TOK	infected		infect\VMC----
+2463	TOK	cell		cell\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2464	TOK	The	BOS	the\AT---6
+2465	TOK	immune		immune\JA
+2466	TOK	system		system\N5S
+2467	TOK	responds		respond\VMFDRS3
+2468	TOK	by		by\P
+2469	TOK	producing		produce\VMG----
+2470	TOK	other		other\JA
+2471	TOK	lymphocytes		lymphocyte\N5P
+---	DLD	:		=\DELIM
+2472	TOK	activated		activate\VMC----
+2473	TOK	T		t\N5S
+2474	TOK	lymphocytes		lymphocyte\N5P
+2475	TOK	that		that\RW63N6
+2476	TOK	recognize		recognize\VMF6R66
+2477	TOK	these		this\AD---P
+2478	TOK	fragments		fragment\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2479	TOK	These	BOS	this\AD---P
+2480	TOK	lymphocytes		lymphocyte\N5P
+2481	TOK	do		do\V6FDR66
+2482	TOK	not		not\DGA7
+2483	TOK	produce		produce\VMI----
+2484	TOK	antibodies		antibody\N5P
+2485	TOK	but		but\CC
+2486	TOK	rather		rather\DGA7
+2487	TOK	destroy		destroy\VMF6R66
+2488	TOK	directly		directly\DGA7
+2489	TOK	cells		cell\N5P
+2490	TOK	that		that\RW63N6
+2491	TOK	are		be\V6FDR66
+2492	TOK	displaying		display\VMG----
+2493	TOK	the		the\AT---6
+2494	TOK	critical		critical\JA
+2495	TOK	fragments		fragment\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2496	TOK	If	BOS	if\CS
+2497	TOK	the		the\AT---6
+2498	TOK	pathogen		pathogen\N5S
+2499	TOK	invades		invade\VMFDRS3
+2500	TOK	the		the\AT---6
+2501	TOK	body		body\N5S
+2502	TOK	again		again\DGA7
+---	DLD	,		=\DELIM
+2503	TOK	infected		infect\VMC----
+2504	TOK	cells		cell\N5P
+2505	TOK	display		display\VMF6R66
+2506	TOK	the		the\AT---6
+2507	TOK	fragments		fragment\N5P
+2508	TOK	and		and\CC
+2509	TOK	so		so\DGA7
+2510	TOK	are		be\V6FDR66
+2511	TOK	destroyed		destroy\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2512	TOK	Dennis A. Carson	BOS	Dennis_A._Carson\N46
+##	TAG	</name>
+2513	TOK	of		of\P
+##	TAG	<abbr>
+2514	TOK	U.C.S.D.		U.C.S.D.\N5P
+##	TAG	</abbr>
+2515	TOK	and		and\CC
+2516	TOK	I		I\N5P
+2517	TOK	reasoned		reason\VMF6A66
+2518	TOK	that		that\CS
+2519	TOK	naked		naked\JA
+2520	TOK	plasmid		plasmid\N5S
+##	TAG	<name>
+2521	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2522	TOK	because		because\CS
+2523	TOK	it		it\RPS3N6
+2524	TOK	invades		invade\VMFDRS3
+2525	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+2526	TOK	might		may\VOFDR66
+2527	TOK	be		be\VMI----
+2528	TOK	able		able\JA
+2529	TOK	to		to\P
+2530	TOK	stimulate		stimulate\VMI----
+2531	TOK	cellular		cellular\JA
+##	TAG	<loc pos="DGA7">
+2532	TOK	as well as		as_well_as\DGA7
+##	TAG	</loc>
+2533	TOK	humoral		humoral\JA
+2534	TOK	immunity		immunity\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2535	TOK	Our	BOS	our\APP1N6
+2536	TOK	very		very\JA
+2537	TOK	first		first\DGA7
+2538	TOK	experiment		experiment\VMF6R66
+---	DLD	,		=\DELIM
+2539	TOK	conducted		conduct\VMC----
+2540	TOK	with		with\P
+##	TAG	<name>
+2541	TOK	Gary H. Rhodes		Gary_H._Rhodes\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+2542	TOK	showed		show\VMF6A66
+2543	TOK	that		that\CS
+2544	TOK	injecting		inject\VMG----
+2545	TOK	into		into\P
+2546	TOK	mice		mouse\N5P
+2547	TOK	a		a\AI---S
+2548	TOK	plasmid		plasmid\N5S
+2549	TOK	encoding		encode\VMG----
+2550	TOK	a		a\AI---S
+2551	TOK	coat		coat\N5S
+2552	TOK	protein		protein\N5S
+2553	TOK	from		from\P
+2554	TOK	the		the\AT---6
+2555	TOK	human		human\JA
+2556	TOK	immunodeficiency		immunodeficiency\N5S
+2557	TOK	virus		virus\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2558	TOK	HIV		HIV\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+2559	TOK	stimulated		stimulate\VMC----
+2560	TOK	the		the\AT---6
+2561	TOK	mice		mouse\N5P
+2562	TOK	to		to\P
+2563	TOK	generate		generate\VMI----
+2564	TOK	antibodies		antibody\N5P
+2565	TOK	that		that\RW63N6
+2566	TOK	bound		bind\VMF6A66
+2567	TOK	to		to\P
+2568	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="human immunodeficiency virus">
+2569	TOK	HIV		HIV\N46
+##	TAG	</name>
+2570	TOK	protein		protein\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2571	TOK	Rhodes	BOS	Rhodes\N46
+##	TAG	</name>
+2572	TOK	subsequently		subsequently\DGA7
+2573	TOK	demonstrated		demonstrate\VMF6A66
+2574	TOK	that		that\CS
+2575	TOK	the		the\AT---6
+2576	TOK	plasmids		plasmid\N5P
+2577	TOK	elicited		elicit\VMC----
+2578	TOK	cellular		cellular\JA
+2579	TOK	immune		immune\JA
+2580	TOK	responses		response\N5P
+---	DLD	,		=\DELIM
+2581	TOK	too		too\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2582	TOK	In	BOS	in\P
+2583	TOK	laboratory		laboratory\N5S
+2584	TOK	tests		test\N5P
+---	DLD	,		=\DELIM
+2585	TOK	T		t\N5S
+2586	TOK	lymphocytes		lymphocyte\N5P
+2587	TOK	from		from\P
+2588	TOK	these		this\AD---P
+2589	TOK	animals		animal\N5P
+2590	TOK	attacked		attack\VMF6A66
+2591	TOK	cells		cell\N5P
+2592	TOK	displaying		display\VMG----
+2593	TOK	fragments		fragment\N5P
+2594	TOK	of		of\P
+##	TAG	<name pos="N46" expansion="human immunodeficiency virus">
+2595	TOK	HIV		HIV\N46
+##	TAG	</name>
+2596	TOK	proteins		protein\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2597	TOK	Looking	BOS	look\VMG----
+##	TAG	<name>
+2598	TOK	Ahead	EOS	Ahead\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2600	TOK	The	BOS	the\AT---6
+2601	TOK	crowning		crown\VMG----
+2602	TOK	achievement		achievement\N5S
+2603	TOK	came		come\VMF6A66
+2604	TOK	when		when\CS
+##	TAG	<name>
+2605	TOK	Suezanne E		Suezanne_E\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2606	TOK	Parker	BOS	parker\N5S
+2607	TOK	from		from\P
+2608	TOK	my		my\APS1N6
+2609	TOK	laboratory		laboratory\N5S
+2610	TOK	showed		show\VMF6A66
+2611	TOK	that		that\CS
+2612	TOK	plasmids		plasmid\N5P
+2613	TOK	carrying		carry\VMG----
+2614	TOK	a		a\AI---S
+2615	TOK	gene		gene\N5S
+2616	TOK	from		from\P
+2617	TOK	influenza		influenza\N5S
+2618	TOK	virus		virus\N5S
+2619	TOK	could		can\VOFDA66
+2620	TOK	be		be\VMI----
+2621	TOK	used		use\VMC----
+2622	TOK	to		to\P
+2623	TOK	immunize		immunize\VMI----
+2624	TOK	mice		mouse\N5P
+2625	TOK	and		and\CC
+2626	TOK	so		so\DGA7
+2627	TOK	protect		protect\VMI----
+2628	TOK	them		them\RPP3NA
+2629	TOK	from		from\P
+2630	TOK	what		what\RW63N-
+2631	TOK	would		will\VOFDA66
+2632	TOK	otherwise		otherwise\DGA7
+2633	TOK	be		be\VMI----
+2634	TOK	a		a\AI---S
+2635	TOK	lethal		lethal\JA
+2636	TOK	viral		viral\JA
+2637	TOK	dose		dose\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2638	TOK	Margaret Liu	BOS	Margaret_Liu\N46
+##	TAG	</name>
+2639	TOK	and		and\CC
+2640	TOK	her		her\APS3F6
+2641	TOK	colleagues		colleague\N5P
+2642	TOK	at		at\P
+##	TAG	<name>
+2643	TOK	Merck		Merck\N46
+##	TAG	</name>
+2644	TOK	have		have\V6F6R66
+2645	TOK	confirmed		confirm\VMC----
+2646	TOK	these		this\AD---P
+2647	TOK	findings		finding\N5P
+2648	TOK	in		in\P
+2649	TOK	animals		animal\N5P
+2650	TOK	and		and\CC
+2651	TOK	expanded		expand\VMF6A66
+2652	TOK	them		them\RPP3NA
+2653	TOK	into		into\P
+2654	TOK	the		the\AT---6
+2655	TOK	development		development\N5S
+2656	TOK	of		of\P
+2657	TOK	a		a\AI---S
+2658	TOK	variety		variety\N5S
+2659	TOK	of		of\P
+2660	TOK	potential		potential\JA
+##	TAG	<name>
+2661	TOK	DNA		DNA\N46
+##	TAG	</name>
+2662	TOK	vaccines		vaccine\N5P
+2663	TOK	that		that\RW63N6
+2664	TOK	produce		produce\VMF6R66
+2665	TOK	long		long\DGA7
+---	DLI	-		=\DELIM
+2666	TOK	lasting		lasting\JA
+2667	TOK	cellular		cellular\JA
+2668	TOK	and		and\CC
+2669	TOK	humoral		humoral\JA
+2670	TOK	responses		response\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+2671	TOK	Merck	BOS	Merck\N46
+##	TAG	</name>
+2672	TOK	has		have\V6FDRS3
+2673	TOK	a		a\AI---S
+2674	TOK	naked		naked\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+2675	TOK	DNA		DNA\N46
+##	TAG	</name>
+2676	TOK	influenza		influenza\N5S
+2677	TOK	vaccine		vaccine\N5S
+2678	TOK	candidate		candidate\N5S
+2679	TOK	in		in\P
+2680	TOK	human		human\JA
+2681	TOK	clinical		clinical\JA
+2682	TOK	trials		trial\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2683	TOK	We	BOS	we\RPP1NN
+2684	TOK	can		can\VOFDR66
+2685	TOK	expect		expect\VMI----
+2686	TOK	to		to\P
+2687	TOK	see		see\VMI----
+2688	TOK	clinical		clinical\JA
+2689	TOK	testing		testing\N5S
+2690	TOK	of		of\P
+##	TAG	<name>
+2691	TOK	DNA		DNA\N46
+##	TAG	</name>
+2692	TOK	vaccines		vaccine\N5P
+2693	TOK	against		against\P
+2694	TOK	herpes		herpes\N5S
+---	DLD	,		=\DELIM
+2695	TOK	malaria		malaria\N5S
+2696	TOK	and		and\CC
+##	TAG	<name pos="N46" expansion="human immunodeficiency virus">
+2697	TOK	HIV		HIV\N46
+##	TAG	</name>
+2698	TOK	in		in\P
+2699	TOK	the		the\AT---6
+2700	TOK	not		not\DGA7
+2701	TOK	too		too\DGA7
+2702	TOK	distant		distant\JA
+2703	TOK	future		future\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2704	TOK	In	BOS	in\P
+2705	TOK	the		the\AT---6
+2706	TOK	longer		long\JC
+2707	TOK	term		term\N5S
+---	DLD	,		=\DELIM
+2708	TOK	tuberculosis		tuberculosis\N5S
+---	DLD	,		=\DELIM
+2709	TOK	papilloma		papilloma\N5S
+---	DLD	,		=\DELIM
+2710	TOK	chlamydia		chlamydia\N5S
+2711	TOK	and		and\CC
+2712	TOK	hepatitis		hepatitis\N5S
+2713	TOK	could		can\VOFDA66
+2714	TOK	be		be\VMI----
+2715	TOK	targets		target\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+2716	TOK	As well as	BOS	As_well_as\DGA7
+##	TAG	</loc>
+2717	TOK	preventing		prevent\VMG----
+2718	TOK	infection		infection\N5S
+---	DLD	,		=\DELIM
+2719	TOK	such		such\JA
+2720	TOK	vaccines		vaccine\N5P
+2721	TOK	might		may\VOFDR66
+2722	TOK	stimulate		stimulate\VMI----
+2723	TOK	the		the\AT---6
+2724	TOK	immune		immune\JA
+2725	TOK	systems		system\N5P
+2726	TOK	of		of\P
+2727	TOK	those		that\RDP3N-
+2728	TOK	already		already\DGA7
+2729	TOK	sick		sick\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2730	TOK	A	BOS	a\AI---S
+2731	TOK	clinical		clinical\JA
+2732	TOK	trial		trial\N5S
+2733	TOK	of		of\P
+2734	TOK	a		a\AI---S
+2735	TOK	naked		naked\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+2736	TOK	DNA		DNA\N46
+##	TAG	</name>
+2737	TOK	therapy		therapy\N5S
+2738	TOK	for		for\P
+2739	TOK	lymphoma		lymphoma\N5S
+---	DLD	,		=\DELIM
+2740	TOK	a		a\AI---S
+2741	TOK	cancer		cancer\N5S
+2742	TOK	of		of\P
+2743	TOK	the		the\AT---6
+2744	TOK	white		white\JA
+2745	TOK	blood		blood\N5S
+2746	TOK	cells		cell\N5P
+---	DLD	,		=\DELIM
+2747	TOK	is		be\V6FDRS3
+2748	TOK	being		be\VMG----
+2749	TOK	planned		plan\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2750	TOK	Lipoplexes	BOS	Lipoplexes\N46
+##	TAG	</name>
+2751	TOK	and		and\CC
+2752	TOK	naked		naked\JA
+##	TAG	<name>
+2753	TOK	DNA		DNA\N46
+##	TAG	</name>
+2754	TOK	are		be\V6FDR66
+2755	TOK	not		not\DGA7
+2756	TOK	the		the\AT---6
+2757	TOK	only		only\DGA7
+2758	TOK	nonviral		nonviral\JA
+2759	TOK	approaches		approach\N5P
+2760	TOK	to		to\P
+2761	TOK	gene		gene\N5S
+2762	TOK	therapy		therapy\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2763	TOK	Investigators	BOS	investigator\N5P
+2764	TOK	are		be\V6FDR66
+2765	TOK	also		also\DGA7
+2766	TOK	studying		study\VMG----
+2767	TOK	various		various\JA
+2768	TOK	nonlipid		nonlipid\N5S
+2769	TOK	cationic		cationic\JA
+2770	TOK	polymers		polymer\N5P
+2771	TOK	that		that\RW63N6
+2772	TOK	form		form\VMF6R66
+2773	TOK	complexes		complex\N5P
+2774	TOK	with		with\P
+##	TAG	<name>
+2775	TOK	DNA		DNA\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2776	TOK	These	BOS	this\AD---P
+2777	TOK	structures		structure\N5P
+---	DLD	,		=\DELIM
+2778	TOK	known		know\VMC----
+2779	TOK	as		as\P
+2780	TOK	polyplexes		polyplexes\N5P
+---	DLD	,		=\DELIM
+2781	TOK	are		be\V6FDR66
+2782	TOK	showing		show\VMG----
+2783	TOK	promise		promise\N5S
+2784	TOK	in		in\P
+2785	TOK	the		the\AT---6
+2786	TOK	laboratory		laboratory\N5S
+2787	TOK	and		and\CC
+2788	TOK	in		in\P
+2789	TOK	clinical		clinical\JA
+2790	TOK	trials		trial\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2791	TOK	One	BOS	one\RIS3N-
+2792	TOK	important		important\JA
+2793	TOK	goal		goal\N5S
+2794	TOK	for		for\P
+2795	TOK	nonviral		nonviral\JA
+2796	TOK	gene		gene\N5S
+2797	TOK	therapy		therapy\N5S
+2798	TOK	will		will\VOFDR66
+2799	TOK	be		be\VMI----
+2800	TOK	to		to\P
+2801	TOK	develop		develop\VMI----
+2802	TOK	delivery		delivery\N5S
+2803	TOK	systems		system\N5P
+2804	TOK	that		that\RW63N6
+2805	TOK	can		can\VOFDR66
+2806	TOK	be		be\VMI----
+2807	TOK	injected		inject\VMC----
+2808	TOK	into		into\P
+2809	TOK	the		the\AT---6
+2810	TOK	bloodstream		bloodstream\N5S
+2811	TOK	and		and\CC
+2812	TOK	will		will\VOFDR66
+2813	TOK	deliver		deliver\VMI----
+2814	TOK	their		their\APP3N6
+##	TAG	<name>
+2815	TOK	DNA		DNA\N46
+##	TAG	</name>
+2816	TOK	sequences		sequence\N5P
+2817	TOK	to		to\P
+2818	TOK	the		the\AT---6
+2819	TOK	appropriate		appropriate\JA
+2820	TOK	tissues		tissue\N5P
+---	DLD	,		=\DELIM
+2821	TOK	such		such\JA
+2822	TOK	as		as\P
+2823	TOK	lung		lung\N5S
+---	DLD	,		=\DELIM
+2824	TOK	liver		liver\N5S
+---	DLD	,		=\DELIM
+2825	TOK	spleen		spleen\N5S
+2826	TOK	or		or\CC
+2827	TOK	bone		bone\N5S
+2828	TOK	marrow		marrow\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2829	TOK	Gene	BOS	gene\N5S
+2830	TOK	delivery		delivery\N5S
+2831	TOK	systems		system\N5P
+2832	TOK	that		that\RW63N6
+2833	TOK	can		can\VOFDR66
+2834	TOK	be		be\VMI----
+2835	TOK	swallowed		swallow\VMC----
+2836	TOK	as		as\P
+2837	TOK	a		a\AI---S
+2838	TOK	pill		pill\N5S
+2839	TOK	could		can\VOFDA66
+2840	TOK	make		make\VMI----
+2841	TOK	gene		gene\N5S
+2842	TOK	therapy		therapy\N5S
+2843	TOK	even		even\DGA7
+2844	TOK	more		more\DDC7
+2845	TOK	convenient		convenient\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2846	TOK	And	BOS	and\CC
+2847	TOK	if		if\CS
+2848	TOK	delivery		delivery\N5S
+2849	TOK	systems		system\N5P
+2850	TOK	could		can\VOFDA66
+2851	TOK	be		be\VMI----
+2852	TOK	made		make\VMC----
+2853	TOK	to		to\P
+2854	TOK	target		target\N5S
+2855	TOK	tumor		tumor\N5S
+2856	TOK	cells		cell\N5P
+2857	TOK	specifically		specifically\DGA7
+---	DLD	,		=\DELIM
+2858	TOK	they		they\RPP3NN
+2859	TOK	could		can\VOFDA66
+2860	TOK	in		in\P
+2861	TOK	various		various\JA
+2862	TOK	ways		way\N5P
+2863	TOK	improve		improve\VMF6R66
+2864	TOK	the		the\AT---6
+2865	TOK	treatment		treatment\N5S
+2866	TOK	of		of\P
+2867	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2868	TOK	Ultimately	BOS	ultimately\DGA7
+---	DLD	,		=\DELIM
+2869	TOK	gene		gene\N5S
+2870	TOK	therapy		therapy\N5S
+2871	TOK	could		can\VOFDA66
+2872	TOK	be		be\VMI----
+2873	TOK	employed		employ\VMC----
+2874	TOK	to		to\P
+2875	TOK	correct		correct\VMI----
+2876	TOK	mutated		mutate\VMC----
+2877	TOK	genes		gene\N5P
+2878	TOK	in		in\P
+2879	TOK	the		the\AT---6
+2880	TOK	cells		cell\N5P
+2881	TOK	of		of\P
+2882	TOK	people		people\N56
+2883	TOK	with		with\P
+2884	TOK	genetic		genetic\JA
+2885	TOK	diseases		disease\N5P
+2886	TOK	or		or\CC
+2887	TOK	cancer		cancer\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2888	TOK	A	BOS	a\AI---S
+2889	TOK	technique		technique\N5S
+2890	TOK	known		know\VMC----
+2891	TOK	as		as\P
+2892	TOK	gene		gene\N5S
+2893	TOK	targeting		target\VMG----
+2894	TOK	offers		offer\VMFDRS3
+2895	TOK	a		a\AI---S
+2896	TOK	possible		possible\JA
+2897	TOK	approach		approach\N5S
+---	DLD	;		=\DELIM
+2898	TOK	it		it\RPS3N6
+2899	TOK	has		have\V6FDRS3
+2900	TOK	been		be\VMC----
+2901	TOK	used		use\VMC----
+2902	TOK	successfully		successfully\DGA7
+2903	TOK	with		with\P
+2904	TOK	lipoplexes		lipoplexes\N5P
+2905	TOK	in		in\P
+2906	TOK	cultured		culture\VMC----
+2907	TOK	cells		cell\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2908	TOK	Nonviral	BOS	nonviral\JA
+2909	TOK	gene		gene\N5S
+2910	TOK	delivery		delivery\N5S
+2911	TOK	to		to\P
+2912	TOK	cells		cell\N5P
+2913	TOK	via		via\P
+2914	TOK	lipoplexes		lipoplexes\N5P
+---	DLD	,		=\DELIM
+2915	TOK	polyplexes		polyplexes\N5P
+2916	TOK	and		and\CC
+2917	TOK	naked		naked\JA
+##	TAG	<name>
+2918	TOK	DNA		DNA\N46
+##	TAG	</name>
+2919	TOK	is		be\V6FDRS3
+2920	TOK	now		now\DGA7
+2921	TOK	an		an\AI---S
+2922	TOK	important		important\JA
+2923	TOK	and		and\CC
+2924	TOK	expanding		expand\VMG----
+2925	TOK	field		field\N5S
+2926	TOK	of		of\P
+2927	TOK	pharmaceutical		pharmaceutical\JA
+2928	TOK	research		research\N5S
+2929	TOK	and		and\CC
+2930	TOK	development		development\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2931	TOK	If	BOS	if\CS
+2932	TOK	the		the\AT---6
+2933	TOK	current		current\JA
+2934	TOK	pace		pace\N5S
+2935	TOK	of		of\P
+2936	TOK	progress		progress\N5S
+2937	TOK	is		be\V6FDRS3
+2938	TOK	maintained		maintain\VMC----
+---	DLD	,		=\DELIM
+2939	TOK	coming		coming\JA
+2940	TOK	decades		decade\N5P
+2941	TOK	should		shall\VOFDA66
+2942	TOK	see		see\VMI----
+2943	TOK	many		many\AI---P
+2944	TOK	products		product\N5P
+2945	TOK	based		base\VMC----
+2946	TOK	on		on\P
+2947	TOK	this		this\AD---S
+2948	TOK	technology		technology\N5S
+2949	TOK	being		be\VMG----
+2950	TOK	administered		administer\VMC----
+2951	TOK	on		on\P
+2952	TOK	a		a\AI---S
+2953	TOK	routine		routine\N5S
+2954	TOK	basis		basis\N5S
+2955	TOK	for		for\P
+2956	TOK	the		the\AT---6
+2957	TOK	treatment		treatment\N5S
+2958	TOK	and		and\CC
+2959	TOK	prevention		prevention\N5S
+2960	TOK	of		of\P
+2961	TOK	common		common\JA
+2962	TOK	diseases		disease\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2963	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2964	TOK	1	EOS	1\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2966	TOK	Lipoplexes	BOS	Lipoplexes\N46
+##	TAG	</name>
+2967	TOK	for		for\P
+2968	TOK	experimental		experimental\JA
+2969	TOK	gene		gene\N5S
+2970	TOK	therapy		therapy\N5S
+2971	TOK	are		be\V6FDR66
+2972	TOK	made		make\VMC----
+2973	TOK	in		in\P
+2974	TOK	part		part\N5S
+2975	TOK	by		by\P
+2976	TOK	copying		copy\VMG----
+2977	TOK	in		in\P
+2978	TOK	bacteria		bacteria\N5P
+2979	TOK	plasmids		plasmid\N5P
+2980	TOK	that		that\RW63N6
+2981	TOK	contain		contain\VMF6R66
+2982	TOK	therapeutic		therapeutic\JA
+2983	TOK	genes		gene\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+2984	TOK	When	BOS	when\CS
+2985	TOK	the		the\AT---6
+2986	TOK	extracted		extract\VMC----
+2987	TOK	plasmids		plasmid\N5P
+2988	TOK	are		be\V6FDR66
+2989	TOK	mixed		mix\VMC----
+2990	TOK	with		with\P
+2991	TOK	lipids		lipid\N5P
+---	DLD	,		=\DELIM
+2992	TOK	lipoplexes		lipoplexes\N5P
+2993	TOK	form		form\VMF6R66
+2994	TOK	spontaneously		spontaneously\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2995	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+2996	TOK	2	EOS	2\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+2998	TOK	Assimilation	BOS	assimilation\N5S
+2999	TOK	of		of\P
+3000	TOK	a		a\AI---S
+3001	TOK	lipoplex		lipoplex\N5S
+3002	TOK	by		by\P
+3003	TOK	a		a\AI---S
+3004	TOK	cultured		culture\VMC----
+3005	TOK	cell		cell\N5S
+3006	TOK	is		be\V6FDRS3
+3007	TOK	seen		see\VMC----
+3008	TOK	in		in\P
+3009	TOK	these		this\AD---P
+3010	TOK	micrographs		micrograph\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3011	TOK	The	BOS	the\AT---6
+3012	TOK	lipid		lipid\N5S
+3013	TOK	in		in\P
+3014	TOK	the		the\AT---6
+3015	TOK	lipoplex		lipoplex\N5S
+3016	TOK	protects		protect\VMFDRS3
+3017	TOK	its		its\APS3N6
+##	TAG	<name>
+3018	TOK	DNA		DNA\N46
+##	TAG	</name>
+3019	TOK	cargo		cargo\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3020	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3021	TOK	3	EOS	3\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3023	TOK	Lipids	BOS	lipid\N5P
+3024	TOK	in		in\P
+3025	TOK	lipoplexes		lipoplexes\N5P
+3026	TOK	help		help\VMF6R66
+##	TAG	<name>
+3027	TOK	DNA		DNA\N46
+##	TAG	</name>
+3028	TOK	enter		enter\VMF6R66
+3029	TOK	a		a\AI---S
+3030	TOK	cell		cell\N5S
+---	DLE	(		=\DELIM
+3031	TOK	left		left\N5S
+3032	TOK	and		and\CC
+3033	TOK	front		front\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+3034	TOK	before		before\P
+3035	TOK	cellular		cellular\JA
+3036	TOK	organelles		organelle\N5P
+3037	TOK	take		take\VMF6R66
+3038	TOK	up		up\P
+3039	TOK	the		the\AT---6
+3040	TOK	lipids		lipid\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3041	TOK	Naked-DNA	BOS	Naked-DNA\N46
+##	TAG	</name>
+3042	TOK	plasmids		plasmid\N5P
+---	DLE	(		=\DELIM
+3043	TOK	right		right\JA
+---	DLD	)		=\DELIM
+3044	TOK	can		can\VOFDR66
+3045	TOK	occasionally		occasionally\DGA7
+3046	TOK	enter		enter\VMI----
+3047	TOK	a		a\AI---S
+3048	TOK	cell		cell\N5S
+3049	TOK	through		through\P
+3050	TOK	a		a\AI---S
+3051	TOK	tear		tear\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3052	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3053	TOK	4	EOS	4\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+3055	TOK	Mouse	BOS	mouse\N5S
+3056	TOK	muscle		muscle\N5S
+3057	TOK	injected		inject\VMC----
+3058	TOK	with		with\P
+3059	TOK	naked		naked\JA
+---	DLD	-		=\DELIM
+##	TAG	<name>
+3060	TOK	DNA		DNA\N46
+##	TAG	</name>
+3061	TOK	plasmids		plasmid\N5P
+3062	TOK	takes		take\VMFDRS3
+3063	TOK	up		up\P
+3064	TOK	the		the\AT---6
+3065	TOK	plasmids		plasmid\N5P
+3066	TOK	and		and\CC
+3067	TOK	produces		produce\VMFDRS3
+3068	TOK	the		the\AT---6
+3069	TOK	protein		protein\N5S
+3070	TOK	they		they\RPP3NN
+3071	TOK	encode		encode\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+3072	TOK	In	BOS	in\P
+3073	TOK	this		this\AD---S
+3074	TOK	experiment		experiment\N5S
+3075	TOK	the		the\AT---6
+3076	TOK	encoded		encode\VMC----
+3077	TOK	protein		protein\N5S
+3078	TOK	produced		produce\VMF6A66
+3079	TOK	a		a\AI---S
+3080	TOK	marked		mark\VMC----
+3081	TOK	blue		blue\JA
+3082	TOK	coloration		coloration\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+3083	TOK	Figure	BOS	figure\N5S
+##	TAG	<num>
+3084	TOK	5	EOS	5\X
+##	TAG	</num>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+3086	TOK	Lipoplexes	BOS	Lipoplexes\N46
+##	TAG	</name>
+3087	TOK	to		to\P
+3088	TOK	fight		fight\VMI----
+3089	TOK	cancer		cancer\N5S
+3090	TOK	are		be\V6FDR66
+3091	TOK	administered		administer\VMC----
+3092	TOK	to		to\P
+3093	TOK	a		a\AI---S
+3094	TOK	melanoma		melanoma\N5S
+3095	TOK	patient		patient\N5S
+3096	TOK	by		by\P
+##	TAG	<name>
+3097	TOK	Alfred E. Chang		Alfred_E._Chang\N46
+##	TAG	</name>
+3098	TOK	and		and\CC
+##	TAG	<name>
+3099	TOK	Gary J. Nabel		Gary_J._Nabel\N46
+##	TAG	</name>
+3100	TOK	of		of\P
+3101	TOK	the		the\AT---6
+##	TAG	<name pos="N46" type="organization">
+3102	TOK	University of Michigan Medical Center		University_of_Michigan_Medical_Center\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	</div1>

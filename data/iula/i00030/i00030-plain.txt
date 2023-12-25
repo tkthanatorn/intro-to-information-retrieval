@@ -1,0 +1,40 @@
+
+April 1996 / News & Views / Java Chips Boost Applet Speed
+
+Java Chips Boost Applet Speed
+
+Tom R. Halfhill 
+
+Three new microprocessors from Sun Microelectronics (formerly Sparc Technology Business; Mountain View, CA) are the first CPUs dedicated to running Java software.
+They're designed to run Java programs much faster than a software-based Java engine on a general-purpose microprocessor, such as an x86, PowerPC, or Sparc.
+Sun's objectives are to boost the performance of Java and to make it easier for vendors to build inexpensive Java devices, including Web PCs and embedded products like cellular phones and personal digital assistants (PDAs).
+
+Developers write applets in the Java programming language, which closely resembles C++.
+A Java compiler translates that source code into a condensed format known as bytecode .
+The bytecode is more compact, more secure, and executes more efficiently than raw source code.
+It runs on a software layer called the Java virtual engine, which contains a run-time interpreter that translates the bytecode into the native code of the underlying microprocessor.
+Java bytecode is analogous to an executable binary, except it isn't specific to a microprocessor architecture, which is why Java applets can run on any computer that has a Java virtual engine.
+
+Unlike compiled binaries, Java applets aren't translated into native machine code until the moment of execution.
+The technical drawback to this approach, of course, is that on-the-fly interpreting takes time and hurts performance.
+Sun's Java chips eliminate the need for run-time interpreting because they execute the bytecode directly.
+In effect, Java bytecode is the native instruction set of the Java microprocessors.
+
+One of the three products that Sun recently announced is actually a CPU core that Sun will license to other chip makers and vendors.
+Known as the picoJava, this is an extremely small core (it's only about 25 square millimeters) that licensees can customize.
+Sun says that low-end Java chips based on the picoJava could cost less than $25.
+
+The microJava is a Sun microcontroller based on the picoJava.
+It's about 50sq mm and is designed for telecommunications equipment and other embedded applications. 
+Sun hopes to sample this chip in early 1997 and eventually sell it for $25 to $50.
+
+At the high end is the ultraJava, a processor that's three to five times faster than the microJava.
+It has multimedia extensions similar to those built into Sun's UltraSparc processors for workstations.
+Among other things, these extensions allow fast 3-D graphics.
+The ultraJava is intended for Web PCs and similar multimedia devices.
+Sun hopes to sample this chip in late 1997 and sell it for about $100.
+
+The biggest disadvantage of Java processors is that they can't run anything but Java software.
+However, in addition to enabling dedicated Java devices, they could also serve as high-speed Java coprocessors in general-purpose PCs.
+
+  Copyright © 1994-1996

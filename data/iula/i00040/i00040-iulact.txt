@@ -1,0 +1,3316 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<date pos="T" ISO8601="1996-04-">
+1	TOK	April 1996	BOS	April_1996\T
+##	TAG	</date>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+2	TOK	Reviews		Reviews\N46
+##	TAG	</name>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+3	TOK	A Hot Cup of Java	EOS	A_Hot_Cup_of_Java\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+5	TOK	A	BOS	a\AI---S
+##	TAG	<name>
+6	TOK	Hot Cup of Java	EOS	Hot_Cup_of_Java\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+8	TOK	Sun	BOS	sun\N5S
+9	PGR	's		genmark\GENMARK
+10	TOK	language		language\N5S
+11	TOK	for		for\P
+12	TOK	building		build\VMG----
+##	TAG	<name>
+13	TOK	Web		Web\N46
+##	TAG	</name>
+14	TOK	applets		applet\N5P
+15	TOK	may		may\VOFDR66
+16	TOK	be		be\VMI----
+17	TOK	a		a\AI---S
+18	TOK	trendy		trendy\JA
+19	TOK	item		item\N5S
+---	DLD	,		=\DELIM
+20	TOK	but		but\CC
+21	TOK	in		in\P
+22	TOK	many		many\AI---P
+23	TOK	ways		way\N5P
+24	TOK	it		it\RPS3N6
+25	PGR	's		be\V6FDRS3
+26	TOK	a		a\AI---S
+27	TOK	strange		strange\JA
+28	TOK	brew	EOS	brew\N5S
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+29	TOK	Andrew Singleton	BOS	Andrew_Singleton\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+31	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+32	TOK	a		a\AI---S
+33	TOK	language		language\N5S
+34	TOK	created		create\VMC----
+35	TOK	to		to\P
+36	TOK	build		build\VMI----
+37	TOK	applications		application\N5P
+38	TOK	that		that\RW63N6
+39	TOK	will		will\VOFDR66
+40	TOK	leap		leap\VMI----
+41	TOK	across		across\P
+42	TOK	the		the\AT---6
+##	TAG	<name>
+43	TOK	World Wide Web		World_Wide_Web\N46
+##	TAG	</name>
+44	TOK	to		to\P
+45	TOK	the		the\AT---6
+46	TOK	far		far\JA
+47	TOK	corners		corner\N5P
+48	TOK	of		of\P
+49	TOK	the		the\AT---6
+50	TOK	globe		globe\N5S
+---	DLD	,		=\DELIM
+51	TOK	is		be\V6FDRS3
+52	TOK	a		a\AI---S
+##	TAG	<loc pos="JA">
+53	TOK	bona fide		bona_fide\JA
+##	TAG	</loc>
+54	TOK	phenomenon		phenomenon\N5S
+---	DLE	(		=\DELIM
+55	TOK	see		see\VMF6R66
+---	DLE	"		=\DELIM
+##	TAG	<name>
+56	TOK	Wired		Wired\N46
+##	TAG	</name>
+57	TOK	on		on\P
+58	TOK	the		the\AT---6
+##	TAG	<name>
+59	TOK	Web		Web\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+---	DLD	"		=\DELIM
+##	TAG	<name>
+60	TOK	January BYTE		January_BYTE\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+61	TOK	But	BOS	but\CC
+62	TOK	can		can\VOFDR66
+63	TOK	anything		anything\RIS3N-
+64	TOK	live		live\VMI----
+65	TOK	up		up\P
+66	TOK	to		to\P
+67	TOK	the		the\AT---6
+68	TOK	hype		hype\N5S
+69	TOK	surrounding		surround\VMG----
+##	TAG	<name>
+70	TOK	Java		Java\N46
+##	TAG	</name>
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+72	TOK	We	BOS	we\RPP1NN
+73	TOK	tried		try\VMF6A66
+74	TOK	building		build\VMG----
+75	TOK	a		a\AI---S
+76	TOK	simple		simple\JA
+##	TAG	<name>
+77	TOK	Java		Java\N46
+##	TAG	</name>
+78	TOK	program		program\N5S
+79	TOK	to		to\P
+80	TOK	see		see\VMI----
+81	TOK	just		just\DGA7
+82	TOK	how		how\DGAW
+83	TOK	far		far\DGA7
+84	TOK	beyond		beyond\P
+##	TAG	<name>
+85	TOK	Hypertext Markup Language		Hypertext_Markup_Language\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+86	TOK	HTML		HTML\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+87	TOK	this		this\AD---S
+88	TOK	new		new\JA
+89	TOK	language		language\N5S
+90	TOK	can		can\VOFDR66
+91	TOK	carry		carry\VMI----
+92	TOK	the		the\AT---6
+##	TAG	<name>
+93	TOK	Web		Web\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+94	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+95	TOK	Language of Java	EOS	Language_of_Java\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+97	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+98	TOK	is		be\V6FDRS3
+99	TOK	based		base\VMC----
+100	TOK	loosely		loosely\DGA7
+101	TOK	on		on\P
+102	TOK	C++		C++\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+103	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+104	TOK	programs		program\N5P
+105	TOK	come		come\VMF6R66
+106	TOK	in		in\P
+107	TOK	the		the\AT---6
+108	TOK	form		form\N5S
+109	TOK	of		of\P
+110	TOK	applets		applet\N5P
+111	TOK	that		that\RW63N6
+112	TOK	load		load\VMF6R66
+113	TOK	into		into\P
+114	TOK	a		a\AI---S
+##	TAG	<name>
+115	TOK	Java-enabled Web		Java-enabled_Web\N46
+##	TAG	</name>
+116	TOK	browser		browser\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+117	TOK	The	BOS	the\AT---6
+118	TOK	term		term\N5S
+119	TOK	applet		applet\N5S
+120	TOK	comes		come\VMFDRS3
+121	TOK	from		from\P
+122	TOK	the		the\AT---6
+123	TOK	applet		applet\N5S
+124	TOK	tag		tag\N5S
+125	TOK	that		that\RW63N6
+126	TOK	appears		appear\VMFDRS3
+127	TOK	in		in\P
+128	TOK	an		an\AI---S
+##	TAG	<name>
+129	TOK	HTML		HTML\N46
+##	TAG	</name>
+130	TOK	document		document\N5S
+131	TOK	and		and\CC
+132	TOK	tells		tell\VMFDRS3
+133	TOK	the		the\AT---6
+134	TOK	browser		browser\N5S
+135	TOK	to		to\P
+136	TOK	download		download\VMI----
+137	TOK	the		the\AT---6
+138	TOK	appropriate		appropriate\JA
+##	TAG	<name>
+139	TOK	Java		Java\N46
+##	TAG	</name>
+140	TOK	code		code\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+141	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+142	TOK	Java		Java\N46
+##	TAG	</name>
+143	TOK	source		source\N5S
+144	TOK	files		file\N5P
+145	TOK	are		be\V6FDR66
+146	TOK	compiled		compile\VMC----
+147	TOK	into		into\P
+---	DLD	.		=\DELIM
+##	TAG	<name>
+148	TOK	CLASS		CLASS\N46
+##	TAG	</name>
+149	TOK	files		file\N5P
+150	TOK	that		that\RW63N6
+151	TOK	contain		contain\VMF6R66
+152	TOK	portable		portable\JA
+153	TOK	byte		byte\N5S
+154	TOK	code		code\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+155	TOK	Client	BOS	client\N5S
+156	TOK	machines		machine\N5P
+---	DLD	,		=\DELIM
+157	TOK	such		such\JA
+158	TOK	as		as\P
+##	TAG	<name>
+159	TOK	Web		Web\N46
+##	TAG	</name>
+160	TOK	browsers		browser\N5P
+---	DLD	,		=\DELIM
+161	TOK	run		run\VMF6R66
+162	TOK	the		the\AT---6
+##	TAG	<name>
+163	TOK	Java		Java\N46
+##	TAG	</name>
+164	TOK	byte		byte\N5S
+165	TOK	code		code\N5S
+166	TOK	using		use\VMG----
+167	TOK	a		a\AI---S
+168	TOK	virtual		virtual\JA
+---	DLI	-		=\DELIM
+169	TOK	machine		machine\N5S
+170	TOK	interpreter		interpreter\N5S
+171	TOK	or		or\CC
+172	TOK	emulator		emulator\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+173	TOK	The	BOS	the\AT---6
+174	TOK	virtual		virtual\JA
+175	TOK	machine		machine\N5S
+176	TOK	is		be\V6FDRS3
+177	TOK	a		a\AI---S
+178	TOK	simple		simple\JA
+179	TOK	stack		stack\N5S
+180	TOK	machine		machine\N5S
+---	DLD	,		=\DELIM
+181	TOK	and		and\CC
+182	TOK	the		the\AT---6
+183	TOK	programs		program\N5P
+184	TOK	are		be\V6FDR66
+185	TOK	structured		structure\VMC----
+186	TOK	to		to\P
+187	TOK	allow		allow\VMI----
+188	TOK	clients		client\N5P
+189	TOK	to		to\P
+190	TOK	verify		verify\VMI----
+191	TOK	that		that\CS
+192	TOK	downloaded		download\VMC----
+193	TOK	code		code\N5S
+194	TOK	contains		contain\VMFDRS3
+195	TOK	no		no\AI---6
+196	TOK	illegal		illegal\JA
+197	TOK	references		reference\N5P
+198	TOK	or		or\CC
+199	TOK	grammatical		grammatical\JA
+200	TOK	errors		error\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+201	TOK	The	BOS	the\AT---6
+202	TOK	client		client\N5S
+203	TOK	side		side\N5S
+204	TOK	will		will\VOFDR66
+205	TOK	get		get\VMI----
+206	TOK	even		even\DGA7
+207	TOK	more		more\DDC7
+208	TOK	interesting		interesting\JA
+209	TOK	with		with\P
+210	TOK	the		the\AT---6
+211	TOK	promised		promise\VMC----
+212	TOK	arrival		arrival\N5S
+213	TOK	of		of\P
+214	TOK	a		a\AI---S
+215	TOK	just		just\DGA7
+---	DLI	-		=\DELIM
+216	TOK	in		in\P
+---	DLI	-		=\DELIM
+217	TOK	time		time\N5S
+218	TOK	compiler		compiler\N5S
+---	DLD	,		=\DELIM
+219	TOK	which		which\RW63N-
+220	TOK	will		will\VOFDR66
+221	TOK	convert		convert\VMI----
+222	TOK	the		the\AT---6
+223	TOK	verified		verify\VMC----
+224	TOK	byte		byte\N5S
+225	TOK	code		code\N5S
+226	TOK	into		into\P
+227	TOK	native		native\JA
+228	TOK	machine		machine\N5S
+229	TOK	code		code\N5S
+230	TOK	as		as\CS
+231	TOK	it		it\RPS3N6
+232	TOK	loads		load\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+233	TOK	This	BOS	this\RDS3N-
+234	TOK	should		shall\VOFDA66
+235	TOK	greatly		greatly\DGA7
+236	TOK	improve		improve\VMI----
+237	TOK	applet		applet\N5S
+238	TOK	performance		performance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+239	TOK	The	BOS	the\AT---6
+240	TOK	goal		goal\N5S
+241	TOK	for		for\P
+##	TAG	<name>
+242	TOK	Java		Java\N46
+##	TAG	</name>
+243	TOK	is		be\V6FDRS3
+244	TOK	to		to\P
+245	TOK	create		create\VMI----
+246	TOK	a		a\AI---S
+247	TOK	language		language\N5S
+248	TOK	that		that\RW63N6
+249	PGR	's		be\V6FDRS3
+250	TOK	completely		completely\DGA7
+251	TOK	portable		portable\JA
+---	DLD	,		=\DELIM
+252	TOK	running		run\VMG----
+253	TOK	correctly		correctly\DGA7
+254	TOK	on		on\P
+255	TOK	every		every\AG---S
+256	TOK	computer		computer\N5S
+257	TOK	that		that\RW63N6
+258	TOK	downloads		download\VMFDRS3
+259	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+260	TOK	But	BOS	but\CC
+261	TOK	most		most\AG---6
+262	TOK	languages		language\N5P
+263	TOK	have		have\V6F6R66
+264	TOK	some		some\AG---6
+265	TOK	ambiguity		ambiguity\N5S
+266	TOK	in		in\P
+267	TOK	their		their\APP3N6
+268	TOK	specification		specification\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+269	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+270	TOK	a		a\AI---S
+271	TOK	C++		C++\N5S
+272	TOK	compiler		compiler\N5S
+273	TOK	can		can\VOFDR66
+274	TOK	implement		implement\VMI----
+275	TOK	an		an\AI---S
+276	TOK	intdata		intdata\N5S
+277	TOK	type		type\N5S
+278	TOK	as		as\P
+279	TOK	a		a\AI---S
+##	TAG	<num>
+280	TOK	16		16\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+---	DLD	,		=\DELIM
+##	TAG	<num>
+281	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+---	DLD	,		=\DELIM
+282	TOK	or		or\CC
+##	TAG	<num>
+283	TOK	64		64\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+284	TOK	bit		bit\N5S
+285	TOK	binary		binary\JA
+286	TOK	number		number\N5S
+---	DLD	,		=\DELIM
+287	TOK	depending		depend\VMG----
+288	TOK	on		on\P
+289	TOK	the		the\AT---6
+290	TOK	host		host\N5S
+291	TOK	machine		machine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+292	TOK	This	BOS	this\AD---S
+293	TOK	ambiguity		ambiguity\N5S
+294	TOK	causes		cause\VMFDRS3
+295	TOK	porting		port\VMG----
+296	TOK	problems		problem\N5P
+---	DLD	,		=\DELIM
+297	TOK	since		since\CS
+##	TAG	<name>
+298	TOK	Java		Java\N46
+##	TAG	</name>
+299	TOK	defines		define\VMFDRS3
+300	TOK	an		an\AI---S
+301	TOK	int		int\N5S
+302	TOK	as		as\P
+##	TAG	<num>
+303	TOK	32		32\X
+##	TAG	</num>
+304	TOK	bits		bit\N5P
+305	TOK	on		on\P
+306	TOK	all		all\AG---6
+307	TOK	platforms		platform\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+308	TOK	Other	BOS	other\JA
+309	TOK	sources		source\N5P
+310	TOK	of		of\P
+311	TOK	ambiguity		ambiguity\N5S
+312	TOK	in		in\P
+313	TOK	data		data\N56
+314	TOK	types		type\N5P
+---	DLD	,		=\DELIM
+315	TOK	expression		expression\N5S
+316	TOK	evaluation		evaluation\N5S
+---	DLD	,		=\DELIM
+317	TOK	and		and\CC
+318	TOK	syntax		syntax\N5S
+319	TOK	will		will\VOFDR66
+320	TOK	be		be\VMI----
+321	TOK	ironed		iron\VMC----
+322	TOK	out		out\DGA7
+323	TOK	as		as\P
+324	TOK	the		the\AT---6
+325	TOK	language		language\N5S
+326	TOK	specification		specification\N5S
+327	TOK	is		be\V6FDRS3
+328	TOK	completed		complete\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+329	TOK	Java	BOS	java\N5S
+##	TAG	<name>
+330	TOK	Is Not		Is_Not\N46
+##	TAG	</name>
+331	TOK	C++		C++\N5S
+332	TOK	Lite	EOS	lite\N5S
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+334	TOK	There	BOS	there\DGA7
+335	TOK	are		be\V6FDR66
+336	TOK	important		important\JA
+---	DLD	,		=\DELIM
+337	TOK	intentional		intentional\JA
+338	TOK	differences		difference\N5P
+339	TOK	between		between\P
+##	TAG	<name>
+340	TOK	Java		Java\N46
+##	TAG	</name>
+341	TOK	and		and\CC
+342	TOK	C++		C++\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+343	TOK	To	BOS	to\P
+344	TOK	attach		attach\VMI----
+345	TOK	libraries		library\N5P
+---	DLD	,		=\DELIM
+346	TOK	base		base\N5S
+347	TOK	classes		class\N5P
+---	DLD	,		=\DELIM
+348	TOK	and		and\CC
+349	TOK	referenced		reference\VMC----
+350	TOK	code		code\VMF6R66
+---	DLD	,		=\DELIM
+##	TAG	<name>
+351	TOK	Java		Java\N46
+##	TAG	</name>
+352	TOK	uses		use\VMFDRS3
+353	TOK	import		import\N5S
+354	TOK	xxx		noanat\W
+355	TOK	packagename		packagename\N5S
+356	TOK	xxx		noanat\W
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+357	TOK	This	BOS	this\AD---S
+358	TOK	single		single\JA
+359	TOK	statement		statement\N5S
+360	TOK	performs		perform\VMFDRS3
+361	TOK	both		both\RIP3N-
+362	TOK	an		an\AI---S
+363	TOK	include		include\VMF6R66
+---	DLE	(		=\DELIM
+364	TOK	to		to\P
+365	TOK	define		define\VMI----
+366	TOK	the		the\AT---6
+367	TOK	classes		class\N5P
+368	TOK	at		at\P
+369	TOK	compile		compile\VMI----
+370	TOK	time		time\N5S
+---	DLD	)		=\DELIM
+371	TOK	and		and\CC
+372	TOK	a		a\AI---S
+373	TOK	load/link		load/link\N5S
+374	TOK	at		at\P
+375	TOK	run		run\VMI----
+376	TOK	time		time\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+377	TOK	The	BOS	the\AT---6
+378	TOK	imported		import\VMC----
+379	TOK	classes		class\N5P
+380	TOK	can		can\VOFDR66
+381	TOK	import		import\VMI----
+382	TOK	additional		additional\JA
+383	TOK	classes		class\N5P
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="DGA7">
+384	TOK	and so on		and_so_on\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+385	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+386	TOK	loads		load\VMFDRS3
+387	TOK	all		all\AG---6
+388	TOK	code		code\N5S
+389	TOK	dynamically		dynamically\DGA7
+390	TOK	at		at\P
+391	TOK	run		run\VMI----
+392	TOK	time		time\N5S
+393	TOK	and		and\CC
+394	TOK	loads		load\VMFDRS3
+395	TOK	the		the\AT---6
+396	TOK	code		code\N5S
+397	TOK	class		class\N5S
+398	TOK	by		by\P
+399	TOK	class		class\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+400	TOK	When	BOS	when\CS
+401	TOK	the		the\AT---6
+##	TAG	<name>
+402	TOK	Java		Java\N46
+##	TAG	</name>
+403	TOK	compiler		compiler\N5S
+404	TOK	compiles		compile\VMFDRS3
+405	TOK	a		a\AI---S
+406	TOK	source		source\N5S
+407	TOK	file		file\N5S
+---	DLD	,		=\DELIM
+408	TOK	each		each\AG---S
+409	TOK	class		class\N5S
+410	TOK	comes		come\VMFDRS3
+411	TOK	out		out\DGA7
+412	TOK	in		in\P
+413	TOK	a		a\AI---S
+414	TOK	separate		separate\JA
+---	DLD	.		=\DELIM
+##	TAG	<name>
+415	TOK	CLASS		CLASS\N46
+##	TAG	</name>
+416	TOK	file		file\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+417	TOK	All	BOS	all\AG---6
+418	TOK	functions		function\N5P
+419	TOK	must		must\VOFDR66
+420	TOK	be		be\VMI----
+421	TOK	methods		method\N5P
+422	TOK	of		of\P
+423	TOK	some		some\AG---6
+424	TOK	class		class\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DGA7">
+425	TOK	For instance	BOS	For_instance\DGA7
+##	TAG	</loc>
+---	DLE	,		=\DELIM
+426	TOK	math		math\N5S
+427	TOK	functions		function\N5P
+---	DLD	,		=\DELIM
+428	TOK	such		such\JA
+429	TOK	as		as\P
+430	TOK	sine		sine\N5S
+---	DLD	,		=\DELIM
+431	TOK	are		be\V6FDR66
+432	TOK	implemented		implement\VMC----
+433	TOK	as		as\P
+434	TOK	methods		method\N5P
+435	TOK	of		of\P
+436	TOK	the		the\AT---6
+437	TOK	class		class\N5S
+##	TAG	<name>
+438	TOK	Math		Math\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+439	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+440	TOK	acts		act\VMFDRS3
+441	TOK	somewhat		somewhat\DGA7
+442	TOK	like		like\P
+443	TOK	a		a\AI---S
+##	TAG	<name>
+444	TOK	BASIC		BASIC\N46
+##	TAG	</name>
+445	TOK	or		or\CC
+##	TAG	<name>
+446	TOK	Lisp		Lisp\N46
+##	TAG	</name>
+447	TOK	interpreter		interpreter\N5S
+448	TOK	when		when\CS
+449	TOK	handling		handling\N5S
+450	TOK	objects		object\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+451	TOK	To	BOS	to\P
+452	TOK	get		get\VMI----
+453	TOK	a		a\AI---S
+454	TOK	new		new\JA
+455	TOK	object		object\N5S
+---	DLD	,		=\DELIM
+456	TOK	you		you\RP62N6
+457	TOK	simply		simply\DGA7
+458	TOK	type		type\VMF6R66
+459	TOK	the		the\AT---6
+460	TOK	statement		statement\N5S
+461	TOK	xxx		noanat\W
+462	TOK	variable		variable\JA
+463	TOK	xxx		noanat\W
+464	TOK	new		new\JA
+465	TOK	xxx		noanat\W
+466	TOK	object		object\N5S
+467	TOK	xxx		noanat\W
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+468	TOK	This	BOS	this\RDS3N-
+469	TOK	gives		give\VMFDRS3
+470	TOK	you		you\RP62N6
+471	TOK	a		a\AI---S
+472	TOK	new		new\JA
+473	TOK	object		object\N5S
+474	TOK	off		off\P
+475	TOK	the		the\AT---6
+##	TAG	<name>
+476	TOK	Java		Java\N46
+##	TAG	</name>
+477	TOK	heap		heap\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+478	TOK	There	BOS	there\DGA7
+479	TOK	is		be\V6FDRS3
+480	TOK	no		no\AI---6
+481	TOK	delete		delete\N5S
+482	TOK	operation		operation\N5S
+---	DLD	;		=\DELIM
+483	TOK	a		a\AI---S
+484	TOK	garbage		garbage\N5S
+485	TOK	collector		collector\N5S
+486	TOK	cleans		clean\VMFDRS3
+487	TOK	up		up\P
+488	TOK	after		after\CS
+489	TOK	you		you\RP62N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+490	TOK	Nor	BOS	nor\CC
+491	TOK	is		be\V6FDRS3
+492	TOK	there		there\DGA7
+493	TOK	any		any\AG---6
+494	TOK	direct		direct\JA
+495	TOK	access		access\N5S
+496	TOK	to		to\P
+497	TOK	memory		memory\N5S
+498	TOK	regions		region\N5P
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+499	TOK	you		you\RP62N6
+500	TOK	can		can\V6FDR66
+501	PGR	not		not\DGA7
+502	TOK	allocate		allocate\VMF6R66
+503	TOK	memory		memory\N5S
+504	TOK	in		in\P
+---	DLI	-		=\DELIM
+505	TOK	line		line\N5S
+---	DLD	,		=\DELIM
+506	TOK	and		and\CC
+507	TOK	you		you\RP62N6
+508	TOK	can		can\V6FDR66
+509	PGR	not		not\DGA7
+510	TOK	use		use\N5S
+##	TAG	<name>
+511	TOK	C-style		C-style\N46
+##	TAG	</name>
+512	TOK	pointers		pointer\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+513	TOK	Inheritance	BOS	inheritance\N5S
+514	TOK	in		in\P
+##	TAG	<name>
+515	TOK	Java		Java\N46
+##	TAG	</name>
+516	TOK	is		be\V6FDRS3
+517	TOK	implemented		implement\VMC----
+518	TOK	with		with\P
+519	TOK	the		the\AT---6
+520	TOK	extends		extend\VMFDRS3
+521	TOK	keyword		keyword\N5S
+---	DLE	(		=\DELIM
+522	TOK	see		see\VMF6R66
+523	TOK	the		the\AT---6
+524	TOK	listing		list\VMG----
+---	DLE	"		=\DELIM
+##	TAG	<name>
+525	TOK	Using		Using\N46
+##	TAG	</name>
+526	TOK	extends		extend\VMFDRS3
+527	TOK	to		to\P
+##	TAG	<name>
+528	TOK	Implement Inheritance		Implement_Inheritance\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+529	TOK	but		but\CC
+530	TOK	there		there\DGA7
+531	TOK	is		be\V6FDRS3
+532	TOK	no		no\AI---6
+533	TOK	support		support\N5S
+534	TOK	for		for\P
+535	TOK	multiple		multiple\JA
+536	TOK	inheritance		inheritance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+537	TOK	To	BOS	to\P
+538	TOK	enable		enable\VMI----
+539	TOK	algorithms		algorithm\N5P
+540	TOK	that		that\RW63N6
+541	TOK	operate		operate\VMF6R66
+542	TOK	on		on\P
+543	TOK	multiple		multiple\JA
+544	TOK	types		type\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+545	TOK	Java		Java\N46
+##	TAG	</name>
+546	TOK	uses		use\VMFDRS3
+547	TOK	interfaces		interface\N5P
+---	DLE	,		=\DELIM
+548	TOK	or		or\CC
+549	TOK	enumerated		enumerate\VMC----
+550	TOK	sets		set\N5P
+551	TOK	of		of\P
+552	TOK	methods		method\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+553	TOK	Interfaces	BOS	interface\N5P
+554	TOK	are		be\V6FDR66
+555	TOK	a		a\AI---S
+556	TOK	looser		loose\JC
+557	TOK	link		link\N5S
+558	TOK	than		than\CS
+559	TOK	C++		C++\N5S
+560	TOK	inheritance		inheritance\N5S
+561	TOK	or		or\CC
+562	TOK	templates		template\N5P
+---	DLD	,		=\DELIM
+563	TOK	and		and\CC
+564	TOK	they		they\RPP3NN
+565	TOK	provide		provide\VMF6R66
+566	TOK	a		a\AI---S
+567	TOK	higher		high\JC
+568	TOK	likelihood		likelihood\N5S
+569	TOK	of		of\P
+570	TOK	successfully		successfully\DGA7
+571	TOK	implementing		implement\VMG----
+572	TOK	polymorphic		polymorphic\JA
+573	TOK	classes		class\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+574	TOK	The	BOS	the\AT---6
+575	TOK	standard		standard\JA
+##	TAG	<name>
+576	TOK	Java		Java\N46
+##	TAG	</name>
+577	TOK	class		class\N5S
+578	TOK	library		library\N5S
+579	TOK	started		start\VMF6A66
+580	TOK	out		out\DGA7
+581	TOK	small		small\JA
+---	DLD	,		=\DELIM
+582	TOK	but		but\CC
+583	TOK	it		it\RPS3N6
+584	PGR	's		be\V6FDRS3
+585	TOK	getting		get\VMG----
+586	TOK	bigger		big\JC
+587	TOK	by		by\P
+588	TOK	the		the\AT---6
+589	TOK	day		day\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+590	TOK	It	BOS	it\RPS3N6
+591	TOK	implements		implement\VMFDRS3
+592	TOK	the		the\AT---6
+593	TOK	math		math\N5S
+594	TOK	and		and\CC
+##	TAG	<na type="function">
+595	TOK	I/O		noanat\W
+##	TAG	</na>
+596	TOK	functions		function\N5P
+597	TOK	in		in\P
+598	TOK	the		the\AT---6
+599	TOK	standard		standard\JA
+600	TOK	C		c\N5S
+601	TOK	library		library\N5S
+---	DLD	;		=\DELIM
+602	TOK	a		a\AI---S
+603	TOK	number		number\N5S
+604	TOK	of		of\P
+605	TOK	data		data\N56
+606	TOK	types		type\N5P
+---	DLD	,		=\DELIM
+607	TOK	such		such\JA
+608	TOK	as		as\P
+##	TAG	<name>
+609	TOK	Integer		Integer\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+610	TOK	String		String\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+611	TOK	and		and\CC
+##	TAG	<name>
+612	TOK	Hash Table		Hash_Table\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+613	TOK	with		with\P
+614	TOK	their		their\APP3N6
+615	TOK	attendant		attendant\N5S
+616	TOK	methods		method\N5P
+---	DLD	;		=\DELIM
+617	TOK	threads		thread\N5P
+---	DLD	;		=\DELIM
+618	TOK	sockets		socket\N5P
+---	DLD	;		=\DELIM
+619	TOK	and		and\CC
+620	TOK	a		a\AI---S
+##	TAG	<name>
+621	TOK	GUI		GUI\N46
+##	TAG	</name>
+622	TOK	system		system\N5S
+623	TOK	called		call\VMF6A66
+##	TAG	<name>
+624	TOK	AWT		AWT\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+625	TOK	JDK	BOS	JDK\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+627	TOK	We	BOS	we\RPP1NN
+628	TOK	downloaded		download\VMF6A66
+629	TOK	the		the\AT---6
+630	TOK	preliminary		preliminary\JA
+631	TOK	language		language\N5S
+632	TOK	specification		specification\N5S
+633	TOK	and		and\CC
+634	TOK	the		the\AT---6
+##	TAG	<name>
+635	TOK	Java Development Kit		Java_Development_Kit\N46
+##	TAG	</name>
+636	TOK	from		from\P
+637	TOK	the		the\AT---6
+##	TAG	<name>
+638	TOK	Sun Microsystems		Sun_Microsystems\N46
+##	TAG	</name>
+639	TOK	server		server\N5S
+640	TOK	at		at\P
+##	TAG	<na type="url">
+641	TOK	http://java.sun.com		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+642	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+643	TOK	JDK		JDK\N46
+##	TAG	</name>
+644	TOK	is		be\V6FDRS3
+645	TOK	available		available\JA
+646	TOK	free		free\JA
+647	TOK	from		from\P
+##	TAG	<name>
+648	TOK	Sun		Sun\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+649	TOK	and		and\CC
+##	TAG	<name>
+650	TOK	Win32		Win32\N46
+##	TAG	</name>
+651	TOK	and		and\CC
+##	TAG	<name>
+652	TOK	Solaris		Solaris\N46
+##	TAG	</name>
+653	TOK	versions		version\N5P
+654	TOK	are		be\V6FDR66
+655	TOK	available		available\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+656	TOK	We	BOS	we\RPP1NN
+657	TOK	also		also\DGA7
+658	TOK	downloaded		download\VMC----
+659	TOK	the		the\AT---6
+##	TAG	<name>
+660	TOK	Netscape Navigator Web		Netscape_Navigator_Web\N46
+##	TAG	</name>
+661	TOK	browser		browser\N5S
+---	DLD	,		=\DELIM
+662	TOK	version		version\N5S
+##	TAG	<num>
+663	TOK	2		2\X
+##	TAG	</num>
+##	TAG	<name>
+664	TOK	Beta		Beta\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+##	TAG	<num>
+665	TOK	4		4\X
+##	TAG	</num>
+---	DLE	,		=\DELIM
+666	TOK	from		from\P
+667	TOK	the		the\AT---6
+##	TAG	<name>
+668	TOK	Netscape Communications		Netscape_Communications\N46
+##	TAG	</name>
+669	TOK	serv		serv\N5P
+---	DLI	-		=\DELIM
+670	TOK	er		er\I
+671	TOK	at		at\P
+##	TAG	<na type="url">
+672	TOK	http://ftp1.netscape.com		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+673	TOK	Netscape Navigator		Netscape_Navigator\N46
+##	TAG	</name>
+##	TAG	<num>
+674	TOK	2.0		2.0\X
+##	TAG	</num>
+675	TOK	is		be\V6FDRS3
+676	TOK	the		the\AT---6
+677	TOK	first		first\MOS
+678	TOK	major		major\JA
+##	TAG	<name>
+679	TOK	Web		Web\N46
+##	TAG	</name>
+680	TOK	browser		browser\N5S
+681	TOK	to		to\P
+682	TOK	contain		contain\VMI----
+683	TOK	an		an\AI---S
+684	TOK	interpreter		interpreter\N5S
+685	TOK	for		for\P
+##	TAG	<name>
+686	TOK	Java		Java\N46
+##	TAG	</name>
+687	TOK	applets		applet\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+688	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+689	TOK	JDK		JDK\N46
+##	TAG	</name>
+690	TOK	comes		come\VMFDRS3
+691	TOK	with		with\P
+692	TOK	a		a\AI---S
+##	TAG	<name>
+693	TOK	Java		Java\N46
+##	TAG	</name>
+694	TOK	compiler		compiler\N5S
+---	DLE	(		=\DELIM
+695	TOK	called		call\VMC----
+696	TOK	javac		javac\N5S
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+697	TOK	an		an\AI---S
+698	TOK	experimental		experimental\JA
+699	TOK	alpha		alpha\N5S
+700	TOK	release		release\N5S
+701	TOK	of		of\P
+702	TOK	the		the\AT---6
+##	TAG	<name>
+703	TOK	Java		Java\N46
+##	TAG	</name>
+704	TOK	debugger		debugger\N5S
+---	DLD	,		=\DELIM
+705	TOK	a		a\AI---S
+##	TAG	<name>
+706	TOK	Java		Java\N46
+##	TAG	</name>
+707	TOK	applications		application\N5P
+708	TOK	interpreter		interpreter\N5S
+---	DLD	,		=\DELIM
+709	TOK	and		and\CC
+710	TOK	an		an\AI---S
+711	TOK	applet		applet\N5S
+712	TOK	viewer		viewer\N5S
+713	TOK	that		that\RW63N6
+714	TOK	can		can\VOFDR66
+715	TOK	run		run\VMI----
+716	TOK	applets		applet\N5P
+717	TOK	without		without\P
+718	TOK	a		a\AI---S
+##	TAG	<name>
+719	TOK	Java		Java\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+720	TOK	enabled		enable\VMC----
+721	TOK	browser		browser\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+722	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+723	TOK	JDK		JDK\N46
+##	TAG	</name>
+724	TOK	is		be\V6FDRS3
+725	TOK	a		a\AI---S
+726	TOK	primitive		primitive\JA
+---	DLD	,		=\DELIM
+727	TOK	character		character\N5S
+---	DLI	-		=\DELIM
+728	TOK	oriented		orient\VMC----
+729	TOK	environment		environment\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+730	TOK	Fortunately	BOS	fortunately\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+731	TOK	Borland		Borland\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+732	TOK	Symantec		Symantec\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+733	TOK	and		and\CC
+734	TOK	several		several\JA
+735	TOK	other		other\JA
+736	TOK	companies		company\N5P
+737	TOK	have		have\V6F6R66
+738	TOK	announced		announce\VMC----
+739	TOK	plans		plan\N5P
+740	TOK	to		to\P
+741	TOK	produce		produce\VMI----
+742	TOK	more		more\DDC7
+743	TOK	sophisticated		sophisticated\JA
+744	TOK	graphical		graphical\JA
+745	TOK	development		development\N5S
+746	TOK	environments		environment\N5P
+---	DLD	,		=\DELIM
+747	TOK	hopefully		hopefully\DGA7
+748	TOK	with		with\P
+749	TOK	vastly		vastly\DGA7
+750	TOK	improved		improve\VMC----
+751	TOK	debuggers		debugger\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+752	TOK	The	BOS	the\AT---6
+753	TOK	experimental		experimental\JA
+754	TOK	debugger		debugger\N5S
+755	TOK	is		be\V6FDRS3
+756	TOK	a		a\AI---S
+757	TOK	command		command\N5S
+---	DLI	-		=\DELIM
+758	TOK	line		line\N5S
+759	TOK	program		program\N5S
+760	TOK	with		with\P
+761	TOK	a		a\AI---S
+762	TOK	single		single\JA
+763	TOK	output		output\N5S
+764	TOK	console		console\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+765	TOK	The	BOS	the\AT---6
+766	TOK	user		user\N5S
+767	TOK	has		have\V6FDRS3
+768	TOK	to		to\P
+769	TOK	keep		keep\VMI----
+770	TOK	track		track\N5S
+771	TOK	of		of\P
+772	TOK	threads		thread\N5P
+773	TOK	by		by\P
+774	TOK	number		number\N5S
+775	TOK	and		and\CC
+776	TOK	keep		keep\VMI----
+777	TOK	track		track\N5S
+778	TOK	of		of\P
+779	TOK	objects		object\N5P
+780	TOK	with		with\P
+781	TOK	a		a\AI---S
+##	TAG	<num>
+782	TOK	32		32\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+783	TOK	bit		bit\N5S
+##	TAG	<name>
+784	TOK	ID		ID\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+785	TOK	The	BOS	the\AT---6
+786	TOK	debugger		debugger\N5S
+787	TOK	includes		include\VMFDRS3
+788	TOK	breakpoints		breakpoint\N5P
+---	DLD	,		=\DELIM
+789	TOK	but		but\CC
+790	TOK	not		not\DGA7
+791	TOK	single		single\JA
+---	DLI	-		=\DELIM
+792	TOK	stepping		step\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+793	TOK	When	BOS	when\CS
+794	TOK	we		we\RPP1NN
+795	TOK	tried		try\VMF6A66
+796	TOK	the		the\AT---6
+##	TAG	<name>
+797	TOK	Windows		Windows\N46
+##	TAG	</name>
+798	TOK	version		version\N5S
+---	DLD	,		=\DELIM
+799	TOK	it		it\RPS3N6
+800	TOK	left		leave\VMF6A66
+801	TOK	hanging		hang\VMG----
+802	TOK	threads		thread\N5P
+803	TOK	and		and\CC
+##	TAG	<name>
+804	TOK	windows		windows\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+805	TOK	We	BOS	we\RPP1NN
+806	TOK	found		find\VMF6A66
+807	TOK	this		this\AD---S
+808	TOK	debugger		debugger\N5S
+809	TOK	useless		useless\JA
+810	TOK	and		and\CC
+811	TOK	soon		soon\DGA7
+812	TOK	resorted		resort\VMC----
+813	TOK	to		to\P
+814	TOK	the		the\AT---6
+815	TOK	age		age\N5S
+---	DLI	-		=\DELIM
+816	TOK	old		old\JA
+817	TOK	debugging		debugging\N5S
+818	TOK	method		method\N5S
+819	TOK	of		of\P
+820	TOK	including		including\P
+821	TOK	print		print\VMI----
+822	TOK	statements		statement\N5P
+823	TOK	at		at\P
+824	TOK	strategic		strategic\JA
+825	TOK	points		point\N5P
+826	TOK	in		in\P
+827	TOK	our		our\APP1N6
+828	TOK	code		code\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+829	TOK	Even	BOS	even\DGA7
+830	TOK	when		when\CS
+831	TOK	running		run\VMG----
+832	TOK	graphical		graphical\JA
+833	TOK	applications		application\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+834	TOK	Java		Java\N46
+##	TAG	</name>
+835	TOK	provides		provide\VMFDRS3
+836	TOK	a		a\AI---S
+837	TOK	line		line\N5S
+---	DLI	-		=\DELIM
+838	TOK	mode		mode\N5S
+839	TOK	console		console\N5S
+840	TOK	that		that\RW63N6
+841	PGR	's		be\V6FDRS3
+842	TOK	convenient		convenient\JA
+843	TOK	for		for\P
+844	TOK	debugging		debug\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+845	TOK	The	BOS	the\AT---6
+846	TOK	javac		javac\N5S
+847	TOK	compiler		compiler\N5S
+848	TOK	performed		perform\VMC----
+849	TOK	well		well\DGA7
+---	DLD	,		=\DELIM
+850	TOK	turning		turn\VMG----
+---	DLD	.		=\DELIM
+##	TAG	<name>
+851	TOK	JAVA		JAVA\N46
+##	TAG	</name>
+852	TOK	source		source\N5S
+853	TOK	files		file\N5P
+854	TOK	into		into\P
+---	DLD	.		=\DELIM
+##	TAG	<name>
+855	TOK	CLASS		CLASS\N46
+##	TAG	</name>
+856	TOK	byte		byte\N5S
+---	DLI	-		=\DELIM
+857	TOK	code		code\N5S
+858	TOK	files		file\N5P
+859	TOK	suitable		suitable\JA
+860	TOK	for		for\P
+861	TOK	the		the\AT---6
+##	TAG	<name>
+862	TOK	Java		Java\N46
+##	TAG	</name>
+863	TOK	interpreter		interpreter\N5S
+---	DLD	,		=\DELIM
+864	TOK	the		the\AT---6
+865	TOK	applet		applet\N5S
+866	TOK	viewer		viewer\N5S
+---	DLD	,		=\DELIM
+867	TOK	or		or\CC
+868	TOK	the		the\AT---6
+869	TOK	beta		beta\N5S
+##	TAG	<name>
+870	TOK	Netscape Navigator		Netscape_Navigator\N46
+##	TAG	</name>
+##	TAG	<num>
+871	TOK	2.0		2.0\X
+##	TAG	</num>
+##	TAG	<name>
+872	TOK	Java		Java\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+873	TOK	enabled		enable\VMC----
+874	TOK	browser		browser\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+875	TOK	It	BOS	it\RPS3N6
+876	TOK	generated		generate\VMF6A66
+877	TOK	useful		useful\JA
+878	TOK	error		error\N5S
+879	TOK	messages		message\N5P
+880	TOK	about		about\P
+881	TOK	the		the\AT---6
+882	TOK	innumerable		innumerable\JA
+883	TOK	mistakes		mistake\N5P
+884	TOK	we		we\RPP1NN
+885	TOK	made		make\VMF6A66
+886	TOK	in		in\P
+887	TOK	the		the\AT---6
+888	TOK	source		source\N5S
+889	TOK	code		code\VMF6R66
+---	DLD	,		=\DELIM
+890	TOK	and		and\CC
+891	TOK	it		it\RPS3N6
+892	TOK	caught		catch\VMF6A66
+893	TOK	some		some\AG---6
+894	TOK	problems		problem\N5P
+895	TOK	with		with\P
+896	TOK	unitialized		unitialized\JA
+897	TOK	variables		variable\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+898	TOK	The	BOS	the\AT---6
+899	TOK	applet		applet\N5S
+900	TOK	viewer		viewer\N5S
+901	TOK	runs		run\VMFDRS3
+902	TOK	applets		applet\N5P
+903	TOK	as		as\CS
+904	TOK	they		they\RPP3NN
+905	TOK	would		will\VOFDA66
+906	TOK	be		be\VMI----
+907	TOK	called		call\VMC----
+908	TOK	in		in\P
+909	TOK	a		a\AI---S
+##	TAG	<name>
+910	TOK	Web		Web\N46
+##	TAG	</name>
+911	TOK	browser		browser\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+912	TOK	It	BOS	it\RPS3N6
+913	TOK	needs		need\VMFDRS3
+914	TOK	an		an\AI---S
+##	TAG	<name>
+915	TOK	HTML		HTML\N46
+##	TAG	</name>
+916	TOK	file		file\N5S
+917	TOK	that		that\RW63N6
+918	TOK	includes		include\VMFDRS3
+919	TOK	the		the\AT---6
+920	TOK	applet		applet\N5S
+921	TOK	tag		tag\N5S
+922	TOK	and		and\CC
+923	TOK	parameters		parameter\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+924	TOK	The	BOS	the\AT---6
+925	TOK	applet		applet\N5S
+926	TOK	viewer		viewer\N5S
+927	TOK	is		be\V6FDRS3
+928	TOK	a		a\AI---S
+929	TOK	more		more\DDC7
+930	TOK	complete		complete\JA
+931	TOK	implementation		implementation\N5S
+932	TOK	of		of\P
+##	TAG	<name>
+933	TOK	Java		Java\N46
+##	TAG	</name>
+934	TOK	than		than\CS
+935	TOK	the		the\AT---6
+##	TAG	<name>
+936	TOK	Netscape		Netscape\N46
+##	TAG	</name>
+##	TAG	<num>
+937	TOK	2.0		2.0\X
+##	TAG	</num>
+938	TOK	beta		beta\N5S
+939	TOK	version		version\N5S
+---	DLD	,		=\DELIM
+940	TOK	and		and\CC
+941	TOK	it		it\RPS3N6
+942	PGR	's		be\V6FDRS3
+943	TOK	integrated		integrate\VMC----
+944	TOK	with		with\P
+945	TOK	the		the\AT---6
+946	TOK	debugger		debugger\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+947	TOK	The	BOS	the\AT---6
+948	TOK	documentation		documentation\N5S
+949	TOK	available		available\JA
+950	TOK	from		from\P
+##	TAG	<name>
+951	TOK	Sun		Sun\N46
+##	TAG	</name>
+952	TOK	includes		include\VMFDRS3
+953	TOK	the		the\AT---6
+##	TAG	<name>
+954	TOK	Java		Java\N46
+##	TAG	</name>
+955	TOK	language		language\N5S
+956	TOK	specification		specification\N5S
+957	TOK	and		and\CC
+958	TOK	a		a\AI---S
+959	TOK	complete		complete\JA
+960	TOK	listing		listing\N5S
+961	TOK	of		of\P
+962	TOK	the		the\AT---6
+##	TAG	<name>
+963	TOK	Java		Java\N46
+##	TAG	</name>
+964	TOK	library		library\N5S
+965	TOK	classes		class\N5P
+966	TOK	and		and\CC
+967	TOK	methods		method\N5P
+968	TOK	in		in\P
+##	TAG	<name>
+969	TOK	PostScript		PostScript\N46
+##	TAG	</name>
+970	TOK	form		form\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+971	TOK	It	BOS	it\RPS3N6
+972	TOK	does		do\V6FDRS3
+973	TOK	not		not\DGA7
+974	TOK	include		include\VMI----
+975	TOK	a		a\AI---S
+976	TOK	tutorial		tutorial\N5S
+977	TOK	explaining		explain\VMG----
+978	TOK	what		what\RW63N-
+979	TOK	those		that\AD---P
+980	TOK	methods		method\N5P
+981	TOK	do		do\V6FDR66
+982	TOK	or		or\CC
+983	TOK	how		how\DGAW
+984	TOK	they		they\RPP3NN
+985	TOK	might		may\VOFDR66
+986	TOK	be		be\VMI----
+987	TOK	strung		string\VMC----
+988	TOK	together		together\DGA7
+---	DLD	,		=\DELIM
+989	TOK	so		so\CC
+990	TOK	we		we\RPP1NN
+991	TOK	spent		spend\VMF6A66
+##	TAG	<loc pos="DDA7">
+992	TOK	a lot of		a_lot_of\DDA7
+##	TAG	</loc>
+993	TOK	time		time\N5S
+994	TOK	looking		look\VMG----
+995	TOK	at		at\P
+996	TOK	sample		sample\JA
+997	TOK	applications		application\N5P
+998	TOK	provided		provide\VMC----
+999	TOK	by		by\P
+##	TAG	<name>
+1000	TOK	Sun		Sun\N46
+##	TAG	</name>
+1001	TOK	and		and\CC
+1002	TOK	programmers		programmer\N5P
+1003	TOK	around		around\P
+1004	TOK	the		the\AT---6
+##	TAG	<name>
+1005	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1006	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1007	TOK	Program	EOS	Program\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1009	TOK	We	BOS	we\RPP1NN
+1010	TOK	ran		run\VMF6A66
+1011	TOK	the		the\AT---6
+##	TAG	<name>
+1012	TOK	Win32		Win32\N46
+##	TAG	</name>
+1013	TOK	version		version\N5S
+1014	TOK	of		of\P
+1015	TOK	the		the\AT---6
+##	TAG	<name>
+1016	TOK	JDK		JDK\N46
+##	TAG	</name>
+1017	TOK	on		on\P
+1018	TOK	a		a\AI---S
+##	TAG	<name>
+1019	TOK	Windows NT		Windows_NT\N46
+##	TAG	</name>
+1020	TOK	machine		machine\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1021	TOK	We	BOS	we\RPP1NN
+1022	TOK	implemented		implement\VMF6A66
+1023	TOK	a		a\AI---S
+1024	TOK	simple		simple\JA
+1025	TOK	pop		pop\JA
+---	DLI	-		=\DELIM
+1026	TOK	up		up\P
+1027	TOK	help		help\VMI----
+1028	TOK	applet		applet\N5S
+---	DLD	,		=\DELIM
+1029	TOK	with		with\P
+1030	TOK	the		the\AT---6
+1031	TOK	intention		intention\N5S
+1032	TOK	of		of\P
+1033	TOK	using		use\VMG----
+##	TAG	<name>
+1034	TOK	Java		Java\N46
+##	TAG	</name>
+1035	PGR	's		genmark\GENMARK
+1036	TOK	object		object\N5S
+1037	TOK	features		feature\N5P
+1038	TOK	to		to\P
+1039	TOK	subclass		subclass\VMI----
+1040	TOK	these		this\AD---P
+1041	TOK	pop		pop\JA
+---	DLI	-		=\DELIM
+1042	TOK	up		up\P
+1043	TOK	boxes		box\N5P
+1044	TOK	for		for\P
+1045	TOK	more		more\DDC7
+---	DLI	-		=\DELIM
+1046	TOK	involved		involve\VMC----
+1047	TOK	future		future\N5S
+1048	TOK	applications		application\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1049	TOK	To	BOS	to\P
+1050	TOK	begin		begin\VMI----
+---	DLD	,		=\DELIM
+1051	TOK	we		we\RPP1NN
+1052	TOK	selected		select\VMF6A66
+1053	TOK	a		a\AI---S
+1054	TOK	list		list\N5S
+1055	TOK	component		component\N5S
+1056	TOK	from		from\P
+1057	TOK	the		the\AT---6
+##	TAG	<name>
+1058	TOK	Java AWT GUI		Java_AWT_GUI\N46
+##	TAG	</name>
+1059	TOK	library		library\N5S
+1060	TOK	to		to\P
+1061	TOK	hold		hold\VMI----
+1062	TOK	the		the\AT---6
+1063	TOK	pop		pop\JA
+---	DLI	-		=\DELIM
+1064	TOK	up		up\P
+1065	TOK	help		help\N5S
+1066	TOK	and		and\CC
+1067	TOK	made		make\VMF6A66
+1068	TOK	a		a\AI---S
+1069	TOK	floating		floating\JA
+1070	TOK	frame		frame\N5S
+1071	TOK	class		class\N5S
+1072	TOK	to		to\P
+1073	TOK	wrap		wrap\N5S
+1074	TOK	around		around\P
+1075	TOK	this		this\AD---S
+1076	TOK	component		component\N5S
+1077	TOK	as		as\P
+1078	TOK	a		a\AI---S
+1079	TOK	pop		pop\JA
+---	DLI	-		=\DELIM
+1080	TOK	up		up\P
+1081	TOK	window		window\N5S
+---	DLE	(		=\DELIM
+1082	TOK	see		see\VMF6R66
+1083	TOK	the		the\AT---6
+1084	TOK	listing		list\VMG----
+---	DLE	"		=\DELIM
+##	TAG	<name>
+1085	TOK	Using		Using\N46
+##	TAG	</name>
+1086	TOK	extends		extend\VMFDRS3
+1087	TOK	to		to\P
+##	TAG	<name>
+1088	TOK	Implement Inheritance		Implement_Inheritance\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="DDC7">
+1089	TOK	Rather than	BOS	Rather_than\DDC7
+##	TAG	</loc>
+1090	TOK	starting		start\VMG----
+1091	TOK	from		from\P
+1092	TOK	the		the\AT---6
+1093	TOK	sometimes		sometimes\DGA7
+---	DLI	-		=\DELIM
+1094	TOK	restrictive		restrictive\JA
+1095	TOK	confines		confine\N5P
+1096	TOK	of		of\P
+1097	TOK	a		a\AI---S
+1098	TOK	browser		browser\N5S
+1099	TOK	applet		applet\N5S
+---	DLD	,		=\DELIM
+1100	TOK	we		we\RPP1NN
+1101	TOK	created		create\VMF6A66
+1102	TOK	a		a\AI---S
+1103	TOK	short		short\JA
+1104	TOK	application		application\N5S
+1105	TOK	to		to\P
+1106	TOK	run		run\VMI----
+1107	TOK	under		under\P
+1108	TOK	the		the\AT---6
+##	TAG	<name>
+1109	TOK	Java		Java\N46
+##	TAG	</name>
+1110	TOK	command		command\N5S
+---	DLI	-		=\DELIM
+1111	TOK	line		line\N5S
+1112	TOK	interpreter		interpreter\N5S
+1113	TOK	and		and\CC
+1114	TOK	call		call\VMF6R66
+1115	TOK	the		the\AT---6
+##	TAG	<name>
+1116	TOK	FramedTextListfor		FramedTextListfor\N46
+##	TAG	</name>
+1117	TOK	debugging		debug\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1118	TOK	As	BOS	as\P
+1119	TOK	an		an\AI---S
+1120	TOK	application		application\N5S
+---	DLD	,		=\DELIM
+1121	TOK	the		the\AT---6
+1122	TOK	frame		frame\N5S
+1123	TOK	pops		pop\N5P
+1124	TOK	up		up\P
+1125	TOK	conveniently		conveniently\DGA7
+1126	TOK	over		over\P
+1127	TOK	the		the\AT---6
+1128	TOK	command		command\N5S
+---	DLI	-		=\DELIM
+1129	TOK	line		line\N5S
+1130	TOK	console		console\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1131	TOK	Then	BOS	then\DGA7
+1132	TOK	we		we\RPP1NN
+1133	TOK	ran		run\VMF6A66
+1134	TOK	into		into\P
+1135	TOK	a		a\AI---S
+1136	TOK	snag		snag\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1137	TOK	The	BOS	the\AT---6
+1138	TOK	size		size\N5S
+1139	TOK	of		of\P
+1140	TOK	the		the\AT---6
+1141	TOK	listbox		listbox\N5S
+---	DLE	(		=\DELIM
+1142	TOK	for		for\P
+1143	TOK	setting		set\VMG----
+1144	TOK	the		the\AT---6
+1145	TOK	frame		frame\N5S
+1146	TOK	size		size\N5S
+---	DLD	)		=\DELIM
+1147	TOK	was		be\V6F-A66
+1148	TOK	coming		come\VMG----
+1149	TOK	out		out\DGA7
+1150	TOK	all		all\AG---6
+1151	TOK	wrong		wrong\JA
+---	DLD	,		=\DELIM
+1152	TOK	and		and\CC
+1153	TOK	there		there\DGA7
+1154	TOK	was		be\V6F-A66
+1155	TOK	no		no\AI---6
+1156	TOK	indication		indication\N5S
+1157	TOK	of		of\P
+1158	TOK	how		how\DGAW
+1159	TOK	it		it\RPS3N6
+1160	TOK	was		be\V6F-A66
+1161	TOK	calculated		calculate\VMC----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1162	TOK	On	BOS	on\P
+1163	TOK	our		our\APP1N6
+##	TAG	<name>
+1164	TOK	Windows NT		Windows_NT\N46
+##	TAG	</name>
+1165	TOK	machine		machine\N5S
+---	DLD	,		=\DELIM
+1166	TOK	the		the\AT---6
+##	TAG	<name>
+1167	TOK	AWT		AWT\N46
+##	TAG	</name>
+1168	TOK	components		component\N5P
+1169	TOK	were		be\V6F-A66
+1170	TOK	clumsy		clumsy\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1171	TOK	The	BOS	the\AT---6
+1172	TOK	floating		floating\JA
+1173	TOK	frames		frame\N5P
+1174	TOK	just		just\DGA7
+1175	TOK	piled		pile\VMC----
+1176	TOK	up		up\P
+1177	TOK	in		in\P
+1178	TOK	the		the\AT---6
+1179	TOK	upper		upper\JC
+---	DLI	-		=\DELIM
+1180	TOK	left		left\JA
+1181	TOK	corner		corner\N5S
+1182	TOK	of		of\P
+1183	TOK	the		the\AT---6
+1184	TOK	screen		screen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1185	TOK	Like	BOS	like\P
+1186	TOK	many		many\AI---P
+1187	TOK	sample		sample\JA
+1188	TOK	applets		applet\N5P
+---	DLD	,		=\DELIM
+1189	TOK	ours		ours\RSP1N-
+1190	TOK	looked		look\VMF6A66
+1191	TOK	more		more\DDC7
+1192	TOK	like		like\CS
+1193	TOK	a		a\AI---S
+1194	TOK	high		high\JA
+---	DLI	-		=\DELIM
+1195	TOK	school		school\N5S
+1196	TOK	homework		homework\N5S
+1197	TOK	project		project\N5S
+1198	TOK	than		than\CS
+1199	TOK	the		the\AT---6
+1200	TOK	work		work\N5S
+1201	TOK	of		of\P
+1202	TOK	a		a\AI---S
+1203	TOK	highly		highly\DGA7
+1204	TOK	trained		train\VMC----
+1205	TOK	professional		professional\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1206	TOK	On	BOS	on\P
+1207	TOK	the		the\AT---6
+1208	TOK	positive		positive\JA
+1209	TOK	side		side\N5S
+---	DLD	,		=\DELIM
+1210	TOK	however		however\DGA7
+---	DLD	,		=\DELIM
+1211	TOK	the		the\AT---6
+##	TAG	<name>
+1212	TOK	Java		Java\N46
+##	TAG	</name>
+1213	TOK	memory		memory\N5S
+1214	TOK	manager		manager\N5S
+1215	TOK	lets		let\VMFDRS3
+1216	TOK	you		you\RP62N6
+1217	TOK	dispose		dispose\VMI----
+1218	TOK	of		of\P
+1219	TOK	a		a\AI---S
+1220	TOK	frame		frame\N5S
+1221	TOK	without		without\P
+1222	TOK	going		go\VMG----
+1223	TOK	back		back\DGA7
+1224	TOK	to		to\P
+1225	TOK	clean		clean\VMI----
+1226	TOK	up		up\P
+1227	TOK	the		the\AT---6
+1228	TOK	list		list\N5S
+1229	TOK	object		object\N5S
+1230	TOK	that		that\RW63N6
+1231	TOK	constructed		construct\VMF6A66
+1232	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1233	TOK	This	BOS	this\RDS3N-
+1234	TOK	would		will\VOFDA66
+1235	TOK	be		be\VMI----
+1236	TOK	a		a\AI---S
+1237	TOK	sticky		sticky\JA
+1238	TOK	situation		situation\N5S
+1239	TOK	in		in\P
+1240	TOK	C++		C++\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1241	TOK	Next	BOS	next\JA
+1242	TOK	we		we\RPP1NN
+1243	TOK	added		add\VMF6A66
+1244	TOK	a		a\AI---S
+##	TAG	<name>
+1245	TOK	FramedURL		FramedURL\N46
+##	TAG	</name>
+1246	TOK	class		class\N5S
+1247	TOK	to		to\P
+1248	TOK	retrieve		retrieve\VMI----
+1249	TOK	the		the\AT---6
+1250	TOK	text		text\N5S
+1251	TOK	of		of\P
+1252	TOK	an		an\AI---S
+1253	TOK	http		http\N5S
+1254	TOK	uniform		uniform\JA
+1255	TOK	resource		resource\N5S
+1256	TOK	locator		locator\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1257	TOK	URL		URL\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1258	TOK	and		and\CC
+1259	TOK	insert		insert\VMF6R66
+1260	TOK	it		it\RPS3N6
+1261	TOK	into		into\P
+1262	TOK	the		the\AT---6
+1263	TOK	box		box\N56
+---	DLE	(		=\DELIM
+1264	TOK	see		see\VMF6R66
+1265	TOK	the		the\AT---6
+1266	TOK	listing		list\VMG----
+---	DLE	"		=\DELIM
+##	TAG	<name>
+1267	TOK	Creating		Creating\N46
+##	TAG	</name>
+1268	TOK	an		an\AI---S
+##	TAG	<name>
+1269	TOK	Object		Object\N46
+##	TAG	</name>
+1270	TOK	from		from\P
+##	TAG	<name>
+1271	TOK	URL Text		URL_Text\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1273	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+1274	TOK	includes		include\VMFDRS3
+1275	TOK	native		native\JA
+1276	TOK	support		support\N5S
+1277	TOK	for		for\P
+1278	TOK	socket		socket\VMI----
+---	DLI	-		=\DELIM
+1279	TOK	based		base\VMC----
+1280	TOK	networking		network\VMG----
+---	DLD	,		=\DELIM
+1281	TOK	including		including\P
+1282	TOK	a		a\AI---S
+1283	TOK	class		class\N5S
+1284	TOK	for		for\P
+##	TAG	<name>
+1285	TOK	URLconnection		URLconnection\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1286	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+1287	TOK	requires		require\VMFDRS3
+1288	TOK	a		a\AI---S
+---	DLE	"		=\DELIM
+1289	TOK	try		try\VMF6R66
+---	DLD	"		=\DELIM
+1290	TOK	and		and\CC
+---	DLE	"		=\DELIM
+1291	TOK	catch		catch\N5S
+---	DLD	"		=\DELIM
+1292	TOK	operation		operation\N5S
+1293	TOK	to		to\P
+1294	TOK	surround		surround\VMI----
+1295	TOK	any		any\AG---6
+1296	TOK	action		action\N5S
+1297	TOK	that		that\RW63N6
+1298	TOK	might		may\VOFDR66
+1299	TOK	generate		generate\VMI----
+1300	TOK	a		a\AI---S
+1301	TOK	run		run\VMC----
+---	DLI	-		=\DELIM
+1302	TOK	time		time\N5S
+1303	TOK	error		error\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1304	TOK	Then	BOS	then\DGA7
+1305	TOK	we		we\RPP1NN
+1306	TOK	built		build\VMF6A66
+1307	TOK	an		an\AI---S
+1308	TOK	applet		applet\N5S
+---	DLD	,		=\DELIM
+1309	TOK	called		call\VMC----
+##	TAG	<name>
+1310	TOK	PopNetHelp		PopNetHelp\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1311	TOK	to		to\P
+1312	TOK	run		run\VMI----
+1313	TOK	from		from\P
+1314	TOK	inside		inside\P
+1315	TOK	a		a\AI---S
+1316	TOK	browser		browser\N5S
+---	DLD	,		=\DELIM
+1317	TOK	and		and\CC
+1318	TOK	disguised		disguise\VMC----
+1319	TOK	as		as\P
+1320	TOK	a		a\AI---S
+1321	TOK	button		button\N5S
+---	DLE	(		=\DELIM
+1322	TOK	see		see\VMF6R66
+1323	TOK	the		the\AT---6
+1324	TOK	listing		list\VMG----
+---	DLE	"		=\DELIM
+##	TAG	<name>
+1325	TOK	The PopNetHelp Applet		The_PopNetHelp_Applet\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1326	TOK	We	BOS	we\RPP1NN
+1327	TOK	then		then\DGA7
+1328	TOK	created		create\VMF6A66
+1329	TOK	a		a\AI---S
+1330	TOK	test		test\N5S
+##	TAG	<name>
+1331	TOK	HTML		HTML\N46
+##	TAG	</name>
+1332	TOK	file		file\N5S
+1333	TOK	with		with\P
+1334	TOK	the		the\AT---6
+1335	TOK	following		following\JA
+1336	TOK	tag		tag\VMF6R66
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1337	TOK	When	BOS	when\CS
+1338	TOK	we		we\RPP1NN
+1339	TOK	ran		run\VMF6A66
+1340	TOK	this		this\AD---S
+1341	TOK	assembly		assembly\N5S
+1342	TOK	in		in\P
+1343	TOK	the		the\AT---6
+1344	TOK	applet		applet\N5S
+1345	TOK	viewer		viewer\N5S
+---	DLD	,		=\DELIM
+1346	TOK	the		the\AT---6
+##	TAG	<name>
+1347	TOK	Help		Help\N46
+##	TAG	</name>
+1348	TOK	button		button\N5S
+1349	TOK	came		come\VMF6A66
+1350	TOK	up		up\P
+1351	TOK	on		on\P
+1352	TOK	the		the\AT---6
+1353	TOK	screen		screen\N5S
+1354	TOK	as		as\DGA7
+1355	TOK	planned		plan\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1356	TOK	But	BOS	but\CC
+1357	TOK	when		when\CS
+1358	TOK	we		we\RPP1NN
+1359	TOK	pushed		push\VMF6A66
+1360	TOK	the		the\AT---6
+1361	TOK	button		button\N5S
+---	DLD	,		=\DELIM
+1362	TOK	a		a\AI---S
+1363	TOK	bunch		bunch\N5S
+1364	TOK	of		of\P
+1365	TOK	error		error\N5S
+1366	TOK	messages		message\N5P
+1367	TOK	flew		fly\VMF6A66
+1368	TOK	by		by\P
+1369	TOK	on		on\P
+1370	TOK	the		the\AT---6
+1371	TOK	console		console\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1372	TOK	One	BOS	one\RIS3N-
+1373	TOK	of		of\P
+1374	TOK	them		them\RPP3NA
+1375	TOK	was		be\V6F-A66
+---	DLE	"		=\DELIM
+##	TAG	<name>
+1376	TOK	SecurityException		SecurityException\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1378	TOK	The	BOS	the\AT---6
+1379	TOK	program		program\N5S
+1380	TOK	had		have\V6F6A66
+1381	TOK	violated		violate\VMC----
+1382	TOK	security		security\N5S
+1383	TOK	by		by\P
+1384	TOK	attempting		attempt\VMG----
+1385	TOK	to		to\P
+1386	TOK	load		load\VMI----
+1387	TOK	a		a\AI---S
+##	TAG	<name pos="N46" expansion="uniform resource locator">
+1388	TOK	URL		URL\N46
+##	TAG	</name>
+1389	TOK	from		from\P
+1390	TOK	outside		outside\P
+1391	TOK	the		the\AT---6
+1392	TOK	applet		applet\N5S
+1393	TOK	domain		domain\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1394	TOK	When	BOS	when\CS
+1395	TOK	we		we\RPP1NN
+1396	TOK	copied		copy\VMF6A66
+1397	TOK	all		all\AG---6
+1398	TOK	the		the\AT---6
+1399	TOK	files		file\N5P
+1400	TOK	to		to\P
+1401	TOK	the		the\AT---6
+1402	TOK	same		same\JA
+##	TAG	<name>
+1403	TOK	Web		Web\N46
+##	TAG	</name>
+1404	TOK	server		server\N5S
+---	DLD	,		=\DELIM
+1405	TOK	the		the\AT---6
+1406	TOK	help		help\N5S
+1407	TOK	text		text\N5S
+1408	TOK	loaded		load\VMC----
+1409	TOK	properly		properly\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1410	TOK	We	BOS	we\RPP1NN
+1411	TOK	then		then\DGA7
+1412	TOK	entered		enter\VMF6A66
+1413	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="uniform resource locator">
+1414	TOK	URL		URL\N46
+##	TAG	</name>
+1415	TOK	of		of\P
+1416	TOK	the		the\AT---6
+1417	TOK	test		test\N5S
+1418	TOK	page		page\N5S
+1419	TOK	into		into\P
+1420	TOK	a		a\AI---S
+1421	TOK	beta		beta\N5S
+1422	TOK	version		version\N5S
+1423	TOK	of		of\P
+1424	TOK	the		the\AT---6
+##	TAG	<name>
+1425	TOK	Netscape		Netscape\N46
+##	TAG	</name>
+##	TAG	<num>
+1426	TOK	2.0		2.0\X
+##	TAG	</num>
+##	TAG	<name>
+1427	TOK	Java		Java\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1428	TOK	enabled		enable\VMC----
+1429	TOK	browser		browser\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1430	TOK	After	BOS	after\P
+1431	TOK	a		a\AI---S
+1432	TOK	long		long\JA
+1433	TOK	pause		pause\N5S
+1434	TOK	as		as\P
+##	TAG	<name>
+1435	TOK	Netscape		Netscape\N46
+##	TAG	</name>
+1436	TOK	loaded		load\VMC----
+1437	TOK	and		and\CC
+1438	TOK	initialized		initialize\VMC----
+1439	TOK	the		the\AT---6
+1440	TOK	applet		applet\N5S
+---	DLD	,		=\DELIM
+1441	TOK	the		the\AT---6
+1442	TOK	button		button\N5S
+1443	TOK	appeared		appear\VMF6A66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1444	TOK	We	BOS	we\RPP1NN
+1445	TOK	pushed		push\VMF6A66
+1446	TOK	the		the\AT---6
+1447	TOK	button		button\N5S
+1448	TOK	but		but\CC
+1449	TOK	nothing		nothing\RIS3N-
+1450	TOK	happened		happen\VMF6A66
+---	DLD	,		=\DELIM
+##	TAG	<loc pos="P">
+1451	TOK	except for		except_for\P
+##	TAG	</loc>
+1452	TOK	a		a\AI---S
+1453	TOK	message		message\N5S
+1454	TOK	at		at\P
+1455	TOK	the		the\AT---6
+1456	TOK	bottom		bottom\N5S
+1457	TOK	of		of\P
+1458	TOK	the		the\AT---6
+1459	TOK	browser		browser\N5S
+1460	TOK	window		window\N5S
+1461	TOK	saying		say\VMG----
+---	DLD	,		=\DELIM
+---	DLE	"		=\DELIM
+##	TAG	<name>
+1462	TOK	Retrieving		Retrieving\N46
+##	TAG	</name>
+1463	TOK	example.txt		example.txt\N5P
+---	DLD	-		=\DELIM
+##	TAG	<num>
+1464	TOK	-0		-0\X
+##	TAG	</num>
+1465	TOK	bytes		byte\N5P
+1466	TOK	per		per\P
+1467	TOK	second		second\MOS
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+1468	TOK	The		the\AT---6
+1469	TOK	help		help\N5S
+1470	TOK	popped		pop\VMC----
+1471	TOK	up		up\P
+1472	TOK	immediately		immediately\DGA7
+1473	TOK	after		after\P
+1474	TOK	a		a\AI---S
+1475	TOK	second		second\MOS
+1476	TOK	push		push\N5S
+1477	TOK	of		of\P
+1478	TOK	the		the\AT---6
+1479	TOK	button		button\N5S
+---	DLD	,		=\DELIM
+1480	TOK	however		however\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1481	TOK	Conclusion	BOS	conclusion\N5S
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<loc pos="RP63N-">
+1482	TOK	A few	BOS	A_few\RP63N-
+##	TAG	</loc>
+1483	TOK	gremlins		gremlin\N5P
+1484	TOK	lurk		lurk\VMF6R66
+1485	TOK	in		in\P
+##	TAG	<name>
+1486	TOK	Netscape		Netscape\N46
+##	TAG	</name>
+##	TAG	<num>
+1487	TOK	2.0		2.0\X
+##	TAG	</num>
+1488	PGR	's		genmark\GENMARK
+1489	TOK	beta		beta\N5S
+1490	TOK	code		code\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1491	TOK	After	BOS	after\P
+1492	TOK	many		many\AI---P
+1493	TOK	ups		up\N5P
+1494	TOK	and		and\CC
+1495	TOK	downs		down\N5P
+---	DLD	,		=\DELIM
+##	TAG	<name>
+1496	TOK	Java		Java\N46
+##	TAG	</name>
+1497	TOK	allowed		allow\VMF6A66
+1498	TOK	us		us\RPP1NA
+1499	TOK	to		to\P
+1500	TOK	build		build\VMI----
+1501	TOK	a		a\AI---S
+1502	TOK	better		good\JC
+##	TAG	<name>
+1503	TOK	Web		Web\N46
+##	TAG	</name>
+1504	TOK	front		front\N5S
+1505	TOK	end		end\N5S
+1506	TOK	than		than\CS
+1507	TOK	we		we\RPP1NN
+1508	TOK	could		can\VOFDA66
+1509	TOK	have		have\VMI----
+1510	TOK	built		build\VMC----
+1511	TOK	with		with\P
+##	TAG	<name>
+1512	TOK	HTML		HTML\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1513	TOK	and		and\CC
+1514	TOK	it		it\RPS3N6
+1515	TOK	lives		live\VMFDRS3
+1516	TOK	up		up\P
+1517	TOK	to		to\P
+1518	TOK	its		its\APS3N6
+1519	TOK	billing		billing\N5S
+1520	TOK	as		as\P
+1521	TOK	a		a\AI---S
+1522	TOK	friendlier		friendly\JC
+1523	TOK	language		language\N5S
+1524	TOK	than		than\CS
+1525	TOK	C++		C++\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1526	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1527	TOK	the		the\AT---6
+1528	TOK	resulting		result\VMG----
+1529	TOK	applications		application\N5P
+1530	TOK	are		be\V6FDR66
+1531	TOK	still		still\DGA7
+1532	TOK	slow		slow\JA
+1533	TOK	and		and\CC
+1534	TOK	unattractive		unattractive\JA
+1535	TOK	compared		compare\VMC----
+1536	TOK	to		to\P
+1537	TOK	more		more\DDC7
+1538	TOK	conventional		conventional\JA
+1539	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1540	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1541	TOK	JDK		JDK\N46
+##	TAG	</name>
+1542	TOK	and		and\CC
+1543	TOK	related		relate\VMC----
+1544	TOK	documentation		documentation\N5S
+1545	TOK	are		be\V6FDR66
+1546	TOK	crude		crude\JA
+1547	TOK	and		and\CC
+1548	TOK	unfinished		unfinished\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1549	TOK	Rapid	BOS	rapid\JA
+1550	TOK	improvement		improvement\N5S
+1551	TOK	in		in\P
+1552	TOK	all		all\AG---6
+1553	TOK	areas		area\N5P
+1554	TOK	seems		seem\VMFDRS3
+1555	TOK	inevitable		inevitable\JA
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+1556	TOK	and		and\CC
+1557	TOK	certainly		certainly\DGA7
+1558	TOK	worth		worth\P
+1559	TOK	waiting		wait\VMG----
+1560	TOK	for		for\P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1561	TOK	PRODUCT	BOS	product\N5S
+##	TAG	<name>
+1562	TOK	INFORMATION Java Development Kit		INFORMATION_Java_Development_Kit\N46
+##	TAG	</name>
+##	TAG	<gap length=10>
+1563	TOK	free		free\JA
+---	DLE	(		=\DELIM
+1564	TOK	downloadable		downloadable\JA
+1565	TOK	from		from\P
+##	TAG	<name>
+1566	TOK	Web		Web\N46
+##	TAG	</name>
+1567	TOK	site		site\N5S
+1568	TOK	at		at\P
+1569	TOK	address		address\VMI----
+1570	TOK	shown		show\VMC----
+1571	TOK	below		below\P
+---	DLD	)		=\DELIM
+##	TAG	<name>
+1572	TOK	Sun Microsystems Computer Co		Sun_Microsystems_Computer_Co\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1573	TOK	Mountain	BOS	mountain\N5S
+##	TAG	<name>
+1574	TOK	View		View\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1575	TOK	CA Phone		CA_Phone\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1576	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1577	TOK	821-4643		noanat\W
+##	TAG	</na>
+---	DLD	;		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1578	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1579	TOK	821-4642		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+1580	TOK	in		in\P
+##	TAG	<name>
+1581	TOK	California		California\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1582	TOK	or		or\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1583	TOK	415		415\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1584	TOK	960-1300		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1585	TOK	Fax		Fax\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1586	TOK	415		415\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1587	TOK	969-9131		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1588	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+##	TAG	<na type="url">
+1589	TOK	http://www.javasoft.com		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1590	TOK	Circle		Circle\N46
+##	TAG	</name>
+##	TAG	<num>
+1591	TOK	1154		1154\X
+##	TAG	</num>
+1592	TOK	on		on\P
+##	TAG	<name>
+1593	TOK	Inquiry Card		Inquiry_Card\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1594	TOK	Where	BOS	where\CS
+##	TAG	<name>
+1595	TOK	Java Is Weak	EOS	Java_Is_Weak\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<label pos="B">
+1597	TOK	--	BOS	=\B
+##	TAG	</label>
+1598	TOK	Browsers		browser\N5P
+1599	TOK	allow		allow\VMF6R66
+##	TAG	<name>
+1600	TOK	Java		Java\N46
+##	TAG	</name>
+1601	TOK	applets		applet\N5P
+1602	TOK	limited		limit\VMC----
+1603	TOK	access		access\N5S
+1604	TOK	to		to\P
+1605	TOK	the		the\AT---6
+1606	TOK	local		local\JA
+1607	TOK	disk		disk\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1608	TOK	Forget	BOS	forget\VMI----
+1609	TOK	having		have\VMG----
+1610	TOK	a		a\AI---S
+1611	TOK	local		local\JA
+1612	TOK	configuration		configuration\N5S
+1613	TOK	or		or\CC
+1614	TOK	a		a\AI---S
+1615	TOK	persistent		persistent\JA
+1616	TOK	database		database\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="--">
+##	TAG	<s>
+1617	TOK	Browsers	BOS	browser\N5P
+1618	TOK	do		do\V6FDR66
+1619	TOK	not		not\DGA7
+1620	TOK	allow		allow\VMI----
+1621	TOK	applets		applet\N5P
+1622	TOK	to		to\P
+1623	TOK	print		print\VMI----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="--">
+##	TAG	<s>
+1624	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1625	TOK	Java		Java\N46
+##	TAG	</name>
+1626	TOK	security		security\N5S
+1627	TOK	model		model\N5S
+1628	TOK	allows		allow\VMFDRS3
+1629	TOK	applets		applet\N5P
+1630	TOK	to		to\P
+1631	TOK	open		open\JA
+1632	TOK	socket		socket\N5S
+1633	TOK	connections		connection\N5P
+1634	TOK	only		only\DGA7
+1635	TOK	to		to\P
+1636	TOK	their		their\APP3N6
+1637	TOK	source		source\N5S
+1638	TOK	domains		domain\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<p>
+##	TAG	<s>
+1639	TOK	Free	BOS	free\JA
+---	DLI	-		=\DELIM
+1640	TOK	ranging		range\VMG----
+1641	TOK	network		network\N5S
+1642	TOK	software		software\N5S
+1643	TOK	must		must\VOFDR66
+1644	TOK	run		run\VMI----
+1645	TOK	as		as\P
+1646	TOK	a		a\AI---S
+1647	TOK	local		local\JA
+1648	TOK	application		application\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<label pos="B">
+1649	TOK	--	BOS	=\B
+##	TAG	</label>
+1650	TOK	Looks		look\N5P
+1651	TOK	don		do\V6FDR66
+1652	PGR	't		not\DGA7
+1653	TOK	port		port\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1654	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1655	TOK	AWT		AWT\N46
+##	TAG	</name>
+1656	TOK	graphics		graphic\N56
+1657	TOK	class		class\N5S
+1658	TOK	must		must\VOFDR66
+1659	TOK	be		be\VMI----
+1660	TOK	tailored		tailor\VMC----
+1661	TOK	to		to\P
+1662	TOK	a		a\AI---S
+1663	TOK	particular		particular\JA
+1664	TOK	machine		machine\N5S
+1665	TOK	and		and\CC
+##	TAG	<name>
+1666	TOK	OS		OS\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+1667	TOK	and		and\CC
+1668	TOK	user		user\N5S
+---	DLI	-		=\DELIM
+1669	TOK	interface		interface\N5S
+1670	TOK	results		result\N5P
+1671	TOK	vary		vary\VMF6R66
+1672	TOK	widely		widely\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1673	TOK	Using	BOS	use\VMG----
+1674	TOK	extends		extend\VMFDRS3
+1675	TOK	to		to\P
+##	TAG	<name>
+1676	TOK	Implement Inheritance	EOS	Implement_Inheritance\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+1678	TOK	import	BOS	import\N5S
+##	TAG	<name>
+1679	TOK	Java.awt		Java.awt\N46
+##	TAG	</name>
+---	DLD	.		=\DELIM
+---	DLD	*		=\DELIM
+1680	TOK	public		public\JA
+1681	TOK	class		class\N5S
+##	TAG	<name>
+1682	TOK	FramedComponent		FramedComponent\N46
+##	TAG	</name>
+1683	TOK	extends		extend\VMFDRS3
+##	TAG	<name>
+1684	TOK	Frame		Frame\N46
+##	TAG	</name>
+1685	TOK	&lcub		&lcub\N5P
+---	DLD	;		=\DELIM
+1686	TOK	protected		protect\VMC----
+##	TAG	<name>
+1687	TOK	Component		Component\N46
+##	TAG	</name>
+1688	TOK	cmp		cmp\N5P
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+##	TAG	<name>
+1689	TOK	Constructor		Constructor\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+1690	TOK	public		public\JA
+1691	TOK	FramedComponent(Component		FramedComponent(Component\N5S
+1692	TOK	c		c\N5S
+---	DLD	)		=\DELIM
+1693	TOK	&lcub		&lcub\N5P
+---	DLD	;		=\DELIM
+1694	TOK	cmp		cmp\N5S
+1695	TOK	=		noanat\W
+1696	TOK	c		c\N5S
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+1697	TOK	add		add\VMF6R66
+1698	TOK	the		the\AT---6
+1699	TOK	component		component\N5S
+1700	TOK	at		at\P
+1701	TOK	the		the\AT---6
+1702	TOK	top		top\N5S
+---	DLE	(		=\DELIM
+1703	TOK	north		north\N5S
+---	DLD	)		=\DELIM
+1704	TOK	add("North",cmp		add("North",cmp\N56
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+1705	TOK	&rcub		&rcub\N5P
+---	DLD	;		=\DELIM
+##	TAG	<gap length=4>
+##	TAG	</head>
+##	TAG	<head>
+1706	TOK	Creating	BOS	Creating\N5S
+1707	TOK	an		an\AI---S
+##	TAG	<name>
+1708	TOK	Object		Object\N46
+##	TAG	</name>
+1709	TOK	from		from\P
+##	TAG	<name>
+1710	TOK	URL Text	EOS	URL_Text\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+1712	TOK	Make	BOS	make\VMF6R66
+1713	TOK	a		a\AI---S
+##	TAG	<name pos="N46" expansion="uniform resource locator">
+1714	TOK	URL		URL\N46
+##	TAG	</name>
+1715	TOK	object		object\N5S
+1716	TOK	from		from\P
+##	TAG	<name>
+1717	TOK	String		String\N46
+##	TAG	</name>
+1718	TOK	u		u\N5S
+1719	TOK	try		try\VMF6R66
+1720	TOK	&lcub		&lcub\N5P
+---	DLD	;		=\DELIM
+##	TAG	<name pos="N46" expansion="uniform resource locator">
+1721	TOK	URL		URL\N46
+##	TAG	</name>
+1722	TOK	url		url\N5S
+1723	TOK	=		noanat\W
+1724	TOK	new		new\JA
+1725	TOK	URL(u);&rcub		URL(u);&rcub\N5P
+---	DLD	;		=\DELIM
+1726	TOK	catch		catch\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1727	TOK	MalformedURLException		MalformedURLException\N46
+##	TAG	</name>
+1728	TOK	e		e\N5S
+---	DLD	)		=\DELIM
+1729	TOK	&lcub;&rcub		&lcub;&rcub\N5P
+---	DLD	;		=\DELIM
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+##	TAG	<name>
+1730	TOK	Console		Console\N46
+##	TAG	</name>
+1731	TOK	message		message\N5S
+1732	TOK	for		for\P
+1733	TOK	debugging		debugging\N5S
+##	TAG	<name>
+1734	TOK	System.out		System.out\N46
+##	TAG	</name>
+1735	TOK	.println("Retrieving		.println("Retrieving\N5P
+---	DLE	"		=\DELIM
+1736	TOK	+		plus\N5S
+1737	TOK	u		u\N5S
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+##	TAG	<name>
+1738	TOK	Open		Open\N46
+##	TAG	</name>
+1739	TOK	the		the\AT---6
+##	TAG	<name pos="N46" expansion="uniform resource locator">
+1740	TOK	URL		URL\N46
+##	TAG	</name>
+1741	TOK	and		and\CC
+1742	TOK	assign		assign\VMF6R66
+1743	TOK	it		it\RPS3N6
+1744	TOK	to		to\P
+1745	TOK	a		a\AI---S
+1746	TOK	new		new\JA
+1747	TOK	variable		variable\JA
+1748	TOK	try		try\N5S
+1749	TOK	&lcub		&lcub\N5P
+---	DLD	;		=\DELIM
+##	TAG	<name>
+1750	TOK	URLconnection		URLconnection\N46
+##	TAG	</name>
+1751	TOK	uc		uc\N5S
+1752	TOK	=		noanat\W
+1753	TOK	url.openConnection		url.openConnection\N5P
+---	DLD	(		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+1754	TOK	Read		read\N5S
+1755	TOK	the		the\AT---6
+1756	TOK	result		result\N5S
+1757	TOK	as		as\P
+1758	TOK	a		a\AI---S
+1759	TOK	stream		stream\N5S
+##	TAG	<name>
+1760	TOK	InputStream		InputStream\N46
+##	TAG	</name>
+1761	TOK	instream		instream\N5S
+1762	TOK	=		noanat\W
+1763	TOK	uc.getInputStream		uc.getInputStream\N5P
+---	DLD	(		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+1764	TOK	make		make\VMF6R66
+1765	TOK	a		a\AI---S
+1766	TOK	buffer		buffer\N5S
+1767	TOK	of		of\P
+1768	TOK	the		the\AT---6
+1769	TOK	correct		correct\JA
+1770	TOK	size		size\N5S
+1771	TOK	byte&lsqb;&rsqb		byte&lsqb;&rsqb\N5P
+---	DLD	;		=\DELIM
+1772	TOK	buf		buf\N5S
+1773	TOK	=		noanat\W
+1774	TOK	new		new\JA
+1775	TOK	byte&lsqb;instream.available()&rsqb		byte&lsqb;instream.available()&rsqb\N5P
+---	DLD	;		=\DELIM
+---	DLD	;		=\DELIM
+1776	TOK	if		if\CS
+---	DLE	(		=\DELIM
+1777	TOK	instream.read(buf		instream.read(buf\N5P
+---	DLD	)		=\DELIM
+---	DLD	)		=\DELIM
+1778	TOK	>		noanat\W
+##	TAG	<num>
+1779	TOK	0		0\X
+##	TAG	</num>
+1780	TOK	&		&\CC
+1781	TOK	lcub		lcub\N5P
+---	DLD	;		=\DELIM
+1782	TOK	init(buf		init(buf\N5P
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+1783	TOK	load		load\N5S
+1784	TOK	the		the\AT---6
+##	TAG	<name>
+1785	TOK	FramedTextList		FramedTextList\N46
+##	TAG	</name>
+1786	TOK	&rcub		&rcub\N5P
+---	DLD	;		=\DELIM
+1787	TOK	&rcub		&rcub\N5P
+---	DLD	;		=\DELIM
+1788	TOK	catch		catch\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1789	TOK	IOException		IOException\N46
+##	TAG	</name>
+1790	TOK	e		e\N5S
+---	DLD	)		=\DELIM
+1791	TOK	&lcub;&rcub		&lcub;&rcub\N5P
+---	DLD	;		=\DELIM
+##	TAG	<gap length=3>
+##	TAG	</head>
+##	TAG	<head>
+1792	TOK	The	BOS	The\N5S
+##	TAG	<name>
+1793	TOK	PopNetHelp Applet	EOS	PopNetHelp_Applet\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+1795	TOK	public	BOS	public\JA
+1796	TOK	class		class\N5S
+##	TAG	<name>
+1797	TOK	PopNetHelp		PopNetHelp\N46
+##	TAG	</name>
+1798	TOK	extends		extend\VMFDRS3
+##	TAG	<name>
+1799	TOK	Applet		Applet\N46
+##	TAG	</name>
+1800	TOK	&lcub		&lcub\N5P
+---	DLD	;		=\DELIM
+##	TAG	<name>
+1801	TOK	String		String\N46
+##	TAG	</name>
+1802	TOK	prompt		prompt\VMF6R66
+---	DLD	;		=\DELIM
+##	TAG	<name>
+1803	TOK	String		String\N46
+##	TAG	</name>
+1804	TOK	helpurl		helpurl\N5P
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+1805	TOK	the		the\AT---6
+1806	TOK	browser		browser\N5S
+1807	TOK	calls		call\VMFDRS3
+1808	TOK	the		the\AT---6
+1809	TOK	init		init\N5S
+---	DLD	(		=\DELIM
+---	DLD	)		=\DELIM
+1810	TOK	method		method\N5S
+1811	TOK	on		on\P
+1812	TOK	loading		load\VMG----
+1813	TOK	public		public\JA
+1814	TOK	void		void\JA
+1815	TOK	init		init\N5P
+---	DLD	(		=\DELIM
+---	DLD	)		=\DELIM
+1816	TOK	&lcub		&lcub\N5P
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+1817	TOK	get		get\VMF6R66
+1818	TOK	the		the\AT---6
+1819	TOK	prompt		prompt\N5S
+1820	TOK	&		&\CC
+##	TAG	<name pos="N46" expansion="uniform resource locator">
+1821	TOK	URL		URL\N46
+##	TAG	</name>
+1822	TOK	from		from\P
+1823	TOK	the		the\AT---6
+1824	TOK	HTMLprompt=getParameter("prompt		HTMLprompt=getParameter("prompt\N5P
+---	DLD	"		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+1825	TOK	prompt=getParameter("helpurl		prompt=getParameter("helpurl\N5P
+---	DLD	"		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+1826	TOK	add(new		add(new\N5S
+1827	TOK	Button(prompt		Button(prompt\N5P
+---	DLD	)		=\DELIM
+---	DLD	)		=\DELIM
+---	DLD	;		=\DELIM
+1828	TOK	&rcub		&rcub\N5P
+---	DLD	;		=\DELIM
+1829	TOK	public		public\JA
+1830	TOK	boolean		boolean\JA
+1831	TOK	handleEvent(Event		handleEvent(Event\JA
+1832	TOK	evt		evt\N5P
+---	DLD	)		=\DELIM
+1833	TOK	&lcub		&lcub\N5P
+---	DLD	;		=\DELIM
+1834	TOK	if		if\CS
+---	DLE	(		=\DELIM
+##	TAG	<name>
+1835	TOK	Event		Event\N46
+##	TAG	</name>
+1836	TOK	.id==ACTION_EVENT		.id==ACTION_EVENT\N5P
+---	DLD	)		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+1837	TOK	was		be\V6F-A66
+1838	TOK	a		a\AI---S
+1839	TOK	button		button\N5S
+1840	TOK	pressed		press\VMF6A66
+---	DLD	?		=\DELIM
+1841	TOK	if		if\CS
+---	DLE	(		=\DELIM
+1842	TOK	evt.target		evt.target\JA
+1843	TOK	instanceof		instanceof\JA
+##	TAG	<name>
+1844	TOK	Button		Button\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+1845	TOK	&lcub		&lcub\N5P
+---	DLD	;		=\DELIM
+---	DLE	/		=\DELIM
+---	DLE	/		=\DELIM
+##	TAG	<name>
+1846	TOK	Pop		Pop\N46
+##	TAG	</name>
+1847	TOK	up		up\P
+1848	TOK	a		a\AI---S
+1849	TOK	frame		frame\N5S
+1850	TOK	try		try\VMF6R66
+1851	TOK	&lcub		&lcub\N5P
+---	DLD	;		=\DELIM
+1852	TOK	popup		popup\N5S
+1853	TOK	=		noanat\W
+1854	TOK	new		new\JA
+1855	TOK	FramedURL(helpurl);&rcub		FramedURL(helpurl);&rcub\N5P
+---	DLD	;		=\DELIM
+1856	TOK	catch(IOException		catch(IOException\N5S
+1857	TOK	e		e\N5S
+---	DLD	)		=\DELIM
+1858	TOK	&lcub;&rcub		&lcub;&rcub\N5P
+---	DLD	;		=\DELIM
+---	DLD	;		=\DELIM
+1859	TOK	return		return\N5S
+1860	TOK	true		true\JA
+---	DLD	;		=\DELIM
+1861	TOK	&rcub		&rcub\N5P
+---	DLD	;		=\DELIM
+1862	TOK	else		else\JA
+1863	TOK	return		return\N5S
+1864	TOK	false		false\JA
+---	DLD	;		=\DELIM
+1865	TOK	&rcub		&rcub\N5P
+---	DLD	;		=\DELIM
+1866	TOK	&rcub		&rcub\N5P
+---	DLD	;	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<head>
+##	TAG	<name>
+1867	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+##	TAG	<foreign lang="LA" pos="P">
+1868	TOK	vs.		vs.\P
+##	TAG	</foreign>
+1869	TOK	C++		C++\N5S
+1870	TOK	and		and\CC
+##	TAG	<name>
+1871	TOK	Visual Basic	EOS	Visual_Basic\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1873	TOK	Will	BOS	will\N5S
+##	TAG	<name>
+1874	TOK	Java		Java\N46
+##	TAG	</name>
+1875	TOK	grow		grow\VMF6R66
+1876	TOK	into		into\P
+1877	TOK	a		a\AI---S
+1878	TOK	complete		complete\JA
+1879	TOK	applications		application\N5P
+1880	TOK	development		development\N5S
+1881	TOK	environment		environment\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1882	TOK	Java	BOS	Java\N46
+##	TAG	</name>
+1883	TOK	supporters		supporter\N5P
+1884	TOK	have		have\V6F6R66
+1885	TOK	positioned		position\VMC----
+1886	TOK	it		it\RPS3N6
+1887	TOK	as		as\DGA7
+1888	TOK	an		an\AI---S
+1889	TOK	improvement		improvement\N5S
+1890	TOK	over		over\P
+1891	TOK	C++		C++\N5P
+1892	TOK	for		for\P
+1893	TOK	object		object\N5S
+---	DLI	-		=\DELIM
+1894	TOK	oriented		orient\VMC----
+1895	TOK	development		development\N5S
+1896	TOK	and		and\CC
+1897	TOK	as		as\P
+1898	TOK	a		a\AI---S
+1899	TOK	competitor		competitor\N5S
+1900	TOK	to		to\P
+##	TAG	<name>
+1901	TOK	Visual Basic		Visual_Basic\N46
+##	TAG	</name>
+1902	TOK	for		for\P
+1903	TOK	graphical		graphical\JA
+1904	TOK	development		development\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1905	TOK	But	BOS	but\CC
+##	TAG	<name>
+1906	TOK	Java		Java\N46
+##	TAG	</name>
+1907	TOK	needs		need\VMFDRS3
+1908	TOK	a		a\AI---S
+1909	TOK	native		native\JA
+---	DLI	-		=\DELIM
+1910	TOK	code		code\N5S
+1911	TOK	compiler		compiler\N5S
+1912	TOK	and		and\CC
+1913	TOK	a		a\AI---S
+1914	TOK	graphical		graphical\JA
+1915	TOK	development		development\N5S
+1916	TOK	environment		environment\N5S
+1917	TOK	to		to\P
+1918	TOK	really		really\DGA7
+1919	TOK	challenge		challenge\N5S
+1920	TOK	C++		C++\N5P
+1921	TOK	and		and\CC
+##	TAG	<name>
+1922	TOK	Visual Basic		Visual_Basic\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1923	TOK	FEATURE	BOS	feature\N5S
+1924	TOK	JAVA		java\N5S
+1925	TOK	C++		C++\N5P
+1926	TOK	VISUAL		visual\JA
+1927	TOK	BASIC		basic\N5S
+1928	TOK	=		noanat\W
+1929	TOK	================================================================		noanat\W
+1930	TOK	=		noanat\W
+1931	TOK	===	EOS	noanat\W
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1933	TOK	Components	BOS	component\N5P
+1934	TOK	plus		plus\CS
+1935	TOK	scripting		script\VMG----
+##	TAG	<name>
+1936	TOK	X O X Extensible		X_O_X_Extensible\N46
+##	TAG	</name>
+1937	TOK	objects		object\N5P
+##	TAG	<date pos="T" ISO8601="-10-10">
+1938	TOK	X X		X_X\T
+##	TAG	</date>
+##	TAG	<name>
+1939	TOK	O Portable		O_Portable\N46
+##	TAG	</name>
+1940	TOK	source		source\N5S
+1941	TOK	code		code\VMF6R66
+##	TAG	<date pos="T" ISO8601="-10-10">
+1942	TOK	X X		X_X\T
+##	TAG	</date>
+##	TAG	<name>
+1943	TOK	O Portable		O_Portable\N46
+##	TAG	</name>
+1944	TOK	object		object\N5S
+1945	TOK	code		code\N5S
+##	TAG	<name>
+1946	TOK	X O O Native-code		X_O_O_Native-code\N46
+##	TAG	</name>
+1947	TOK	compiler		compiler\N5S
+##	TAG	<na type="function">
+1948	TOK	N/A		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1949	TOK	X O Dynamic		X_O_Dynamic\N46
+##	TAG	</name>
+1950	TOK	memory		memory\N5S
+1951	TOK	manager		manager\N5S
+---	DLD	,		=\DELIM
+1952	TOK	garbage		garbage\N5S
+1953	TOK	collector		collector\N5S
+##	TAG	<name>
+1954	TOK	X O X Secure		X_O_X_Secure\N46
+##	TAG	</name>
+1955	TOK	mode		mode\N5S
+##	TAG	<name>
+1956	TOK	X O O Learning		X_O_O_Learning\N46
+##	TAG	</name>
+1957	TOK	time		time\N5S
+##	TAG	<name>
+1958	TOK	Medium Long Short Mature		Medium_Long_Short_Mature\N46
+##	TAG	</name>
+1959	TOK	tools		tool\N5P
+1960	TOK	and		and\CC
+1961	TOK	libraries		library\N5P
+1962	TOK	O		O\N5P
+##	TAG	<date pos="T" ISO8601="-10-10">
+1963	TOK	X X		X_X\T
+##	TAG	</date>
+##	TAG	<name>
+1964	TOK	KEY		KEY\N46
+##	TAG	</name>
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1965	TOK	X	BOS	x\N5S
+1966	TOK	=		noanat\W
+1967	TOK	yes		yes\DGA7
+---	DLD	;		=\DELIM
+##	TAG	<na type="equation">
+1968	TOK	O = no		noanat\W
+##	TAG	</na>
+---	DLD	;		=\DELIM
+##	TAG	<na type="function">
+1969	TOK	N/A		noanat\W
+##	TAG	</na>
+1970	TOK	=		noanat\W
+1971	TOK	not		not\DGA7
+1972	TOK	yet		yet\DGA7
+1973	TOK	available		available\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1974	TOK	Java	BOS	java\N5S
+##	TAG	<name>
+1975	TOK	Development Tools		Development_Tools\N46
+##	TAG	</name>
+1976	TOK	are		be\V6FDR66
+##	TAG	<name>
+1977	TOK	Rich		Rich\N46
+##	TAG	</name>
+1978	TOK	in		in\P
+##	TAG	<name>
+1979	TOK	Features	EOS	Features\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+1981	TOK	screen_link	BOS	screen_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1982	TOK	54		54\X
+##	TAG	</num>
+##	TAG	<name>
+1983	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1985	TOK	Among	BOS	among\P
+1986	TOK	the		the\AT---6
+##	TAG	<name>
+1987	TOK	Java		Java\N46
+##	TAG	</name>
+1988	TOK	development		development\N5S
+1989	TOK	tools		tool\N5P
+1990	TOK	are		be\V6FDR66
+1991	TOK	a		a\AI---S
+1992	TOK	source		source\N5S
+1993	TOK	code		code\N5S
+1994	TOK	editor		editor\N5S
+---	DLE	(		=\DELIM
+1995	TOK	upper		upper\JA
+1996	TOK	left		leave\VMF6A66
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+1997	TOK	technical		technical\JA
+1998	TOK	support		support\N5S
+1999	TOK	on		on\P
+2000	TOK	one		one\MCS
+2001	TOK	of		of\P
+##	TAG	<name>
+2002	TOK	Sun		Sun\N46
+##	TAG	</name>
+2003	PGR	's		genmark\GENMARK
+##	TAG	<name>
+2004	TOK	Web		Web\N46
+##	TAG	</name>
+2005	TOK	sites		site\N5P
+---	DLE	(		=\DELIM
+2006	TOK	upper		upper\JA
+2007	TOK	right		right\JA
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2008	TOK	a		a\AI---S
+2009	TOK	sample		sample\JA
+2010	TOK	browser		browser\N5S
+2011	TOK	page		page\N5S
+2012	TOK	with		with\P
+2013	TOK	an		an\AI---S
+2014	TOK	embedded		embed\VMC----
+##	TAG	<name>
+2015	TOK	Java		Java\N46
+##	TAG	</name>
+2016	TOK	applet		applet\N5S
+---	DLE	(		=\DELIM
+2017	TOK	lower		low\JC
+2018	TOK	right		right\JA
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2019	TOK	and		and\CC
+2020	TOK	the		the\AT---6
+2021	TOK	command		command\N5S
+2022	TOK	line		line\N5S
+---	DLE	(		=\DELIM
+2023	TOK	lower		lower\N5S
+2024	TOK	left		leave\VMF6A66
+---	DLE	)		=\DELIM
+2025	TOK	for		for\P
+2026	TOK	running		run\VMG----
+2027	TOK	the		the\AT---6
+2028	TOK	compiler		compiler\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2029	TOK	The	BOS	the\AT---6
+2030	TOK	applet		applet\N5S
+2031	TOK	itself		itself\RXS3N-
+2032	TOK	appears		appear\VMFDRS3
+2033	TOK	in		in\P
+2034	TOK	the		the\AT---6
+2035	TOK	rectangular		rectangular\JA
+2036	TOK	window		window\N5S
+2037	TOK	in		in\P
+2038	TOK	the		the\AT---6
+2039	TOK	middle		middle\N5S
+2040	TOK	of		of\P
+2041	TOK	the		the\AT---6
+2042	TOK	screen		screen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2043	TOK	The	BOS	the\AT---6
+2044	TOK	smaller		small\JC
+2045	TOK	window		window\N5S
+2046	TOK	below		below\DGA7
+2047	TOK	is		be\V6FDRS3
+2048	TOK	the		the\AT---6
+2049	TOK	applet		applet\N5S
+2050	TOK	viewer		viewer\N5S
+---	DLD	,		=\DELIM
+2051	TOK	which		which\RW63N-
+2052	TOK	lets		let\VMFDRS3
+2053	TOK	developers		developer\N5P
+2054	TOK	preview		preview\VMF6R66
+2055	TOK	the		the\AT---6
+2056	TOK	final		final\JA
+2057	TOK	product		product\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+2058	TOK	Andrew Singleton	BOS	Andrew_Singleton\N46
+##	TAG	</name>
+2059	TOK	is		be\V6FDRS3
+2060	TOK	president		president\N5S
+2061	TOK	of		of\P
+##	TAG	<name>
+2062	TOK	Cambridge Interactive		Cambridge_Interactive\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+##	TAG	<name>
+2063	TOK	Cambridge		Cambridge\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+2064	TOK	MA		MA\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+---	DLD	,		=\DELIM
+2065	TOK	a		a\AI---S
+2066	TOK	developer		developer\N5S
+2067	TOK	of		of\P
+2068	TOK	on		on\P
+---	DLI	-		=\DELIM
+2069	TOK	line		line\N5S
+2070	TOK	services		service\N5P
+2071	TOK	on		on\P
+2072	TOK	the		the\AT---6
+##	TAG	<name>
+2073	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+2074	TOK	You	BOS	you\RP62N6
+2075	TOK	can		can\VOFDR66
+2076	TOK	reach		reach\VMI----
+2077	TOK	him		him\RPS3MA
+2078	TOK	on		on\P
+2079	TOK	the		the\AT---6
+##	TAG	<name>
+2080	TOK	Internet		Internet\N46
+##	TAG	</name>
+2081	TOK	at		at\P
+##	TAG	<na type="email">
+2082	TOK	andy@money.com		noanat\W
+##	TAG	</na>
+2083	TOK	or		or\CC
+2084	TOK	on		on\P
+##	TAG	<name>
+2085	TOK	BIX		BIX\N46
+##	TAG	</name>
+##	TAG	<na type="function">
+2086	TOK	c/o		noanat\W
+##	TAG	</na>
+---	DLE	"		=\DELIM
+2087	TOK	editors		editor\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+---	DLE	"	BOS	=\DELIM
+tf	TOK		EOS	=\DELS
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+2089	TOK	Copyright	BOS	copyright\JA
+2090	TOK	©		©\N5P
+##	TAG	<na type="function">
+2091	TOK	1994-1996		noanat\W
+##	TAG	</na>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	</div1>

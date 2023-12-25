@@ -1,0 +1,2262 @@
+
+Introduction to Advanced Configuration
+
+The initial configuration of the NetWare© 4.1 network protocol provides the basis for most needs.
+The configuration is based on the boards configured and the protocols enabled and configured.
+
+If you followed the instructions in the NetWare 4.1 Basic Protocol Configuration Guide , most protocol parameters during the initial configuration are set at their default values.
+This configuration enables a basic server setup useful for most LAN purposes.
+
+The NetWare 4.1protocol software offers an extensive set of configurable parameters for all protocols supported.
+You can use these parameters to modify the default characteristics of the original configuration.
+You can configure the advanced features and optimize the protocol performance options.
+This guide presents advanced configuration concepts and procedures, and discusses the management utilities you might find useful in your particular situation.
+
+This chapter contains the following sections:
+
+- "Configuration Overview".
+This section describes the major tasks required to configure the protocols on a server on a LAN.
+
+- "Understanding Configuration Concepts".
+This section discusses the concepts to help you make the right decisions when configuring the server.
+
+- "Understanding Management".
+This section discusses overall protocol management tasks and explains the types of utilities to help you manage the NetWare 4.1 protocols.
+
+
+Configuration Overview
+
+To set up a server to run on a LAN, you need to perform the following tasks using INETCFG:
+- Configure the LAN board.
+For a LAN board, you only need to configure the board.
+For information about configuring LAN boards, refer to the NetWare 4.1 Basic Protocol Configuration Guide.
+
+- Configure the network protocols that will run over the LAN connection.
+For a LAN, you can configure the routing protocol (for IPX and TCP/IP), tunneling (for IPX and AppleTalk*), filtering, static routes (for TCP/IP only), and other expert configurations. 
+For information about configuring the network protocols for a LAN, see Chapter 2, "Configuring IPX," Chapter 3, "Configuring IP," and Chapter 4, "Configuring AppleTalk." 
+
+- Bind the network protocols to the network interfaces through which you want them to connect.
+For information about binding the protocols, see Chapter 2, "Configuring IPX," Chapter 3, "Configuring IP," and Chapter 6, "Using Internetworking Utilities." 
+
+
+Understanding Configuration Concepts
+
+Configuring the server involves some planning and decision-making along the way.
+You have to know the details of the network where you are placing the server, the type of connectivity you want, and the configuration details of the peers to which you are connecting the server.
+
+Deciding the characteristics of each protocol you are using over a LAN interface is based on the topography and existing characteristics of the network.
+For every protocol you configure to run over a LAN link you must determine whether to route and which protocol to use, whether to tunnel packets, whether you need or want to configure static routes, and the type of filtering to use.
+
+This section discusses the basic concepts you must know to make the right decisions when configuring the network protocols you want to use on NetWare 4.1 software.
+Each network protocol you want to support must be bound and must run over a configured link.
+For information about binding configuration concepts and procedures and about configuring protocols, see Chapter 2, "Configuring IPX," Chapter 3, "Configuring IP," and Chapter 4, "Configuring AppleTalk." 
+
+Routing Protocols
+
+IPX and TCP/IP configurations offer options for setting the routing protocols.
+There are two general types of routing protocols available:distance vector andlink state.
+Your choice of routing protocols is determined largely by which routing protocols are currently used in your network.
+For example, in older networks, such as NetWare 2, there might be several routers that can only support distance vector routing.
+However, if your situation enables you to choose just one type of routing to use, choose link state routing if possible.
+
+If your network contains routers that support both link state and distance vector routing, you should configure your router to support both.
+In networks that have nothing but newer routers, it is best to configure the routers to use only link state routing protocols.
+Although this is not a very likely scenario, it might be possible to achieve by gradually updating your routers and migrating to the exclusive use of link state routing protocols over a period of time.
+
+Table 1-1 shows the distance vector and link state protocols that are supported by NetWare 4.1.
+
+Figure
+
+Distance Vector and Link State Protocols
+
+Permanent Links and Static Routes
+
+In TCP/IP, you can use static routes for LAN connections.
+
+You use a static route for a LAN connection if you want to eliminate routing protocol traffic over the connection, making more bandwidth available for data, or to have a backup route for dynamic routes.
+You can also use static routes to limit user access to one portion of the network, or to gain access to isolated areas of the network.
+
+Tunneling
+
+The NetWare 4.1 software provides the IPTUNNEL driver for tunneling IPX packets through IP internetworks, and the AURP protocol to tunnel AppleTalk packets through IP internetworks.
+
+IPTUNNEL is configured as a board driver and uses UDP encapsulation to send IPX packets through an IP internetwork, to a remote IPTUNNEL peer.
+The remote IPTUNNEL peer then strips the UDP encapsulation and sends the IPX packet through an IPX network to its destination.
+
+Similarly, AURP encapsulates AppleTalk packets to send them through an IP internetwork to a remote AURP peer.
+The remote AURP peer strips the encapsulation and sends the packet through the AppleTalk network to its destination.
+
+Filtering
+
+The NetWare 4.1 protocols support filtering to control the service and route information that is accepted or advertised by a server.
+Filters are useful when you want to limit specific types of traffic to certain parts of your network and when you want to provide a certain level of security.
+The Filter Configuration utility (FILTCFG) enables you to configure the filters for IPX, IP, and AppleTalk to selectively discard packets sent or received by a server.
+The following types of filters are supported:
+- Packet forwarding.
+To prevent selected data packets from being forwarded by the server.
+Packet forwarding filtering is available for IPX and TCP/IP.
+
+- Service information.
+To prevent packets that advertise services destined for particular parts of the network from being advertised by the server.
+Service information filtering is available for IPX and AppleTalk.
+
+- Routing information.
+To limit the routes added to the routing tables of specified servers.
+Routing information filtering is available for IPX, AppleTalk and TCP/IP.
+
+
+Understanding Management
+
+The NetWare 4.1 networking software offers multiple utilities to manage the server and its operation on the internetwork.
+Managing the server after it is configured consists of the following major tasks:
+- Verifying the configuration to make sure everything is up and running and has the characteristics you intended
+- Monitoring the server to find out whether it is performing efficiently, and to detect possible problems
+- Configuring and managing connectivity equipment
+- Optimizing the server to make routing more efficient
+- Testing connectivity and troubleshooting
+
+The utilities available to help you configure and manage your server include:
+- Management and testing utilities, such as INETCFG, FILTCFG, or IPXPING, to configure and optimize the server.
+- Monitoring utilities, such as IPXCON, ATCON, or TCPCON, to help you check how each protocol is behaving, and to help you identify potential problems.
+- Command-line utilities, such as PING, CONLOG, or REINITIALIZE SYSTEM, to help you monitor, test, and implement configuration changes to your server.
+
+The advanced configuration features described in this guide include information such as configuration of low-level data-link parameters, including transmit queue limits and protocol error recovery; and optimization techniques for network protocols and LAN links.
+
+Although many optimization techniques can be used on a LAN, optimization is less of an issue on a LAN because bandwidth is inexpensive.
+
+Monitoring your server, during and after initial configuration, can help you detect potential problems and identify its optimization needs.
+You can also use the management utilities in conjunction to isolate problems.
+For information about the utilities, see Chapter 6, "Using Internetworking Utilities." For information about troubleshooting, refer to Chapter 9, "Troubleshooting Overview." 
+
+Configuring IPX
+
+NetWare© 4.1 software provides a set of configurable parameters with which you can modify operational characteristics of the IPX network protocol, such as selecting its routing protocol and configuring it to run over a LAN connection.
+
+You configure IPX by enabling the protocol, setting its various parameters, and binding it to a network interface.
+You configure all IPX parameters from the Internetworking Configuration utility (INETCFG).
+
+The configuration you specify using INETCFG does not take effect automatically.
+To activate the new configuration, exit INETCFG, then enter REINITIALIZE SYSTEM at the console prompt after you finish all configuration tasks.
+
+This chapter contains the following sections:
+
+- "IPX Configuration Decisions"
+- "Turning off IPX Packet Forwarding"
+- "Configuring NLSP"
+- "Configuring RIP and SAP"
+- "Enabling Advanced IPX Parameters"
+- "Enabling Filters"
+- "Controlling the Propagation of Type 20 Packets"
+- "Changing the Hop Count Limit for IPX Packets"
+- "Balancing Traffic Loads Over Equal-Cost Routes"
+- "Configuring SPX Connection Parameters"
+- "Tunneling Through IP Networks"
+- "Configuring the MacIPX Gateway"
+
+IPX Configuration Decisions
+
+How you configure IPX beyond its most basic configuration depends on the following decisions:
+- Whether to turn off IPX packet forwarding or to use the system as an IPX router.
+NetWare 4.1 allows you to turn off, or disable,IPX packet forwarding on a NetWare file server.
+This is useful when you have more than one NetWare system connecting two or more LANs and you want to free one of the systems from the task of forwarding IPX packets between the LANs.
+To turn off IPX packet forwarding, see "Turning off IPX Packet Forwarding." 
+
+- Whether to use NLSP, RIP/SAP, or both, on your server .
+NetWare Link Services Protocol (NLSP ) is the Novell© link state routing protocol for IPX internetworks; RIP and SAP are the routing and service advertising protocols traditionally used by NetWare.
+To configure NLSP on your server, see "Configuring NLSP."
+To configure RIP and SAP on your server, see "Configuring RIP and SAP." 
+
+- Whether to enable the advanced IPX parameters.
+This is a set of parameters with which you configure NLSP and other advanced features of the IPX protocol.
+To enable these parameters for configuration, see "Enabling Advanced IPX Parameters." 
+
+- Whether to activate the route, service, or IPX or NetBIOS packet filters you configure with the Filter Configuration utility (FILTCFG).
+Filters enable you to do the following:
+- Control user access to any services
+- Reduce the bandwidth consumed by routing traffic
+- Restrict the flow of IPX or NetBIOS packets.
+To configure filters, you must first enable the Filtering Support parameter from INETCFG and then load the Filter Configuration utility (FILTCFG).
+For more information, see Chapter 5, "Configuring Filters." 
+
+
+- Whether to change how your router propagates type 20 packets.
+Type 20 is an IPX packet type that refers to any propagated packet.
+NetBIOS packets, for example, are type 20 packets.
+If your router processes a lot of type 20 packets, you can control how it propagates these packets through its interfaces.
+This can reduce the amount of traffic on a LAN.
+To change how your router propagates type 20 packets, see "Controlling the Propagation of Type 20 Packets." 
+
+- Whether to change the hop count limit of outbound IPX packets.
+This enables you to control the range of outbound IPX packets on your router.
+To control the range of IPX packets, see "Changing the Hop Count Limit for IPX Packets." 
+
+- Whether to balance traffic loads over equal-cost routes.
+If your router supports two or more network interfaces that can reach the same destination, it can distribute outbound traffic among those interfaces for an effective increase in throughput.
+To configure equal-cost routes, see "Balancing Traffic Loads Over Equal-Cost Routes." 
+
+- Whether to configure SPX connection parameters.
+You might need to configure certain Sequenced Packet Exchange (SPX ) parameters if you are running NetWare applications that have specific requirements for connection timeouts, retry counts, and so on.
+To configure any of these parameters, see "Configuring SPX Connection Parameters." 
+
+- Whether to configure IP tunneling.
+You use IP tunneling between peer routers when you want two or more IPX networks to exchange information through an Internet Protocol (IP) network.
+To configure IP tunneling, see "Tunneling Through IP Networks."
+
+- Whether to configure the MacIPX gateway.
+You use the MacIPX gateway when you have Macintosh* clients on an AppleTalk* network that need to use the resources available on a NetWare LAN.
+To configure the MacIPX gateway, see "Configuring the MacIPX Gateway."
+
+
+Turning off IPX Packet Forwarding
+
+As a typical part of its operation, a NetWare file server forwards IPX packets between its network interfaces.
+By disabling the Packet Forwarding parameter, you turn off IPX packet forwarding on a NetWare file server.
+This is useful when you have more than one NetWare system on a network and you want to make more computing resources available on a server for file and print services. 
+
+A server with IPX packet forwarding disabled still performs its duties as a file server, but broadcasts only its own services and internal network number -not those associated with its network interfaces.
+A server operating in this way is sometimes called a multihomed server.
+Although the multihomed server does not reply to routing requests from NetWare workstations, it must still accept all incoming RIP and SAP broadcasts to maintain its bindery.
+
+Figure 2-1 shows how the tasks of routing and file service can be divided between a NetWare file server and a dedicated router.
+Typically, the task of routing IPX traffic between the two internetworks would be shared by the router and the file server.
+When you disable IPX packet forwarding on the file server, the router assumes the task of routing all IPX traffic.
+The file server, now free from the tasks of forwarding IPX packets and answering route requests, can devote its full processing resources to file service.
+
+Figure
+
+Turning Off IPX Packet Forwarding on a NetWare File Server
+
+You should turn off IPX packet forwarding only for the following reasons:
+- You do not want the server to forward IPX packets between its interfaces.
+- The server is operating in a RIP-only network.
+Turning off IPX routing in a network that has NLSP routers forces those routers to send RIP/SAP updates to the server.
+
+
+How to Turn Off IPX Packet Forwarding
+
+To turn off IPX packet forwarding, load INETCFG and select the following path:
+
+Parameter Path: Select Protocols xxx Select IPX ( IPX Protocol Configuration window appears)
+
+The Packet Forwarding parameter is already highlighted; select it, then select Disabled .
+
+Press to return to the Internetworking Configuration menu; save your change when prompted.
+
+If you want this change to take effect immediately, exit INETCFG, then type the following command:
+
+REINITIALIZE SYSTEM 
+
+If you want to configure other IPX parameters, do so now, then reinitialize the system when you are finished.
+
+Configuring NLSP
+
+Novell developed NLSP to meet the demands of large IPX internetworks.
+As a link state routing protocol, NLSP offers better performance, reliability, and scalability than the IPX RIP routing traditionally employed by NetWare servers. 
+
+Unlike RIP and SAP, which periodically broadcast routing and service information, NLSP transmits routing information only when a change occurs in a route or service somewhere in the network, or every two hours ---whichever occurs first.
+Because NLSP generates fewer routing updates than RIP and SAP, it uses less network bandwidth to maintain its routing database. 
+
+An NLSP router transmits information about its directly connected routers and the links to those routers in Link State Packets (LSPs).
+By default, LSPs are 512 bytes, a nominal value that is sufficient for most IPX networks.
+If you have a large network ---on the order of 4,000 routes and 2,000 services or more ---you should increase the value of the LSP Size parameter to 1024.
+To configure this parameter, see "How to Change the LSP Size." 
+
+By default, NLSP broadcasts its packets because some LAN drivers do not properly support multicast , a transmission mode that enables only those devices listening for a specific multicast packet address to accept the packet.
+You can, however, change the NLSP packet transmission mode to multicast with the MAC Channel parameter.
+
+An advantage of using multicast transmission is that NLSP packets sent by multicast do not "clutter" nonrouting nodes with unnecessary traffic.
+
+All NetWare systems on the same LAN must use the same NLSP packet transmission mode.
+
+NLSP makes large IPX internetworks more manageable by allowing you to partition them into administrative domains called routing areas .
+Each routing area can be identified by up to three area addresses , a unique, four-byte hexadecimal number that identifies each NLSP router as being part of a routing area.
+Although area addresses are not required, they are available chiefly for compatibility with future versions of NLSP and do provide some benefit for large IPX internetworks. 
+
+Do not configure area addresses unless you must partition a large IPX internetwork.
+If you make an error in the address assignments, you can partition your network inadvertently and lose connectivity between some routers.
+
+For more information about routing areas and partitioning an IPX internetwork, refer to the NetWare 4.1 NLSP Migration Guide .
+
+Each NLSP router is identified by a unique, six-byte hexadecimal number calledthe System ID .
+The defaultSystem ID comprises a two-byte constant, 0x0200, followed by the router's own internal network number.
+You should not change the System ID unless you have another numbering scheme in place with which you can reliably track and manage the NLSP routers on your network.
+If you must change a router's System ID, use another unique number, such as the physical address of one of the router's network interface boards.
+
+NLSP uses a default cost value based on media throughput to choose the best route by which to forward IPX packets.
+NetWare 4.1 enables you to override this value on an interface.
+By overriding the default cost, you can establish preferred routes, balance traffic loads among interfaces, and set up specific traffic flows between routers.
+For more information, see "Balancing Traffic Loads Over Equal-Cost Routes." 
+
+All NLSP routers have a configurable parameter called the Priority .
+The router with the highest priority becomes the Designated Router , which assumes the responsibility for exchanges of link state information on behalf of all other NLSP routers on the LAN.
+You do not typically need to change a router's Priority value; the NLSP routers automatically "elect" one from themselves.
+However, if you want to force a router to become the Designated Router for its LAN, increase its Priority value to at least 85.
+The router you choose should be typically up and should have enough memory to process NLSP routing information and generate the pseudonode LSP for its LAN.
+If you want to prevent a particular router from becoming the Designated Router, decrease its Priority value. 
+
+NetWare 4.1 provides a set of convergence parameters that enable you to control the operation of NLSP on your server/router.
+The default values for these parameters are sufficient for most IPX networks and should be changed only on the advice of your technical support representative.
+
+When configuring NLSP on an interface, you can set the NLSP State parameter to one of two states: On and Off .
+On enables the router to exchange NLSP packets freely with other NLSP routers on the attached network.
+Off disables NLSP routing on the interface.
+
+For additional information about how NLSP works, refer to the NetWare 4.1 IPX Reference .
+
+How to Configure NLSP
+
+If you are planning to implement NLSP throughout an entire IPX network or even if you need to configure NLSP on just a few server or LANs, refer to the NetWare 4.1 NLSP Migration Guide .
+
+To configure NLSP on the server, load INETCFG and select the following path:
+
+Parameter Path: Select Protocols > Select IPX ( IPX Protocol Configuration window appears)
+
+Complete the following steps:
+
+Select the Routing Protocol parameter, then select NLSP with RIP/SAP Compatibility .
+
+If the router supports several interfaces and you need to filter routes and services to a remote site through one of those interfaces, select NLSP with RIP/SAP Compatibility , then disable NLSP and enable RIP and SAP on that interface.
+To enable RIP and SAP, see "Configuring RIP and SAP." 
+
+If you select Expert Configuration Options , you can view the following expert NLSP parameters:
+- NLSP Local Area Addresses
+- Override NLSP System ID
+- NLSP System Identification
+- NLSP Convergence Rate
+- NLSP Convergence Rate Configuration.
+Most network configurations do not require changes to these parameters.
+To learn how they are used, refer to the NetWare 4.1 IPX Reference .
+
+
+Press to return to the Internetworking Configuration menu, then select the following path:
+
+Parameter Path: Select Bindings > Select a network interface > Select Expert Bind Options > Select NLSP Bind Options 
+
+Configure the following parameters:
+- NLSP State.
+Identifies the state of NLSP on this interface.
+Select one of the following options:
+On.
+Enables NLSP routing on the interface.
+Off.
+Disables NLSP routing on the interface.
+Select this option if the interface is on an area boundary , or if you need to filter incoming RIP or SAP packets at the interface.
+
+- MAC Channel.
+Determines whether NLSP uses the broadcast or multicast channel to transmit its packets.
+If you select Multicast , NLSP automatically determines the multicast address.
+All systems on a network must be set to Multicast ; otherwise, the systems default to Broadcast , the default state for this parameter.
+Make sure the driver you are using supports multicast transmission; drivers that do not support multicast can cause systems to become unaware of each other.
+
+
+Configuring IP
+
+NetWare© 4.1 software provides a set of configurable parameters with which you can modify operational characteristics of the Internet Protocol (IP), such as selecting its protocol and configuring it to run over a LAN connection.
+
+You configure IP for NetWare 4.1 by enabling the protocol, setting its various parameters, and binding it to a network interface.
+You configure all IP parameters from the Internetworking Configuration utility (INETCFG).
+
+The configuration you specify using INETCFG does not take effect automatically.
+To activate the configuration, exit INETCFG, then bring down and restart the server after you finish all configuration steps.
+
+This chapter covers advanced IP concepts and configuration procedures in the following sections:
+- "IP Configuration Decisions".
+This section presents a list of decisions you need to consider before configuring IP on the server.
+Each decision refers you to a section in this chapter -or another chapter in this guide- for configuration instructions and additional conceptual information.
+
+- "Configuring RIP".
+This section explains how to configure the server to use Routing Information Protocol (RIP) as its IP routing protocol.
+
+- "Configuring OSPF".
+This section explains how to configure the server to use Open Shortest Path First (OSPF) as its IP routing protocol.
+
+- "Configuring Static Routes on LAN Routers".
+This section describes static routes and explains how to configure them on the router or end node's IP LAN connections.
+
+- "Configuring Router Discovery".
+This section describes router discovery and explains how to configure it on an IP router or end node.
+
+- "Enabling ARP and Proxy ARP".
+This section describes Address Resolution Protocol (ARP) and Proxy ARP and explains how to enable them on an IP router.
+
+- "Enabling Directed Broadcast Forwarding".
+This section describes directed broadcast forwarding and explains how to configure it on an IP router.
+
+- "Configuring BootP Forwarding".
+This section describes BootP forwarding and explains how to configure it on an IP router or end node.
+
+- "Configuring Multiple Logical Interfaces".
+This section describes multiple logical interfaces and explains how to configure them on an IP router or end node.
+NetWare 4.1 uses IP to encapsulate Internetwork Packet Exchange (IPX ) packets and AppleTalk* packets.
+This is called IP tunneling and is covered in Chapter 2, "Configuring IPX," and Chapter 4, "Configuring AppleTalk."
+
+
+IP Configuration Decisions
+
+How you configure IP beyond the most basic configuration depends on the following decisions:
+- Whether to use the computer as a router or an end node (that is host ).
+The IP Packet Forwarding parameter, which controls IP packet routing, is disabled by default.
+Enable this parameter if you want your computer to operate as an IP router; disable it if you want it to operate as an end node.
+
+- Whether to use RIP, OSPF, or a mixed RIP-OSPF environment.
+RIP and OSPF are IP routing protocols.
+If you already have IP routers in your network environment, use the same routing protocol they use.
+If your network currently has no other routers, use OSPF.
+To configure your server as a RIP router, see "Configuring RIP." 
+To configure your server as an OSPF router, see "Configuring OSPF." 
+
+- Whether to use static routes on a LAN router.
+Static routes are useful for reducing routing traffic, providing security, accessing isolated networks, and operating as backup routes on LANs.
+To configure static routes on a LAN router, see "Configuring Static Routes on LAN Routers." 
+
+- Whether to filter routes or various TCP/IP packets.
+Enable filters if you want to do any of the following: 
+- Control access to any services, such as File Transfer Protocol (FTP), on your network
+- Reduce the bandwidth consumed by routing traffic.
+To configure TCP/IP filters, you must enable the Filtering Support parameter from INETCFG and then load the Filter Configuration utility (FILTCFG).
+For more information, see Chapter 5, "Configuring Filters." 
+
+
+- Whether to configure router discovery.
+Router discovery allows end nodes to find an IP router on their network.
+If your computer is operating as a router, it can advertise itself periodically as a router; if your computer is operating as an end node, it can send queries to locate a router.
+To configure router discovery, see "Configuring Router Discovery." 
+
+- Whether to enable ARP or Proxy ARP.
+ARP is a LAN protocol that maps Internet addresses to physical addresses.
+IP routers and end nodes use ARP to determine a destination node's physical address.
+An IP router using Proxy ARP replies to ARP requests it receives through an interface on behalf of an end node on a network attached to another interface.
+To enable ARP or to configure Proxy ARP on your router, see "Enabling ARP and Proxy ARP." 
+
+- Whether to enable the router to forward directed broadcasts.
+A directed broadcast is a broadcast intended only for a specific group of nodes rather than all nodes on the network.
+To enable directed broadcast forwarding, see "Enabling Directed Broadcast Forwarding." 
+
+- Whether to configure the router or end node as a BootP forwarder.
+The BootP protocol enables end nodes to get an IP address at startup time.
+As a BootP forwarder , the router or end node accepts and forwards BootP requests to a BootP server, which assigns the IP address.
+To configure BootP forwarding, see "Configuring BootP Forwarding."
+
+- Whether to configure multiple logical interfaces on a single board.
+This enables you to bind more than one IP network to a LAN board to operate as separate logical interfaces.
+To configure multiple logical interfaces on a board, see "Configuring Multiple Logical Interfaces." 
+
+
+Configuring RIP
+
+RIP is probably the most common IP routing protocol in use.
+As such, it is widely available and presents few obstacles to interoperability with other IP internetworks, most notably the Internet.
+
+RIP performs sufficiently well in small IP internetworks that have simple architectures and few routers.
+However, RIP reveals its limitations in the large, complex internetworks that have become common in government and private-sector organizations throughout the world.
+Its most apparent limitations are as follows: 
+- All subnetworks must be contiguous
+- The entire network must use the same subnetwork mask
+- You cannot use subnet zero 
+- RIP routes are limited to 15 hops
+
+To overcome or ease some of these limitations, the internetworking community developed various enhancements to RIP.
+
+RIP II , for example, is an enhanced version of RIP that supports variable-length subnetwork masks by carrying a field that contains the subnetwork mask of the destination network.
+RIP also supports the use of subnet zero, whose addresses were reserved under the original IP specification.
+
+When configuring RIP, you can run RIP, RIP II, or both on a single interface. 
+
+Not all third-party routers support RIP II.
+
+You can also enable poison reverse on an interface.
+This is a mechanism that causes RIP to advertise a route back through the same path from which it learned the route, but with a hop count of 16 ---that is, unreachable.
+
+Although poison reverse prevents routing loops, the unreachable routes carried in each RIP packet increase the bandwidth consumed by RIP traffic.
+This increase becomes significant in large internetworks. 
+
+RIP allows you to assign a cost value between 1 and 15 to each network interface you configure.
+This enables you to establish a preferred route according to the type of network media connected to the interface.
+For example, you might want to increase the cost of an interface that uses a slow link so that, given the choice, RIP uses the interface to a faster, less costly link.
+The default cost for each interface is 1; you should not increase this value on an interface unless you want to discourage its use as an eligible routing path.
+
+When choosing an IP routing protocol, consider the following "rules of thumb":
+- If the IP internetwork is small and uses no routing protocol besides RIP, continue using RIP.
+To configure RIP, see "How to Configure RIP." 
+However, if the network will continue to grow and perhaps become part of a larger IP internetwork, you should consider migrating the network from RIP to OSPF.
+For information about RIP-to-OSPF migration, see the NetWare 4.1 TCP/IP Reference .
+
+- If the internetwork uses variable-length subnetworks or has third-party routers that support RIP II, use RIP II or OSPF.
+To configure RIP II, see "How to Configure RIP." 
+To configure OSPF, see "How to Configure OSPF." 
+
+- If the internetwork has some third-party routers that support RIP II and others that do not, use RIP and RIP II.
+For this purpose, you can enable RIP and RIP II simultaneously on a network interface.
+For instructions, see "How to Configure RIP." 
+
+- If you are currently building a large IP internetwork, use OSPF.
+You can also run RIP and OSPF concurrently; for more information, see "Configuring OSPF."
+
+
+For additional information about RIP and related topics, see the NetWare 4.1 TCP/IP Reference .
+
+How to Configure RIP
+
+To enable RIP routing and to configure RIP on a network interface, load INETCFG and select the following path:
+
+Parameter Path: Select Protocols > Select TCP/IP > (TCP/IP Protocol Configuration window appears)
+
+Complete the following steps:
+
+Make sure RIP routing is enabled globally: the RIP field should be set to Enabled .
+
+This is the default setting.
+
+If you want to disable RIP routing on a single interface, set the Status parameter to Disabled as described in Step 2 .
+
+Press to return to the Internetworking Configuration menu, then select the following path:
+
+Parameter Path: Select Bindings > Select a network interface > Select RIP Bind Options ( RIP Bind Options window appears)
+
+- Status:
+Status of RIP routing on this interface.
+RIP routing is enabled by default; to disable RIP routing only on this interface, select this parameter, then select Disabled.
+
+- RIP Mode:
+Version of RIP to use on this interface.
+Select one of the following options:
+- RIPI:
+Standard version of RIP used by most IP routers and end nodes.
+This is the default option.
+
+- RIPII:
+Enhanced version of RIP that supports variable-length subnetwork masks.
+
+- RIPI & RIPII.
+Both versions of RIP.
+Select this option if your internetwork has nodes that support only RIPI and subnetworks that have variable-length masks.
+
+- Send Only:
+Causes the router only to broadcast, in RIPI packets, the entries in its own routing table.
+Some end nodes learn routes only by listening to RIP, even if portions of the internetwork run OSPF.
+Select this option if you want the router to broadcast the OSPF routes in its RIPI packets so that every end node can learn all available routes.
+
+
+
+
+- Cost of Interface
+- Originate Default Route
+- Poison Reverse.
+Because the default settings for these parameters are suitable for most IP networks, you should change them only for a specific purpose.
+Misconfiguring these parameters can increase routing traffic or cause loss of connectivity on your network.
+If you are unfamiliar with these parameters, refer to the NetWare 4.1 TCP/IP Reference.
+
+
+
+Press to return to the Internetworking Configuration menu; save your changes when prompted.
+
+If you want these changes to take effect immediately, exit INETCFG, then bring down and restart the server.
+If you want to configure other IP parameters, do so now and restart the server when you are finished.
+
+Configuring OSPF
+
+OSPF was developed to satisfy the need for a scalable, open-standards routing protocol for large IP internetworks.
+As a link state protocol, OSPF provides highly efficient routing and fast convergence.
+
+OSPF makes large internetworks more manageable by allowing you to partition them into administrative domains called areas .
+Areas impose a hierarchy to the internetwork.
+All OSPF areas are connected to a central backbone area by an Area Border Router (ABR).
+The ABR shares OSPF routing information between the area and the backbone.
+
+When configuring an OSPF area, you assign to it a four-byte decimal number called the Area ID .
+You also indicate which of the router's network interfaces belong to the area, and whether the area is a stub area .
+
+NetWare 4.1 supports the use of virtual links between OSPF routers.
+A virtual link "patches together" a partitioned backbone by creating a direct point-to-point link between the ABRs that connect the partitioned backbone areas through the transit area .
+
+Because of the complexity and high probability of misconfiguring virtual links, Novell recommends against using them on your network.
+
+Most IP internetworks in use today are not "pure" OSPF networks; that is, portions of these internetworks still employ other routing protocols, such as RIP.
+OSPF uses an Autonomous System Boundary Router (ASBR) to import and propagate routing information from these protocols.
+When configuring OSPF, you can enable your router to operate as an ASBR.
+For an ASBR to import RIP routes learned through an interface, RIP must be enabled on that interface.
+
+Each OSPF router has its own Router ID , a four-byte number that uniquely identifies the router and allows it to participate in informational exchanges with neighboring routers.
+The default Router ID is the IP address of the first interface bound to IP on the router.
+Although INETCFG allows you to change the Router ID, you should use the default unless you need a simpler numbering scheme for administrating several hundred routers on an internetwork.
+
+OSPF authenticates its packets by providing an authentication key -an eight-byte, alphanumeric password- in each OSPF packet header.
+OSPF authentication gives you administrative control over which routers participate in link state exchanges on the internetwork.
+A router without proper authentication is excluded from these exchanges and, essentially, from performing any OSPF routing whatsoever.
+NetWare 4.1 allows you to enable authentication for an area and to provide an authentication key for each network to which the router is connected.
+
+Unlike RIP, whose only criterion for choosing the best route is the hop count, OSPF allows you to assign a cost value to each network interface you configure.
+This enables you to establish a preferred route according to the type of network media connected to the interface.
+For example, you might want to increase the cost of an interface that uses a slow link so that, given the choice, OSPF uses the interface to a faster, less costly link.
+
+NetWare 4.1 allows you to run OSPF and RIP on the same router.
+You can run them separately on different interfaces or concurrently on a single interface.
+Although an ASBR must run both protocols so that it can import RIP routes and propagate them to other OSPF routers, you should not run both on too many other routers in your OSPF domain.
+Doing so consumes additional.
+
+Configuring AppleTalk
+
+The AppleTalk for NetWare© protocol offers a set of configurable parameters you can use to modify the default characteristics of the protocol or to configure AppleTalk to run over an IP tunnel.
+
+You can configure AppleTalk for NetWare 4.1 by enabling the protocol, setting its various options, and binding the protocol to a network interface.
+All AppleTalk options can be configured or changed by running the Internetworking Configuration utility (INETCFG).
+
+This chapter covers advanced configuration concepts and procedures for AppleTalk and includes the following sections:
+- "Understanding General AppleTalk Concepts".
+This section discusses concepts you need to understand for all AppleTalk configurations.
+In addition to this information, you can find the concepts for specific configurations of AppleTalk explained with the configuration information.
+
+- "AppleTalk Configuration Decisions".
+This section lists the decisions you need to make before configuring AppleTalk.
+
+- "Configuring Basic AppleTalk Parameters".
+This section describes how to configure parameters that are used for all AppleTalk configurations.
+
+- "Configuring AppleTalk as an End Node".
+This section describes how to configure AppleTalk to behave as an end node rather than a server.
+
+- "Configuring AppleTalk for LAN Connections".
+This section describes how to configure and bind AppleTalk to run over a LAN.
+
+- "Configuring AppleTalk to Use the IP Tunnel (AURP)".
+This section describes how to enable AppleTalk to use the IP tunnel to route AppleTalk packets through an IP internetwork.
+
+
+This chapter helps you configure advanced options for AppleTalk for the NetWare 4.1 software.
+During NetWare 4.1 basic protocol configuration, default protocol parameters were set, and the network protocols were bound to network interface boards.
+You can configure the options explained in this chapter if your needs extend beyond the basic configuration.
+
+Understanding General AppleTalk Concepts
+
+AppleTalk can be routed over a LAN by using the NetWare 4.1 software.
+You can configure AppleTalk to provide application support through the internal network or to a bound interface, and to tunnel AppleTalk through IP.
+This section discusses the following AppleTalk for NetWare concepts that impact AppleTalk configuration to run over a LAN:
+- "AppleTalk Addressing"
+- "Seeding"
+- "Internal Networks"
+- "Filtering"
+
+AppleTalk Addressing
+
+AppleTalk addressing consists of a network number and a node number.
+Each node acquires a unique 8-bit node number dynamically when it connects to the network.
+The node tries to use the same address when it connects to the network again.
+If the address is not available, then it tries other numbers until it finds a unique address.
+
+The network portion of the address, as well as the zone assignments, can be of two forms, depending on whether the network is an extended or a nonextended network.
+
+An AppleTalk zone is a logical grouping of devices that enables users to locate and access network services, such as printing.
+A zone name is a logical name associated with some or all the services on a network or set of networks.
+
+A nonextended network supports Phase 1 network addressing.
+On a phase 1 network, you assign a single network number and a single zone to each network.
+This limits the total number of nodes per network to 254.
+A Phase 1 network does not support extended Phase 2 addressing, and can only communicate with a Phase 2 network if the networks are connected by a router.
+
+An extended network supports Phase 2 network addressing.
+On a Phase 2 network, you assign a range of network numbers, rather than a single network number, to each network, and can assign up to 255 zone names.
+Each network number supports up to 253 nodes.
+This scheme increases the number of nodes per network to the size of the range by 253.
+
+On nonextended networks, each node acquires the assigned network number, and finds an unused node number on the network.
+On extended networks, each node acquires a startup network number by choosing a number from a reserved "startup range" (65,280 through 65,534), and then acquiring a node number that is unused on the network.
+With these startup numbers, the node can communicate with the router and acquire a valid network number from the configured range for the network.
+
+Seeding
+
+The network and zone configuration is propagated through seed routers .
+A seed router can teach other routers on a network about the network and zone configuration.
+A non-seed router (or learning router ) learns its configuration information from the seed router.
+
+For a nonextended network, the seed router is configured with the network number and zone name for the network.
+For an extended network, the seed router is configured with a network range and a zones list for the network.
+
+At least one router on the network must be a seed router.
+The seeding state is configured for each interface individually.
+
+Internal Networks
+
+An internal network is a virtual network contained within the AppleTalk module; it has no physical components, and it appears to the server as if it were just one of a number of networks to which the server is connected.
+The internal network supports two nodes, the AppleTalk stack (node 1 on the internal network), and the AppleTalk router (node 2 on the internal network). 
+
+Packets must be routed from an external network interface to the internal network.
+Because the internal network requires an address, it takes up a network number.
+If you configure AppleTalk without configuring an internal network, you must configure one of the bound interfaces to allow application support.
+
+You configure the internal network to enable AppleTalk application support.
+The internal network is an extended network, and it allows you to configure multiple zones.
+If you choose to configure only one zone for the internal network, you must advertise all of a server's print queues and other services in a single zone.
+With an internal network, you can advertise services on any internal network zone.
+You configure the internal network following the same rules as when you configure an external, physical network, with these conditions:
+- A range of one is required.
+- You cannot specify multiple zones for the internal network of a router that uses transition routing.
+- AFP file services are always advertised in the default zone.
+If you have many NetWare AppleTalk servers, the number of internal networks might create a large amount of periodic routing update traffic.
+
+
+The following are the advantages of using an internal network:
+- The internal network is of equal distance from every bound interface.
+This ensures the use of the most optimal route all the time.
+
+- If the hardware for a bound interface becomes nonoperational, the end stations on that network can still communicate with the applications if there is another path
+
+The following are the advantages of using a bound interface for application support instead of the internal network:
+- For every router, you do not need to maintain an extra network only for application support.
+- Packets received at the selected interface do not require the additional hop required to reach the internal network.
+
+Filtering
+
+AppleTalk provides two types of filtering: device hiding filtering and routing information filtering.
+
+Device hiding filters restrict service access by filtering out the packets that advertise services.
+Routing filters restrict the exchange of routing information between routers.
+Routing filters are of two types: route advertisement filters and route acceptance filters.
+
+AppleTalk routing information filters are applicable to zones and networks, but they cannot be used for specific nodes.
+
+Enable filtering support when you want to restrict the packets that a router sends and receives.
+If you enable this option, you must use FILTCFG to configure the filtering options.
+
+AppleTalk Configuration Decisions
+
+This section provides you with information to decide if a feature is useful in your environment and on how a feature should be configured to fit your needs.
+How you configure AppleTalk beyond the most basic configuration depends on the following decisions:
+- Whether to use the computer as a router or as an end node.
+The Packet Forwarding parameter controls AppleTalk routing.
+Enable this parameter if you want your computer to operate as an AppleTalk router; disable it if you want your computer to operate as an end node.
+Select an end node configuration if you are only using NetWare for AppleTalk to support applications, and you already have an AppleTalk router that provides connectivity to other networks.
+For more information, see "Configuring AppleTalk as an End Node." 
+
+- Whether your network supports Phase 1 or Phase 2 addressing.
+The Type of Packet Forwarding option you select depends on the type of AppleTalk addressing your network supports.
+The default is Phase 2.
+Select Transition (Phase 1 and Phase 2) if you need to connect to Phase 1 routers.
+For more information, see "AppleTalk Addressing."
+
+- Whether to use an internal network.
+The Internal Network, Network Number, and Network Zone List parameters let you configure an internal network to enable application support on the internal network.
+For more information, see "Internal Networks." 
+
+- Whether to filter routes or services.
+Enable Filtering Support if you want to control access to services on your network.
+This also reduces the bandwidth consumed by routing traffic.
+Once you enable the Filtering Support parameter, you must use the Filter Configuration utility (FILTCFG) to configure the filters.
+For more information, see "Filtering," and Chapter 5, "Configuring Filters." 
+
+- Whether you need AURP.
+AURP enables AppleTalk packets to be routed through an IP tunnel.
+Also, unlike RTMP, routing information is exchanged only when there is a change in network topologies.
+AURP is a more economical way to provide AppleTalk connectivity between two sites because less bandwidth is used to exchange routing information.
+To configure AURP, use the Tunnel AppleTalk Through IP (AURP) and AURP configuration parameters.
+For more information, see "Configuring AppleTalk to Use the IP Tunnel (AURP)."
+
+- Whether your router will be a seed router.
+A seed router propagates network and zone configuration information to other routers in the network.
+A non-seed router learns its configuration information from the seed router.
+At least one router on an AppleTalk network must be a seed router.
+The seeding state is configured for each interface individually.
+Not all seed routers learn the network number and zone name from active routers on the network.
+Therefore, if you need to reconfigure the addressing of the network, you only need to change the configuration on the seed router and restart all the routers, rather than reconfiguring all the routers.
+For more information, see "Seeding." 
+
+
+Configuring Basic AppleTalk Parameters
+
+The basic AppleTalk configuration parameters modify the default behavior of the protocol and how it is used for LAN connections.
+To access the basic AppleTalk configuration parameters, load INETCFG and select the following path:
+
+Parameter Path: Select Protocols xxx Select AppleTalk 
+
+The basic AppleTalk parameters are explained in Table 4-1.
+
+AppleTalk Configuration Parameters
+- AppleTalk Status.
+Enables the protocol.
+If this parameter is disabled, the configuration of the protocol is saved, but AppleTalk is not active.
+
+- Packet Forwarding.
+Forwards AppleTalk packets, operating the system as a router.
+When this parameter is disabled, the system behaves like an end node and does not forward AppleTalk packets from one network to another.
+
+- Type of Packet Forwarding.
+Specifies the type of routing.
+AppleTalk for NetWare is a Phase 2 router.
+Select Transition (Phase1 and Phase 2) if you need to connect to Phase 1 routers.
+A Phase 1 router cannot read Phase 2 packets.
+If you select Transition, each extended network number must be a range of on, and can have only one associated zone name.
+If you have to support Phase 1 AppleTalk routers, choose the Transition mode.
+Otherwise, leave the default, Phase 2, selected.
+For more information, see "AppleTalk Addressing."
+
+- DDP Checksum.
+Specifies whether to use DDP checksum to detect errors in packets for the router.
+Enabling checksum will affect routing performance.
+
+- Tunnel AppleTalk Through IP (AURP).
+Enables the use of AURP for an IP tunnel when you want to route packets through an IP internetwork.
+For more information, see "Configuring AppleTalk to Use the IP Tunnel (AURP)." 
+
+- AURP Configuration.
+Lets you configure AURP for the IP tunnel.
+
+- Filtering Support.
+Lets you enable filtering support when you want to restrict the packets that a router sends and receives.
+If you enable this option, you must use FILTCFG to configure the filtering options.
+You must enable Filtering for any AppleTalk filters configured using the FILTCFG utility to work.
+For more information, see "Filtering." 
+
+- Internal Network.
+Lets you enable application support on the internal network, such as AFP and ATPS, on the network interface.
+AppleTalk can operate with or without the internal network.
+When the internal network is disabled, you should select a network interface for AppleTalk to provide application support.
+For more information, see "Internal Networks." 
+
+- Network Number.
+Lets you assign a unique number to your internal network.
+
+- Network Zone(s) List.
+Lets you set up your internal network with up to 255 zone names.
+A router using transitional routing is allowed to use only one zone name.
+
+
+Configuring AppleTalk as an End Node
+
+NetWare 4.1 allows you to turn off, or disable, AppleTalk routing on a dedicated router or NetWare file server.
+This is especially useful when you have more than one AppleTalk router on your network and you want to make more computing resources available for NetWare file and print services.
+A NetWare system with AppleTalk routing disabled operates as an AppleTalk end node.
+
+An AppleTalk router allows end nodes on one AppleTalk network to communicate with end nodes on other AppleTalk networks.
+If you are only using NetWare for AppleTalk to support applications such as AFP and ATPS on a LAN, and you already have an AppleTalk router that provides connectivity to other networks, and end node configuration will have the following advantages:
+- An end node does not periodically broadcast routing table maintenance packets.
+More network bandwidth can be used for data rather than routing traffic.
+
+- An end node does not require any network number or zone configuration.
+- Features such as filtering, internal network support, and AURP are available only if NetWare for AppleTalk is configured as a router.
+
+How to Configure AppleTalk as an End Node
+
+To turn off AppleTalk
+
+Configuring Filters
+
+The Filter Configuration utility(FILTCFG) allows you to configure filters that selectively discard packets to be sent or received by a server or router.
+Filters let you control the service and route information that is accepted or advertised by a server or router.
+
+Filters can be useful when you want to limit specific kinds of traffic to certain parts of your network topology, or when you want to provide a certain level of security.
+
+This chapter describes the different types of filters and describes how to configure them.
+This chapter contains the following sections:
+- "Filtering Overview".
+This section describes the general concepts of filtering and the protocol suites and filter types that can be configured for each.
+
+- "AppleTalk Filtering".
+This section describes AppleTalk filtering, includes procedures for configuring AppleTalk filtering, and provides examples.
+
+- "IPX Filtering".
+This section describes IPX filtering, includes procedures for configuring IPX filtering, and provides examples.
+
+- "TCP/IP Filtering".
+This section describes TCP/IP filtering, includes procedures for configuring TCP/IP filtering, and provides examples.
+
+
+Filtering Overview
+
+The NetWare© 4.1 FILTCFG utility provides the following filter types, categorized according to the type of information being filtered:
+- Packet Forwarding Filters
+- Service Information Filters
+- Routing Information Filters
+
+Table 5-1 lists the protocol suites and the filter types that you can configure for each using FILTCFG.
+
+Table
+
+Filter Types and Protocol Suites
+
+Packet Forwarding Filters
+
+Packet forwarding filters limit access to specific services by preventing selected data packets from being forwarded by the server or router.
+These filters provide the highest level of security because they examine each data packet forwarded by the server or router.
+Packets are filtered based on the following: 
+- Source of the packet
+- Destination of the packet
+- Packet type
+
+Packet forwarding filters do not restrict service advertisement packets sent by servers.
+Hence, restricted users might see advertisements of services even when they cannot access the service.
+
+Although packet forwarding filters provide the highest level of security, they might affect the performance of the server or router because the filters are applied to each data packet received by the server or router.
+
+Packet forwarding filters are not applied to packets that originate from or are destined to a router.
+They are applied only to packets that are forwarded.
+This includes packets forwarded to the internal IPX network.
+
+Packet forwarding filters are available for IPX and TCP/IP protocols.
+
+Service Information Filters
+
+Service informationfilters restrict the advertisement or acceptance of specified services by filtering out information in the data packets that advertise the services destined for particular parts of the network.
+These filters increase security by limiting the visibility of selected services.
+However, service information filters provide a lower level of network security than packet forwarding filters because they look only at service information packets.
+They also reduce the network traffic caused by periodic service information messages sent by servers.
+
+Service information filters are available for IPX (as outgoing and incoming SAP filters) and AppleTalk (as device hiding filters).
+
+Routing Information Filters
+
+Routing information filters restrict the exchange of routing information between routers by limiting the routes added to the routing tables of specified routers.
+These filters increase network security by limiting the visibility of specified networks.
+However, like service information filters, routing information filters provide a low level of network security because they look only at routing information packets.
+They also reduce the network traffic caused by the periodic exchange of routing information messages between routers.
+
+Routing information filters are available for IPX, AppleTalk, and TCP/IP.
+
+There are two types of routing information filters:
+- Outgoing routing information filters limit the route advertisements sent out by a router to a specified set of routers.
+- Incoming routing information filters limit the acceptance of route advertisements received by the router from its neighboring routers.
+
+Outgoing Routing Information Filters
+
+Outgoing routing information filters limit routing information advertised by a router to its neighboring routers.
+When these filters are enabled on a router, only the allowed routes are advertised to each neighboring router.
+This hides specified routes from some routers and from certain parts of the network.
+
+A typical outgoing routing information filter consists of the route to the destination network, and the interface through which filtered advertisements of the route are sent.
+The filters affect all routers on the network to which this interface connects.
+
+Outgoing routing information filters may not affect whether the end stations that are on the same LAN segment as the filtering router can access the filtered routes.
+Because these filters only keep from advertising filtered routes to other routers, but do not affect the filtering router's routing table, the filtering router delivers all packets that it receives as destined for filtered routes.
+
+End stations at least one router away usually cannot access networks with routes that are filtered out.
+
+Figure 5-1 shows two networks; the route for one network has been filtered.
+
+Figure
+
+Outgoing RIP Filters
+
+The route to Network 1 is filtered out in Router R1's advertisement to Network 3.
+If End Station E2 sends a packet to Network 1, Router R2 will drop that packet because it does not have a route.
+If End Station E1 sends a packet to Network 1, Router R1 will forward it because it does have a route.
+End Station E1 can only send a packet to Network 1 if it has a route to that network.
+End station E2 can only "see" Networks 2, 3, and 4.
+End station E1 can see both Networks 1 and 2.
+
+For IPX, route information filters affect both clients and routes.
+A client will make a route request which passes through the same filters as for the routinely transmitted route information.
+However, if a client is locally attached to a router that is performing outbound route information filtering and the client is using software that can use static routing, the client can send packets to Network 1 through Router R1 because R1 knows about Network 1 in its routing tables.
+If only standard IPX route lookups are done (true for a majority of sites), a path is not possible to the filtered networks.
+
+Incoming Routing Information Filters
+
+Incoming routing information filters limit the routing information accepted by a router from its neighboring routers.
+
+When incoming routing information filters are enabled on a router, the router accepts only the allowed routes from each neighboring router, thereby hiding specified routes from some routers and from certain parts of the network.
+However, incoming routing information filters cannot be used to filter out directly connected networks.
+
+A typical incoming routing information filter consists of the destination network of the route and the interface through which advertisements of the route are expected to be received.
+
+Incoming routing information filters keep the filtering router from adding certain routes to its routing table when it receives the information from its neighbors.
+The filtering router cannot forward a packet to a filtered route even if it receives a packet destined for it.
+In this way, incoming routing information filters provide a higher level of security than outgoing routing information filters.
+
+Running FILTCFG
+
+Filtering support must be enabled for each protocol that needs filtering in the Internetworking Configuration utility (INETCFG) for filtering to work.
+
+To set up and modify filtering, complete the following steps:
+
+Load FILTCFG by typing the following command at the server prompt:
+
+LOAD FILTCFG
+
+The Protocol Filters menu appears.
+
+Select the protocol for which you want to configure filters.
+
+Select to define the filter.
+
+The main menu for the protocol you selected appears.
+
+Select the option you want.
+
+The corresponding option menu appears.
+
+- Status: Select Enabled or Disabled to specify the status of the selected filters.
+Disabling a filter category means that the protocol will operate as if the filter module is not loaded for that filter category, and no filtering will occur.
+You can configure filtering when it is disabled, but your changes will have no effect.
+
+- Action: Toggle the displayed choice to permit or deny the entries listed in the filter list.
+This specifies the action taken when a packet, route, or service matches an entry in the filter list.
+If the action is permitted, one of the following occurs:
+- Packets matching the entries in the Packet Forwarding List are allowed through.
+- Services/routes matching the entries in the Outgoing Service/Routing Information Filter Lists are advertised.
+- Services/routes matching the entries in the Incoming Service/Routing Information Filter Lists are not accepted.
+If a device or route is denied, the packets are discarded.
+
+- Filters:
+Press to display a list of filters that are accepted (permitted) or filtered (denied) on an interface.
+You can modify the list by pressing to add a new filter; or you can select a filter from the list and press to modify the filter, or to remove it.
+Refer to the corresponding section later in this chapter for the steps to define a filter if you are modifying or adding a filter.
+
+- Exceptions:
+Press to display a list of exceptions to which the above action -permit or deny- does not apply.
+These are the exceptions to the filter list.
+When filtering, the exception list is examined before the filter list.
+If there is a conflict between the two lists, the exception list is used.
+The action taken on the exception list is always opposite the action taken on the filter list.
+You can modify the list by pressing to add a new filter; or you can select a filter from the list and press to modify the filter, or to remove it.
+For example, you could use a filter to hide all Marketing file servers from Engineering, except the server named "MKTG-DEMO."
+
+
+
+
+Press to exit.
+
+AppleTalk Filtering
+
+AppleTalk supports the following types of filters:
+- AppleTalk Device Hiding Filters
+- AppleTalk Routing Information Filters
+
+AppleTalk Device Hiding Filters
+
+AppleTalk device hiding filters restrict the advertisement of services on a internetwork by filtering out packets that advertise those services.
+These filters prevent users from finding the network addresses of services, and provide a level of network security.
+
+In AppleTalk, theName Binding Protocol (NBP) lets users access services such as file servers and printers.
+Specifically, it allows a user or application to specify search parameters such as the network entity name and service type, and a zone in which the search should be done.
+The search is represented in an NBP lookup request sent to the appropriate zone where the service might be.
+Services matching the search parameters reply directly to the requesting user or application with the AppleTalk address of the service.
+Once the user or application has received the NBP reply, the user or application can communicate with the service using the AppleTalk address.
+
+When AppleTalk device hiding filters are enabled on a server or router, the server or router drops the NBP replies for specified services (that is, it does not deliver the replies to the client machine or application that requested them).
+Thus, the services are hidden from that part of the network.
+
+A common use of NBP is the Macintosh* Chooser application.
+The user or application issues an NBP lookup, specifying a zone and service type of interest.
+The lookup is sent to the appropriate zone.
+All devices or services of the specified type in the zone respond with an NBP reply.
+The Chooser displays the list of available devices, depending on the NBP replies it receives.
+Using the AppleTalk address supplied in each NBP reply, the user or application can then communicate with the device or service.
+
+If filtering for that device or service location is enabled, the router drops the NBP reply to keep a user or application from getting the network address of these services.
+Without the NBP reply, the application cannot know about the existence of the device.
+
+Device hiding filters provide a low-level of security, but they do have limitations.
+Because filtering is enabled on a router, if the client machine requesting the address is on the same network as the service, the NBP reply goes directly to the client and the router has no opportunity to filter it out.
+Additionally, if a client machine knows the address of a specific service, it does not need the NBP reply to access the service.
+
+You can configure AURP routers to filter service information traveling through an IP tunnel.
+If a filter is enabled on the tunnel, all networks accessible through the tunnel are affected by service information filters configured for the AURP router.
+Refer to Chapter 4, "Configuring AppleTalk," for more information about configuring AURP.
+
+How to Configure AppleTalk Device Hiding Filtering
+
+Filtering support must be enabled for AppleTalk in INETCFG for filtering to work.
+
+To configure AppleTalk device hiding filtering, load FILTCFG and select the following path:
+
+Parameter Path: Select AppleTalk xxx Select Device Hiding Filters (Device Hiding Filters menu appears)
+
+Complete the following steps:
+
+Select Action and toggle the choice to show or hide the devices listed in the filter list.
+
+This specifies the action taken when an NBP reply packet matches a filter in the filter list.
+If you specify to show the devices, the AppleTalk router will forward only the NBP replies that match the description of any filter in the filter list and will discard all other AppleTalk device replies.
+If you specify to hide the devices, the AppleTalk router will discard all NBP replies that match the description of any filters in the filter list, and will forward all others.
+
+Select Filters to display a list of device filters.
+
+Displays the list of filters that either hide or show devices, depending on the setting of the Action parameter.
+The name, type, device location, and user location are listed for each device filter.
+
+Modify the filter list.
+
+Press to add a new filter; or select a filter from the list and press to modify the filter, or to remove it.
+If you are modifying or adding a filter, perform the following substeps at the Define Filter menu:
+
+Select Device Name and enter an NBP name of up to 32 characters.
+
+Keep the default (the = sign) to select all NBP names.
+An AppleTalk device advertises itself on the network based on the Device Name and Device Type values.
+
+Select Device Type.
+
+Press to select from the list of defined AppleTalk NBP device types, or press to add a new NBP type with the following information:
+- Device Type: Enter a text string of up to 32 characters.
+
+
+Using Internetworking Utilities
+
+This chapter includes descriptions of the NetWare© 4.1 internetworking utilities, which consist of console commands and NetWare Loadable Module (NLM TM) files.
+It gives general information about these utilities and what you can do with them.
+Console commands and NLM files can be used at either the server console or through RCONSOLE, XCONSOLE, or ACONSOLE from a remote workstation.
+These utilities and consoles enable you to monitor and troubleshoot problems on your network, configure SNMP information, and configure remote access for your node.
+This chapter describes how to use the utilities and consoles to monitor and troubleshoot problems on your network.
+The utilities and consoles let you perform the following tasks:
+- View statistical information for the protocol stack
+- View runtime configuration information for the protocol stack
+- View the network interface attachments for each protocol
+- Verify connectivity to a particular device
+- Provide access to remote hosts through SNMP
+- Provide remote access to the current node
+
+This chapter contains the following sections:
+- "Using Monitoring Utilities".
+This section describes the utilities you can use to monitor the behavior of specific protocols.
+
+- "Using Management Utilities".
+This section describes the utilities you can use to configure, manage, and optimize the server and its connections.
+
+- "Using Command-Line Utilities".
+This section describes the command line utilities available to complement the existing monitoring and management utilities.
+
+
+Using Monitoring Utilities
+
+The NetWare 4.1 protocol software includes utilities to help you monitor the performance and behavior of a local or remote server and network protocols.
+This section discusses the following topics:
+- "Selecting a Server or Router to Monitor"
+- "Using the IPX Console"
+- "Using the AppleTalk Console"
+- "Using the TCP/IP Console"
+- "Using the NetWare MONITOR Utility"
+
+Selecting a Server or Router to Monitor
+
+IPXCON and TCPCON give you management access to remote servers or dedicated routers on the network.
+IPXCON gives you access only to servers or routers that are running NetWare 4.1 IPX software.
+In this section, the term local system refers to the server or router from which you load the console utility; remote system refers to any other server or router on the network.
+
+Accessing the Local System
+
+To gain IPX, TCP/IP, or AppleTalk management access to the local system, load IPXCON TCPCON or ATCON, respectively.
+
+The consoles access the local system by default.
+
+Accessing a Remote System
+
+To gain management access to a remote server or router, go to a local server or router, load the appropriate console, and select the following path:
+
+Parameter Path: Select SNMP Access Configuration (SNMP Access Configuration window appears) xxx Select Transport Protocol (Transport Protocol window appears) xxx Select TCP/IP or IPX (SNMP Access Configuration window reappears) xxx Select Host Address xxx Press Ins to see a list of available host names and addresses.
+
+Scroll through the list to find and select the system.
+In a few moments, the console begins recording statistics for the system you selected.
+
+Using the IPX Console
+
+The IPX Console (IPXCON) is a diagnostic console utility that provides access to statistics and information about the status of various components of the IPX protocol.
+IPXCON uses SNMP to access this information from any local or remote system on the network.
+IPXCON operates over both IPX and TCP/IP networks and uses UDP to run over either IPX or TCP/IP networks.
+
+This section describes the interface for IPXCON.
+You can use IPXCON to perform the following tasks:
+- Monitor and troubleshoot IPX routers and network segments throughout your IPX internetwork.
+- Display the status of any IPX router or network segment on your internetwork
+- Display all paths through which IPX packets can flow
+- Locate all active IPX routers on your internetwork
+- Display operational circuits for IPX
+- Monitor remote routers running NetWare IPX Router software
+
+Generally, the local NetWare IPX node is the target of IPXCON.
+However, you can access any other IPX router node that supports SNMP by changing the host address.
+This includes IPX protocol stacks provided by other vendors.
+
+To start IPXCON, enter the following command at the server prompt:
+
+LOAD IPXCON 
+
+If you want to start IPXCON automatically each time you start the server, add the LOAD IPXCON command after the INITSYS.NCF line in your AUTOEXEC.NCF file.
+
+The system displays the IPXCON main menu screen shown in Figure 6-1.
+
+Figure
+
+IPXCON Main Screen
+
+The top of the screen displays the name of the router being monitored and a summary of routing statistics for the selected router.
+The center of the screen displays the Available Options menu that allows access to additional features of IPXCON.
+
+Table 6-1 explains the fields in the summary display at the top of the screen.
+Because IPXCON is a real-time monitor, these fields are always active and some of the values in the fields change as IPX packets are processed.
+
+IPXCON Routing Statistics Summary Fields
+- Field
+- Explanation
+- SNMP Transport Address
+- Name of the router being monitored or the transport address if no name can be determined.
+- Packets Received
+- Number of IPX packets received by the selected router.
+- Packets Sent
+- Number of IPX packets sent by the selected router.
+- Packets Forwarded
+- Number of IPX packets forwarded by the selected router.
+- Circuits
+- Number of circuits currently in use on the router.
+A circuit is a logical attachment to a network segment through which a router can reach other systems.
+A circuit can be a local or wide area connection.
+
+- Networks
+- Number of networks currently reachable from the selected router.
+- Services
+- Number of services currently reachable from the selected router.
+
+The Available Options menu allows access to additional features of IPXCON.
+These features are described in Table 6-2.
+
+IPXCON Available Options Menu
+- Option
+- Explanation
+- SNMP Access Configuration
+- Lets you select the router you want to monitor.
+You can monitor the local system, which is the default, or a remote system.
+You can monitor the remote system via IPX or TCP/IP.
+You can also set the poll interval to specify how often the information will be retrieved through SNMP.
+
+- IPX Information
+- Displays statistics for the selected router's IPX packet routing.
+To display additional packet routing statistics, select Detailed IPX Information from the bottom of the IPX Information window.
+
+- IPX Router Information
+- Displays general information about the selected IPX router, including information about the operation of NLSP, RIP, and SAP.
+- NLSP Information
+- System information
+- Area addresses
+- Neighbors
+- Routers
+- LANs
+
+- Circuits
+- Displays circuit information.
+- Forwarding
+- Displays all destinations networks known to this router.
+- Services
+- Displays information for services available to this router.
+
+Using the AppleTalk Console
+
+The AppleTalk Console (ATCON) is a diagnostic console utility that provides access to statistics and information about the status of various components of the AppleTalk protocol.
+ATCON uses SNMP to access this information from the local system.
+
+This section describes the interface for ATCON.
+You can use ATCON to perform the following tasks:
+- Monitor activity in the AppleTalk portions of your network
+- Diagnose operational problems in network segments that support AppleTalk
+- Verify the configuration of the local AppleTalk router
+- Verify the connectivity of an AppleTalk router to the rest of the AppleTalk internetwork
+- Monitor the status of AppleTalk Update-based Routing Protocol (AURP)
+
+To start ATCON, enter the following command at the server prompt:
+
+LOAD ATCON 
+
+The system displays the ATCON main menu screen shown in Figure 6-2 .
+
+Figure
+
+ATCON Available Actions Menu
+
+The Available Actions menu allows access to the features of ATCON.
+These features are described in Table 6-3.
+
+ATCON Available Actions Menu
+- AURP Information.
+Displays the current status of each one-way connection to each AURP peer router.
+This option is available only if AURP is enabled.
+
+- Interfaces.
+Displays configuration status information about the interfaces directly connected to the AppleTalk router.
+
+- Log Files.
+Sets logging levels for AppleTalk messages.
+Also displays system log and Volume log files.
+
+- Lookup Network.
+- Entities.
+Lets you query for services available on the AppleTalk network and send echo packets to services found.
+
+- Packet Statistics.
+Displays a variety of statistics maintained by the AppleTalk router.
+
+- Protocol Configuration.
+Displays the current configuration of the AppleTalk protocol stack and router.
+
+- Routing Table.
+Displays the AppleTalk Routing table.
+This table lists all the destinations that can be reached by the AppleTalk router.
+
+- Zones List.
+Displays the list of zones known to this AppleTalk router.
+This list of zones should look exactly the same as the one displayed on the Macintosh Chooser.
+
+
+Using the TCP/IP Console
+
+The TCP/IP Console (TCPCON) is a diagnostic console utility that provides access to statistics and information about the status of various components of the TCP/IP protocol.
+TCPCON uses SNMP to access this information from any local or remote system on the network.
+
+This section describes the interface for TCPCON.
+You can use TCPCON to perform the following tasks:
+- Monitor activity in the TCP/IP network segments of your internetwork
+- Display configuration and statistics information about the following TCP/IP protocols ---IP, ICMP, UDP, TCP, OSPF, and EGP
+- Display the IP routes currently known to a TCP/IP node
+- Display the network interfaces supported by a TCP/IP node
+- Access the trap log maintained by SNMPLOG (for local systems only)
+- Use SNMP over TCP/IP or IPX to access TCP/IP information in any remote protocol stack supporting the TCP/IP Management Information Base (MIB)
+
+Generally, the local NetWare TCP/IP node is the target of TCPCON.
+However, you can access any other TCP/IP node that supports SNMP by changing the host address.
+This includes TCP/IP protocol stacks provided by other vendors.
+
+To start TCPCON, enter the following command at the system prompt:
+
+LOAD TCPCON 
+
+The system displays the TCPCON Available Options menu shown in Figure 6-3 .
+
+Figure
+
+TCPCON Available Options Menu
+
+The top of the screen displays the name of the router being monitored and a summary of statistics for the selected router.
+The center of the screen displays the Available Options menu that allows access to additional features of TCPCON.
+
+Table 6-4 explains the fields in the summary display at the top of the screen.
+
+TCPCON Summary Display Fields
+- Host.
+Symbolic hostname or IP address of the selected TCP/IP host (or server name if accessing a remote node using IPX) being queried.
+This is the host specified in the SNMP Access Configuration option in the Available Options menu.
+
+- Uptime.
+Amount of time that has elapsed since the selected host was last initialized.
+
+- System.
+Brief description of the selected host.
+
+- IP Received.
+Number of input IP datagrams received from all interfaces, including those received in error.
+
+- IP Sent.
+Number of datagrams sent to IP for transmission.
+This number does not include datagrams forwarded by this host.
+
+- IP Forwarded.
+Number of IP packets forwarded from one node to another.
+This field displays the value Disabled if this host is not configured to be an IP gateway.
+
+- TCP Received.
+Number of TCP segments received, including those received in error.
+
+- TCP Sent.
+Number of TCP segments sent, excluding those containing retransmitted data.
+
+- TCP Connections.
+Number of currently established TCP connections.
+
+
+The Available Options menu allows access to additional features of TCPCON.
+These features are described in Table
+
+Monitoring LAN Connections
+
+This chapter describes how to monitor LAN connections using the available NetWare 4.1 management consoles and utilities.
+This chapter contains the following sections:
+- "Verifying the Configuration".
+This section describes how to verify specific aspects of your router configuration, including hardware, binding, and protocol configuration.
+
+- "Monitoring Performance".
+This section describes performance monitoring techniques to help you identify potential problems or areas for optimization.
+
+- "Checking the Connection Between Servers".
+This section describes a variety of ways to check connectivity and the link's behavior for your router, including how to monitor and manage communications equipment.
+
+- "Monitoring IPX Information".
+This section describes how to monitor IPX information to help give you a clear view of what your IPX network is doing, and to help identify potential problems in the router.
+
+- "Monitoring TCP/IP Information".
+This section describes how to monitor TCP/IP information to help give you a clear view of what your TCP/IP network is doing, and to help identify potential problems in the router.
+
+- "Monitoring AppleTalk Information".
+This section describes how to monitor AppleTalk information to help give you a clear view of what your AppleTalk network is doing, and to help identify potential problems in the router.
+
+
+Verifying the Configuration
+
+Once you configure the NetWare 4.1 software, you should verify if everything is configured in the way you intended.
+You use the monitoring and management tools available to view if everything is working correctly according to your configuration.
+This section discusses the following topics:
+- "Viewing Binding Configuration for a LAN Interface".
+- "Viewing NetWare IPX Configuration Information".
+- "Viewing AppleTalk Configuration Information"
+- "Viewing TCP/IP Configuration Information"
+
+Viewing the Hardware Configuration of a LAN Interface
+
+To find out the hardware configuration information for a LAN interface, load MONITOR and select the following path:
+
+Parameter Path: Select LAN/WAN Information xxx Look at the interface for which you want to see information.
+
+You can see the following information:
+- Interface Name
+- Node Address
+- Port
+- Interrupt
+- Frame Type.
+If more than one framing type is used on an interface, MONITOR shows a separate entry for each framing type used on the same interface.
+You should view each entry for that interface to find out all the frame types.
+
+
+Viewing Binding Configuration for a LAN Interface
+
+You can find out which network protocols are bound to an interface, and which of them are currently operational, load MONITOR and select the following path:
+
+Parameter Path: Select LAN/WAN Information xxx Select the interface for which you want to see information.
+
+Look at Protocols to see the network protocols that are bound to that interface.
+
+If more than one framing type is used on an interface, MONITOR shows a separate entry for each framing type used on the same interface.
+You should view each entry for that interface to find all the protocols bound to the interface.
+
+Viewing NetWare IPX Configuration Information
+
+To find out how IPX is configured, load IPXCON, and select the following options:
+- IPX Router Information.
+To view whether RIP, SAP, and NLSP protocols are configured for this router.
+
+- NLSP Information.
+To view NLSP configuration for the system and the NLSP network.
+
+- Circuits.
+To view the IPX circuits configured for the router.
+
+
+Viewing AppleTalk Configuration Information
+
+To find out how AppleTalk is configured, load ATCON and select the following options:
+- Protocol Configuration.
+To view the current configuration for AppleTalk.
+
+- Zones List.
+To view the list of zones to which the router belongs.
+
+- Interfaces.
+To view the interfaces in the router to which AppleTalk is bound.
+
+
+Viewing TCP/IP Configuration Information
+
+To find out how TCP/IP is configured, load TCPCON, and select Protocol Information.
+You can then select to view configuration information and statistics for EGP, ICMP, IP, OSPF, TCP, and UDP.
+
+Monitoring Performance
+
+Monitoring the performance of the router and connections is an important management task.
+If the router or links are not performing efficiently, this could cause problems for users or could signal a larger problem in your network.
+This section discusses the following topics:
+- "Determining Processing Time and Memory Usage"
+- "Monitoring Overall Link Performance"
+
+Determining Processing Time and Memory Usage
+
+To determine the processing time and memory usage of a router, you use the MONITOR utility.
+When you load MONITOR, the screen shows two windows.
+The upper window displays information for the router, including utilization, and cache and packet buffer information.
+The lower window displays the Available Options menu.
+
+Monitoring Overall Link Performance
+
+You can monitor the performance of a particular interface by looking at the following fields in the MONITOR utility:
+- Send Line Utilization
+- Receive Line Utilization
+- Receive Overruns
+- Data Q Backup in 1/1000 second
+
+High values in these fields indicate that performance has degraded.
+In this case, consider a higher line speed.
+Note that some spikes are normal in all networks.
+
+Checking the Connection Between Servers
+
+You can check that the connection between servers is active by performing the following tasks:
+- Determine whether a link is active by using MONITOR.
+- Determine if a remote server or services are reachable by running an echo or ping test.
+- Monitor the Error Counters by using NetWare MONITOR and the consoles.
+
+This section discusses the following topics:
+- "Determining Whether a LAN Link is Active"
+- "Determining Whether a Remote IPX Server is Reachable"
+- "Determining Which IPX Services are Reachable"
+- "Determining Whether a Remote TCP/IP Server is Reachable"
+- "Determining Whether a Remote AppleTalk Server is Reachable"
+- "Determining Which AppleTalk Services are Reachable" 
+- "Monitoring Error Counters"
+
+Determining Whether a LAN Link is Active
+
+To determine if a link is active, load MONITOR and select the following path:
+
+Parameter Path: Select LAN/WAN Information (LAN/WAN Driver Information window appears) xxx Select the interface for which you want to see information
+
+Under Generic Statistics, look at the Total Packets Sent and Total Packets Received counters.
+The link is active if these counters are increasing.
+
+Determining Whether a Remote IPX Server is Reachable
+
+To determine if a remote server is reachable, you can run an IPX echo test.
+To run an echo test, load IPXPING and perform the following steps:
+
+Specify the target router address in the Network field.
+
+Specify the target router node number in the Node field.
+
+Specify the number of seconds between each transmission in the Seconds to pause between pings field.
+
+Press to begin transmitting.
+
+To run the IPX echo test from a NetWare server, the server must be running IPXRTR and the router must use the NetWare© 4.1 software.
+Otherwise, you can run the IPX echo test from another server using the NetWare© 4.1 software.
+
+Determining Which IPX Services are Reachable
+
+If you want to know whether a specific IPX service is available, you need to find out which IPX services are reachable.
+To determine the services available to a server, load IPXCON and select the following path:
+
+Parameter Path: Select Services (Known Services window appears) xxx Select the service you want to reach to get information about it xxx Press (Service Information window appears)
+
+If a service is visible, then it is reachable.
+If you want to see information about the service, the Service Information window displays Name, Type, Network Number, Node, Socket, and additional path information for NLSP systems by selecting Destination Information .
+
+Determining Whether a Remote TCP/IP Server is Reachable
+
+To determine if a remote server is reachable, you can run an echo test.
+To run an echo test, load PING and perform the following steps:
+
+Specify the target server address in the Host Name field.
+
+Specify the number of seconds between each transmission in the Seconds to pause between pings field.
+
+Specify the packet size to transmit in the IP packet size to send in bytes field.
+
+Press to begin transmitting.
+
+Determining Whether a Remote AppleTalk Server is Reachable
+
+To determine if a remote server is reachable, you can run an echo test.
+To run an echo test, load ATCON and perform the following steps:
+
+From the Available Actions menu, select Lookup Network Entities .
+
+In the Name field, type the name of the server you want to reach.
+
+In the Type field, enter the NBP type of the server you want to reach.
+
+Press to get a list of NBP types from which you can select.
+
+In the Zone field, enter the name of the zone in which the remote server resides.
+
+Select Perform Lookup and press.
+
+The Network Entities Found window appears.
+
+Select the server you want to reach.
+
+The Edit Echo Parameters and Execute Test window appears.
+
+Edit the echo parameters.
+
+- Mode.
+Choose Send Specified Number of Packets to send only the number of packets specified in the Number of Packets to Send field.
+Choose Send Continuously if you want to send packets until you decide to stop the echo test by pressing.
+
+- Number of Packets to Send.
+Determines the number of echo requests to send to the remote server.
+
+- Timeout.
+Determines the amount of time to wait for an echo reply from the remote server.
+If the reply returns before the timeout is over, the next echo request is sent.
+If the reply does not come back, an echo request is sent after the timeout is over.
+
+- Number of Data Bytes.
+Specifies the size of the echo request packet.
+
+
+
+Select Perform Echo and press.
+
+The Sending Echo Packets window appears.
+The window shows the progress of the echo test.
+
+Determining Which AppleTalk Services are Reachable
+
+If you want to know whether a specific AppleTalk service is available, you need to find out which AppleTalk services are reachable.
+To determine the services available to a router, load ATCON and perform a lookup for network entities.
+
+To perform a lookup, complete the following steps:
+
+From the Available Actions menu, select Lookup Network Entities.
+
+In the Name field, type the name of the service for which you are looking.
+
+You can leave the default (=) to find all types of services.
+
+In the Type field, enter the NBP type of the router you want to reach.
+
+Press to get a list of NBP types from which you can select.
+
+In the Zone field, enter the name of the zone in which the remote server resides.
+
+Select Perform Lookup and press.
+
+The Network Entities Found window appears.
+
+Monitoring Error Counters
+
+You monitor error counters to make sure they are not increasing rapidly.
+When an error counter is increasing, it indicates a problem.
+You can monitor error counters in one of the following ways:
+- By using NetWare MONITOR, to view counters such as Checksum Errors, Send and Receive Packet Errors, and interface-specific errors.
+To view these counters, load MONITOR and select the following path:
+Parameter Path: Select LAN/WAN Information (LAN/WAN Driver Information window appears) xxx Select the interface for which you want to see error counters
+
+- Too Many Hops
+- Header Errors
+- Unknown Sockets
+- Decompression Errors
+- Malformed Requests
+- Compression Errors
+
+- Open Socket Failures.
+To view these counters, load IPXCON and select the following path:
+Parameter Path: Select IPX Information xxx Select Detailed IPX Information 
+
+- IP Errors
+- IP address errors
+- Unknown protocol errors
+
+
+Configuring Communication Protocols on an SFT III Server
+
+This chapter describes how to use INETCFG to configure the AppleTalk, IP, and IPX communications protocols for a NetWare© SFT III server.
+To perform this configuration, INETCFG utility must be run in the MS Engine and the IO Engines of both the primary and secondary servers.
+
+The IO Engine of the primary server uses the communications protocols configured with INETCFG to perform all the network routing functions for its SFT III server.
+In addition, it routes packets over a separate virtual network that connects the IO Engines to the MS Engine.
+This virtual network is referred to as the "SFT III Network." The communications protocols of the IO Engine of the secondary server are configured so that it can perform network routing functions to the SFT III network if the IO Engine in the primary server fails.
+Figure 8-1 demonstrates the general routing configuration for SFT III servers.
+
+SFT III Server Routing Configuration
+
+The IO Engine in the secondary server only routes to the MS Engine until it becomes the primary server.
+At that time, the bind to the network takes effect and the secondary server routes on the main network.
+
+Although the communications protocol software that is installed on the SFT III server is identical to that of standard protocol software, the configuration can be somewhat different.
+This is because of the need to configure the communications protocol software in each of the engines of the SFT III server.
+Depending on the protocol being routed, there are different configuration parameters.
+
+This chapter contains the following sections:
+- "Creating an SFT III Network for AppleTalk".
+This section describes creating an SFT III network for the AppleTalk protocol.
+
+- "Creating an SFT III Network for IPX".
+This section describes creating an SFT III network for the IPX protocol.
+
+- "Creating an SFT III Network for IP".
+This section describes creating an SFT III network for the IP protocol.
+
+- "Configuring Communications Protocols on SFT III Server Engines".
+This section describes configuring the internal networks in each of the three protocols, and contains the procedures you use to do this.
+
+
+Creating an SFT III Network for AppleTalk
+
+Configuring AppleTalk in the MS Engine and IO Engines of an SFT III server requires that an SFT III virtual AppleTalk network be established.
+This means that AppleTalk in each of the three SFT III server engines must be connected to that SFT III virtual AppleTalk network and that a separate AppleTalk network number must be assigned to the virtual network, as shown in Figure 8-2 .
+AppleTalk in the IO Engines must be configured as routers, with packet forwarding On .
+AppleTalk in the MS Engine must be configured as an end system, with packet forwarding Off . 
+
+Figure
+
+SFT III Internal AppleTalk Network Configuration
+
+Also, the AppleTalk network that connects the IO Engines to the MS Engine must be assigned to one or more AppleTalk zones.
+The zone list can contain existing zones or unique zones that contain only the SFT III network.
+
+One consequence of this configuration is that a bind is generated in each of the engines to the SFT III virtual board.
+A line is generated in each of theNETINFO.CFG files to indicate this bind.
+In the MS Engine, the following command is created:
+
+BIND AppleTlk MSENGINE 
+
+In the IO Engine, the BIND command includes the AppleTalk network number.
+For example, if you configure an IO Engine of an SFT III server with the AppleTalk network number 1234, its BIND command appears as shown:
+
+BIND AppleTlk MSENGINE net=1234-1234 
+
+Creating an SFT III Network for IPX
+
+For the IPX protocol, there is no need to create an internal network because one already exists.
+Each NetWare server has its own internal IPX network.
+In an SFT III server, both MS Engines share one internal network and each of the IO Engines has its own internal IPX network.
+The IO Engine of the primary SFT III server is bound automatically to the internal IPX network of the MS Engine.
+For this reason, an additional internal network is not required to connect the two engines of the SFT III server.
+
+Creating an SFT III Network for IP
+
+Configuring IP routing in the MS Engine and IO Engines of an SFT III server requires that an SFT III network be established.
+This virtual network connects the MS Engine to the IO Engines.
+This means that a separate subnetwork must be created with two separate host addresses, as shown in Figure 8-3 .
+
+Figure
+
+SFT III Internal IP Network Configuration
+
+Because the MS Engines are mirrored, they can share the same host address.
+Similarly, it is best to configure each IO Engine with the same host address.
+This can be done without causing a conflict, because only one of the IO Engines operates on the SFT III virtual network at any one time.
+
+This subnetwork is like any other subnetwork on your IP network.
+It must be assigned an IP address from the IP network addresses assigned to you.
+
+One consequence of this configuration is that a bind is generated in each of the engines to a virtual board.
+A line is generated in each of the NETINFO.CFG files to indicate this bind.
+For example, if you configure a server engine's SFT III network host address to be 144.1.1.2 and its mask with the value FF.FF.0.0, its BIND command appears as shown:
+
+BIND IP MSENGINE Address=144.1.1.2 Mask=FF.FF.0.0
+
+Configuring Communications Protocols on SFT III Server Engines
+
+Configuring the communications protocols on SFT III servers involves running INETCFG to set individual protocol parameters.
+If the allocation of memory between the MS Engine and the IO Engine is not set to an adequate value, INETCFG does not run. 
+
+If your SFT III servers have 16 MB of memory or less, there is not enough memory allocated to the IO Engine to run INETCFG.
+
+To set the memory allocation between the IO Engine and MS Engine to a level adequate to run INETCFG, insert the following commands into the IOSTART.NCF file:
+
+SET NEW START ADDRESS FOR UNCLAIMED MEMORY BLOCK=8000000 SET MAXIMUM PHYSICAL RECEIVE PACKET SIZE=1518 
+
+In the IO Engine, 1518 is adequate for Ethernet; 4202 is better for token ring.
+
+You must then bring down the server and restart it for the changes to memory allocation to take effect.
+
+Once you have adequate memory allocation between the MS Engine and IO Engine, you can run INETCFG as described.
+
+The communications protocol parameters are then configured separately in each of the following SFT III server engines:
+- The MS Engine
+- The IO Engine of the primary server
+- The IO Engine of the secondary server
+
+Depending on the engine being configured, many of the same parameters required for normal configuration are required along with a set of parameters specific to SFT III.
+This chapter describes the procedures for configuring the parameters that are specific to SFT III servers.
+The common parameters differ, depending on the protocol and are described in detail in the protocol references listed in Table 8-1 .
+
+Protocol References
+- AppleTalk
+- NetWare 4.1 AppleTalk* Reference
+- IP
+- NetWare 4.1 TCP/IP Reference
+- IPX
+- NetWare 4.1 IPX Reference
+
+To support file access, the secondary IO Engine requires an IPX connection to the primary IO Engine.
+If this connection fails, the IO Engine's inability to support file access might result in either of the following error messages:
+
+CONLOG-1.02-7: Cannot open SYS:ETC\IO2\CONSOLE.LOG
+
+INETCFG-3.10-49: Unable to determine valid configuration directory for this IO Engine.
+The directory should be either SYS:ETC\IO1 or SYS:ETC\IO2 and should be specified on the snmp load line (ex: load snmp config=SYS:ETC\IO2).
+Program execution cannot continue normally.
+
+If either of these messages appears, make sure that the IPX connection between the IO Engines is working and that Directory Services is functioning normally.
+
+Configuring AppleTalk Parameters for the MS Engine
+
+To configure the AppleTalk protocol parameters for the MS Engine, complete the following steps:
+
+If INETCFGis not already running, type the following command at the server prompt: LOAD INETCFG 
+
+The Internetworking Configuration menu appears.
+
+Select Protocols from the Internetworking Configuration menu.
+
+The Protocols Supported window appears.
+
+Select AppleTalk from the Protocols Supported menu.
+
+The AppleTalk Protocol Configuration window appears.
+
+Configure the SFT III-specific parameter described in Table 8-2 .
+
+AppleTalk Protocol Parameters for SFT III MS Engine
+
+Packet Forwarding.
+Because the MS Engine is connected only to the IO Engine of its server, it is always configured as an end node.
+
+Disabled ("end node") is the only allowed setting.
+
+Configure the other parameters as described in the NetWare 4.1 AppleTalk* Reference .
+
+Press until the Internetworking Configuration menu appears.
+
+Configuring IPX Parameters for the MS Engine
+
+To configure the IPX protocol parameters in the MS Engine, complete the following steps:
+
+If INETCFG is not already running, type the following command at the server prompt:LOAD INETCFG
+
+The Internetworking Configuration menu appears.
+
+Select Protocols from the Internetworking Configuration menu.
+
+The Protocols Supported window appears.
+
+Select IPX from the Protocols Supported menu.
+
+The IPX Protocol Configuration window appears.
+
+Configure the parameters described in Table 8-3 .
+
+IPX Protocol Parameters for SFT III MS Engine
+- NetWare Operating Systems IPX.
+Enables or disables the IPX implementation of the core NetWare Operating System.
+Novell recommends that this setting be kept enabled to ensure superior performance.
+Selecting Disabled for this parameter enables the router IPX implementation and allows the setting of several other routing parameters for routing customization.
+
+- Options: Enabled, Disabled
+- Default: Enabled
+
+If you selected Disabled in the Step 4 , configure the other parameters as described in the NetWare 4.1 IPX Reference .
+
+Press until the Internetworking Configuration menu appears.
+
+Configuring IP Parameters for the MS Engine
+
+To configure the IP protocol parameters in the MS Engine of the primary server, complete the following steps:
+
+If INETCFG is notalready running, type the following command at the server prompt: LOAD INETCFG
+
+The Internetworking Configuration menu appears.
+
+Select Protocols from the Internetworking Configuration menu.
+
+The Protocols Supported window appears.
+
+Select TCP/IP from the Protocols Supported menu.
+
+The TCP/IP Protocol Configuration window appears.
+
+Configure the parameters described in Table 8-4 
+
+IP Protocol Parameters for SFT III MS Engine
+
+ParameterTroubleshooting Overview
+
+This chapter contains general troubleshooting information for NetWare©
+
+4.1 internetworking.
+Before you proceed to the protocol-specific troubleshooting information in subsequent chapters, read the general suggestions and troubleshooting tips described in the first two sections of this chapter.
+The troubleshooting tips section will help you to identify any problems resulting from product limitations.
+
+Before CallingTechnical Support
+
+Before you call technical support, complete the following steps:
+- Check the NetWire© section of CompuServe* for the latest patches, drivers, and application notes for the NetWare 4.1 series of products.
+These continually updated files are located in either Novlib section 1, 8, or 9.
+
+- Read the README files and Release Notes for information about known product limitations and bugs.
+The README files can be viewed from the SETUP menu of the installation (they can also be printed from the INSTALL diskette).
+
+- Make hard copies of these configuration/log files:
+STARTUP.NCF
+AUTOEXEC.NCF
+SYS:ETC\CONSOLE.LOG
+SYS:ETC\NETINFO.CFG (DO NOT EDIT THIS FILE!)
+SYS:SYSTEM\INSTALL.LOG
+Examining these files should help you spot a network configuration error.
+Also, if you later need to call technical support, having these files printed, as well as having a network map or drawing, helps the technical support staff examine the entire configuration and the surrounding environment (most of the calls technical support receives are about configuration issues involving more than just the servers).
+
+- Log in to the router from a workstation using RCONSOLE.
+Refer to the NetWare documentation for more information about RCONSOLE.
+
+- Type CONFIG , then press at the console prompt.
+- Redirect the output to a printer by pressing + .
+
+
+Troubleshooting Tips
+
+You should check the following general areas to ensure that they are not the source of the problem.
+
+Interface Boards
+
+The following items concern problems with interface boards: 
+- Use boards that are certified by the Novell© Labs group.
+- If you are using IBM* token ring boards, a shared RAM size of 16 KB is recommended.
+- In most cases, the LAN boards can be installed with the Video Memory Addressing set to the factory default settings.
+However, the default settings for some boards might conflict with already installed VGA/EGA boards.
+To eliminate the conflict, either the VGA/EGA board or the network interface board must be reconfigured.
+
+- You cannot route the IPX software on two different interface boards that are attached to the same routed IPX network.
+In the case of token ring networks, source route bridging can be used (instead of routing) to connect two or more IPX networks.
+
+- If you are routing on an Ethernet board, set the maximum physical receive packet size to at least 1524 in the STARTUP.NCF file.
+If you are routing on a token ring board, set the value to at least 4510.
+
+- Before you install a LAN board, make sure that you check all the available interrupts, I/O base address, and memory map address for all boards.
+To avoid conflicts with board parameter settings, verify that the same values are not being used by multiple boards.
+For reference, the values typically used by a PC are listed below: 
+- COM1 uses IRQ-4, port=3F8-3FF
+- COM2 uses IRQ-3, port=2F8-2FF
+- LPT1 uses IRQ-7, port=378-37F
+- LPT2 uses IRQ-5, port=278- 27F
+
+- Refer to the hardware manual for each device to determine valid settings for IRQ, I/O base, and memory locations.
+As you configure the links, record this information on a worksheet to avoid any conflicts.
+
+- When a command is issued to unload a board driver, all instances of that driver are unloaded.
+For example, if two Synchronous/+ boards are loaded, an UNLOAD SYNCLPUS command unloads both boards, and all calls on these boards are terminated.
+
+
+Installation
+
+The following items concern problems with product installation:
+- For new installations of the NetWare 4.1 product, Novell highly recommends that you choose to convert the commands in your AUTOEXEC.NCF file to INETCFG commands automatically when you are prompted to do so within INETCFG.
+However, if you choose to convert the AUTOEXEC.NCF file commands manually, all LOAD commands for LAN drivers and all BIND commands must be commented out within (or removed from) the AUTOEXEC.NCF file.
+Table 9-1 shows the protocol LOAD and BIND commands that must be commented out of the file.
+- LOAD and BIND Command Removal
+- Protocol
+- LOAD/BIND Commands to Comment Out
+- IPX
+- IPX (BIND commands only)
+- AppleTalk
+- APPLETLK
+- ATLKSNMP
+- TCP/IP
+- TCPIP
+- TCONFIG
+- IPCONFIG
+- Other
+- ROUTE (LOAD commands only)
+
+- NFS*
+- AFP*
+- ATPS
+
+- If you plan to use the NetWare 4.1 software in combination with another Novell product, see the README file of that product for any special installation instructions required for your version of the product.
+The order of installation is especially important if you are using NetWare for Macintosh,NetWare for SAA*, or NetWare for NFS with the NetWare 4.1 software.
+
+
+Remote Access and Control
+
+You can configure your server to restart automatically by creating a .NCF file (located in SYS: SYSTEM) that contains these commands:
+
+REMOVE DOS DOWN EXIT 
+
+The .NCF file is created with any text editor, and can be created remotely using RCONSOLE.
+To restart the server, use RCONSOLE to attach to that server and run the appropriate .NCF file.
+Make sure that you have the SERVER command in the AUTOEXEC.BAT file of the server.
+
+Configuration
+
+The following items concern problems with product configuration: 
+- Obtain the latest .LAN files and .LDI files from NetWire or your network interface board vendor.
+- Always use INETCFG to configure the NetWare 4.1 internetworking product.
+- INETCFG provides a series of easy-to-use menus for configuration.
+INETCFG automates the LOAD and BIND commands used with NetWare 3.12, NetWare 4.1, and earlier servers.
+INETCFG also allows you to view and, in some cases, edit (for troubleshooting purposes) the configuration information file (NETINFO.CFG), the AUTOEXEC.NCF file, and the messages generated during a system restart.
+Finally, INETCFG provides several layers of context-sensitive help to make the configuration process quicker and easier.
+
+- Do not modify theNETINFO.CFG file found in the SYS:ETC subdirectory.
+- Your NETINFO.CFG file contains the LOAD and BIND commands you configured with INETCFG.
+If you use the INSTALL utility to create an AUTOEXEC.NCF file after using INETCFG, the LOAD and BIND commands in your system memory are written to your AUTOEXEC.NCF file.
+Novell does not recommend this procedure because it can create duplicate entries of the LOAD and BIND commands already in your NETINFO.CFG file.
+
+- If the NETINFO.CFG file is flagged READ ONLY, and if you change a field in INETCFG (for example, IPX Network Number under Bindings), INETCFG reflects the change but NETINFO.CFG does not.
+There can be no change to the NETINFO.CFG file because it is flagged READ ONLY.
+However, INETCFG gives you a warning when this occurs, reflecting the fact that the NETINFO.CFG file could not be changed.
+To save the change, flag INETINFO.CFG as READ/WRITE, return to INETCFG, and reenter the change.
+
+- Make sure you configure the proper frame types when binding IP, IPX, and AppleTalk to a LAN interface.
+Note that the default frame type for IPX has been changed to Ethernet_802.2.
+
+- Do not load and bind the bridge from the command line.
+
+Troubleshooting Tools
+
+Following are several utilities you can use to troubleshoot any problems you might have with your router.
+In addition to these general tools, there are also LAN protocol-specific utilities.
+See the "Troubleshooting Tools" section under each protocol later in this chapter for more information.
+
+CONLOG
+
+CONLOG is an NLM utility that logs console messages in an ASCII file called CONSOLE.LOG in the SYS:ETC subdirectory on the server on which CONLOG has been loaded.
+You can use the CONSOLE.LOG file to check that during startup of the server, all modules have been loaded without any errors.
+It can be viewed from INETCFG (parameter path: Select View Configuration xxx Select Console Messages ).
+
+MONITOR
+
+MONITOR is an NLM utility that allows you to monitor various system statistics, including the following:
+- Utilization and overall activity
+- Cache memory status
+- Connections and their status
+- LAN board drivers
+- Loaded modules
+- Memory usage
+
+In addition, under the LAN Information option of the main menu, you can find a list of all the configured network boards in the machine.
+If a board does not appear on that list, it indicates that it has not been initialized, probably because the settings for the board don't match the hardware settings or there is a conflict with other boards in the machine.
+Refer to the NetWare 4.1 System Messages manual for more details about MONITOR.
+
+Remote Access
+
+The following tools are useful for remote troubleshooting.
+
+RCONSOLE
+
+RCONSOLE allows access to a NetWare 4.1 console from an IPX workstation and turns the workstation into a virtual console.
+
+XCONSOLE
+
+XCONSOLE allows access to a NetWare 4.1 console from an IP workstation (for example, a LAN WorkPlace© for DOS workstation) and turns the workstation into a virtual console.
+
+SNMPLOG
+
+When loaded, SNMPLOG is an NLM utility that creates SNMP log files for trap capture.
+These log files can be viewed under the Trap Log option in the protocol console utilities (such as ATCON,IPXCON, andTCPCON).
+
+NMS
+
+NetWare Management System (NMS ) software provides a Microsoft* Windows-based SNMP management station.
+Its Management Information Base (MIB) Browser allows remote access of the NetWare Link/Frame Relay MIB, as well as other NetWare 4.1 MIBs.
+
+Troubleshooting Network-Layer Protocols
+
+This chapter contains troubleshooting information organized by Network-layer protocol.
+Each protocol-specific section contains information about troubleshooting tools, troubleshooting checkpoints, and common problems.
+Some sections also have information about troubleshooting tips.
+
+Troubleshooting AppleTalk
+
+This section contains AppleTalk troubleshooting information that is divided into four categories:
+- Troubleshooting Tools
+- Troubleshooting Tips
+- Troubleshooting Checkpoints
+- Common Problems
+
+If the problem is general in nature, perform the procedure described under "Troubleshooting Checkpoints" to isolate and resolve the problem.
+When a problem with a specific symptom occurs, refer to the information listed under "Common Problems."
+
+Troubleshooting Tools
+
+ATCON is an NLM console utility for diagnosing AppleTalk network conditions and verifying connectivity.
+ATCON provides information about the server's AppleTalk stack and any attached AppleTalk networks.
+Enter LOAD ATCON at the system console prompt.
+
+You can select View RTMP Table to display the RTMP responses the router has received from the AppleTalk network.
+You can also use the Lookup and Echo Services option to verify AppleTalk device connectivity.
+
+Troubleshooting Tips
+
+This section lists recommendations for configuring AppleTalk: 
+- Increase the Routing Update Timer period in INETCFG from the default of 10 seconds to anywhere between 60 and 300 seconds when using links below 19.2 Kbps (parameter path: Select Bindings xxx Select a specific binding).
+This maximizes data throughput by minimizing the routing information packets sent through the link.
+By maximizing the Router Update Timer period, you adversely affect the amount of time a network takes to converge after a change of topology.
+
+- If an internal network is configured on a NetWare for AppleTalk server, the server's Name Binding Protocol (NBP) name resides on the default zone of the internal network.
+If the internal network is not configured, the NetWare for AppleTalk server name resides on the default zone of the selected LAN interface bound to AppleTalk.
+
+- When configuring the AppleTalk seed state in INETCFG (parameter path: Select Bindings xxx Select a specific binding xxx Select Network Range and Zone configuration), you must verify that there is at least one seed router on each AppleTalk network.
+If there are other seed routers directly connected to the same network, all the network numbers and zone names must be configured the same.
+
+
+Troubleshooting Checkpoints
+
+To isolate and resolve AppleTalk problems, complete the following steps:
+
+Use an Echo test to determine whether the router can communicate with a particular node on one of its networks.
+
+When you execute an Echo test, the router sends a specified number of packets across the network to a specified node; the node then returns the same number of packets.
+
+If the Number of Packets Received field does not increment, the specified node might be switched off, or a cable connection might have become loose.
+
+If an Echo test executes successfully, the number of packets received is equal, or nearly equal to the number of packets sent.
+
+If the communication is successful, AppleTalk is working on that interface, and the specified node is up and running.
+To execute an Echo test:
+
+Select Lookup Network Entities from the main menu of ATCON.
+
+Enter a zone name in the Name option.
+
+Select the Proceed option.
+
+Select an entity from the displayed list.
+
+Edit the following test parameters as required: Mode, Number of Packets to Send , Timeout , and Number of Data Bytes .
+
+Use an Echo test to determine whether the router can communicate with a node on a remote AppleTalk network.
+
+Use the same procedure described in Step 1 .
+
+If the test is successful, the router can reach another AppleTalk network and all AppleTalk routers in between are routing correctly.
+
+If the test is not successful, execute an echo test to the closest router on the path to the remote node.
+Continue echo testing each router along the path until you find the closest point at which the test fails.
+Perform correct action on the router that fails the echo test.
+
+Check the routing table in ATCON.
+
+The Routing Table option contains entries for all networks and zones to which the router can send packets.
+
+Check the Zones list in ATCON.
+
+The Zones List option displays a global list of all AppleTalk zones in the internetwork.
+This list should be identical to the zones list that appears in the Macintosh Chooser.
+
+Verify that AppleTalk is bound to the interface.
+
+Check the system log file using ATCON.
+
+Verify that the AppleTalk configuration options in INETCFG are set to the proper values.
+
+Check AppleTalk Packet Statistics using ATCON.
+
+Common Problems
+
+This section lists various symptoms of common problems and their potential solutions.
+The problems are categorized by the NLM files that produce them.
+
+MACIPXGW.NLM
+- MACIPXGW fails to load and the error messageFailed to find zone for gatewayis displayed.
+- Try to load MACIPXGW manually from the console.
+If it loads, MACIPXGW was loaded before the AppleTalk stack could resolve the default zone.
+Delay loading MACIPXGW in your AUTOEXEC.NCF file as long as possible.
+You should load and bind AppleTalk first, followed by other protocols, and finally MACIPXGW.
+
+- If MACIPXGW still fails to load when you load it manually, the AppleTalk stack might be homing on an external nonseed interface, and there is no router on the network to which the interface is attached.
+Reconfigure AppleTalk to be a seed router on that interface, or enable the AppleTalk internal network.
+
+- MACIPXGW fails to load because of an incorrect AppleTalk API version.
+You have incompatible APPLETLK.NLM and MACIPXGW.LAN files on your machine.
+Update both to the latest version.
+
+- The messageGateway name truncated to 32 charactersis displayed.
+The gateway name that you configured is more than 32 bytes long.
+This is not a fatal error, but you should change the gateway name to less than 32 bytes to avoid the warning message in the future.
+
+- There are too many IPX broadcast packets encapsulated in unicast AppleTalk packets on the wire and you want to reduce the traffic.
+Change the Unicast Threshold parameter for MACIPXGW to a smaller number to force the broadcast IPX packets to be encapsulated in AppleTalk broadcast packets.
+
+
+Zones and Zone Names
+- Reconfigured zones are still visible in the client's Chooser or in the router's zone tables.
+This problem results from the way in which AppleTalk maintains routing tables and zone information on the internetwork.
+Routers are not informed automatically about changes in zone configuration.
+
+- If this problem is occurring at your site and the reconfigured router is the only router directly connected to the network supporting new zones, bring down the router and let it stay off the network for at least 20 minutes (or until the changed routes are aged out from the internetwork).
+When you bring up the router again, the new zones will be in effect.
+
+- If more than one router is connected to the network supporting new zones, all of them must be reconfigured to support the same zones.
+Bring down all the routers, reconfigure the zones, and leave them down for at least 20 minutes (or until the changed routes are aged out from the internetwork).
+When you bring up the routers, the new zones will be in effect.
+
+- If the zones are supporting more than one network and you want to change the zones for all or some of those networks, you must bring down the routers connected to each of the network on which you want to change the zones.
+Reconfigure the zones and leave them down for at least 20 minutes (or until the changed routes are aged out from the internetwork).
+
+- Zone names do not match configured zone names.
+- If additional zone names show up in the Chooser or ATCON after you have brought up a router on an AppleTalk network, verify that you typed the same zone names in different configuration files using the same case.
+Zone names are case-sensitive and variations in case in the same words result in different zone names.
+
+- Verify that there are no trailing blanks in zone names.
+- A network number or network range has a different zone list on different routers after the zone list of the network was changed on the seed router.
+The seed router was brought before the network was aged out from all the routers.
+Bring down the seed router and the directly connected routers, and wait for the network to age out all the routers.
+Ten to 20 minutes is recommended, depending on the size of your AppleTalk internetwork.
+Allow one minute per hop.
+If the farthest router is 11 hops away from the seed router where you changed the network, you should wait at least 11 minutes before restarting the seed router and directly connected routers.
+
+
+Console Messages
+- The console displays messages about mismatched network numbers or mismatched zones.
+
+General Solutions
+- Verify that the network number or range is unique on the internetwork.
+- Verify that all routers on the cable agree about the network number or range.
+- Verify that the network's Zones list has the same names, and that all routers agree about that name.
+
+Solutions for Extended Networks
+- Verify that the extended network range of the router in Transition Mode has a network range of one (such as 21-21).
+- Verify that the extended network range is unique on the internetwork.
+- Verify that all routers on the cable agree about the network range.
+- Verify that all routers on the cable agree about the zone names.
+
+Binding Problems
+- AppleTalk does not successfully bind to a seed interface.
+Because the NetWare 4.1© AppleTalk software does soft seeding, AppleTalk verifies the configured seeding information with the current network configuration from the other routers on that network.
+If the seeding information is inconsistent with the current configuration of the network, it indicates that there is a misconfiguration, and AppleTalk does not allow the interface to come up.
+Check the interface's configuration to verify that the network number/range and zone names are configured exactly the same as all other seed routers connected to the same network.
+
+- AppleTalk fails to bind to an interface and the message Error binding APPLETALK to boardboard_nameis displayed.
+This occurs when the driver was not initialized fully when AppleTalk was bound to it the first time.
+This can happen when the LOAD drivercommand is right above the command for binding AppleTalk to the driver in a batch file such as AUTOEXEC.NCF.
+To fix this problem, use INETCFG to configure the board and AppleTalk, or manually move the LOAD driverline to above the LOAD APPLETLK line to give more time to the board to complete initialization.
+
+
+Printing and Services Problems
+- AppleTalk clients cannot see the services provided on the NetWare server from the Chooser, and the server does not respond to ARP requests.
+The LAN driver does not support multicast correctly.
+Use a different LAN driver.
+
+- AppleTalk clients cannot see the services provided on the NetWare server from the Chooser.
+Load ATCON from the NetWare server console, then select Protocol Configuration .
+If the status of the stack is Disabled and the AppleTalk router has no internal network configured, you might have forgotten to select a LAN interface to provide application support when you bound AppleTalk to the LAN interface. 
+
+- There are differences in the routing tables between routers.
+Routing tables between AppleTalk routers can be different.
+Check Static Routes for On-demand Calls in INETCFG (parameter path: Select Protocols ), routing filters among the routers, and the AURP peer list.
+
+
+Troubleshooting IP
+
+This section contains IP troubleshooting information that is divided into three categories:
+- Troubleshooting Tools
+- Troubleshooting Checkpoints
+- Common Problems
+
+If the problem is general in nature, perform the procedure described under "Troubleshooting Checkpoints" to isolate and resolve the problem.
+When a problem with a specific symptom occurs, refer to the information listed under "Common Problems."
+
+Troubleshooting Tools
+
+TCPCON is an NLM utility that provides access to statistics and information about the status of various components if the TCP/IP protocol suite.
+TCPCON uses SNMP to access this information from any local or remote system on the network.
+TCPCON operates over TCP/IP and IPX networks.
+Enter LOAD TCPCON at the system console prompt.
+To monitor a remote system, select the Change Host option and input the IP address of the remote host you want to test.
+If details from that remote host are displayed, the remote host is alive and functioning.
+You can use IPXCON to perform the following tasks:
+- Monitor activity in the TCP/IP network segments of your internetwork
+- Display configuration information and statistics about the following TCP/IP protocols ---IP, ICMP, UDP, TCP, OSPF, and EGP
+- Display the IP routes currently known to a TCP/IP node 
+- Display the network interfaces supported by a TCP/IP node 
+- Access the trap log maintained by SNMPLOG (for local systems only)
+- Access TCP/IP information in any remote protocol stack supporting the TCP/IP Management Information Base (MIB).
+TCPCON requires SNMP to be loaded on the remote host; otherwise, you receive an error message that the host is unavailable.
+Another cause of theHost unavailablemessage might be a routing error.
+You can check the routing table of the by accepting the default value of 127.0.0.1 in the Change Host option.
+Select Routing Table to view the routing information table that the NetWare 4.1 software has received from routing protocols (RIP and OSPF) or Static routes.
+Compare this to the address topology of the network.
+See the NetWare 4.1 TCP/IP Reference for more information.
+
+
+Troubleshooting Checkpoints
+
+To isolate and resolve TCP/IP problems, complete the following steps:
+
+Use TCPCON to verify that IP packets are being sent and received.
+
+Verify that IP Status is set to Packet Forwarding .
+
+Use PING or TPING to test connectivity.
+
+Verify that static routing is configured if other third-party routers that do not use RIP or OSPF are connected on the network.

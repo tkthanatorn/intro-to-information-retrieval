@@ -1,0 +1,457 @@
+
+Aerobic microbial growth on one-carbon substrates
+
+Definition, scope and rationale
+
+The definition of a one-carbon substrate may appear self-obvious. 
+However, in terms of metabolism it includes not only compounds containing only one carbon atom such as carbon dioxide, carbon monoxide, formate, methanol, methane and methylamine, but also compounds with more than one carbon atom, but which have no carbon-carbon bonds such as: xxx .
+
+In this chapter the energy-yielding pathways found in organisms capable of aerobic utilization of one-carbon substrates will initially be discussed followed by an examination of the biosynthetic routes whereby the substrates are converted to the three-carbon and four-carbon biosynthetic precursors required for growth. 
+A selective treatment is being adopted with a bias towards those micro-organisms, substrates and pathways that are of biotechnological interest.
+
+In particular, the utilization of methane, methanol and carbon monoxide is stressed, while utilization of carbon dioxide is given more selective coverage.
+
+This is not meant to imply that aerobic organisms capable of utilizing carbon dioxide as their growth substrates (autotrophs)are not important in biotechnology.
+Indeed plants, algae and cyanobacteria which utilize light energy to generate ATP and reducing power in order to fix carbon dioxide (photoautotrophs) already feature prominently in biotechnological developments. 
+
+However, the processes of photosynthetic electron transport and photophosphorylation and the subsequent pathway of autotrophic carbon dioxide fixation are well documented in standard biochemistry texts.
+Conversely the mechanisms of ATP generation in organisms capable of growing aerobically on methane and methanol ( methylotrophs ) and carbon monoxide ( carboxydotrophs ) are less well documented.
+Likewise pathways for conversion of one-carbon substrates, other than carbon dioxide, to the three-carbon and four-carbon precursors required for biosynthesis are rarely discussed in general texts. 
+
+There is, however, major interest in these organisms and their exploitation.
+For instance, methylotrophs are already being utilized in biomass production (for example, the growth of Methylophilus methylotrophus upon methanol in the, so-called, ICI Prutreen process for biomass production). 
+
+Additionally, enzymes which have been shown to play key roles in the oxidation of these substrates, especially methane mono-oxygenase, are being exploited in chemical conversions ( bioconversions ) and in biosensors .
+Interest is currently being demonstrated in carboxydotrophs with respect to their possible role in biofilters to remove unwanted carbon monoxide, in bifuel cells aimed at the conversion of chemical energy released during carbon monoxide oxidation to electricity, and in biosensors for detection and quantification of carbon monoxide in various environments including mines, underground car parks and tunnels.
+It is clearly important that a full knowledge of the biochemistry of all these organisms is available to underpin studies on their application in biotechnology. 
+
+The compounds
+
+Methane ( xxx ) is the most abundant organic one-carbon compound.
+It is generated in anaerobic environments such as bottom muds, paddy fields and the ruminant stomach as a result of the terminal stages in the anaerobic breakdown of organic substrates.
+The process of methane production by methanogenic bacteria , which is reviewed in the appendix to this chapter, plays a significant part in the carbon cycle with over 50% of the annual carbon imput into aquatic environments being regenerated as methane.
+Methanogenesis results in the biogenic generation of some 800 million tonnes of methane per annum.
+Methanol ( xxx ) is also generated in significant quantities by anaerobic bacteria, but not to anything like the same level as methane.
+It is, however, produced in the atmosphere from methane in photo-oxidative processes.
+
+Of the other one-carbon substrates used by aerobic organisms, only carbon monoxide and dimethyl sulphide are produced in significant quantities by natural degradative processes.
+Large quantities of carbon monoxide are also produced and released into the atmosphere from car exhausts and from blast furnaces.
+Other one-carbon compounds are generated as byproducts of various industrial processes including formaldehyde ( xxx ), formate ( xxx ), methylamine ( xxx ), dimethylamine ( xxx ) and trimethylamine ( xxx ) from the tanning industry, formate from rubber processing, cyanide ( xxx ) from the electroplating and metal extraction industries and dimethyl sulphide ( xxx ), dimethylsulphoxide ( xxx ) and dimethylsulphone ( xxx ) from woodpulp processing.
+In each case the byproducts present a major effluent disposal problem.
+A knowledge of organisms which can utilize these substrates will, therefore, be of benefit in developing biosensors to detect and quantify them and in the development of economic means of degrading them to less toxic effluents.
+
+Methylotrophs
+
+Prior to the late 1960 relatively few organisms other than autotrophs had been isolated and described that were capable of growing aerobically on one-carbon substrates.
+Now, however, because of the interest in these organisms, a very large number of species have been isolated and characterized.
+Those capable of growing on organic one-carbon substrates (in other words, all those substances listed in the previous paragraph except cyanide and carbon monoxide) are known as methylotrophs, while those capable of growing on carbon monoxide are known as carboxydotrophs and those capable of growing on cyanide have been referred to as cyanotrophs .
+
+Bacterial methylotrophs have been divided into two types.
+Type I organisms are obligate species which can only grow on methane and/or methanol.
+They have evenly distributed, disc-shaped membranous inclusions which are particularly well developed when growing on methane, use the ribulose phosphate pathway ( xxx ) for assimilation of the substrate (see Section 3.10) and have an incomplete xxx cycle.
+In contrast type II bacteria are frequently facultative in that they can utilize not only the full range of one-carbon substrates (usually with the exception of methane), but also a wide range of other substrates with more than one carbon.
+Their membrane systems are different; being paired and located at the periphery of the cell, they utilize a different assimilatory pathway, the L-serine pathway (see Section 3.11), and have a complete xxx cycle.
+These marked differences between type I and type II bacterial methylotrophs probably indicate two quite different evolutionary pathways that have converged to result in the utilization of similar substrates.
+
+Type I and type II bacteria are further subdivided into subgroups A and B , and into several different genera according to such taxonomic criteria as guanine and cytosine content of the DNA, optimal growth temperature and morphology. 
+Type I organisms fall into three genera: Methylomonas , Methylabacter and Methyloroccus .
+Methyloroccus capsulatus has been the subject of considerable controversy because it has recently been shown to exhibit features of type II as well as type I species.
+In particular, it is not obligate and will utilize other one-carbon substrates in an autotrophic mode (see Section 3.9).
+This illustrates the difficulties of classifying a relatively poorly characterized group of organisms at a time when new examples are regularly being isolated.
+Type II organisms include the obligate genera Methylosinus and Methylocystis , and amongst the many facultative organisms are species of Methylobacterium , Methylophilus , Thiobacillus , Hyphomicrobium , Paracoccus , and numerous pseudomonads.
+
+In addition to bacteria, several yeasts have been isolated from enrichment culture that are capable of growing on methane and methanol including species of Rhodotorula , Candida , Kloeckera , Hanensula and Sporobolomyces .
+To date rather less is known about membrane structures and general aspects of metabolism in yeasts than in bacterial methylotrophs. 
+
+The membrane systems of bacterial methylotrophs have aroused considerable interest since the extent of their development appears to vary according to growth conditions.
+They seem to be particularly well developed when growing on methane, but become less developed and less ordered as cultures age and move into the stationary phase of growth.
+This characteristic is also apparent when other substrates are utilized by facultative species even though the membranes are less well developed in the first place.
+Similar variations occur in response to oxygen levels and temperature, low oxygen levels and low temperature resulting in increased membrane development.
+Convincing explanations for these variations have not so far been forthcoming. 
+
+Oxidative pathways for xxx generation in bacteria growing on methane, methanol, formaldehyde and formate
+
+There is no point of entry into the xxx cycle for the oxidation of one- carbon substrates (see Section 2.1).
+Thus a different oxidative pathway, aimed at generating reduced electron acceptors which can feed into electron transport systems to generate xxx , must be used by organisms growing on such substrates.
+Early studies, carried out largely by Quayle and his coworkers using various metabolic inhibitors in organisms growing upon methane, demonstrated that methanol accumulated in the presence of iodoacetate while formaldehyde accumulated in the presence of bisulphite and formate accumulated in the growth medium of resting cells.
+This led to the proposal of the oxidative pathway illustrated in Figure 3.1 in which carbon dioxide is the end product.
+The overall stoichiometry can be summarized as: xxx .
+
+This linear pathway has been shown, in subsequent studies, to account for the oxidation not only of methane, but also methanol, formaldehyde and formate as energy substrates, the substrate feeding into the pathway at the appropriate point.
+Each reaction in this pathway will now be considered in more detail. 
+
+Methane mono-oxygenase
+
+Methane mono-oxygenase proved the most difficult and most interesting reaction of the pathway to characterize.
+Several possibilities for the oxidation of methane to methanol were initially considered including: xxx .
+
+Figure 3-1
+
+Oxidative pathway for xxx generation in methylotrophs, X = electron acceptor; XH2 = reduced electron acceptor
+
+1 methane mono-oxygenase
+2 methanol dehydrogenase
+3 formaldehyde dehydrogenase
+4 formate dehydrogenase
+
+The use of xxx and xxx demonstrated that the oxygen in methanol was derived from xxx , not xxx , thereby ruling out alternative (c).
+It was then argued that reaction (b) was more likely than (a) because the available energy for ATP generation would be less with (a) since a reduced nucleotide ( xxx ) was consumed in the reaction thereby reducing net xxx production from the pathway and in turn reducing potential production of xxx .
+Consequently, it was argued that if (a) was used it might be expected that growth yields on methane should be lower than those on methanol whereas, m fact, growth yields were higher in organisms grown on methane.
+Nontheless, reaction (b) was regarded by many workers as thermodynamically unlikely.
+The problem of which reaction was involved awaited the development of an in vitro system capable of converting methane to methanol.
+Such a system was eventually developed for Methylococcus capsulatus .
+It was quickly demonstrated that this preparation contained methane mono-oxygenase activity (a).
+
+Further studies on this enzyme system have continued to be controversial and it now appears there are two forms of the enzyme, one membrane-bound and one soluble.
+The soluble system was demonstrated first in Methyloroccus capsulatus and the particulate system in Methylosinus trichosporium , but it now appears that both enzymes may be present in both species dependent on growth conditions and in particular the nature of the limiting growth factor ( xxx or xxx ).
+More recently have shown in Methyloroccus capsulatus , previously assumed to have only the soluble enzyme, that the availability of copper appears to influence the cellular location and type of methane mono-oxygenase.
+In cells grown at low copper levels the enzyme is soluble, but it becomes particulate when grown at high copper levels Moreover, the protein composition of the enzyme changes.
+
+The soluble enzyme of Methylococcus capsulatus consists of three proteins, A, B and C Protein A is a non-haem iron and sulphur-containing protein, while protein B contains no known prosthetic group and protein C is a flavoprotein also containing iron and sulphur.
+The postulated reaction sequence for the oxidation of methane for this enzyme is: xxx , where FPC is flavoprotein C.
+The particulate enzyme is less well characterized, but in Methylosinus trichosporium it is also composed of three proteins.
+
+Interestingly the purified enzyme dots not use xxx as the electron donor.
+Instead, one of three component proteins, reduced cytochrome c, acts in this capacity.
+
+Clearly further studies are required on both types of methane mono-oxygenase in order to fully characterize the mechanism of the oxidation of methane to methanol and to resolve the question of cellular location and type of enzyme.
+In particular, it will be interesting to establish whether the ability to switch from one type to the other is a widespread phenomena, to clarify the significance of such changes and to examine the regulatory mechanism involved.
+
+In addition studies are required on the enzyme isolated from a broader range of methylotrophs since, in the yeast Candida , cytochrome xxx appears to substitute for protein B in the scheme outlined above, whilst in Pseudomonas putida , a different protein rubredoxin appears to replace both proteins A and B.
+There is little doubt, however, that the necessary clarification will be forthcoming because of the intense interest in the exploitation of methane mono- oxygenase activity in a wide variety of biotechnological processes.
+This interest stems from the important and some what unusual observation that the enzyme has a very wide range of substrates which it will utilize including long and short-chain alkanes, alkenes and aromatic and heterocyclic substances such as cyclohexane, benzene, toluene and pyridine.
+It is predicted that the enzyme could be used in the catalysis of reactions which, by normal chemical processes, are very difficult and/or give low yields.
+Hence the enzyme could be of enormous value in the chemical industry.
+Moreover, recalcitrant molecules , which are not readily biodegradable but persist in the environment causing pollution problems, may be degraded to more biodegradable products by this enzyme thereby alleviating some of their non- desirable environmental effects. 
+
+The wide substrate specificity of methane mono-oxygenase allows obligate methylotrophs possessing this enzyme the ability to oxidize and, presumably, to benefit at least in terms of xxx production, from other substrates which themselves cannot support growth.
+This has been discussed by Higgins, Best and Hammond (1980) who have argued against use of the term fortuitous metabolism , which had been applied to this phenonemon, on the grounds that some benefit must accrue to the organism. 
+The term co-metabolism is considered preferable.
+
+Methanol dehydrogenase
+
+Methanol dehydrogenase in bacteria is less variable than methane mono-oxygenase differing from species to species only in substrate affinity and molecular weight.
+In all cases the enzyme will oxidize primary alcohols with a chain length up to at least xxx .
+In some species the enzyme also exhibits formaldehyde dehydrogenase activity.
+A characteristic of methanol dehydrogenases is that they all contain a quinone-based prosthetic group called either methoxatin or pyrrolo-quinoline quinone ( xxx ) and hence they are referred to as one of only a small number of quinoproteins which have been isolated to date.
+This prosthetic group appears to act as the primary electron acceptor in the oxidation of methanol to formaldehyde and in turn it transfers electrons to cytochrome c.
+The latter is reoxidized by a terminal oxidase which is either cytochrome xxx or cytochrome o.
+
+Formaldehyde dehydrogenase
+
+Formaldehyde dehydrogenase is a common enzyme found in most organisms since formaldehyde is a normal metabolite involved in many cellular reactions.
+As indicated above, methanol dehydrogenase may exhibit formaldehyde dehydrogenase activity. 
+In most species, however, a separate xxx dependent formaldehyde dehydrogenase has been characterized.
+The subsequent electron transport system is not well known though it is believed cytochrome c is involved and again either cytochromes xxx or o act as the terminal oxidase.
+
+Some type I bacteria which use the RMP pathway of formaldehyde assimilation (see Section 3.10) have very low activities of formaldehyde dehydrogenase and of the next enzyme in the oxidative sequences, formate dehydrogenase.
+It has been demonstrated that these organisms may oxidize formaldehyde via the RMP pathway and 6-phosphoglycerate dehydrogenase in a specialized oxidative version of the pathway. 
+Discussion of this alternative oxidative route is more appropriate when the RMP pathway has been outlined (see Section 3.10).
+
+Formate dehydrogenase
+
+Formate dehydrogenase is also an enzyme of widespread occurrence. 
+In most methylotrophs, it has been shown to be xxx dependent linking to cytochrome c and then to a terminal oxidase.
+
+It will be clear from the above account that there is considerable variation in individual bacteria with respect to the precise mechanisms of the reactions responsible for the oxidation of methane to carbon dioxide.
+In particular, our knowledge of the electron acceptors/donors, of the electron transport chains involved and their coupling to oxidative phosphorylation to yield xxx is far from clear.
+Undoubtedly xxx yields are high with each of the three dehydrogenase catalysed stops releasing sufficient energy for the generation of xxx making a total of at least xxx per molecule of methanol oxidized to xxx .
+This contrasts with the generation of xxx for each of the carbon atoms in glucose when it is completely oxidized to xxx via glycolysis and the xxx cycle.
+Thus, the energy yield from methane and methanol oxidation is extremely good and explains the high growth yields for most bacteria growing on these substrates compared to more oxidized substrates.
+
+Oxidative pathways for xxx generation in yesats growing on methanol
+
+Methylotrophic yeasts grow only very slowly on methane and most work has been done on their ability to oxidize methanol, though it is possible these organisms can also utilize other one-carbon compounds.
+Why, it may be asked, is the oxidative pathway in yeasts being dealt with separately from that in bacteria? 
+The answer is that the details of the pathway are very different with the first reaction, the conversion of methanol to formaldehyde, being catalysed not by a dehydrogenase but by methanol (alcohol) oxidase .
+This enzyme, which is located in peroxisomes, is a FAD-linked flavoprotein which consists of eight identical subunits and which oxidizes a variety of alcohols besides methanol.
+The overall reaction for methanol oxidation is: xxx .
+
+Because of its toxicity the hydrogen peroxide released is immediately removed by peroxisomal catalase and therefore the overall reaction is effectively irreversible.
+It will be noted that this reaction does not involve the reduction of an electron acceptor which could be reoxidized via electron transport mechanism to yield xxx .
+Thus, xxx yields are lower in yeasts than in bacteria and this probably contributes to the slower growth rates and lower growth yields characteristic of yeasts using methanol.
+
+Formaldehyde, the product of the methanol oxidase reaction, is oxidized, as in bacteria, to formate.
+Again, the reaction involved is different from that in bacteria.
+The formaldehyde dehydrogenase enzyme in yeasts is both xxx and glutathione ( xxx )-dependent and the reaction proceeds via the initial formation of s-hydroxy-methylglutathione and results in the synthesis of formylglutathione: xxx .
+
+In Candida boidinii the thiol-linked ester is then hydrolysed by an esterase to regenerate xxx and release formate: xxx .
+
+Formate dehydrogenase finally oxidizes the formate to carbon dioxide in a reaction which appears to be identical to that in bacteria.
+Both formaldehyde dehydrogenase and formate dehydrogenase activity in yeast has been shown to be located exclusively in the cytoplasm.
+Thus, formaldehyde produced as a result of methanol oxidase activity in the peroxisome must leave the organelle for subsequent oxidation and the xxx generated by the two dehydrogenases must enter mitochondria to be reoxidized via electron transport systems.
+Current evidence suggests that the electron transport system involved uses the xxx oxidase system in mitochondria which generates not three, but only two xxx per pair of electrons transported. 
+Again this would account for the lower growth yields of yeasts growing on methanol compared to bacteria.
+
+Aerobic microbial growth on two-carbon substrates
+
+Scope and rationale
+
+There is a much greater variety of two-carbon compounds than one-carbon compounds, consequently a greater variety of organisms are able to utilize such substrates and they do so using a greater variety of both dissimilatory, oxidative energy-yielding pathways, and assimilatory, biosynthetic pathways.
+
+However, an examination of the substrates themselves and the pathways by which they are metabolized permits certain broad generalizations to be made.
+These generalizations are based on the oxidation/reduction states of the substrate which include three categories: substrates with a xxx ratio of xxx or more (for example, ethanol ( xxx ) and acetate ( xxx ); substrates with a xxx ratio of less than xxx but more than xxx (for example, glycollate ( xxx ) and glyoxylate ( xxx ); and very highly oxidized substrates with xxx ratios below xxx (for example, oxalate ( xxx ).
+In general, growth on two-carbon substrates has aroused less biotechnological interest than growth on one-carbon substrates.
+This is not to say this lower level of interest will continue, since many two-carbon compounds are generated in natural ecosystems and as industrial byproducts, and they may be potentially useful substrates for biomass production.
+
+Oxidative pathways for ATP generation 
+
+Most two-carbon substrates, which have been used in studies on oxidative, energy-yielding, metabolism have xxx ratios of xxx or more.
+By and large they are oxidized to form acetyl CoA which is further oxidized via the xxx cycle.
+For example: xxx .
+
+Thus, with respect to oxidative metabolism, such substrates are essentially utilized as in all other organisms (see Section 2.1).
+As will be shown this is not the case, when anaplerotic routes are considered (see Section 4.3).
+
+More highly oxidized substrates with xxx ratios less than xxx , but more than xxx are oxidized via two known routes.
+Firstly they may be reduced to the level of acetate which is then oxidized via the xxx cycle (that is, a reduction/oxidation route).
+This unusual route occurs in Paracoccus denitrificans and is a very interesting pathway (see Fig. 4.1) that was discovered because the ability of this organism to oxidize glycollate or glyoxylate was blocked by the classical xxx cycle inhibitors, monofluoroacetate, malonate, and arsenite.
+
+In some respects the pathway shown in Figure 4.1 is relatively unique.
+The key reaction is the condensation of glycine (2C) and glyoxylate (2C) to form hydroxyaspartate (4C) catalysed by hydroxypyravate synthetase .
+The amino acid is then deaminated, to its keto-acid equivalent, decarboxylated to phosphoenolpyruvate and further metabolized via pyruvate to a second decarboxylation step which yields acetate.
+This is then oxidized via the xxx cycle.
+Clearly, the pathway generates reduced electron acceptors (in its own right as well as via the oxidative steps of the xxx cycle). 
+
+These reduced acceptors are reoxidized via the normal processes of electron transport and ATP is generated.
+The unusual feature of the pathway is that, as part of the route in which acetate is generated, a xxx condensation reaction occurs which produces a four-carbon compound.
+Hence the pathway fills not only an oxidative, but also an anaplerotic role.
+
+Overall, using glyoxylate as the example and assuming normal mechanisms of electron transport, this pathway yields for the complete oxidation of two molecules of glyoxylate some xxx (that is, an xxx ratio of 3.75) which compares to the xxx generated from the complete oxidation of one molecule of acetate (that is, an xxx ratio of 6).
+The lower energy yield is a reflection of the more highly oxidized status of the substrate.
+
+The second and more usual pathway for the oxidation of substrates such as glycollate and glyoxylate (and glycine derived from glyoxylate by deamination) is known as the dicarboxylic acid ( xxx ) cycle (see Figure 4.2). 
+This has been shown to occur in coliforms, pseudomonads and many other groups of bacteria utilizing these substrates. 
+Its initial discovery resulted from the observation that, whilst monofluoroacetate markedly inhibited oxidation of glyoxylate in coliforms, the other classical xxx cycle inhibitors did not.
+This paradox was resolved, following observations that malate was the initial product of glyoxylate oxidation and its formation depended on the induction, prior to growth on glyoxylate, of the enzyme malate synthetase .
+This enzyme xxx was subsequently shown to be inhibited by monofluoroacetate.
+
+After its formation, malate is oxidized to oxaloacetate and this is followed by two decarboxylation steps to yield, firstly, pyruvate and subsequently acetyl CoA.
+As shown in Figure 4.2 acetyl CoA acts as the initial acceptor of glyoxylate and is regenerated as a result of the last reaction of the cycle. 
+
+Overall, therefore, the DCA cycle accounts for the complete oxidation of one molecule of glyoxylate to carbon dioxide and the generation of two reduced electron acceptors and one ATP. 
+Assuming normal electron transport processes, the oxidation of glyoxylate will therefore yield 7 xxx (that is, an xxx ratio of 3.5).
+
+It is interesting to compare the xxx and xxx cycles.
+The former accounts for the complete oxidation of acetyl CoA with the obligate participation and regeneration of a keto-acid, whilst the latter accounts for the complete oxidation of a keto-acid (glyoxylate) with the obligate participation and regeneration of acetyl CoA.
+However, the role of the two pathways is identical, namely, to oxidize a two-carbon substrate as part of the ATP generating process and to provide the biosynthetic precursors for growth (acetyl CoA, pyruvate, malate and oxaloacetate). 
+Thus, both pathways are amphibolic and to satisfy the demand for biosynthetic precursors an anaplerotic pathway s required (see Section 4.3).
+It should also be noted that organisms utilizing the xxx cycle to oxidize substrates such as glyoxylate will still have a requirement for at least a partial xxx cycle. 
+This is because they need to produce the five- carbon oxoglutarate as t e precursor of glutamic acid which plays a key and central role in amino acid metabolism (see Figure 2.1 and Section 2.2)
+
+Figure 4-1
+
+The oxidation of glycollate and glyoxylate in Paracoccus denitrificans
+
+1 glycollate dehydrogenase
+2 glyoxylate: glutamate transaminase
+3 hydroxyasparatate synthetase
+4 oxaloacetate: glutamate transaminase
+5 PEP-carboxykinase
+6 pyruvate kinase
+7 pyruvate dehydrogenase
+
+Figure 4-2
+
+The dicarboxylic acid cycle
+
+1 glycollate dehydrogenase
+2 malate synthetase
+3 malate dehydrogenase
+4 pyruvate carboxylase
+5 pyruvate dehydrogenase
+
+Relatively few studies have been carried out on the oxidative pathways used to generate xxx from highly oxidized two-carbon compounds such as oxalate This compound is used in considerable quantities as a rust remover prior to pain to spraying in the ear industry, and presents something of a disposal problem to the industry because It is fairly toxic. 
+Consequently, interest has been shown in using microorganims for its detoxification.
+Needless to say such a highly oxidized substrate is not a goo growth substrate, the potential for xxx generation being small.
+However, some pseudomonads including Pseudomonas oxalaticus can grow an oxalate, albeit relatively slowly and inefficiently. 
+
+The pathways involved in oxalate utilization represent a break point between the normal cyclical pathways for oxidating of two-carbon substrates ( xxx or xxx cycles) and the linear oxidative route involved in one-carbon metabolism (see Section 3.4).
+The oxidative route has more in common with oxidation of one-carbon than two-carbon substrates since it is linear On the other hand, as discussed in Section 4.3 the biosynthetic pathways are more typical of growth on two-carbon substrates. 
+
+The linear oxidative route is simple (see Figure 4.3). 
+The important enzyme is formate dehydrogenase , which is also involved in oxidation of one-carbon substrates by methylotrophs.
+When the reduced xxx produced by this reaction is oxidized, xxx result thus giving an xxx ratio of 1.5, a very low yield reflecting the nature of the highly oxidized substrate.
+
+Figure 4-3
+
+Linear oxidative pathway for oxidation of oxalic acid
+
+It must be noted that, unlike other pathways for oxidation of two-carbon compounds this pathway does not involve three-carbon and four-carbon biosynthetic precursors.
+Thus, strictly speaking, no anaplerotic, pathway is required but, as in methylotrophs, a mechanism of generating three-carbon and four-carbon precursors is needed.
+
+Biosynthetic and anaplerotic pathways in organisms growing on two-carbon substrates
+
+As indicated earlier (see Section 4.2) the majority of two-carbon compounds are oxidized via the xxx cycle. 
+This necessitates an anaplerotic pathway to top up levels of xxx cycle intermediates required for biosynthetic precursors.
+Since there are few organisms which have evolved mechanisms of carboxylating two-carbon compounds to pyruvate or phosphoenolpyruvate which can be further carboxylated to oxaloacetate or malate, some other anaplerotic mechanism of converting the two-carbon substrates to four-carbon precursors is required. 
+
+As already discussed, the unusual reduction/oxidation route of Paracoccus denitrificans fulfils this role (see Section 4.2) but the more usual oxidative routes found in other organisms (that is, the xxx and xxx cycles) require a separate anaplerotic pathway.
+The nature of the pathway used, again reflects the xxx ratios of the substrate and the oxidative route.
+For compounds with a xxx ratio of xxx or more the glyoxylate cycle is used to top up levels of xxx cycle intermediates, while for compounds with lower xxx ratios which are oxidized via the xxx cycle the glycerate pathway is used.
+This includes the very highly oxidized oxalic acid which, as recorded earlier, is used biosynthetically like other two-carbon compounds even though it is oxidized as though it were a one-carbon compound.
+
+The glyoxylate cycle (see Fig. 4.4) involves the normal route of entry into the xxx cycle.
+Thus acetyl CoA condenses with oxaloacetate to form citrate, which is further metabolized via xxx cycle reactions to isocitrate.
+At this point the two successive oxidative decarboxylations of the xxx cycle, which produce first oxoglutarate and then succinate, are bypassed.
+Isocitrate (6C) is split by isocitrate Iyase to produce succinate (4C) and glyoxylate (2C).
+Glyoxylate then condenses with a second molecule of acetyl CoA (2C) to form malate (4C) in a reaction catalysed by malate synthetase .
+The malate is then oxidized to regenerate the original oxaloacetate.
+Overall the pathway, therefore, results in the net production of one four-carbon compound (succinate)thereby fulfiling the necessary anaplerotic function: xxx .
+
+Figure 4-4
+
+The glyoxylate cycle
+
+1 Reactions common to the xxx cycle, citrate condensing enzyme
+2 aconitase
+3 isocitrate Iyase
+4 malate synthetase, Reactions specific to the xxx cycle
+5 malate dehydrogenase Reactions specific to the glyoxylate cycle
+6 isocitrate dehydrogenase
+7 oxoglutarate dehydrogenase
+8 succinic dehydrogenase
+9 fumarate dehydrogenase
+
+The glyceric acid pathway (see Figure 4.5) results in the production of oxaloacetate to top up the xxx and xxx cycles, but this is achieved in a rather different way to the glyoxylate cycle.
+Instead of the xxx condensation of the glyoxylate cycle, two glyoxylate molecules are involved in a reaction which yields carbon dioxide and the three- carbon tartronic acid semialdehyde ( xxx ).
+This reaction is catalysed by an enzyme unique to the pathway, glyoxylate carboligase .
+
+Further metabolism of TAS is via its reduction to glyceric acid by a second enzyme characteristic of this pathway, xxx reductase.
+The glyceric acid is phosphorylated and metabolized via normal glycolytic reactions to phosphenolpyruvate or pyrovate, either of which is then carboxylated to form oxaloacetate-the route depending on which carboxylating enzyme, pyravate carboxylase or PEP carboxykinase is present in the organism.
+Overall the sequence of events can be summarized as: xxx or as: xxx .
+
+Figure 4-5
+
+The glycerate pathway
+
+1 glyoxylate carboligase
+2 tartronic acid semialdehyde reductase
+3 glycerate kinase
+4 enolase
+5 pyrovate kinase
+6 pyruvate carboxylate
+7 phosphornolpyruvate carboxykinase NB: Either reactions 5 and 6 or 2 would lead to the formation of oxaloacetate in a given organism
+
+As mentioned above, oxalic acid is also assimilated via this pathway.
+Since Pseudomonas oxalaticus assimilates formate via the autotrophic route of the xxx pathway after oxidizing it all to formate, it might be expected that oxalate would be oxidized to formate and then fixed as carbon dioxide.
+However, the labelling patterns using cells grown on t4C-formate and i4C-oxalate were found to be very different, with tartronic acid semialdehyde and glyceric acid as early labelled intermediates from C-oxalate indicating glyceric acid pathway activity.
+It was subsequently demonstrated that oxalyl CoA is reduced to form glyoxylate: xxx which feeds into the glycerate pathway.
+
+Summary
+
+Microbial growth on two-carbon substrates involves a variety of oxidative and anaplerotic pathways according to the initial oxidation/reduction status of the substrate.
+Most two-carbon compounds are metabolized to yield acetate which is then oxidized via the xxx cycle.
+Since this pathway is amphibolic, providing biosynthetic precursors as well as serving as the terminal oxidative pathway, an anaplerotic pathway is required.
+This is generally the glyoxylate cycle.
+For more highly oxidized substrates the xxx cycle is the oxidative route and the anaplerotic pathway is the glycerate pathway.
+The highly oxidized oxalic acid is oxidized via a linear pathway, rather like that for the oxidation of one-carbon substrates, but assimilated via a two-carbon route, the glycerate pathway. 
+
+More work has been done on the control mechanisms involved in growth using two-carbon compounds than for one-carbon compounds. 
+In general these studies indicate that the enzymes required to convert a given substrate to acetyl CoA or glyoxylate to enter into the xxx or xxx cycles are induced by the presence of the substrate as sole carbon substrate. 
+
+This is certainly true of specific enzymes of the anaplerotic glyoxylate cycle and glycerate pathways.
+
+Particular interest has centred on the role of the enzymes isocitrate Iyase and malate synthetase in one-carbon and two-carbon metabolism.
+Isocitrate Iyase is a key enzyme in the L-serine pathway found in type II facultative methylotrophs which, besides being able to grow on one-carbon substrates can also utilize a wide range of two-carbon compounds.
+When growing on most two-carbon substrates the enzyme is essential in the glyoxylate cycle.
+It is interesting that the role of the enzyme, even though it catalyses an identical reaction in each case, is rather different.
+In the L-serine pathway, it is part of a biosynthetic pathway and is essential to the mechanism of regenerating an acceptor unit (glycine) for a one-carbon derivative of THF.
+On the other hand in the glyoxylate cycle it has a crucial, anaplerotic role.
+
+The enzyme malate synthetase enjoys two even more markedly contrasting roles in growth of two-carbon compounds.
+In growth on glyoxylate, it is active in the xxx cycle oxidative pathway while in growth on acetate, or compounds converted to acetate, it has an anaplerotic function in the glyoxylate cycle. 
+
+This remarkable dual use of such enzymes raises the question of how their induction is controlled.
+This question has not been satisfactorily answered as yet, but it is clear that, at least in the case of malate synthetase, the two enzymes involved are quite distinct gene products, one of which is induced by substrates oxidized via the xxx cycle, the other being induced by substrates oxidized via the xxx cycle and assimilated by the glyoxylate cycle.
+
+Similarly the control of metabolic pathways in Pseudomonas oxalaticus is also of considerable interest. 
+In particular, the question of why and how ribulose xxx bisphosphate carboxylase is induced by growth on formate, which is oxidized via formate dehydroxygenase to carbon dioxide and fixed via the carboxylase, while oxalate, which is also oxidized via formate dehydrogenase to carbon dioxide causes ribulose xxx bisphosphate carboxylase repression and induces glycollic dehydrogenase, glyoxylate carboligase and xxx reductase, is an interesting one.
+What is clear is that the dual uses of enzymes in one-carbon and two-carbon metabolism and, in the case of oxalate, the fascinating choices of metabolic route, both further serve to indicate the versatility of micro-organisms in growing on various substrates.
+
+Aerobic microbial growth on selected substrates with more than two carbons
+
+Scope and rationale
+
+As indicated in Chapter 2, Sections 2.1 to 2.3 all compounds with three or more carbons are metabolized via routes which are found in nearly all living organisms and it is not intended that these routes should be considered here.
+
+Essentially, such substrates are converted, usually via fairly direct routes, to intermediates of glycolysis prior to oxidation via the TCA cycle.
+Anaplerosis is via carboxylation of three-carbon intermediates.
+However, two types of compounds which are used as microbial growth substrates are of particular biotechnological interest.
+These are hydrocarbons, other than methane, and aromatic compounds.
+
+Some specialist aspects of their utilization as growth substrates are considered in this chapter.
+
+Oxidation and assimilation of aliphatic hydrocarbons
+
+The ability of micro-organisms to degrade hydrocarbons has long been recognized and was first reviewed by Zobell (1950). 
+Initial studies were hampered by the lack of availability of pure substrates.
+This resulted in peculiar growth and respiratory patterns which were shown to be due to the organisms oxidizing, and presumably utilizing as growth substrates, one impurity followed by a decrease in growth and oxygen uptake while a new set of enzymes were induced to utilize a second impurity, and so on until all the impurities had been utilized.
+Only then was the hydrocarbon used as substrate by which time, in batch culture, other nutrients were limiting.
+
+Interest in exploiting organisms that can degrade hydrocarbons is now quite intense from several points of view.
+First, such organisms may be used for biomass production, using waste oils or other hydrocarbon waste products as substrates.
+Second, they are being actively examined for their possible use in overcoming problems of oil pollution, particularly for the dispersion of oil spills.
+Third, they are being examined for their potential to release oils from oil-containing substrate specially since, using conventional techniques, it is generally impossible to recover more than 70% of the oil from an oil well. 
+In view of these biotechnological applications it is important to examine the range of organisms capable of degrading hydrocarbons and how they do so.
+Moreover, hydrocarbon-degrading micro-organisms, besides showing potentially beneficial characteristics, also cause problems because that they can grow in oil/water interfaces and in oil/water emulsions thereby causing biodeterioration problems in mechanical systems due to oil degradation.
+
+Many bacteria, yeasts and filamentous fungi have been shown to be able to oxidize and assimilate aliphatic hydrocarbons. 
+They include species of Corynebacterium , Pseudomonas, and Candida .
+In general the short-chain hydrocarbons, while being oxidized, are not used as sole growth substrates, but hydrocarbons with a chain length of eight (for example n- octane) or more support good growth.
+As a broad generalization, saturated hydrocarbons are utilized more readily than unsaturated ones while straight- chain hydrocarbons are preferred to branched ones and even-numbered hydrocarbons to odd-numbered ones.
+
+The oxidative route (see Figure 5.1) basically follows that for growth on methane: xxx ,with the resulting fatty acid being further metabolized usually, via b-oxidation , to acetyl CoA which is terminally oxidized via the TCA cycle.
+The mono-oxygenase system responsible for hydrocarbon oxidation to the corresponding alcohol and the alcohol and aldehyde dehydrogenases are similar to those used in methane conversion to methanol formaldehyde and formate.
+Two different mechanisms of associated electron transport for the mono- oxygenase have been described, one dependent on cytochrome P50 in Corynebacterium sp. and the other in Candida sp. which is dependent on rubredoxin.
+The dehydrogenases have been shown to be NAD-linked.
+
+In some cases diterminal oxidation can occur (see Figure 5.1).
+This yields dicarboxylic fatty acids which must be subsequently oxidized to acetyl CoA via a-w oxidation , oxalic acid being an additional end product. 
+The subsequent fate of the oxalic acid is not yet clear. 
+
+Some species may use subterminal oxidation in which a carbon other than one of the terminal carbons is the site of mono-oxygenase attack.
+
+Once again the end product is acetyl CoA which is further oxidized via the TCA cycle.
+Rather less is known about the oxidation of alkenes (unsaturated hydrocarbons) or branched chain hydrocarbons, but it is clear that mono- oxygenases are again involved.
+As indicated, the end product of the oxidative pathway for hydrocarbon oxidation is acetyl CoA which is subsequently further oxidized via the TCA cycle.
+Thus much ATP will be generated when hydrocarbons are oxidized, not least because ,B or xxx oxidation also generate reduced nucleotides. 
+
+When it comes to the route for the production of three-carbon and four-carbon precursors for biosynthesis, in effect the organisms concerned can be considered to be growing on acetate as this is the end product of the initial stage of oxidation.
+Not suprisingly, therefore, organisms growing on aliphatic hydrocarbons contain isocitrate Iyase and malate synthetase , indicating that the glyoxylate cycle is used as the anaplerotic pathway.
+
+Figure 5-1
+
+Oxidative routes for the degradation of long- chain hydrocarbons illustrated by n-decane; monominal oxidation is shown on the left and ditermal oxidation on the right of the figure
+
+A fascinating aspect of the growth of micro-organisms on aliphatic hydrocarbons is the actual uptake of these insoluble substances.
+The indications are that the organisms secrete specific surfactant agents which emulsify the hydrocarbons into a form which aids transport across the cell membrane.
+It is also known that, when growing on hydrocarbons, micro-organisms have a much higher lipid content in their membranes.
+It may be that the combination of hydrocarbon emulsions coming into contact with highly lipidic membranes is sufficient to account for hydrocarbon uptake, but it is equally possible that, as more work is done, special uptake pathways will be unravelled.
+
+Oxidation and assimilation of aromatic substances
+
+The ability of micro-organisms to degrade aromatic substances has been examined in a wide variety of organisms using an enormous range of compounds.
+
+Biotechnological interest in such degradations is largely from the point of view of utilizing immobilized enzymes or cells in specific bioconversions, particularly to catalyse reactions which otherwise may be difficult or inefficiently carried out by chemical means (for instance, in the synthesis of drugs or other desirable end products).
+A second area of potential application is in the biodegradation and hence clean-up of potentially toxic effluents containing aromatic substances.
+Similarly, persistent pesticides might be broken down and hence detoxified by using methods based on a knowledge of the degradation of aromatic compounds by micro-organisms.
+
+The variety of aromatic compounds utilized by one micro-organism or another is vast and only a very brief treatment of important principles is attempted.
+For a comprehensive account the reader is referred to the detailed review by Dagley (1978).
+The metabolism of various aromatic compounds takes place via a wide range of mechanisms initially involving oxygenation and hydroxylation reactions As by now may be expected, the oxygenation often involves mono-oxygenase activity.
+It is impossible here to give details since variation is very great.
+
+However, the crucial reaction for degradation of these substances is the opening of the benzene ring and there are only two main routes for this.
+Most aromatic substances which can be completely oxidized are initially converted to catechol or related compounds subjected to either meta or ortho fission.
+Further metabolism of the products of these reactions leads to the generation of intermediates of the TCA cycle, usually succinyl CoA and acetyl CoA.
+The latter is oxidized via the TCA cycle to generate ATP while the former can act as an anaplerotic top-up for the cycle.
+Thus the pathways involved in utilization of aromatic substrates yield end products which enable both requirements for growth to be satisfied.
+
+Summary
+
+Only a very brief and general treatment of aerobic microbial growth on compounds containing three or more carbon atoms has been attempted.
+This is because of the variety of such compounds and the fact that after one or two initial reactions the vast majority of them are oxidized via glycolysis and the TCA cycle (see Figure 2.1).
+This route involves, as intermediates, three-carbon compounds which can be carboxylated to give four-carbon intermediates of the TCA cycle and thereby satisfy the provision of the biosynthetic precursors necessary for growth.
+Thus, what has been described earlier, as the 'normal' pathways of metabolism which represent the unifying theme of biochemistry, can operate for the majority of substrates with three or more carbons.
+Even the more specialized hydrocarbons and aromatic substances are metabolized according to the same principles (that is, conversion to intermediates of a small number of pathways which feed into central metabolic pathways.)

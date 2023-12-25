@@ -1,0 +1,856 @@
+
+Molecular Pathology
+
+Molecular pathology seeks to explain why a given genetic change should result in a particular clinical phenotype.
+We have already reviewed the nature and mechanisms of mutations in Chapter 10 (briefly summarized in Box 15.1 ); this chapter is concerned with their effects.
+Molecular pathology requires us to work out the effect of a mutation on the quantity or function of the gene product and to explain why the change is or is not pathogenic for any particular cell or stage of development.
+
+Not surprisingly, given the complexity of genetic interactions, molecular pathology is at present a very imperfect science.
+Clinical symptoms are often the end result of a long chain of causation, and all too often they are not predictable or even readily comprehensible with our present state of knowledge.
+
+Nevertheless, as the emphasis of the Human Genome Project moves from cataloging genes to understanding their function, the study of molecular pathology has moved to center stage, and knowledge is progressing.
+For a growing number of well-studied genes, it is now becoming possible to predict the phenotypic effect of a given DNA sequence change.
+
+One of the major advantages of studying humans rather than laboratory organisms is that the healthcare systems world-wide act as a gigantic and continuous mutation screen.
+As a consequence, for most inherited diseases where the gene responsible has been identified, many different mutations are known.
+We cannot do experiments on humans or breed them to order, but humans provide unique opportunities to observe the phenotypic effects of many different changes in a given gene.
+
+This generates hypotheses, which must then be tested in animals.
+Thus, investigations of naturally occurring human mutations are complemented by studies of specific mutations in transgenic animals.
+
+- Box 15.1: The main classes of mutation
+- Deletions ranging from 1 bp to megabases 
+- Insertions including duplications
+- Missense mutations replace one amino acid with another in the gene product
+- Nonsense mutations replace an amino acid codon with a stop codon
+- Splice site mutations create or destroy signals for exon/intron splicing
+
+- Frameshifts can be produced by deletions, insertions or splicing errors
+
+Nomenclature and databases mutations 
+
+The preferred nomenclature of genes and alleles is laid down by the Nomenclature Committees at the various Human Gene Mapping meetings (McAlpine et al ., 1992).
+
+Allelic variants are collected in the databases such as OMIM (see page 61) and numbered serially, using the locus name followed by an asterisk and a serial number, for example HBB*0403 .
+A valuable summary of genetic nomenclature for many different organisms, including man, was published as a supplement to Trends in Genetics in March 1995 (see Further reading).
+
+For describing mutations (rather than simply listing them), a nomenclature is needed which identifies the sequence change.
+Table 15.1 summarizes the recommended conventions. 
+Details of mutations are stored in OMIM as noted above, and more usefully compiled by Cooper and Krawczak (1995).
+
+Classification of mutations: loss of function versus gain of function
+
+The convenient classification of alleles into A and a hides a vast diversity of DNA sequence changes.
+About 500 different cystic fibrosis mutant alleles have been described, and a similar number of different mutations in the xxx-globin gene.
+There is no reason why these should all fit into a few tidy categories.
+In principle, however, mutation of a gene might cause a phenotypic change in either of two ways:
+the product may have reduced or no function (loss-of-function mutation) ; the product may function in an abnormal way (gain-of-function mutation) .
+
+With some genes, mutations of both types are known, and they produce very different phenotypes (page 422).
+In general, loss-of-function mutations produce recessive phenotypes. 
+This is because, for most gene products, the precise quantity is not crucial, and we can get by on half the normal amount.
+Thus, most inborn errors of metabolism are recessive. 
+Occasionally, however, 50% of the normal level is not sufficient for normal function and one sees dominant dosage effects (see Table 15.3 ).
+Gain-of- function mutations also produce dominant phenotypes. 
+Few mutations involve the product doing something completely novel.
+More often, we see an escape from normal controls - the mutant gene causes an abnormal phenotype because it functions in the wrong cell, at the wrong time or to an excessive extent (see page 412). A dominant-negative effect occurs when the mutant product not only loses its own function but also prevents the product of the normal allele from functioning in a heterozygous person.
+Dominant-negative effects are seen particularly with proteins that work as dimers or multimers (see below, page 414).
+
+Inevitably, some mutations cannot be classified easily as either loss or gain of function.
+Sometimes the problem is mainly semantic - has a permanently open ion channel lost the function of closing or gained the function of inappropriate opening?
+At other times the difficulty is more fundamental, as with dominant- negative effects.
+Nevertheless, the distinction between loss of function and gain of function provides a useful first approach to classifying mutations.
+
+Changes can be quantitative or qualitative 
+
+The hemoglobinopathies (page 423) illustrate the difference between quantitative and qualitative alterations in a gene product. 
+In the thalassemias, the problem is an inadequate quantity of globin, whilst in other hemoglobinopathies the problem is an abnormal globin.
+At one time it was thought that this distinction might reflect two fundamentally different classes of mutation: qualitative changes (structural abnormalities) caused by mutations in coding sequences, and quantitative changes caused by mutations in control sequences.
+However, it has become apparent that many thalassemias are caused by structural abnormalities which make the globin mRNA or protein unstable and, in general, one must look at each individual mutation to determine its likely pathogenic effect.
+
+Loss of function is likely when point mutations in a gene produce the same pathological change as deletions 
+
+Purely genetic evidence, without biochemical studies, can often suggest whether a phenotype is caused by the loss or gain of function.
+When a clinical phenotype results from the loss of function of a gene, we would expect any change that inactivates the gene product to produce the same clinical result.
+We should be able to find point mutations that have the same effect as mutations that delete or disrupt the gene.
+Waardenburg syndrome type 1 (MIM 193500) provides an example.
+As Figure 15.1 shows, causative mutations in the PAX3 gene include amino acid substitutions, frameshifts, splicing mutations and, in some patients, complete deletion of the PAX3 sequence.
+These observations demonstrate that Waardenburg syndrome is caused by loss of function of PAX3 .
+
+Gain of function is likely when only a specific mutation in a gene produces a given pathology
+
+Gain of function is likely to require a much more specific change than loss of function.
+The mutational spectrum in gain-of-function conditions should be correspondingly more restricted , and deletion or disruption of the gene should not produce the condition.
+Huntington disease (HD, MIM 143100) is a likely example.
+As we saw in Chapter 10 (page 266), the only mutation in the HD gene associated with HD is expansion of the trinucleotide repeat.
+No missense, nonsense, frameshift or splice mutations have been found.
+
+One reported case confirms that loss of function of one copy of the HD gene does not cause HD: Ambrose et al . (1994) found a phenotypically normal individual with a translocation breakpoint disrupting the HD gene.
+Patients with chromosomal deletions including the HD gene also fail to manifest HD, although these patients (unlike the translocation case) have other abnormalities that might prevent HD being noted even if it was present.
+A final point favoring gain of function in HD is the fact that homozygotes are clinically identical to heterozygotes.
+Proof that HD is a gain-of-function disease however will require biochemical demonstration of the gained function.
+
+Nomenclature for describing mutations
+
+Amino acid substitution
+
+Use the one-letter codes: A, alanine; C, cysteine; D, aspartic acid; E, glutamic acid; F, phenylalanine; G, glycine; H, histidine; I, isoleucine; K, lysine; L, leucine; M, methionine; N, asparagine; P, proline; Q, glutamine; R, arginine; S, serine; T, threonine; V, valine; W, tryptophan; Y, tyrosine; X means a stop codon. 
+
+R117H-amino acid 117 changed from arginine to histidine 
+G542X glycine 542 replaced by stop codon
+(these are often written as Arg117-His and Gly542-Stop, respectively) 
+
+Nucleotide substitution
+
+Nucleotide notations are often prefixed with nt (nucleotide) or np (nucleotide pair). 
+The numbering normally refers to the sense strand of the cDNA (except for mitochondrial mutations).
+Since 5' ends of many cDNAs are not well defined, it may be necessary to number with reference to a specific published sequence.
+Nucleotides within introns (which will not be listed or numbered in the cDNA sequence) can be specified by their position relative to the nearest exon.
+
+1162 (G-A) or np1162 (G-A)- replace guanine 1162 (in the cDNA) by adenine.
+621+1 (G-T)- replace guanine with thymine at the first position of the intron immediately after position 621 (the last nucleotide in an exon).
+781-5 (C-A)- replace cytosine in the intron five bases 5' of position 1781 with adenine. 
+
+Deletions and insertions
+
+Delta-F508 or AF508 - delete the codon for phenylalanine 508.
+nt6232(del5) - delete five nucleotides, the first of which is at position 6232.
+nt409(insC)- insert cytidine after nucleotide position 409.
+
+Figure 1
+
+Loss-of-function mutations in the PAX3 gene
+
+The PAX3 gene has eight exons .
+Sequences known to be crucial to the function of the gene product are cross-hatched.
+All the mutations shown were found in patients with Waardenburg syndrome.
+S denotes a splice site mutation.
+The mutations written above the gene diagram would be expected to lead to a truncated gene product because of premature termination after a frameshift or splicing mutation; those written below the diagram would be expected to produce a full-length protein but with amino acid substitutions.
+Some patients with Waardenburg syndrome have the entire gene deleted.
+Since all these different changes produce the same clinical result, it is likely that the cause is loss of function of the gene.
+
+Loss-of-function mutations 
+
+Loss of function may be partial or total.
+Alleles which produce no product are often termed null alleles .
+Sometimes the gene product can be detected immunologically even though it is nonfunctional, indicating that the protein can still be synthesized and exported.
+Such mutants are often termed CRM+ (positive for cross-reacting material).
+
+Mutations leading to deficiency of a protein are not necessarily located in the gene which encodes it
+
+Agammaglobulinemia (lack of immunoglobulins, leading to clinical immunodeficiency) is often mendelian.
+It is natural to assume the cause would be mutations in the immunoglobulin genes.
+However, the immunoglobulin loci are located on chromosomes 2, 14 and 22 ( Table 7.13 ), and agammaglobulinemias do not map to these locations.
+Many forms are X-linked.
+
+Remembering the many steps needed to turn a newly synthesized polypeptide into a correctly functioning protein (pages 24-26),this lack of one-to-one correspondence between the mutation and the protein structural gene should not come as any great surprise. 
+Failures in immunoglobulin gene processing, in B- cell maturation, or in more fundamental processes of the immune system will all produce immunodeficiency.
+
+One gene defect can sometimes produce multiple enzyme defects. 
+I-cell disease or mucolipidosis II (MIM 252500) is marked by deficiencies of multiple lysosomal enzymes.
+The primary defect is not in the structural gene for any of these enzymes, but in an N -acetylglucosamine-1-phosphotransferase which phosphorylates mannose residues on the glycosylated enzyme molecules.
+The phosphomannose is a signal that targets the enzymes to lysosomes; in its absence the lysosomes lack a whole series of enzymes.
+The overall message is that one should not be naive when speculating about the gene defect underlying a clinical syndrome.
+
+Many different changes to a gene can destroy its function
+
+Table 15.2 lists the main ways in which changes to a gene can reduce or destroy its function.
+In general, it is not easy to predict whether the result of a particular mutation will be neutral, a partial loss of function or total loss.
+Predictions can be made with reasonable confidence when the gene is disrupted or deleted.
+Otherwise prediction is possible only when the effects (biochemical and clinical) of many other mutations in the same gene are known. 
+
+An added complication comes from the fact that most people with recessive conditions whose parents are unrelated are compound heterozygotes , with two different mutations.
+If the mutations both cause simple loss of function, but to differing degrees, the less severe allele dictates the overall loss of function, and hence the clinical effect.
+
+Deletions and insertions
+
+The effects of small deletions or insertions depend partly on whether or not they generate frameshifts (i.e. whether the number of nucleotides added or removed is a multiple of 3).
+For example, two-thirds of mutations in the dystrophin gene are deletions of one or more exons, but some of these deletions cause the lethal condition Duchenne muscular dystrophy (DMD), whereas others cause the milder condition Becker muscular dystrophy (BMD).
+The explanation does not lie in the size of the deletions (some BMD deletions are larger than some causing DMD), nor in their position within the dystrophin gene (BMD and DMD deletions overlap), but in whether or not they create a frameshift (Koenig et al., 1989).
+The dystrophin gene consists of 79 small exons ( Figure 7.11 ).
+When exons are classified according to the reading frame position of their boundaries, it emerges that almost all deletions causing DMD involve frameshifts, whereas almost all BMD deletions are frame neutral ( Figure 15.2 ).
+Supporting this interpretation, Western blots show no detectable dystrophin in muscle biopsies of DMD patients, but dystrophin of reduced molecular weight in BMD patients.
+
+Splicing variants
+
+Abolition of a splice site or activation of a cryptic splice site ( Figure 10.11 ) normally abolishes gene function.
+Exons are skipped, or intronic sequence retained in the mature mRNA.
+Such changes often introduce frameshifts which exacerbate their effects.
+Occasionally, function is rescued by alternative splicing.
+Alternative splicing sometimes rescues other types of mutation as well.
+This may be the explanation for the 1.5% of patients with dystrophin gene deletions whose disease severity (DMD or BMD) does not fit the frameshift hypothesis described above.
+There is also evidence (Dietz and Kendzior, 1994) that nonsense mutations can trigger skipping of the exon involved, although the mechanism of this effect is totally obscure.
+
+Amino acid substitutions
+
+Without biochemical experiments, predicting the effect of a missense mutation is difficult.
+Substitutions are more likely to cause loss of function if they: involve a nonconservative amino acid change ( see Box 10.2 , page 246). 
+
+Affect a part of the protein known to be functionally important. 
+For example, the substitutions in Figure 15.1 , all of which cause loss of function, are concentrated in the paired domain and homeodomain of the PAX3 protein, whereas the truncating mutations are distributed more widely across the gene.
+
+Involve an amino acid which is conserved across species or between members of a gene family (page 185).
+
+Effects on transcription, RNA processing and translation
+
+When thinking about the possible effect of a mutation in a coding sequence, it is important to consider all stages of gene expression.
+A change causing an apparently innocuous amino acid substitution or even a synonymous codon substitution may abolish a splice site or activate a cryptic site (see Figure 10.11 ).
+The amino acid substitution A196T in the PAX3 gene ( Figure 15.1 ) was found in a patient with Waardenburg syndrome, indicating that it abolished the function of the PAX3 protein.
+This was unexpected because A196T lies outside the known functionally important parts of the PAX3 protein and is not a highly conserved residue.
+Inspection of the genomic DNA sequence, however, shows that the nucleotide changed is the last nucleotide of an exon. 3' Nucleotides of exons are usually G ( Figure 1.15 ), and a G C substitution at this position (as in A196T) is known to affect splicing efficiency (Krawczak et al ., 1992).
+Another example is the xxx-globin mutation D26K in hemoglobin E.
+This causes xxx-thalassemia, an unexpected clinical effect.
+At the DNA level, codon 26 is close to a donor splice site in codon 30 ( Figure 1.19 ), and the G A change reduces splicing efficiency. 
+
+Table 2
+
+Fifteen ways to reduce or abolish the function of a gene product
+
+Change.
+Example.
+
+
+Delete the entire gene.
+Most xxx-thalassemia mutations .
+
+
+Delete part of the gene.
+60% of Duchenne muscular dystrophy mutations.
+
+
+Disrupt the gene structure.
+
+
+(i) by a translocation .
+X-autosome translocations in women with Duchenne muscular dystrophy.
+
+
+(ii) by an inversion .
+Inversion in F8 gene.
+
+
+Insert a sequence into the gene.
+Insertion of LINE-1 repetitive sequence into F8 gene in hemophilia A.
+
+
+Inhibit or prevent transcription.
+Fragile-X full mutation .
+
+
+Promoter mutation reducing mRNA levels .
+xxx-Globin -29 (A G) mutation.
+
+
+Decrease mRNA stability.
+Hb-Constant Spring.
+
+
+Inactivate donor splice site(causing read-through into intron) .
+PAX3451+1 (G T) mutation.
+
+
+Inactivate donor or acceptor splice site(causing exon to be skipped) .
+PAX3452-2 (A G) mutation.
+
+
+Activate cryptic splice site(causes gain/loss of coding sequence) .
+xxx-Globin intron 1-1 10(G A) mutation causing Mediterranean xxx-thalassemia.
+
+
+Introduce a frameshift in translation.
+PAX3874 ins(G) mutation.
+
+
+Convert a codon into a stop codon.
+PAX3Q254X mutation.
+
+
+Replace an essential amino acid.
+PAX3R271C mutation.
+
+
+Prevent post-transcriptional processing.
+Cleavage-resistant pro-insulin in familial hyperproinsulinemia.
+
+
+Prevent correct cellular localization of product.
+AF508 mutation in cystic fibrosis.
+
+
+Figure 2
+
+Deletions in the central part of the dystrophin gene are associated with Becker and Duchenne muscular dystrophy
+
+Somatic mutations and cancer
+
+Somatic mutations are not merely frequent, they are inevitable. 
+Human mutation rates are typically xxx to xxx per gene per generation, and our bodies contain perhaps xxx cells.
+It follows that every one of us must be a somatic mosaic for innumerable genetic diseases (see page 242).
+This should cause no anxiety.
+If a cell in one's finger mutates to the HD genotype or a cell in one's ear picks up a CF mutation, there are absolutely no consequences for the individual concerned.
+Only if a somatic mutation results in the emergence of a substantial clone of mutant cells can there be a risk to the whole organism.
+This can happen in two ways:
+
+- the mutation causes abnormal proliferation of a cell which would normally replicate little or not at all, thus generating a clone of mutant cells.
+- The mutation occurs in an early embryo, affecting a cell which is the progenitor of a significant fraction of the whole organism.
+
+We will consider both classes of somatic mutation in this chapter, beginning with those that cause cancer.
+See Box 18.1 for a summary of the ways in which cells differ genetically within a single individual (or a pair of identical twins).
+
+Cancer: natural selection among the somatic cells of an organism
+
+Cells of a multicellular organism collaborate for the greater good - but only to a degree.
+Evolution by natural selection applies to the constituent cells as well as to the whole organism. 
+In the long term, cells can leave progeny only by co-operating to make an organism capable of reproduction, and so they have necessarily evolved a genome which programs them to co-operate. 
+However, in the short term, if a cell has a mutation that confers a reproductive advantage, it will found a successful clone.
+Its descendants will take over the organism unless prevented by higher controls which have evolved in the interests of the overall organism.
+
+Cancer is the natural result of this selection among somatic cells.
+Probably cancer is the normal end-state of any multicellular organism which lives long enough but successful organisms contrive to postpone this fate.
+During a billion years of evolution, they have evolved many layers of sophisticated controls, so that clinical cancer results only when several independent controls have been lost.
+Principal among the higher level controls is a mechanism by which potentially cancerous cells commit suicide by programmed cell death (apoptosis) .
+Successful cancer cells must have developed ways of inactivating or by-passing this mechanism (page 471).
+
+Several decades ago, studies of the age dependence of cancer suggested that an average of between six and seven successive mutations are needed to convert a normal cell into an invasive carcinoma (Armitage and Doll, 1954).
+The chance of a single cell undergoing so many independent mutations is negligible; however, two general mechanisms exist which can make the progression more likely (Box 17.1) .
+
+Recent studies have identified three groups of genes which are frequently mutated in cancer:
+
+- oncogenes (page 459ff.).
+These are genes whose action positively promotes cell proliferation. 
+The normal nonmutant versions are properly called protooncogenes .
+The mutant versions are excessively or inappropriately active.
+A single mutant allele may affect the phenotype of the cell.
+
+- Tumor suppressor (TS) genes (466ff.) .
+TS gene products inhibit cell proliferation.
+Mutant versions in cancer cells have lost their function.
+Both alleles of a TS gene must be inactivated to change the behavior of the cell.
+
+- Mutator genes (471ff.).
+These are responsible for maintaining the integrity of the genome and the fidelity of information transfer.
+Loss of function of both alleles makes a cell error prone.
+Among the random errors may be mutations in oncogenes and TS genes.
+
+
+By analogy with a bus, one can pictuREThe oncogenes as the accelerator and the TS genes as the brake.
+Jamming the accelerator on (a dominant gain-of-function mutation in an oncogene) or having all the brakes fail (a recessive-loss-of function mutation in a TS gene) will make the bus run out of control.
+
+Alternatively, a saboteur could simply loosen nuts and bolts at random and wait for a disaster to happen (a mutator gene mutation).
+
+Box 17.1: Two ways of making a series of successive mutations more likely Turning a normal cell into a malignant cancer cell requires perhaps six specific mutations in the one cell.
+With typical mutation rates of xxx per gene per cell, it is vanishingly unlikely that any one cell should suffer so many mutations (which is why most of us are alive).
+The probability of this happening to any one of the xxx cells in a person is xxx , or xxx .
+
+Cancer nevertheless happens because of a combination of two mechanisms:
+
+- some mutations enhance cell proliferation, creating an expanded target population of cells for the next mutation (Figure 17.1) .
+- Some mutations affect the stability of the entire genome, increasing the overall mutation rate.
+
+Figure 1
+
+Multistage evolution of cancer
+
+Each successive mutation gives the cell a growth advantage, so that it forms an expanded clone, thus presenting a larger target for the next mutation.
+
+Oncogenes
+
+Animal tumor viruses provided the first evidence of oncogenes
+
+For many years it has been known that some animal leukemias, lymphomas and cancers are caused by viruses.
+A few human examples are also known (Table 17.1) .
+
+Tumor viruses fall into three broad classes:
+
+- DNA viruses normally infect cells lytically.
+They cause tumors by rare anomalous integrations into the DNA of nonpermissive host cells (cells that do not support lytic infection).
+One way or another, integration of the viral genome implants the transcriptional activation or replication signals of the virus into the host genome and triggers cell proliferation. 
+Some of the viral genes involved have been identified, such as those for the T antigen of SV40 or E1A and E1B of adenoviruses. 
+Unlike the classic retroviral oncogenes (see below), these genes are virus specific and do not have exact cellular counterparts.
+
+- Retroviruses have a genome of RNA. 
+They replicate via a DNA intermediate, which is made using a viral reverse transcriptase (Figure 17.2) .
+These viruses do not normally kill the host cell (HIV is an exception) and only rarely transform it.
+The genome of a typical retrovirus consists of three genes, gag , pol and env (Figure 17.3A) .
+
+- Acute transforming retroviruses are retro virus particles which, unlike normal retroviruses, transform the host cell rapidly and with high efficiency.
+Their genomes include an additional gene, the oncogene (Figure 17.3B) .
+Usually the oncogene replaces one or more essential viral genes, so that these viruses are replication defective.
+To propagate them, they are grown in cells which are simultaneously infected with a replication-competent helper virus that supplies the missing functions.
+Studies of acute transforming retroviruses have revealed moREThan 50 different oncogenes.
+
+
+An in vitro transfection assay confirmed that cancer cells contain activated oncogenes
+
+An entirely independent way of discovering oncogenes came from a cell transformation assay.
+The NIH-3T3 mouse cell line readily undergoes transformation in vitro - probably it has already acquired several of the successive genetic changes on the pathway to cancer and one further change suffices to transform it.
+In the 3T3 test, the cells are transfected with random DNA fragments from human cancer cells.
+Potential oncogenes can then be identified by selecting transformants and recovering the human DNA present in them (Figure 17.4) .
+Transformants are obtained when DNA from tumor cells is used, but not with DNA from nontumor cells.
+Thus, tumor cells, even from nonviral tumors, contain activated oncogenes.
+This route led to the identification of essentially the same set of oncogenes as were found in acute transforming retroviruses.
+
+Oncogenes are mutated versions of genes involved in a variety of normal cellular functions
+
+It quickly became apparent that normal cells had counterparts of all the retroviral oncogenes (Table 17.2), and in fact that v- onc genes were transduced cellular genes. 
+
+With a few exceptions, the v- onc gene products differ from their c- onc (proto-oncogene) counterparts by amino acid substitutions or truncations, which serve to activate the proto-oncogene.
+
+Functional understanding of oncogenes began with the discovery that the viral oncogene v-sis was derived from the normal cellular platelet-derived growth factor B (PDGFB) gene. 
+Uncontrolled overexpression of a growth factor would be an obvious cause of cellular hyperproliferation.
+The roles of many cellular oncogenes (strictly speaking, proto-oncogenes) have now been elucidated (Table 17.2) .
+Gratifyingly, they turn out to control exactly the sort of cellular functions which would be predicted to be disturbed in cancer. 
+
+Five broad classes can be distinguished:
+
+- secreted growth factors (e.g. SIS )
+- cell surface receptors (e.g. ERBB, FMS )
+- components of intracellular signal transduction systems (e.g. the RAS family, ABL )
+- DNA-binding nuclear proteins, including transcription factors (e.g. MYC, JUN )
+- components of the network of cyclins, cylin-dependent kinases and kinase inhibitors that govern progress through the cell cycle, for example PRAD1 
+
+Table 1
+
+Human and animal tumor viruses 
+
+Species.
+Disease.
+Virus.
+
+
+Monkey.
+Sarcoma.
+SV40.
+
+
+Mouse.
+(Transformation in vitro).
+Adenoviruses .
+
+
+Man.
+Cervical cancer.
+Papilloma virus HPV16.
+
+
+Man.
+Nasopharyngeal cancer.
+Epstein-Barr virus.
+
+
+Man.
+T-cell leukemia.
+HTLV-1, HTLV- 2.
+
+
+Man.
+Kaposi sarcoma.
+HHV8 or KSAAV.
+
+
+Chicken.
+Sarcoma.
+Rous sarcoma virus.
+
+
+Rat.
+Sarcoma.
+Harvey rat sarcoma virus .
+
+
+Mouse.
+Leukemia.
+Abelson leukemia virus.
+
+
+Monkey.
+Sarcoma.
+Simian sarcoma virus.
+
+
+Chicken.
+Erythroleukemia.
+Erythroleukemia virus.
+
+
+Chicken.
+Sarcoma.
+Avian sarcoma virus 17.
+
+
+Mouse.
+Osteosarcoma.
+FBJ osteosarcoma.
+
+
+Cat.
+Sarcoma.
+McDonough feline sarcoma virus.
+
+
+Chicken.
+Myelocytomaz .
+Avian myelocytomatosis virus.
+
+
+Figure 2
+
+Retroviral life cycle
+
+The virus particle (top) contains the RNA genome and viral reverse transcriptase within an outer lipoprotein envelope and inner protein capsid.
+A double-stranded DNA copy of the viral genome integrates into the host DNA.
+Here it directs synthesis of viral RNA and proteins, which self-assemble and bud off from the cell membrane.
+The host cell is not killed.
+
+Figure 3
+
+A normal and an acute transforming retrovirus
+
+The RNA genome has terminal repeats (R), subterminal unique sequences (U5, U3) and three genes, gag , pol and env .
+A complicated scheme of splicing and post-translational processing results in a variety of protein products.
+In an acute transforming retrovirus (bottom), one or more of the viral genes is replaced by a transduced cellular sequence, the oncogene. 
+Initially it is translated into a fusion protein.
+
+Figure 4
+
+The NIH-3T3 assay
+
+Mouse 3T3 cells are transfected with random fragments of DNA from a human tumor.
+
+Any transformed cells (identified by their altered growth) are isolated and a phage library constructed from their DNA. 
+Phage are then screened for the human specific Alu repeat to identify those containing human DNA, which potentially contain oncogenes.
+
+Table 2
+
+Viral and cellular oncogenes
+
+Viral disease.
+Function.
+
+
+Simian sarcoma.
+Platelet-derived growth factor B subunit .
+
+
+Chicken erythroleukemia.
+Epidermal growth factor receptor.
+
+
+McDonough feline sarcoma.
+Macrophage colony-stimulating factor receptor.
+
+
+Harvey rat sarcoma.
+p21 component of G-protein signal transduction.
+
+
+Abelson mouse leukemia.
+Protein tyrosine kinase.
+
+
+Avian sarcoma 17.
+AP-1 transcription factor.
+
+
+Avian myelocytomatosis.
+DNA-binding protein (transcription factor).
+
+
+Mouse osteosarcoma.
+DNA-binding transcription factor.
+
+
+Activation of proto-oncogenes
+
+Some of the best illustrations of molecular pathology in action are furnished by the various ways in which proto-oncogenes can become activated.
+Activation involves a gain of function. 
+This can be quantitative (an increase in the production of an unaltered product) or qualitative (production of a subtly modified product as a result of a mutation or production of a novel product from a chimeric gene created by a chromosomal rearrangement). 
+These changes are dominant and normally affect only a single allele of the gene.
+
+Activating mutations in oncogenes (unlike mutations in TS genes, see below) are almost invariably somatic events.
+Constitutional mutations would probably be lethal.
+Note, however, that this applies only to mutations which activate protooncogenes. 
+Other mutations may be inherited constitutionally, and may have effects entirely unrelated to cancer.
+For example, mutations that inactivate the kit oncogene produce piebaldism (MIM 172800), whilst loss- of-function mutations in the RET oncogene produce Hirschsprung's disease.
+Both these conditions are inherited in a mendelian dominant fashion (with low penetrance in the case of RET mutations).
+
+Only one case is known where an activated oncogene can be inherited so as to cause familial cancer.
+That is the RET gene, implicated in multiple endocrine neoplasia and familial thyroid cancer (see below).
+This behavior is so atypical that one might question whether RET should really be classified as an oncogene.
+In fact, RET illustrates the limitations of forcing all genes governing cell proliferation into just two categories, oncogenes or TS genes.
+Another gene that is hard to classify is TP53 (see below); however TP53 fits the TS category distinctly better than the oncogene category.
+
+Activation of some oncogenes can occur by amplification
+
+Many cancer cells contain multiple copies of structurally normal oncogenes.
+
+Breast cancers often amplify ERBB2 and sometimes MYC ; a related gene NMYC is usually amplified in late-stage neuroblastomas. 
+Hundreds of extra copies may be present.
+
+They can exist as small separate chromosomes (double minutes) or as insertions within the normal chromosomes (homogeneously staining regions, HSRs) .
+The genetic events producing HSRs may be quite complex because they usually contain sequences derived from several different chromosomes (reviewed by Pinkel, 1994).
+Similar gene amplifications are often seen in noncancer cells exposed to strong selective regimes (e.g. amplified dihydrofolate reductase genes in cells selected for resistance to methotrexate).
+
+In all cases, the result is to greatly increase the level of gene expression.
+
+An alternative technique, comparative genome hybridization (CGH) (Kallioniemi et al., 1992), can in principle reveal all regions of amplification in a single experiment, together with any regions of allele loss or aneuploidy, which may point to TS genes (see below).
+The CGH test (Figure 17.5) uses a mixture of DNA from matched normal and tumor cells in competitive FISH.
+
+With the aid of image-processing software, chromosomal regions can be picked out wheREThe ratio of FISH signal from normal and tumor DNA deviates from expectation.
+Depending on the direction of deviation, these mark regions of amplification or of allele loss in the tumor.
+
+Some oncogenes are activated by point mutations
+
+The HRAS gene (Table 17.2) is one of a family of ras genes, all of which encode p21 proteins involved in signal transduction from G-protein-coupled receptors.
+A signal from the receptor triggers binding of GTP to the RAS protein and GTP-RAS transmits the signal onwards in the cell.
+RAS proteins have GTPase activity, and GTP-RAS is rapidly converted to the inactive GDP-RAS. 
+Specific point mutations in ras genes are frequently found in cells from a variety of tumors including colon, lung, breast and bladder cancers.
+These lead to amino acid substitutions which decrease the GTPase activity of the RAS protein.
+As a result, the GTP-RAS signal is inactivated more slowly, leading to excessive cellular response to the signal from the receptor.
+
+Another oncogene which is activated by point mutations is RET .
+This gene encodes a cell surface tyrosine kinase that is a receptor for a currently unknown ligand. 
+Mutations leading to amino acid substitutions at certain specific cysteine residues are found in multiple endocrine neoplasia type 2 and in medullary thyroid cancer.
+
+The RET gene is interesting as an example of a gene where different mutations cause different phenotypes (page 422).
+
+Figure 5
+
+Comparative genome hybridization 
+
+Tumor DNA and normal control DNA were labeled with green and red fluorescent labels, respectively, then hybridized in situ together in equal quantities to chromosomes of a normal cell.
+The curves show computer-generated scans of the ratio of green:red fluorescence intensity along three chromosomes.
+
+(A) Chromosome 1: the breast cancer cell line xxx carries an extra copy of xxx , and a possible interstitial deletion of proximal.
+(B) Chromosome 8: the colon cancer cell line xxx shows amplification of the MYC region at xxx .
+(C) Chromosome 2: the small cell lung cancer cell line NIH-H69 shows three regions of amplification.
+NMYC is amplified at xxx ; the content of the other two amplified regions is not known.
+
+Figure 6
+
+Cancer cell karyotype
+
+Complex diseases
+
+Deciding whether a nonmendelian character is genetic: the role of family, twin and adoption studies
+
+Nobody would dispute the involvement of genes in a character which consistently gives mendelian pedigree patterns or which is associated with a chromosomal abnormality.
+However, with nonmendelian characters, whether continuous (quantitative) or discontinuous (dichotomous), it is necessary to prove claims of genetic determination.
+The obvious way to approach this is to show that the character runs in families.
+The degree of family clustering is expressed as xxx the ratio of the risk for relatives of patients to the population prevalence. 
+Different xxx parameters are calculated for different degrees of relationship (sibs, children, etc).
+Table 18.1 shows results from early studies of schizophrenia. 
+Family clustering is evident from the raised xxx values and, as expected, xxx values drop back towards 1 for more distant relationships - though in this data, not at the rate predicted for a purely genetic character.
+
+The importance of shared family environment 
+
+Geneticists must not forget that humans give their children their environment as well as their genes.
+Many characters run in families because of the shared family environment - whether one's native language is English or Chinese, for example.
+One has therefore always to ask whether shared environment might be the explanation for a familial character.
+This is especially important for behavioral attributes like IQ or schizophrenia, which depend at least partly on upbringing, but it cannot be ignored even for physical characters or birth defects: a family might share an unusual diet or some traditional medicine which could cause developmental defects.
+
+Polygenic theory (page 482ff) allows prediction of the degree to which relatives should resemble each other, and segregation analysis (page 491) can attempt to estimate this under varying genetic or environmental hypotheses, but in practice these analyses rarely lead to the unambiguous and uncontroversial demonstration of genetic factors.
+Thus, something more than a familial tendency is usually necessary to prove that a nonmendelian character is under genetic control.
+
+Unfortunately, these reservations are not always as clearly stated in the medical literature as perhaps they should be.
+
+Twin studies suffer from many limitations 
+
+Francis Galton, who laid so much of the foundation of quantitative genetics, pointed out the value of twins for human genetics. 
+Monozygotic (MZ) twins are genetically identical clones and will necessarily be concordant (both the same) for any genetically determined character, with a few exceptions (Box 18.1) .
+This is true regardless of the mode of inheritance or number of genes involved; the only exception is for characters dependent on post-zygotic somatic mutations (Chapter 17).
+Dizygotic (DZ) twins share half their genes on average, the same as any pair of sibs.
+Genetic characters should therefore show a higher concordance in MZ than DZ twins, and many characters do (Table 18.2) .
+
+Higher concordances in MZ compared with DZ twins might also be possible if the character is determined by environmental factors.
+For a start, half of DZ twins are of unlike sex, whereas all MZ twins are the same sex.
+Even if the comparison is restricted to same-sex DZ twins (as it is in the studies shown in Table 18.2 ), at least for behavioral traits the argument can be made that MZ twins are more likely to be very similar, to be dressed and treated the same , and thus to share more of their environment than DZ twins.
+
+MZ twins separated at birth and brought up in entirely separate environments would provide the ideal experiment (Francis Crick once made the tongue-in-cheek suggestion that one of each pair of twins born should be donated to science for this purpose). 
+Such separations happened in the past more often than one might expect because the birth of twins was sometimes the last straw for an overburdened mother.
+Fascinating television programs can be made about twins reunited after 40 years of separation, who discover they have similar jobs, wear similar clothes and like the same music.
+As research material, however, separated twins have many drawbacks:
+
+- there are very few of them, so any research is based on small numbers of arguably exceptional people.
+
+- The separation was often not total - often they were separated some time after birth, and brought up by relatives. 
+
+- There is a bias of ascertainment - everybody wants to know about strikingly similar separated twins, but separated twins who are very different are not newsworthy.
+
+- Even in principle, research on separated twins cannot distinguish intrauterine environmental causes from genetic causes. 
+This may be important, for example in studies of sexual orientation ('the gay gene'), where some people have suggested that maternal hormones may affect the fetus in utero so as to influence its future sexual orientation. 
+
+
+Thus, for all their anecdotal fascination, separated twins have contributed relatively little to human genetic research. 
+
+Adoption studies are the most powerful way to disentangle genetic and environmental factors
+
+If separating twins is an impractical way of disentangling heredity from family environment, adoption is much more promising. 
+Two study designs are possible:
+
+- find adopted people who suffer from a particular disease known to run in families, and ask whether it runs in their biological family or their adaptive family.
+- Alternatively, start with affected subjects whose children have keen adopted away from the family, and ask whether being adapted away from the family saves a child from the risk of the disease.
+
+A celebrated (and controversial) study by Rosenthal and Kety (1968) used the first of these designs to test for genetic factors in schizophrenia.
+The diagnostic criteria used in this study have been criticized; there have also been claims (disputed) that not all diagnoses were made truly blind.
+However, an independent re-analysis using DSM-III diagnostic criteria reached substantially the same conclusions.
+Table 18.3 shows the results of a later extension of this study.
+
+The main obstacle in adoption studies is the lack of information about the biological family.
+This is frequently compounded by the undesirability of approaching them with questions.
+A secondary problem is selective placement, where the adoption agency, in the interests of the child, chooses a family likely to resemble the biological family.
+Thus organizing a study may be very difficult.
+Nevertheless, in countries where efficient adoption registers exist, this is unquestionably the most powerful method for checking whether a character is genetically determined.
+Quantitative characters can be similarly investigated by comparing the correlation between an adoptee and his/her biological or adoptive relatives.
+
+The next section describes the main theory which has been used to explain how nonmendelian characters might be genetically determined.
+
+Table 1
+
+Early studies of familial risk in schizophrenia
+
+- their repertoire of antibodies and T-cell receptors (because of epigenetic rearrangements and somatic cell mutations, see page 77).
+- The numbers of mitochondrial DNA molecules (epigenetic partitioning).
+- Somatic mutations in general (Chapter 17).
+- The pattern of X inactivation, if female.
+
+
+Table 2
+
+Twin studies in schizophrenia
+
+Table 3
+
+An adoption study in schizophrenia 
+
+Polygenic theory of quantitative traits
+
+As we saw in Chapter 3, page 80, the early years of this century were marked by divergence between two traditions of genetics. 
+The followers of Bateson saw genetics as the study of the transmission and segregation of mendelian genes, even if the phenotypic variants involved were rare or trivial, while the school of biometricians founded by Francis Galton saw genetics as the statistical study of evolutionarily important variation, normally in quantitative characters.
+
+Theoretical unification was achieved by Fisher in 1918, who demonstrated that the characters favored by the biometricians could be described in mendelian terms if they were polygenic , (i.e. governed by the simultaneous action of many gene loci).
+
+Any variable character which depends on the additive action of a large number of individually small independent causes will be distributed in a Normal (Gaussian) distribution in the population. 
+This can be seen in the highly simplified example shown in Figure 18.1 .
+We suppose the character depends on alleles at a single locus, then at two loci, then at three.
+As more loci are included we see two consequences: 
+
+1 the simple one-to-one relationship between genotype and phenotype disappears: except for the extreme phenotypes, it is not possible to infer the genotype from the phenotype. 
+
+2 As the number of loci increases, the distribution looks increasingly like a Gaussian curve.
+Addition of a little environmental variation would smooth out the three-locus distribution into a good Gaussian curve.
+
+
+A more sophisticated treatment allowing dominance and varying gene frequencies leads to the same conclusions.
+Since relatives share genes, their phenotypes are correlated, and Fisher's paper predicted the size of the correlation for different relationships.
+
+Phenotypes where relatives share some but not all determinants will show regression to the mean, whether the determinants are genetic or environmental
+
+A much misunderstood feature, both of biometric data and of polygenic theory, is regression to the mean .
+We will use IQ as an example for discussion.
+Although IQ is of no great intrinsic interest (it measures only a person's ability and willingness to tackle IQ tests, not their 'intelligence' in any general sense, still less their personal worth), arguments about IQ allegedly based on genetic concepts are presented to the general public for political reasons.
+On the simplest genetic assumptions, if one surveys mothers with an IQ of 120, their children would have an average IQ of 110, half way between the mothers' value and the population mean. 
+Mothers with an IQ of 80 would have children with an average IQ of 90.
+Regression to the mean is often misinterpreted (see Box 18.2 ).
+
+Figure 18.2 shows regression in our simplified two-locus model.
+For each class of mothers, the average IQ of their children is half way between the mother's value and the population mean.
+However, this depends on the hidden assumption in this model, that is that there is random mating.
+For each class of mothers, the average IQ of their husbands is supposed to be 100.
+Thus the average IQ of the children is the mid-parental IQ, as common sense would suggest. 
+In the real world, highly intelligent women tend to marry men of above average intelligence (assortative mating)and we would not expect regression half way to the population mean, even if IQ were a purely genetic character.
+
+The simplified model of Figure 18.2 assumes there is no dominance.
+Thus each person's phenotype is the sum of the contribution of each allele at the relevant loci.
+If we allow dominance, the effect of some of a parent's genes will be masked by dominant alleles and invisible in their phenotype, but they can still be passed on and can affect the child's phenotype.
+
+Given dominance, the expectation for the child is no longer the mid-parental value.
+Our best guess about the likely phenotypic effect of the masked recessive alleles is obtained by looking at the rest of the population.
+Therefore, the child's expected phenotype will be displaced from the mid-parental value towards the population mean.
+How far it will be displaced depends on how important dominance is in determining the phenotype.
+
+The heritability is the proportion of variance due to additive genetic effects
+
+Gaussian curves are specified by only two parameters, the mean and the variance (or the standard deviation which is the square root of the variance). 
+Variances have the useful property of being additive when they are due to independent causes (BOX 18.3).
+Thus the overall variance of the phenotype Vp is the sum of the variances due to the individual causes of variation - the environmental variance VE and the genetic variance VG.
+
+VG can in turn be broken down to a variance VA due to simply additive genetic effects and an extra term VD due to dominance effects.
+The heritability (h2) of a trait is the proportion of the total variance which is genetic, that is VG/VP.
+For animal breeders interested in breeding cows with higher milk yields, this is an important measure of how far a breeding program can create a herd in which the average animal resembles today's best.
+Strictly, VG/VP is the broad heritability.
+Dominance variance cannot be fixed by breeding, so the selection response is determined by the narrow heritability, VA/ VP.
+Heritabilities of human traits are often estimated as part of segregation analysis (see page 491 and Table 18.5).
+
+The term 'heritability' is often misunderstood.
+Heritability is quite different from the mode of inheritance. 
+The mode of inheritance (autosomal dominant, polygenic, etc.) is a fixed property of a trait, but heritability is not. 
+'Heritability of IQ' is shorthand for heritability of variations in IQ.
+In different social circumstances, the heritability of IQ will differ.
+In an egalitarian society, we would expect IQ to have a higher heritability than in a society where access to education depended on accidents of birth.
+If everybody has equal opportunities, a number of the environmental differences between people have been removed.
+Therefore more of the remaining differences in IQ will be due to the genetic differences between people.
+Contrast the two questions: 
+
+- to what extent is IQ genetic?
+This is a meaningless question.
+
+- How mach of the differences in IQ between people are caused by their genetic differences, and how much by their different environments and life histories?
+This is a meaningful question, even if difficult to answer.
+
+
+For many human behavioral traits, the simple partitioning of variance into environmental and genetic components is not applicable.
+Parents give their children both their genes and their environment, and genetic and environmental factors are often correlated.
+Genetic disadvantage and social disadvantage tend to go together.
+Vp does not equal VG + VE and researchers are forced to include additional interaction variances in their analyses.
+A proliferation of variances can rapidly reduce the explanatory power of the models and in general this has been a difficult area in which to work.
+
+Figure 1
+
+Successive approximations to a Gaussian distribution
+
+The charts show the distribution in the population of a hypothetical character which has a mean value of 100 units. 
+The character is determined by the additive (co-dominant) effects of alleles.
+Each upper case allele adds 5 units to the value, and each lower case allele subtracts 5 units.
+All allele frequencies are 0.5.
+(A) The character is determined by a single locus.
+(B) Two loci.
+(C) Three loci: addition of a minor amount of random' (environmental or polygenic) variation produces the Gaussian curve (D).
+
+Two common misconceptions about regression to the mean
+
+- a few generations everybody will be exactly the same. 
+- Regression to the mean is a genetic phenomenon.
+If a character shows regression to the mean, it must be genetic. 
+
+
+Figure 18.2 shows that the first of these beliefs is wrong.
+In a simple genetic model:
+
+- overall distribution is the same in each generation. 
+- works both ways: for each class of children, the average for their mothers is half way between the children's value and the population mean. This may sound paradoxical but it can be confirmed by inspecting, for example, the right-hand column of the bottom histogram in Figure 18.2 (children of IQ 120).
+One-quarter of their mothers have IQ 120, half 110 and one-quarter 100, making an average of 110.
+
+
+Regarding the second of these beliefs, regression to the mean is not a genetic mechanism but a purely statistical phenomenon.
+Whatever the determinants of IQ are (genetic or environmental or any mix of the two), if we take an exceptional group of mothers (i.e. those with an IQ of 120), then these mothers must have had an exceptional set of determinants.
+If we take a second group who share half those determinants (their children, their sibs or either of their parents), the average phenotype in this second group will deviate from the population mean by half as much.
+Genetics provides the figure of one half, but not the principle of regression.
+
+Figure 2
+
+Regression to the mean
+
+The same character as in Figure 18. lB: mean 100, determined by co-dominant alleles A, a, B and b at two loci, all gene frequencies = 0 5.
+Top: distribution in a series of mothers.
+Middle: distributions in children of each class of mothers, assuming random mating.
+Bottom: summed distribution in the children.
+Note that: (a) the distribution in the children is the same as the distribution in the mothers; (b) for each class of mothers, the mean for their children is half way between the mothers, value and the population mean (100); and (c) for each class of children (bottom), the mean for their mothers is half way between the children's value and the population mean.
+
+Partitioning of variance
+
+- Variance of phenotype (VP) = Genetic variance (VG) + Enviromnental variance (VE)
+- VG = Variance due to additive genetic effects (VA) + Variance due to dominant effects (VD)
+- VP = VA + VD + VE
+- Heritability (broad) = VG / VP
+- Heritability (narrow) = VA / VD

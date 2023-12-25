@@ -1,0 +1,1370 @@
+
+PCR-based DNA cloning and DNA analyses 
+
+Principles of PCR
+
+PCR is a cell-free method of DNA cloning
+
+The standard PCR reaction
+
+PCR is a rapid and versatile in vitro method for amplifying defined target DNA sequences present within a source of DNA.
+Usually, the method is designed to permit selective amplification of a specific target DNA sequence or sequences within a heterogeneous collection of DNA sequences (e.g. total genomic DNA or a complex cDNA population).
+To permit such selective amplification, some prior DNA sequence information from the target sequences is required, enabling the construction of two oligonucleotide primer sequences (often 15-30 nucleotides long).
+Such so-called amplimers , when added to denatured genomic DNA, will bind specifically to complementary DNA sequences immediately flanking the desired target region.
+They are designed so that, in the presence of a suitably heat-stable DNA polymerase and DNA precursors (the four deoxynucleoside triphosphates, dATP, dCTP, dGTP and dTTP), they can initiate the synthesis of new DNA strands which are complementary to the individual DNA strands of the target DNA segment, and which will overlap each other.
+
+PCR is a chain reaction because newly synthesized DNA strands will act as templates for further DNA synthesis in subsequent cycles.
+After about 30 cycles of DNA synthesis, the products of the PCR will include, in addition to the starting DNA, about xxx copies of the specific target sequence, an amount which is easily visualized as a discrete band of a specific size when submitted to agarose gel electrophoresis.
+A heat-stable DNA polymerase is used because the reaction involves sequential cycles composed of three steps:
+
+i Denaturation - typically at about 93-95°C for human genomic DNA
+ii Reannealing - at temperatures usually from about 50°C to 70°C , depending on the Tm of the expected duplex (the annealing temperature is typically about 5°C below the calculated Tm )
+iii DNA synthesis - typically at about 70-75°C 
+
+Suitably heat-stable DNA polymerases have been obtained from microorganisms whose natural habitat is hot springs.
+For example, the widely used Taq polymerase is obtained from Thermus aquaticus and is thermostable up to 94°C , with an optimum working temperature of 80°C .
+
+Specificity of amplification and primer design
+
+The specificity of amplification necessarily depends on the extent to which the designed primers can recognize different target DNA sequences other than the sequence which was intended to be amplified.
+For complex DNA sources, such as total genomic DNA from a mammalian cell, it is often sufficient to design two primers that are about 20 nucleotides long.
+This is because the chance of an accidental perfect match elsewhere in the genome for either one of the primers is extremely low, and for both sequences to occur by chance in close proximity in the specified direction is normally exceedingly low.
+Although conditions are usually chosen to ensure that only strongly matched primer-target duplexes are stable, spurious amplification products can nevertheless be observed.
+This can happen if one or both chosen primer sequences contain part of a repetitive DNA sequence, and primers are usually designed to avoid matching to known repetitive DNA sequences, including large runs of a single nucleotide.
+
+Accidental matching at the 3' end of the primer is critically important:
+spurious products may derive from substantially mismatched primer-target duplexes unless the 3' end of the primer shows perfect matching.
+One way of minimizing the amplification of spurious products involves the use of nested primers .
+The products of an initial amplification reaction are diluted and used as the target DNA source for a second reaction in which a different set of primers is used, corresponding to sequences located close (but internal) to those used in the first reaction. 
+
+The major advantages of PCR as a cloning method are its rapidity, sensitivity and robustness
+
+Because of its simplicity, PCR is a popular technique with a wide range of applications which depend on essentially three major advantages of the method.
+
+Speed and ease o f use o f PCR 
+
+DNA cloning by PCR can be performed in a few hours, using relatively unsophisticated equipment.
+Typically, a PCR reaction consists of 30 cycles containing a denaturation, synthesis and reannealing step, with an individual cycle typically taking 3-5 min in an automated thermal cycler.
+This compares favorably with the time required for cell-based DNA cloning, which may often be weeks or even months.
+Clearly, some time is also required for designing and synthesizing oligonucleotide primers, but this has been simplified by the availability of computer software for primer design and rapid commercial synthesis of custom oligonucleotides.
+Once the conditions for a reaction have been tested, the reaction can then be repeated simply.
+
+Sensitivity of the PCR reaction 
+
+PCR is capable of amplifying sequences from minute amounts of target DNA, even the DNA from a single cell.
+Such exquisite sensitivity has afforded new methods of studying molecular pathogenesis and has found numerous applications in forensic science, in diagnosis in genetic linkage analysis using single-sperm typing and in molecular paleontology studies, where samples may contain minute numbers of cells.
+However, the extreme sensitivity of the method means that great care has to be taken to avoid contamination of the sample under investigation by external DNA, such as from minute amounts of cells from the operator.
+
+Robustness of PCR
+
+PCR can permit amplification of specific sequences from material in which the DNA is badly degraded or embedded in a medium from which conventional DNA isolation is problematic. 
+As a result, it is again very suitable for molecular anthropology and paleontology studies, for example the analysis of DNA recovered from mummified individuals and the quest for identifying DNA from fossil samples containing minute amounts of cells from long extinct creatures.
+It has also been used successfully to amplify DNA from formalin-fixed tissue samples, which has important applications in molecular pathology and, in some cases, genetic linkage studies.
+
+The major disadvantages of PCR are the requirement for prior target sequence information, short product sizes and infidelity of DNA replication
+
+Despite its huge popularity, PCR has certain limitations as a method for selectively cloning specific DNA sequences.
+
+Need for target DNA sequence information
+
+In order to construct specific oligonucleotide primers that permit selective amplification of a particular DNA sequence, some prior sequence information is necessary.
+This normally means that the DNA region of interest has been partly characterized previously, often following cell-based DNA cloning.
+However, a variety of techniques have been developed that reduce or even exclude the need for prior DNA sequence information concerning the target DNA, when certain aims are to be met.
+For example, previously uncharacterized DNA sequences can sometimes be cloned using PCR with degenerate oligonucleotides if they are members of a gene or repetitive DNA family at least one of whose members has previously been characterized.
+In some cases, PCR can be used effectively without any prior sequence information concerning the target DNA to permit indiscriminate amplification of DNA sequences from a source of DNA that is present in extremely limited quantities.
+Therefore, although PCR can be applied to ensure whole genome amplification, it does not have the advantage of cell-based DNA cloning in offering a way of separating the individual DNA clones comprising a genomic DNA library.
+
+Short PCR product size
+
+A clear disadvantage of PCR as a DNA cloning method has been the size range of the DNA sequences that can be cloned. 
+Unlike cell-based DNA cloning where the size of cloned DNA sequences can approach 2 Mb, reported DNA sequences cloned by PCR have typically been in the 0-5 kb size range, often at the lower end of this scale.
+Although small segments of DNA can usually be amplified easily by PCR, it becomes increasingly more difficult to obtain efficient amplification as the desired product length increases.
+Recently, however, conditions have been identified for effective amplification of longer targets, including a 42-kb product from the bacteriophage xxx genome.
+Often, the conditions for long range PCR involve a combination of modifications to standard conditions with a two-polymerase system to provide optimal levels of DNA polymerase and xxx exonuclease activity which serves as a proofreading mechanism.
+
+Proofreading by DNA polymerase-associated xxx exonuclease activity
+
+The fidelity of DNA replication in vivo is extremely high:
+during replication of mammalian genomes, for example, only one base in about xxx is copied incorrectly.
+Misincorporation occurs at a low frequency, dependent on the relative free energies of correctly and incorrectly paired bases.
+Very minor changes in helix geometry can stabilize G-T base pairs (with two hydrogen bonds; note the frequent occurrence of G-U base pairing in RNA, see page 7).
+In vivo copying normally shows an error rate much lower than these thermodynamic limitations would imply.
+This is achieved by proofreading mechanisms, one of which is a common property of DNA polymerases. 
+Unlike RNA polymerases, DNA polymerases absolutely require the 3' hydroxyl end of a base-paired primer strand as a substrate for chain extension.
+Additionally, DNA molecules with a mismatched nucleotide at the 3' end of the primer strand are not effective templates for DNA synthesis.
+Many DNA polymerases, including that of E. coli , contain an integral xxx exonuclease activity. 
+
+When an incorrect base is inserted during DNA synthesis, DNA synthesis does not proceed.
+Instead, the xxx exonuclease activity removes one nucleotide at a time from. the 3' hydroxyl terminus until a correctly base-paired terminus is obtained, enabling DNA synthesis to proceed again. 
+As a result, DNA polymerases are usually self-correcting, removing errors made by the DNA polymerase activity during DNA synthesis.
+
+Infidelity of DNA replication 
+
+Cell-based DNA cloning involves DNA replication in vivo , which is associated with a very high fidelity of copying because of proofreading mechanisms.
+However, when DNA is replicated in vitro the copying error rate is considerably greater.
+
+Of the heat-stable DNA polymerases required for PCR, the most widely used is Taq polymerase derived from T. aquaticus .
+This DNA polymerase, however, has no associated xxx exonuclease to confer a proofreading function, and the error rate due to base misincorporation during DNA replication is rather high:
+for a 1-kb sequence that has undergone 20 effective cycles of duplication, approximately 40% of the new DNA strands synthesized by PCR using this enzyme will contain an incorrect nucleotide resulting from a copying error.
+This means that, even if the PCR reaction involves amplification of a single DNA sequence, the final product will be a mixture of extremely similar, but not identical DNA sequences.
+However, DNA sequencing of the total PCR product may nevertheless give the correct sequence.
+
+This is because, although individual DNA strands in the PCR product often contain incorrect bases, the incorporation of incorrect bases is essentially random.
+As a result, for each base position , the contribution of one incorrect base on one or more strands is overwhelmed by the contributions from the huge majority of strands which will have the correct sequence.
+What it does mean, however, is that further analysis of the product may be difficult.
+For example, functional studies frequently require that the DNA be cloned into a suitable expression vector.
+However, subsequent cell-based cloning of PCR products runs into the problem that transformation selects for a single molecule, and the cell clones chosen to be amplified will contain identical molecules, each the same as a single starting molecule which may well have the incorrect DNA sequence because of a copying error during PCR amplification.
+As a result, several individual clones may need to be sequenced in order to determine the correct (consensus) sequence, before selecting one with the authentic sequence for subsequent experiments.
+
+Recently, the problem of infidelity of DNA replication during the PCR reaction has been considerably reduced by using alternative heat-stable DNA polymerases which have associated xxx exonuclease activity.
+For example, the Pyrococcus furiosus DNA polymerase is becoming more widely used because of the proofreading conferred by its associated xxx exonuclease activity.
+The resulting PCR product has a much lower level of mutations introduced by copying errors: 
+for a 1-kb segment of DNA that has undergone 20 effective cycles of duplication, about 3.5% of the DNA strands in the product carry an altered base.
+
+Applications of PCR
+
+Although successful PCR was first developed only 10 years ago, the simplicity and the versatility of the technique have ensured that it is among the most ubiquitous of molecular genetic methodologies, with a wide range of general applications.
+
+PCR is frequently used to assay for polymorphisms and pathogenic mutations
+
+Assay of restriction site and tandem repeat polymorphisms
+
+RSPs are polymorphisms resulting in alleles possessing or lacking a specific restriction site.
+Such polymorphisms can be typed using Southern blot hybridization by hybridizing a DNA probe representing the locus against genomic DNA samples that have been digested with the appropriate restriction enzyme and size-fractionated by agarose gel electrophoresis.
+The resulting RFLPs have two alleles corresponding to the presence or absence of the restriction site.
+As a convenient alternative to RFLPs, PCR can type RSPs by simply designing primers using sequences which flank the polymorphic restriction site, amplifying from genomic DNA, then cutting the PCR product with the appropriate restriction enzyme and separating the fragments by agarose gel electrophoresis.
+
+Short tandem repeat polymorphisms (STRPs), also called microsatellite markers, consist of a short sequence, typically from one to four nucleotides long, that is tandemly repeated several times, and often characterized by many alleles.
+For example, (CA)n/(TG)n repeats are often polymorphic when n exceeds 12, and have been widely used as polymorphic markers in the human genome (see below).
+
+Increasingly, however, trinucleotide and tetranucleotide marker polymorphisms are being typed.
+In each case the STRPs can be typed conveniently by PCR.
+
+Primers are designed from sequences known to flank a specific STRP locus, permitting PCR amplification of alleles whose sizes differ by integral repeat units.
+The PCR products can then be size-fractionated by polyacrylamide gel electrophoresis. 
+The PCR normally includes a radioactive or fluorescent nucleotide precursor which becomes incorporated into the small PCR products and facilitates their detection.
+To ensure adequate size fractionation of alleles, the PCR products are denatured prior to electrophoresis.
+An example of the use of a CA repeat marker is shown in Figure 6.6.
+
+Mutation screening
+
+Because of its rapidity and simplicity, PCR is ideally suited to providing numerous DNA templates for mutation screening. 
+Partial DNA sequences, at the genomic or the cDNA level, from a gene associated with disease, or some other interesting phenotype, immediately enable gene-specific PCR reactions to be designed.
+Amplification of the appropriate gene segment then enables rapid testing for the presence of associated mutations in large numbers of individuals.
+By contrast, cell-based DNA cloning of the gene from numerous different individuals is far too slow and labor-intensive to be considered as a serious alternative.
+
+Typically, the identification of exon/intron boundaries and sequencing of the ends of introns of a gene of interest offers the possibility of genomic mutation screening :
+individual exon-specific amplification reactions are developed by designing primers which recognize intronic sequences located close to the exon/intron boundary.
+The resulting PCR products are then analyzed by rapid mutation-screening methods, for several of which the optimal size for mutation screening is about 200 bp.
+Conveniently, the average size of a human exon is about 180 bp but, in the case of very large exons, it is usual to design a series of primers to generate overlapping exonic products.
+
+PCR can also quickly provide amplified cDNA sequences for mutation screening.
+
+Such cDNA mutation screening may be the only way in which mutations can be screened if the exon/intron organization of a gene has not been established.
+To do this, mRNA is isolated from a convenient source of tissue, such as blood cells, converted into cDNA using reverse transcriptase and the cDNA is used as a template for a PCR reaction.
+This version of the standard genomic PCR reaction is consequently often referred to as RT-PCR ( reverse transcriptase-PCR ).
+Clearly, the method is ideally suited to genes that are expressed at high levels in easily accessible cells, such as blood cells.
+However, as a result of low level ectopic transcription of genes in all tissues, it has also been applied to transcript analysis of genes which are not significantly expressed in blood cells, such as the dystrophin (DMD) gene.
+
+Figure 6.1
+
+PCR is an in vitro method for amplifying DNA sequences using defined oligonucleotide primers
+
+Oligonucleotide primers A and B are complementary to DNA sequences located on opposite DNA strands and flanking the region to be amplified.
+Annealed primers are incorporated into the newly synthesized DNA strands.
+The first cycle will result in two new DNA strands whose 5' end is fixed by the position of the oligonucleotide primer but whose 3' end is variable ('ragged' 3' ends).
+The two new strands can serve in turn as templates for synthesis of complementary strands of the desired length (the 5' ends are defined by the primer and the 3' ends are fixed because synthesis cannot proceed past the terminus of the opposing primer).
+After a few cycles, the desired fixed length product begins to predominate.
+
+Figure 6.4
+
+Restriction site polymorphisms can easily be typed by PCR as an alternative to laborious RFLP assays
+
+Alleles 1 and 2 are distinguished by a polymorphism which alters the nucleotide sequence of a specific restriction site for restriction nuclease R:
+allele 1 possesses the site, but allele 2 has an altered nucleotide(s) X, X' and so lacks it.
+PCR primers can be designed simply from sequences flanking the restriction site to produce a short product. 
+Digestion of the PCR product with enzyme R and size-fractionation can result in simple typing for the two alleles.
+
+Figure 6.5
+
+PCR can be used to type short tandem repeat polymorphisms (STRPs)
+
+The example illustrates typing of a (CA)/(TG) dinucleotide repeat polymorphism which has three alleles as a result of variation in the number of the (CA) repeats.
+On the autoradiograph each allele is represented by a major upper band and two minor 'shadow bands'.
+Individuals 1 and 2 have genotypes (in brackets) as follows:
+
+Figure 6.6
+
+Example of typing for a CA repeat 
+
+The example illustrated shows typing of members of a large family with the (CA)/(TG) marker D17S800.
+Arrows to the left mark the top (main) band seen in different alleles 1-7.
+Note that individual alleles show a strong upper band followed by two lower `shadow bands', one of intermediate intensity immediately underneath the strong upper band, and one that is very faint and is located immediately below the first shadow band.
+For the indicated individuals, the genotypes (in brackets) are as follows: xxx .
+Note that in the latter case, the middle band is particularly intense because it contains both the main band for allele 4 plus the major shadow band for allele 3.
+Slipped strand mispairing is thought to be the major mechanism responsible for producing shadow bands at tandem dinucleotide repeats (Hauge and Litt, 1993).
+
+Figure 6.7
+
+PCR products for gene mutation screening are obtained from genomic DNA using intron-specific primers flanking exons or by RT-PCR
+
+A Genomic DNA.
+Exons 1-4 can be amplified separately from genomic DNA using pairs of intron-specific primers xxx , etc.
+
+B RT-PCR.
+This relies on at least some mRNA being present in easily accessible cells such as blood cells, permitting conversion to cDNA.
+The cDNA can then be used as a template for pairs of exon-specific primers ( xxx , etc.) to generate overlapping DNA fragments
+
+
+Figure 6.2
+
+PCR primer design
+
+Table
+
+Length.
+Usually about 20 nt target sequences in complex genomic DNA; can be much less if target DNA is less complex.
+
+
+Base composition .
+Substantial tandem repeats of one or more nucleotides to be avoided.
+Overall %GC plus length to be chosen so that the Tm of each oligonucleotide should be equal or nearly identical.
+
+
+3' end.
+Base complementarity of the two bases at the extreme 3' end of the two primers to be avoided.
+Otherwise primer dimers can result, reducing amplification efficiency .
+
+
+Figure 6.3
+
+PCR has numerous general applications
+
+The figure illustrates general applications.
+Specific applications are described in separate chapters.
+Genome walking means accessing uncharacterized DNA starting from a neighboring characterized sequence.
+
+Table
+
+Typing genetic markers.
+RFLPs; STRPs .
+
+
+DNA templates for mutation screening .
+Genomic mutation screening and RT-PCR.
+
+
+Detecting point mutations.
+Mutations changing restriction site - same principle as Figure 6.4.
+Other mutations by allele- specific amplification (ARM).
+
+
+cDNA cloning.
+From amino acid sequence by DOPP-PCR; cloning of the ends of cDNA by RACE.
+
+
+Genomic DNA cloning.
+Cloning of new members of a DNA family by DOP-PCR.
+Whole genome amplification or subgenomic amplification (e.g. microdissected chromosome bands) by DOP-PCR or linker-primed PCR.
+
+
+Genome walking.
+Inverse PCR; bubble linker (vectorette) PCR, IRE-PCR.
+
+
+DNA templates for DNA sequencing.
+Single-stranded DNA by asymmetric PCR.
+Double stranded DNA for direct sequencing or for conventional cloning then sequencing.
+
+
+In vitro mutagenesis.
+Using 5' add-on mutagenesis to create a recombinant PCR product.
+Using mispaired primers to change a single predetermined nucleotide .
+
+
+Identifying human disease genes 
+
+Principles and strategies in identifying disease genes
+
+Before 1980, only a very few human genes had been identified as disease loci.
+
+Such early successes were very largely the result of exceptional characteristics:
+the biochemical basis of the disease had previously been established and purification of the gene product could be achieved without too much difficulty.
+Such advantages do not apply, however, to the great majority of diseases resulting from mutation in human genes.
+In the 1980s, the application of recombinant DNA technology offered new approaches to mapping and identifying the genes underlying inherited single gene disorders and somatic cancers, and the number of disease genes identified started to increase rapidly. 
+With the subsequent advent of rapid PCR-based linkage studies and PCR mutation screening technologies, the identification of novel disease genes became commonplace and is currently occurring on a weekly basis.
+
+It is important to note that not all 65,000-80,000 human genes will be identified as disease genes.
+Some genes are- indispensable to embryonic function so that deleterious mutations result in embryonic lethality and go unrecorded in humans.
+In other cases, abolition of gene function may have no effect on the phenotype because of genetic redundancy , that is other nonallelic genes also supply the same function.
+Mendelian Inheritance in Man , the catalog of inherited human disorders, currently lists only about 5000 mendelian traits.
+As we shall see in Chapter 15, there is not a one-to-one correspondence between genes and clinical syndromes.
+Sometimes different mutations in one gene cause different phenotypes, and frequently the same disease phenotype can be caused by mutations in different genes.
+
+The more common inherited disorders are the ones that are the most difficult to study by molecular genetics:
+a combination of different genes is often involved (oligogenic or polygenic disorders, see Chapter 18) as well as different environmental triggers.
+Similarly, the more common cancers involve cellular events in which multiple genes are involved.
+Not unexpectedly, therefore, the human disease genes that have been isolated to date are very largely those responsible for inherited single gene disorders, or somatic cancers where there is a single major susceptibility gene.
+This chapter will focus on attempts to identify these types of genes;
+the strategies used to identify genes involved in common diseases is considered in Chapter 18.
+
+Four general strategies can be described for identifying disease genes
+
+The choice of strategy for identifying a disease gene depends on what resources (animal models, chromosomal abnormalities, clone libraries, etc.) are available, and on how much is known about the pathogenesis of the disease.
+Several of the possible strategies aim initially to identify a number of candidate genes , which then have to be tested individually for evidence that implicates them as the disease locus.
+Several different methods have been used to identify candidate genes, but mapping the disease to a specific subchromosomal localization is generally the most fruitful first step.
+
+General strategies for identifying human disease genes
+
+Functional cloning
+
+Some information about the function of the gene is exploited to isolate a gene clone.
+If the gene product is known, partial purification of the product can permit various strategies for identifying the underlying gene.
+Alternatively, a functional assay can be used to screen for the gene.
+This approach has been useful in only a few cases.
+
+Positional cloning
+
+This means isolating the gene knowing only its subchromosomal location, without using any information about the pathogenesis or the biochemical function.
+The general approach is to try to construct physical and genetic maps of the region, refine the subchromosomal localization, and then identify genes in the region to investigate as disease gene candidates.
+Positional cloning remains arduous, and is increasingly becoming unnecessary as information accumulates which allows a positional candidate gene approach.
+
+Position-independent candidate gene approaches
+
+A candidate gene for a human disorder may be suggested without any knowledge of the chromosomal location.
+This can happen if the phenotype resembles another phenotype in animals or humans for which the gene is known, or if the molecular pathogenesis suggests that the gene may be a member of a known gene family. 
+Such approaches have only rarely been successful, and have been overtaken by positional candidate gene approaches. 
+
+Positional candidate gene approaches 
+
+Once a disease has been mapped, it is increasingly becoming possible to use database searches to identify candidate genes. 
+With more and more human genes being mapped to specific subchromosomal regions, positional candidate gene approaches are set to dominate the field.
+
+Positional cloning can be exceedingly laborious, and is usually not seriously attempted until genetic or physical mapping has located the disease gene to within about 1-2 Mb of DNA.
+For some disorders, such fine mapping is not practicable.
+If a disorder is rare, it may be very difficult to identify crossovers that narrow the location of the disease gene to a small interval, and the chance of identifying a patient with a suitable disease-associated cytogenetic abnormality which could refine the map location, may be virtually zero.
+In such cases candidate gene approaches are the only way forward.
+
+Candidate disease genes must be tested for evidence of disease association
+
+Each of the approaches listed in Box 14.1 generates candidate disease genes which then have to be tested individually to determine the likelihood that they are associated with the disease.
+A good candidate gene should have an expression pattern consistent with the disease phenotype, although usually only a subset of expressing tissues are involved in the pathology.
+Demonstrating that a candidate gene is likely to be the disease locus can be done by various means. 
+
+Mutation screening
+
+Screening for patient-specific point mutations in the candidate gene is by far the most popular method, because it is generally applicable and comparatively rapid.
+Identifying mutations in multiple affected individuals strongly suggests that the correct gene has been identified, but formal proof requires additional evidence.
+
+Restoration of normal phenotype in vitro 
+
+For some disorders, particularly those where mutations cause loss of function, the phenotype is reversible.
+If a cell line that displays the mutant phenotype can be cultured from the cells of a patient, transfection of a cloned normal allele into the cultured disease cells may result in restoration of the normal phenotype by complementing the genetic deficiency. 
+
+Production of a mouse model of the disease
+
+Once a putative disease gene is identified, a transgenic mouse model of the disease can be constructed.
+The orthologous mouse gene is identified and characterized and, if the human phenotype is known to result from loss of function, gene targeting can be used to introduce a deleterious germline mutation in the mouse ortholog.
+The mutant mice are expected to produce a phenotype resembling the human disease, this expectation may not always be met.
+If the human disease phenotype results from a gain of function, then attempts to make a transgenic mouse model normally involve introduction of a disease allele into the mouse germline.
+
+Functional cloning
+
+Functional cloning means using information about the function of an unidentified disease gene in order to identify the gene. 
+Essentially two approaches are used: those which depend on the availability of purified gene product, and those for which a functional gene assay is required.
+
+Partial purification of a gene product permits production of gene- specific oligonucleotides or specific antibodies which can be used to identify the gene
+
+If the biochemical basis of an inherited disease is known, it may be possible to purify and partially characterize some of the gene product.
+If this is possible, two approaches can be taken to identify the disease gene.
+
+Gene-specific oligonucleotides 
+
+This approach relies on the ability to isolate sufficient protein product to permit amino acid sequencing.
+Specific peptide bonds in the protein product can be cleaved using suitable proteolytic enzymes such as trypsin (cuts at the carboxyl end of lysine or arginine residues) or reagents such as cyanogen bromide (cuts at the carboxyl end of methionine residues).
+The amino acid sequence of the resulting peptides can be determined by chemical sequencing. 
+This involves a repeated series of chemical reactions in an automated amino acid sequencer .
+In each cycle, an individual peptide is exposed to a chemical that covalently bonds to the N- terminal amino acid and subsequently cleaves this amino acid, permitting its identification by chromatographic methods.
+Overlapping peptides can be identified by sequence overlaps, enabling longer sequences to be established.
+
+The resulting amino acid sequence is inspected to identify regions containing amino acids with minimal codon degeneracy (e.g. methionines and tryptophans are uniquely encoded by AUG and UGG codons, respectively).
+Once suitable regions have been identified, combinations of oligonucleotides are synthesized to correspond to all possible codon permutations.
+The resulting mix of partially degenerate oligonucleotides is labeled and used as a probe to screen cDNA libraries. 
+As only one of the oligonucleotides in the mix will correspond to the authentic sequence, it is important to keep the number of different oligonucleotides low so as to increase the chance of identifying the correct target.
+Once a suitable cDNA clone is isolated, it can be used to screen a genomic DNA library in order to isolate genomic DNA clones for full characterization of the gene.
+
+Identification of the hemophilia A gene illustrates this approach.
+Biochemical analysis of serum samples from individuals with hemophilia A had previously established a genetic deficiency of a blood clotting factor, factor VIII.
+
+Purification of factor VIII from plasma is not straightforward, partly because it is present in very low quantities.
+One approach involved isolating small quantities of clotting factor VIII from large volumes of pig blood by standard protein purification techniques.
+The purified product allowed the production of gene-specific oligonucleotide probes for library screening. 
+
+Library screening by hybridization can be tedious when a complex mixture of oligonucleotides is used, because the results are greatly influenced by the hybridization conditions.
+A more rapid alternative is to use partially degenerate oligonucleotides as PCR primers.
+One early strategy was to use two such sets corresponding to amino acid sequences from different regions of the protein as primers.
+By using total cDNA from a suitable source as a template, a specific cDNA could be generated spanning the codons from the two different regions.
+However, this approach demands considerable prior information about the sequence of the protein.
+A more convenient alternative is to prepare cDNA and ligate it to vector DNA molecules.
+PCR can then be conducted using one vectorspecific primer and one primer composed of a panel of partially degenerate oligonucleotides. 
+
+Specific antibodies
+
+If even small amounts of the normal protein product can be isolated, specific antibodies can be raised.
+The protein, or a peptide derived from it, is conjugated to a powerful immunogenic hapten (such as keyhole limpet hemocyanin) and the compound molecule injected into a rabbit or mouse.
+The hapten activates B lymphocytes, and the protein or peptide of interest activates helper T lymphocytes, leading to production of antibodies.
+
+Mouse or rabbit antibodies which are specific for the desired protein or peptide can then be used in various ways to identify a corresponding cDNA.
+
+An early approach was to enrich for mRNA encoding the product in a cell-free in vitro protein synthesis system .
+This was the way in which the gene for phenylketonuria was identified.
+Phenylketonuria was known to be caused by a lack of the enzyme phenylalanine hydroxylase.
+The enzyme was purified from liver, where it was known to be expressed. 
+Specific antibodies were raised and employed to immunoprecipitate polysomes containing phenylalanine hydroxylase mRNA.
+The purified mRNA was then converted to cDNA and a specific cDNA clone was isolated.
+
+This type of approach has been superseded by antibody screening of cDNA libraries.
+Antibody screening requires a cDNA library constructed by cloning cDNA from a relevant tissue into an expression vector.
+Inserts within the recombinant DNA clones are expected to be expressed within the host cell to produce foreign polypeptides.
+Specific antibodies can then be used to screen colony filters from such expression cDNA libraries to identify clones encoding the product of interest.
+
+Some disease genes have been identified by using a functional complementation assay.
+
+In some cases, a functional complementation assay is possible even when the gene product is unknown. 
+Yeast mutants have been used to identify human genes which perform specific biochemical functions.
+Defined yeast mutants are relatively abundant, and genetic analysis in yeast is particularly sophisticated because of the ease of performing homologous recombination.
+For proteins that have been very highly conserved during evolution, the human protein may be able to complement a yeast mutant defective in the corresponding protein.
+The procedure involves transforming the mutant yeast cells with different human DNA fragments in an effort to rescue the normal phenotype.
+This approach has been successful in identifying the human genes that specify various enzymes of purine and pyrimidine biosynthesis, and also some crucially important transcription factors, etc.
+
+Human disease genes have also been identified by functional complementation cloning, particularly those involved in DNA repair. 
+A variety of mammalian cell lines have been generated that are deficient in DNA repair.
+They show abnormal responses following exposure to UV irradiation or chemical mutagens.
+These mutant cells, or alternatively cells derived from patients with a DNA repair deficiency, can be transformed by fragments of normal human DNA or human chromosomes in order to produce a repair-competent phenotype.
+This was the way in which cDNA clones for the Fanconi's anemia group C ( FACC ) gene were first obtained.
+
+Positional cloning
+
+Positional cloning means cloning a gene knowing nothing except its subchromosomal location.
+Often the initial localization defines a relatively large candidate region of 10 Mb or more.
+Such initial locations may come from various sources;
+the most common are:
+
+- linkage analysis identifies a marker showing a lod score greater than 3 in family studies.
+This is the most common means of localization for inherited diseases.
+
+- Loss of heterozygosity screening identifies a chromosomal region which is commonly deleted in tumors.
+Tumor suppressor genes important in cancer are often first located this way.
+
+- Chromosomal abnormalities can implicate a general region in a disease.
+For example, translocations and deletions identified Xp21 as the location of the Duchenne muscular dystrophy (DMD) gene
+
+
+Getting from such an initial localization to an identified gene is a major achievement.
+The first successful positional cloning efforts were published in 1986 and marked a triumphant new era for human molecular genetics.
+One after another, genes for important disorders such as DMD, cystic fibrosis (CF), Huntington's disease (HD), adult polycystic kidney disease, colorectal cancer, breast cancer, etc., were isolated. 
+However, positional cloning can be exceedingly arduous, and by 1995 only about 50 inherited disease genes had been identified by this approach.
+Moreover, almost every one of these successes had depended on something other than pure positional cloning - usually the discovery of a large-scale mutation in one or more patients, or the existence of linkage disequilibrium. 
+Now, with the ever increasing number of mapped human genes, and with the expectation that the great majority of all human genes will be placed on the physical map by about 1998, positional candidate approaches are set to overtake pure positional cloning.
+
+Narrowing down the candidate region requires resources of clones and markers
+
+A first requirement for narrowing down the candidate region is a series of clones and markers from within this region.
+Polymorphic markers are needed to generate a high resolution genetic map of the region, and clones are required both as a source of such markers and to start physical mapping.
+With the progress of the Human Genome Project, many of the resources required have already been generated on a genome-wide scale. 
+In many chromosomal regions, existing high resolution genetic maps allow a disease gene to be placed between markers only 1 cM apart, if sufficient family material is available. 
+The current large-scale efforts to construct detailed physical maps of human chromosomes mean that contigs of ordered clones (usually YACS) may well already have been constructed across the critical region.
+If not available, they must be constructed.
+It may be advantageous to use large-insert cloning vectors other than YACS (P1s, PACs or BACs) if the region is unstable or hard to clone in YACS.
+The large-insert clones can then be subcloned into cosmids for further study. 
+Sometimes large-scale disease-associated mutations can be identified using these resources, and such mutations can help pinpoint the location of the disease gene.
+
+Nowadays, such clones are found by screening publicly available large-insert libraries which are stored in a few major reference centers, and it is only the ordering of a modest number of clones into a contig that may have to be done in- house.
+In the late 1980s, when genetic, and especially physical, maps of human chromosomes were still at a primitive stage, and available libraries had small inserts, extra starting points for contig assembly were needed within candidate regions.
+Various ingenious methods were developed to rescue DNA clones from regions known to include a disease gene.
+
+Chromosome microdissection cloning 
+
+Using micromanipulation techniques, a small chromosomal segment can be physically cut out from an individual chromosome from a cytogenetic preparation on a microscope slide.
+Extremely fine needles, or a laser beam, are used to perform the microdissection in a series of cells.
+The excised fragments, typically representing a single chromosomal band, are collected, pooled and the DNA extracted for use in constructing DNA libraries ( microdissection libraries ).
+This technical tour de force has been useful in generating DNA clones from several previously poorly characterized disease-associated subchromosomal regions.
+
+However, microdissection libraries are difficult to construct; 
+contamination by extraneous DNA has been a problem and the clone complexity (the number of different DNA sequences) has often been poor.
+This approach has very largely been superseded with the advent of large-scale YAC mapping.
+
+Figure 14.1
+
+Four ways to identify a human disease gene
+
+Note that the two candidate gene methods start with the hypothesis of a candidate gene, but that ultimately all four methods identify candidate disease genes which then have to be tested for evidence of association with disease.
+
+Figure 14.2
+
+The factor VIII gene, the locus for hemophilia A, was cloned by product-directed oligonucleotide screening of DNA libraries
+
+The figure illustrates one way in which factor VIII DNA clones were obtained, following cleavage of purified porcine factor VIII protein into peptides and amino acid sequencing. 
+The resulting sequences were inspected to identify regions with low codon redundancy.
+The top panel shows a sequence of 15 amino acids from His8 to Met22 in one of the peptides, with the possible codon permutations above (with variable nucleotides in red).
+This sequence was selected because of the generally low codon redundancy:
+two amino acids, Trp and Met, are specified by a single codon and another seven can be specified by just two alternative codons.
+A partially degenerate 45-bp antisense oligonucleotide probe was prepared and used as a primary hybridization probe to screen a porcine genomic DNA library, and thereafter secondary screening used a 15-bp antisense degenerate oligonucleotide probe corresponding to the sequence from Trp18 to Met22.
+The porcine factor VIII genomic clone was then used to screen human DNA libraries to identify the human gene.
+
+Figure 14.3
+
+Positional candidate gene approaches are set to dominate other methods of identifying human disease genes
+
+Genetic testing in individuals and populations
+
+Geneticists have no monopoly on DNA-based diagnosis.
+For microbiologists and virologists, for example, PCR is a central tool for identifying pathogens, while hematologists, oncologists and other pathologists all use DNA testing as a basis for diagnosis. 
+However, here we will restrict ourselves to DNA-based diagnosis in the context of human molecular genetics.
+
+Clinical diagnosis and laboratory tests 
+
+Clinical definitions of diseases are always somewhat arbitrary. 
+Essentially the clinician is saying, more or less convincingly, 'this patient resembles a group of others whom I have seen or read about, and who are labeled in a certain way'.
+
+A good physician is highly skilled at making such phenotypic definitions.
+For many purposes, particularly patient management, this is the most useful method of labeling patients, and in some branches of medicine there is no basis for any more fundamental classification of phenotypes.
+
+Geneticists are fortunate in that, at least for mendelian diseases, there is a natural underlying basic principle.
+All mendelian diseases can be classified, first by the locus involved and second by the particular mutant allele at that locus. 
+Because diagnostic labels are not simply conventions, they evolve as knowledge of the underlying genetics advances. 
+Diseases are lumped together (Duchenne and Becker muscular dystrophy) or split ( retinitis pigmentosa is listed in OMIM under seven autosomal dominant, one autosomal recessive and three X-linked headings).
+Sometimes the original clinical-based classification of a whole spectrum of diseases is completely changed by molecular analysis, as has happened with osteogenesis imperfecta .
+
+Clinical and genetic classifications of diseases are not in competition with each other.
+Each has its uses, and a satisfactory classification must include both aspects.
+For clinical management and prognosis, classification of diseases into allelic groups may not be very helpful.
+As the examples from Chapter 15 show, molecular pathology is a very imperfect science.
+Problems include:
+
+- mutations at several different loci may produce the same clinical syndrome (for example, congenital deafness)
+- Different mutations at the same locus may produce different clinical syndromes, as in hemoglobinopathies and RET mutations
+- Genetic diseases are often variable even within families, so that knowing the mutation does not necessarily predict which features a patient will show.
+Neurofibromatosis type 1 (MIM 162200) is one example among many
+
+
+Thus DNA-based descriptions of genetic diseases complement rather than supersede traditional clinical descriptions. 
+However, one area where identification of the affected locus and, where possible, the exact mutation is crucially important is in genetic prediction.
+Genetics is an unusual branch of medicine in that many of the consultations involve phenotypically normal people.
+They want to know whether their unborn child is affected or possibly whether they will develop a late-onset disease.
+Diagnosing the family condition requires traditional clinical skills and, for genetic counseling, a statistical risk can be based on standard mendelian principles or empirical data - but only laboratory tests can give a definite answer.
+Demonstrating that a patient has or has not inherited a mutation which is known to cause a disease in his family is the fundamental requirement for accurate genetic prediction.
+
+Direct and indirect testing
+
+How much information the DNA tests can give depends on the state of knowledge about the genes) involved, but in principle DNA-based diagnosis can be made in two essentially different ways.
+
+- Direct testing: DNA from a consultand is tested to see whether or not it carries a given pathogenic mutation
+- Indirect testing (gene tracking): linked markers are used in family studies to discover whether or not the consultand inherited the disease-carrying chromosome from a parent
+
+In general, direct testing is to be preferred but, as shown in Figure 16.1 and discussed below, it may not always be possible.
+Even when direct testing is scientifically possible, it may not always be practicable in the context of a routine diagnostic service.
+
+Direct testing
+
+The optimal, though not always practicable, method of DNA-based diagnosis is to test a person's DNA directly to see whether his gene sequence is normal or mutant.
+We must of course know which gene to examine and we must know the relevant 'normal' (wild-type) sequence.
+Assuming the gene has been cloned, the main obstacle to direct mutation testing is allelic heterogeneity, as discussed below.
+
+Direct testing is almost always done by PCR - the few applications of Southern blotting include testing for fragile X and myotonic dystrophy full mutations and for some chromosomal translocations in cancer.
+The sensitivity of PCR allows us to use a wide range of samples.
+These can include:
+
+- blood samples - the most widely used source of DNA from adults.
+- Mouthwashes or buccal scrapes - these yield sufficient DNA for one or two tests; they are especially favored for population screening programs.
+- Chorionic villus biopsy samples - these are the best source of fetal DNA (better than amniocentesis specimens). 
+- One or two cells removed from eight-cell stage embryos - for pre- implantation diagnosis after in vitro fertilization.
+- Hair, semen, etc . for criminal investigations. 
+- Archived pathological specimens can be used where necessary to type dead people when no DNA has been stored.
+Amplification from fixed or degraded DNA works best for short sequences, say 100 bp or less
+
+- Guthrie cards - these are the cards on which a spot of dried blood is sent to a laboratory for neonatal screening for phenylketonuria (PKU) in the UK and elsewhere; not all the blood spot is used for the screening test.
+They are a possible source of DNA from a dead child.
+
+
+Not all mutation tests use DNA.
+Testing RNA by RT-PCR has advantages when screening genes with many exons or seeking splicing mutations.
+However, RNA is much less convenient to obtain, requiring special sample handling and rapid processing.
+It is also worth noting that protein assays may stage a come-back after the eclipse of the past 20 years. 
+A protein-based functional assay might classify the products of a highly heterogeneous allelic series into two simple groups, functional and nonfunctional - which is, after all, the essential question in most diagnosis.
+
+Testing for known and unknown mutations in a gene poses different problems and requires different methods 
+
+Mutation screening
+
+The many different techniques which can be used to screen a gene for mutations were described in Chapter 14. Table 16.1 summarizes the advantages and disadvantages of the methods which have been widely used, from the point of view of a diagnostic laboratory.
+Their use in research may produce a rather different balance sheet.
+For routine diagnostic use, all these methods suffer two limitations:
+
+- they are quite laborious and expensive for use in a diagnostic service, which needs to produce answers quickly and within a modest budget
+- They detect differences between the patient's sequence and the published 'normal' sequence - but they do not generally distinguish between pathogenic and chance nonpathogenic changes 
+
+None of these problems is insuperable.
+With each passing year, the labor and cost per genotype diminish as new automated methods of mutation screening are developed.
+Several groups are working on developing 'DNA chips' , comprising arrays of oligonucleotides attached to a silicon or glass substrate.
+These could be used to screen a sequence for any mutation in a single reaction.
+One scheme envisages hybridizing the target to the array, extending by one nucleotide using DNA polymerase and a fluorescent chain terminator, and checking locations where no extension occurred.
+These should mark mismatches caused by deviation of the target sequence from the standard wild-type sequence.
+Also, with advancing knowledge of gene function and an increasing database of disease-related mutations, the task of deciding whether a given sequence change is pathogenic is becoming rather easier.
+Nevertheless, for the foreseeable future, testing for unknown mutations in a service laboratory remains a considerable problem.
+
+Mutation detection
+
+Testing a patient sample for the presence or absence of a known sequence change is a different and much simpler problem than scanning a gene for the presence of any mutation.
+Table 16.2 lists the main methods which are available to do this, and they are described below. 
+
+Testing for a known change is possible for:
+
+- diseases where there is presumed to be allelic homogeneity, so that all affected people in the population have one particular DNA sequence change
+- Diseases where most affected people in the population have one of a limited number of specific mutations
+- Diagnosis within a family.
+General mutation detection methods may be needed to define the family mutation but, once it is characterized, other family members normally need be tested only for that particular mutation
+
+- In research, for testing control samples.
+A common problem in positional cloning is that a candidate gene has been identified and a change has been seen in this gene in a patient with the relevant disease.
+The question then arises, is this change the pathogenic mutation (confirming that the candidate gene is the disease gene) or might it be a nonpathogenic polymorphism? 
+One common approach is to screen a panel of 100 or so normal control samples for the presence of the change (which does not, of course, solve the problem of rare neutral variants) 
+
+
+Several methods allow easy testing for a specified DNA sequence change
+
+Presence/absence of a restriction site
+
+As we saw in Chapter 5, the single base change responsible for sickle cell disease abolishes a site, CCTNAGG, for the restriction enzyme MstII.
+This forms a simple direct test for the presence of the sickle cell mutation.
+Normally the test would be done by PCR rather than Southern blotting. 
+
+Although hundreds of restriction enzymes are known, they almost all recognize symmetrical palindromic sites, and most pathogenic point mutations will not happen to affect such sequences. 
+Also, sites for very rare and obscure restriction enzymes are unsuitable for routine diagnostic use because the enzymes are expensive and often of poor quality.
+Sometimes, however, a diagnostic restriction site can be introduced by a form of PCR mutagenesis using carefully chosen primers.
+Figure 16.2 shows an example.
+
+Use of allele-specific oligonucleotide probes
+
+These short synthetic probes hybridize only to a perfectly matched sequence.
+
+Their use has been described in Chapter 5.
+For diagnostic purposes, a reverse dot-blot procedure is often used.
+
+ARMS test: PCR amplification using allele- specific oligonucleotide primers
+
+The principle of this method was described in Chapter 6. 
+Paired PCR reactions are carried out.
+One primer (the common primer) is the same in both reactions, the other exists in two slightly different versions, one specific for the normal sequence and the other specific for the mutant sequence. 
+An additional control pair of primers is usually included, which will amplify some unrelated sequence from every sample, as a check that the PCR reaction has worked.
+The location of the common primer can be chosen to give a product of any desired size, so that it is easy to design multiplex reaction systems.
+With multiplexing, the additional control pair of primers is unnecessary, because normal and mutant-specific primers can be combined so as to ensure that something will amplify in every tube.
+The ARMS method is well suited to screening large numbers of samples for a given panel of mutations, using multiplexed PCR.
+Many variations have been devised by companies working on producing diagnostic kits.
+
+Oligonucleotide ligation assay (OLA)
+
+In the OLA test for a base substitution mutation, two 20-mer oligonucleotides are constructed which hybridize to adjacent sequences in the target, with the join sited at the position of the mutation.
+DNA ligase will covalently join the two oligonucleotides only if they are perfectly hybridized (Nickerson et al., 1990).
+The test is done on a PCR-amplified template, and a single ligation reaction is carried out.
+One oligonucleotide is tagged with biotin and the second carries a reporter molecule such as digoxygenin.
+Reaction products are transferred to streptavidin-coated microtiter plates which bind biotin.
+If ligation occurs, the reporter will be retained in the well after washing.
+The OLA is well suited to large-scale automated testing, since it does not involve electrophoresis or centrifugation. 
+
+Figure 16.1
+
+Genetic diagnosis, counseling and prediction
+
+The flow diagram shows how a clinical diagnosis is made starting from the patient's phenotype and then, depending on the mode of inheritance and the state of genetic knowledge, various means are deployed for counseling and predictive tests. 
+
+Figure 16.2
+
+Introducing an artificial diagnostic restriction site
+
+An xxx mutation in the intron 4 splice site of the FACC gene does not create or abolish a restriction site.
+The PCR primer stops short of this altered base, but has a single base mismatch (red G) in a noncritical position which does not prevent it hybridizing to and amplifying both the normal and mutant sequences.
+The mismatch in the primer introduces an AGTACT restriction site for Scal into the PCR product from the normal sequence.
+The Scal -digested product from homozygous normal (N), heterozygous (H) and homozygous mutant (M) patients is shown. 
+
+Figure 16.3
+
+Reverse dot-blot for detection of specific mutations
+
+Nine oligonucleotides are bound to a small filter. 
+Each hybridizes specifically to a sequence found in one or more HLA-DR alleles.
+A set of such filters has been hybridized with PCR-amplified and labeled DNA of nine patients; 
+the figure shows a negative image of the resulting autoradiographs. 
+These oligonucleotides are used to distinguish sub-types of HLA-DR4; DR12 (bottom right) is negative while DR7 (bottom center) hybridizes to most of the oligos.
+
+Commercial versions of reverse dot-blotting produce a colored bar-code when exposed to test DNA.
+
+Figure 16.4
+
+Multiplex ARMS test to detect four cystic fibrosis mutations
+
+The common primers have been designed so that each reaction gives a product of a different size, allowing multiplexing. 
+Each tube contains primers for two normal and two mutant sequences.
+PCR products, from top to bottom, test for the mutations xxx .
+In the left track of each pair the ARMS primers amplify the normal counterparts of the xxx sequences, and the mutants 6551D and G542X;
+in the right hand track the primers amplify the opposite allele in each case.
+Tracks 1, 2: no mutation detected; track 3: compound heterozygote for xxx and 6551D; track 4: compound heterozygote for AF508 and G542X; track 5: compound heterozygote for AF508 and xxx .
+
+Table 16.1
+
+Methods for scanning a gene for point mutations
+
+Method.
+Advantages.
+Disadvantages .
+
+
+Sequencing.
+Detects all changes .
+Laborious.
+
+
+Mutations fully characterized.
+Generates excessive information.
+
+
+Heteroduplex gel mobility.
+Very simple.
+Short sequences only ( xxx ).
+
+
+Limited sensitivity.
+
+
+Does not reveal position of change.
+
+
+Single-strand conformation polymorphism(SSCP)analysis .
+Simple.
+Short sequences only( xxx ).
+
+
+Does not reveal position of change .
+
+
+Denaturing gradient gel electrophoresis (DGGE).
+High sensitivity.
+Choice of primers is critical.
+
+
+GC-clamped primers expensive .
+
+
+Does not reveal(position of change.
+
+
+Mismatch cleavage.
+
+
+chemical.
+High sensitivity.
+Toxic chemicals.
+
+
+enzymic.
+Shows position of change.
+Experimentally difficult.
+
+
+Protein truncation test(PTT) .
+High sensitivity for chain terminating mutations .
+Chain terminating mutations only.
+
+
+Expensive.
+
+
+Shows position of change.
+Experimentally difficult.
+
+
+Best with RNA .
+
+
+Table 16.2
+
+Methods of testing for a specified mutation
+
+Method.
+Comments.
+
+
+Restriction digestion of PCR-amplified DNA; check size of products on gel.
+Only when the mutation creates or abolishes a natural restriction site or one engineered by use of special PCR primers.
+
+
+Hybridize PCR-amplified DNA to allele-specific oligonucleotides (ASO) on dot-blot, slot-blot or Southern blot.
+General method for point mutations .
+
+
+PCR using allele-specific primers (ARMS test).
+General method for point mutations; primer design critical.
+
+
+Oligonucleotide ligation assay (OLA).
+General method for point mutations.
+
+
+PCR with primers located either side of a suspected deletion or translocation breakpoint.
+Successful amplification shows presence of the specified rearrangement.
+
+
+Check size of expanded trinucleotide repeat.
+Trinucleotide repeat diseases only; large expansions require Southern blots, smaller ones can be done by PCR.
+
+
+Studying human gene structure and function and creating animal models o f disease
+
+The structure and function of human genes can be studied by a variety of methods.
+Well-established methods involve manipulations in vitro and the use of cultured cells.
+More recently, gene expression and function have been studied in whole animals following the introduction of exogenous genes or the modification of endogenous genes by transgenic technology and gene targeting.
+The latter methods have also been used to create specific animal models of disease.
+
+Obtaining human gene clones
+
+Human gene clones can be isolated by a variety of different routes
+
+Human gene clones can be obtained by cell-based or PCR-based DNA cloning of either genomic DNA or cDNA.
+Comprehensive studies of gene structure and function normally use cell-based DNA cloning to provide the starting material.
+Cell-based DNA cloning, unlike PCR, permits very large amounts of a DNA clone to be produced, offers a wide range in the sizes of DNA fragments that can be cloned and permits rapid subcloning into useful vectors which are designed to allow expression of the cloned gene in cells or even whole animals.
+PCR may provide a rapid way of getting an initial gene clone, but subsequent studies will usually use the PCR products as a way of screening genomic and cDNA libraries to identify and isolate clones of cells containing the gene sequence of interest.
+A variety of different routes have been used to obtain gene clones, as follows.
+
+cDNA enrichment cloning
+
+The first human gene clones were obtained by this method. 
+Although the genomic DNA of all nucleated human cells consists of basically the same collection of sequences, the mRNA populations and the collection of proteins made by different cells may be very different.
+As a result, total cDNA from different cell types is enriched for certain gene sequences at the expense of others, and the abundance of specific polypeptides and proteins may vary enormously.
+For example, the human xxx and xxx -globin gene sequences each comprise less than xxx of the genomic DNA in a human cell, but there is about 15 g of hemoglobin per 100 ml of serum and xxx and xxx - globin sequences are correspondingly abundant in the mRNA populations of red blood cells.
+A cDNA library from red blood cells therefore affords a good chance of identifying globin cDNA clones, and so it was not surprising that the globin genes were among the first human genes to be cloned.
+More recently, PCR-based methods have been devised to selectively amplify cDNAs corresponding to subsets of transcriptionally active genes.
+Such mRNA differential display methods permit analysis of gene expression patterns and enable the isolation of genes with particular expression properties found in some cells but not in others.
+
+Protein-directed cloning
+
+It may be possible to isolate and purify a specific protein from a cell or, more conveniently, from extracellular fluids in the case of secreted proteins.
+A variety of different protein fractionation techniques can be used, exploiting differences between proteins in size, solubility, charge and binding affinity. 
+
+At each stage in the purification, the separated fractions are assayed for a distinctive property of the protein of interest (e.g. enzymatic activity), to enable identification of a fraction that is enriched in the desired protein.
+
+A partially purified protein can then be used in two ways to isolate the corresponding cDNA.
+The purified protein preparation can be injected into rabbits or mice in order to raise specific antibodies, which can then be used to screen an expression cDNA library.
+Alternatively, the amino acid sequence of a polypeptide is determined as explained on page 370 .
+The amino acid sequence is inspected to design gene-specific oligonucleotides which can then be used as hybridization probes for isolating a corresponding cDNA or genomic DNA clone.
+
+Location-directed cloning
+
+Physical mapping and positional cloning projects can involve attempts to identify gene clones at specific subchromosomal locations. 
+
+Homology-based cloning
+
+Individual human genes may be particularly closely related in sequence to individual genes in other species, ( orthologous genes ) notably mammalian species, and to other members of the same human gene family ( paralogous genes ).
+Because of evolutionary pressure to conserve gene function, it is the coding sequences which define the close sequence relationship;
+introns are generally not well conserved unless they are very short.
+Because of the close homology between certain genes within and between species, an isolated DNA clone can be used to screen for other clones related to it in sequence.
+This can be done using molecular hybridization or PCR.
+
+Hybridization-based homology cloning.
+The DNA clone is labeled and used as a hybridization probe to screen a genomic or cDNA library.
+A labeled genomic DNA clone can identify a cognate cDNA clone and vice versa and, if the clone is a member of a gene family, clones representing other members of the family may be identified.
+DNA clones from other species can be used as hybridization probes to screen human DNA libraries.
+Provided the probes are not too short, stable heteroduplex formation can occur between related sequences: 
+sequence matching at even 70% of the nucleotide positions often permits adequate hybridization signals.
+This is the basis of zoo-blot hybridization ).
+Many human genes have been isolated as a result of homology with mammalian orthologs.
+In addition, certain genes may have motifs that are extremely well conserved during evolution and have been cloned by homology ultimately with genes in distantly related species such as Drosophila melanogaster (e.g. HOX genes, PAX genes, WNT genes, etc.).
+
+PCR-based homology cloning.
+In some cases, it has been possible to design degenerate oligonucleotide primers corresponding to short sequences of amino acids that are well conserved between the products of the different members of a gene family.
+The following two examples illustrate the power of this approach:
+
+Some gene families encode products where there are two or more highly con served regions separated by regions that are less well conserved.
+Degenerate PCR primers are chosen from two conserved motifs , that is a forward primer corresponds to one motif and the reverse primer corresponds to the second one.
+Starting with a suitable DNA source (e.g. cDNA from a tissue where the gene family members are expected to be expressed), the degenerate primers can be used to amplify the intervening sequence from different transcripts containing the conserved regions.
+Cloning of the PCR products and sequencing individual products can then be used as a start point for isolating novel members of the gene family.
+
+A related approach involves a PCR assay in which the two primers are degenerate oligonucleotide primers corresponding to a single evolutionarily conserved region (sometimes described as blocks or ACRs - ancient conserved regions; examples include zinc fingers, homeoboxes, etc.).
+The idea here is to screen genomic clones from a defined chromosomal region, for example a collection of YACs in that region, for the presence of such motifs.
+This can lead to the identification of novel genes in that region.
+
+Random clone characterization 
+
+The above methods have been and continue to be very useful for isolating gene clones.
+They are now, however, being overtaken by large-scale characterization of random cDNA clones. 
+The human EST (expressed sequence tag) projects involve random sequencing of clones from cDNA libraries, as a prelude to more comprehensive clone characterization.
+Approximately 80% of all human genes will be obtained by this route (the other genes may be not expressed or poorly expressed in the range of cDNA libraries which are being screened for the EST projects).
+
+Gene structure and transcript mapping studies
+
+After identification of a genomic or cDNA clone containing an uncharacterized gene, the first step is to obtain the corresponding cDNA or genomic DNA clones respectively by screening suitable DNA libraries.
+An initial priority is to obtain a full-length cDNA sequence and define translational initiation and termination sites, polyadenylation site(s) and exon/intron boundaries.
+
+Subsequently, attempts may be made to identify and characterize promoter elements and other regulatory elements in the 5'-flanking sequence and to define the transcriptional initiation site. 
+Especially in the case of small genes, a complete nucleotide sequence is often established;
+for larger genes, it is usual to focus initially on obtaining just the full-length cDNA sequence.
+
+Completion of full-length cDNA sequences can be achieved by assembling overlapping cDNA clones and by the RACE-PCR procedure
+
+Many of the clones found in cDNA libraries contain partial length sequences.
+A frequent method of constructing cDNA libraries uses an oligo(dT) primer to bind to the 3' poly(A) tail of the mRNA and prime first strand synthesis by reverse transcriptase.
+However, very large mRNAs can be a problem because of the difficulty in completing cDNA synthesis, and such libraries typically show a general 3'end bias :
+many of the cDNA clones contain comparatively short sequences containing only the 3' end of the cDNA.
+
+One way of addressing this problem has been to prime first strand synthesis using, as an alternative to an oligo(dT) primer, a degenerate hexanucleotide primer of the type commonly used for labeling DNA in vitro.
+Such primers hybridize at essentially random sites along the RNA, and can generate cDNA sequences of a sufficient size to be useful when cloned.
+Obtaining the sequence of a full-length cDNA can be achieved by sequencing a variety of different cDNA clones and arranging them to form a series of overlapping cDNA clones, as in the case of the cystic fibrosis gene.
+This process can therefore be regarded as the cDNA equivalent of chromosome walking using genomic DNA clones (see Figure 11.13) .
+
+Because full-length copies of low abundance mRNAs have been difficult to obtain by conventional cloning, rapid PCR-based methods have been developed.
+One popular method of obtaining full-length cDNA sequences is the RACE ( rapid amplification of cDNA ends ) technique (also sometimes described as anchor-PCR).
+RACEPCR is a form of RT-PCR which amplifies sequences between a single previously characterized region in the mRNA and either the 5' or the 3' end.
+A primer is designed from the known internal sequence and the second primer is selected from an anchor sequence which is artificially added on to one end of the cDNA (see Figure 19.4 ).
+
+Transcription start sites can be mapped by nuclease S1 protection and by primer extension Important regulatory sequences are often located close to transcription start sites and can often be identified after mapping the latter. 
+Although 5' RACE-PCR can permit rescue of sequences corresponding to the 5' end of a mRNA (and therefore, the transcriptional start site), two major methods are preferentially used to define the transcriptional start site.
+
+Nuclease S1 protection
+
+The endonuclease S1 is an enzyme from the mold Aspergillus oryzae which cleaves single-stranded RNA and DNA but not double-stranded molecules.
+In order to map the transcription start site for a gene, a genomic DNA clone suspected of containing the start site is required.
+
+The DNA clone is then digested with a suitable restriction endonuclease to generate a fragment that is expected to contain the transcription start site.
+As shown in Figure 19.5A , hybridization to the cognate mRNA and Sl nuclease digestion defines the distance of the transcription start site from the unlabeled end of the restriction fragment. 
+If more precise localization is required, the labeled DNA fragment in the heteroduplex can be sequenced by a chemical method of DNA sequencing.
+Note that, in much the same way, nuclease Sl mapping can also be used to map other boundaries between coding and noncoding DNA such as exon/intron boundaries (see below) and the 3' end of a transcript.
+
+Primer extension
+
+The method is very similar to the nuclease Sl protection method.
+In this case, the chosen restriction fragment must be shorter than the mRNA and the overhang is filled in using reverse transcriptase ( Figure 19.5B ).
+
+Again a more accurate location is possible by using the chemical sequencing method of Maxam and Gilbert (1980) to sequence the labeled DNA strand.
+
+Exon/intron boundaries can be mapped by a variety of different methods.
+
+An early requirement in investigating gene structure is to isolate suitable genomic DNA clones covering the length of the gene.
+The availability of both genomic and cDNA clones then provides the opportunity of mapping exon/intron boundaries. 
+Not all human genes have introns (see Table 7.6 ).
+
+Where introns are present, however, they are often comparatively large.
+The presence of introns can usually be inferred from comparative mapping of cognate genomic and cDNA clones. 
+Once the full cDNA sequence has been established, sequencing primers can be designed from various segments of the cDNA and used in cycle DNA sequencing with denatured cosmid clones as the DNA sequencing templates (see page 309). 
+The sequences obtained should cross an exon/intron boundary, unless the exon is very large, in which case additional sequencing primers may be required.
+
+Other methods of mapping exon/intron boundaries include nuclease Sl protection (see page 512) and the PCR-based genomic walking method.
+
+The latter includes techniques such as bubble-linker PCR or inverse-PCR (see Figures 6.11 and 6.12 ), which can be used with an exonspecific primer to amplify a short stretch of neighboring intronic sequence from a YAC clone template (or even from total genomic DNA) and then sequence across the exon/intron boundaries.
+This was the way, for example, in which comprehensive exon/intron boundaries were established for the dystrophin gene.
+
+Figure 19.1
+
+An antibody that detects a partially purified gene product can be used to screen an expression cDNA library to identify the corresponding cDNA clone
+
+General purpose cDNA libraries use cloning vectors which are not designed to express the insert DNA, but just to propagate it.
+Expression vectors, however, are deliberately designed to allow insert cDNAs to be expressed by the host cell to give a foreign polypeptide product.
+To do this, the vector requires suitable expression sequences flanking the insert. 
+For expression in a bacterial host cell, these will include a strong, usually inducible, bacterial or phage promoter (P) plus a ribosome-binding site (RBS) upstream of the multiple cloning site (MCS).
+In addition, downstream transcriptional terminator sites (TER) are required to prevent readthrough from disrupting plasmid replication.
+Cloning of cDNA molecules using such vectors produces an expression cDNA library with cells containing recombinant molecules (R1, R2, R3, R4 in figure) able to express the insert to give a protein (protl, prot2, etc.).
+
+Individual bacterial colonies can be separated by plating out and the colonies transferred to colony filters.
+The bacterial cells are lysed in situ by treatment with lysozyme and washed to remove cell debris.
+Exposure to a suitable antibody can result in specific antibody binding to a colony expressing the protein of interest, and detection of bound antibody.
+The identified colony containing the cDNA of interest is grown in culture to enable isolation of the desired cDNA clone.
+
+Figure 19.2
+
+PCR-based homology cloning uses degenerate primers corresponding to evolutionarily conserved protein regions
+
+Left panel .
+This example shows members of a gene family which encode proteins with two or more evolutionarily well-conserved regions, A and B.
+From the available information, say from sequences 1-4, consensus sequences are derived for regions A (CONS-A) and B (CONS-B). 
+Degenerate oligonucleotide forward and reverse primers are designed to correspond to the CONS-A and CONS-B sequences, respectively.
+When used to amplify sequences from total cDNA prepared from a suitable cell type, they may generate novel products, say 5-7, in addition to the known sequences 1-4.
+Cell-based cloning of the PCR products allows sequencing of individual clones, and the new sequence information is used to isolate large locus-specific clones, for example by RACE- PCR. 
+
+Right panel .
+Members of some gene families encode proteins with significantly large well-conserved domains.
+From the available information, degenerate forward and reverse oligonucleotide primers are designed to correspond to the conserved sequence (constituting a kind of degenerate STS).
+
+The primers can then be used to assay for novel genes containing the conserved motif.
+For example, the individual clones in a newly characterized YAC contig can be assayed in turn to see if any of them contain a gene that encodes a specific motif, such as a zinc finger .
+
+Figure 19.3
+
+A consensus full-length cDNA sequence for the cystic fibrosis gene (CFTR) was obtained by assembling a series of overlapping cDNA clones
+
+Individual cDNA clones are shown as series of boxes with open numbered boxes corresponding to exons.
+The first CFTR cDNA clone to be isolated, 10-1, was obtained from screening a sweat gland cDNA library using conserved sequences identified in the overlapping genomic clones E4.3 and H1.6 (see Figure 14.12 ).
+This was then used as a hybridization probe to identify overlapping clones in various cDNA libraries, and new clones in turn were used to identify more distal clones.
+Clones were derived from various sources: T84 (colon carcinoma cell line, clones beginning with the letter T); lung (clones beginning with CDL); pancreas (CDPJ5).
+In addition, clones in red were generated by RACE-PCR (see Figure 19.4 ).
+They included clones PA3-5 and TB2-7 (by 5' RACE-PCR using an exon 2-specific primer) and THZ-4 (by 3' RACE-PCR using a primer from the 3' UTS).
+Note the presence of íntron sequences in some clones (this is possible because of reverse transcription of precursor RNA sequences, or occasional alternatively spliced sequences) and extraneous sequences in others.
+Hybridizing clones or subclones back to genomic DNA restriction fragments (bottom) helped to orientate the exons in the genomic DNA (see Figure 14.12 ).
+For the sake of clarity many of the clones presented in the original figure have been omitted.
+
+Figure 19.4
+
+RACE-PCR can facilitate the isolation of 5' and 3' end sequences from cDNA 
+
+A preliminary step in RACE (rapid amplification of cDNA ends)-PCR involves the introduction of a specific sequence at either the 3' or the 5' end by what is effectively a form of 5'-add-on mutagenesis (see pages 144-145). 
+
+3' RACE-PCR uses a starting antisense primer with a specific 5' extension sequence ( anchor sequence , often >15 nucleotides long) which becomes incorporated into the cDNA transcript at the reverse transcriptase step.
+An internal sense primer is then used to generate a short second strand ending in a sequence complementary to the original anchor sequence.
+Thereafter, PCR is initiated using the internal sense primer and an anchor sequence primer. 
+
+5' RACE-PCR.
+Here an internal antisense primer is used to prime synthesis from a mRNA template (red) of a partial first cDNA strand (black).
+A poly(dA) is added to the 3' end of the cDNA using terminal transferase. 
+Second strand synthesis is primed using a sense primer with a specific extension (anchor) sequence.
+This strand is used as a template for a further synthesis step using the internal primer in order to produce a complementary copy of the anchor sequence.
+PCR can then be accomplished using internal and anchor sequence primers.
+
+Figure 19.5
+
+The transcriptional initiation site can be mapped by nuclease S1 protection or primer extension assays
+
+Nuclease S1 protection assay.
+A restriction fragment from the 5' end of a cloned gene is suspected of containing the transcription initiation site.
+It is end-labeled at the 5' ends, then denatured and mixed with total RNA from cells in which the relevant gene is thought to be expressed.
+The cognate mRNA can hybridize to the antisense DNA strand to form an RNA-DNA heteroduplex.
+
+Subsequent treatment with nuclease S1 results in progressive cleavage of the overhanging 3' DNA sequence until the point at which the DNA is hybridized to the 5' end of the mRNA.
+Size-fractionation on a denaturing electrophoresis gel can identify the size difference between the original DNA and the DNA after nuclease S1 treatment.
+
+Primer extension assay.
+In this case, the restriction fragment suspected of containing the transcriptional initiation site is deliberately chosen to be small.
+Hybridization with a cognate mRNA will then leave the mRNA with an overhanging 5' end.
+The DNA can serve as a primer for reverse transcriptase (RT) to extend its 3' end until the 5' end of the mRNA is reached.
+The size increase after reverse transcriptase treatment (+RT) compared with before treatment (-RT) maps the transcription initiation site.
+More precise mapping is possible in both methods by sequencing the DNA following treatment with S1 or RT.
+
+Table 19.1
+
+Common protein fractionation methods
+
+Gel filtration chromatography .
+The protein preparation is fractionated according to size after being applied to the top of a column consisting of porous beads made of an insoluble polymer such as dextran or agarose (commercial examples include Sephadex, Sepharose and Bio-gel)
+
+Salting out .
+The protein preparation is fractionated according to differential solubility at high salt concentrations.
+For example, 0.8 M ammonium sulfate is sufficient to precipitate fibrinogen out of solution, but 2.4 M is needed to precipitate serum albumin
+
+Ion-exchange chromatography .
+Separation occurs according to the net charge.
+Negatively charged proteins can be separated on positively charged diethylaminoethyl (DEAE)-cellulose columns;
+positively charged proteins can be separated on negatively charged carboxymethyl-cellulose columns
+
+Affinity chromatography .
+This powerful and versatile method depends on the high binding affinities of many proteins for particular chemical groups.
+Thus, if the desired protein is known to bind chemical group X with high affinity, then a custom-designed column can be made in which group X or a derivative is covalently attached to the column beads and used to fish out the desired protein from a complex mixture.
+
+Gene therapy and other molecular genetic-based therapeutic approaches
+
+Principles of molecular genetic-based approaches to the treatment of disease
+
+Once a human disease gene has been characterized, molecular genetic tools can be used to dissect gene function and explore the biological processes involved in the normal and pathogenic states.
+The resulting information can be used to design novel therapies using conventional drug-based approaches.
+In addition, molecular genetic technologies have recently provided a variety of novel therapeutic approaches that depend on: the ability to clone individual types of gene, transfer them into recipient cells and express them; the ability to re- design proteins; and the ability to inhibit specifically the expression of a predetermined (characterized) gene in vivo .
+Novel molecular genetic-based therapeutic approaches can be categorized into two broad groups, depending on whether the therapeutic agent is a gene product/vaccine or genetic material: 
+
+Recombinant pharmaceuticals and vaccines can be provided by genetic engineering.
+Possible approaches include:
+
+- expression cloning of normal gene products :
+cloning of (usually) human genes and expression in suitable expression systems to make large amounts of a medically valuable gene product; see pages 104-105 and 509
+
+- Genetically engineered antibodies :
+antibody genes can be manipulated to form novel antibodies, including partially or fully humanized antibodies, for use as therapeutic agents; see pages 553-555
+
+- Genetically engineered vaccines :
+novel cancer vaccines and vaccines against infectious agents
+
+
+Gene therapy is the genetic modification of the cells of a patient in order to combat disease. 
+This very broad definition includes many different possible approaches, and can involve transfer of cloned human genes, double-stranded human gene segments, genes from other genomes, oligonucleotides and various artificial genes, such as antisense genes.
+Such gene transfer can result in genetic modification of the cells of the patient.
+In most cases, the gene therapy is designed to lead to genetic modification of disease cells, but some approaches are deliberately designed to target nondisease cells , notably immune system cells, and constitute a form of vaccination.
+
+Cloned human genes can be used as a source of medically important products
+
+Once a human gene has been cloned, large amounts of the purified product can be obtained by using a suitable system for expression cloning (see page 104).
+This often involves expressing the desired gene in bacterial cells, which have the advantage that they can be cultured easily in large volumes, and large amounts of product can be obtained. 
+Even if longstanding alternative treatments are available, the gene cloning-expression approach may be preferred because it minimizes safety risks.
+For example, diabetes sufferers traditionally have been treated with insulin prepared from cows or pigs.
+Because of species differences in the amino acid sequence of the product, however, animal products are potentially immunogenic and may produce unwanted side effects in highly immunoreactive individuals.
+
+The administration of biochemically purified human products may also be hazardous.
+Recently, many hemophiliacs have developed acquired immune deficiency syndrome (AIDS) as a result of treatment with factor VIII which was purified from the serum of unscreened human donors.
+Growth hormone deficiency was treated in the past by purified human growth hormone.
+However, some patients developed Creutzfeldt-Jakob disease (a rare neurological disorder which is a human counterpart of scrapie in sheep and of 'mad cow disease') because the hormone was extracted from large numbers of pooled cadaver pituitaries.
+
+Cloning of a medically important human gene and expression in suitable expression-cloning systems is therefore attractive. 
+If biochemical purification of the product from a human or animal source is difficult or impossible, it provides the only product-based therapeutic route.
+Even if biochemical purification of the desired product from animals or humans is possible, large quantities of the human product can be produced by expression-cloning without the attendant hazards of the type described above.
+Recombinant human insulin was first marketed in 1982 and, subsequently, a number of other cloned human gene products of medical interest have been produced commercially (see Table 20.1 ).
+Treatment with the products of cloned genes may also pose risks, however.
+For example, patients who completely lack a normal product may mount a vigorous immune response to the administered pharmaceutical product as in the case of some patients with severe hemophilia A who have been treated with recombinant factor VIII.
+
+Expression cloning often involves the use of microorganisms, but this approach may not always be suitable.
+For example, expression of a human gene in a bacterial cell can give a product that shows differences from the normal human product:
+the polypeptide may have the same sequence of amino acids but patterns of glycosylation, etc., produced by post-translational processing may be different.
+This may mean that the gene product is not particularly stable in a human environment, or it may provoke an immune response, or its biological function may be less effective than desired.
+Alternative expression systems have been utilized, and increasing attention has been paid to constructing transgenic livestock whose post-translational processing systems are more similar to analogous human systems.
+For example, a cloned human gene can be fused to a sheep gene specifying a milk protein then inserted into the genome of the sheep germline.
+The resultant transgenic sheep can secrete large quantities of the fusion protein in its milk.
+The design of the fusion gene normally permits the ability to cleave the secreted fusion protein using a specific protease in order to generate the human protein residue which can be purified easily.
+
+Antibody engineering has permitted the construction of humanized antibodies and fully human antibodies
+
+Antibodies are natural therapeutic agents which are produced by B lymphocytes.
+In each B-cell precursor, a cell-specific rearrangement of antibody gene components occurs (see page 177ff.). 
+Additional diversity is provided by other mechanisms, including frequent somatic mutation events.
+As a result, each individual has a population of B cells which collectively ensures a huge repertoire of different antibodies as a defense system against a diverse array of foreign antigens. 
+The antibody may be thought of as an adaptor molecule :
+it contains binding sites for foreign antigen at the variable (V) end, and for effector molecules at the constant (C) end.
+Binding of an antibody may by itself be sufficient to neutralize some toxins and viruses, but it is more common for the antibody to trigger the complement system and cell-mediated killing.
+
+Artificially produced therapeutic antibodies are designed to be monospecific (i.e. they will recognize a single type of antigenic site) and can be employed specifically to recognize particular disease-associated antigens, leading to killing of the disease cells.
+Notable targets for such therapy are cancers, especially lymphomas and leukemias, infectious disease (using antibodies raised against antigens of the relevant pathogen) and autoimmune disorders (antibody recognition of inappropriately expressed host cell antigens). 
+A favorite way of producing immortal monospecific antibodies is to fuse individual antibody-producing B lymphocytes from an immunized mouse or rat with cells derived from an immortal mouse B-lymphocyte tumor.
+From the fusion products, a heterogeneous mixture of hybrid cells, those hybrids that have both the ability to make a particular antibody and the ability to multiply indefinitely in culture, are selected.
+Such hybridomas are propagated as individual clones, each of which can provide a permanent and stable source of a single type of monoclonal antibody .
+
+Until recently, the therapeutic antibody approach was not straightforward.
+It has proved very difficult to make human monoclonal antibodies (mAbs) using hybridoma technology. 
+Although rodent mAbs can be created against human pathogens and cells, they have limited clinical utility: the rodent mAbs have a short half-life in human serum; only some of the different classes can trigger human effector functions; and they can elicit an unwanted immune response in patients (human anti-mouse antibodies). 
+Once immunoglobulin genes had been cloned, however, the possibility of designing artificial combinations of immunoglobulin gene segments arose ( antibody engineering ).
+
+The process was assisted by the use of different exons to encode different domains of an antibody molecule:
+domain swapping could be done easily at the DNA level by artificial exon shuffling between different antibody genes.
+The resulting recombinant antibody genes could then be expressed to give chimeric antibodies .
+
+Humanized antibodies
+
+One immediate goal of antibody engineering was the production of humanized antibodies, that is rodent-human recombinant antibodies. 
+Humanizing of rodent antibodies allows, in principle, access to a large pool of well-characterized rodent mAbs for therapy, including those with specificities against human antigens that are difficult to elicit from a human immune response.
+Early versions contained the variable domains of a rodent antibody attached to the constant domains of a human antibody:
+the immunogenicity of the rodent mAb is reduced, while allowing the effector functions to be selected for the therapeutic application. 
+A further stage of humanizing antibodies is possible. 
+
+The essential antigen-binding site is a subset of the variable region characterized by hypervariable sequences, the complementarity-determining regions (CDRs).
+Accordingly, second generation humanized antibodies were CDR- grafted antibodies:
+the hypervariable antigen-binding loops of the rodent antibody were built into a human antibody.
+Chimeric V/C antibodies and CDR- engrafted antibodies have been constructed against a wide range of microbial pathogens and against human cell surface markers, including tumor cell antigens and, in some cases, their use has already been demonstrated in the clinic (see Table 20.2 ).
+
+Fully human antibodies
+
+Two approaches have been taken towards the construction of fully human antibodies.
+One approach, phage display technology bypasses hybridoma technology, and even immunization.
+Instead, antibodies are made in vitro by mimicking the selection strategies of the immune system (see page 528), a procedure which should facilitate the construction of human antibodies of therapeutic value, as well as research potential.
+A second recent approach has involved using transgenic mice .
+This strategy involves transferring yeast artificial chromosomes containing large segments of the human heavy and kappa light chain immunoglobulin loci into mouse embryonic stem cells, and subsequent production of transgenic mice (see page 531 for the principle of constructing transgenic mice).
+The resulting mice produce a diverse repertoire of human heavy and light chain immunoglobulins and, upon immunization with tetanus toxin, can be used to derive antigen-specific fully human monoclonal antibodies.
+By breeding the mice to mice that are engineered by gene targeting (see page 536) to be deficient in mouse immunoglobulin production, a mouse strain was obtained in which high levels of antibodies were produced, mostly with both human heavy and light chains.
+Such strains should permit the development of fully human monoclonal antibodies with therapeutic potential.
+
+Genetically engineered vaccines have great therapeutic promise
+
+Recombinant DNA technology is also being applied to the construction of novel vaccines.
+Several different strategies are being used:
+
+- direct DNA injection .
+Direct injection of a piece of influenza virus DNA (which was conserved between several different strains) into muscle cells in mice has resulted in a potent antibody response against influenza. 
+If this approach works as effectively in humans, the therapeutic potential is very considerable.
+
+- Genetic modification of antigen .
+This can be achieved, for example, by fusion with a cytokine gene to increase antigenicity.
+
+- Genetic modification of microorganisms.
+This can involve two approaches:
+(i) genetically disabling an organism (e.g. by removing genes required for pathogenesis or survival).
+This is a genetic method of attenuation so that a live vaccine can be used without undue risk
+
+(ii) Inserting an exogenous gene that will be expressed in bacteria or parasites
+
+
+One promising application is the use of genetically modified bacille Calmette-Guérin (BCG) as a vehicle for immunization.
+BCG is a live attenuated tubercle bacillus which is the most widely used vaccine in the world:
+it is inherently immunostimulatory, and has a very low incidence of serious complications.
+Recombinant BCG strains have been developed using expression vectors containing BCG regulatory sequences coupled to genes encoding foreign antigens. 
+Such strains can elicit long-lasting antibody and cell- mediated immune responses to foreign antigens in mice, and hold the promise of allowing simultaneous expression of multiple protective antigens of different pathogens.
+Recombinant organisms of this type could be used to carry genes not only for infectious agents, but also for tumors, providing cancer vaccines , and, theoretically, autoantigens.
+Note that some gene therapy approaches, such as adoptive immunotherapy , are effectively forms of genetically engineered vaccination (see page 580).
+
+The different strategies for gene therapy 
+
+The term gene therapy is a broad one:
+it encompasses many different strategies, all of which are designed to overcome or alleviate disease by a procedure in which genes, gene segments or oligonucleotides are introduced into the cells of an affected individual.
+The genetic material may be transferred directly into cells within a patient ( in vivo gene therapy ), or cells may be removed from the patient and the genetic material inserted into them in vitro , prior to replacing the cells in the patient ( ex vivo gene therapy ).
+
+Because the molecular basis of diseases can vary widely some gene therapy strategies are particularly suited to certain types of disorder, and some to others.
+Major disease classes include:
+
+- infectious diseases (as a result of infection by a virus or bacterial pathogen);
+- cancers (inappropriate continuation of cell division and cell proliferation as a result of activation of an oncogene or inactivation of a tumor suppressor gene or an apoptosis gene - see Chapter 17)
+- inherited disorders (genetic deficiency of an individual gene product or genetically determined inappropriate expression of a gene)
+- immune system disorders (includes allergies, inflammations and autoimmune diseases - the inappropriate destruction of body cells by immune system cells)
+
+A major rationale for the development of gene therapy has been the need to treat diseases for which there is no effective treatment.
+Gene therapy has the potential to treat all of the above classes of disorder.
+Depending on the basis of pathogenesis, different gene therapy strategies can be considered. 
+Current gene therapy is exclusively somatic gene therapy, the introduction of genes into somatic cells of an affected individual. 
+The prospect of human germline gene therapy raises a number of ethical concerns, and is currently not sanctioned (see page 585).
+
+General gene therapy strategies (see also Figure 20.1 )
+
+Gene augmentation therapy (GAT) 
+
+For diseases caused by loss of function of a gene, introducing extra copies of the normal gene may increase the amount of normal gene product to a level where the normal phenotype is restored (see Figure 20.1 ).
+As a result GAT is targeted at clinical disorders where the pathogenesis is reversible .
+It also helps to have no precise requirement for expression levels of the introduced gene and a clinical response at low expression levels.
+GAT has been particularly applied to autosomal recessive disorders where even modest expression levels of an introduced gene y make a substantial difference. 
+Dominantly inherited disorders are much less amenable to treatment:
+gain-of-function mutations are not treatable by this approach and, even if there is a loss-of-function mutation, high expression efficiency of the introduced gene is required: 
+individuals with 50% of normal gene product are normally affected, and so the challenge is to increase the amount of gene product towards normal levels.
+
+Targeted killing of specific cells 
+
+This general approach is popular in cancer gene therapies. 
+Genes are directed to the target cells and then expressed so as to cause cell killing.
+
+- Direct cell killing is possible if the inserted genes are expressed to produce a lethal toxin ( suicide genes ), or a gene encoding a prodrug is inserted, conferring susceptibility to killing by a subsequently administered drug
+- Indirect cell killing uses immunostimulatory genes to provoke or enhance an immune response inst the UMSO cell (see page 580ff.)
+
+Targeted mutation correction 
+
+If an inherited mutation produces a dominant-negative effect (see page 403), gene augmentation is unlikely to help. 
+Instead the resident mutation must be corrected.
+Because of practical difficulties, this approach has yet to be applied but, in principle, it can be done at different levels: at the gene level (e.g. by gene targeting methods based on homologous recombination - see page 536); or at the RNA transcript level (e.g. by using particular types of therapeutic ribozymes - or therapeutic RNA editing, see pages 572 573).
+
+Targeted inhibition of gene expression 
+
+If disease cells display a novel gene product or inappropriate expression of a gene (as in the case of many cancers, infectious diseases, etc.), a variety of different systems can be used specifically to block the expression of a single gene at the DNA, RNA or protein levels (see page 565ff.).
+Allele-specific inhibition of expression may be possible in some cases, permitting therapies for some disorders resulting from dominant negative effects. 
+
+The technology of classical gene therapy 
+
+We make a distinction between gene therapy approaches which simply rely on gene transfer and expression (which we somewhat arbitrarily describe as classical gene therapy ) and other approaches (targeted inhibition of gene expression in vivo and targeted gene mutation correction in vivo ) which are considered separately beginning on page 565.
+
+Table 20.1
+
+Examples of pharmaceutical products obtained by expression cloning
+
+Product.
+For treatment of.
+
+
+Blood clotting factor VIII.
+Hemophilia A.
+
+
+Blood clotting factor IX.
+Hemophilia B.
+
+
+Erythropoietin.
+Anemia.
+
+
+Insulin .
+Diabetes.
+
+
+Growth hormone.
+Growth hormone deficiency.
+
+
+Tissue plasminogen activator.
+Thrombotic disorders.
+
+
+Hepatitis B vaccine.
+Hepatitis B.
+
+
+a-Interferon .
+Hairy cell leukemia; chronic hepatitis .
+
+
+ß-Interferon .
+Multiple sclerosis.
+
+
+y-Interferon .
+Infections in patients with chronic granulomatous disease.
+
+
+Interleukin-2.
+Renal cell carcinoma.
+
+
+Granulocyte colony-stimulating factor (G-CSF).
+Neutropenia following chemotherapy.
+
+
+DNase (deoxyribonuclease) .
+Cystic fibrosis.
+
+
+Table 20.2
+
+Examples of the clinical potential of humanized antibodies
+
+Target.
+Clinical potential.
+
+
+CDw52.
+Lymphomas, systemic vasculitis, rheumatoid artritis.
+
+
+CD3.
+Organ transplantation .
+
+
+CD4.
+Organ transplants, rheumatoid arthritis, Crohn's disease.
+
+
+IL-2 receptor .
+Leukemias and lymphomas, organ transplants, graft-versus-host disease.
+
+
+TNF-a .
+Septic shock.
+
+
+HIV.
+AIDS.
+
+
+RSV.
+Respiratory syncytial virus infection.
+
+
+HSV.
+Neonatal, ocular and genital herpes infection .
+
+
+Lewis-Y.
+Cancer.
+
+
+p185HEa2 .
+Cancer.
+
+
+PLAP .
+Cancer.
+
+
+CEA.
+Cancer .
+

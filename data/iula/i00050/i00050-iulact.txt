@@ -1,0 +1,2377 @@
+##	TAG	<div1>
+##	TAG	<head>
+##	TAG	<date pos="T" ISO8601="1996-03-">
+1	TOK	March 1996	BOS	March_1996\T
+##	TAG	</date>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+2	TOK	Reviews		Reviews\N46
+##	TAG	</name>
+---	DLE	/		=\DELIM
+##	TAG	<name>
+3	TOK	The Paperless Cubicle	EOS	The_Paperless_Cubicle\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<head>
+5	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+6	TOK	Paperless Cubicle	EOS	Paperless_Cubicle\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+8	TOK	Personal	BOS	personal\JA
+9	TOK	document		document\N5S
+10	TOK	scanning		scanning\N5S
+11	TOK	is		be\V6FDRS3
+12	TOK	big		big\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+13	TOK	Will	BOS	will\N5S
+##	TAG	<name>
+14	TOK	Visioneer		Visioneer\N46
+##	TAG	</name>
+15	PGR	's		genmark\GENMARK
+##	TAG	<name>
+16	TOK	PaperPort Vx		PaperPort_Vx\N46
+##	TAG	</name>
+17	TOK	and		and\CC
+##	TAG	<name>
+18	TOK	Hewlett-Packard		Hewlett-Packard\N46
+##	TAG	</name>
+19	PGR	's		genmark\GENMARK
+##	TAG	<name>
+20	TOK	HP ScanJet		HP_ScanJet\N46
+##	TAG	</name>
+21	TOK	4Si		4Si\N5P
+22	TOK	handle		handle\VMF6R66
+23	TOK	our		our\APP1N6
+24	TOK	personal		personal\JA
+25	TOK	paper		paper\N5S
+26	TOK	crisis		crisis\N5S
+---	DLD	?	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+27	TOK	Stanford Diehl	BOS	Stanford_Diehl\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+29	TOK	If	BOS	if\CS
+30	TOK	you		you\RP62N6
+31	TOK	're		're\N5S
+32	TOK	tired		tire\VMC----
+33	TOK	of		of\P
+34	TOK	waiting		wait\VMG----
+35	TOK	for		for\P
+36	TOK	the		the\AT---6
+37	TOK	paperless		paperless\JA
+38	TOK	office		office\N5S
+---	DLD	,		=\DELIM
+39	TOK	you		you\RP62N6
+40	TOK	can		can\VOFDR66
+##	TAG	<loc pos="DGA7">
+41	TOK	at least		at_least\DGA7
+##	TAG	</loc>
+42	TOK	create		create\VMI----
+43	TOK	the		the\AT---6
+44	TOK	paperless		paperless\JA
+45	TOK	cubicle		cubicle\N5S
+46	TOK	with		with\P
+47	TOK	a		a\AI---S
+48	TOK	low		low\JA
+---	DLI	-		=\DELIM
+49	TOK	cost		cost\N5S
+50	TOK	personal		personal\JA
+51	TOK	document		document\N5S
+52	TOK	scanner		scanner\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+53	TOK	A	BOS	a\AI---S
+54	TOK	device		device\N5S
+55	TOK	category		category\N5S
+56	TOK	that		that\RW63N6
+57	TOK	was		be\V6F-A66
+58	TOK	jump		jump\DGA7
+---	DLI	-		=\DELIM
+59	TOK	started		start\VMC----
+60	TOK	by		by\P
+##	TAG	<name>
+61	TOK	Visioneer		Visioneer\N46
+##	TAG	</name>
+62	PGR	's		genmark\GENMARK
+63	TOK	innovative		innovative\JA
+##	TAG	<name>
+64	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+65	TOK	the		the\AT---6
+66	TOK	personal		personal\JA
+67	TOK	document		document\N5S
+68	TOK	scanner		scanner\N5S
+69	TOK	doesn		do\V6FDRS3
+70	PGR	't		not\DGA7
+71	TOK	require		require\VMF6R66
+72	TOK	a		a\AI---S
+73	TOK	radical		radical\JA
+74	TOK	revamp		revamp\N5S
+75	TOK	of		of\P
+76	TOK	corporate		corporate\JA
+77	TOK	work		work\N5S
+78	TOK	flow		flow\VMF6R66
+---	DLD	,		=\DELIM
+79	TOK	data		data\N56
+---	DLI	-		=\DELIM
+80	TOK	input		input\N5S
+81	TOK	systems		system\N5P
+---	DLD	,		=\DELIM
+82	TOK	or		or\CC
+83	TOK	cultural		cultural\JA
+84	TOK	habits		habit\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+85	TOK	Trim	BOS	trim\JA
+---	DLD	,		=\DELIM
+86	TOK	inexpensive		inexpensive\JA
+87	TOK	sheet		sheet\N5S
+---	DLI	-		=\DELIM
+88	TOK	fed		feed\VMC----
+89	TOK	scanners		scanner\N5P
+90	TOK	sit		sit\VMF6R66
+91	TOK	on		on\P
+92	TOK	personal		personal\JA
+93	TOK	desktops		desktop\N5P
+---	DLD	,		=\DELIM
+94	TOK	suck		suck\N5S
+95	TOK	in		in\P
+96	TOK	reams		ream\N5P
+97	TOK	of		of\P
+98	TOK	paper		paper\N5S
+---	DLD	,		=\DELIM
+99	TOK	and		and\CC
+100	TOK	establish		establish\VMI----
+101	TOK	an		an\AI---S
+102	TOK	efficient		efficient\JA
+103	TOK	electronic		electronic\JA
+104	TOK	filing		filing\N5S
+105	TOK	system		system\N5S
+106	TOK	at		at\P
+107	TOK	a		a\AI---S
+108	TOK	single		single\JA
+109	TOK	workstation		workstation\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+110	TOK	Think	BOS	think\VMF6R66
+111	TOK	of		of\P
+112	TOK	it		it\RPS3N6
+113	TOK	as		as\P
+114	TOK	a		a\AI---S
+115	TOK	grass		grass\N5S
+---	DLI	-		=\DELIM
+116	TOK	roots		root\N5P
+117	TOK	paperless		paperless\JA
+118	TOK	revolution		revolution\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+119	TOK	As	BOS	as\P
+##	TAG	<name>
+120	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+121	TOK	editors		editor\N5P
+---	DLD	,		=\DELIM
+122	TOK	we		we\RPP1NN
+123	TOK	go		go\VMF6R66
+124	TOK	through		through\P
+125	TOK	piles		pile\N5P
+126	TOK	of		of\P
+127	TOK	personal		personal\JA
+128	TOK	paper		paper\N5S
+129	TOK	each		each\AG---S
+130	TOK	day		day\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+131	TOK	By	BOS	by\P
+132	TOK	using		use\VMG----
+133	TOK	personal		personal\JA
+134	TOK	scanners		scanner\N5P
+135	TOK	to		to\P
+136	TOK	manage		manage\VMI----
+137	TOK	our		our\APP1N6
+138	TOK	own		own\JA
+139	TOK	paper		paper\N5S
+140	TOK	crisis		crisis\N5S
+---	DLD	,		=\DELIM
+141	TOK	we		we\RPP1NN
+142	PGR	've		have\V6FDR66
+143	TOK	gauged		gauge\VMC----
+144	TOK	their		their\APP3N6
+145	TOK	strengths		strength\N5P
+146	TOK	and		and\CC
+147	TOK	weaknesses		weakness\N5P
+148	TOK	in		in\P
+149	TOK	handling		handling\N5S
+150	TOK	paper		paper\N5S
+151	TOK	overload		overload\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+152	TOK	We	BOS	we\RPP1NN
+153	TOK	evaluate		evaluate\VMF6R66
+154	TOK	the		the\AT---6
+155	TOK	trailblazing		trailblazing\N5S
+##	TAG	<name>
+156	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+157	TOK	as		as\P
+158	TOK	a		a\AI---S
+159	TOK	representative		representative\JA
+160	TOK	example		example\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+161	TOK	Visioneer	BOS	Visioneer\N46
+##	TAG	</name>
+162	TOK	recently		recently\DGA7
+163	TOK	released		release\VMF6A66
+164	TOK	the		the\AT---6
+##	TAG	<name>
+165	TOK	PaperPort Vx		PaperPort_Vx\N46
+##	TAG	</name>
+166	TOK	upgrade		upgrade\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+167	TOK	Hewlett-Packard	BOS	Hewlett-Packard\N46
+##	TAG	</name>
+168	TOK	has		have\V6FDRS3
+169	TOK	a		a\AI---S
+170	TOK	newer		new\JC
+171	TOK	approach		approach\N5S
+172	TOK	to		to\P
+173	TOK	the		the\AT---6
+174	TOK	same		same\JA
+175	TOK	problem		problem\N5S
+---	DLD	:		=\DELIM
+176	TOK	its		its\APS3N6
+177	TOK	unique		unique\JA
+##	TAG	<name>
+178	TOK	HP ScanJet		HP_ScanJet\N46
+##	TAG	</name>
+179	TOK	4Si		4Si\N5S
+180	TOK	network		network\N5S
+181	TOK	scanner		scanner\N5S
+---	DLD	,		=\DELIM
+182	TOK	which		which\RW63N-
+183	TOK	comes		come\VMFDRS3
+184	TOK	with		with\P
+185	TOK	an		an\AI---S
+186	TOK	older		old\JC
+187	TOK	edition		edition\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+188	TOK	3.0		3.0\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+189	TOK	of		of\P
+190	TOK	the		the\AT---6
+##	TAG	<name>
+191	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+192	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+193	TOK	An	BOS	an\AI---S
+194	TOK	entire		entire\JA
+195	TOK	workgroup		workgroup\N5S
+196	TOK	shares		share\VMFDRS3
+197	TOK	a		a\AI---S
+198	TOK	single		single\JA
+##	TAG	<name>
+199	TOK	ScanJet		ScanJet\N46
+##	TAG	</name>
+200	TOK	4Si		4Si\N5P
+---	DLD	,		=\DELIM
+201	TOK	with		with\P
+202	TOK	each		each\AG---S
+203	TOK	workstation		workstation\N5S
+204	TOK	running		run\VMG----
+205	TOK	a		a\AI---S
+206	TOK	local		local\JA
+207	TOK	copy		copy\N5S
+208	TOK	of		of\P
+209	TOK	the		the\AT---6
+210	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+211	TOK	If	BOS	if\CS
+212	TOK	you		you\RP62N6
+213	TOK	want		want\VMF6R66
+214	TOK	to		to\P
+215	TOK	include		include\VMI----
+216	TOK	color		color\N5S
+217	TOK	elements		element\N5P
+218	TOK	in		in\P
+219	TOK	your		your\AP62N6
+220	TOK	document/image		document/image\N5S
+221	TOK	repository		repository\N5S
+---	DLD	,		=\DELIM
+222	TOK	consider		consider\VMF6R66
+##	TAG	<name>
+223	TOK	Logitech		Logitech\N46
+##	TAG	</name>
+224	PGR	's		genmark\GENMARK
+##	TAG	<name>
+225	TOK	PageScan Color		PageScan_Color\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+226	TOK	see		see\VMF6R66
+227	TOK	the		the\AT---6
+228	TOK	sidebar		sidebar\N5S
+---	DLE	"		=\DELIM
+##	TAG	<name>
+229	TOK	ScanMan Scans		ScanMan_Scans\N46
+##	TAG	</name>
+##	TAG	<num>
+230	TOK	24		24\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+231	TOK	bit		bit\N5S
+##	TAG	<name>
+232	TOK	Color		Color\N46
+##	TAG	</name>
+---	DLE	"		=\DELIM
+---	DLE	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+233	TOK	Personal	BOS	personal\JA
+##	TAG	<name>
+234	TOK	PaperPort	EOS	PaperPort\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+236	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+237	TOK	Visioneer PaperPort		Visioneer_PaperPort\N46
+##	TAG	</name>
+238	TOK	is		be\V6FDRS3
+239	TOK	a		a\AI---S
+240	TOK	simple		simple\JA
+---	DLD	,		=\DELIM
+241	TOK	no		no\AI---6
+---	DLI	-		=\DELIM
+242	TOK	frills		frill\N5P
+243	TOK	solution		solution\N5S
+244	TOK	that		that\RW63N6
+245	TOK	does		do\V6FDRS3
+246	TOK	a		a\AI---S
+247	TOK	specific		specific\JA
+248	TOK	job		job\N5S
+249	TOK	and		and\CC
+250	TOK	does		do\V6FDRS3
+251	TOK	it		it\RPS3N6
+252	TOK	well		well\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+253	TOK	It	BOS	it\RPS3N6
+254	TOK	manages		manage\VMFDRS3
+255	TOK	your		your\AP62N6
+256	TOK	personal		personal\JA
+257	TOK	paper		paper\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+258	TOK	When	BOS	when\CS
+259	TOK	you		you\RP62N6
+260	TOK	feed		feed\VMF6R66
+261	TOK	in		in\P
+262	TOK	a		a\AI---S
+263	TOK	page		page\N5S
+---	DLD	,		=\DELIM
+264	TOK	the		the\AT---6
+265	TOK	scanner		scanner\N5S
+266	TOK	cranks		crank\VMFDRS3
+267	TOK	up		up\P
+---	DLD	,		=\DELIM
+268	TOK	pulls		pull\VMFDRS3
+269	TOK	the		the\AT---6
+270	TOK	page		page\N5S
+271	TOK	through		through\P
+---	DLD	,		=\DELIM
+272	TOK	and		and\CC
+273	TOK	scans		scan\VMFDRS3
+274	TOK	it		it\RPS3N6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+275	TOK	The	BOS	the\AT---6
+276	TOK	only		only\DGA7
+277	TOK	mechanical		mechanical\JA
+278	TOK	adjustment		adjustment\N5S
+279	TOK	is		be\V6FDRS3
+280	TOK	a		a\AI---S
+281	TOK	sliding		slide\VMG----
+282	TOK	cover		cover\N5S
+283	TOK	that		that\RW63N6
+284	TOK	changes		change\VMFDRS3
+285	TOK	the		the\AT---6
+286	TOK	paper		paper\N5S
+287	TOK	path		path\N5S
+288	TOK	from		from\P
+289	TOK	a		a\AI---S
+290	TOK	loop		loop\N5S
+---	DLE	(		=\DELIM
+291	TOK	to		to\P
+292	TOK	drop		drop\VMI----
+293	TOK	the		the\AT---6
+294	TOK	paper		paper\N5S
+295	TOK	out		out\DGA7
+296	TOK	in		in\P
+297	TOK	front		front\I
+---	DLD	)		=\DELIM
+298	TOK	to		to\P
+299	TOK	a		a\AI---S
+300	TOK	direct		direct\JA
+301	TOK	pass		pass\VMF6R66
+---	DLI	-		=\DELIM
+302	TOK	through		through\P
+---	DLE	(		=\DELIM
+303	TOK	to		to\P
+304	TOK	drop		drop\VMI----
+305	TOK	the		the\AT---6
+306	TOK	paper		paper\N5S
+307	TOK	out		out\DGA7
+308	TOK	the		the\AT---6
+309	TOK	back		back\DGA7
+---	DLI	-		=\DELIM
+---	DLI	-		=\DELIM
+310	TOK	good		good\JA
+311	TOK	for		for\P
+312	TOK	business		business\N5S
+313	TOK	cards		card\N5P
+314	TOK	and		and\CC
+315	TOK	other		other\JA
+316	TOK	small		small\JA
+317	TOK	items		item\N5P
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+318	TOK	It	BOS	it\RPS3N6
+319	TOK	takes		take\VMFDRS3
+320	TOK	about		about\P
+##	TAG	<num>
+321	TOK	6		6\X
+##	TAG	</num>
+322	TOK	seconds		second\N5P
+323	TOK	to		to\P
+324	TOK	scan		scan\VMI----
+325	TOK	in		in\P
+326	TOK	a		a\AI---S
+327	TOK	full		full\JA
+328	TOK	page		page\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+329	TOK	The	BOS	the\AT---6
+330	TOK	image		image\N5S
+331	TOK	then		then\DGA7
+332	TOK	appears		appear\VMFDRS3
+333	TOK	on		on\P
+334	TOK	the		the\AT---6
+##	TAG	<name>
+335	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+##	TAG	<num>
+336	TOK	3.5		3.5\X
+##	TAG	</num>
+337	TOK	desktop		desktop\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+338	TOK	You	BOS	you\RP62N6
+339	TOK	can		can\VOFDR66
+340	TOK	drag		drag\VMI----
+341	TOK	the		the\AT---6
+342	TOK	scanned		scan\VMC----
+343	TOK	image		image\N5S
+344	TOK	onto		onto\P
+##	TAG	<name>
+345	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+346	TOK	links		link\N5P
+347	TOK	at		at\P
+348	TOK	the		the\AT---6
+349	TOK	bottom		bottom\N5S
+350	TOK	of		of\P
+351	TOK	the		the\AT---6
+352	TOK	screen		screen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+353	TOK	If	BOS	if\CS
+354	TOK	you		you\RP62N6
+355	TOK	drop		drop\VMF6R66
+356	TOK	it		it\RPS3N6
+357	TOK	on		on\P
+358	TOK	the		the\AT---6
+##	TAG	<name>
+359	TOK	Word		Word\N46
+##	TAG	</name>
+360	TOK	icon		icon\N5S
+---	DLD	,		=\DELIM
+##	TAG	<name>
+361	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+362	TOK	transparently		transparently\DGA7
+363	TOK	converts		convert\VMFDRS3
+364	TOK	the		the\AT---6
+365	TOK	image		image\N5S
+366	TOK	into		into\P
+367	TOK	a		a\AI---S
+##	TAG	<name>
+368	TOK	Word		Word\N46
+##	TAG	</name>
+369	TOK	document		document\N5S
+370	TOK	using		use\VMG----
+371	TOK	the		the\AT---6
+372	TOK	bundled		bundle\VMC----
+373	TOK	version		version\N5S
+374	TOK	of		of\P
+##	TAG	<name>
+375	TOK	OmniPage Lite OCR		OmniPage_Lite_OCR\N46
+##	TAG	</name>
+376	TOK	and		and\CC
+377	TOK	then		then\DGA7
+378	TOK	fires		fire\VMFDRS3
+379	TOK	up		up\P
+##	TAG	<name>
+380	TOK	Word		Word\N46
+##	TAG	</name>
+381	TOK	with		with\P
+382	TOK	the		the\AT---6
+383	TOK	new		new\JA
+384	TOK	file		file\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+385	TOK	Also	BOS	also\DGA7
+---	DLD	,		=\DELIM
+386	TOK	you		you\RP62N6
+387	TOK	can		can\VOFDR66
+388	TOK	drop		drop\VMI----
+389	TOK	the		the\AT---6
+390	TOK	image		image\N5S
+391	TOK	on		on\P
+392	TOK	the		the\AT---6
+393	TOK	cc		cc\N5S
+---	DLD	:		=\DELIM
+##	TAG	<name>
+394	TOK	Mail		Mail\N46
+##	TAG	</name>
+395	TOK	link		link\N5S
+396	TOK	and		and\CC
+397	TOK	send		send\VMF6R66
+398	TOK	it		it\RPS3N6
+399	TOK	to		to\P
+400	TOK	a		a\AI---S
+401	TOK	coworker		coworker\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+402	TOK	The	BOS	the\AT---6
+403	TOK	coworker		coworker\N5S
+404	TOK	will		will\VOFDR66
+405	TOK	then		then\DGA7
+406	TOK	need		need\VMI----
+407	TOK	the		the\AT---6
+##	TAG	<name>
+408	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+409	TOK	software		software\N5S
+---	DLD	,		=\DELIM
+410	TOK	or		or\CC
+411	TOK	a		a\AI---S
+##	TAG	<name>
+412	TOK	PaperPort Viewer		PaperPort_Viewer\N46
+##	TAG	</name>
+413	TOK	utility		utility\N5S
+---	DLD	,		=\DELIM
+414	TOK	to		to\P
+415	TOK	read		read\VMI----
+416	TOK	the		the\AT---6
+417	TOK	document		document\N5S
+418	TOK	and		and\CC
+419	TOK	add		add\VMF6R66
+420	TOK	annotations		annotation\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+421	TOK	Annotations	BOS	annotation\N5P
+422	TOK	include		include\VMF6R66
+423	TOK	sticky		sticky\JA
+424	TOK	notes		note\N5P
+---	DLD	,		=\DELIM
+425	TOK	highlighting		highlight\VMG----
+---	DLD	,		=\DELIM
+426	TOK	overlay		overlay\N5S
+427	TOK	text		text\N5S
+---	DLD	,		=\DELIM
+428	TOK	freehand		freehand\JA
+429	TOK	pencil		pencil\N5S
+---	DLD	,		=\DELIM
+430	TOK	and		and\CC
+431	TOK	straight		straight\JA
+432	TOK	lines		line\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+433	TOK	From	BOS	from\P
+434	TOK	the		the\AT---6
+435	TOK	desktop		desktop\N5S
+---	DLD	,		=\DELIM
+436	TOK	you		you\RP62N6
+437	TOK	can		can\VOFDR66
+438	TOK	drag		drag\VMI----
+439	TOK	the		the\AT---6
+440	TOK	electronic		electronic\JA
+441	TOK	documents		document\N5P
+---	DLE	(		=\DELIM
+442	TOK	or		or\CC
+443	TOK	images		image\N5P
+---	DLD	)		=\DELIM
+444	TOK	into		into\P
+445	TOK	folders		folder\N5P
+446	TOK	that		that\RW63N6
+447	TOK	live		live\VMF6R66
+448	TOK	along		along\P
+449	TOK	the		the\AT---6
+450	TOK	left		left\JA
+451	TOK	side		side\N5S
+452	TOK	of		of\P
+453	TOK	the		the\AT---6
+454	TOK	screen		screen\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+455	TOK	Unfortunately	BOS	unfortunately\DGA7
+---	DLD	,		=\DELIM
+##	TAG	<name>
+456	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+457	TOK	doesn		do\V6FDRS3
+458	PGR	't		not\DGA7
+459	TOK	support		support\N5S
+460	TOK	hierarchical		hierarchical\JA
+461	TOK	organization		organization\N5S
+---	DLE	(		=\DELIM
+##	TAG	<abbr>
+462	TOK	i.e.		i.e.\N5P
+##	TAG	</abbr>
+---	DLE	,		=\DELIM
+463	TOK	a		a\AI---S
+464	TOK	folder		folder\N5S
+465	TOK	within		within\P
+466	TOK	a		a\AI---S
+467	TOK	folder		folder\N5S
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+468	TOK	A	BOS	a\AI---S
+469	TOK	single		single\JA
+470	TOK	level		level\N5S
+471	TOK	of		of\P
+472	TOK	folders		folder\N5P
+473	TOK	is		be\V6FDRS3
+474	TOK	a		a\AI---S
+475	TOK	real		real\JA
+476	TOK	drawback		drawback\N5S
+477	TOK	when		when\CS
+478	TOK	it		it\RPS3N6
+479	TOK	comes		come\VMFDRS3
+480	TOK	to		to\P
+481	TOK	organizing		organize\VMG----
+482	TOK	all		all\DGA7
+483	TOK	that		that\CS
+484	TOK	electronic		electronic\JA
+485	TOK	paper		paper\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+486	TOK	Using	BOS	use\VMG----
+##	TAG	<name>
+487	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+488	PGR	's		genmark\GENMARK
+##	TAG	<num>
+489	TOK	2.0		2.0\X
+##	TAG	</num>
+490	TOK	file		file\N5S
+491	TOK	format		format\VMF6R66
+---	DLD	,		=\DELIM
+492	TOK	the		the\AT---6
+493	TOK	stored		store\VMC----
+494	TOK	images		image\N5P
+495	TOK	are		be\V6FDR66
+496	TOK	fairly		fairly\DGA7
+497	TOK	compact		compact\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+498	TOK	We	BOS	we\RPP1NN
+499	TOK	found		find\VMF6A66
+500	TOK	that		that\CS
+501	TOK	an		an\AI---S
+##	TAG	<na type="function">
+502	TOK	8.5- by		noanat\W
+##	TAG	</na>
+##	TAG	<num>
+503	TOK	11		11\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+504	TOK	inch		inch\N5S
+505	TOK	text		text\N5S
+506	TOK	document		document\N5S
+507	TOK	typically		typically\DGA7
+508	TOK	consumed		consume\VMC----
+509	TOK	from		from\P
+##	TAG	<num>
+510	TOK	35		35\X
+##	TAG	</num>
+511	TOK	to		to\P
+##	TAG	<num>
+512	TOK	55		55\X
+##	TAG	</num>
+##	TAG	<name>
+513	TOK	KB		KB\N46
+##	TAG	</name>
+514	TOK	of		of\P
+515	TOK	disk		disk\N5S
+516	TOK	space		space\N5S
+---	DLE	(		=\DELIM
+517	TOK	turning		turn\VMG----
+518	TOK	on		on\P
+519	TOK	the		the\AT---6
+##	TAG	<name>
+520	TOK	SharpPage		SharpPage\N46
+##	TAG	</name>
+521	TOK	feature		feature\N5S
+522	TOK	generates		generate\VMFDRS3
+523	TOK	larger		large\JC
+524	TOK	files		file\N5P
+525	TOK	but		but\CC
+526	TOK	makes		make\VMFDRS3
+##	TAG	<name>
+527	TOK	OCR		OCR\N46
+##	TAG	</name>
+528	TOK	more		more\DDC7
+529	TOK	accurate		accurate\JA
+---	DLD	)		=\DELIM
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+530	TOK	A	BOS	a\AI---S
+##	TAG	<na type="function">
+531	TOK	3- by		noanat\W
+##	TAG	</na>
+##	TAG	<num>
+532	TOK	5		5\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+533	TOK	inch		inch\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+534	TOK	8		8\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+535	TOK	bit		bit\N5S
+536	TOK	gray		gray\JA
+---	DLI	-		=\DELIM
+537	TOK	scale		scale\N5S
+538	TOK	photo		photo\N5S
+539	TOK	took		take\VMF6A66
+540	TOK	up		up\P
+541	TOK	about		about\DGA7
+##	TAG	<num>
+542	TOK	40		40\X
+##	TAG	</num>
+##	TAG	<name>
+543	TOK	KB		KB\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+544	TOK	and		and\CC
+545	TOK	a		a\AI---S
+546	TOK	business		business\N5S
+547	TOK	card		card\N5S
+548	TOK	about		about\P
+##	TAG	<num>
+549	TOK	15		15\X
+##	TAG	</num>
+##	TAG	<name>
+550	TOK	KB		KB\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+551	TOK	Visioneer	BOS	Visioneer\N46
+##	TAG	</name>
+552	PGR	's		genmark\GENMARK
+##	TAG	<name>
+553	TOK	PaperPort Vx		PaperPort_Vx\N46
+##	TAG	</name>
+554	TOK	is		be\V6FDRS3
+555	TOK	a		a\AI---S
+556	TOK	refreshingly		refreshingly\DGA7
+557	TOK	simple		simple\JA
+558	TOK	idea		idea\N5S
+559	TOK	done		do\VMC----
+560	TOK	right		right\DGA7
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+561	TOK	We	BOS	we\RPP1NN
+562	TOK	intend		intend\VMF6R66
+563	TOK	to		to\P
+564	TOK	put		put\VMI----
+565	TOK	it		it\RPS3N6
+566	TOK	to		to\P
+567	TOK	good		good\JA
+568	TOK	use		use\N5S
+569	TOK	clearing		clear\VMG----
+570	TOK	out		out\DGA7
+571	TOK	our		our\APP1N6
+572	TOK	piles		pile\N5P
+573	TOK	of		of\P
+574	TOK	personal		personal\JA
+575	TOK	paper		paper\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+576	TOK	Now	BOS	now\DGA7
+577	TOK	if		if\CS
+578	TOK	it		it\RPS3N6
+579	TOK	could		can\VOFDA66
+580	TOK	only		only\DGA7
+581	TOK	file		file\VMI----
+582	TOK	boxes		box\N5P
+583	TOK	of		of\P
+584	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+585	TOK	If	BOS	if\CS
+586	TOK	you		you\RP62N6
+587	TOK	're		're\N5S
+588	TOK	familiar		familiar\JA
+589	TOK	with		with\P
+##	TAG	<name>
+590	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+591	TOK	here		here\DGA7
+592	PGR	's		be\V6FDRS3
+593	TOK	what		what\RW63N-
+594	PGR	's		be\V6FDRS3
+595	TOK	new		new\JA
+596	TOK	with		with\P
+##	TAG	<name>
+597	TOK	Vx		Vx\N46
+##	TAG	</name>
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<list>
+##	TAG	<item label="--">
+##	TAG	<s>
+##	TAG	<num>
+599	TOK	8	BOS	8\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+600	TOK	bit		bit\N5S
+601	TOK	gray		gray\JA
+---	DLI	-		=\DELIM
+602	TOK	scale		scale\N5S
+603	TOK	images		image\N5P
+---	DLD	,		=\DELIM
+604	TOK	for		for\P
+##	TAG	<num>
+605	TOK	256		256\X
+##	TAG	</num>
+606	TOK	levels		level\N5P
+607	TOK	of		of\P
+608	TOK	gray		gray\JA
+---	DLE	(		=\DELIM
+609	TOK	up		up\N5S
+610	TOK	from		from\P
+##	TAG	<num>
+611	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+612	TOK	bit		bit\N5S
+613	TOK	monochrome		monochrome\N5S
+---	DLD	)	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="--">
+##	TAG	<s>
+##	TAG	<name>
+614	TOK	OmniPage Lite	BOS	OmniPage_Lite\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+615	TOK	for		for\P
+616	TOK	transparent		transparent\JA
+##	TAG	<name>
+617	TOK	OCR	EOS	OCR\N46
+##	TAG	</name>
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="--">
+##	TAG	<s>
+##	TAG	<name>
+619	TOK	CardScan SE Business Card Reader	BOS	CardScan_SE_Business_Card_Reader\N46
+##	TAG	</name>
+620	TOK	software		software\N5S
+---	DLD	,		=\DELIM
+621	TOK	for		for\P
+622	TOK	scanning		scanning\N5S
+623	TOK	business		business\N5S
+624	TOK	cards	EOS	card\N5P
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="--">
+##	TAG	<s>
+##	TAG	<name>
+625	TOK	PictureWorks Copy Machine	BOS	PictureWorks_Copy_Machine\N46
+##	TAG	</name>
+626	TOK	software		software\N5S
+---	DLD	,		=\DELIM
+627	TOK	for		for\P
+628	TOK	making		make\VMG----
+##	TAG	<name>
+629	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+630	TOK	and		and\CC
+631	TOK	a		a\AI---S
+632	TOK	printer		printer\N5S
+633	TOK	function		function\N5S
+634	TOK	as		as\P
+635	TOK	a		a\AI---S
+636	TOK	copy		copy\N5S
+637	TOK	machine	EOS	machine\N5S
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	<item label="--">
+##	TAG	<s>
+638	TOK	New	BOS	new\JA
+639	TOK	links		link\N5P
+640	TOK	and		and\CC
+641	TOK	file		file\N5S
+642	TOK	types		type\N5P
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+643	TOK	Lotus	BOS	lotus\N5S
+##	TAG	<name>
+644	TOK	Notes		Notes\N46
+##	TAG	</name>
+645	TOK	and		and\CC
+646	TOK	cc		cc\N5P
+---	DLD	:		=\DELIM
+##	TAG	<name>
+647	TOK	Mail		Mail\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+648	TOK	Microsoft Mail		Microsoft_Mail\N46
+##	TAG	</name>
+649	TOK	and		and\CC
+##	TAG	<name>
+650	TOK	Exchange		Exchange\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+651	TOK	Novell InForms		Novell_InForms\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+652	TOK	Xerox TextBridge Pro		Xerox_TextBridge_Pro\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+653	TOK	Corel Photopaint		Corel_Photopaint\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+654	TOK	Adobe Acrobat		Adobe_Acrobat\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+655	TOK	JPEG		JPEG\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+656	TOK	and		and\CC
+##	TAG	<name>
+657	TOK	GIF		GIF\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</item>
+##	TAG	</list>
+##	TAG	<head>
+658	TOK	Workgroup	BOS	workgroup\N5S
+##	TAG	<name>
+659	TOK	Scanning	EOS	Scanning\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+661	TOK	Hewlett-Packard	BOS	Hewlett-Packard\N46
+##	TAG	</name>
+662	PGR	's		genmark\GENMARK
+663	TOK	new		new\JA
+664	TOK	network		network\N5S
+665	TOK	scanner		scanner\N5S
+---	DLD	,		=\DELIM
+666	TOK	the		the\AT---6
+##	TAG	<name>
+667	TOK	HP ScanJet		HP_ScanJet\N46
+##	TAG	</name>
+668	TOK	4Si		4Si\N5P
+---	DLD	,		=\DELIM
+669	TOK	extends		extend\VMFDRS3
+670	TOK	the		the\AT---6
+##	TAG	<name>
+671	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+672	TOK	model		model\N5S
+673	TOK	out		out\DGA7
+674	TOK	to		to\P
+675	TOK	the		the\AT---6
+676	TOK	workgroup		workgroup\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+677	TOK	It	BOS	it\RPS3N6
+678	TOK	connects		connect\VMFDRS3
+679	TOK	directly		directly\DGA7
+680	TOK	to		to\P
+681	TOK	a		a\AI---S
+##	TAG	<name>
+682	TOK	NetWare		NetWare\N46
+##	TAG	</name>
+683	TOK	network		network\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+684	TOK	3		3\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+685	TOK	1x		1x\N5P
+686	TOK	and		and\CC
+687	TOK	up		up\P
+---	DLD	)		=\DELIM
+688	TOK	and		and\CC
+689	TOK	includes		include\VMFDRS3
+690	TOK	a		a\AI---S
+##	TAG	<num>
+691	TOK	20		20\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+##	TAG	<name>
+692	TOK	seat		seat\N46
+##	TAG	</name>
+693	TOK	user		user\N5S
+694	TOK	license		license\N5S
+695	TOK	for		for\P
+696	TOK	the		the\AT---6
+##	TAG	<name>
+697	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+##	TAG	<num>
+698	TOK	3.0		3.0\X
+##	TAG	</num>
+699	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+700	TOK	It	BOS	it\RPS3N6
+701	PGR	's		be\V6FDRS3
+702	TOK	a		a\AI---S
+##	TAG	<num>
+703	TOK	15		15\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+704	TOK	page		page\N5S
+---	DLI	-		=\DELIM
+705	TOK	per		per\P
+---	DLI	-		=\DELIM
+706	TOK	minute		minute\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+707	TOK	300		300\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+708	TOK	dot		dot\N5S
+---	DLI	-		=\DELIM
+709	TOK	per		per\P
+---	DLI	-		=\DELIM
+710	TOK	inch		inch\N5S
+---	DLD	,		=\DELIM
+##	TAG	<num>
+711	TOK	8		8\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+712	TOK	bit		bit\N5S
+713	TOK	flatbed		flatbed\N5S
+---	DLE	(		=\DELIM
+##	TAG	<na type="function">
+714	TOK	8.5- by		noanat\W
+##	TAG	</na>
+##	TAG	<num>
+715	TOK	11.7		11.7\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+716	TOK	inch		inch\N5S
+717	TOK	scan		scan\N5S
+718	TOK	area		area\N5S
+---	DLD	)		=\DELIM
+719	TOK	scanner		scanner\N5S
+720	TOK	with		with\P
+721	TOK	a		a\AI---S
+##	TAG	<num>
+722	TOK	50		50\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+723	TOK	page		page\N5S
+724	TOK	document		document\N5S
+725	TOK	feeder		feeder\N5S
+726	TOK	and		and\CC
+727	TOK	a		a\AI---S
+728	TOK	10Base		10Base\N5S
+---	DLI	-		=\DELIM
+729	TOK	T		t\N5S
+730	TOK	or		or\CC
+##	TAG	<name>
+731	TOK	Token Ring		Token_Ring\N46
+##	TAG	</name>
+732	TOK	connection		connection\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+733	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+734	TOK	ScanJet		ScanJet\N46
+##	TAG	</name>
+735	TOK	4Si		4Si\N5S
+736	TOK	compresses		compress\VMFDRS3
+737	TOK	scanned		scan\VMC----
+738	TOK	documents		document\N5P
+---	DLD	,		=\DELIM
+739	TOK	using		use\VMG----
+##	TAG	<name>
+740	TOK	G4		G4\N46
+##	TAG	</name>
+741	TOK	and		and\CC
+##	TAG	<name>
+742	TOK	Packbits		Packbits\N46
+##	TAG	</name>
+743	TOK	compression		compression\N5S
+---	DLD	,		=\DELIM
+744	TOK	to		to\P
+745	TOK	its		its\APS3N6
+746	TOK	own		own\JA
+##	TAG	<na type="function">
+747	TOK	135-MB		noanat\W
+##	TAG	</na>
+748	TOK	hard		hard\JA
+749	TOK	drive		drive\N5S
+750	TOK	before		before\P
+751	TOK	sending		send\VMG----
+752	TOK	it		it\RPS3N6
+753	TOK	over		over\P
+754	TOK	the		the\AT---6
+755	TOK	network		network\N5S
+756	TOK	for		for\P
+757	TOK	temporary		temporary\JA
+758	TOK	storage		storage\N5S
+759	TOK	on		on\P
+760	TOK	a		a\AI---S
+##	TAG	<name>
+761	TOK	NetWare		NetWare\N46
+##	TAG	</name>
+762	TOK	server		server\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+763	TOK	We	BOS	we\RPP1NN
+764	TOK	confirmed		confirm\VMF6A66
+##	TAG	<name>
+765	TOK	HP		HP\N46
+##	TAG	</name>
+766	PGR	's		be\V6FDRS3
+767	TOK	claimed		claim\VMC----
+768	TOK	performance		performance\N5S
+769	TOK	of		of\P
+770	TOK	approximately		approximately\DGA7
+##	TAG	<num>
+771	TOK	2		2\X
+##	TAG	</num>
+##	TAG	<na type="function">
+772	TOK	1/2		noanat\W
+##	TAG	</na>
+773	TOK	minutes		minute\N5P
+774	TOK	for		for\P
+775	TOK	a		a\AI---S
+##	TAG	<num>
+776	TOK	15		15\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+777	TOK	page		page\N5S
+778	TOK	text		text\N5S
+---	DLI	-		=\DELIM
+779	TOK	mode		mode\N5S
+---	DLE	(		=\DELIM
+##	TAG	<num>
+780	TOK	1		1\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+781	TOK	bit		bite\VMF6A66
+---	DLD	)		=\DELIM
+782	TOK	job		job\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+##	TAG	<name>
+783	TOK	HP	BOS	HP\N46
+##	TAG	</name>
+784	PGR	's		genmark\GENMARK
+##	TAG	<name>
+785	TOK	Windows		Windows\N46
+##	TAG	</name>
+##	TAG	<num>
+786	TOK	3		3\X
+##	TAG	</num>
+---	DLD	.		=\DELIM
+787	TOK	x		x\N5S
+788	TOK	software		software\N5S
+789	TOK	makes		make\VMFDRS3
+##	TAG	<name>
+790	TOK	NetWare		NetWare\N46
+##	TAG	</name>
+791	TOK	installation		installation\N5S
+792	TOK	and		and\CC
+793	TOK	administration		administration\N5S
+794	TOK	easy		easy\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+795	TOK	You	BOS	you\RP62N6
+796	TOK	run		run\VMF6R66
+797	TOK	the		the\AT---6
+798	TOK	installation		installation\N5S
+799	TOK	program		program\N5S
+800	TOK	from		from\P
+801	TOK	any		any\AG---6
+##	TAG	<name>
+802	TOK	Windows		Windows\N46
+##	TAG	</name>
+803	TOK	client		client\N5S
+804	TOK	to		to\P
+805	TOK	install		install\VMI----
+806	TOK	the		the\AT---6
+##	TAG	<name>
+807	TOK	NetWare		NetWare\N46
+##	TAG	</name>
+808	TOK	loadable		loadable\JA
+809	TOK	module		module\N5S
+---	DLE	(		=\DELIM
+##	TAG	<name>
+810	TOK	NLM		NLM\N46
+##	TAG	</name>
+---	DLE	)		=\DELIM
+811	TOK	and		and\CC
+812	TOK	administration		administration\N5S
+813	TOK	utility		utility\N5S
+814	TOK	on		on\P
+815	TOK	a		a\AI---S
+816	TOK	server		server\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+817	TOK	From	BOS	from\P
+818	TOK	the		the\AT---6
+819	TOK	administration		administration\N5S
+820	TOK	utility		utility\N5S
+---	DLD	,		=\DELIM
+821	TOK	you		you\RP62N6
+822	TOK	configure		configure\VMF6R66
+823	TOK	the		the\AT---6
+824	TOK	scanner		scanner\N5S
+---	DLD	,		=\DELIM
+825	TOK	connect		connect\VMF6R66
+826	TOK	it		it\RPS3N6
+827	TOK	to		to\P
+828	TOK	other		other\JA
+829	TOK	servers		server\N5P
+---	DLD	,		=\DELIM
+830	TOK	build		build\N5S
+831	TOK	user		user\N5S
+832	TOK	lists		list\VMFDRS3
+---	DLD	,		=\DELIM
+833	TOK	and		and\CC
+834	TOK	set		set\VMC----
+835	TOK	up		up\P
+836	TOK	print		print\VMI----
+837	TOK	queues		queue\N5P
+838	TOK	to		to\P
+839	TOK	enable		enable\VMI----
+840	TOK	copying		copy\VMG----
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+841	TOK	Workstation	BOS	workstation\N5S
+842	TOK	users		user\N5P
+843	TOK	can		can\VOFDR66
+844	TOK	download		download\VMI----
+845	TOK	drivers		driver\N5P
+---	DLD	,		=\DELIM
+846	TOK	a		a\AI---S
+847	TOK	client		client\N5S
+848	TOK	version		version\N5S
+849	TOK	of		of\P
+##	TAG	<name>
+850	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+851	TOK	and		and\CC
+852	TOK	a		a\AI---S
+853	TOK	utility		utility\N5S
+854	TOK	for		for\P
+855	TOK	monitoring		monitor\VMG----
+856	TOK	the		the\AT---6
+857	TOK	scanner		scanner\N5S
+858	PGR	's		genmark\GENMARK
+859	TOK	status		status\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+860	TOK	To	BOS	to\P
+861	TOK	scan		scan\VMI----
+---	DLD	,		=\DELIM
+862	TOK	you		you\RP62N6
+863	TOK	scroll		scroll\VMF6R66
+864	TOK	to		to\P
+865	TOK	your		your\AP62N6
+866	TOK	workstation		workstation\N5S
+867	PGR	's		genmark\GENMARK
+868	TOK	name		name\N5S
+869	TOK	from		from\P
+870	TOK	the		the\AT---6
+##	TAG	<name>
+871	TOK	ScanJet		ScanJet\N46
+##	TAG	</name>
+872	TOK	4Si		4Si\N5S
+873	PGR	's		genmark\GENMARK
+##	TAG	<name>
+874	TOK	LCD		LCD\N46
+##	TAG	</name>
+875	TOK	panel		panel\N5S
+---	DLD	,		=\DELIM
+876	TOK	load		load\N5S
+877	TOK	up		up\P
+878	TOK	to		to\P
+##	TAG	<num>
+879	TOK	50		50\X
+##	TAG	</num>
+880	TOK	pages		page\N5P
+881	TOK	in		in\P
+882	TOK	the		the\AT---6
+883	TOK	feeder		feeder\N5S
+---	DLD	,		=\DELIM
+884	TOK	select		select\VMI----
+885	TOK	a		a\AI---S
+886	TOK	mode		mode\N5S
+---	DLE	(		=\DELIM
+887	TOK	text		text\N5S
+---	DLD	,		=\DELIM
+888	TOK	photo		photo\N5S
+---	DLD	,		=\DELIM
+889	TOK	or		or\CC
+890	TOK	mixed		mix\VMF6A66
+---	DLD	)		=\DELIM
+---	DLD	,		=\DELIM
+891	TOK	hit		hit\N5S
+892	TOK	the		the\AT---6
+893	TOK	start		start\N5S
+894	TOK	button		button\N5S
+---	DLD	,		=\DELIM
+895	TOK	and		and\CC
+896	TOK	wait		wait\VMF6R66
+897	TOK	for		for\P
+898	TOK	the		the\AT---6
+899	TOK	images		image\N5P
+900	TOK	to		to\P
+901	TOK	appear		appear\VMI----
+902	TOK	on		on\P
+903	TOK	your		your\AP62N6
+904	TOK	local		local\JA
+##	TAG	<name>
+905	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+906	TOK	desktop		desktop\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+907	TOK	PaperPort	BOS	PaperPort\N46
+##	TAG	</name>
+908	TOK	loads		load\VMFDRS3
+909	TOK	if		if\CS
+910	TOK	it		it\RPS3N6
+911	PGR	's		be\V6FDRS3
+912	TOK	not		not\DGA7
+913	TOK	already		already\DGA7
+914	TOK	running		run\VMG----
+---	DLD	,		=\DELIM
+915	TOK	and		and\CC
+916	TOK	the		the\AT---6
+917	TOK	scanner		scanner\N5S
+918	TOK	remembers		remember\VMFDRS3
+919	TOK	individual		individual\JA
+920	TOK	user		user\N5S
+921	TOK	settings		setting\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+922	TOK	From	BOS	from\P
+923	TOK	that		that\AD---S
+924	TOK	point		point\N5S
+---	DLD	,		=\DELIM
+925	TOK	you		you\RP62N6
+926	TOK	can		can\VOFDR66
+##	TAG	<name>
+927	TOK	OCR		OCR\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+928	TOK	fax		fax\N5S
+---	DLD	,		=\DELIM
+929	TOK	print		print\N5S
+---	DLD	,		=\DELIM
+930	TOK	or		or\CC
+931	TOK	drop		drop\VMI----
+932	TOK	the		the\AT---6
+933	TOK	image		image\N5S
+934	TOK	on		on\P
+935	TOK	application		application\N5S
+936	TOK	links		link\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+937	TOK	Version	BOS	version\N5S
+##	TAG	<num>
+938	TOK	3.0		3.0\X
+##	TAG	</num>
+939	TOK	of		of\P
+940	TOK	the		the\AT---6
+##	TAG	<name>
+941	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+942	TOK	software		software\N5S
+943	TOK	does		do\V6FDRS3
+944	TOK	not		not\DGA7
+945	TOK	include		include\VMI----
+##	TAG	<name>
+946	TOK	CardScan SE Business Card Reader		CardScan_SE_Business_Card_Reader\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+947	TOK	PictureWorks Copy Machine		PictureWorks_Copy_Machine\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+948	TOK	or		or\CC
+949	TOK	desktop		desktop\N5S
+950	TOK	folders		folder\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+951	TOK	That	BOS	that\CS
+952	PGR	's		be\V6FDRS3
+953	TOK	right		right\DGA7
+---	DLD	:	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+954	TOK	This	BOS	this\AD---S
+##	TAG	<name>
+955	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+956	TOK	version		version\N5S
+957	TOK	doesn		do\V6FDRS3
+958	PGR	't		not\DGA7
+959	TOK	let		let\VMF6R66
+960	TOK	you		you\RP62N6
+961	TOK	organize		organize\VMI----
+962	TOK	your		your\AP62N6
+963	TOK	images		image\N5P
+964	TOK	into		into\P
+965	TOK	folders		folder\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+966	TOK	All	BOS	all\AG---6
+967	TOK	the		the\AT---6
+968	TOK	images		image\N5P
+969	TOK	share		share\VMF6R66
+970	TOK	the		the\AT---6
+971	TOK	same		same\JA
+##	TAG	<name>
+972	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+973	TOK	desktop		desktop\N5S
+---	DLD	,		=\DELIM
+974	TOK	so		so\CC
+975	TOK	there		there\DGA7
+976	TOK	is		be\V6FDRS3
+977	TOK	no		no\AI---6
+978	TOK	way		way\N5S
+979	TOK	to		to\P
+980	TOK	organize		organize\VMI----
+981	TOK	your		your\AP62N6
+982	TOK	stuff		stuff\N5S
+983	TOK	beyond		beyond\P
+984	TOK	stacking		stack\VMG----
+985	TOK	pages		page\N5P
+986	TOK	on		on\P
+987	TOK	top		top\N5S
+988	TOK	of		of\P
+##	TAG	<loc pos="RPP3N-">
+989	TOK	each other		each_other\RPP3N-
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+990	TOK	It	BOS	it\RPS3N6
+991	PGR	's		be\V6FDRS3
+992	TOK	sort		sort\N5S
+993	TOK	of		of\P
+994	TOK	like		like\VMI----
+995	TOK	selling		sell\VMG----
+996	TOK	a		a\AI---S
+997	TOK	bookcase		bookcase\N5S
+998	TOK	and		and\CC
+999	TOK	charging		charge\VMG----
+1000	TOK	extra		extra\JA
+1001	TOK	for		for\P
+1002	TOK	shelves		shelf\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1003	TOK	You	BOS	you\RP62N6
+1004	PGR	'll		will\VOFDR66
+1005	TOK	want		want\N5S
+1006	TOK	to		to\P
+1007	TOK	upgrade		upgrade\N5S
+1008	TOK	to		to\P
+1009	TOK	version		version\N5S
+##	TAG	<num>
+1010	TOK	3.5		3.5\X
+##	TAG	</num>
+1011	TOK	of		of\P
+##	TAG	<name>
+1012	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+---	DLE	(		=\DELIM
+1013	TOK	$		$\N5P
+##	TAG	<num>
+1014	TOK	599		599\X
+##	TAG	</num>
+1015	TOK	for		for\P
+1016	TOK	a		a\AI---S
+##	TAG	<num>
+1017	TOK	20		20\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1018	TOK	user		user\N5S
+1019	TOK	upgrade		upgrade\VMI----
+---	DLD	)		=\DELIM
+1020	TOK	for		for\P
+1021	TOK	any		any\AG---6
+1022	TOK	serious		serious\JA
+1023	TOK	archiving		archive\VMG----
+1024	TOK	needs		need\VMFDRS3
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1025	TOK	With	BOS	with\P
+1026	TOK	a		a\AI---S
+1027	TOK	network		network\N5S
+1028	TOK	scanner		scanner\N5S
+---	DLD	,		=\DELIM
+1029	TOK	your		your\AP62N6
+1030	TOK	entire		entire\JA
+1031	TOK	workgroup		workgroup\N5S
+1032	TOK	requires		require\VMFDRS3
+1033	TOK	only		only\DGA7
+1034	TOK	a		a\AI---S
+1035	TOK	single		single\JA
+1036	TOK	hardware		hardware\N5S
+1037	TOK	device		device\N5S
+---	DLD	,		=\DELIM
+1038	TOK	saving		saving\N5S
+1039	TOK	hardware		hardware\N5S
+1040	TOK	costs		cost\N5P
+1041	TOK	and		and\CC
+1042	TOK	centralizing		centralize\VMG----
+1043	TOK	maintenance		maintenance\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1044	TOK	And	BOS	and\CC
+1045	TOK	best		good\DDS7
+1046	TOK	of		of\P
+1047	TOK	all		all\AG---6
+---	DLD	,		=\DELIM
+1048	TOK	you		you\RP62N6
+1049	TOK	can		can\VOFDR66
+1050	TOK	load		load\VMI----
+1051	TOK	up		up\P
+1052	TOK	to		to\P
+##	TAG	<num>
+1053	TOK	50		50\X
+##	TAG	</num>
+1054	TOK	pages		page\N5P
+##	TAG	<loc pos="DGA7">
+1055	TOK	at once		at_once\DGA7
+##	TAG	</loc>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1056	TOK	All	BOS	all\AG---6
+1057	TOK	the		the\AT---6
+1058	TOK	scanned		scan\VMC----
+1059	TOK	pages		page\N5P
+1060	TOK	will		will\VOFDR66
+1061	TOK	appear		appear\VMI----
+1062	TOK	on		on\P
+1063	TOK	the		the\AT---6
+##	TAG	<name>
+1064	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+1065	TOK	desktop		desktop\N5S
+1066	TOK	as		as\P
+1067	TOK	a		a\AI---S
+1068	TOK	single		single\JA
+1069	TOK	stack		stack\VMF6R66
+---	DLD	,		=\DELIM
+1070	TOK	so		so\DGA7
+1071	TOK	you		you\RP62N6
+1072	TOK	may		may\VOFDR66
+1073	TOK	need		need\VMI----
+1074	TOK	to		to\P
+1075	TOK	perform		perform\VMI----
+1076	TOK	the		the\AT---6
+1077	TOK	time		time\N5S
+---	DLI	-		=\DELIM
+1078	TOK	consuming		consuming\JA
+1079	TOK	task		task\N5S
+1080	TOK	of		of\P
+1081	TOK	separating		separate\VMG----
+1082	TOK	the		the\AT---6
+1083	TOK	stack		stack\N5S
+1084	TOK	into		into\P
+1085	TOK	individual		individual\JA
+1086	TOK	documents		document\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1087	TOK	The	BOS	the\AT---6
+##	TAG	<name>
+1088	TOK	ScanJet		ScanJet\N46
+##	TAG	</name>
+1089	TOK	4Si		4Si\N5S
+1090	TOK	lets		let\VMFDRS3
+1091	TOK	your		your\AP62N6
+1092	TOK	entire		entire\JA
+1093	TOK	workgroup		workgroup\N5S
+1094	TOK	easily		easily\DGA7
+1095	TOK	standardize		standardize\VMF6R66
+1096	TOK	on		on\P
+1097	TOK	the		the\AT---6
+##	TAG	<name>
+1098	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+1099	TOK	software		software\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1100	TOK	Once	BOS	once\DGA7
+1101	TOK	standardized		standardize\VMF6A66
+---	DLD	,		=\DELIM
+1102	TOK	the		the\AT---6
+1103	TOK	workgroup		workgroup\N5S
+1104	TOK	can		can\VOFDR66
+1105	TOK	share		share\VMI----
+##	TAG	<name>
+1106	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+1107	TOK	documents		document\N5P
+---	DLD	,		=\DELIM
+1108	TOK	route		route\N5S
+1109	TOK	them		them\RPP3NA
+1110	TOK	across		across\P
+1111	TOK	the		the\AT---6
+1112	TOK	network		network\N5S
+1113	TOK	or		or\CC
+1114	TOK	as		as\P
+##	TAG	<name>
+1115	TOK	E-mail		E-mail\N46
+##	TAG	</name>
+1116	TOK	attachments		attachment\N5P
+---	DLD	,		=\DELIM
+1117	TOK	annotate		annotate\VMI----
+1118	TOK	them		them\RPP3NA
+---	DLD	,		=\DELIM
+1119	TOK	and		and\CC
+1120	TOK	establish		establish\VMI----
+1121	TOK	a		a\AI---S
+1122	TOK	work		work\N5S
+1123	TOK	flow		flow\N5S
+1124	TOK	by		by\P
+1125	TOK	way		way\N5S
+1126	TOK	of		of\P
+##	TAG	<name>
+1127	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1128	TOK	Solutions	BOS	solution\N5P
+1129	TOK	for		for\P
+1130	TOK	a		a\AI---S
+##	TAG	<name>
+1131	TOK	Small Cubicle	EOS	Small_Cubicle\N46
+##	TAG	</name>
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1133	TOK	We	BOS	we\RPP1NN
+1134	TOK	think		think\VMF6R66
+1135	TOK	the		the\AT---6
+##	TAG	<name>
+1136	TOK	PaperPort Vx		PaperPort_Vx\N46
+##	TAG	</name>
+1137	TOK	is		be\V6FDRS3
+1138	TOK	the		the\AT---6
+1139	TOK	best		good\DDS7
+1140	TOK	general		general\JA
+1141	TOK	solution		solution\N5S
+1142	TOK	for		for\P
+1143	TOK	personal		personal\JA
+1144	TOK	paper		paper\N5S
+1145	TOK	management		management\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1146	TOK	For	BOS	for\P
+1147	TOK	the		the\AT---6
+1148	TOK	scanning		scanning\N5S
+1149	TOK	of		of\P
+1150	TOK	smaller		small\JC
+1151	TOK	documents		document\N5P
+1152	TOK	scattered		scatter\VMC----
+1153	TOK	throughout		throughout\P
+1154	TOK	the		the\AT---6
+1155	TOK	day		day\N5S
+---	DLD	,		=\DELIM
+1156	TOK	it		it\RPS3N6
+1157	TOK	proved		prove\VMF6A66
+1158	TOK	most		most\DDS7
+1159	TOK	convenient		convenient\JA
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1160	TOK	However	BOS	however\DGA7
+---	DLD	,		=\DELIM
+1161	TOK	for		for\P
+1162	TOK	batch		batch\N5S
+1163	TOK	jobs		job\N5P
+1164	TOK	and		and\CC
+1165	TOK	large		large\JA
+1166	TOK	documents		document\N5P
+---	DLD	,		=\DELIM
+1167	TOK	the		the\AT---6
+##	TAG	<name>
+1168	TOK	ScanJet		ScanJet\N46
+##	TAG	</name>
+1169	TOK	4Si		4Si\N5S
+1170	PGR	's		genmark\GENMARK
+##	TAG	<num>
+1171	TOK	50		50\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1172	TOK	sheet		sheet\N5S
+1173	TOK	feeder		feeder\N5S
+1174	TOK	is		be\V6FDRS3
+1175	TOK	well		well\DGA7
+1176	TOK	worth		worth\P
+1177	TOK	the		the\AT---6
+1178	TOK	walk		walk\N5S
+1179	TOK	to		to\P
+1180	TOK	the		the\AT---6
+1181	TOK	scanner		scanner\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1182	TOK	Price	BOS	price\N5S
+1183	TOK	and		and\CC
+1184	TOK	number		number\N5S
+1185	TOK	of		of\P
+1186	TOK	users		user\N5P
+1187	TOK	will		will\VOFDR66
+1188	TOK	then		then\DGA7
+1189	TOK	drive		drive\VMI----
+1190	TOK	your		your\AP62N6
+1191	TOK	buying		buy\VMG----
+1192	TOK	decision		decision\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1193	TOK	The	BOS	the\AT---6
+1194	TOK	combination		combination\N5S
+1195	TOK	of		of\P
+1196	TOK	a		a\AI---S
+##	TAG	<name>
+1197	TOK	ScanJet		ScanJet\N46
+##	TAG	</name>
+1198	TOK	4Si		4Si\N5P
+1199	TOK	with		with\P
+1200	TOK	a		a\AI---S
+##	TAG	<num>
+1201	TOK	20		20\X
+##	TAG	</num>
+---	DLE	-		=\DELIM
+1202	TOK	user		user\N5S
+1203	TOK	upgrade		upgrade\N5S
+1204	TOK	to		to\P
+##	TAG	<name>
+1205	TOK	PaperPort		PaperPort\N46
+##	TAG	</name>
+##	TAG	<num>
+1206	TOK	3.5		3.5\X
+##	TAG	</num>
+1207	TOK	software		software\N5S
+1208	TOK	costs		cost\N5P
+1209	TOK	about		about\P
+1210	TOK	the		the\AT---6
+1211	TOK	same		same\JA
+1212	TOK	as		as\P
+##	TAG	<num>
+1213	TOK	10		10\X
+##	TAG	</num>
+##	TAG	<name>
+1214	TOK	PaperPort Vx		PaperPort_Vx\N46
+##	TAG	</name>
+1215	TOK	units		unit\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1216	TOK	So	BOS	so\CC
+---	DLD	,		=\DELIM
+1217	TOK	if		if\CS
+1218	TOK	your		your\AP62N6
+1219	TOK	installation		installation\N5S
+1220	TOK	requires		require\VMFDRS3
+1221	TOK	more		more\DDC7
+1222	TOK	than		than\CS
+##	TAG	<num>
+1223	TOK	10		10\X
+##	TAG	</num>
+1224	TOK	users		user\N5P
+---	DLD	,		=\DELIM
+1225	TOK	you		you\RP62N6
+1226	TOK	should		shall\VOFDA66
+1227	TOK	choose		choose\VMI----
+1228	TOK	the		the\AT---6
+##	TAG	<name>
+1229	TOK	ScanJet		ScanJet\N46
+##	TAG	</name>
+1230	TOK	4Si		4Si\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<p>
+##	TAG	<s>
+1231	TOK	PRODUCT	BOS	product\N5S
+##	TAG	<name>
+1232	TOK	INFORMATION HP ScanJet		INFORMATION_HP_ScanJet\N46
+##	TAG	</name>
+1233	TOK	4Si		4Si\N5S
+##	TAG	<name>
+1234	TOK	Ethernet		Ethernet\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1235	TOK	$		$\N5P
+##	TAG	<num>
+1236	TOK	2999		2999\X
+##	TAG	</num>
+##	TAG	<name>
+1237	TOK	Token Ring		Token_Ring\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1238	TOK	$		$\N5P
+##	TAG	<num>
+1239	TOK	3199		3199\X
+##	TAG	</num>
+##	TAG	<name>
+1240	TOK	Hewlett-Packard Co		Hewlett-Packard_Co\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1241	TOK	Santa Clara	BOS	Santa_Clara\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1242	TOK	CA Phone		CA_Phone\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1243	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1244	TOK	722-6538		noanat\W
+##	TAG	</na>
+1245	TOK	or		or\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1246	TOK	208		208\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1247	TOK	396-2551		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1248	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+##	TAG	<na type="url">
+1249	TOK	http://www.hp.com		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1250	TOK	Circle		Circle\N46
+##	TAG	</name>
+##	TAG	<num>
+1251	TOK	1130		1130\X
+##	TAG	</num>
+1252	TOK	on		on\P
+##	TAG	<name>
+1253	TOK	Inquiry Card		Inquiry_Card\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1254	TOK	PageScan Color	BOS	PageScan_Color\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1255	TOK	$		$\N5P
+##	TAG	<num>
+1256	TOK	399		399\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1257	TOK	estimated		estimate\VMC----
+1258	TOK	street		street\N5S
+1259	TOK	price		price\N5S
+---	DLD	)		=\DELIM
+##	TAG	<name>
+1260	TOK	Logitech		Logitech\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1261	TOK	Inc		Inc\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1262	TOK	Fremont	BOS	Fremont\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1263	TOK	CA Phone		CA_Phone\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1264	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1265	TOK	231-7717		noanat\W
+##	TAG	</na>
+1266	TOK	or		or\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1267	TOK	510		510\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1268	TOK	795-8500		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1269	TOK	Fax		Fax\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1270	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1271	TOK	245-0000		noanat\W
+##	TAG	</na>
+---	DLE	(		=\DELIM
+1272	TOK	fax		fax\N5S
+1273	TOK	back		back\DGA7
+---	DLD	)		=\DELIM
+##	TAG	<name>
+1274	TOK	Circle		Circle\N46
+##	TAG	</name>
+##	TAG	<num>
+1275	TOK	1131		1131\X
+##	TAG	</num>
+1276	TOK	on		on\P
+##	TAG	<name>
+1277	TOK	Inquiry Card		Inquiry_Card\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1278	TOK	PaperPort Vx for Windows	BOS	PaperPort_Vx_for_Windows\N46
+##	TAG	</name>
+1279	TOK	or		or\CC
+##	TAG	<name>
+1280	TOK	PaperPort Vx for Macintosh		PaperPort_Vx_for_Macintosh\N46
+##	TAG	</name>
+---	DLE	-		=\DELIM
+1281	TOK	$		$\N5P
+##	TAG	<num>
+1282	TOK	369		369\X
+##	TAG	</num>
+---	DLE	(		=\DELIM
+1283	TOK	estimated		estimate\VMC----
+1284	TOK	street		street\N5S
+1285	TOK	price		price\N5S
+---	DLD	)		=\DELIM
+##	TAG	<name>
+1286	TOK	Visioneer		Visioneer\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1287	TOK	Inc		Inc\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1288	TOK	Palo Alto	BOS	Palo_Alto\N46
+##	TAG	</name>
+---	DLE	,		=\DELIM
+##	TAG	<name>
+1289	TOK	CA Phone		CA_Phone\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1290	TOK	800		800\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1291	TOK	787-7007		noanat\W
+##	TAG	</na>
+1292	TOK	or		or\CC
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1293	TOK	415		415\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1294	TOK	812-6400		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1295	TOK	Fax		Fax\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1296	TOK	415		415\X
+##	TAG	</num>
+---	DLE	)		=\DELIM
+##	TAG	<na type="function">
+1297	TOK	855-9750		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1298	TOK	Internet		Internet\N46
+##	TAG	</name>
+---	DLD	:		=\DELIM
+##	TAG	<na type="url">
+1299	TOK	http://www.visioneer.com		noanat\W
+##	TAG	</na>
+##	TAG	<name>
+1300	TOK	Circle		Circle\N46
+##	TAG	</name>
+##	TAG	<num>
+1301	TOK	1132		1132\X
+##	TAG	</num>
+1302	TOK	on		on\P
+##	TAG	<name>
+1303	TOK	Inquiry Card		Inquiry_Card\N46
+##	TAG	</name>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+##	TAG	<name>
+1304	TOK	Visioneer Paperport Vx	BOS	Visioneer_Paperport_Vx\N46
+##	TAG	</name>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	<head>
+1306	TOK	photo_link	BOS	photo_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1307	TOK	20		20\X
+##	TAG	</num>
+##	TAG	<name>
+1308	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1310	TOK	Personal	BOS	personal\JA
+1311	TOK	document		document\N5S
+1312	TOK	scanners		scanner\N5P
+1313	TOK	should		shall\VOFDA66
+1314	TOK	be		be\VMI----
+1315	TOK	easy		easy\JA
+1316	TOK	to		to\P
+1317	TOK	use		use\N5S
+1318	TOK	and		and\CC
+1319	TOK	easy		easy\JA
+1320	TOK	on		on\P
+1321	TOK	precious		precious\JA
+1322	TOK	desk		desk\N5S
+1323	TOK	space		space\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1324	TOK	Visioneer	BOS	Visioneer\N46
+##	TAG	</name>
+1325	PGR	's		be\V6FDRS3
+1326	TOK	upgraded		upgrade\VMC----
+##	TAG	<name>
+1327	TOK	PaperPort Vx		PaperPort_Vx\N46
+##	TAG	</name>
+1328	TOK	fits		fit\VMFDRS3
+1329	TOK	snugly		snugly\DGA7
+1330	TOK	between		between\P
+1331	TOK	your		your\AP62N6
+1332	TOK	keyboard		keyboard\N5S
+1333	TOK	and		and\CC
+1334	TOK	monitor		monitor\VMF6R66
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1335	TOK	HP	BOS	hp\N5S
+##	TAG	<name>
+1336	TOK	ScanJet		ScanJet\N46
+##	TAG	</name>
+1337	TOK	4si	EOS	4si\N5P
+##	TAG	</head>
+##	TAG	<head>
+1339	TOK	photo_link	BOS	photo_link\N5P
+---	DLE	(		=\DELIM
+##	TAG	<num>
+1340	TOK	25		25\X
+##	TAG	</num>
+##	TAG	<name>
+1341	TOK	Kbytes		Kbytes\N46
+##	TAG	</name>
+---	DLE	)	EOS	=\DELIM
+##	TAG	</head>
+##	TAG	<p>
+##	TAG	<s>
+1343	TOK	Personal	BOS	personal\JA
+1344	TOK	document		document\N5S
+1345	TOK	scanners		scanner\N5P
+1346	TOK	should		shall\VOFDA66
+1347	TOK	be		be\VMI----
+1348	TOK	easy		easy\JA
+1349	TOK	to		to\P
+1350	TOK	use		use\N5S
+1351	TOK	and		and\CC
+1352	TOK	easy		easy\JA
+1353	TOK	on		on\P
+1354	TOK	precious		precious\JA
+1355	TOK	desk		desk\N5S
+1356	TOK	space		space\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1357	TOK	Hewlett-Packard	BOS	Hewlett-Packard\N46
+##	TAG	</name>
+1358	PGR	's		genmark\GENMARK
+##	TAG	<name>
+1359	TOK	HP ScanJet		HP_ScanJet\N46
+##	TAG	</name>
+1360	TOK	4Si		4Si\N5P
+1361	TOK	doesn		do\V6FDRS3
+1362	PGR	't		not\DGA7
+1363	TOK	sit		sit\N5S
+1364	TOK	on		on\P
+1365	TOK	your		your\AP62N6
+1366	TOK	desk		desk\N5S
+1367	TOK	at		at\P
+1368	TOK	all		all\AG---6
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1369	TOK	You	BOS	you\RP62N6
+1370	TOK	plug		plug\VMF6R66
+1371	TOK	it		it\RPS3N6
+1372	TOK	into		into\P
+1373	TOK	your		your\AP62N6
+##	TAG	<name>
+1374	TOK	NetWare		NetWare\N46
+##	TAG	</name>
+1375	TOK	network		network\N5S
+1376	TOK	and		and\CC
+1377	TOK	share		share\VMF6R66
+1378	TOK	the		the\AT---6
+1379	TOK	hardware		hardware\N5S
+1380	TOK	across		across\P
+1381	TOK	a		a\AI---S
+1382	TOK	workgroup		workgroup\N5S
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+##	TAG	<name>
+1383	TOK	Stanford Diehl	BOS	Stanford_Diehl\N46
+##	TAG	</name>
+1384	TOK	is		be\V6FDRS3
+1385	TOK	a		a\AI---S
+1386	TOK	director		director\N5S
+1387	TOK	of		of\P
+##	TAG	<name>
+1388	TOK	BYTE		BYTE\N46
+##	TAG	</name>
+1389	TOK	reviews		review\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1390	TOK	Currently	BOS	currently\DGA7
+---	DLD	,		=\DELIM
+1391	TOK	he		he\RPS3MN
+1392	TOK	consults		consult\VMFDRS3
+---	DLD	,		=\DELIM
+1393	TOK	writes		write\N5P
+---	DLD	,		=\DELIM
+1394	TOK	and		and\CC
+1395	TOK	works		work\VMFDRS3
+1396	TOK	as		as\CS
+1397	TOK	an		an\AI---S
+1398	TOK	administrator		administrator\N5S
+1399	TOK	of		of\P
+1400	TOK	color		color\N5S
+1401	TOK	prepress		prepress\JA
+1402	TOK	systems		system\N5P
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	<s>
+1403	TOK	You	BOS	you\RP62N6
+1404	TOK	can		can\VOFDR66
+1405	TOK	reach		reach\VMI----
+1406	TOK	him		him\RPS3MA
+1407	TOK	on		on\P
+1408	TOK	the		the\AT---6
+##	TAG	<name>
+1409	TOK	Internet		Internet\N46
+##	TAG	</name>
+1410	TOK	or		or\CC
+##	TAG	<name>
+1411	TOK	BIX		BIX\N46
+##	TAG	</name>
+1412	TOK	at		at\P
+##	TAG	<na type="email">
+1413	TOK	sdiehl@bix.com		noanat\W
+##	TAG	</na>
+---	DLD	.	EOS	=\DELIM
+##	TAG	</s>
+##	TAG	</p>
+##	TAG	<head>
+1414	TOK	Copyright	BOS	copyright\JA
+1415	TOK	©		©\N5P
+##	TAG	<na type="function">
+1416	TOK	1994-1996		noanat\W
+##	TAG	</na>
+tf	TOK		EOS	=\DELS
+##	TAG	</head>
+##	TAG	</div1>

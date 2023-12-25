@@ -1,0 +1,157 @@
+
+March 1996 / Reviews / Smart Forms for the Enterprise
+
+Smart Forms for the Enterprise
+
+Your company's forms should be more than an afterthought.
+
+Four programs can turn forms into a medium for groupware.
+
+Mark Hettler 
+
+In theory, replacing paper with electrons can improve an organization's efficiency.
+This is most true for forms, which make up a huge part of most companies' paper volume, carry mission-critical data, and contain a structure that lends itself to computerization.
+Today's leading forms programs are up to the challenge, providing windows onto corporate databases while using E-mail to intelligently route data around the enterprise.
+
+In this roundup, NSTL evaluates four electronic-forms management packages for Windows: Delrina FormFlow 1.1, Novell's InForms 4.1, JetForm's JetForm 4.1, and Microsoft Electronic Forms Designer 1.0.
+(Lotus was upgrading Lotus Forms during our testing and didn't participate.)
+
+To be included in the testing, a program must be able to act as a database front end, complete with field-level database lookups and validation.
+It must provide such design features as drawing tools, listboxes, radio buttons, and check boxes as well as standard text-entry fields and labels.
+And it must support routing over standard E-mail systems.
+
+Delrina FormFlow and InForms are the best of the field.
+Although both are extremely versatile and easy to use, Delrina FormFlow comes out slightly ahead of InForms, primarily due to its slightly faster performance and InForms' reliance on Novell's GroupWise for E-mail functions.
+
+Form Functions 
+
+Forms programs do four things: design, filling , database access, and E-mail-enabled functions (e.g., routing, work flow, and tracking).
+Design features include the controls we've come to expect in graphical packages (e.g., color selection, grids, rulers, and the ability to import logos).
+Filling, database access, and E-mail features tend to vary more across products.
+
+Filler modules help you work with previously created forms.
+The programs vary widely in the number of database access and display options they provide for their fillers.
+In all the products except Microsoft's, anyone who has the filler software can use the form.
+In Microsoft's program, you must edit Microsoft Mail configuration files to provide other users with access to the form.
+
+Forms programs also provide access to databases for data entry and retrieval.
+You can use the forms to retrieve data, distribute it, collect it, and update the database (see the sidebar "Wind/U Opens Windows to Unix" ).
+
+The programs let you address and send a form by E-mail while viewing the form; recipients use the same form to view the associated data.
+Thus, you can electronically mail blank or partially filled forms to recipients, who fill them out on-line.
+To do this, a forms program must provide more than a window to the database.
+It must store the data as part of the form or in a temporary database attached to the form.
+
+While all the tested products produce forms that can browse through large data sets, each incorporates a single record (the one it is reading when it is sent) for transmission to recipients.
+Alternatively, if all the recipients and the database share the same network, you can send a form with links to the original database rather than embedding a single record.
+
+E-mail offers more than just data sharing.
+Work-flow mechanisms in these programs provide a level of control over document flow that is inconceivable with paper forms.
+JetForm and Delrina FormFlow have sophisticated work-flow options built into their design and filler modules.
+InForms does, too, but the features are available only if you're using GroupWise.
+Microsoft Electronic Forms Designer doesn't have built-in work-flow features, and programming them in Visual Basic can be difficult.
+
+Finally, one of the most powerful benefits of electronic forms is the ability to track the progress of a form through the routing process.
+Only Microsoft Electronic Forms Designer lacks this ability.
+
+Delrina FormFlow
+
+An ideal balance of power and ease of use, Delrina FormFlow combines an intuitive interface with a powerful scripting language, which lets you create distributable forms-based applications.
+It is the second-fastest program (behind JetForm), but it is the program with the broadest range of useful features.
+
+Delrina FormFlow's design interface makes excellent use of toolbars and dialog boxes.
+Routing is easy to set up, and tracking is independent of the mail system.
+Data retrieval is easy, but updating data after receiving a form involves unpacking the form contents and performing a complicated merge operation.
+
+The tutorials are excellent, though you probably won't need them for design and filling, thanks to the program's intuitive layout.
+More complex operations, such as scripts for conditional routing, are not well explained, however.
+Delrina plans to release a Windows 95 upgrade sometime in the middle of this year.
+Delrina FormFlow is one of our recommended buys.
+
+InForms
+
+Novell's entry, which has extensive links to GroupWise--and, unfortunately, depends on it for E-mail--is the easiest program to use, though its interface is somewhat less intuitive than Delrina FormFlow's.
+It is better at complex operations, such as updating a database using information in a form sent as E-mail.
+In addition, InForms' serial-routing and form-tracking features are the easiest to set up.
+
+InForms' filler module has the best database query and search facilities.
+Forms design is easy, as well, although InForms makes you fiddle with too many menus to set attributes.
+
+InForms uses GroupWise's tracking mechanisms, so you won't have tracking if you use a different messaging system.
+GroupWise has its own facilities for tracking mail messages throughout an enterprise.
+InForms provides an interface to these facilities from within the form filler, and it filters out everything except information about forms sent using InForms' work-flow option.
+You can select an item to track, and the system displays a list of all recipients of the form, indicating whether a recipient has received, accepted, and completed working with the form.
+You can use this feature to identify bottlenecks.
+
+InForms ranks close to Delrina FormFlow in richness of features, though there are slight differences in some categories.
+For example, InForms is slightly better in design categories such as graphics handling.
+Delrina FormFlow offers stronger cross-platform support, though InForms offers more data formats.
+
+Other than its dependence on GroupWise for work-flow and routing features, InForms' weakest feature is performance, where it came in last.
+It is slow at opening and closing forms, though it beats the rest at data retrieval.
+Along with Delrina FormFlow, we can recommend InForms as a smart purchase for most applications.
+
+JetForm
+
+JetForm offers powerful features for enterprise-wide forms management.
+However, with this power comes intimidating complexity.
+Tracking is difficult to understand and set up.
+Even JetForm's basic design interface and procedures lack the intuitiveness of those in Delrina FormFlow and InForms.
+What's more, setting up a form to access a database is more difficult than in any of the other products.
+
+Even so, JetForm is the best of the four at forms management and performance.
+It employs a hybrid of E-mail and a server-based tracking database to track forms flowing through the network.
+JetForm's print server allows you to dedicate a single printer to forms printing and give all forms users access to it.
+It also has a Fax Director add-on for sending forms by fax.
+
+JetForm nudges slightly ahead of Delrina FormFlow in the overall performance ratings.
+It is the fastest at sending a form and inserting data, but the slowest at data retrieval.
+JetForm isn't as easy to use as Delrina FormFlow or InForms, and it isn't nearly as feature-rich, though it does offer good cross-platform support, routing, and filler and printing options.
+
+Microsoft Electronic Forms Designer
+
+Microsoft's entry barely meets our selection criteria.
+It requires Visual Basic and is sold only as part of Microsoft Mail Server 3.5; essentially, it is an add-on.
+You work in the Visual Basic design interface.
+Then you copy the Visual Basic project files for the template form to a new directory and modify the existing form.
+
+Apparently, Microsoft regards the real McCoy to be the forms designer in the Exchange Server, Microsoft's new E-mail and workgroup program, which was not shipping in time for our testing.
+We tried a beta version, however, and found that while Exchange Server Forms offers a more typical forms-design interface than its predecessor, it still leans too heavily on Visual Basic for functions that are built into competing products.
+
+Microsoft Electronic Forms Designer has far fewer features than its competitors.
+It is the only one lacking true WYSIWYG forms printing.
+Its filler software requires editing of Microsoft Mail configuration files to provide shared access.
+
+Many work-flow features, such as simple serial routing and forms tracking, simply aren't there, though you could use Visual Basic to create them.
+Also, Microsoft Electronic Forms Designer is the only product lacking cross-platform features.
+The others all come with filler software for the Mac environment.
+Delrina FormFlow also has fillers for DOS and Unix.
+JetForm has them for DOS and OS/2.
+
+Besides its extensive programmability, Microsoft Electronic Forms Designer gets one other major benefit from its reliance on Visual Basic: The forms it creates are executable, so they don't require separate filler software to be used by recipients.
+
+This product is not competitive with such well-rounded packages as Delrina FormFlow and InForms.
+It finishes last in our four major criteria.
+
+According to Form
+
+Delrina FormFlow and InForms are our recommended purchases, although we give the top position to Delrina FormFlow.
+The two programs finish close in our overall ratings and tend to match each other's functions.
+The programs' key differences are Delrina FormFlow's slightly faster performance and InForms' reliance on Novell's GroupWise for its E-mail and work-flow features.
+
+This report contains the partial results of a recent issue of Software Digest , a monthly publication of NSTL, Inc.
+To purchase a complete copy of the report, contact NSTL at 625 Ridge Pike, Conshohocken, PA 19428, (610) 941-9600; fax (610) 941-9950; on the Internet, editors@nstl.com .
+For a subscription, call (800) 257-9402.
+BYTE magazine and NSTL are both operating units of the McGraw-Hill Companies, Inc.
+
+Database and Workgroup Features 
+
+Overview 
+
+Thoughtful Forms, Not Afterthoughts 
+
+Our top-rated programs, Delrina FormFlow (top) and Novell's InForms (left) , have similar drag-and-drop design interfaces.
+You can reposition toolbar palettes in both products, which are shown in their Windows 3.1 versions running under Windows 95.
+
+A five-year veteran of NSTL software roundups, Mark Hettler pioneered NSTL's coverage of SQL servers and multiuser databases.
+You can contact him by E-mail at editors@nstl.com .

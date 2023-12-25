@@ -1,0 +1,228 @@
+
+March 1996 / Reviews / Compiling Convenience +
+
+Compiling Convenience +
+
+We rounded up DOS/Windows-based C++ compilers and found Microsoft and Watcom are tops, but where's Borland's upgrade? 
+
+Rick Grehan 
+
+You don't just buy a C++ compiler anymore.
+Well, you can, but in these days of rampantly spreading windowing operating systems, you wouldn't want to.
+The actual compilation of C or C++ source code into a final application is just one in a series of operations, some of which can be more complicated than the compilation itself.
+Hence, the C++ compiler becomes just one piece of an environment , a coordinated collection of tools that can include text editor, browser, debugger, profiler, resource editor, and so many others that all the icons barely fit on even the biggest screen.
+
+In this roundup, we examine five C++ environments targeted for the Windows platform: Microsoft's Visual C++ 4.0, Watcom's C/C++ 10.5, Symantec's C++ 7.2, and MetaWare's High C/C++ 3.31.
+We also look briefly at Borland's C++ 4.53; briefly because this article went to press at a cusp in Borland compiler development.
+Borland 5.0 was just around the corner but not shipping in time for us to review it (the package will likely be available by the time you read this).
+
+Common Ground
+
+Hard as the designers try to differentiate their products, most everyone (except for MetaWare) provides a browser .
+Visual C++'s browser, ClassView, employs the expandable-tree format common to Windows 95 and is only one "view" into the application under construction.
+(Another view provides a similar tree whose leaves are the source code files.)
+
+Symantec's browser arises out of the teamwork of the hierarchy editor and the class editor.
+The former is a tree-like view into class hierarchy, the latter is a Smalltalkish three-pane editor.
+Both Symantec and Visual C++ do parsing work in the background even before you've done any compilation, which means that once source files are in your Symantec project, you can begin using the hierarchy editor and the class editor.
+
+Watcom's browser is more sedate.
+It's a separate application that you can nonetheless launch from within the integrated development environment (IDE).
+It reads a browse database created during compilation--provided you've set the appropriate option in the project.
+Watcom's browser is like Symantec's hierarchy editor: It lets you go from an element in the browser window to the location in the source files where that element is defined.
+However, this requires the Watcom system to call the editor up; Symantec and Visual C++ are better integrated in this regard.
+
+MetaWare High C/C++ 3.31
+
+
+Advantages:xs
+- Consumes only 15 MB of disk space (actually comes on floppies) 
+- Compiler is synchronized with the latest ANSI specifications 
+- Free technical support
+
+
+Disadvantages:
+- A command-line product, it lacks an integrated development environment 
+- Limited platform support; e.g., it can't create a Windows NT target 
+- Needs additional components to make a complete development system
+
+When it comes to the High C compiler, everything we've said so far about IDEs goes out the window.
+High C is purely a set of command-line tools.
+Admittedly, the editor is window-based, as is the debugger, but it's window with a small w -- character graphics only.
+We'd like to call it charmingly primitive, but it doesn't take long for the charm to evaporate.
+High C doesn't even come with its own linker, for crying out loud.
+MetaWare offers an optional one for free, but it creates only Windows 3.x-compatible executables.
+
+Can you build a 32-bit Windows application with High C? Certainly you can, but you can also use a shovel instead of a snow blower to clear your driveway.
+Furthermore, the 32-bit application you'll build will not be a Win32 app.
+MetaWare supplies its own "supervisor," a program that acts as an intermediary between the 32-bit code of your program and 16-bit Windows.
+Therefore, the target is really Windows 3.x, not Windows NT or 95.
+
+High C/C++ does have some positive attributes.
+MetaWare has worked to keep the compiler up to the latest ANSI C++ standards, including exception handling, run-time type information, namespaces, and so on.
+And MetaWare bundles in Rogue Wave Software's impressive Tools.h++ class library.
+This library easily supports multithreaded applications and provides classes to handle persistent storage, a set of collections classes built on the Smalltalk model, and even Windows support with I/O classes to manage the clipboard and DDE.
+There's also a DLL version of the library that reduces the size of your executable.
+
+High C/C++ comes with free technical support.
+And it's no small accomplishment that the compiler arrives on six high-density floppy disks and doesn't consume hundreds of megabytes of disk space.
+The glamour of this economy fades, however, when you realize that you have to get a linker separately to have a complete development system.
+Though MetaWare offers a somewhat limited one for free, we used the linker that comes with Phar Lap's TNT DOS Extender ($595).
+
+Microsoft Visual C++ 4.0
+
+
+Advantages:
+- Is a complete, tightly integrated development environment 
+- Component Gallery provides reuse and software management
+- Just-in-time debugging finds bugs before program crashes
+
+
+Disadvantages:
+- Easy to get lost in the IDE 
+- 16-bit development requires separate (though included) compiler
+
+You may be wondering what happened to Visual C++ 3.0.
+Microsoft skipped from 2.0 (which we reviewed last April) to 4.0 in order to align the compiler's version number with that of Microsoft Foundation Classes (MFC) 4.0 class library.
+MFC 4.0 comes with Visual C++ 4.0 and carries such new features as support for Windows Common Controls (supplied with Windows 95 and NT), integration with the OLE controls developer kit, and classes to encapsulate Data Access Objects (DAO).
+The sidebar "Keys to the Enterprise" explains the role of DAO and the Borland Database Engine (BDE).
+
+In Microsoft's IDE, the emphasis is on the word integrated .
+Called the Developer Studio, this IDE can serve as a docking station for not only Visual C++ but also Visual Test and Visual FORTRAN Powerstation.
+As capable as the Developer Studio's user interface is, we worry about its density.
+Obviously, Microsoft's engineers labored to cram as much functionality onto the screen as possible.
+
+Visual C++ 4.0 introduces the Component Gallery object repository, which is useful on several levels.
+In one sense, it provides a way to manage classes more as objects than as conglomerates of source code, making it a kind of source-code-management system.
+To place a class into an application, you just withdraw a copy of it from the Component Gallery and place it in your application; you don't have to cut and paste from header files, .cppfiles, and so on.
+Furthermore, using the gallery to insert a class does more than simply move source code.
+You can, for example, associate a resource with the class, and the resource will be automatically added to your source code.
+
+You can easily store third-party OCXes in the gallery.
+It took us only a few mouse clicks to quickly install an OCX in the Component Gallery and insert it into a sample application.
+Visual C++ did the dirty work by reading the OCX and generating the source code for a C++ "wrapper" class.
+This class included prebuilt methods that are associated with each OCX's functions, and public member variables associated with the object's properties.
+
+Visual C++ 4.0 includes just-in-time debugging.
+If you're running a debug release of your application and a run-time error occurs, the system presents a dialog box that gives you the choice of either terminating the application or dropping into the debugger (with the source window aligned at the location of the offense).
+
+Visual C++ 4.0 is above all a 32-bit product: It can target Win32s, NT, and Windows 95.
+A separate CD-ROM that comes in the box carries a copy of Visual C++ 1.52c, which supports 16-bit MS-DOS, Windows 3.1, and Windows for Workgroups 3.11.
+Microsoft promises a RISC version of C++ 4.0 on NT for PowerPC, Mips, and Alpha platforms.
+A cross-development edition is available for PowerPC and 68K-based Macintosh systems.
+
+Symantec C++ 7.2
+
+
+Advantages: 
+- Tightly integrated development environment with extensive drag-and-drop capabilities 
+- Netbuild allows distributed compilation
+
+
+Disadvantages: 
+- Full installation takes nearly 300 MB 
+- Below-average performance of generated executables
+
+Our recent review of Symantec C++ 7.2 (see "Symantec C++ Differences," December '95 BYTE) aptly pointed out that Symantec has always been the "other" C++ vendor behind Microsoft and Borland--despite Symantec's knack for producing significant innovations in its compiler's integrated development and debugging environment (IDDE).
+
+Netbuild is one such innovation.
+It's a distributed compilation environment that allows you to turn other machines on your network into compilation servers.
+It's particularly useful in large projects or when you can run the build during off hours.
+
+Symantec C++'s IDDE preparses your application's source code when you first load the project with source files.
+This preparser can tell if source code has changed, automatically reparsing in that event.
+Like make, it parses only those files that have changed.
+
+The preparsed results feed into the text-handling components of the IDDE, which makes possible a Smalltalk-like three-pane browser and editor combination.
+The editing capabilities of this three-pane system are complete: When you seek a member function within a class, a lower-level editing window opens.
+If you make changes, the proper source-code file gets updated.
+
+The preparsing works in the background, but it can get annoying if you've just started working with an MFC application and you're running the software off a CD.
+Depending on the speed of your system, the preparser can take a while to read all the MFC Include files.
+(Yes, Symantec provides support for MFC: Versions 2.53 and 3.2 are bundled with the package.)
+
+Symantec is also innovative in providing a scripting language, Symantec BASIC, that lets you automate many of the features of the IDDE (particularly the editor) that are otherwise activated via menus and toolbars.
+Also, just as the Microsoft Component Gallery provides a "wrapping service" for automatically constructing a C++ class interface to OCXes, Symantec's VBXExpress will automatically construct a C++ wrapper class around a VBX.
+
+Symantec's target coverage is nearly as broad as Watcom's.
+From the IDDE, you can produce executables and DLLs for 16- and 32-bit DOS, as well as for Windows 3.1, Windows for Workgroups 3.11, Windows 95, and Windows NT.
+Symantec shares a spot with Microsoft as one of only two vendors in this roundup that also provide a Macintosh product (though Microsoft's is a cross-development system, while Symantec's is native on the Mac).
+
+Watcom C/C++ 10.5
+
+
+Advantages:
+- Supports a variety of host and target platforms 
+- High-quality compiler output
+
+
+Disadvantages: 
+- Comes with few wizards or expert tools 
+- Browser and some other tools are not tightly integrated with development environment
+
+Watcom's greatest strength is its cross-platform capabilities.
+From a single IDE, you can generate targets for DOS (16-bit and extended), all the Windows platforms, OS/2 (16- and 32-bit), and NetWare.
+Its support for host platforms is equally broad; you can run the Watcom IDE from 16-bit Windows, Windows NT and 95, and OS/2.
+Watcom C/C++ has been the base platform for our BYTEmark benchmarks since their inception.
+
+The Watcom box arrives with the usual entourage of support tools: debugger, profiler, heap walker, spy, and a post-mortem debugger called Dr. Watcom.
+There are also image and dialog editors that can be launched on their own or shepherded by the resource editor.
+Watcom's philosophy is distinct from Microsoft's and Symantec's.
+Where the latter companies have moved to pull the main development components (editor, debugger, compiler) under a single, umbrella-like IDE, Watcom's components are separate executables that the IDE launches as required.
+
+Prior to version 10.5, Watcom C/C++ lacked a visual application builder; it now has Blue Sky's Visual Programmer.
+Not as robust as, say, Visual Basic, Visual Programmer nonetheless provides a graphical mechanism for populating your application with resource-type objects--buttons, bit maps, menus, etc.--all the while constructing source code (built atop MFC, which ships with the compiler) as you specify the components' functions.
+We particularly like the menu and dialog-box capture feature, which is a kind of reusability tool.
+Activate dialog box capture, then launch another application: Whenever you move the pointer over a dialog box, the cursor turns into a stylized hand with pointing finger.
+Double-click, and a copy of the dialog box moves into the Visual Programmer's dialog-box editor, ready for inclusion in your application.
+
+Watcom gets high marks for its multiplatform support.
+And the quality of floating-point math produced by the compiler is a cut above average.
+
+What to Test?--and How?
+
+Actual compilation comprises a smaller part of building an application today, and one that's increasingly difficult to time.
+New technologies such as Symantec's Netbuild make comparisons even more difficult.
+
+Consequently, we chose to focus our benchmark testing on the quality of code that each compiler produced.
+We selected two programs: our own BYTEmark and the public-domain version 7 of the J programming language.
+BYTEmark is a collection of 10 tests that exercises the CPU, FPU, cache, and system memory; J is a complete interpreter that is the last public-domain release of the J language's source code prior to J's becoming a commercial package.
+(For details, see "The Joy of J" by Dick Pountain in the September '95 BYTE.)
+
+We shipped BYTEmark source code to each vendor and asked them to determine the best optimization settings for the program.
+We compiled the test according to their recipes and ran the resulting executable on an Intergraph system running Windows NT 3.51 with dual 150-MHz Pentium Pro processors.
+(No benchmark we tested was multithreaded, so the additional processor had no effect.) 
+
+For the results of the tests, see the graphs .
+The BYTEmark index figures are automatically calculated by the program.
+For the J test, we entered a short linear programming script (short by J standards, that is) that performs the simplex algorithm.
+We also entered a script to calculate the determinant of matrix and turned it loose on an 8x8 matrix.
+(Note that although we did not formally review Borland's product for this article, we include the results from their version 4.53 compiler for comparison purposes.)
+
+If we were to base our conclusions on BYTEmark results alone, then Microsoft is the clear winner, with Watcom close behind.
+The J benchmark, however, provides a different perspective.
+Ironically, Borland fared better than the rest.
+The difference in performance of the two tests is likely due to the different code models they present.
+Tests within the BYTEmark tend to be small routines executed repeatedly; execution flow in the J interpreter will be less localized.
+
+If-Else Statement
+
+Deciding which C++ environment to buy depends largely on your target.
+If you're going for platform coverage within the Intel family, we recommend Watcom.
+Though its integer performance has slipped compared to other compilers, it continues to do well with floating-point code.
+The new Visual Programmer makes Windows development with the Watcom package a less strenuous challenge.
+Close behind Watcom is Symantec, which covers nearly as many target platforms, provides a well-thought-out development system, and is designed by a crew of engineers who continue to amaze us with their imaginative extensions to the IDE.
+
+For people who know they're going to be working on 32-bit Windows platforms, Microsoft's Visual C++ is our top recommendation.
+Its overall performance (combining all benchmark scores) takes first place.
+Plus, the Component Gallery--already a useful mechanism for rapidly incorporating OCXes into a C++ application--will evolve into a more robust object-management system.
+
+C++ compilers perform differently depending on the code model.
+Microsoft Visual C++ 4.0 is fastest in the algorithm-based Native-Mode BYTEmark tests.
+Borland C++ 4.53 is tops in compiling two scripts written in the public-domain J language, a code flow that is less localized.
+Indexes are based on the performance of a 90-MHz Dell XPS P90 Pentium system (which scores a 1.0 in all the tests).
+
+With the exception of MetaWare High C/C++, the compilers all offer multipaned, Windows-based views into the application you're developing.
+
+Rick Grehan (rick_g@bix.com) , a BYTE senior technical editor, developed the BYTE benchmark suite and writes the monthly CodeTalk column.
+He has an M.S. in mathematics/computer science.

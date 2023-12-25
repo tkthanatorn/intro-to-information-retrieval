@@ -1,0 +1,6929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xces.org/ns/GrAF/0.99/graf-0.99.xsd" xmlns="http://www.xces.org/ns/GrAF/0.99/">
+	<header>
+		<tagsDecl>
+			<tagUsage gi="tok" occurs="768"/>
+		</tagsDecl>
+		<dependencies>
+			<dependsOn loc=".//EN/e00011/e00011-seg.xml"/>
+		</dependencies>
+		<annotationSets>
+			<annotationSet name="xces" type="http://www.xces.org/schema/2003"/>
+		</annotationSets>
+	</header>
+<node xml:id="iula-n0">
+<link targets="seg-r0 seg-r1 seg-r2"/>
+</node>
+ <a label="TOK" ref="iula-n0" as="xces">
+	<fs>
+		<f name="word" value="Catalunya Savings Bank"/>
+		<f name="lemma" value="Catalunya_Savings_Bank"/>
+		<f name="postag" value="N46"/>
+		<f name="type" value="organization"/>
+</fs>
+</a><node xml:id="iula-n1">
+<link targets="seg-r3"/>
+</node>
+ <a label="TOK" ref="iula-n1" as="xces">
+	<fs>
+		<f name="word" value="History"/>
+		<f name="lemma" value="history"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n2">
+<link targets="seg-r4"/>
+</node>
+ <a label="TOK" ref="iula-n2" as="xces">
+	<fs>
+		<f name="word" value="Economic"/>
+		<f name="lemma" value="economic"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n3">
+<link targets="seg-r5"/>
+</node>
+ <a label="TOK" ref="iula-n3" as="xces">
+	<fs>
+		<f name="word" value="Evolution"/>
+		<f name="lemma" value="Evolution"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n4">
+<link targets="seg-r6"/>
+</node>
+ <a label="TOK" ref="iula-n4" as="xces">
+	<fs>
+		<f name="word" value="On"/>
+		<f name="lemma" value="on"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n5">
+<link targets="seg-r7"/>
+</node>
+ <a label="TOK" ref="iula-n5" as="xces">
+	<fs>
+		<f name="word" value="30"/>
+		<f name="lemma" value="30"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n6">
+<link targets="seg-r8 seg-r9"/>
+</node>
+ <a label="TOK" ref="iula-n6" as="xces">
+	<fs>
+		<f name="word" value="June 1926"/>
+		<f name="lemma" value="June_1926"/>
+		<f name="postag" value="T"/>
+</fs>
+</a><node xml:id="iula-n7">
+<link targets="seg-r10"/>
+</node>
+ <a label="DLE" ref="iula-n7" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n8">
+<link targets="seg-r11"/>
+</node>
+ <a label="TOK" ref="iula-n8" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n9">
+<link targets="seg-r12 seg-r13"/>
+</node>
+ <a label="TOK" ref="iula-n9" as="xces">
+	<fs>
+		<f name="word" value="County Council"/>
+		<f name="lemma" value="County_Council"/>
+		<f name="postag" value="N46"/>
+		<f name="type" value="place"/>
+</fs>
+</a><node xml:id="iula-n10">
+<link targets="seg-r14"/>
+</node>
+ <a label="TOK" ref="iula-n10" as="xces">
+	<fs>
+		<f name="word" value="included"/>
+		<f name="lemma" value="include"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n11">
+<link targets="seg-r15"/>
+</node>
+ <a label="TOK" ref="iula-n11" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n12">
+<link targets="seg-r16"/>
+</node>
+ <a label="TOK" ref="iula-n12" as="xces">
+	<fs>
+		<f name="word" value="sum"/>
+		<f name="lemma" value="sum"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n13">
+<link targets="seg-r17"/>
+</node>
+ <a label="TOK" ref="iula-n13" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n14">
+<link targets="seg-r18 seg-r19 seg-r20"/>
+</node>
+ <a label="TOK" ref="iula-n14" as="xces">
+	<fs>
+		<f name="word" value="50,000"/>
+		<f name="lemma" value="50,000"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n15">
+<link targets="seg-r21"/>
+</node>
+ <a label="TOK" ref="iula-n15" as="xces">
+	<fs>
+		<f name="word" value="pesetas"/>
+		<f name="lemma" value="peseta"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n16">
+<link targets="seg-r22"/>
+</node>
+ <a label="TOK" ref="iula-n16" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n17">
+<link targets="seg-r23"/>
+</node>
+ <a label="TOK" ref="iula-n17" as="xces">
+	<fs>
+		<f name="word" value="its"/>
+		<f name="lemma" value="its"/>
+		<f name="postag" value="APS3N6"/>
+</fs>
+</a><node xml:id="iula-n18">
+<link targets="seg-r24"/>
+</node>
+ <a label="TOK" ref="iula-n18" as="xces">
+	<fs>
+		<f name="word" value="budget"/>
+		<f name="lemma" value="budget"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n19">
+<link targets="seg-r25"/>
+</node>
+ <a label="DLD" ref="iula-n19" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n20">
+<link targets="seg-r26"/>
+</node>
+ <a label="TOK" ref="iula-n20" as="xces">
+	<fs>
+		<f name="word" value="which"/>
+		<f name="lemma" value="which"/>
+		<f name="postag" value="RW63N-"/>
+</fs>
+</a><node xml:id="iula-n21">
+<link targets="seg-r27"/>
+</node>
+ <a label="TOK" ref="iula-n21" as="xces">
+	<fs>
+		<f name="word" value="represented"/>
+		<f name="lemma" value="represent"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n22">
+<link targets="seg-r28"/>
+</node>
+ <a label="TOK" ref="iula-n22" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n23">
+<link targets="seg-r29"/>
+</node>
+ <a label="TOK" ref="iula-n23" as="xces">
+	<fs>
+		<f name="word" value="founding"/>
+		<f name="lemma" value="found"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n24">
+<link targets="seg-r30"/>
+</node>
+ <a label="TOK" ref="iula-n24" as="xces">
+	<fs>
+		<f name="word" value="capital"/>
+		<f name="lemma" value="capital"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n25">
+<link targets="seg-r31"/>
+</node>
+ <a label="DLE" ref="iula-n25" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n26">
+<link targets="seg-r32"/>
+</node>
+ <a label="TOK" ref="iula-n26" as="xces">
+	<fs>
+		<f name="word" value="endowment"/>
+		<f name="lemma" value="endowment"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n27">
+<link targets="seg-r33"/>
+</node>
+ <a label="TOK" ref="iula-n27" as="xces">
+	<fs>
+		<f name="word" value="fund"/>
+		<f name="lemma" value="fund"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n28">
+<link targets="seg-r34"/>
+</node>
+ <a label="DLD" ref="iula-n28" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n29">
+<link targets="seg-r35"/>
+</node>
+ <a label="TOK" ref="iula-n29" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n30">
+<link targets="seg-r36"/>
+</node>
+ <a label="TOK" ref="iula-n30" as="xces">
+	<fs>
+		<f name="word" value="set"/>
+		<f name="lemma" value="set"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n31">
+<link targets="seg-r37"/>
+</node>
+ <a label="TOK" ref="iula-n31" as="xces">
+	<fs>
+		<f name="word" value="up"/>
+		<f name="lemma" value="up"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n32">
+<link targets="seg-r38"/>
+</node>
+ <a label="TOK" ref="iula-n32" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n33">
+<link targets="seg-r39"/>
+</node>
+ <a label="TOK" ref="iula-n33" as="xces">
+	<fs>
+		<f name="word" value="Caixa"/>
+		<f name="lemma" value="Caixa"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n34">
+<link targets="seg-r40"/>
+</node>
+ <a label="DLE" ref="iula-n34" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n35">
+<link targets="seg-r41"/>
+</node>
+ <a label="TOK" ref="iula-n35" as="xces">
+	<fs>
+		<f name="word" value="whose"/>
+		<f name="lemma" value="whose"/>
+		<f name="postag" value="AW---6"/>
+</fs>
+</a><node xml:id="iula-n36">
+<link targets="seg-r42"/>
+</node>
+ <a label="TOK" ref="iula-n36" as="xces">
+	<fs>
+		<f name="word" value="finality"/>
+		<f name="lemma" value="finality"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n37">
+<link targets="seg-r43"/>
+</node>
+ <a label="TOK" ref="iula-n37" as="xces">
+	<fs>
+		<f name="word" value="was"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6F-A66"/>
+</fs>
+</a><node xml:id="iula-n38">
+<link targets="seg-r44"/>
+</node>
+ <a label="TOK" ref="iula-n38" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n39">
+<link targets="seg-r45"/>
+</node>
+ <a label="TOK" ref="iula-n39" as="xces">
+	<fs>
+		<f name="word" value="attract"/>
+		<f name="lemma" value="attract"/>
+		<f name="postag" value="VMI----"/>
+</fs>
+</a><node xml:id="iula-n40">
+<link targets="seg-r46"/>
+</node>
+ <a label="TOK" ref="iula-n40" as="xces">
+	<fs>
+		<f name="word" value="resources"/>
+		<f name="lemma" value="resource"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n41">
+<link targets="seg-r47"/>
+</node>
+ <a label="TOK" ref="iula-n41" as="xces">
+	<fs>
+		<f name="word" value="for"/>
+		<f name="lemma" value="for"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n42">
+<link targets="seg-r48"/>
+</node>
+ <a label="TOK" ref="iula-n42" as="xces">
+	<fs>
+		<f name="word" value="investment"/>
+		<f name="lemma" value="investment"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n43">
+<link targets="seg-r49"/>
+</node>
+ <a label="TOK" ref="iula-n43" as="xces">
+	<fs>
+		<f name="word" value="mainly"/>
+		<f name="lemma" value="mainly"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n44">
+<link targets="seg-r50"/>
+</node>
+ <a label="TOK" ref="iula-n44" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n45">
+<link targets="seg-r51"/>
+</node>
+ <a label="TOK" ref="iula-n45" as="xces">
+	<fs>
+		<f name="word" value="loans"/>
+		<f name="lemma" value="loan"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n46">
+<link targets="seg-r52"/>
+</node>
+ <a label="DLD" ref="iula-n46" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n47">
+<link targets="seg-r53"/>
+</node>
+ <a label="TOK" ref="iula-n47" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n48">
+<link targets="seg-r54"/>
+</node>
+ <a label="TOK" ref="iula-n48" as="xces">
+	<fs>
+		<f name="word" value="securities"/>
+		<f name="lemma" value="security"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n49">
+<link targets="seg-r55"/>
+</node>
+ <a label="TOK" ref="iula-n49" as="xces">
+	<fs>
+		<f name="word" value="portfolio"/>
+		<f name="lemma" value="portfolio"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n50">
+<link targets="seg-r56"/>
+</node>
+ <a label="TOK" ref="iula-n50" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n51">
+<link targets="seg-r57"/>
+</node>
+ <a label="TOK" ref="iula-n51" as="xces">
+	<fs>
+		<f name="word" value="real"/>
+		<f name="lemma" value="real"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n52">
+<link targets="seg-r58"/>
+</node>
+ <a label="TOK" ref="iula-n52" as="xces">
+	<fs>
+		<f name="word" value="estate"/>
+		<f name="lemma" value="estate"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n53">
+<link targets="seg-r59"/>
+</node>
+ <a label="DLD" ref="iula-n53" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n54">
+<link targets="seg-r60"/>
+</node>
+ <a label="TOK" ref="iula-n54" as="xces">
+	<fs>
+		<f name="word" value="maintaining"/>
+		<f name="lemma" value="maintain"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n55">
+<link targets="seg-r61"/>
+</node>
+ <a label="TOK" ref="iula-n55" as="xces">
+	<fs>
+		<f name="word" value="available"/>
+		<f name="lemma" value="available"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n56">
+<link targets="seg-r62"/>
+</node>
+ <a label="TOK" ref="iula-n56" as="xces">
+	<fs>
+		<f name="word" value="liquid"/>
+		<f name="lemma" value="liquid"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n57">
+<link targets="seg-r63"/>
+</node>
+ <a label="TOK" ref="iula-n57" as="xces">
+	<fs>
+		<f name="word" value="assets"/>
+		<f name="lemma" value="asset"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n58">
+<link targets="seg-r64"/>
+</node>
+ <a label="DLD" ref="iula-n58" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n59">
+<link targets="seg-r65"/>
+</node>
+ <a label="TOK" ref="iula-n59" as="xces">
+	<fs>
+		<f name="word" value="The"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n60">
+<link targets="seg-r66"/>
+</node>
+ <a label="TOK" ref="iula-n60" as="xces">
+	<fs>
+		<f name="word" value="aim"/>
+		<f name="lemma" value="aim"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n61">
+<link targets="seg-r67"/>
+</node>
+ <a label="TOK" ref="iula-n61" as="xces">
+	<fs>
+		<f name="word" value="was"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6F-A66"/>
+</fs>
+</a><node xml:id="iula-n62">
+<link targets="seg-r68"/>
+</node>
+ <a label="TOK" ref="iula-n62" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n63">
+<link targets="seg-r69"/>
+</node>
+ <a label="TOK" ref="iula-n63" as="xces">
+	<fs>
+		<f name="word" value="contribute"/>
+		<f name="lemma" value="contribute"/>
+		<f name="postag" value="VMI----"/>
+</fs>
+</a><node xml:id="iula-n64">
+<link targets="seg-r70"/>
+</node>
+ <a label="TOK" ref="iula-n64" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n65">
+<link targets="seg-r71"/>
+</node>
+ <a label="TOK" ref="iula-n65" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n66">
+<link targets="seg-r72"/>
+</node>
+ <a label="TOK" ref="iula-n66" as="xces">
+	<fs>
+		<f name="word" value="development"/>
+		<f name="lemma" value="development"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n67">
+<link targets="seg-r73"/>
+</node>
+ <a label="TOK" ref="iula-n67" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n68">
+<link targets="seg-r74"/>
+</node>
+ <a label="TOK" ref="iula-n68" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n69">
+<link targets="seg-r75"/>
+</node>
+ <a label="TOK" ref="iula-n69" as="xces">
+	<fs>
+		<f name="word" value="province"/>
+		<f name="lemma" value="province"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n70">
+<link targets="seg-r76 seg-r77"/>
+</node>
+ <a label="PGR" ref="iula-n70" as="xces">
+	<fs>
+		<f name="word" value="'s"/>
+		<f name="lemma" value="genmark"/>
+		<f name="postag" value="GENMARK"/>
+</fs>
+</a><node xml:id="iula-n71">
+<link targets="seg-r78"/>
+</node>
+ <a label="TOK" ref="iula-n71" as="xces">
+	<fs>
+		<f name="word" value="agricultural"/>
+		<f name="lemma" value="agricultural"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n72">
+<link targets="seg-r79"/>
+</node>
+ <a label="DLD" ref="iula-n72" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n73">
+<link targets="seg-r80"/>
+</node>
+ <a label="TOK" ref="iula-n73" as="xces">
+	<fs>
+		<f name="word" value="industrial"/>
+		<f name="lemma" value="industrial"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n74">
+<link targets="seg-r81"/>
+</node>
+ <a label="TOK" ref="iula-n74" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n75">
+<link targets="seg-r82"/>
+</node>
+ <a label="TOK" ref="iula-n75" as="xces">
+	<fs>
+		<f name="word" value="commercial"/>
+		<f name="lemma" value="commercial"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n76">
+<link targets="seg-r83"/>
+</node>
+ <a label="TOK" ref="iula-n76" as="xces">
+	<fs>
+		<f name="word" value="interests"/>
+		<f name="lemma" value="interest"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n77">
+<link targets="seg-r84"/>
+</node>
+ <a label="DLD" ref="iula-n77" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n78">
+<link targets="seg-r85 seg-r86"/>
+</node>
+ <a label="TOK" ref="iula-n78" as="xces">
+	<fs>
+		<f name="word" value="As of"/>
+		<f name="lemma" value="As_of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n79">
+<link targets="seg-r87"/>
+</node>
+ <a label="TOK" ref="iula-n79" as="xces">
+	<fs>
+		<f name="word" value="1953"/>
+		<f name="lemma" value="1953"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n80">
+<link targets="seg-r88"/>
+</node>
+ <a label="TOK" ref="iula-n80" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n81">
+<link targets="seg-r89"/>
+</node>
+ <a label="TOK" ref="iula-n81" as="xces">
+	<fs>
+		<f name="word" value="Caixa"/>
+		<f name="lemma" value="Caixa"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n82">
+<link targets="seg-r90"/>
+</node>
+ <a label="TOK" ref="iula-n82" as="xces">
+	<fs>
+		<f name="word" value="began"/>
+		<f name="lemma" value="begin"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n83">
+<link targets="seg-r91"/>
+</node>
+ <a label="TOK" ref="iula-n83" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n84">
+<link targets="seg-r92"/>
+</node>
+ <a label="TOK" ref="iula-n84" as="xces">
+	<fs>
+		<f name="word" value="develop"/>
+		<f name="lemma" value="develop"/>
+		<f name="postag" value="VMI----"/>
+</fs>
+</a><node xml:id="iula-n85">
+<link targets="seg-r93"/>
+</node>
+ <a label="DLD" ref="iula-n85" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n86">
+<link targets="seg-r94"/>
+</node>
+ <a label="TOK" ref="iula-n86" as="xces">
+	<fs>
+		<f name="word" value="taking"/>
+		<f name="lemma" value="take"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n87">
+<link targets="seg-r95"/>
+</node>
+ <a label="TOK" ref="iula-n87" as="xces">
+	<fs>
+		<f name="word" value="full"/>
+		<f name="lemma" value="full"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n88">
+<link targets="seg-r96"/>
+</node>
+ <a label="TOK" ref="iula-n88" as="xces">
+	<fs>
+		<f name="word" value="advantage"/>
+		<f name="lemma" value="advantage"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n89">
+<link targets="seg-r97"/>
+</node>
+ <a label="TOK" ref="iula-n89" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n90">
+<link targets="seg-r98"/>
+</node>
+ <a label="TOK" ref="iula-n90" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n91">
+<link targets="seg-r99"/>
+</node>
+ <a label="TOK" ref="iula-n91" as="xces">
+	<fs>
+		<f name="word" value="legislation"/>
+		<f name="lemma" value="legislation"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n92">
+<link targets="seg-r100"/>
+</node>
+ <a label="TOK" ref="iula-n92" as="xces">
+	<fs>
+		<f name="word" value="which"/>
+		<f name="lemma" value="which"/>
+		<f name="postag" value="RW63N-"/>
+</fs>
+</a><node xml:id="iula-n93">
+<link targets="seg-r101"/>
+</node>
+ <a label="TOK" ref="iula-n93" as="xces">
+	<fs>
+		<f name="word" value="slowly"/>
+		<f name="lemma" value="slowly"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n94">
+<link targets="seg-r102"/>
+</node>
+ <a label="TOK" ref="iula-n94" as="xces">
+	<fs>
+		<f name="word" value="but"/>
+		<f name="lemma" value="but"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n95">
+<link targets="seg-r103"/>
+</node>
+ <a label="TOK" ref="iula-n95" as="xces">
+	<fs>
+		<f name="word" value="surely"/>
+		<f name="lemma" value="surely"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n96">
+<link targets="seg-r104"/>
+</node>
+ <a label="TOK" ref="iula-n96" as="xces">
+	<fs>
+		<f name="word" value="was"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6F-A66"/>
+</fs>
+</a><node xml:id="iula-n97">
+<link targets="seg-r105"/>
+</node>
+ <a label="TOK" ref="iula-n97" as="xces">
+	<fs>
+		<f name="word" value="beginning"/>
+		<f name="lemma" value="begin"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n98">
+<link targets="seg-r106"/>
+</node>
+ <a label="TOK" ref="iula-n98" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n99">
+<link targets="seg-r107"/>
+</node>
+ <a label="TOK" ref="iula-n99" as="xces">
+	<fs>
+		<f name="word" value="downplay"/>
+		<f name="lemma" value="downplay"/>
+		<f name="postag" value="VMI----"/>
+</fs>
+</a><node xml:id="iula-n100">
+<link targets="seg-r108"/>
+</node>
+ <a label="TOK" ref="iula-n100" as="xces">
+	<fs>
+		<f name="word" value="its"/>
+		<f name="lemma" value="its"/>
+		<f name="postag" value="APS3N6"/>
+</fs>
+</a><node xml:id="iula-n101">
+<link targets="seg-r109"/>
+</node>
+ <a label="TOK" ref="iula-n101" as="xces">
+	<fs>
+		<f name="word" value="marked"/>
+		<f name="lemma" value="mark"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n102">
+<link targets="seg-r110"/>
+</node>
+ <a label="TOK" ref="iula-n102" as="xces">
+	<fs>
+		<f name="word" value="level"/>
+		<f name="lemma" value="level"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n103">
+<link targets="seg-r111"/>
+</node>
+ <a label="TOK" ref="iula-n103" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n104">
+<link targets="seg-r112"/>
+</node>
+ <a label="TOK" ref="iula-n104" as="xces">
+	<fs>
+		<f name="word" value="interventionism"/>
+		<f name="lemma" value="interventionism"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n105">
+<link targets="seg-r113"/>
+</node>
+ <a label="DLD" ref="iula-n105" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n106">
+<link targets="seg-r114"/>
+</node>
+ <a label="TOK" ref="iula-n106" as="xces">
+	<fs>
+		<f name="word" value="In"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n107">
+<link targets="seg-r115"/>
+</node>
+ <a label="TOK" ref="iula-n107" as="xces">
+	<fs>
+		<f name="word" value="1962"/>
+		<f name="lemma" value="1962"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n108">
+<link targets="seg-r116"/>
+</node>
+ <a label="DLE" ref="iula-n108" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n109">
+<link targets="seg-r117"/>
+</node>
+ <a label="TOK" ref="iula-n109" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n110">
+<link targets="seg-r118"/>
+</node>
+ <a label="TOK" ref="iula-n110" as="xces">
+	<fs>
+		<f name="word" value="Law"/>
+		<f name="lemma" value="Law"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n111">
+<link targets="seg-r119"/>
+</node>
+ <a label="TOK" ref="iula-n111" as="xces">
+	<fs>
+		<f name="word" value="for"/>
+		<f name="lemma" value="for"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n112">
+<link targets="seg-r120"/>
+</node>
+ <a label="TOK" ref="iula-n112" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n113">
+<link targets="seg-r121 seg-r122 seg-r123 seg-r124 seg-r125"/>
+</node>
+ <a label="TOK" ref="iula-n113" as="xces">
+	<fs>
+		<f name="word" value="Bases of Ordering of Credit"/>
+		<f name="lemma" value="Bases_of_Ordering_of_Credit"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n114">
+<link targets="seg-r126"/>
+</node>
+ <a label="TOK" ref="iula-n114" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n115">
+<link targets="seg-r127"/>
+</node>
+ <a label="TOK" ref="iula-n115" as="xces">
+	<fs>
+		<f name="word" value="Banking"/>
+		<f name="lemma" value="Banking"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n116">
+<link targets="seg-r128"/>
+</node>
+ <a label="DLE" ref="iula-n116" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n117">
+<link targets="seg-r129"/>
+</node>
+ <a label="TOK" ref="iula-n117" as="xces">
+	<fs>
+		<f name="word" value="which"/>
+		<f name="lemma" value="which"/>
+		<f name="postag" value="RW63N-"/>
+</fs>
+</a><node xml:id="iula-n118">
+<link targets="seg-r130"/>
+</node>
+ <a label="TOK" ref="iula-n118" as="xces">
+	<fs>
+		<f name="word" value="laid"/>
+		<f name="lemma" value="lay"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n119">
+<link targets="seg-r131"/>
+</node>
+ <a label="TOK" ref="iula-n119" as="xces">
+	<fs>
+		<f name="word" value="down"/>
+		<f name="lemma" value="down"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n120">
+<link targets="seg-r132"/>
+</node>
+ <a label="TOK" ref="iula-n120" as="xces">
+	<fs>
+		<f name="word" value="new"/>
+		<f name="lemma" value="new"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n121">
+<link targets="seg-r133"/>
+</node>
+ <a label="TOK" ref="iula-n121" as="xces">
+	<fs>
+		<f name="word" value="functions"/>
+		<f name="lemma" value="function"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n122">
+<link targets="seg-r134"/>
+</node>
+ <a label="TOK" ref="iula-n122" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n123">
+<link targets="seg-r135"/>
+</node>
+ <a label="TOK" ref="iula-n123" as="xces">
+	<fs>
+		<f name="word" value="operations"/>
+		<f name="lemma" value="operation"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n124">
+<link targets="seg-r136"/>
+</node>
+ <a label="TOK" ref="iula-n124" as="xces">
+	<fs>
+		<f name="word" value="for"/>
+		<f name="lemma" value="for"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n125">
+<link targets="seg-r137"/>
+</node>
+ <a label="TOK" ref="iula-n125" as="xces">
+	<fs>
+		<f name="word" value="savings"/>
+		<f name="lemma" value="saving"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n126">
+<link targets="seg-r138"/>
+</node>
+ <a label="TOK" ref="iula-n126" as="xces">
+	<fs>
+		<f name="word" value="banks"/>
+		<f name="lemma" value="bank"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n127">
+<link targets="seg-r139"/>
+</node>
+ <a label="DLD" ref="iula-n127" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n128">
+<link targets="seg-r140"/>
+</node>
+ <a label="TOK" ref="iula-n128" as="xces">
+	<fs>
+		<f name="word" value="marked"/>
+		<f name="lemma" value="mark"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n129">
+<link targets="seg-r141"/>
+</node>
+ <a label="TOK" ref="iula-n129" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n130">
+<link targets="seg-r142"/>
+</node>
+ <a label="TOK" ref="iula-n130" as="xces">
+	<fs>
+		<f name="word" value="beginning"/>
+		<f name="lemma" value="beginning"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n131">
+<link targets="seg-r143"/>
+</node>
+ <a label="TOK" ref="iula-n131" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n132">
+<link targets="seg-r144"/>
+</node>
+ <a label="TOK" ref="iula-n132" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n133">
+<link targets="seg-r145"/>
+</node>
+ <a label="TOK" ref="iula-n133" as="xces">
+	<fs>
+		<f name="word" value="road"/>
+		<f name="lemma" value="road"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n134">
+<link targets="seg-r146"/>
+</node>
+ <a label="TOK" ref="iula-n134" as="xces">
+	<fs>
+		<f name="word" value="towards"/>
+		<f name="lemma" value="towards"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n135">
+<link targets="seg-r147"/>
+</node>
+ <a label="TOK" ref="iula-n135" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n136">
+<link targets="seg-r148"/>
+</node>
+ <a label="TOK" ref="iula-n136" as="xces">
+	<fs>
+		<f name="word" value="operational"/>
+		<f name="lemma" value="operational"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n137">
+<link targets="seg-r149"/>
+</node>
+ <a label="TOK" ref="iula-n137" as="xces">
+	<fs>
+		<f name="word" value="balancing"/>
+		<f name="lemma" value="balance"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n138">
+<link targets="seg-r150"/>
+</node>
+ <a label="TOK" ref="iula-n138" as="xces">
+	<fs>
+		<f name="word" value="between"/>
+		<f name="lemma" value="between"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n139">
+<link targets="seg-r151"/>
+</node>
+ <a label="TOK" ref="iula-n139" as="xces">
+	<fs>
+		<f name="word" value="savings"/>
+		<f name="lemma" value="saving"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n140">
+<link targets="seg-r152"/>
+</node>
+ <a label="TOK" ref="iula-n140" as="xces">
+	<fs>
+		<f name="word" value="banks"/>
+		<f name="lemma" value="bank"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n141">
+<link targets="seg-r153"/>
+</node>
+ <a label="TOK" ref="iula-n141" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n142">
+<link targets="seg-r154"/>
+</node>
+ <a label="TOK" ref="iula-n142" as="xces">
+	<fs>
+		<f name="word" value="banks"/>
+		<f name="lemma" value="bank"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n143">
+<link targets="seg-r155"/>
+</node>
+ <a label="DLD" ref="iula-n143" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n144">
+<link targets="seg-r156"/>
+</node>
+ <a label="TOK" ref="iula-n144" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n145">
+<link targets="seg-r157"/>
+</node>
+ <a label="TOK" ref="iula-n145" as="xces">
+	<fs>
+		<f name="word" value="process"/>
+		<f name="lemma" value="process"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n146">
+<link targets="seg-r158"/>
+</node>
+ <a label="TOK" ref="iula-n146" as="xces">
+	<fs>
+		<f name="word" value="which"/>
+		<f name="lemma" value="which"/>
+		<f name="postag" value="RW63N-"/>
+</fs>
+</a><node xml:id="iula-n147">
+<link targets="seg-r159"/>
+</node>
+ <a label="TOK" ref="iula-n147" as="xces">
+	<fs>
+		<f name="word" value="culminated"/>
+		<f name="lemma" value="culminate"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n148">
+<link targets="seg-r160"/>
+</node>
+ <a label="TOK" ref="iula-n148" as="xces">
+	<fs>
+		<f name="word" value="at"/>
+		<f name="lemma" value="at"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n149">
+<link targets="seg-r161"/>
+</node>
+ <a label="TOK" ref="iula-n149" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n150">
+<link targets="seg-r162"/>
+</node>
+ <a label="TOK" ref="iula-n150" as="xces">
+	<fs>
+		<f name="word" value="end"/>
+		<f name="lemma" value="end"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n151">
+<link targets="seg-r163"/>
+</node>
+ <a label="TOK" ref="iula-n151" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n152">
+<link targets="seg-r164"/>
+</node>
+ <a label="TOK" ref="iula-n152" as="xces">
+	<fs>
+		<f name="word" value="1988"/>
+		<f name="lemma" value="1988"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n153">
+<link targets="seg-r165"/>
+</node>
+ <a label="TOK" ref="iula-n153" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n154">
+<link targets="seg-r166"/>
+</node>
+ <a label="TOK" ref="iula-n154" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n155">
+<link targets="seg-r167"/>
+</node>
+ <a label="TOK" ref="iula-n155" as="xces">
+	<fs>
+		<f name="word" value="publication"/>
+		<f name="lemma" value="publication"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n156">
+<link targets="seg-r168"/>
+</node>
+ <a label="TOK" ref="iula-n156" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n157">
+<link targets="seg-r169"/>
+</node>
+ <a label="TOK" ref="iula-n157" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n158">
+<link targets="seg-r170"/>
+</node>
+ <a label="TOK" ref="iula-n158" as="xces">
+	<fs>
+		<f name="word" value="Decree"/>
+		<f name="lemma" value="Decree"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n159">
+<link targets="seg-r171"/>
+</node>
+ <a label="TOK" ref="iula-n159" as="xces">
+	<fs>
+		<f name="word" value="which"/>
+		<f name="lemma" value="which"/>
+		<f name="postag" value="RW63N-"/>
+</fs>
+</a><node xml:id="iula-n160">
+<link targets="seg-r172"/>
+</node>
+ <a label="TOK" ref="iula-n160" as="xces">
+	<fs>
+		<f name="word" value="derogated"/>
+		<f name="lemma" value="derogate"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n161">
+<link targets="seg-r173"/>
+</node>
+ <a label="TOK" ref="iula-n161" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n162">
+<link targets="seg-r174"/>
+</node>
+ <a label="TOK" ref="iula-n162" as="xces">
+	<fs>
+		<f name="word" value="regime"/>
+		<f name="lemma" value="regime"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n163">
+<link targets="seg-r175"/>
+</node>
+ <a label="TOK" ref="iula-n163" as="xces">
+	<fs>
+		<f name="word" value="which"/>
+		<f name="lemma" value="which"/>
+		<f name="postag" value="RW63N-"/>
+</fs>
+</a><node xml:id="iula-n164">
+<link targets="seg-r176"/>
+</node>
+ <a label="TOK" ref="iula-n164" as="xces">
+	<fs>
+		<f name="word" value="limited"/>
+		<f name="lemma" value="limit"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n165">
+<link targets="seg-r177"/>
+</node>
+ <a label="TOK" ref="iula-n165" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n166">
+<link targets="seg-r178"/>
+</node>
+ <a label="TOK" ref="iula-n166" as="xces">
+	<fs>
+		<f name="word" value="expansion"/>
+		<f name="lemma" value="expansion"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n167">
+<link targets="seg-r179"/>
+</node>
+ <a label="TOK" ref="iula-n167" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n168">
+<link targets="seg-r180"/>
+</node>
+ <a label="TOK" ref="iula-n168" as="xces">
+	<fs>
+		<f name="word" value="savings"/>
+		<f name="lemma" value="saving"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n169">
+<link targets="seg-r181"/>
+</node>
+ <a label="TOK" ref="iula-n169" as="xces">
+	<fs>
+		<f name="word" value="banks"/>
+		<f name="lemma" value="bank"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n170">
+<link targets="seg-r182"/>
+</node>
+ <a label="TOK" ref="iula-n170" as="xces">
+	<fs>
+		<f name="word" value="outside"/>
+		<f name="lemma" value="outside"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n171">
+<link targets="seg-r183"/>
+</node>
+ <a label="TOK" ref="iula-n171" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n172">
+<link targets="seg-r184"/>
+</node>
+ <a label="TOK" ref="iula-n172" as="xces">
+	<fs>
+		<f name="word" value="territory"/>
+		<f name="lemma" value="territory"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n173">
+<link targets="seg-r185"/>
+</node>
+ <a label="TOK" ref="iula-n173" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n174">
+<link targets="seg-r186"/>
+</node>
+ <a label="TOK" ref="iula-n174" as="xces">
+	<fs>
+		<f name="word" value="their"/>
+		<f name="lemma" value="their"/>
+		<f name="postag" value="APP3N6"/>
+</fs>
+</a><node xml:id="iula-n175">
+<link targets="seg-r187"/>
+</node>
+ <a label="TOK" ref="iula-n175" as="xces">
+	<fs>
+		<f name="word" value="autonomous"/>
+		<f name="lemma" value="autonomous"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n176">
+<link targets="seg-r188"/>
+</node>
+ <a label="TOK" ref="iula-n176" as="xces">
+	<fs>
+		<f name="word" value="community"/>
+		<f name="lemma" value="community"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n177">
+<link targets="seg-r189"/>
+</node>
+ <a label="TOK" ref="iula-n177" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n178">
+<link targets="seg-r190"/>
+</node>
+ <a label="TOK" ref="iula-n178" as="xces">
+	<fs>
+		<f name="word" value="origin"/>
+		<f name="lemma" value="origin"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n179">
+<link targets="seg-r191"/>
+</node>
+ <a label="DLD" ref="iula-n179" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n180">
+<link targets="seg-r192"/>
+</node>
+ <a label="TOK" ref="iula-n180" as="xces">
+	<fs>
+		<f name="word" value="In"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n181">
+<link targets="seg-r193"/>
+</node>
+ <a label="TOK" ref="iula-n181" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n182">
+<link targets="seg-r194"/>
+</node>
+ <a label="TOK" ref="iula-n182" as="xces">
+	<fs>
+		<f name="word" value="second"/>
+		<f name="lemma" value="second"/>
+		<f name="postag" value="MOS"/>
+</fs>
+</a><node xml:id="iula-n183">
+<link targets="seg-r195"/>
+</node>
+ <a label="TOK" ref="iula-n183" as="xces">
+	<fs>
+		<f name="word" value="half"/>
+		<f name="lemma" value="half"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n184">
+<link targets="seg-r196"/>
+</node>
+ <a label="TOK" ref="iula-n184" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n185">
+<link targets="seg-r197"/>
+</node>
+ <a label="TOK" ref="iula-n185" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n186">
+<link targets="seg-r198"/>
+</node>
+ <a label="TOK" ref="iula-n186" as="xces">
+	<fs>
+		<f name="word" value="seventies"/>
+		<f name="lemma" value="seventy"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n187">
+<link targets="seg-r199"/>
+</node>
+ <a label="DLD" ref="iula-n187" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n188">
+<link targets="seg-r200"/>
+</node>
+ <a label="TOK" ref="iula-n188" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n189">
+<link targets="seg-r201"/>
+</node>
+ <a label="TOK" ref="iula-n189" as="xces">
+	<fs>
+		<f name="word" value="Caixa"/>
+		<f name="lemma" value="Caixa"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n190">
+<link targets="seg-r202"/>
+</node>
+ <a label="TOK" ref="iula-n190" as="xces">
+	<fs>
+		<f name="word" value="gradually"/>
+		<f name="lemma" value="gradually"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n191">
+<link targets="seg-r203"/>
+</node>
+ <a label="TOK" ref="iula-n191" as="xces">
+	<fs>
+		<f name="word" value="became"/>
+		<f name="lemma" value="become"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n192">
+<link targets="seg-r204"/>
+</node>
+ <a label="TOK" ref="iula-n192" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n193">
+<link targets="seg-r205"/>
+</node>
+ <a label="TOK" ref="iula-n193" as="xces">
+	<fs>
+		<f name="word" value="modern"/>
+		<f name="lemma" value="modern"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n194">
+<link targets="seg-r206"/>
+</node>
+ <a label="TOK" ref="iula-n194" as="xces">
+	<fs>
+		<f name="word" value="financial"/>
+		<f name="lemma" value="financial"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n195">
+<link targets="seg-r207"/>
+</node>
+ <a label="TOK" ref="iula-n195" as="xces">
+	<fs>
+		<f name="word" value="organisation"/>
+		<f name="lemma" value="organisation"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n196">
+<link targets="seg-r208"/>
+</node>
+ <a label="TOK" ref="iula-n196" as="xces">
+	<fs>
+		<f name="word" value="operating"/>
+		<f name="lemma" value="operate"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n197">
+<link targets="seg-r209"/>
+</node>
+ <a label="TOK" ref="iula-n197" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n198">
+<link targets="seg-r210"/>
+</node>
+ <a label="TOK" ref="iula-n198" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n199">
+<link targets="seg-r211"/>
+</node>
+ <a label="TOK" ref="iula-n199" as="xces">
+	<fs>
+		<f name="word" value="competitive"/>
+		<f name="lemma" value="competitive"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n200">
+<link targets="seg-r212"/>
+</node>
+ <a label="TOK" ref="iula-n200" as="xces">
+	<fs>
+		<f name="word" value="market"/>
+		<f name="lemma" value="market"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n201">
+<link targets="seg-r213"/>
+</node>
+ <a label="TOK" ref="iula-n201" as="xces">
+	<fs>
+		<f name="word" value="with"/>
+		<f name="lemma" value="with"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n202">
+<link targets="seg-r214"/>
+</node>
+ <a label="TOK" ref="iula-n202" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n203">
+<link targets="seg-r215"/>
+</node>
+ <a label="TOK" ref="iula-n203" as="xces">
+	<fs>
+		<f name="word" value="broad"/>
+		<f name="lemma" value="broad"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n204">
+<link targets="seg-r216"/>
+</node>
+ <a label="TOK" ref="iula-n204" as="xces">
+	<fs>
+		<f name="word" value="range"/>
+		<f name="lemma" value="range"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n205">
+<link targets="seg-r217"/>
+</node>
+ <a label="TOK" ref="iula-n205" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n206">
+<link targets="seg-r218"/>
+</node>
+ <a label="TOK" ref="iula-n206" as="xces">
+	<fs>
+		<f name="word" value="financial"/>
+		<f name="lemma" value="financial"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n207">
+<link targets="seg-r219"/>
+</node>
+ <a label="TOK" ref="iula-n207" as="xces">
+	<fs>
+		<f name="word" value="instruments"/>
+		<f name="lemma" value="instrument"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n208">
+<link targets="seg-r220"/>
+</node>
+ <a label="DLD" ref="iula-n208" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n209">
+<link targets="seg-r221"/>
+</node>
+ <a label="TOK" ref="iula-n209" as="xces">
+	<fs>
+		<f name="word" value="This"/>
+		<f name="lemma" value="this"/>
+		<f name="postag" value="AD---S"/>
+</fs>
+</a><node xml:id="iula-n210">
+<link targets="seg-r222"/>
+</node>
+ <a label="TOK" ref="iula-n210" as="xces">
+	<fs>
+		<f name="word" value="positive"/>
+		<f name="lemma" value="positive"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n211">
+<link targets="seg-r223"/>
+</node>
+ <a label="TOK" ref="iula-n211" as="xces">
+	<fs>
+		<f name="word" value="dynamic"/>
+		<f name="lemma" value="dynamic"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n212">
+<link targets="seg-r224"/>
+</node>
+ <a label="TOK" ref="iula-n212" as="xces">
+	<fs>
+		<f name="word" value="was"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6F-A66"/>
+</fs>
+</a><node xml:id="iula-n213">
+<link targets="seg-r225"/>
+</node>
+ <a label="TOK" ref="iula-n213" as="xces">
+	<fs>
+		<f name="word" value="fostered"/>
+		<f name="lemma" value="foster"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n214">
+<link targets="seg-r226"/>
+</node>
+ <a label="TOK" ref="iula-n214" as="xces">
+	<fs>
+		<f name="word" value="by"/>
+		<f name="lemma" value="by"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n215">
+<link targets="seg-r227"/>
+</node>
+ <a label="TOK" ref="iula-n215" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n216">
+<link targets="seg-r228"/>
+</node>
+ <a label="TOK" ref="iula-n216" as="xces">
+	<fs>
+		<f name="word" value="parallel"/>
+		<f name="lemma" value="parallel"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n217">
+<link targets="seg-r229"/>
+</node>
+ <a label="TOK" ref="iula-n217" as="xces">
+	<fs>
+		<f name="word" value="process"/>
+		<f name="lemma" value="process"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n218">
+<link targets="seg-r230"/>
+</node>
+ <a label="TOK" ref="iula-n218" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n219">
+<link targets="seg-r231"/>
+</node>
+ <a label="TOK" ref="iula-n219" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n220">
+<link targets="seg-r232"/>
+</node>
+ <a label="TOK" ref="iula-n220" as="xces">
+	<fs>
+		<f name="word" value="liberalisation"/>
+		<f name="lemma" value="liberalisation"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n221">
+<link targets="seg-r233"/>
+</node>
+ <a label="TOK" ref="iula-n221" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n222">
+<link targets="seg-r234"/>
+</node>
+ <a label="TOK" ref="iula-n222" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n223">
+<link targets="seg-r235"/>
+</node>
+ <a label="TOK" ref="iula-n223" as="xces">
+	<fs>
+		<f name="word" value="Spanish"/>
+		<f name="lemma" value="spanish"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n224">
+<link targets="seg-r236"/>
+</node>
+ <a label="TOK" ref="iula-n224" as="xces">
+	<fs>
+		<f name="word" value="financial"/>
+		<f name="lemma" value="financial"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n225">
+<link targets="seg-r237"/>
+</node>
+ <a label="TOK" ref="iula-n225" as="xces">
+	<fs>
+		<f name="word" value="system"/>
+		<f name="lemma" value="system"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n226">
+<link targets="seg-r238"/>
+</node>
+ <a label="TOK" ref="iula-n226" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n227">
+<link targets="seg-r239"/>
+</node>
+ <a label="TOK" ref="iula-n227" as="xces">
+	<fs>
+		<f name="word" value="by"/>
+		<f name="lemma" value="by"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n228">
+<link targets="seg-r240"/>
+</node>
+ <a label="TOK" ref="iula-n228" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n229">
+<link targets="seg-r241"/>
+</node>
+ <a label="TOK" ref="iula-n229" as="xces">
+	<fs>
+		<f name="word" value="progressive"/>
+		<f name="lemma" value="progressive"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n230">
+<link targets="seg-r242"/>
+</node>
+ <a label="TOK" ref="iula-n230" as="xces">
+	<fs>
+		<f name="word" value="approximation"/>
+		<f name="lemma" value="approximation"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n231">
+<link targets="seg-r243"/>
+</node>
+ <a label="DLD" ref="iula-n231" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n232">
+<link targets="seg-r244"/>
+</node>
+ <a label="TOK" ref="iula-n232" as="xces">
+	<fs>
+		<f name="word" value="from"/>
+		<f name="lemma" value="from"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n233">
+<link targets="seg-r245"/>
+</node>
+ <a label="TOK" ref="iula-n233" as="xces">
+	<fs>
+		<f name="word" value="an"/>
+		<f name="lemma" value="an"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n234">
+<link targets="seg-r246"/>
+</node>
+ <a label="TOK" ref="iula-n234" as="xces">
+	<fs>
+		<f name="word" value="operative"/>
+		<f name="lemma" value="operative"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n235">
+<link targets="seg-r247"/>
+</node>
+ <a label="TOK" ref="iula-n235" as="xces">
+	<fs>
+		<f name="word" value="standpoint"/>
+		<f name="lemma" value="standpoint"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n236">
+<link targets="seg-r248"/>
+</node>
+ <a label="DLD" ref="iula-n236" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n237">
+<link targets="seg-r249"/>
+</node>
+ <a label="TOK" ref="iula-n237" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n238">
+<link targets="seg-r250"/>
+</node>
+ <a label="TOK" ref="iula-n238" as="xces">
+	<fs>
+		<f name="word" value="banks"/>
+		<f name="lemma" value="bank"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n239">
+<link targets="seg-r251"/>
+</node>
+ <a label="TOK" ref="iula-n239" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n240">
+<link targets="seg-r252"/>
+</node>
+ <a label="TOK" ref="iula-n240" as="xces">
+	<fs>
+		<f name="word" value="savings"/>
+		<f name="lemma" value="saving"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n241">
+<link targets="seg-r253"/>
+</node>
+ <a label="TOK" ref="iula-n241" as="xces">
+	<fs>
+		<f name="word" value="banks"/>
+		<f name="lemma" value="bank"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n242">
+<link targets="seg-r254"/>
+</node>
+ <a label="DLD" ref="iula-n242" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n243">
+<link targets="seg-r255"/>
+</node>
+ <a label="TOK" ref="iula-n243" as="xces">
+	<fs>
+		<f name="word" value="The"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n244">
+<link targets="seg-r256 seg-r257 seg-r258"/>
+</node>
+ <a label="TOK" ref="iula-n244" as="xces">
+	<fs>
+		<f name="word" value="Caixa de Catalunya"/>
+		<f name="lemma" value="Caixa_de_Catalunya"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n245">
+<link targets="seg-r259"/>
+</node>
+ <a label="TOK" ref="iula-n245" as="xces">
+	<fs>
+		<f name="word" value="has"/>
+		<f name="lemma" value="have"/>
+		<f name="postag" value="V6FDRS3"/>
+</fs>
+</a><node xml:id="iula-n246">
+<link targets="seg-r260"/>
+</node>
+ <a label="TOK" ref="iula-n246" as="xces">
+	<fs>
+		<f name="word" value="some"/>
+		<f name="lemma" value="some"/>
+		<f name="postag" value="AG---6"/>
+</fs>
+</a><node xml:id="iula-n247">
+<link targets="seg-r261 seg-r262"/>
+</node>
+ <a label="TOK" ref="iula-n247" as="xces">
+	<fs>
+		<f name="word" value="2 billion"/>
+		<f name="lemma" value="2_billion"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n248">
+<link targets="seg-r263"/>
+</node>
+ <a label="TOK" ref="iula-n248" as="xces">
+	<fs>
+		<f name="word" value="pesetas"/>
+		<f name="lemma" value="peseta"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n249">
+<link targets="seg-r264"/>
+</node>
+ <a label="TOK" ref="iula-n249" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n250">
+<link targets="seg-r265"/>
+</node>
+ <a label="TOK" ref="iula-n250" as="xces">
+	<fs>
+		<f name="word" value="assets"/>
+		<f name="lemma" value="asset"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n251">
+<link targets="seg-r266"/>
+</node>
+ <a label="TOK" ref="iula-n251" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n252">
+<link targets="seg-r267"/>
+</node>
+ <a label="TOK" ref="iula-n252" as="xces">
+	<fs>
+		<f name="word" value="an"/>
+		<f name="lemma" value="an"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n253">
+<link targets="seg-r268"/>
+</node>
+ <a label="TOK" ref="iula-n253" as="xces">
+	<fs>
+		<f name="word" value="extensive"/>
+		<f name="lemma" value="extensive"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n254">
+<link targets="seg-r269"/>
+</node>
+ <a label="TOK" ref="iula-n254" as="xces">
+	<fs>
+		<f name="word" value="network"/>
+		<f name="lemma" value="network"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n255">
+<link targets="seg-r270"/>
+</node>
+ <a label="TOK" ref="iula-n255" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n256">
+<link targets="seg-r271"/>
+</node>
+ <a label="TOK" ref="iula-n256" as="xces">
+	<fs>
+		<f name="word" value="sales"/>
+		<f name="lemma" value="sale"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n257">
+<link targets="seg-r272"/>
+</node>
+ <a label="TOK" ref="iula-n257" as="xces">
+	<fs>
+		<f name="word" value="points"/>
+		<f name="lemma" value="point"/>
+		<f name="postag" value="VMFDRS3"/>
+</fs>
+</a><node xml:id="iula-n258">
+<link targets="seg-r273"/>
+</node>
+ <a label="DLD" ref="iula-n258" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n259">
+<link targets="seg-r274"/>
+</node>
+ <a label="TOK" ref="iula-n259" as="xces">
+	<fs>
+		<f name="word" value="comprising"/>
+		<f name="lemma" value="comprise"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n260">
+<link targets="seg-r275"/>
+</node>
+ <a label="TOK" ref="iula-n260" as="xces">
+	<fs>
+		<f name="word" value="nearly"/>
+		<f name="lemma" value="nearly"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n261">
+<link targets="seg-r276"/>
+</node>
+ <a label="TOK" ref="iula-n261" as="xces">
+	<fs>
+		<f name="word" value="700"/>
+		<f name="lemma" value="700"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n262">
+<link targets="seg-r277"/>
+</node>
+ <a label="TOK" ref="iula-n262" as="xces">
+	<fs>
+		<f name="word" value="offices"/>
+		<f name="lemma" value="office"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n263">
+<link targets="seg-r278"/>
+</node>
+ <a label="DLE" ref="iula-n263" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n264">
+<link targets="seg-r279"/>
+</node>
+ <a label="TOK" ref="iula-n264" as="xces">
+	<fs>
+		<f name="word" value="over"/>
+		<f name="lemma" value="over"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n265">
+<link targets="seg-r280"/>
+</node>
+ <a label="TOK" ref="iula-n265" as="xces">
+	<fs>
+		<f name="word" value="600"/>
+		<f name="lemma" value="600"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n266">
+<link targets="seg-r281"/>
+</node>
+ <a label="TOK" ref="iula-n266" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n267">
+<link targets="seg-r282"/>
+</node>
+ <a label="TOK" ref="iula-n267" as="xces">
+	<fs>
+		<f name="word" value="Catalonia"/>
+		<f name="lemma" value="Catalonia"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n268">
+<link targets="seg-r283"/>
+</node>
+ <a label="DLE" ref="iula-n268" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n269">
+<link targets="seg-r284"/>
+</node>
+ <a label="TOK" ref="iula-n269" as="xces">
+	<fs>
+		<f name="word" value="with"/>
+		<f name="lemma" value="with"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n270">
+<link targets="seg-r285"/>
+</node>
+ <a label="TOK" ref="iula-n270" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n271">
+<link targets="seg-r286"/>
+</node>
+ <a label="TOK" ref="iula-n271" as="xces">
+	<fs>
+		<f name="word" value="others"/>
+		<f name="lemma" value="other"/>
+		<f name="postag" value="RIP3N-"/>
+</fs>
+</a><node xml:id="iula-n272">
+<link targets="seg-r287"/>
+</node>
+ <a label="TOK" ref="iula-n272" as="xces">
+	<fs>
+		<f name="word" value="located"/>
+		<f name="lemma" value="locate"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n273">
+<link targets="seg-r288"/>
+</node>
+ <a label="TOK" ref="iula-n273" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n274">
+<link targets="seg-r289"/>
+</node>
+ <a label="TOK" ref="iula-n274" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n275">
+<link targets="seg-r290 seg-r291 seg-r292"/>
+</node>
+ <a label="TOK" ref="iula-n275" as="xces">
+	<fs>
+		<f name="word" value="Community of Madrid"/>
+		<f name="lemma" value="Community_of_Madrid"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n276">
+<link targets="seg-r293"/>
+</node>
+ <a label="DLE" ref="iula-n276" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n277">
+<link targets="seg-r294"/>
+</node>
+ <a label="TOK" ref="iula-n277" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n278">
+<link targets="seg-r295 seg-r296 seg-r297"/>
+</node>
+ <a label="TOK" ref="iula-n278" as="xces">
+	<fs>
+		<f name="word" value="Community of Valencia"/>
+		<f name="lemma" value="Community_of_Valencia"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n279">
+<link targets="seg-r298"/>
+</node>
+ <a label="DLE" ref="iula-n279" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n280">
+<link targets="seg-r299"/>
+</node>
+ <a label="TOK" ref="iula-n280" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n281">
+<link targets="seg-r300 seg-r301"/>
+</node>
+ <a label="TOK" ref="iula-n281" as="xces">
+	<fs>
+		<f name="word" value="Balearic Community"/>
+		<f name="lemma" value="Balearic_Community"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n282">
+<link targets="seg-r302"/>
+</node>
+ <a label="DLE" ref="iula-n282" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n283">
+<link targets="seg-r303"/>
+</node>
+ <a label="TOK" ref="iula-n283" as="xces">
+	<fs>
+		<f name="word" value="Aragón"/>
+		<f name="lemma" value="Aragón"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n284">
+<link targets="seg-r304"/>
+</node>
+ <a label="DLE" ref="iula-n284" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n285">
+<link targets="seg-r305"/>
+</node>
+ <a label="TOK" ref="iula-n285" as="xces">
+	<fs>
+		<f name="word" value="Andalucía"/>
+		<f name="lemma" value="Andalucía"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n286">
+<link targets="seg-r306"/>
+</node>
+ <a label="DLE" ref="iula-n286" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n287">
+<link targets="seg-r307"/>
+</node>
+ <a label="TOK" ref="iula-n287" as="xces">
+	<fs>
+		<f name="word" value="la"/>
+		<f name="lemma" value="la"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n288">
+<link targets="seg-r308"/>
+</node>
+ <a label="TOK" ref="iula-n288" as="xces">
+	<fs>
+		<f name="word" value="Rioja"/>
+		<f name="lemma" value="Rioja"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n289">
+<link targets="seg-r309"/>
+</node>
+ <a label="DLE" ref="iula-n289" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n290">
+<link targets="seg-r310"/>
+</node>
+ <a label="TOK" ref="iula-n290" as="xces">
+	<fs>
+		<f name="word" value="Navarra"/>
+		<f name="lemma" value="Navarra"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n291">
+<link targets="seg-r311"/>
+</node>
+ <a label="TOK" ref="iula-n291" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n292">
+<link targets="seg-r312"/>
+</node>
+ <a label="TOK" ref="iula-n292" as="xces">
+	<fs>
+		<f name="word" value="Murcia"/>
+		<f name="lemma" value="Murcia"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n293">
+<link targets="seg-r313"/>
+</node>
+ <a label="DLE" ref="iula-n293" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n294">
+<link targets="seg-r314"/>
+</node>
+ <a label="TOK" ref="iula-n294" as="xces">
+	<fs>
+		<f name="word" value="plus"/>
+		<f name="lemma" value="plus"/>
+		<f name="postag" value="CS"/>
+</fs>
+</a><node xml:id="iula-n295">
+<link targets="seg-r315"/>
+</node>
+ <a label="TOK" ref="iula-n295" as="xces">
+	<fs>
+		<f name="word" value="2"/>
+		<f name="lemma" value="2"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n296">
+<link targets="seg-r316"/>
+</node>
+ <a label="TOK" ref="iula-n296" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n297">
+<link targets="seg-r317"/>
+</node>
+ <a label="TOK" ref="iula-n297" as="xces">
+	<fs>
+		<f name="word" value="France"/>
+		<f name="lemma" value="France"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n298">
+<link targets="seg-r318"/>
+</node>
+ <a label="DLE" ref="iula-n298" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n299">
+<link targets="seg-r319"/>
+</node>
+ <a label="DLD" ref="iula-n299" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n300">
+<link targets="seg-r320"/>
+</node>
+ <a label="TOK" ref="iula-n300" as="xces">
+	<fs>
+		<f name="word" value="complemented"/>
+		<f name="lemma" value="complement"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n301">
+<link targets="seg-r321"/>
+</node>
+ <a label="TOK" ref="iula-n301" as="xces">
+	<fs>
+		<f name="word" value="by"/>
+		<f name="lemma" value="by"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n302">
+<link targets="seg-r322"/>
+</node>
+ <a label="TOK" ref="iula-n302" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n303">
+<link targets="seg-r323"/>
+</node>
+ <a label="TOK" ref="iula-n303" as="xces">
+	<fs>
+		<f name="word" value="potent"/>
+		<f name="lemma" value="potent"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n304">
+<link targets="seg-r324"/>
+</node>
+ <a label="TOK" ref="iula-n304" as="xces">
+	<fs>
+		<f name="word" value="network"/>
+		<f name="lemma" value="network"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n305">
+<link targets="seg-r325"/>
+</node>
+ <a label="TOK" ref="iula-n305" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n306">
+<link targets="seg-r326"/>
+</node>
+ <a label="TOK" ref="iula-n306" as="xces">
+	<fs>
+		<f name="word" value="800"/>
+		<f name="lemma" value="800"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n307">
+<link targets="seg-r327"/>
+</node>
+ <a label="TOK" ref="iula-n307" as="xces">
+	<fs>
+		<f name="word" value="automatic"/>
+		<f name="lemma" value="automatic"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n308">
+<link targets="seg-r328"/>
+</node>
+ <a label="TOK" ref="iula-n308" as="xces">
+	<fs>
+		<f name="word" value="tellers"/>
+		<f name="lemma" value="teller"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n309">
+<link targets="seg-r329"/>
+</node>
+ <a label="DLD" ref="iula-n309" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n310">
+<link targets="seg-r330"/>
+</node>
+ <a label="TOK" ref="iula-n310" as="xces">
+	<fs>
+		<f name="word" value="Similarly"/>
+		<f name="lemma" value="similarly"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n311">
+<link targets="seg-r331"/>
+</node>
+ <a label="DLD" ref="iula-n311" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n312">
+<link targets="seg-r332"/>
+</node>
+ <a label="TOK" ref="iula-n312" as="xces">
+	<fs>
+		<f name="word" value="at"/>
+		<f name="lemma" value="at"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n313">
+<link targets="seg-r333"/>
+</node>
+ <a label="TOK" ref="iula-n313" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n314">
+<link targets="seg-r334"/>
+</node>
+ <a label="TOK" ref="iula-n314" as="xces">
+	<fs>
+		<f name="word" value="end"/>
+		<f name="lemma" value="end"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n315">
+<link targets="seg-r335"/>
+</node>
+ <a label="TOK" ref="iula-n315" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n316">
+<link targets="seg-r336"/>
+</node>
+ <a label="TOK" ref="iula-n316" as="xces">
+	<fs>
+		<f name="word" value="1994"/>
+		<f name="lemma" value="1994"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n317">
+<link targets="seg-r337"/>
+</node>
+ <a label="TOK" ref="iula-n317" as="xces">
+	<fs>
+		<f name="word" value="it"/>
+		<f name="lemma" value="it"/>
+		<f name="postag" value="RPS3N6"/>
+</fs>
+</a><node xml:id="iula-n318">
+<link targets="seg-r338"/>
+</node>
+ <a label="TOK" ref="iula-n318" as="xces">
+	<fs>
+		<f name="word" value="had"/>
+		<f name="lemma" value="have"/>
+		<f name="postag" value="V6F6A66"/>
+</fs>
+</a><node xml:id="iula-n319">
+<link targets="seg-r339"/>
+</node>
+ <a label="TOK" ref="iula-n319" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n320">
+<link targets="seg-r340"/>
+</node>
+ <a label="TOK" ref="iula-n320" as="xces">
+	<fs>
+		<f name="word" value="workforce"/>
+		<f name="lemma" value="workforce"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n321">
+<link targets="seg-r341"/>
+</node>
+ <a label="TOK" ref="iula-n321" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n322">
+<link targets="seg-r342"/>
+</node>
+ <a label="TOK" ref="iula-n322" as="xces">
+	<fs>
+		<f name="word" value="over"/>
+		<f name="lemma" value="over"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n323">
+<link targets="seg-r343 seg-r344 seg-r345"/>
+</node>
+ <a label="TOK" ref="iula-n323" as="xces">
+	<fs>
+		<f name="word" value="3,500"/>
+		<f name="lemma" value="3,500"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n324">
+<link targets="seg-r346"/>
+</node>
+ <a label="TOK" ref="iula-n324" as="xces">
+	<fs>
+		<f name="word" value="employees"/>
+		<f name="lemma" value="employee"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n325">
+<link targets="seg-r347"/>
+</node>
+ <a label="DLD" ref="iula-n325" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n326">
+<link targets="seg-r348"/>
+</node>
+ <a label="TOK" ref="iula-n326" as="xces">
+	<fs>
+		<f name="word" value="Regarding"/>
+		<f name="lemma" value="regarding"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n327">
+<link targets="seg-r349"/>
+</node>
+ <a label="TOK" ref="iula-n327" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n328">
+<link targets="seg-r350"/>
+</node>
+ <a label="TOK" ref="iula-n328" as="xces">
+	<fs>
+		<f name="word" value="financial"/>
+		<f name="lemma" value="financial"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n329">
+<link targets="seg-r351"/>
+</node>
+ <a label="TOK" ref="iula-n329" as="xces">
+	<fs>
+		<f name="word" value="group"/>
+		<f name="lemma" value="group"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n330">
+<link targets="seg-r352"/>
+</node>
+ <a label="TOK" ref="iula-n330" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n331">
+<link targets="seg-r353"/>
+</node>
+ <a label="TOK" ref="iula-n331" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n332">
+<link targets="seg-r354 seg-r355 seg-r356"/>
+</node>
+ <a label="TOK" ref="iula-n332" as="xces">
+	<fs>
+		<f name="word" value="Caixa de Catalunya"/>
+		<f name="lemma" value="Caixa_de_Catalunya"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n333">
+<link targets="seg-r357"/>
+</node>
+ <a label="DLE" ref="iula-n333" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n334">
+<link targets="seg-r358"/>
+</node>
+ <a label="TOK" ref="iula-n334" as="xces">
+	<fs>
+		<f name="word" value="created"/>
+		<f name="lemma" value="create"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n335">
+<link targets="seg-r359"/>
+</node>
+ <a label="TOK" ref="iula-n335" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n336">
+<link targets="seg-r360"/>
+</node>
+ <a label="TOK" ref="iula-n336" as="xces">
+	<fs>
+		<f name="word" value="offer"/>
+		<f name="lemma" value="offer"/>
+		<f name="postag" value="VMI----"/>
+</fs>
+</a><node xml:id="iula-n337">
+<link targets="seg-r361"/>
+</node>
+ <a label="TOK" ref="iula-n337" as="xces">
+	<fs>
+		<f name="word" value="its"/>
+		<f name="lemma" value="its"/>
+		<f name="postag" value="APS3N6"/>
+</fs>
+</a><node xml:id="iula-n338">
+<link targets="seg-r362"/>
+</node>
+ <a label="TOK" ref="iula-n338" as="xces">
+	<fs>
+		<f name="word" value="clients"/>
+		<f name="lemma" value="client"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n339">
+<link targets="seg-r363"/>
+</node>
+ <a label="TOK" ref="iula-n339" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n340">
+<link targets="seg-r364"/>
+</node>
+ <a label="TOK" ref="iula-n340" as="xces">
+	<fs>
+		<f name="word" value="bigger"/>
+		<f name="lemma" value="big"/>
+		<f name="postag" value="JC"/>
+</fs>
+</a><node xml:id="iula-n341">
+<link targets="seg-r365"/>
+</node>
+ <a label="TOK" ref="iula-n341" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n342">
+<link targets="seg-r366"/>
+</node>
+ <a label="TOK" ref="iula-n342" as="xces">
+	<fs>
+		<f name="word" value="better"/>
+		<f name="lemma" value="better"/>
+		<f name="postag" value="DDC7"/>
+</fs>
+</a><node xml:id="iula-n343">
+<link targets="seg-r367"/>
+</node>
+ <a label="TOK" ref="iula-n343" as="xces">
+	<fs>
+		<f name="word" value="integrated"/>
+		<f name="lemma" value="integrate"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n344">
+<link targets="seg-r368"/>
+</node>
+ <a label="TOK" ref="iula-n344" as="xces">
+	<fs>
+		<f name="word" value="offer"/>
+		<f name="lemma" value="offer"/>
+		<f name="postag" value="VMF6R66"/>
+</fs>
+</a><node xml:id="iula-n345">
+<link targets="seg-r369"/>
+</node>
+ <a label="TOK" ref="iula-n345" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n346">
+<link targets="seg-r370"/>
+</node>
+ <a label="TOK" ref="iula-n346" as="xces">
+	<fs>
+		<f name="word" value="financial"/>
+		<f name="lemma" value="financial"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n347">
+<link targets="seg-r371"/>
+</node>
+ <a label="TOK" ref="iula-n347" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n348">
+<link targets="seg-r372"/>
+</node>
+ <a label="TOK" ref="iula-n348" as="xces">
+	<fs>
+		<f name="word" value="parafinancial"/>
+		<f name="lemma" value="parafinancial"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n349">
+<link targets="seg-r373"/>
+</node>
+ <a label="TOK" ref="iula-n349" as="xces">
+	<fs>
+		<f name="word" value="products"/>
+		<f name="lemma" value="product"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n350">
+<link targets="seg-r374"/>
+</node>
+ <a label="TOK" ref="iula-n350" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n351">
+<link targets="seg-r375"/>
+</node>
+ <a label="TOK" ref="iula-n351" as="xces">
+	<fs>
+		<f name="word" value="services"/>
+		<f name="lemma" value="service"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n352">
+<link targets="seg-r376"/>
+</node>
+ <a label="DLD" ref="iula-n352" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n353">
+<link targets="seg-r377"/>
+</node>
+ <a label="TOK" ref="iula-n353" as="xces">
+	<fs>
+		<f name="word" value="it"/>
+		<f name="lemma" value="it"/>
+		<f name="postag" value="RPS3N6"/>
+</fs>
+</a><node xml:id="iula-n354">
+<link targets="seg-r378"/>
+</node>
+ <a label="TOK" ref="iula-n354" as="xces">
+	<fs>
+		<f name="word" value="is"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6FDRS3"/>
+</fs>
+</a><node xml:id="iula-n355">
+<link targets="seg-r379"/>
+</node>
+ <a label="TOK" ref="iula-n355" as="xces">
+	<fs>
+		<f name="word" value="comprised"/>
+		<f name="lemma" value="comprise"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n356">
+<link targets="seg-r380"/>
+</node>
+ <a label="DLD" ref="iula-n356" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n357">
+<link targets="seg-r381"/>
+</node>
+ <a label="TOK" ref="iula-n357" as="xces">
+	<fs>
+		<f name="word" value="together"/>
+		<f name="lemma" value="together"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n358">
+<link targets="seg-r382"/>
+</node>
+ <a label="TOK" ref="iula-n358" as="xces">
+	<fs>
+		<f name="word" value="with"/>
+		<f name="lemma" value="with"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n359">
+<link targets="seg-r383"/>
+</node>
+ <a label="TOK" ref="iula-n359" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n360">
+<link targets="seg-r384"/>
+</node>
+ <a label="TOK" ref="iula-n360" as="xces">
+	<fs>
+		<f name="word" value="Caixa"/>
+		<f name="lemma" value="Caixa"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n361">
+<link targets="seg-r385"/>
+</node>
+ <a label="DLE" ref="iula-n361" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n362">
+<link targets="seg-r386"/>
+</node>
+ <a label="TOK" ref="iula-n362" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n363">
+<link targets="seg-r387"/>
+</node>
+ <a label="TOK" ref="iula-n363" as="xces">
+	<fs>
+		<f name="word" value="two"/>
+		<f name="lemma" value="two"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n364">
+<link targets="seg-r388"/>
+</node>
+ <a label="TOK" ref="iula-n364" as="xces">
+	<fs>
+		<f name="word" value="banks"/>
+		<f name="lemma" value="bank"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n365">
+<link targets="seg-r389"/>
+</node>
+ <a label="DLE" ref="iula-n365" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n366">
+<link targets="seg-r390 seg-r391 seg-r392 seg-r393"/>
+</node>
+ <a label="TOK" ref="iula-n366" as="xces">
+	<fs>
+		<f name="word" value="Banco de la Exportación"/>
+		<f name="lemma" value="Banco_de_la_Exportación"/>
+		<f name="postag" value="N46"/>
+		<f name="type" value="organization"/>
+</fs>
+</a><node xml:id="iula-n367">
+<link targets="seg-r394"/>
+</node>
+ <a label="DLE" ref="iula-n367" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n368">
+<link targets="seg-r395"/>
+</node>
+ <a label="TOK" ref="iula-n368" as="xces">
+	<fs>
+		<f name="word" value="with"/>
+		<f name="lemma" value="with"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n369">
+<link targets="seg-r396"/>
+</node>
+ <a label="TOK" ref="iula-n369" as="xces">
+	<fs>
+		<f name="word" value="head"/>
+		<f name="lemma" value="head"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n370">
+<link targets="seg-r397"/>
+</node>
+ <a label="TOK" ref="iula-n370" as="xces">
+	<fs>
+		<f name="word" value="offices"/>
+		<f name="lemma" value="office"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n371">
+<link targets="seg-r398"/>
+</node>
+ <a label="TOK" ref="iula-n371" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n372">
+<link targets="seg-r399"/>
+</node>
+ <a label="TOK" ref="iula-n372" as="xces">
+	<fs>
+		<f name="word" value="Valencia"/>
+		<f name="lemma" value="Valencia"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n373">
+<link targets="seg-r400"/>
+</node>
+ <a label="DLE" ref="iula-n373" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n374">
+<link targets="seg-r401"/>
+</node>
+ <a label="TOK" ref="iula-n374" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n375">
+<link targets="seg-r402"/>
+</node>
+ <a label="TOK" ref="iula-n375" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n376">
+<link targets="seg-r403 seg-r404 seg-r405 seg-r406"/>
+</node>
+ <a label="TOK" ref="iula-n376" as="xces">
+	<fs>
+		<f name="word" value="Banca Privada de Andorra"/>
+		<f name="lemma" value="Banca_Privada_de_Andorra"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n377">
+<link targets="seg-r407"/>
+</node>
+ <a label="DLE" ref="iula-n377" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n378">
+<link targets="seg-r408"/>
+</node>
+ <a label="DLD" ref="iula-n378" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n379">
+<link targets="seg-r409"/>
+</node>
+ <a label="TOK" ref="iula-n379" as="xces">
+	<fs>
+		<f name="word" value="an"/>
+		<f name="lemma" value="an"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n380">
+<link targets="seg-r410"/>
+</node>
+ <a label="TOK" ref="iula-n380" as="xces">
+	<fs>
+		<f name="word" value="investment"/>
+		<f name="lemma" value="investment"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n381">
+<link targets="seg-r411"/>
+</node>
+ <a label="TOK" ref="iula-n381" as="xces">
+	<fs>
+		<f name="word" value="funds"/>
+		<f name="lemma" value="fund"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n382">
+<link targets="seg-r412"/>
+</node>
+ <a label="TOK" ref="iula-n382" as="xces">
+	<fs>
+		<f name="word" value="manager"/>
+		<f name="lemma" value="manager"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n383">
+<link targets="seg-r413"/>
+</node>
+ <a label="DLE" ref="iula-n383" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n384">
+<link targets="seg-r414 seg-r415 seg-r416"/>
+</node>
+ <a label="TOK" ref="iula-n384" as="xces">
+	<fs>
+		<f name="word" value="Caixa Catalunya Gestió"/>
+		<f name="lemma" value="Caixa_Catalunya_Gestió"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n385">
+<link targets="seg-r417"/>
+</node>
+ <a label="DLE" ref="iula-n385" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n386">
+<link targets="seg-r418"/>
+</node>
+ <a label="DLD" ref="iula-n386" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n387">
+<link targets="seg-r419"/>
+</node>
+ <a label="TOK" ref="iula-n387" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n388">
+<link targets="seg-r420"/>
+</node>
+ <a label="TOK" ref="iula-n388" as="xces">
+	<fs>
+		<f name="word" value="pension"/>
+		<f name="lemma" value="pension"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n389">
+<link targets="seg-r421"/>
+</node>
+ <a label="TOK" ref="iula-n389" as="xces">
+	<fs>
+		<f name="word" value="schemes"/>
+		<f name="lemma" value="scheme"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n390">
+<link targets="seg-r422"/>
+</node>
+ <a label="TOK" ref="iula-n390" as="xces">
+	<fs>
+		<f name="word" value="manager"/>
+		<f name="lemma" value="manager"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n391">
+<link targets="seg-r423"/>
+</node>
+ <a label="DLE" ref="iula-n391" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n392">
+<link targets="seg-r424"/>
+</node>
+ <a label="TOK" ref="iula-n392" as="xces">
+	<fs>
+		<f name="word" value="Gescat"/>
+		<f name="lemma" value="Gescat"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n393">
+<link targets="seg-r425"/>
+</node>
+ <a label="DLE" ref="iula-n393" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n394">
+<link targets="seg-r426"/>
+</node>
+ <a label="DLD" ref="iula-n394" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n395">
+<link targets="seg-r427"/>
+</node>
+ <a label="TOK" ref="iula-n395" as="xces">
+	<fs>
+		<f name="word" value="an"/>
+		<f name="lemma" value="an"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n396">
+<link targets="seg-r428"/>
+</node>
+ <a label="TOK" ref="iula-n396" as="xces">
+	<fs>
+		<f name="word" value="insurance"/>
+		<f name="lemma" value="insurance"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n397">
+<link targets="seg-r429"/>
+</node>
+ <a label="TOK" ref="iula-n397" as="xces">
+	<fs>
+		<f name="word" value="holding"/>
+		<f name="lemma" value="hold"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n398">
+<link targets="seg-r430"/>
+</node>
+ <a label="TOK" ref="iula-n398" as="xces">
+	<fs>
+		<f name="word" value="made"/>
+		<f name="lemma" value="make"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n399">
+<link targets="seg-r431"/>
+</node>
+ <a label="TOK" ref="iula-n399" as="xces">
+	<fs>
+		<f name="word" value="up"/>
+		<f name="lemma" value="up"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n400">
+<link targets="seg-r432"/>
+</node>
+ <a label="TOK" ref="iula-n400" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n401">
+<link targets="seg-r433"/>
+</node>
+ <a label="TOK" ref="iula-n401" as="xces">
+	<fs>
+		<f name="word" value="three"/>
+		<f name="lemma" value="three"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n402">
+<link targets="seg-r434"/>
+</node>
+ <a label="TOK" ref="iula-n402" as="xces">
+	<fs>
+		<f name="word" value="companies"/>
+		<f name="lemma" value="company"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n403">
+<link targets="seg-r435"/>
+</node>
+ <a label="DLE" ref="iula-n403" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n404">
+<link targets="seg-r436 seg-r437"/>
+</node>
+ <a label="TOK" ref="iula-n404" as="xces">
+	<fs>
+		<f name="word" value="Multinacional Aseguradora"/>
+		<f name="lemma" value="Multinacional_Aseguradora"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n405">
+<link targets="seg-r438"/>
+</node>
+ <a label="DLE" ref="iula-n405" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n406">
+<link targets="seg-r439 seg-r440 seg-r441"/>
+</node>
+ <a label="TOK" ref="iula-n406" as="xces">
+	<fs>
+		<f name="word" value="Ascat-Vida"/>
+		<f name="lemma" value="Ascat-Vida"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n407">
+<link targets="seg-r442"/>
+</node>
+ <a label="TOK" ref="iula-n407" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n408">
+<link targets="seg-r443 seg-r444 seg-r445"/>
+</node>
+ <a label="TOK" ref="iula-n408" as="xces">
+	<fs>
+		<f name="word" value="Ascat-Previsión"/>
+		<f name="lemma" value="Ascat-Previsión"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n409">
+<link targets="seg-r446"/>
+</node>
+ <a label="DLE" ref="iula-n409" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n410">
+<link targets="seg-r447"/>
+</node>
+ <a label="DLD" ref="iula-n410" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n411">
+<link targets="seg-r448"/>
+</node>
+ <a label="TOK" ref="iula-n411" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n412">
+<link targets="seg-r449"/>
+</node>
+ <a label="TOK" ref="iula-n412" as="xces">
+	<fs>
+		<f name="word" value="portfolio"/>
+		<f name="lemma" value="portfolio"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n413">
+<link targets="seg-r450"/>
+</node>
+ <a label="TOK" ref="iula-n413" as="xces">
+	<fs>
+		<f name="word" value="company"/>
+		<f name="lemma" value="company"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n414">
+<link targets="seg-r451"/>
+</node>
+ <a label="DLE" ref="iula-n414" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n415">
+<link targets="seg-r452"/>
+</node>
+ <a label="TOK" ref="iula-n415" as="xces">
+	<fs>
+		<f name="word" value="Invercartera"/>
+		<f name="lemma" value="Invercartera"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n416">
+<link targets="seg-r453"/>
+</node>
+ <a label="DLE" ref="iula-n416" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n417">
+<link targets="seg-r454"/>
+</node>
+ <a label="DLD" ref="iula-n417" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n418">
+<link targets="seg-r455"/>
+</node>
+ <a label="TOK" ref="iula-n418" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n419">
+<link targets="seg-r456"/>
+</node>
+ <a label="TOK" ref="iula-n419" as="xces">
+	<fs>
+		<f name="word" value="leasing"/>
+		<f name="lemma" value="leasing"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n420">
+<link targets="seg-r457"/>
+</node>
+ <a label="TOK" ref="iula-n420" as="xces">
+	<fs>
+		<f name="word" value="company"/>
+		<f name="lemma" value="company"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n421">
+<link targets="seg-r458"/>
+</node>
+ <a label="DLE" ref="iula-n421" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n422">
+<link targets="seg-r459"/>
+</node>
+ <a label="TOK" ref="iula-n422" as="xces">
+	<fs>
+		<f name="word" value="Liscat"/>
+		<f name="lemma" value="Liscat"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n423">
+<link targets="seg-r460"/>
+</node>
+ <a label="DLE" ref="iula-n423" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n424">
+<link targets="seg-r461"/>
+</node>
+ <a label="DLD" ref="iula-n424" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n425">
+<link targets="seg-r462"/>
+</node>
+ <a label="TOK" ref="iula-n425" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n426">
+<link targets="seg-r463"/>
+</node>
+ <a label="TOK" ref="iula-n426" as="xces">
+	<fs>
+		<f name="word" value="factoring"/>
+		<f name="lemma" value="factor"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n427">
+<link targets="seg-r464"/>
+</node>
+ <a label="TOK" ref="iula-n427" as="xces">
+	<fs>
+		<f name="word" value="company"/>
+		<f name="lemma" value="company"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n428">
+<link targets="seg-r465"/>
+</node>
+ <a label="DLE" ref="iula-n428" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n429">
+<link targets="seg-r466"/>
+</node>
+ <a label="TOK" ref="iula-n429" as="xces">
+	<fs>
+		<f name="word" value="Factorcat"/>
+		<f name="lemma" value="Factorcat"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n430">
+<link targets="seg-r467"/>
+</node>
+ <a label="DLE" ref="iula-n430" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n431">
+<link targets="seg-r468"/>
+</node>
+ <a label="DLD" ref="iula-n431" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n432">
+<link targets="seg-r469"/>
+</node>
+ <a label="TOK" ref="iula-n432" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n433">
+<link targets="seg-r470"/>
+</node>
+ <a label="TOK" ref="iula-n433" as="xces">
+	<fs>
+		<f name="word" value="securities"/>
+		<f name="lemma" value="security"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n434">
+<link targets="seg-r471"/>
+</node>
+ <a label="TOK" ref="iula-n434" as="xces">
+	<fs>
+		<f name="word" value="agency"/>
+		<f name="lemma" value="agency"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n435">
+<link targets="seg-r472"/>
+</node>
+ <a label="DLE" ref="iula-n435" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n436">
+<link targets="seg-r473"/>
+</node>
+ <a label="TOK" ref="iula-n436" as="xces">
+	<fs>
+		<f name="word" value="Valorcat"/>
+		<f name="lemma" value="Valorcat"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n437">
+<link targets="seg-r474"/>
+</node>
+ <a label="DLE" ref="iula-n437" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n438">
+<link targets="seg-r475"/>
+</node>
+ <a label="DLD" ref="iula-n438" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n439">
+<link targets="seg-r476"/>
+</node>
+ <a label="TOK" ref="iula-n439" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n440">
+<link targets="seg-r477"/>
+</node>
+ <a label="TOK" ref="iula-n440" as="xces">
+	<fs>
+		<f name="word" value="general"/>
+		<f name="lemma" value="general"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n441">
+<link targets="seg-r478"/>
+</node>
+ <a label="TOK" ref="iula-n441" as="xces">
+	<fs>
+		<f name="word" value="services"/>
+		<f name="lemma" value="service"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n442">
+<link targets="seg-r479"/>
+</node>
+ <a label="TOK" ref="iula-n442" as="xces">
+	<fs>
+		<f name="word" value="company"/>
+		<f name="lemma" value="company"/>
+		<f name="postag" value="VMF6R66"/>
+</fs>
+</a><node xml:id="iula-n443">
+<link targets="seg-r480"/>
+</node>
+ <a label="DLE" ref="iula-n443" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n444">
+<link targets="seg-r481"/>
+</node>
+ <a label="TOK" ref="iula-n444" as="xces">
+	<fs>
+		<f name="word" value="Servicat"/>
+		<f name="lemma" value="Servicat"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n445">
+<link targets="seg-r482"/>
+</node>
+ <a label="DLE" ref="iula-n445" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n446">
+<link targets="seg-r483"/>
+</node>
+ <a label="DLD" ref="iula-n446" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n447">
+<link targets="seg-r484"/>
+</node>
+ <a label="TOK" ref="iula-n447" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n448">
+<link targets="seg-r485"/>
+</node>
+ <a label="TOK" ref="iula-n448" as="xces">
+	<fs>
+		<f name="word" value="security"/>
+		<f name="lemma" value="security"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n449">
+<link targets="seg-r486"/>
+</node>
+ <a label="TOK" ref="iula-n449" as="xces">
+	<fs>
+		<f name="word" value="company"/>
+		<f name="lemma" value="company"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n450">
+<link targets="seg-r487"/>
+</node>
+ <a label="DLE" ref="iula-n450" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n451">
+<link targets="seg-r488"/>
+</node>
+ <a label="TOK" ref="iula-n451" as="xces">
+	<fs>
+		<f name="word" value="Segurcat"/>
+		<f name="lemma" value="Segurcat"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n452">
+<link targets="seg-r489"/>
+</node>
+ <a label="DLE" ref="iula-n452" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n453">
+<link targets="seg-r490"/>
+</node>
+ <a label="DLD" ref="iula-n453" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n454">
+<link targets="seg-r491"/>
+</node>
+ <a label="TOK" ref="iula-n454" as="xces">
+	<fs>
+		<f name="word" value="two"/>
+		<f name="lemma" value="two"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n455">
+<link targets="seg-r492"/>
+</node>
+ <a label="TOK" ref="iula-n455" as="xces">
+	<fs>
+		<f name="word" value="real"/>
+		<f name="lemma" value="real"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n456">
+<link targets="seg-r493"/>
+</node>
+ <a label="DLI" ref="iula-n456" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n457">
+<link targets="seg-r494"/>
+</node>
+ <a label="TOK" ref="iula-n457" as="xces">
+	<fs>
+		<f name="word" value="estate"/>
+		<f name="lemma" value="estate"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n458">
+<link targets="seg-r495"/>
+</node>
+ <a label="TOK" ref="iula-n458" as="xces">
+	<fs>
+		<f name="word" value="development"/>
+		<f name="lemma" value="development"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n459">
+<link targets="seg-r496"/>
+</node>
+ <a label="TOK" ref="iula-n459" as="xces">
+	<fs>
+		<f name="word" value="companies"/>
+		<f name="lemma" value="company"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n460">
+<link targets="seg-r497"/>
+</node>
+ <a label="DLE" ref="iula-n460" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n461">
+<link targets="seg-r498"/>
+</node>
+ <a label="TOK" ref="iula-n461" as="xces">
+	<fs>
+		<f name="word" value="Procat"/>
+		<f name="lemma" value="Procat"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n462">
+<link targets="seg-r499"/>
+</node>
+ <a label="TOK" ref="iula-n462" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n463">
+<link targets="seg-r500"/>
+</node>
+ <a label="TOK" ref="iula-n463" as="xces">
+	<fs>
+		<f name="word" value="Procam"/>
+		<f name="lemma" value="Procam"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n464">
+<link targets="seg-r501"/>
+</node>
+ <a label="DLE" ref="iula-n464" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n465">
+<link targets="seg-r502"/>
+</node>
+ <a label="TOK" ref="iula-n465" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n466">
+<link targets="seg-r503"/>
+</node>
+ <a label="TOK" ref="iula-n466" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n467">
+<link targets="seg-r504"/>
+</node>
+ <a label="TOK" ref="iula-n467" as="xces">
+	<fs>
+		<f name="word" value="commercial"/>
+		<f name="lemma" value="commercial"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n468">
+<link targets="seg-r505"/>
+</node>
+ <a label="TOK" ref="iula-n468" as="xces">
+	<fs>
+		<f name="word" value="distribution"/>
+		<f name="lemma" value="distribution"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n469">
+<link targets="seg-r506"/>
+</node>
+ <a label="TOK" ref="iula-n469" as="xces">
+	<fs>
+		<f name="word" value="company"/>
+		<f name="lemma" value="company"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n470">
+<link targets="seg-r507"/>
+</node>
+ <a label="DLE" ref="iula-n470" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n471">
+<link targets="seg-r508"/>
+</node>
+ <a label="TOK" ref="iula-n471" as="xces">
+	<fs>
+		<f name="word" value="Barnasud"/>
+		<f name="lemma" value="Barnasud"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n472">
+<link targets="seg-r509"/>
+</node>
+ <a label="DLE" ref="iula-n472" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n473">
+<link targets="seg-r510"/>
+</node>
+ <a label="DLD" ref="iula-n473" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n474">
+<link targets="seg-r511"/>
+</node>
+ <a label="TOK" ref="iula-n474" as="xces">
+	<fs>
+		<f name="word" value="Finally"/>
+		<f name="lemma" value="finally"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n475">
+<link targets="seg-r512"/>
+</node>
+ <a label="DLD" ref="iula-n475" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n476">
+<link targets="seg-r513"/>
+</node>
+ <a label="TOK" ref="iula-n476" as="xces">
+	<fs>
+		<f name="word" value="regarding"/>
+		<f name="lemma" value="regarding"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n477">
+<link targets="seg-r514"/>
+</node>
+ <a label="TOK" ref="iula-n477" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n478">
+<link targets="seg-r515"/>
+</node>
+ <a label="TOK" ref="iula-n478" as="xces">
+	<fs>
+		<f name="word" value="annual"/>
+		<f name="lemma" value="annual"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n479">
+<link targets="seg-r516"/>
+</node>
+ <a label="TOK" ref="iula-n479" as="xces">
+	<fs>
+		<f name="word" value="contribution"/>
+		<f name="lemma" value="contribution"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n480">
+<link targets="seg-r517"/>
+</node>
+ <a label="TOK" ref="iula-n480" as="xces">
+	<fs>
+		<f name="word" value="it"/>
+		<f name="lemma" value="it"/>
+		<f name="postag" value="RPS3N6"/>
+</fs>
+</a><node xml:id="iula-n481">
+<link targets="seg-r518"/>
+</node>
+ <a label="TOK" ref="iula-n481" as="xces">
+	<fs>
+		<f name="word" value="makes"/>
+		<f name="lemma" value="make"/>
+		<f name="postag" value="VMFDRS3"/>
+</fs>
+</a><node xml:id="iula-n482">
+<link targets="seg-r519"/>
+</node>
+ <a label="TOK" ref="iula-n482" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n483">
+<link targets="seg-r520"/>
+</node>
+ <a label="TOK" ref="iula-n483" as="xces">
+	<fs>
+		<f name="word" value="culture"/>
+		<f name="lemma" value="culture"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n484">
+<link targets="seg-r521"/>
+</node>
+ <a label="DLD" ref="iula-n484" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n485">
+<link targets="seg-r522"/>
+</node>
+ <a label="TOK" ref="iula-n485" as="xces">
+	<fs>
+		<f name="word" value="teaching"/>
+		<f name="lemma" value="teach"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n486">
+<link targets="seg-r523"/>
+</node>
+ <a label="DLD" ref="iula-n486" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n487">
+<link targets="seg-r524"/>
+</node>
+ <a label="TOK" ref="iula-n487" as="xces">
+	<fs>
+		<f name="word" value="health"/>
+		<f name="lemma" value="health"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n488">
+<link targets="seg-r525"/>
+</node>
+ <a label="DLD" ref="iula-n488" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n489">
+<link targets="seg-r526"/>
+</node>
+ <a label="TOK" ref="iula-n489" as="xces">
+	<fs>
+		<f name="word" value="assistance"/>
+		<f name="lemma" value="assistance"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n490">
+<link targets="seg-r527"/>
+</node>
+ <a label="TOK" ref="iula-n490" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n491">
+<link targets="seg-r528"/>
+</node>
+ <a label="TOK" ref="iula-n491" as="xces">
+	<fs>
+		<f name="word" value="research"/>
+		<f name="lemma" value="research"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n492">
+<link targets="seg-r529"/>
+</node>
+ <a label="TOK" ref="iula-n492" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n493">
+<link targets="seg-r530"/>
+</node>
+ <a label="TOK" ref="iula-n493" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n494">
+<link targets="seg-r531"/>
+</node>
+ <a label="TOK" ref="iula-n494" as="xces">
+	<fs>
+		<f name="word" value="country"/>
+		<f name="lemma" value="country"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n495">
+<link targets="seg-r532"/>
+</node>
+ <a label="TOK" ref="iula-n495" as="xces">
+	<fs>
+		<f name="word" value="through"/>
+		<f name="lemma" value="through"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n496">
+<link targets="seg-r533"/>
+</node>
+ <a label="TOK" ref="iula-n496" as="xces">
+	<fs>
+		<f name="word" value="its"/>
+		<f name="lemma" value="its"/>
+		<f name="postag" value="APS3N6"/>
+</fs>
+</a><node xml:id="iula-n497">
+<link targets="seg-r534 seg-r535"/>
+</node>
+ <a label="TOK" ref="iula-n497" as="xces">
+	<fs>
+		<f name="word" value="Social Work"/>
+		<f name="lemma" value="Social_Work"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n498">
+<link targets="seg-r536"/>
+</node>
+ <a label="DLE" ref="iula-n498" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n499">
+<link targets="seg-r537"/>
+</node>
+ <a label="TOK" ref="iula-n499" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n500">
+<link targets="seg-r538"/>
+</node>
+ <a label="TOK" ref="iula-n500" as="xces">
+	<fs>
+		<f name="word" value="1994"/>
+		<f name="lemma" value="1994"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n501">
+<link targets="seg-r539"/>
+</node>
+ <a label="TOK" ref="iula-n501" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n502">
+<link targets="seg-r540 seg-r541 seg-r542"/>
+</node>
+ <a label="TOK" ref="iula-n502" as="xces">
+	<fs>
+		<f name="word" value="Caixa de Catalunya"/>
+		<f name="lemma" value="Caixa_de_Catalunya"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n503">
+<link targets="seg-r543"/>
+</node>
+ <a label="TOK" ref="iula-n503" as="xces">
+	<fs>
+		<f name="word" value="allocated"/>
+		<f name="lemma" value="allocate"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n504">
+<link targets="seg-r544"/>
+</node>
+ <a label="TOK" ref="iula-n504" as="xces">
+	<fs>
+		<f name="word" value="more"/>
+		<f name="lemma" value="more"/>
+		<f name="postag" value="DDC7"/>
+</fs>
+</a><node xml:id="iula-n505">
+<link targets="seg-r545"/>
+</node>
+ <a label="TOK" ref="iula-n505" as="xces">
+	<fs>
+		<f name="word" value="than"/>
+		<f name="lemma" value="than"/>
+		<f name="postag" value="CS"/>
+</fs>
+</a><node xml:id="iula-n506">
+<link targets="seg-r546 seg-r547 seg-r548 seg-r549"/>
+</node>
+ <a label="TOK" ref="iula-n506" as="xces">
+	<fs>
+		<f name="word" value="3,000 million"/>
+		<f name="lemma" value="3,000_million"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n507">
+<link targets="seg-r550"/>
+</node>
+ <a label="TOK" ref="iula-n507" as="xces">
+	<fs>
+		<f name="word" value="pesetas"/>
+		<f name="lemma" value="peseta"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n508">
+<link targets="seg-r551"/>
+</node>
+ <a label="TOK" ref="iula-n508" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n509">
+<link targets="seg-r552"/>
+</node>
+ <a label="TOK" ref="iula-n509" as="xces">
+	<fs>
+		<f name="word" value="maintaining"/>
+		<f name="lemma" value="maintain"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n510">
+<link targets="seg-r553"/>
+</node>
+ <a label="TOK" ref="iula-n510" as="xces">
+	<fs>
+		<f name="word" value="its"/>
+		<f name="lemma" value="its"/>
+		<f name="postag" value="APS3N6"/>
+</fs>
+</a><node xml:id="iula-n511">
+<link targets="seg-r554"/>
+</node>
+ <a label="TOK" ref="iula-n511" as="xces">
+	<fs>
+		<f name="word" value="important"/>
+		<f name="lemma" value="important"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n512">
+<link targets="seg-r555"/>
+</node>
+ <a label="TOK" ref="iula-n512" as="xces">
+	<fs>
+		<f name="word" value="network"/>
+		<f name="lemma" value="network"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n513">
+<link targets="seg-r556"/>
+</node>
+ <a label="TOK" ref="iula-n513" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n514">
+<link targets="seg-r557"/>
+</node>
+ <a label="TOK" ref="iula-n514" as="xces">
+	<fs>
+		<f name="word" value="over"/>
+		<f name="lemma" value="over"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n515">
+<link targets="seg-r558"/>
+</node>
+ <a label="TOK" ref="iula-n515" as="xces">
+	<fs>
+		<f name="word" value="120"/>
+		<f name="lemma" value="120"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n516">
+<link targets="seg-r559"/>
+</node>
+ <a label="TOK" ref="iula-n516" as="xces">
+	<fs>
+		<f name="word" value="social"/>
+		<f name="lemma" value="social"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n517">
+<link targets="seg-r560"/>
+</node>
+ <a label="TOK" ref="iula-n517" as="xces">
+	<fs>
+		<f name="word" value="utilities"/>
+		<f name="lemma" value="utility"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n518">
+<link targets="seg-r561"/>
+</node>
+ <a label="DLE" ref="iula-n518" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n519">
+<link targets="seg-r562"/>
+</node>
+ <a label="TOK" ref="iula-n519" as="xces">
+	<fs>
+		<f name="word" value="including"/>
+		<f name="lemma" value="including"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n520">
+<link targets="seg-r563"/>
+</node>
+ <a label="TOK" ref="iula-n520" as="xces">
+	<fs>
+		<f name="word" value="more"/>
+		<f name="lemma" value="more"/>
+		<f name="postag" value="DDC7"/>
+</fs>
+</a><node xml:id="iula-n521">
+<link targets="seg-r564"/>
+</node>
+ <a label="TOK" ref="iula-n521" as="xces">
+	<fs>
+		<f name="word" value="than"/>
+		<f name="lemma" value="than"/>
+		<f name="postag" value="CS"/>
+</fs>
+</a><node xml:id="iula-n522">
+<link targets="seg-r565"/>
+</node>
+ <a label="TOK" ref="iula-n522" as="xces">
+	<fs>
+		<f name="word" value="50"/>
+		<f name="lemma" value="50"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n523">
+<link targets="seg-r566"/>
+</node>
+ <a label="TOK" ref="iula-n523" as="xces">
+	<fs>
+		<f name="word" value="clubs"/>
+		<f name="lemma" value="club"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n524">
+<link targets="seg-r567"/>
+</node>
+ <a label="TOK" ref="iula-n524" as="xces">
+	<fs>
+		<f name="word" value="for"/>
+		<f name="lemma" value="for"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n525">
+<link targets="seg-r568"/>
+</node>
+ <a label="TOK" ref="iula-n525" as="xces">
+	<fs>
+		<f name="word" value="retired"/>
+		<f name="lemma" value="retire"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n526">
+<link targets="seg-r569"/>
+</node>
+ <a label="TOK" ref="iula-n526" as="xces">
+	<fs>
+		<f name="word" value="people"/>
+		<f name="lemma" value="people"/>
+		<f name="postag" value="N56"/>
+</fs>
+</a><node xml:id="iula-n527">
+<link targets="seg-r570"/>
+</node>
+ <a label="DLD" ref="iula-n527" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n528">
+<link targets="seg-r571"/>
+</node>
+ <a label="TOK" ref="iula-n528" as="xces">
+	<fs>
+		<f name="word" value="33"/>
+		<f name="lemma" value="33"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n529">
+<link targets="seg-r572"/>
+</node>
+ <a label="TOK" ref="iula-n529" as="xces">
+	<fs>
+		<f name="word" value="reading"/>
+		<f name="lemma" value="reading"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n530">
+<link targets="seg-r573"/>
+</node>
+ <a label="TOK" ref="iula-n530" as="xces">
+	<fs>
+		<f name="word" value="rooms"/>
+		<f name="lemma" value="room"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n531">
+<link targets="seg-r574"/>
+</node>
+ <a label="TOK" ref="iula-n531" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n532">
+<link targets="seg-r575"/>
+</node>
+ <a label="TOK" ref="iula-n532" as="xces">
+	<fs>
+		<f name="word" value="13"/>
+		<f name="lemma" value="13"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n533">
+<link targets="seg-r576"/>
+</node>
+ <a label="TOK" ref="iula-n533" as="xces">
+	<fs>
+		<f name="word" value="cultural"/>
+		<f name="lemma" value="cultural"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n534">
+<link targets="seg-r577"/>
+</node>
+ <a label="TOK" ref="iula-n534" as="xces">
+	<fs>
+		<f name="word" value="centres"/>
+		<f name="lemma" value="centre"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n535">
+<link targets="seg-r578"/>
+</node>
+ <a label="DLD" ref="iula-n535" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n536">
+<link targets="seg-r579"/>
+</node>
+ <a label="TOK" ref="iula-n536" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n537">
+<link targets="seg-r580"/>
+</node>
+ <a label="TOK" ref="iula-n537" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n538">
+<link targets="seg-r581"/>
+</node>
+ <a label="TOK" ref="iula-n538" as="xces">
+	<fs>
+		<f name="word" value="granting"/>
+		<f name="lemma" value="grant"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n539">
+<link targets="seg-r582"/>
+</node>
+ <a label="TOK" ref="iula-n539" as="xces">
+	<fs>
+		<f name="word" value="aids"/>
+		<f name="lemma" value="aids"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n540">
+<link targets="seg-r583"/>
+</node>
+ <a label="TOK" ref="iula-n540" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n541">
+<link targets="seg-r584"/>
+</node>
+ <a label="TOK" ref="iula-n541" as="xces">
+	<fs>
+		<f name="word" value="subsidies"/>
+		<f name="lemma" value="subsidy"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n542">
+<link targets="seg-r585"/>
+</node>
+ <a label="TOK" ref="iula-n542" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n543">
+<link targets="seg-r586"/>
+</node>
+ <a label="TOK" ref="iula-n543" as="xces">
+	<fs>
+		<f name="word" value="other"/>
+		<f name="lemma" value="other"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n544">
+<link targets="seg-r587"/>
+</node>
+ <a label="TOK" ref="iula-n544" as="xces">
+	<fs>
+		<f name="word" value="public"/>
+		<f name="lemma" value="public"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n545">
+<link targets="seg-r588"/>
+</node>
+ <a label="TOK" ref="iula-n545" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n546">
+<link targets="seg-r589"/>
+</node>
+ <a label="TOK" ref="iula-n546" as="xces">
+	<fs>
+		<f name="word" value="private"/>
+		<f name="lemma" value="private"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n547">
+<link targets="seg-r590"/>
+</node>
+ <a label="TOK" ref="iula-n547" as="xces">
+	<fs>
+		<f name="word" value="organisations"/>
+		<f name="lemma" value="organisation"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n548">
+<link targets="seg-r591"/>
+</node>
+ <a label="TOK" ref="iula-n548" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n549">
+<link targets="seg-r592"/>
+</node>
+ <a label="TOK" ref="iula-n549" as="xces">
+	<fs>
+		<f name="word" value="institutions"/>
+		<f name="lemma" value="institution"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n550">
+<link targets="seg-r593"/>
+</node>
+ <a label="TOK" ref="iula-n550" as="xces">
+	<fs>
+		<f name="word" value="for"/>
+		<f name="lemma" value="for"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n551">
+<link targets="seg-r594"/>
+</node>
+ <a label="TOK" ref="iula-n551" as="xces">
+	<fs>
+		<f name="word" value="conducting"/>
+		<f name="lemma" value="conduct"/>
+		<f name="postag" value="VMG----"/>
+</fs>
+</a><node xml:id="iula-n552">
+<link targets="seg-r595"/>
+</node>
+ <a label="TOK" ref="iula-n552" as="xces">
+	<fs>
+		<f name="word" value="cultural"/>
+		<f name="lemma" value="cultural"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n553">
+<link targets="seg-r596"/>
+</node>
+ <a label="DLD" ref="iula-n553" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n554">
+<link targets="seg-r597"/>
+</node>
+ <a label="TOK" ref="iula-n554" as="xces">
+	<fs>
+		<f name="word" value="educational"/>
+		<f name="lemma" value="educational"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n555">
+<link targets="seg-r598"/>
+</node>
+ <a label="TOK" ref="iula-n555" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n556">
+<link targets="seg-r599"/>
+</node>
+ <a label="TOK" ref="iula-n556" as="xces">
+	<fs>
+		<f name="word" value="health"/>
+		<f name="lemma" value="health"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n557">
+<link targets="seg-r600"/>
+</node>
+ <a label="TOK" ref="iula-n557" as="xces">
+	<fs>
+		<f name="word" value="activities"/>
+		<f name="lemma" value="activity"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n558">
+<link targets="seg-r601"/>
+</node>
+ <a label="TOK" ref="iula-n558" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n559">
+<link targets="seg-r602"/>
+</node>
+ <a label="TOK" ref="iula-n559" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n560">
+<link targets="seg-r603"/>
+</node>
+ <a label="TOK" ref="iula-n560" as="xces">
+	<fs>
+		<f name="word" value="markedly"/>
+		<f name="lemma" value="markedly"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n561">
+<link targets="seg-r604"/>
+</node>
+ <a label="TOK" ref="iula-n561" as="xces">
+	<fs>
+		<f name="word" value="social"/>
+		<f name="lemma" value="social"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n562">
+<link targets="seg-r605"/>
+</node>
+ <a label="TOK" ref="iula-n562" as="xces">
+	<fs>
+		<f name="word" value="character"/>
+		<f name="lemma" value="character"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n563">
+<link targets="seg-r606"/>
+</node>
+ <a label="DLD" ref="iula-n563" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n564">
+<link targets="seg-r607"/>
+</node>
+ <a label="TOK" ref="iula-n564" as="xces">
+	<fs>
+		<f name="word" value="Products"/>
+		<f name="lemma" value="product"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n565">
+<link targets="seg-r608"/>
+</node>
+ <a label="DLE" ref="iula-n565" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n566">
+<link targets="seg-r609"/>
+</node>
+ <a label="TOK" ref="iula-n566" as="xces">
+	<fs>
+		<f name="word" value="Savings"/>
+		<f name="lemma" value="Savings"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n567">
+<link targets="seg-r610"/>
+</node>
+ <a label="TOK" ref="iula-n567" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n568">
+<link targets="seg-r611"/>
+</node>
+ <a label="TOK" ref="iula-n568" as="xces">
+	<fs>
+		<f name="word" value="Investment"/>
+		<f name="lemma" value="Investment"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n569">
+<link targets="seg-r612"/>
+</node>
+ <a label="DLE" ref="iula-n569" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n570">
+<link targets="seg-r613"/>
+</node>
+ <a label="TOK" ref="iula-n570" as="xces">
+	<fs>
+		<f name="word" value="Investment"/>
+		<f name="lemma" value="Investment"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n571">
+<link targets="seg-r614"/>
+</node>
+ <a label="TOK" ref="iula-n571" as="xces">
+	<fs>
+		<f name="word" value="products"/>
+		<f name="lemma" value="product"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n572">
+<link targets="seg-r615"/>
+</node>
+ <a label="TOK" ref="iula-n572" as="xces">
+	<fs>
+		<f name="word" value="Investment"/>
+		<f name="lemma" value="investment"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n573">
+<link targets="seg-r616"/>
+</node>
+ <a label="TOK" ref="iula-n573" as="xces">
+	<fs>
+		<f name="word" value="funds"/>
+		<f name="lemma" value="fund"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n574">
+<link targets="seg-r617"/>
+</node>
+ <a label="TOK" ref="iula-n574" as="xces">
+	<fs>
+		<f name="word" value="These"/>
+		<f name="lemma" value="this"/>
+		<f name="postag" value="RDP3N-"/>
+</fs>
+</a><node xml:id="iula-n575">
+<link targets="seg-r618"/>
+</node>
+ <a label="TOK" ref="iula-n575" as="xces">
+	<fs>
+		<f name="word" value="are"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6FDR66"/>
+</fs>
+</a><node xml:id="iula-n576">
+<link targets="seg-r619"/>
+</node>
+ <a label="TOK" ref="iula-n576" as="xces">
+	<fs>
+		<f name="word" value="investment"/>
+		<f name="lemma" value="investment"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n577">
+<link targets="seg-r620"/>
+</node>
+ <a label="TOK" ref="iula-n577" as="xces">
+	<fs>
+		<f name="word" value="products"/>
+		<f name="lemma" value="product"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n578">
+<link targets="seg-r621"/>
+</node>
+ <a label="TOK" ref="iula-n578" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n579">
+<link targets="seg-r622"/>
+</node>
+ <a label="TOK" ref="iula-n579" as="xces">
+	<fs>
+		<f name="word" value="variable"/>
+		<f name="lemma" value="variable"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n580">
+<link targets="seg-r623"/>
+</node>
+ <a label="TOK" ref="iula-n580" as="xces">
+	<fs>
+		<f name="word" value="or"/>
+		<f name="lemma" value="or"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n581">
+<link targets="seg-r624"/>
+</node>
+ <a label="TOK" ref="iula-n581" as="xces">
+	<fs>
+		<f name="word" value="mixed"/>
+		<f name="lemma" value="mix"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n582">
+<link targets="seg-r625"/>
+</node>
+ <a label="TOK" ref="iula-n582" as="xces">
+	<fs>
+		<f name="word" value="fixed"/>
+		<f name="lemma" value="fix"/>
+		<f name="postag" value="VMF6A66"/>
+</fs>
+</a><node xml:id="iula-n583">
+<link targets="seg-r626"/>
+</node>
+ <a label="DLI" ref="iula-n583" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n584">
+<link targets="seg-r627"/>
+</node>
+ <a label="TOK" ref="iula-n584" as="xces">
+	<fs>
+		<f name="word" value="income"/>
+		<f name="lemma" value="income"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n585">
+<link targets="seg-r628"/>
+</node>
+ <a label="TOK" ref="iula-n585" as="xces">
+	<fs>
+		<f name="word" value="securities"/>
+		<f name="lemma" value="security"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n586">
+<link targets="seg-r629"/>
+</node>
+ <a label="TOK" ref="iula-n586" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n587">
+<link targets="seg-r630"/>
+</node>
+ <a label="TOK" ref="iula-n587" as="xces">
+	<fs>
+		<f name="word" value="stocks"/>
+		<f name="lemma" value="stock"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n588">
+<link targets="seg-r631"/>
+</node>
+ <a label="TOK" ref="iula-n588" as="xces">
+	<fs>
+		<f name="word" value="by"/>
+		<f name="lemma" value="by"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n589">
+<link targets="seg-r632"/>
+</node>
+ <a label="TOK" ref="iula-n589" as="xces">
+	<fs>
+		<f name="word" value="means"/>
+		<f name="lemma" value="mean"/>
+		<f name="postag" value="N56"/>
+</fs>
+</a><node xml:id="iula-n590">
+<link targets="seg-r633"/>
+</node>
+ <a label="TOK" ref="iula-n590" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n591">
+<link targets="seg-r634"/>
+</node>
+ <a label="TOK" ref="iula-n591" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n592">
+<link targets="seg-r635"/>
+</node>
+ <a label="TOK" ref="iula-n592" as="xces">
+	<fs>
+		<f name="word" value="subscription"/>
+		<f name="lemma" value="subscription"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n593">
+<link targets="seg-r636"/>
+</node>
+ <a label="TOK" ref="iula-n593" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n594">
+<link targets="seg-r637"/>
+</node>
+ <a label="TOK" ref="iula-n594" as="xces">
+	<fs>
+		<f name="word" value="shares"/>
+		<f name="lemma" value="share"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n595">
+<link targets="seg-r638"/>
+</node>
+ <a label="DLD" ref="iula-n595" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n596">
+<link targets="seg-r639"/>
+</node>
+ <a label="TOK" ref="iula-n596" as="xces">
+	<fs>
+		<f name="word" value="Liquidity"/>
+		<f name="lemma" value="liquidity"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n597">
+<link targets="seg-r640"/>
+</node>
+ <a label="TOK" ref="iula-n597" as="xces">
+	<fs>
+		<f name="word" value="is"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6FDRS3"/>
+</fs>
+</a><node xml:id="iula-n598">
+<link targets="seg-r641"/>
+</node>
+ <a label="TOK" ref="iula-n598" as="xces">
+	<fs>
+		<f name="word" value="immediate"/>
+		<f name="lemma" value="immediate"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n599">
+<link targets="seg-r642"/>
+</node>
+ <a label="TOK" ref="iula-n599" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n600">
+<link targets="seg-r643"/>
+</node>
+ <a label="TOK" ref="iula-n600" as="xces">
+	<fs>
+		<f name="word" value="profitability"/>
+		<f name="lemma" value="profitability"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n601">
+<link targets="seg-r644"/>
+</node>
+ <a label="TOK" ref="iula-n601" as="xces">
+	<fs>
+		<f name="word" value="depends"/>
+		<f name="lemma" value="depend"/>
+		<f name="postag" value="VMFDRS3"/>
+</fs>
+</a><node xml:id="iula-n602">
+<link targets="seg-r645"/>
+</node>
+ <a label="TOK" ref="iula-n602" as="xces">
+	<fs>
+		<f name="word" value="on"/>
+		<f name="lemma" value="on"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n603">
+<link targets="seg-r646"/>
+</node>
+ <a label="TOK" ref="iula-n603" as="xces">
+	<fs>
+		<f name="word" value="risk"/>
+		<f name="lemma" value="risk"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n604">
+<link targets="seg-r647"/>
+</node>
+ <a label="DLD" ref="iula-n604" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n605">
+<link targets="seg-r648"/>
+</node>
+ <a label="TOK" ref="iula-n605" as="xces">
+	<fs>
+		<f name="word" value="The"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n606">
+<link targets="seg-r649"/>
+</node>
+ <a label="TOK" ref="iula-n606" as="xces">
+	<fs>
+		<f name="word" value="funds"/>
+		<f name="lemma" value="fund"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n607">
+<link targets="seg-r650"/>
+</node>
+ <a label="TOK" ref="iula-n607" as="xces">
+	<fs>
+		<f name="word" value="commercialised"/>
+		<f name="lemma" value="commercialise"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n608">
+<link targets="seg-r651"/>
+</node>
+ <a label="TOK" ref="iula-n608" as="xces">
+	<fs>
+		<f name="word" value="by"/>
+		<f name="lemma" value="by"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n609">
+<link targets="seg-r652"/>
+</node>
+ <a label="TOK" ref="iula-n609" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n610">
+<link targets="seg-r653 seg-r654 seg-r655"/>
+</node>
+ <a label="TOK" ref="iula-n610" as="xces">
+	<fs>
+		<f name="word" value="Caixa de Catalunya"/>
+		<f name="lemma" value="Caixa_de_Catalunya"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n611">
+<link targets="seg-r656"/>
+</node>
+ <a label="TOK" ref="iula-n611" as="xces">
+	<fs>
+		<f name="word" value="can"/>
+		<f name="lemma" value="can"/>
+		<f name="postag" value="VOFDR66"/>
+</fs>
+</a><node xml:id="iula-n612">
+<link targets="seg-r657"/>
+</node>
+ <a label="TOK" ref="iula-n612" as="xces">
+	<fs>
+		<f name="word" value="be"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="VMI----"/>
+</fs>
+</a><node xml:id="iula-n613">
+<link targets="seg-r658"/>
+</node>
+ <a label="TOK" ref="iula-n613" as="xces">
+	<fs>
+		<f name="word" value="either"/>
+		<f name="lemma" value="either"/>
+		<f name="postag" value="AG---6"/>
+</fs>
+</a><node xml:id="iula-n614">
+<link targets="seg-r659"/>
+</node>
+ <a label="TOK" ref="iula-n614" as="xces">
+	<fs>
+		<f name="word" value="Spanish"/>
+		<f name="lemma" value="spanish"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n615">
+<link targets="seg-r660"/>
+</node>
+ <a label="TOK" ref="iula-n615" as="xces">
+	<fs>
+		<f name="word" value="or"/>
+		<f name="lemma" value="or"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n616">
+<link targets="seg-r661"/>
+</node>
+ <a label="TOK" ref="iula-n616" as="xces">
+	<fs>
+		<f name="word" value="foreign"/>
+		<f name="lemma" value="foreign"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n617">
+<link targets="seg-r662"/>
+</node>
+ <a label="DLD" ref="iula-n617" as="xces">
+	<fs>
+		<f name="word" value=":"/>
+		<f name="lemma" value=":"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n618">
+<link targets="seg-r663 seg-r664 seg-r665"/>
+</node>
+ <a label="TOK" ref="iula-n618" as="xces">
+	<fs>
+		<f name="word" value="Spanish Investment Funds"/>
+		<f name="lemma" value="Spanish_Investment_Funds"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n619">
+<link targets="seg-r666"/>
+</node>
+ <a label="TOK" ref="iula-n619" as="xces">
+	<fs>
+		<f name="word" value="Foreign"/>
+		<f name="lemma" value="foreign"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n620">
+<link targets="seg-r667 seg-r668"/>
+</node>
+ <a label="TOK" ref="iula-n620" as="xces">
+	<fs>
+		<f name="word" value="Investment Funds"/>
+		<f name="lemma" value="Investment_Funds"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n621">
+<link targets="seg-r669"/>
+</node>
+ <a label="TOK" ref="iula-n621" as="xces">
+	<fs>
+		<f name="word" value="Investment"/>
+		<f name="lemma" value="investment"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n622">
+<link targets="seg-r670"/>
+</node>
+ <a label="TOK" ref="iula-n622" as="xces">
+	<fs>
+		<f name="word" value="for"/>
+		<f name="lemma" value="for"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n623">
+<link targets="seg-r671"/>
+</node>
+ <a label="TOK" ref="iula-n623" as="xces">
+	<fs>
+		<f name="word" value="2"/>
+		<f name="lemma" value="2"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n624">
+<link targets="seg-r672"/>
+</node>
+ <a label="TOK" ref="iula-n624" as="xces">
+	<fs>
+		<f name="word" value="years"/>
+		<f name="lemma" value="year"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n625">
+<link targets="seg-r673 seg-r674"/>
+</node>
+ <a label="TOK" ref="iula-n625" as="xces">
+	<fs>
+		<f name="word" value="DINER FIAMM"/>
+		<f name="lemma" value="DINER_FIAMM"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n626">
+<link targets="seg-r675"/>
+</node>
+ <a label="TOK" ref="iula-n626" as="xces">
+	<fs>
+		<f name="word" value="Investment"/>
+		<f name="lemma" value="investment"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n627">
+<link targets="seg-r676"/>
+</node>
+ <a label="TOK" ref="iula-n627" as="xces">
+	<fs>
+		<f name="word" value="for"/>
+		<f name="lemma" value="for"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n628">
+<link targets="seg-r677"/>
+</node>
+ <a label="TOK" ref="iula-n628" as="xces">
+	<fs>
+		<f name="word" value="2"/>
+		<f name="lemma" value="2"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n629">
+<link targets="seg-r678"/>
+</node>
+ <a label="TOK" ref="iula-n629" as="xces">
+	<fs>
+		<f name="word" value="years"/>
+		<f name="lemma" value="year"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n630">
+<link targets="seg-r679 seg-r680 seg-r681 seg-r682 seg-r683 seg-r684"/>
+</node>
+ <a label="TOK" ref="iula-n630" as="xces">
+	<fs>
+		<f name="word" value="FORECAST FIM GLOBAL FIM INTERNACIONAL FIM"/>
+		<f name="lemma" value="FORECAST_FIM_GLOBAL_FIM_INTERNACIONAL_FIM"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n631">
+<link targets="seg-r685"/>
+</node>
+ <a label="TOK" ref="iula-n631" as="xces">
+	<fs>
+		<f name="word" value="FONCLIQUET"/>
+		<f name="lemma" value="FONCLIQUET"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n632">
+<link targets="seg-r686"/>
+</node>
+ <a label="TOK" ref="iula-n632" as="xces">
+	<fs>
+		<f name="word" value="GT"/>
+		<f name="lemma" value="gt"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n633">
+<link targets="seg-r687"/>
+</node>
+ <a label="TOK" ref="iula-n633" as="xces">
+	<fs>
+		<f name="word" value="EUROPE"/>
+		<f name="lemma" value="EUROPE"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n634">
+<link targets="seg-r688"/>
+</node>
+ <a label="TOK" ref="iula-n634" as="xces">
+	<fs>
+		<f name="word" value="FUNDGT"/>
+		<f name="lemma" value="FUNDGT"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n635">
+<link targets="seg-r689"/>
+</node>
+ <a label="TOK" ref="iula-n635" as="xces">
+	<fs>
+		<f name="word" value="INVEST"/>
+		<f name="lemma" value="INVEST"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n636">
+<link targets="seg-r690"/>
+</node>
+ <a label="TOK" ref="iula-n636" as="xces">
+	<fs>
+		<f name="word" value="FUNDGT"/>
+		<f name="lemma" value="FUNDGT"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n637">
+<link targets="seg-r691"/>
+</node>
+ <a label="TOK" ref="iula-n637" as="xces">
+	<fs>
+		<f name="word" value="US"/>
+		<f name="lemma" value="US"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n638">
+<link targets="seg-r692"/>
+</node>
+ <a label="TOK" ref="iula-n638" as="xces">
+	<fs>
+		<f name="word" value="SMALL"/>
+		<f name="lemma" value="small"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n639">
+<link targets="seg-r693 seg-r694 seg-r695 seg-r696 seg-r697"/>
+</node>
+ <a label="TOK" ref="iula-n639" as="xces">
+	<fs>
+		<f name="word" value="C.F.GT"/>
+		<f name="lemma" value="C.F.GT"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n640">
+<link targets="seg-r698 seg-r699 seg-r700"/>
+</node>
+ <a label="TOK" ref="iula-n640" as="xces">
+	<fs>
+		<f name="word" value="DEUSTSC.FUND"/>
+		<f name="lemma" value="DEUSTSC.FUND"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n641">
+<link targets="seg-r701"/>
+</node>
+ <a label="TOK" ref="iula-n641" as="xces">
+	<fs>
+		<f name="word" value="Products"/>
+		<f name="lemma" value="product"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n642">
+<link targets="seg-r702"/>
+</node>
+ <a label="DLE" ref="iula-n642" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n643">
+<link targets="seg-r703"/>
+</node>
+ <a label="TOK" ref="iula-n643" as="xces">
+	<fs>
+		<f name="word" value="Savings"/>
+		<f name="lemma" value="Savings"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n644">
+<link targets="seg-r704"/>
+</node>
+ <a label="TOK" ref="iula-n644" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n645">
+<link targets="seg-r705"/>
+</node>
+ <a label="TOK" ref="iula-n645" as="xces">
+	<fs>
+		<f name="word" value="Investment"/>
+		<f name="lemma" value="Investment"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n646">
+<link targets="seg-r706"/>
+</node>
+ <a label="DLE" ref="iula-n646" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n647">
+<link targets="seg-r707"/>
+</node>
+ <a label="TOK" ref="iula-n647" as="xces">
+	<fs>
+		<f name="word" value="Products"/>
+		<f name="lemma" value="Products"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n648">
+<link targets="seg-r708"/>
+</node>
+ <a label="TOK" ref="iula-n648" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n649">
+<link targets="seg-r709"/>
+</node>
+ <a label="TOK" ref="iula-n649" as="xces">
+	<fs>
+		<f name="word" value="pesetas"/>
+		<f name="lemma" value="peseta"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n650">
+<link targets="seg-r710"/>
+</node>
+ <a label="TOK" ref="iula-n650" as="xces">
+	<fs>
+		<f name="word" value="Total"/>
+		<f name="lemma" value="total"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n651">
+<link targets="seg-r711"/>
+</node>
+ <a label="TOK" ref="iula-n651" as="xces">
+	<fs>
+		<f name="word" value="book"/>
+		<f name="lemma" value="book"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n652">
+<link targets="seg-r712"/>
+</node>
+ <a label="TOK" ref="iula-n652" as="xces">
+	<fs>
+		<f name="word" value="Current"/>
+		<f name="lemma" value="current"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n653">
+<link targets="seg-r713"/>
+</node>
+ <a label="TOK" ref="iula-n653" as="xces">
+	<fs>
+		<f name="word" value="account"/>
+		<f name="lemma" value="account"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n654">
+<link targets="seg-r714"/>
+</node>
+ <a label="TOK" ref="iula-n654" as="xces">
+	<fs>
+		<f name="word" value="with"/>
+		<f name="lemma" value="with"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n655">
+<link targets="seg-r715"/>
+</node>
+ <a label="TOK" ref="iula-n655" as="xces">
+	<fs>
+		<f name="word" value="chequebook"/>
+		<f name="lemma" value="chequebook"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n656">
+<link targets="seg-r716"/>
+</node>
+ <a label="TOK" ref="iula-n656" as="xces">
+	<fs>
+		<f name="word" value="with"/>
+		<f name="lemma" value="with"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n657">
+<link targets="seg-r717"/>
+</node>
+ <a label="TOK" ref="iula-n657" as="xces">
+	<fs>
+		<f name="word" value="numerous"/>
+		<f name="lemma" value="numerous"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n658">
+<link targets="seg-r718"/>
+</node>
+ <a label="TOK" ref="iula-n658" as="xces">
+	<fs>
+		<f name="word" value="advantages"/>
+		<f name="lemma" value="advantage"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n659">
+<link targets="seg-r719"/>
+</node>
+ <a label="TOK" ref="iula-n659" as="xces">
+	<fs>
+		<f name="word" value="for"/>
+		<f name="lemma" value="for"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n660">
+<link targets="seg-r720"/>
+</node>
+ <a label="TOK" ref="iula-n660" as="xces">
+	<fs>
+		<f name="word" value="holders"/>
+		<f name="lemma" value="holder"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n661">
+<link targets="seg-r721"/>
+</node>
+ <a label="DLD" ref="iula-n661" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n662">
+<link targets="seg-r722"/>
+</node>
+ <a label="-" ref="iula-n662" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value=""/>
+</fs>
+</a><node xml:id="iula-n663">
+<link targets="seg-r723"/>
+</node>
+ <a label="TOK" ref="iula-n663" as="xces">
+	<fs>
+		<f name="word" value="Besides"/>
+		<f name="lemma" value="besides"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n664">
+<link targets="seg-r724"/>
+</node>
+ <a label="TOK" ref="iula-n664" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n665">
+<link targets="seg-r725"/>
+</node>
+ <a label="TOK" ref="iula-n665" as="xces">
+	<fs>
+		<f name="word" value="conduct"/>
+		<f name="lemma" value="conduct"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n666">
+<link targets="seg-r726"/>
+</node>
+ <a label="TOK" ref="iula-n666" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n667">
+<link targets="seg-r727"/>
+</node>
+ <a label="TOK" ref="iula-n667" as="xces">
+	<fs>
+		<f name="word" value="normal"/>
+		<f name="lemma" value="normal"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n668">
+<link targets="seg-r728"/>
+</node>
+ <a label="TOK" ref="iula-n668" as="xces">
+	<fs>
+		<f name="word" value="current"/>
+		<f name="lemma" value="current"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n669">
+<link targets="seg-r729"/>
+</node>
+ <a label="TOK" ref="iula-n669" as="xces">
+	<fs>
+		<f name="word" value="account"/>
+		<f name="lemma" value="account"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n670">
+<link targets="seg-r730"/>
+</node>
+ <a label="TOK" ref="iula-n670" as="xces">
+	<fs>
+		<f name="word" value="operations"/>
+		<f name="lemma" value="operation"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n671">
+<link targets="seg-r731"/>
+</node>
+ <a label="DLD" ref="iula-n671" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n672">
+<link targets="seg-r732"/>
+</node>
+ <a label="TOK" ref="iula-n672" as="xces">
+	<fs>
+		<f name="word" value="if"/>
+		<f name="lemma" value="if"/>
+		<f name="postag" value="CS"/>
+</fs>
+</a><node xml:id="iula-n673">
+<link targets="seg-r733"/>
+</node>
+ <a label="TOK" ref="iula-n673" as="xces">
+	<fs>
+		<f name="word" value="determined"/>
+		<f name="lemma" value="determine"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n674">
+<link targets="seg-r734"/>
+</node>
+ <a label="TOK" ref="iula-n674" as="xces">
+	<fs>
+		<f name="word" value="balances"/>
+		<f name="lemma" value="balance"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n675">
+<link targets="seg-r735"/>
+</node>
+ <a label="TOK" ref="iula-n675" as="xces">
+	<fs>
+		<f name="word" value="are"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6FDR66"/>
+</fs>
+</a><node xml:id="iula-n676">
+<link targets="seg-r736"/>
+</node>
+ <a label="TOK" ref="iula-n676" as="xces">
+	<fs>
+		<f name="word" value="maintained"/>
+		<f name="lemma" value="maintain"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n677">
+<link targets="seg-r737"/>
+</node>
+ <a label="DLE" ref="iula-n677" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n678">
+<link targets="seg-r738 seg-r739"/>
+</node>
+ <a label="TOK" ref="iula-n678" as="xces">
+	<fs>
+		<f name="word" value="as of"/>
+		<f name="lemma" value="as_of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n679">
+<link targets="seg-r740 seg-r741 seg-r742"/>
+</node>
+ <a label="TOK" ref="iula-n679" as="xces">
+	<fs>
+		<f name="word" value="250,000"/>
+		<f name="lemma" value="250,000"/>
+		<f name="postag" value="X"/>
+</fs>
+</a><node xml:id="iula-n680">
+<link targets="seg-r743 seg-r744"/>
+</node>
+ <a label="TOK" ref="iula-n680" as="xces">
+	<fs>
+		<f name="word" value="Ptas."/>
+		<f name="lemma" value="Ptas."/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n681">
+<link targets="seg-r745"/>
+</node>
+ <a label="DLE" ref="iula-n681" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n682">
+<link targets="seg-r746"/>
+</node>
+ <a label="DLD" ref="iula-n682" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n683">
+<link targets="seg-r747"/>
+</node>
+ <a label="TOK" ref="iula-n683" as="xces">
+	<fs>
+		<f name="word" value="interests"/>
+		<f name="lemma" value="interest"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n684">
+<link targets="seg-r748"/>
+</node>
+ <a label="TOK" ref="iula-n684" as="xces">
+	<fs>
+		<f name="word" value="similar"/>
+		<f name="lemma" value="similar"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n685">
+<link targets="seg-r749"/>
+</node>
+ <a label="TOK" ref="iula-n685" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n686">
+<link targets="seg-r750"/>
+</node>
+ <a label="TOK" ref="iula-n686" as="xces">
+	<fs>
+		<f name="word" value="those"/>
+		<f name="lemma" value="that"/>
+		<f name="postag" value="RDP3N-"/>
+</fs>
+</a><node xml:id="iula-n687">
+<link targets="seg-r751"/>
+</node>
+ <a label="TOK" ref="iula-n687" as="xces">
+	<fs>
+		<f name="word" value="of"/>
+		<f name="lemma" value="of"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n688">
+<link targets="seg-r752"/>
+</node>
+ <a label="TOK" ref="iula-n688" as="xces">
+	<fs>
+		<f name="word" value="savings"/>
+		<f name="lemma" value="saving"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n689">
+<link targets="seg-r753"/>
+</node>
+ <a label="TOK" ref="iula-n689" as="xces">
+	<fs>
+		<f name="word" value="books"/>
+		<f name="lemma" value="book"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n690">
+<link targets="seg-r754"/>
+</node>
+ <a label="TOK" ref="iula-n690" as="xces">
+	<fs>
+		<f name="word" value="are"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6FDR66"/>
+</fs>
+</a><node xml:id="iula-n691">
+<link targets="seg-r755"/>
+</node>
+ <a label="TOK" ref="iula-n691" as="xces">
+	<fs>
+		<f name="word" value="received"/>
+		<f name="lemma" value="receive"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n692">
+<link targets="seg-r756"/>
+</node>
+ <a label="DLE" ref="iula-n692" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n693">
+<link targets="seg-r757"/>
+</node>
+ <a label="TOK" ref="iula-n693" as="xces">
+	<fs>
+		<f name="word" value="Standard"/>
+		<f name="lemma" value="Standard"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n694">
+<link targets="seg-r758"/>
+</node>
+ <a label="TOK" ref="iula-n694" as="xces">
+	<fs>
+		<f name="word" value="rate"/>
+		<f name="lemma" value="rate"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n695">
+<link targets="seg-r759"/>
+</node>
+ <a label="DLD" ref="iula-n695" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n696">
+<link targets="seg-r760"/>
+</node>
+ <a label="DLD" ref="iula-n696" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n697">
+<link targets="seg-r761"/>
+</node>
+ <a label="-" ref="iula-n697" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value=""/>
+</fs>
+</a><node xml:id="iula-n698">
+<link targets="seg-r762"/>
+</node>
+ <a label="TOK" ref="iula-n698" as="xces">
+	<fs>
+		<f name="word" value="Immediate"/>
+		<f name="lemma" value="immediate"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n699">
+<link targets="seg-r763"/>
+</node>
+ <a label="TOK" ref="iula-n699" as="xces">
+	<fs>
+		<f name="word" value="availability"/>
+		<f name="lemma" value="availability"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n700">
+<link targets="seg-r764"/>
+</node>
+ <a label="DLD" ref="iula-n700" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n701">
+<link targets="seg-r765"/>
+</node>
+ <a label="-" ref="iula-n701" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value=""/>
+</fs>
+</a><node xml:id="iula-n702">
+<link targets="seg-r766"/>
+</node>
+ <a label="TOK" ref="iula-n702" as="xces">
+	<fs>
+		<f name="word" value="Easy"/>
+		<f name="lemma" value="easy"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n703">
+<link targets="seg-r767"/>
+</node>
+ <a label="TOK" ref="iula-n703" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n704">
+<link targets="seg-r768"/>
+</node>
+ <a label="TOK" ref="iula-n704" as="xces">
+	<fs>
+		<f name="word" value="make"/>
+		<f name="lemma" value="make"/>
+		<f name="postag" value="VMI----"/>
+</fs>
+</a><node xml:id="iula-n705">
+<link targets="seg-r769"/>
+</node>
+ <a label="TOK" ref="iula-n705" as="xces">
+	<fs>
+		<f name="word" value="payments"/>
+		<f name="lemma" value="payment"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n706">
+<link targets="seg-r770"/>
+</node>
+ <a label="TOK" ref="iula-n706" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n707">
+<link targets="seg-r771"/>
+</node>
+ <a label="TOK" ref="iula-n707" as="xces">
+	<fs>
+		<f name="word" value="third"/>
+		<f name="lemma" value="third"/>
+		<f name="postag" value="MOS"/>
+</fs>
+</a><node xml:id="iula-n708">
+<link targets="seg-r772"/>
+</node>
+ <a label="TOK" ref="iula-n708" as="xces">
+	<fs>
+		<f name="word" value="parties"/>
+		<f name="lemma" value="party"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n709">
+<link targets="seg-r773"/>
+</node>
+ <a label="DLD" ref="iula-n709" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n710">
+<link targets="seg-r774"/>
+</node>
+ <a label="TOK" ref="iula-n710" as="xces">
+	<fs>
+		<f name="word" value="since"/>
+		<f name="lemma" value="since"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n711">
+<link targets="seg-r775"/>
+</node>
+ <a label="TOK" ref="iula-n711" as="xces">
+	<fs>
+		<f name="word" value="a"/>
+		<f name="lemma" value="a"/>
+		<f name="postag" value="AI---S"/>
+</fs>
+</a><node xml:id="iula-n712">
+<link targets="seg-r776"/>
+</node>
+ <a label="TOK" ref="iula-n712" as="xces">
+	<fs>
+		<f name="word" value="cheque"/>
+		<f name="lemma" value="cheque"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n713">
+<link targets="seg-r777"/>
+</node>
+ <a label="TOK" ref="iula-n713" as="xces">
+	<fs>
+		<f name="word" value="book"/>
+		<f name="lemma" value="book"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n714">
+<link targets="seg-r778"/>
+</node>
+ <a label="TOK" ref="iula-n714" as="xces">
+	<fs>
+		<f name="word" value="is"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6FDRS3"/>
+</fs>
+</a><node xml:id="iula-n715">
+<link targets="seg-r779"/>
+</node>
+ <a label="TOK" ref="iula-n715" as="xces">
+	<fs>
+		<f name="word" value="provided"/>
+		<f name="lemma" value="provide"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n716">
+<link targets="seg-r780"/>
+</node>
+ <a label="DLD" ref="iula-n716" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n717">
+<link targets="seg-r781"/>
+</node>
+ <a label="-" ref="iula-n717" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value=""/>
+</fs>
+</a><node xml:id="iula-n718">
+<link targets="seg-r782"/>
+</node>
+ <a label="TOK" ref="iula-n718" as="xces">
+	<fs>
+		<f name="word" value="Operations"/>
+		<f name="lemma" value="operation"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n719">
+<link targets="seg-r783"/>
+</node>
+ <a label="TOK" ref="iula-n719" as="xces">
+	<fs>
+		<f name="word" value="are"/>
+		<f name="lemma" value="be"/>
+		<f name="postag" value="V6FDR66"/>
+</fs>
+</a><node xml:id="iula-n720">
+<link targets="seg-r784"/>
+</node>
+ <a label="TOK" ref="iula-n720" as="xces">
+	<fs>
+		<f name="word" value="contained"/>
+		<f name="lemma" value="contain"/>
+		<f name="postag" value="VMC----"/>
+</fs>
+</a><node xml:id="iula-n721">
+<link targets="seg-r785"/>
+</node>
+ <a label="TOK" ref="iula-n721" as="xces">
+	<fs>
+		<f name="word" value="in"/>
+		<f name="lemma" value="in"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n722">
+<link targets="seg-r786"/>
+</node>
+ <a label="TOK" ref="iula-n722" as="xces">
+	<fs>
+		<f name="word" value="one"/>
+		<f name="lemma" value="one"/>
+		<f name="postag" value="MCS"/>
+</fs>
+</a><node xml:id="iula-n723">
+<link targets="seg-r787"/>
+</node>
+ <a label="TOK" ref="iula-n723" as="xces">
+	<fs>
+		<f name="word" value="pass"/>
+		<f name="lemma" value="pass"/>
+		<f name="postag" value="VMF6R66"/>
+</fs>
+</a><node xml:id="iula-n724">
+<link targets="seg-r788"/>
+</node>
+ <a label="DLI" ref="iula-n724" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n725">
+<link targets="seg-r789"/>
+</node>
+ <a label="TOK" ref="iula-n725" as="xces">
+	<fs>
+		<f name="word" value="book"/>
+		<f name="lemma" value="book"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n726">
+<link targets="seg-r790"/>
+</node>
+ <a label="TOK" ref="iula-n726" as="xces">
+	<fs>
+		<f name="word" value="which"/>
+		<f name="lemma" value="which"/>
+		<f name="postag" value="RW63N-"/>
+</fs>
+</a><node xml:id="iula-n727">
+<link targets="seg-r791"/>
+</node>
+ <a label="TOK" ref="iula-n727" as="xces">
+	<fs>
+		<f name="word" value="also"/>
+		<f name="lemma" value="also"/>
+		<f name="postag" value="DGA7"/>
+</fs>
+</a><node xml:id="iula-n728">
+<link targets="seg-r792"/>
+</node>
+ <a label="TOK" ref="iula-n728" as="xces">
+	<fs>
+		<f name="word" value="works"/>
+		<f name="lemma" value="work"/>
+		<f name="postag" value="VMFDRS3"/>
+</fs>
+</a><node xml:id="iula-n729">
+<link targets="seg-r793"/>
+</node>
+ <a label="TOK" ref="iula-n729" as="xces">
+	<fs>
+		<f name="word" value="on"/>
+		<f name="lemma" value="on"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n730">
+<link targets="seg-r794"/>
+</node>
+ <a label="TOK" ref="iula-n730" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n731">
+<link targets="seg-r795"/>
+</node>
+ <a label="TOK" ref="iula-n731" as="xces">
+	<fs>
+		<f name="word" value="automatic"/>
+		<f name="lemma" value="automatic"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n732">
+<link targets="seg-r796"/>
+</node>
+ <a label="TOK" ref="iula-n732" as="xces">
+	<fs>
+		<f name="word" value="teller"/>
+		<f name="lemma" value="teller"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n733">
+<link targets="seg-r797"/>
+</node>
+ <a label="TOK" ref="iula-n733" as="xces">
+	<fs>
+		<f name="word" value="network"/>
+		<f name="lemma" value="network"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n734">
+<link targets="seg-r798"/>
+</node>
+ <a label="DLD" ref="iula-n734" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n735">
+<link targets="seg-r799"/>
+</node>
+ <a label="-" ref="iula-n735" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value=""/>
+</fs>
+</a><node xml:id="iula-n736">
+<link targets="seg-r800"/>
+</node>
+ <a label="TOK" ref="iula-n736" as="xces">
+	<fs>
+		<f name="word" value="Access"/>
+		<f name="lemma" value="access"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n737">
+<link targets="seg-r801"/>
+</node>
+ <a label="TOK" ref="iula-n737" as="xces">
+	<fs>
+		<f name="word" value="to"/>
+		<f name="lemma" value="to"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n738">
+<link targets="seg-r802 seg-r803 seg-r804"/>
+</node>
+ <a label="TOK" ref="iula-n738" as="xces">
+	<fs>
+		<f name="word" value="Caixa de Catalunya"/>
+		<f name="lemma" value="Caixa_de_Catalunya"/>
+		<f name="postag" value="N46"/>
+</fs>
+</a><node xml:id="iula-n739">
+<link targets="seg-r805"/>
+</node>
+ <a label="TOK" ref="iula-n739" as="xces">
+	<fs>
+		<f name="word" value="services"/>
+		<f name="lemma" value="service"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n740">
+<link targets="seg-r806"/>
+</node>
+ <a label="DLD" ref="iula-n740" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n741">
+<link targets="seg-r807"/>
+</node>
+ <a label="-" ref="iula-n741" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value=""/>
+</fs>
+</a><node xml:id="iula-n742">
+<link targets="seg-r808"/>
+</node>
+ <a label="TOK" ref="iula-n742" as="xces">
+	<fs>
+		<f name="word" value="Discounts"/>
+		<f name="lemma" value="discount"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n743">
+<link targets="seg-r809"/>
+</node>
+ <a label="TOK" ref="iula-n743" as="xces">
+	<fs>
+		<f name="word" value="on"/>
+		<f name="lemma" value="on"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n744">
+<link targets="seg-r810"/>
+</node>
+ <a label="TOK" ref="iula-n744" as="xces">
+	<fs>
+		<f name="word" value="travel"/>
+		<f name="lemma" value="travel"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n745">
+<link targets="seg-r811"/>
+</node>
+ <a label="TOK" ref="iula-n745" as="xces">
+	<fs>
+		<f name="word" value="and"/>
+		<f name="lemma" value="and"/>
+		<f name="postag" value="CC"/>
+</fs>
+</a><node xml:id="iula-n746">
+<link targets="seg-r812"/>
+</node>
+ <a label="TOK" ref="iula-n746" as="xces">
+	<fs>
+		<f name="word" value="shows"/>
+		<f name="lemma" value="show"/>
+		<f name="postag" value="VMFDRS3"/>
+</fs>
+</a><node xml:id="iula-n747">
+<link targets="seg-r813"/>
+</node>
+ <a label="DLD" ref="iula-n747" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n748">
+<link targets="seg-r814"/>
+</node>
+ <a label="-" ref="iula-n748" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value=""/>
+</fs>
+</a><node xml:id="iula-n749">
+<link targets="seg-r815"/>
+</node>
+ <a label="TOK" ref="iula-n749" as="xces">
+	<fs>
+		<f name="word" value="Insurance"/>
+		<f name="lemma" value="insurance"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n750">
+<link targets="seg-r816"/>
+</node>
+ <a label="TOK" ref="iula-n750" as="xces">
+	<fs>
+		<f name="word" value="coverage"/>
+		<f name="lemma" value="coverage"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n751">
+<link targets="seg-r817"/>
+</node>
+ <a label="DLE" ref="iula-n751" as="xces">
+	<fs>
+		<f name="word" value="("/>
+		<f name="lemma" value="("/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n752">
+<link targets="seg-r818"/>
+</node>
+ <a label="TOK" ref="iula-n752" as="xces">
+	<fs>
+		<f name="word" value="emergency"/>
+		<f name="lemma" value="emergency"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n753">
+<link targets="seg-r819"/>
+</node>
+ <a label="TOK" ref="iula-n753" as="xces">
+	<fs>
+		<f name="word" value="home"/>
+		<f name="lemma" value="home"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n754">
+<link targets="seg-r820"/>
+</node>
+ <a label="TOK" ref="iula-n754" as="xces">
+	<fs>
+		<f name="word" value="service"/>
+		<f name="lemma" value="service"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n755">
+<link targets="seg-r821"/>
+</node>
+ <a label="DLD" ref="iula-n755" as="xces">
+	<fs>
+		<f name="word" value=","/>
+		<f name="lemma" value=","/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n756">
+<link targets="seg-r822"/>
+</node>
+ <a label="TOK" ref="iula-n756" as="xces">
+	<fs>
+		<f name="word" value="emergency"/>
+		<f name="lemma" value="emergency"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n757">
+<link targets="seg-r823"/>
+</node>
+ <a label="TOK" ref="iula-n757" as="xces">
+	<fs>
+		<f name="word" value="travel"/>
+		<f name="lemma" value="travel"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n758">
+<link targets="seg-r824"/>
+</node>
+ <a label="TOK" ref="iula-n758" as="xces">
+	<fs>
+		<f name="word" value="service"/>
+		<f name="lemma" value="service"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n759">
+<link targets="seg-r825"/>
+</node>
+ <a label="DLD" ref="iula-n759" as="xces">
+	<fs>
+		<f name="word" value=")"/>
+		<f name="lemma" value=")"/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n760">
+<link targets="seg-r826"/>
+</node>
+ <a label="TOK" ref="iula-n760" as="xces">
+	<fs>
+		<f name="word" value="for"/>
+		<f name="lemma" value="for"/>
+		<f name="postag" value="P"/>
+</fs>
+</a><node xml:id="iula-n761">
+<link targets="seg-r827"/>
+</node>
+ <a label="TOK" ref="iula-n761" as="xces">
+	<fs>
+		<f name="word" value="the"/>
+		<f name="lemma" value="the"/>
+		<f name="postag" value="AT---6"/>
+</fs>
+</a><node xml:id="iula-n762">
+<link targets="seg-r828"/>
+</node>
+ <a label="TOK" ref="iula-n762" as="xces">
+	<fs>
+		<f name="word" value="holders"/>
+		<f name="lemma" value="holder"/>
+		<f name="postag" value="N5P"/>
+</fs>
+</a><node xml:id="iula-n763">
+<link targets="seg-r829"/>
+</node>
+ <a label="DLD" ref="iula-n763" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a><node xml:id="iula-n764">
+<link targets="seg-r830"/>
+</node>
+ <a label="-" ref="iula-n764" as="xces">
+	<fs>
+		<f name="word" value="-"/>
+		<f name="lemma" value="-"/>
+		<f name="postag" value=""/>
+</fs>
+</a><node xml:id="iula-n765">
+<link targets="seg-r831"/>
+</node>
+ <a label="TOK" ref="iula-n765" as="xces">
+	<fs>
+		<f name="word" value="Immediate"/>
+		<f name="lemma" value="immediate"/>
+		<f name="postag" value="JA"/>
+</fs>
+</a><node xml:id="iula-n766">
+<link targets="seg-r832"/>
+</node>
+ <a label="TOK" ref="iula-n766" as="xces">
+	<fs>
+		<f name="word" value="credit"/>
+		<f name="lemma" value="credit"/>
+		<f name="postag" value="N5S"/>
+</fs>
+</a><node xml:id="iula-n767">
+<link targets="seg-r833"/>
+</node>
+ <a label="DLD" ref="iula-n767" as="xces">
+	<fs>
+		<f name="word" value="."/>
+		<f name="lemma" value="."/>
+		<f name="postag" value="DELIM"/>
+</fs>
+</a></graph>
